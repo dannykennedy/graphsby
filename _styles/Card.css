@@ -1,0 +1,159 @@
+/* CARD THINGS */
+
+/* Card */
+:root {
+    --box-shadow-initial: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    --main-background-color: #ededef;
+    --card-border-radius: 5px;
+    --animation-interval: 1s;
+    --card-header-size: 40px;
+    --card-padding-size: 15px;
+}
+
+.inner-card {
+    display: grid;
+    grid-template-rows: var(--card-header-size) 1fr auto;
+    transition: 0.2s;
+    width: 90%;
+    height: 100%;
+    align-self: center;
+    justify-self: center;
+}
+
+.card-body blockquote {
+    border-left: 5px solid #f1f1f1;
+    padding-left: 5px;
+}
+
+@media (min-width: 800px) {
+    .inner-card {
+        width: 95%;
+    }
+}
+
+.item-card {
+    display: grid;
+    align-content: center;
+    border: 1px solid #aaa;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.2s;
+    width: 100%;
+    border-radius: var(--card-border-radius);
+    font-family: "Open Sans", sans-serif;
+    font-weight: 100;
+    background-color: white;
+    animation-duration: 1s;
+    animation-name: slideLeft;
+    animation-fill-mode: forwards;
+    padding-bottom: var(--card-padding-size);
+    padding-top: var(--card-padding-size);
+    margin-bottom: 15px;
+}
+
+.item-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-header {
+    display: grid;
+    height: 40px;
+    grid-template-columns: 1fr 20px;
+}
+.card-user-info {
+    display: grid;
+    height: inherit;
+    grid-template-columns: 40px 1fr;
+}
+.card-body {
+    margin-top: 15px;
+}
+.card-footer {
+    /*    background-color: rgba(0,0,0,.03);*/
+}
+.card-options {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: var(--card-header-size);
+    width: 20px;
+}
+.card-avatar {
+    height: var(--card-header-size);
+}
+.card-header-text {
+    height: var(--card-header-size);
+    padding-left: 20px;
+    grid-template-rows: 50% 50%;
+}
+.card-date {
+}
+.card-author {
+}
+
+.avatar-photo {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.avatar-text {
+    color: white;
+}
+.more-icon {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.card-edit-area {
+    margin-top: 20px;
+}
+
+/*ANIMATIONS*/
+
+.slide-left {
+    animation-duration: var(--animation-interval);
+    animation-name: slideLeft;
+    animation-fill-mode: forwards;
+}
+
+.card-edit-area {
+    display: none;
+}
+
+.dropbtn {
+    background-color: transparent;
+}
+
+@keyframes slideLeft {
+    from {
+        margin-left: -1%;
+    }
+    to {
+        margin-top: 0px;
+    }
+}
+/*DELETE CARD*/
+.animate-delete {
+    animation-duration: var(--animation-interval);
+    animation-name: animateDelete;
+    animation-fill-mode: forwards;
+}
+@keyframes animateDelete {
+    from {
+    }
+    to {
+        height: 0px;
+    }
+}
+
+/* IMAGES */
+
+img {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

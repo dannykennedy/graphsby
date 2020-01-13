@@ -1,5 +1,6 @@
 ---
 layout: page
+type: organisation
 title: "Welcome to the Dream Network"
 description: "Welcome to our Engineering Blog"
 tags: [general]

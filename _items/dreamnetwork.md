@@ -1,13 +1,15 @@
 ---
 layout: page
-type: organisation
+type: page
+itemId: DBcy-HU_
+handle: @dreamnetwork
 title: "Welcome to the Dream Network"
-description: "Welcome to our Engineering Blog"
-tags: [general]
+shortDescription: "Welcome to the Dream Network"
+tags:
+  - hasTag: "hi"
+  - hasTag: "bye"
 date: 2015-03-24
-author: Josh Graham
-author-img: josh.png
-featured-img: josh.png
+featuredImg: dnj.png
 ---
 
 # Thank you, Dream Network supporter!

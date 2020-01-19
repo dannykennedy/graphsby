@@ -1,7 +1,27 @@
 #!/usr/local/bin/python3
 
 import markdown2, os, re, rdflib
-from rdflib import Namespace
+from rdflib import Namespace, Literal
+import yaml
+try:
+    from yaml import CLoader as Loader, CDumper as Dumper
+except ImportError:
+    from yaml import Loader, Dumper
+
+
+document = """
+  a: 1
+  b:
+    c: 3
+    d: 4
+"""
+
+
+pyyam = yaml.load(document, Loader=yaml.FullLoader);
+print(pyyam)
+
+print(yaml.dump(yaml.load(document, Loader=yaml.FullLoader)))
+
 
 # Namespace declarations
 # RDFlib uses square brackets to show prefix and literals
@@ -40,7 +60,6 @@ imageClass = dreamNS['Image']
 # Object properties
 hasTag = dreamNS['hasTag']
 hasAuthor = dreamNS['hasAuthor']
-featuredImage = dreamNS['featuredImage']
 
 # Datatype properties
 name = dreamNS['name']
@@ -48,6 +67,8 @@ description = dreamNS['description']
 itemId = dreamNS['itemId']
 handle = dreamNS['handle']
 dateCreated = dreamNS['dateCreated']
+layout = dreamNS['layout']
+featuredImage = dreamNS['featuredImage']
 
 # "object is a class in our ontology"
 classTriples = [
@@ -97,9 +118,15 @@ propertyTriples = [
 	(description, rdfsDomain, itemClass),
 	(description, rdfsRange, xsdString),
 
+	# Date created
 	(dateCreated, rdfType, owlDatatypeProperty),
 	(dateCreated, rdfsDomain, postClass),
 	(dateCreated, rdfsRange, xsdDateTime),
+
+	# Layout
+	(layout, rdfType, owlDatatypeProperty),
+	(layout, rdfsDomain, itemClass),
+	(layout, rdfsRange, xsdString),
 
 	# OBJECT PROPERTIES
 
@@ -110,57 +137,18 @@ propertyTriples = [
 
 	# Author
 	(hasAuthor, rdfType, owlObjectProperty),
-	(hasAuthor, rdfsDomain, personClass),
-	(hasAuthor, rdfsRange, postClass),
+	(hasAuthor, rdfsDomain, postClass),
+	(hasAuthor, rdfsRange, personClass),
 ]
 
 
 
-from rdflib import ConjunctiveGraph
-graph = ConjunctiveGraph()
-
-for triple in classTriples:
-	graph.add(triple)
-
-for triple in classHierarchyTriples:
-	graph.add(triple)
-
-for triple in propertyTriples:
-	graph.add(triple)
 
 
 
-################
-# OUTPUT GRAPH
-################
-
-graph.serialize(destination='dream-network9.ttl', format='turtle')
-
-
-
-
-
-
-
-
-
-################
-# INSTANCE DATA
-################
-
-# When you find an item, store it by its ID
-itemId = 'b3eae388-e8d2-4834-8284-a170aef489f3'
-newitem = dreamNS[itemId]
-
-
-# Add properties to the item
-
-
-
-
-
-
-
+#################
+# PARSE DOCUMENTS
+#################
 
 
 
@@ -174,9 +162,29 @@ for subdir, dirs, files in os.walk(rootdir):
 		filepath = os.path.join(subdir, file)
 		print(os.path.join(subdir, file))
 
+		reading_yaml = False
+		yaml_lines = []
 		with open(filepath,'r') as f:
 			for line in f:
-				lines.append(line)
+				if line == '---\n' and reading_yaml is False:
+					reading_yaml = True 
+					print("yay!")
+				elif line == '---\n' and reading_yaml is True:
+					reading_yaml = False
+
+				# if line
+
+				# Append line to either YAML or main file 
+				print(reading_yaml)
+				# print(line)
+				if reading_yaml: 
+					yaml_lines.append(line)
+				else: 
+					lines.append(line)
+
+
+
+				
 
 		htmlstring = markdown2.markdown("\n".join(line for line in lines))
 		writepath = os.getcwd() + '/_site/' + file
@@ -186,5 +194,47 @@ for subdir, dirs, files in os.walk(rootdir):
 		newfile = open(writepath, "w")
 		newfile.write(htmlstring)
 		newfile.close()
+
+################
+# INSTANCE DATA
+################
+
+# When you find an item, store it by its ID
+itemId = 'DBcy-HU_'
+newItem = dreamNS[itemId]
+
+instances = [
+
+	# Customers
+	(newItem, rdfType, itemClass),
+	(newItem, description, Literal(htmlstring, datatype=xsdString)),
+
+]
+
+from rdflib import ConjunctiveGraph
+graph = ConjunctiveGraph()
+
+for triple in classTriples:
+	graph.add(triple)
+
+for triple in classHierarchyTriples:
+	graph.add(triple)
+
+for triple in propertyTriples:
+	graph.add(triple)
+
+for triple in instances: 
+	graph.add(triple) 
+
+
+
+################
+# OUTPUT GRAPH
+################
+
+graph.serialize(destination='dream-network11.ttl', format='turtle')
+
+
+# Add properties to the item
 		
 		

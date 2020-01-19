@@ -1,0 +1,59 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.dannykennedy.co/dnj-ontology#Image> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf <https://www.dannykennedy.co/dnj-ontology#Post> .
+
+<https://www.dannykennedy.co/dnj-ontology#OtherItem> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf <https://www.dannykennedy.co/dnj-ontology#Item> .
+
+<https://www.dannykennedy.co/dnj-ontology#Page> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf <https://www.dannykennedy.co/dnj-ontology#Actor> .
+
+<https://www.dannykennedy.co/dnj-ontology#Place> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf <https://www.dannykennedy.co/dnj-ontology#Item> .
+
+<https://www.dannykennedy.co/dnj-ontology#User> rdfs:subClassOf <https://www.dannykennedy.co/dnj-ontology#Actor>,
+        <https://www.dannykennedy.co/dnj-ontology#Person> .
+
+<https://www.dannykennedy.co/dnj-ontology#dateCreated> a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain <https://www.dannykennedy.co/dnj-ontology#Post> ;
+    rdfs:range xsd:dateTime .
+
+<https://www.dannykennedy.co/dnj-ontology#description> a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain <https://www.dannykennedy.co/dnj-ontology#Item> ;
+    rdfs:range xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#handle> a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain <https://www.dannykennedy.co/dnj-ontology#Actor> ;
+    rdfs:range xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#hasAuthor> a <http://www.w3.org/2002/07/owl#ObjectProperty> ;
+    rdfs:domain <https://www.dannykennedy.co/dnj-ontology#Person> ;
+    rdfs:range <https://www.dannykennedy.co/dnj-ontology#Post> .
+
+<https://www.dannykennedy.co/dnj-ontology#hasTag> a <http://www.w3.org/2002/07/owl#ObjectProperty> ;
+    rdfs:domain <https://www.dannykennedy.co/dnj-ontology#Item> ;
+    rdfs:range <https://www.dannykennedy.co/dnj-ontology#Item> .
+
+<https://www.dannykennedy.co/dnj-ontology#itemId> a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain <https://www.dannykennedy.co/dnj-ontology#Item> ;
+    rdfs:range xsd:integer .
+
+<https://www.dannykennedy.co/dnj-ontology#name> a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain <https://www.dannykennedy.co/dnj-ontology#Item> ;
+    rdfs:range xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#Person> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf <https://www.dannykennedy.co/dnj-ontology#Item> .
+
+<https://www.dannykennedy.co/dnj-ontology#Actor> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf <https://www.dannykennedy.co/dnj-ontology#Item> .
+
+<https://www.dannykennedy.co/dnj-ontology#Post> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf <https://www.dannykennedy.co/dnj-ontology#Item> .
+
+<https://www.dannykennedy.co/dnj-ontology#Item> a <http://www.w3.org/2002/07/owl#Class> .
+

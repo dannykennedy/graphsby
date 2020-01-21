@@ -2,8 +2,8 @@
 layout: page
 type: page
 itemId: DBcy-HU_
-handle: @dreamnetwork
-title: "Welcome to the Dream Network"
+handle: dreamnetwork
+name: "Welcome to the Dream Network"
 shortDescription: "Welcome to the Dream Network"
 tags:
   - hasTag: "hi"

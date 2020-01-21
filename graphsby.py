@@ -9,20 +9,6 @@ except ImportError:
     from yaml import Loader, Dumper
 
 
-document = """
-  a: 1
-  b:
-    c: 3
-    d: 4
-"""
-
-
-pyyam = yaml.load(document, Loader=yaml.FullLoader);
-print(pyyam)
-
-print(yaml.dump(yaml.load(document, Loader=yaml.FullLoader)))
-
-
 # Namespace declarations
 # RDFlib uses square brackets to show prefix and literals
 owlNS = Namespace("http://www.w3.org/2002/07/owl#")
@@ -150,67 +136,74 @@ propertyTriples = [
 # PARSE DOCUMENTS
 #################
 
-
-
 rootdir = os.getcwd() + '/_items'
+
+# Instance data in graph
+instances = []
 
 for subdir, dirs, files in os.walk(rootdir):
 	for file in files:
 		if file.startswith('.'):
 			continue
-		lines = []
+		
 		filepath = os.path.join(subdir, file)
 		print(os.path.join(subdir, file))
 
 		reading_yaml = False
+		lines = []
 		yaml_lines = []
 		with open(filepath,'r') as f:
 			for line in f:
 				if line == '---\n' and reading_yaml is False:
 					reading_yaml = True 
-					print("yay!")
+					continue
 				elif line == '---\n' and reading_yaml is True:
 					reading_yaml = False
+					continue
 
 				# if line
 
 				# Append line to either YAML or main file 
-				print(reading_yaml)
-				# print(line)
 				if reading_yaml: 
 					yaml_lines.append(line)
 				else: 
 					lines.append(line)
 
+		yaml_document = "".join(yaml_lines)
+		pyyam = yaml.load(yaml_document, Loader=yaml.FullLoader);
+		print(pyyam)
 
-
-				
 
 		htmlstring = markdown2.markdown("\n".join(line for line in lines))
 		writepath = os.getcwd() + '/_site/' + file
 
-		# renamee is the file getting renamed, pre is the part of file name before extension and ext is current extension
 		writepath = re.sub('.md$', '.html', writepath)
 		newfile = open(writepath, "w")
 		newfile.write(htmlstring)
 		newfile.close()
 
-################
-# INSTANCE DATA
-################
 
-# When you find an item, store it by its ID
-itemId = 'DBcy-HU_'
-newItem = dreamNS[itemId]
 
-instances = [
+		################
+		# INSTANCE DATA
+		################
 
-	# Customers
-	(newItem, rdfType, itemClass),
-	(newItem, description, Literal(htmlstring, datatype=xsdString)),
+		# When you find an item, store it by its ID
+		itemId = pyyam['itemId']
+		newItem = dreamNS[itemId]
 
-]
+		# New item
+		instances.append((newItem, rdfType, itemClass))
+		# Title
+		instances.append((newItem, name, Literal(pyyam['name'], datatype=xsdString)))
+		# Description
+		instances.append((newItem, description, Literal(htmlstring, datatype=xsdString)))
+		# Layout
+		instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
 
+
+
+# Add all triples to the graph
 from rdflib import ConjunctiveGraph
 graph = ConjunctiveGraph()
 

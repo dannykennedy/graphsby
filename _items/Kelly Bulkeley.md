@@ -1,15 +1,18 @@
 ---
-layout: post
-type: person
-title: "This is Engineering at Canva"
-description: "Welcome to our Engineering Blog"
-tags: [general]
+layout: page
+type: page
+itemId: KBcy-HU_
+handle: kellybulkeley
+name: "Kelly Bulkeley"
+shortDescription: "Welcome to the Dream Network"
+tags:
+  - hasTag: "hi"
+  - hasTag: "bye"
 date: 2015-03-24
-author: Josh Graham
-author-img: josh.png
+featuredImg: dnj.png
 ---
 
-When I think about world-class software development teams, I think about shipping, surety, and scale. Approaching [software as a craft]( http://manifesto.softwarecraftsmanship.org/) enables developers to build something that delivers value, has a sense of quality and is aesthetically pleasing (both on the surface and in the code itself), and is able to adapt to the success of the business.
+Kelly says: When I think about world-class software development teams, I think about shipping, surety, and scale. Approaching [software as a craft]( http://manifesto.softwarecraftsmanship.org/) enables developers to build something that delivers value, has a sense of quality and is aesthetically pleasing (both on the surface and in the code itself), and is able to adapt to the success of the business.
 
 Welcome to Engineering at [Canva]( https://www.canva.com ), our engineering team blog. At Canva, we are lucky enough to not only deal with craft in the way we approach building the software, but also in the care put into the user experience that makes it amazingly simple to create great graphic designs, where craft then blends into art.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-type: page
+type: person
 itemId: KBcy-HU_
 handle: kellybulkeley
 name: "Kelly Bulkeley"

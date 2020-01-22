@@ -192,14 +192,24 @@ for subdir, dirs, files in os.walk(rootdir):
 		itemId = pyyam['itemId']
 		newItem = dreamNS[itemId]
 
-		# New item
-		instances.append((newItem, rdfType, itemClass))
+		# Type of item (e.g. page, person)
+		if pyyam["type"] == "person":
+			instances.append((newItem, rdfType, personClass))
+		elif pyyam["type"] == "page":
+			instances.append((newItem, rdfType, pageClass))
+		else:
+			instances.append((newItem, rdfType, itemClass))
+
 		# Title
 		instances.append((newItem, name, Literal(pyyam['name'], datatype=xsdString)))
 		# Description
 		instances.append((newItem, description, Literal(htmlstring, datatype=xsdString)))
 		# Layout
 		instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
+
+		# Tags
+		for tag in pyyam['tags']:
+			print(tag)
 
 
 

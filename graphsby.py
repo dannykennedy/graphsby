@@ -188,17 +188,30 @@ for subdir, dirs, files in os.walk(rootdir):
 		# INSTANCE DATA
 		################
 
+		# Map YAML to item classes
+		classMap = {
+			"person": personClass,
+			"page": pageClass,
+			"user": userClass,
+			"post": postClass
+		}
+
 		# When you find an item, store it by its ID
-		itemId = pyyam['itemId']
-		newItem = dreamNS[itemId]
+		docId = pyyam['itemId']
+		newItem = dreamNS[docId]
+
+		# Add ID as property
+		instances.append((newItem, itemId, Literal(docId, datatype=xsdString)))
 
 		# Type of item (e.g. page, person)
-		if pyyam["type"] == "person":
-			instances.append((newItem, rdfType, personClass))
-		elif pyyam["type"] == "page":
-			instances.append((newItem, rdfType, pageClass))
-		else:
-			instances.append((newItem, rdfType, itemClass))
+		itemType = pyyam["type"]
+		if itemType in classMap.keys():
+			instances.append((newItem, rdfType, classMap[itemType]))
+
+		# Add handle, if type is person or page
+		if itemType == "user" or itemType == "page":
+			if "handle" in pyyam.keys():
+				instances.append((newItem, handle, Literal(pyyam['handle'], datatype=xsdString)))
 
 		# Title
 		instances.append((newItem, name, Literal(pyyam['name'], datatype=xsdString)))
@@ -235,7 +248,7 @@ for triple in instances:
 # OUTPUT GRAPH
 ################
 
-graph.serialize(destination='dream-network11.ttl', format='turtle')
+graph.serialize(destination='dream-network13.ttl', format='turtle')
 
 
 # Add properties to the item

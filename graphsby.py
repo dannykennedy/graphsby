@@ -55,6 +55,7 @@ handle = dreamNS['handle']
 dateCreated = dreamNS['dateCreated']
 layout = dreamNS['layout']
 featuredImage = dreamNS['featuredImage']
+urlSlug = dreamNS['urlSlug']
 
 # "object is a class in our ontology"
 classTriples = [
@@ -94,10 +95,15 @@ propertyTriples = [
 	(name, rdfsDomain, itemClass),
 	(name, rdfsRange, xsdString),
 
-	# handle (unique string, only for users and pages. Prefixed with "@")
+	# handle (unique string, only for users and pages. Prefixed with "@" in URL)
 	(handle, rdfType, owlDatatypeProperty),
 	(handle, rdfsDomain, actorClass),
 	(handle, rdfsRange, xsdString),
+
+	# URL slug (only for posts)
+	(urlSlug, rdfType, owlDatatypeProperty),
+	(urlSlug, rdfsDomain, postClass),
+	(urlSlug, rdfsRange, xsdString),
 
 	# description (could be the text of a post, or the blurb for a person)
 	(description, rdfType, owlDatatypeProperty),
@@ -248,7 +254,7 @@ for triple in instances:
 # OUTPUT GRAPH
 ################
 
-graph.serialize(destination='dream-network13.ttl', format='turtle')
+graph.serialize(destination='dream-network14.ttl', format='turtle')
 
 
 # Add properties to the item

@@ -21,6 +21,7 @@ ns1:DBcy-HU_ a ns1:Page ;
 
 <p><a href="https://chuffed.org/project/dream-network-journal">Visit the campaign page</a></p></p>
 """^^xsd:string ;
+    ns1:handle "dreamnetwork"^^xsd:string ;
     ns1:itemId "DBcy-HU_"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Welcome to the Dream Network"^^xsd:string .
@@ -28,7 +29,7 @@ ns1:DBcy-HU_ a ns1:Page ;
 ns1:Image a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Post .
 
-ns1:KBcy-HU_ a ns1:Person ;
+ns1:KBcy-HU_ a ns1:User ;
     ns1:description """<p>Kelly says: When I think about world-class software development teams, I think about shipping, surety, and scale. Approaching <a href="http://manifesto.softwarecraftsmanship.org/">software as a craft</a> enables developers to build something that delivers value, has a sense of quality and is aesthetically pleasing (both on the surface and in the code itself), and is able to adapt to the success of the business.</p>
 
 <p>Welcome to Engineering at <a href="https://www.canva.com ">Canva</a>, our engineering team blog. At Canva, we are lucky enough to not only deal with craft in the way we approach building the software, but also in the care put into the user experience that makes it amazingly simple to create great graphic designs, where craft then blends into art.</p>
@@ -66,6 +67,7 @@ ns1:KBcy-HU_ a ns1:Person ;
 
 <p>We know that most technologists are dedicated and passionate like us -- continually researching, learning, and honing our craft. I hope you'll benefit from the glimpses behind the curtain of Engineering at Canva as we show you how we build Canva, so it can be empowering the world to design. If you'd like to join us, why not...</p>
 """^^xsd:string ;
+    ns1:handle "kellybulkeley"^^xsd:string ;
     ns1:itemId "KBcy-HU_"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Kelly Bulkeley"^^xsd:string .
@@ -75,9 +77,6 @@ ns1:OtherItem a <http://www.w3.org/2002/07/owl#Class> ;
 
 ns1:Place a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
-
-ns1:User rdfs:subClassOf ns1:Actor,
-        ns1:Person .
 
 ns1:dateCreated a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
     rdfs:domain ns1:Post ;
@@ -111,13 +110,20 @@ ns1:name a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
     rdfs:domain ns1:Item ;
     rdfs:range xsd:string .
 
+ns1:urlSlug a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain ns1:Post ;
+    rdfs:range xsd:string .
+
 ns1:Page a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Actor .
 
-ns1:Actor a <http://www.w3.org/2002/07/owl#Class> ;
-    rdfs:subClassOf ns1:Item .
+ns1:User rdfs:subClassOf ns1:Actor,
+        ns1:Person .
 
 ns1:Person a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf ns1:Item .
+
+ns1:Actor a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
 
 ns1:Post a <http://www.w3.org/2002/07/owl#Class> ;

@@ -354,6 +354,14 @@ ns1: a ns1:Post ;
         """<p><a href="files/pdfs/Volume_9/9.3-Dream-Network-Journal_Volume-9_No-3.pdf" download="">Download issue 9.3</a></p>
 """^^xsd:string,
         """<p><a href="files/pdfs/Volume_9/9.4-Dream-Network-Journal-Vol-9-No-4.pdf" download="">Download issue 9.4</a></p>
+"""^^xsd:string,
+        """<p><a href="files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p>
+"""^^xsd:string,
+        """<p><a href="files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a></p>
+"""^^xsd:string,
+        """<p><a href="files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf" download="">Download</a></p>
+"""^^xsd:string,
+        """<p><a href="files/pdfs/Volume_publications/publications.welcome-to-the-magic-theater.pdf" download="">Download</a></p>
 """^^xsd:string ;
     ns1:itemId "1"^^xsd:string,
         "2"^^xsd:string,
@@ -705,7 +713,11 @@ ns1: a ns1:Post ;
         "Volume 6"^^xsd:string,
         "Volume 7"^^xsd:string,
         "Volume 8"^^xsd:string,
-        "Volume 9"^^xsd:string ;
+        "Volume 9"^^xsd:string,
+        "coat-of-many-colors: Coat of Many Colors"^^xsd:string,
+        "relationship-dreams: Relationship Dreams: Insight into Family - Friends - Co-workers"^^xsd:string,
+        "the-art-of-dream-sharing: The Art of Dream Sharing and Developing Dream Groups"^^xsd:string,
+        "welcome-to-the-magic-theater: Welcome to the Magic Theater: A Handbook for Exploring Dreams by Dick McLeester"^^xsd:string ;
     ns1:urlSlug "1.1"^^xsd:string,
         "1.10"^^xsd:string,
         "1.11"^^xsd:string,
@@ -848,6 +860,7 @@ ns1: a ns1:Post ;
         "9.2"^^xsd:string,
         "9.3"^^xsd:string,
         "9.4"^^xsd:string,
+        "coat-of-many-colors"^^xsd:string,
         "dream-network-volume-1"^^xsd:string,
         "dream-network-volume-10"^^xsd:string,
         "dream-network-volume-11"^^xsd:string,
@@ -880,7 +893,10 @@ ns1: a ns1:Post ;
         "dream-network-volume-6"^^xsd:string,
         "dream-network-volume-7"^^xsd:string,
         "dream-network-volume-8"^^xsd:string,
-        "dream-network-volume-9"^^xsd:string .
+        "dream-network-volume-9"^^xsd:string,
+        "relationship-dreams"^^xsd:string,
+        "the-art-of-dream-sharing"^^xsd:string,
+        "welcome-to-the-magic-theater"^^xsd:string .
 
 ns1:DBcy-HU_ a ns1:Page ;
     ns1:description """<h1>Thank you, Dream Network supporter!</h1>

@@ -2,7 +2,7 @@
 
 import markdown2, os, re
 import yaml
-from issues_list import *
+from special_publications import *
 
 dirname = "custom_scripts"
 rootdir = os.getcwd()[:-len(dirname)-1] + '/_items'
@@ -22,45 +22,28 @@ print(rootdir)
 
 # {'layout': 'post', 'type': 'post', 'itemId': 'PSYy-HU_', 'name': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'shortDescription': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'urlSlug': 'a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy', 'tags': [{'hasTag': 'hi'}, {'hasTag': 'bye'}], 'date': datetime.date(2015, 3, 24), 'featuredImg': 'dnj.png'}
 
-issuenum = 1
-for issue in issues:
-	print(issue)
+pubnum = 1
+for pub in special_publications:
+	print(pub)
 	pyyaml = {}
 
-	volume_number_str = issue["imgName"].split(".")[0]
-	pdfName = issue["pdfName"]
-	imgName = issue["imgName"]
+	volume_number_str = pub["imgName"].split(".")[0]
+	pdfName = pub["pdfName"]
+	imgName = pub["imgName"]
 
 	pyyaml['layout'] = 'page'
 	pyyaml['type'] = 'post'
-	pyyaml['itemId'] = issuenum + 100
-	issuenum = issuenum+1
-	pyyaml['name'] = imgName + ": " + issue["title"]
+	pyyaml['itemId'] = pubnum + 200
+	pubnum = pubnum+1
+	pyyaml['name'] = imgName + ": " + pub["title"]
 	pyyaml['urlSlug'] = imgName
 	pyyaml['tags'] = []
 	pyyaml['tags'].append({"hasTag":"dreamnetwork"})
-	volume_name = "dream-network-volume-" + volume_number_str
-	pyyaml['tags'].append({"hasTag":volume_name})
 
 	writepath = rootdir + "/" + imgName + ".md"
 	newfile = open(writepath, "w")
 	newfile.write("---\n")
 	newfile.write(yaml.dump(pyyaml))
 	newfile.write("---\n")
-	newfile.write('<a href="files/pdfs/Volume_' + volume_number_str + '/' + pdfName + '" download="">Download issue ' + imgName + '</a>')
+	newfile.write('<a href="files/pdfs/Volume_publications/' + pdfName + '" download="">Download</a>')
 	newfile.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -3,6 +3,7 @@
 import markdown2, os, re
 import yaml
 from special_publications import *
+from id_gen import id_gen
 
 dirname = "custom_scripts"
 rootdir = os.getcwd()[:-len(dirname)-1] + '/_items'
@@ -22,7 +23,7 @@ print(rootdir)
 
 # {'layout': 'post', 'type': 'post', 'itemId': 'PSYy-HU_', 'name': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'shortDescription': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'urlSlug': 'a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy', 'tags': [{'hasTag': 'hi'}, {'hasTag': 'bye'}], 'date': datetime.date(2015, 3, 24), 'featuredImg': 'dnj.png'}
 
-pubnum = 1
+# pubnum = 1
 for pub in special_publications:
 	print(pub)
 	pyyaml = {}
@@ -33,8 +34,8 @@ for pub in special_publications:
 
 	pyyaml['layout'] = 'page'
 	pyyaml['type'] = 'post'
-	pyyaml['itemId'] = pubnum + 200
-	pubnum = pubnum+1
+	pyyaml['itemId'] = id_gen()
+	# pubnum = pubnum+1
 	pyyaml['name'] = pub["title"]
 	pyyaml['urlSlug'] = imgName
 	pyyaml['tags'] = []

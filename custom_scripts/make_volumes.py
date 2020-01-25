@@ -2,6 +2,7 @@
 
 import markdown2, os, re
 import yaml
+from id_gen import id_gen
 
 dirname = "custom_scripts"
 rootdir = os.getcwd()[:-len(dirname)-1] + '/_items'
@@ -31,7 +32,7 @@ for vol in range(1, 34):
 	pyyaml = {}
 	pyyaml['layout'] = 'page'
 	pyyaml['type'] = 'post'
-	pyyaml['itemId'] = vol
+	pyyaml['itemId'] = id_gen()
 	pyyaml['name'] = "Volume " + str(vol)
 	pyyaml['urlSlug'] = "dream-network-volume-" + str(vol)
 	pyyaml['tags'] = []

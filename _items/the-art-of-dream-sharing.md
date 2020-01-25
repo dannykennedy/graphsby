@@ -1,7 +1,7 @@
 ---
-itemId: 202
+itemId: 1199544396556873
 layout: page
-name: 'the-art-of-dream-sharing: The Art of Dream Sharing and Developing Dream Groups'
+name: The Art of Dream Sharing and Developing Dream Groups
 tags:
 - hasTag: dreamnetwork
 type: post

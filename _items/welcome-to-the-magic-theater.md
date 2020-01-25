@@ -1,8 +1,7 @@
 ---
-itemId: 203
+itemId: 1199544399349097
 layout: page
-name: 'welcome-to-the-magic-theater: Welcome to the Magic Theater: A Handbook for
-  Exploring Dreams by Dick McLeester'
+name: 'Welcome to the Magic Theater: A Handbook for Exploring Dreams by Dick McLeester'
 tags:
 - hasTag: dreamnetwork
 type: post

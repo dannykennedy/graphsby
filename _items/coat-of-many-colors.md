@@ -1,7 +1,7 @@
 ---
-itemId: 204
+itemId: 1199544404533646
 layout: page
-name: 'coat-of-many-colors: Coat of Many Colors'
+name: Coat of Many Colors
 tags:
 - hasTag: dreamnetwork
 type: post

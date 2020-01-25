@@ -1,9 +1,7 @@
 #!/usr/local/bin/python3
 
-import markdown2, os, re, rdflib
-from rdflib import Namespace, Literal
+import markdown2, os, re
 import yaml
-from pathlib import Path
 
 dirname = "custom_scripts"
 rootdir = os.getcwd()[:-len(dirname)-1] + '/_items'

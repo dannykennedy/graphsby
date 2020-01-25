@@ -7,4 +7,4 @@ tags:
 type: post
 urlSlug: dream-network-volume-6
 ---
-<a href="files/Volume_6.zip" download>Volume 6 (.zip file, 14mb</a>
+<a href="files/Volume_6.zip" download>Volume 6 (.zip file, 14mb)</a>

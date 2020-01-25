@@ -4,6 +4,174 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+ns1: a ns1:Post ;
+    ns1:description """<p><a href="files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_10.zip" download>Volume 10 (.zip file, 23mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_11.zip" download>Volume 11 (.zip file, 24mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_12.zip" download>Volume 12 (.zip file, 25mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_13.zip" download>Volume 13 (.zip file, 27mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_15.zip" download>Volume 15 (.zip file, 54mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_16.zip" download>Volume 16 (.zip file, 59mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_17.zip" download>Volume 17 (.zip file, 32mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_18.zip" download>Volume 18 (.zip file, 31mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_19.zip" download>Volume 19 (.zip file, 55mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_20.zip" download>Volume 20 (.zip file, 5mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_21.zip" download>Volume 21 (.zip file, 22mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_22.zip" download>Volume 22 (.zip file, 19mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_23.zip" download>Volume 23 (.zip file, 10mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_24.zip" download>Volume 24 (.zip file, 9mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_25.zip" download>Volume 25 (.zip file, 10mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_26.zip" download>Volume 26 (.zip file, 8mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_27.zip" download>Volume 27 (.zip file, 13mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_28.zip" download>Volume 28 (.zip file, 6mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_29.zip" download>Volume 29 (.zip file, 14mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_30.zip" download>Volume 30 (.zip file, 6mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_31.zip" download>Volume 31 (.zip file, 9mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_32.zip" download>Volume 32 (.zip file, 6mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_33.zip" download>Volume 33 (.zip file, 10mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_4.zip" download>Volume 4 (.zip file, 6mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_5.zip" download>Volume 5 (.zip file, 10mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_6.zip" download>Volume 6 (.zip file, 14mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_7.zip" download>Volume 7 (.zip file, 13mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_8.zip" download>Volume 8 (.zip file, 13mb)</a></p>
+"""^^xsd:string,
+        """<p><a href="files/Volume_9.zip" download>Volume 9 (.zip file, 38mb)</a></p>
+"""^^xsd:string ;
+    ns1:itemId "1"^^xsd:string,
+        "2"^^xsd:string,
+        "3"^^xsd:string,
+        "4"^^xsd:string,
+        "5"^^xsd:string,
+        "6"^^xsd:string,
+        "7"^^xsd:string,
+        "8"^^xsd:string,
+        "9"^^xsd:string,
+        "10"^^xsd:string,
+        "11"^^xsd:string,
+        "12"^^xsd:string,
+        "13"^^xsd:string,
+        "14"^^xsd:string,
+        "15"^^xsd:string,
+        "16"^^xsd:string,
+        "17"^^xsd:string,
+        "18"^^xsd:string,
+        "19"^^xsd:string,
+        "20"^^xsd:string,
+        "21"^^xsd:string,
+        "22"^^xsd:string,
+        "23"^^xsd:string,
+        "24"^^xsd:string,
+        "25"^^xsd:string,
+        "26"^^xsd:string,
+        "27"^^xsd:string,
+        "28"^^xsd:string,
+        "29"^^xsd:string,
+        "30"^^xsd:string,
+        "31"^^xsd:string,
+        "32"^^xsd:string,
+        "33"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1"^^xsd:string,
+        "Volume 10"^^xsd:string,
+        "Volume 11"^^xsd:string,
+        "Volume 12"^^xsd:string,
+        "Volume 13"^^xsd:string,
+        "Volume 14"^^xsd:string,
+        "Volume 15"^^xsd:string,
+        "Volume 16"^^xsd:string,
+        "Volume 17"^^xsd:string,
+        "Volume 18"^^xsd:string,
+        "Volume 19"^^xsd:string,
+        "Volume 2"^^xsd:string,
+        "Volume 20"^^xsd:string,
+        "Volume 21"^^xsd:string,
+        "Volume 22"^^xsd:string,
+        "Volume 23"^^xsd:string,
+        "Volume 24"^^xsd:string,
+        "Volume 25"^^xsd:string,
+        "Volume 26"^^xsd:string,
+        "Volume 27"^^xsd:string,
+        "Volume 28"^^xsd:string,
+        "Volume 29"^^xsd:string,
+        "Volume 3"^^xsd:string,
+        "Volume 30"^^xsd:string,
+        "Volume 31"^^xsd:string,
+        "Volume 32"^^xsd:string,
+        "Volume 33"^^xsd:string,
+        "Volume 4"^^xsd:string,
+        "Volume 5"^^xsd:string,
+        "Volume 6"^^xsd:string,
+        "Volume 7"^^xsd:string,
+        "Volume 8"^^xsd:string,
+        "Volume 9"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-1"^^xsd:string,
+        "dream-network-volume-10"^^xsd:string,
+        "dream-network-volume-11"^^xsd:string,
+        "dream-network-volume-12"^^xsd:string,
+        "dream-network-volume-13"^^xsd:string,
+        "dream-network-volume-14"^^xsd:string,
+        "dream-network-volume-15"^^xsd:string,
+        "dream-network-volume-16"^^xsd:string,
+        "dream-network-volume-17"^^xsd:string,
+        "dream-network-volume-18"^^xsd:string,
+        "dream-network-volume-19"^^xsd:string,
+        "dream-network-volume-2"^^xsd:string,
+        "dream-network-volume-20"^^xsd:string,
+        "dream-network-volume-21"^^xsd:string,
+        "dream-network-volume-22"^^xsd:string,
+        "dream-network-volume-23"^^xsd:string,
+        "dream-network-volume-24"^^xsd:string,
+        "dream-network-volume-25"^^xsd:string,
+        "dream-network-volume-26"^^xsd:string,
+        "dream-network-volume-27"^^xsd:string,
+        "dream-network-volume-28"^^xsd:string,
+        "dream-network-volume-29"^^xsd:string,
+        "dream-network-volume-3"^^xsd:string,
+        "dream-network-volume-30"^^xsd:string,
+        "dream-network-volume-31"^^xsd:string,
+        "dream-network-volume-32"^^xsd:string,
+        "dream-network-volume-33"^^xsd:string,
+        "dream-network-volume-4"^^xsd:string,
+        "dream-network-volume-5"^^xsd:string,
+        "dream-network-volume-6"^^xsd:string,
+        "dream-network-volume-7"^^xsd:string,
+        "dream-network-volume-8"^^xsd:string,
+        "dream-network-volume-9"^^xsd:string .
+
 ns1:DBcy-HU_ a ns1:Page ;
     ns1:description """<h1>Thank you, Dream Network supporter!</h1>
 

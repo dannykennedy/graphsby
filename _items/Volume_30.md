@@ -7,4 +7,4 @@ tags:
 type: post
 urlSlug: dream-network-volume-30
 ---
-<a href="files/Volume_30.zip" download>Volume 30 (.zip file, 6mb</a>
+<a href="files/Volume_30.zip" download>Volume 30 (.zip file, 6mb)</a>

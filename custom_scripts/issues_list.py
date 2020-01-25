@@ -681,7 +681,7 @@ issues = [
         "pdfName": "31.4_dreaming_humanitys_path.pdf",
         "title": "Dreaming Humanity's Path",
     },
-                    {
+    {
         "imgName": "32.1",
         "pdfName": "32.1_group_dreaming.pdf",
         "title": "Group Dreaming",

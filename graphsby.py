@@ -219,6 +219,11 @@ for subdir, dirs, files in os.walk(rootdir):
 			if "handle" in pyyam.keys():
 				instances.append((newItem, handle, Literal(pyyam['handle'], datatype=xsdString)))
 
+		# Add URL slug, if item type is post. 
+		if itemType == "post":
+			if "urlSlug" in pyyam.keys():
+				instances.append((newItem, urlSlug, Literal(pyyam['urlSlug'], datatype=xsdString)))
+
 		# Title
 		instances.append((newItem, name, Literal(pyyam['name'], datatype=xsdString)))
 		# Description
@@ -254,7 +259,7 @@ for triple in instances:
 # OUTPUT GRAPH
 ################
 
-graph.serialize(destination='dream-network14.ttl', format='turtle')
+graph.serialize(destination='dream-network15.ttl', format='turtle')
 
 
 # Add properties to the item

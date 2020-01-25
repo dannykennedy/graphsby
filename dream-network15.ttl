@@ -1,0 +1,141 @@
+@prefix ns1: <https://www.dannykennedy.co/dnj-ontology#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:DBcy-HU_ a ns1:Page ;
+    ns1:description """<h1>Thank you, Dream Network supporter!</h1>
+
+<p>As thanks for your very generous donation, here's something special. As promised, scans of the entire 1982-2015 Dream Network archive, hot off the press from the scanners. We've barely even had time to style this page, but as tribute to the <a href="https://web.archive.org/web/20060424062349/http://dreamnetwork.net/">old DNJ site</a> we've pulled in a few styles:)</p>
+
+<p>What a treasure trove this is. It's almost an embarrassment of riches, and we hope you enjoy perusing these for years to come.</p>
+
+<p>Below, you can download each volume as a .zip file, or download each issue individually. If you'd like to look up an individual author or article, here's a (not-quite-complete) <a href="https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing">list of Dream Network articles</a></p>
+
+<p>We have one request to make: Please don't publish or distribute any of these files yet. We'll be making the full archive public in early 2020. After that, feel free to send them to your friends, but again rather than publishing them online please just link to the archive site. We also ask you not to publish the articles in them, unless you have the permission of the author (or you are the author, in which case, the rights are yours!)</p>
+
+<p><strong>Thank you</strong> to everyone who donated to this campaign. We'd like to personally thank <a href="https://kellybulkeley.org/about-kelly-bulkeley">Kelly Bulkeley</a>, whose donation really made this campaign possible, and all the 'super supporters' of the campaign: <a href="https://www.monroeinstitute.org/Luigi-Sciambarella">Luigi Sciambarella</a>, <a href="Evelyn Duesbury">Evelyn Duesbury</a>, <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as <a href="https://arthurstrock.com/about-arthur/">Arthur Strock</a>, <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, Rosemary Watts-Dreyer, Patti Allen and Mary Bronk. For their donations as well as providing providing their personal copies of publications for scanning, special thanks to <a href="https://www.changingworld.com/about-us">Dick McLeester</a> and <a href="https://www.dreamtimesguide.com/about-marlene-king/">Marlene King</a>.</p>
+
+<p><a href="https://twitter.com/EastWest_Works">Inoshi</a>, <a href="https://twitter.com/kannydennedy">Dan</a> and <a href="https://web.archive.org/web/20141119224703/http://www.understandthemeaningofmydreams.com/cgi-bin/article/news.cgi?act=read&amp;cat=12&amp;num=3">Roberta</a></p>
+
+<p><a href="https://chuffed.org/project/dream-network-journal">Visit the campaign page</a></p></p>
+"""^^xsd:string ;
+    ns1:handle "dreamnetwork"^^xsd:string ;
+    ns1:itemId "DBcy-HU_"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Welcome to the Dream Network"^^xsd:string .
+
+ns1:Image a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf ns1:Post .
+
+ns1:KBcy-HU_ a ns1:User ;
+    ns1:description """<p>Kelly says: When I think about world-class software development teams, I think about shipping, surety, and scale. Approaching <a href="http://manifesto.softwarecraftsmanship.org/">software as a craft</a> enables developers to build something that delivers value, has a sense of quality and is aesthetically pleasing (both on the surface and in the code itself), and is able to adapt to the success of the business.</p>
+
+<p>Welcome to Engineering at <a href="https://www.canva.com ">Canva</a>, our engineering team blog. At Canva, we are lucky enough to not only deal with craft in the way we approach building the software, but also in the care put into the user experience that makes it amazingly simple to create great graphic designs, where craft then blends into art.</p>
+
+<p>In its first 14 months, Canva's user base grew from 1 user to 1 million users, mostly through the word-of-mouth of excited users, helped along by our chief evangelist -- the legendary <a href="http://guykawasaki.com ">Guy Kawasaki</a>.</p>
+
+<p>This wonderful new application is democratizing graphic design and making it easy for anyone to make stunning designs. Behind the scenes is a team of high quality, passionate software developers. With credentials from other world-class engineering organizations like Google, VMWare, ThoughtWorks, and Atlassian, the Canva engineering team is making our company's vision a reality.</p>
+
+<p>Having benefited from other technologists who go out of their way to share what they've learned with the community, we've prepared some of the stories that have happened along the way and are looking forward to sharing more insights as we scale from 1 million users to 100 million (and beyond). We'll geek out with plenty of code examples...</p>
+
+<p>```java</p>
+
+<p>@Example</p>
+
+<p>class Engineering extends Welcome {</p>
+
+<p>private final Company company = new Company("canva", "Canva", "www.canva.com");</p>
+
+<p>private final Greeting greeting = new Greeting("Welcome to ", company.name, " Engineering");</p>
+
+<p>public Greeting greet() {</p>
+
+<pre><code>return greeting;
+</code></pre>
+
+<p>}</p>
+
+<p>}</p>
+
+<p>```</p>
+
+<p>...and tips and tricks for you to try out in your own contexts.</p>
+
+<p>The first post will be from the initial member of the engineering team, Dave Hearnden, showing how he overcame one of the challenges he faced building a cloud-based application when he was building Canva from scratch.</p>
+
+<p>We know that most technologists are dedicated and passionate like us -- continually researching, learning, and honing our craft. I hope you'll benefit from the glimpses behind the curtain of Engineering at Canva as we show you how we build Canva, so it can be empowering the world to design. If you'd like to join us, why not...</p>
+"""^^xsd:string ;
+    ns1:handle "kellybulkeley"^^xsd:string ;
+    ns1:itemId "KBcy-HU_"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Kelly Bulkeley"^^xsd:string .
+
+ns1:OtherItem a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf ns1:Item .
+
+ns1:PSYy-HU_ a ns1:Post ;
+    ns1:description """<p>Both William James and Gardner Murphy reached the height of their profession as psychologists. Both had the prestige and courage to confront the scientific community with what, in James’ time, was known as psychic phenomena and in Murphy’s time as parapsychology. Murphy was also a remarkable teacher and spawned a whole new generation of researchers. Stanley Krippner has followed in the tracks of both James and Murphy. In 1961, I made a critical decision that led to my connection with Stan. I gave up my psychoanalytic practice to accept a full-time position at the Maimonides Medical Center to develop a department of psychiatry there. What was so tempting about the offer was that it held out the possibility of setting up a sleep laboratory to study dream telepathy. </p>
+"""^^xsd:string ;
+    ns1:itemId "PSYy-HU_"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "A Psychologist in the Tradition of William James and Gardner Murphy"^^xsd:string ;
+    ns1:urlSlug "a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy"^^xsd:string .
+
+ns1:Place a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf ns1:Item .
+
+ns1:dateCreated a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain ns1:Post ;
+    rdfs:range xsd:dateTime .
+
+ns1:description a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain ns1:Item ;
+    rdfs:range xsd:string .
+
+ns1:handle a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain ns1:Actor ;
+    rdfs:range xsd:string .
+
+ns1:hasAuthor a <http://www.w3.org/2002/07/owl#ObjectProperty> ;
+    rdfs:domain ns1:Post ;
+    rdfs:range ns1:Person .
+
+ns1:hasTag a <http://www.w3.org/2002/07/owl#ObjectProperty> ;
+    rdfs:domain ns1:Item ;
+    rdfs:range ns1:Item .
+
+ns1:itemId a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain ns1:Item ;
+    rdfs:range xsd:integer .
+
+ns1:layout a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain ns1:Item ;
+    rdfs:range xsd:string .
+
+ns1:name a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain ns1:Item ;
+    rdfs:range xsd:string .
+
+ns1:urlSlug a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:domain ns1:Post ;
+    rdfs:range xsd:string .
+
+ns1:Page a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf ns1:Actor .
+
+ns1:User rdfs:subClassOf ns1:Actor,
+        ns1:Person .
+
+ns1:Person a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf ns1:Item .
+
+ns1:Actor a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf ns1:Item .
+
+ns1:Post a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf ns1:Item .
+
+ns1:Item a <http://www.w3.org/2002/07/owl#Class> .
+

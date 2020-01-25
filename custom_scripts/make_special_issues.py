@@ -35,7 +35,7 @@ for pub in special_publications:
 	pyyaml['type'] = 'post'
 	pyyaml['itemId'] = pubnum + 200
 	pubnum = pubnum+1
-	pyyaml['name'] = imgName + ": " + pub["title"]
+	pyyaml['name'] = pub["title"]
 	pyyaml['urlSlug'] = imgName
 	pyyaml['tags'] = []
 	pyyaml['tags'].append({"hasTag":"dreamnetwork"})

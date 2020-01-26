@@ -1,0 +1,23 @@
+#page {
+    display: grid;
+    grid-template-areas: "items description";
+    grid-template-columns: 2fr 1fr;
+}
+
+#page-description {
+    grid-area: description;
+}
+
+#page-items {
+    grid-area: items;
+}
+
+@media (max-width: 800px) {
+    #page {
+    grid-template-areas: "description" 
+                         "items";
+    grid-template-columns: 100%;
+    grid-template-rows: auto auto;
+} 
+}
+

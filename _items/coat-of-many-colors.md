@@ -7,4 +7,4 @@ tags:
 type: post
 urlSlug: coat-of-many-colors
 ---
-<a href="files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a>
+<a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a>

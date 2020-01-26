@@ -53,7 +53,7 @@ for vol in range(1, 34):
 	newfile.write("---\n")
 	newfile.write(yaml.dump(pyyaml))
 	newfile.write("---\n")
-	newfile.write('<a href="files/Volume_' + str(vol) + '.zip" download>Volume ' + str(vol) + ' (.zip file, ' + str(volume_sizes[vol-1]) + 'mb)</a>')
+	newfile.write('<a href="../files/Volume_' + str(vol) + '.zip" download>Volume ' + str(vol) + ' (.zip file, ' + str(volume_sizes[vol-1]) + 'mb)</a>')
 	newfile.close()
 
 

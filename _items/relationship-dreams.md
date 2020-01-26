@@ -7,4 +7,4 @@ tags:
 type: post
 urlSlug: relationship-dreams
 ---
-<a href="files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a>
+<a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a>

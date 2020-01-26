@@ -7,4 +7,4 @@ tags:
 type: post
 urlSlug: the-art-of-dream-sharing
 ---
-<a href="files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf" download="">Download</a>
+<a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf" download="">Download</a>

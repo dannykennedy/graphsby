@@ -7,4 +7,4 @@ tags:
 type: post
 urlSlug: dream-network-volume-22
 ---
-<a href="files/Volume_22.zip" download>Volume 22 (.zip file, 19mb)</a>
+<a href="../files/Volume_22.zip" download>Volume 22 (.zip file, 19mb)</a>

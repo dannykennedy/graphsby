@@ -7,4 +7,4 @@ tags:
 type: post
 urlSlug: welcome-to-the-magic-theater
 ---
-<a href="files/pdfs/Volume_publications/publications.welcome-to-the-magic-theater.pdf" download="">Download</a>
+<a href="../files/pdfs/Volume_publications/publications.welcome-to-the-magic-theater.pdf" download="">Download</a>

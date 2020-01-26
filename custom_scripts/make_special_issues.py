@@ -51,5 +51,5 @@ for pub in special_publications:
 	newfile.write("---\n")
 	newfile.write(yaml.dump(pyyaml))
 	newfile.write("---\n")
-	newfile.write('<a href="files/pdfs/Volume_publications/' + pdfName + '" download="">Download</a>')
+	newfile.write('<a href="../files/pdfs/Volume_publications/' + pdfName + '" download="">Download</a>')
 	newfile.close()

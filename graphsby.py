@@ -13,8 +13,17 @@ try:
 except ImportError:
     from yaml import Loader, Dumper
 
-index_page = get_yaml_var("home", os.getcwd()+"/_config.yml")
+# Vars
+cwd = os.getcwd()
+config_path = cwd + "/_config.yml"
+
+
+
+index_page = get_yaml_var("home", config_path)
+site_name = get_yaml_var("site", config_path)
 print("### Generating site ###")
+print("Site: ", end="")
+print(site_name)
 print("Homepage: ", end="")
 print(index_page)
 
@@ -152,7 +161,7 @@ propertyTriples = [
 # PARSE DOCUMENTS
 #################
 
-rootdir = os.getcwd() + '/_items'
+rootdir = cwd + '/_items'
 
 # Instance data in graph
 instances = []
@@ -189,19 +198,19 @@ for subdir, dirs, files in os.walk(rootdir):
 
 		htmlstring = markdown2.markdown("\n".join(line for line in lines))
 
-		writepath = os.getcwd() + '/_site/' + file
+		writepath = cwd + '/_site/' + file
 
 		# If type is a user, make handle/index.html
 		if "type" in pyyam.keys():
 			if pyyam["type"] == "user" or pyyam["type"] == "page":
-				user_folderpath = os.getcwd() + '/_site/' + pyyam["handle"]
+				user_folderpath = cwd + '/_site/' + pyyam["handle"]
 				Path(user_folderpath).mkdir(parents=True, exist_ok=True)
 				user_writepath = user_folderpath + "/index.html"
 				new_userfile = open(user_writepath, "w")
 				new_userfile.write(htmlstring)
 				new_userfile.close()
 			elif pyyam["type"] == "post":
-				post_folderpath = os.getcwd() + '/_site/' + str(pyyam["itemId"])
+				post_folderpath = cwd + '/_site/' + str(pyyam["itemId"])
 				Path(post_folderpath).mkdir(parents=True, exist_ok=True)
 				user_writepath = post_folderpath + "/index.html"
 				user_writepath2 = post_folderpath + "/" + re.sub('.md$', '.html', file)
@@ -215,7 +224,7 @@ for subdir, dirs, files in os.walk(rootdir):
 		# Create index.html file based on "home" in config.yml
 		if "handle" in pyyam.keys():
 			if pyyam["handle"] == index_page:
-				home_writepath = os.getcwd() + '/_site/index.html'
+				home_writepath = cwd + '/_site/index.html'
 				home_page = open(home_writepath, "w")
 				home_page.write(htmlstring)
 				home_page.close()

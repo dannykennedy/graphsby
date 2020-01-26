@@ -1,7 +1,7 @@
 ---
 layout: post
 type: post
-itemId: ESt7_AHyd
+itemId: bcpqocskrip
 name: "A Psychologist in the Tradition of William James and Gardner Murphy"
 shortDescription: "A Psychologist in the Tradition of William James and Gardner Murphy"
 urlSlug: "a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy"

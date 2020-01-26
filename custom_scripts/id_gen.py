@@ -12,7 +12,7 @@
 
 import time
 from random import randrange
-from base64_id import base64_id
+from base32_id import base32_id
 
 # Python version
 def id_gen():
@@ -23,5 +23,5 @@ def id_gen():
 	random_part = randrange(999999)
 	# Zero pad
 	int_id = int(str(millis) + str(random_part).zfill(6))
-	# base64 encode
-	return base64_id(int_id)
+	# base32 encode (Netlify doesn't allow mixed case in URLs)
+	return base32_id(int_id)

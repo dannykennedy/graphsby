@@ -21,6 +21,7 @@ index_page = get_yaml_var("home", config_path)
 site_name = get_yaml_var("site", config_path)
 
 # Template vars
+# https://stackoverflow.com/questions/38642557/how-to-load-jinja-template-directly-from-filesystem
 templateLoader = jinja2.FileSystemLoader(searchpath="./_templates")
 templateEnv = jinja2.Environment(loader=templateLoader)
 POST_TEMPLATE_FILE = "post.html"
@@ -232,12 +233,12 @@ for subdir, dirs, files in os.walk(rootdir):
 				new_userfile.close()
 
 		# Create index.html file based on "home" in config.yml
-		outputText = post_template.render(content=htmlstring)  # this is where to put args to the template renderer
+		full_html = post_template.render(content=htmlstring)  # this is where to put args to the template renderer
 		if "handle" in pyyam.keys():
 			if pyyam["handle"] == index_page:
 				home_writepath = cwd + '/_site/index.html'
 				home_page = open(home_writepath, "w")
-				home_page.write(outputText)
+				home_page.write(full_html)
 				home_page.close()
 
 

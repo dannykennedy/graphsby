@@ -223,6 +223,18 @@ for subdir, dirs, files in os.walk(rootdir):
 
 		writepath = cwd + '/_site/' + file
 
+
+		# Layout 
+		# Post is for individual posts, page is for pages with many posts
+		full_html = htmlstring
+		if "layout" in pyyam.keys():
+			if pyyam["layout"] == "post":
+				full_html = post_template.render(description=htmlstring, posts=["dog", "cat"])
+			else: 
+				full_html = page_template.render(description=htmlstring, posts=["dog", "cat"])
+		else: 
+			full_html = post_template.render(description=htmlstring, posts=["dog", "cat"])
+
 		# If type is a user, make handle/index.html
 		if "type" in pyyam.keys():
 			if pyyam["type"] == "user" or pyyam["type"] == "page":
@@ -230,7 +242,7 @@ for subdir, dirs, files in os.walk(rootdir):
 				Path(user_folderpath).mkdir(parents=True, exist_ok=True)
 				user_writepath = user_folderpath + "/index.html"
 				new_userfile = open(user_writepath, "w")
-				new_userfile.write(htmlstring)
+				new_userfile.write(full_html)
 				new_userfile.close()
 			elif pyyam["type"] == "post":
 				post_folderpath = cwd + '/_site/' + str(pyyam["itemId"])
@@ -238,14 +250,13 @@ for subdir, dirs, files in os.walk(rootdir):
 				user_writepath = post_folderpath + "/index.html"
 				user_writepath2 = post_folderpath + "/" + re.sub('.md$', '.html', file)
 				new_userfile = open(user_writepath, "w")
-				new_userfile.write(htmlstring)
+				new_userfile.write(full_html)
 				new_userfile.close()
 				new_userfile = open(user_writepath2, "w")
-				new_userfile.write(htmlstring)
+				new_userfile.write(full_html)
 				new_userfile.close()
 
 		# Create index.html file based on "home" in config.yml
-		full_html = page_template.render(description=htmlstring, posts=["dog", "cat"])  # this is where to put args to the template renderer
 		if "handle" in pyyam.keys():
 			if pyyam["handle"] == index_page:
 				home_writepath = cwd + '/_site/index.html'

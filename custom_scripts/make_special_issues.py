@@ -4,6 +4,7 @@ import markdown2, os, re
 import yaml
 from special_publications import *
 from id_gen import id_gen
+from get_item_id import get_item_id
 
 dirname = "custom_scripts"
 rootdir = os.getcwd()[:-len(dirname)-1] + '/_items'
@@ -23,26 +24,30 @@ print(rootdir)
 
 # {'layout': 'post', 'type': 'post', 'itemId': 'PSYy-HU_', 'name': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'shortDescription': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'urlSlug': 'a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy', 'tags': [{'hasTag': 'hi'}, {'hasTag': 'bye'}], 'date': datetime.date(2015, 3, 24), 'featuredImg': 'dnj.png'}
 
-# pubnum = 1
 for pub in special_publications:
 	print(pub)
 	pyyaml = {}
 
+	imgName = pub["imgName"]
+	filepath = rootdir + "/" + imgName + ".md"
+	existing_id = get_item_id(filepath)
+
+	# Use existing id, or make a new one if there isn't one
+	if existing_id > 0:
+		pyyaml['itemId'] = existing_id
+	else:
+		pyyaml['itemId'] = id_gen()
+
 	volume_number_str = pub["imgName"].split(".")[0]
 	pdfName = pub["pdfName"]
-	imgName = pub["imgName"]
-
 	pyyaml['layout'] = 'page'
 	pyyaml['type'] = 'post'
-	pyyaml['itemId'] = id_gen()
-	# pubnum = pubnum+1
 	pyyaml['name'] = pub["title"]
 	pyyaml['urlSlug'] = imgName
 	pyyaml['tags'] = []
 	pyyaml['tags'].append({"hasTag":"dreamnetwork"})
 
-	writepath = rootdir + "/" + imgName + ".md"
-	newfile = open(writepath, "w")
+	newfile = open(filepath, "w")
 	newfile.write("---\n")
 	newfile.write(yaml.dump(pyyaml))
 	newfile.write("---\n")

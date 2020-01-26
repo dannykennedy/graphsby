@@ -4,6 +4,7 @@ import markdown2, os, re
 import yaml
 from issues_list import *
 from id_gen import id_gen
+from get_item_id import get_item_id
 
 dirname = "custom_scripts"
 rootdir = os.getcwd()[:-len(dirname)-1] + '/_items'
@@ -27,13 +28,24 @@ for issue in issues:
 	print(issue)
 	pyyaml = {}
 
+	imgName = issue["imgName"]
+	filepath = rootdir + "/" + imgName + ".md"
+	existing_id = get_item_id(filepath)
+
+	print("existing_id found: ", end=" ")
+	print(existing_id)
+
+	# Use existing id, or make a new one if there isn't one
+	if existing_id > 0:
+		pyyaml['itemId'] = existing_id
+	else:
+		pyyaml['itemId'] = id_gen()
+
+
 	volume_number_str = issue["imgName"].split(".")[0]
 	pdfName = issue["pdfName"]
-	imgName = issue["imgName"]
-
 	pyyaml['layout'] = 'page'
 	pyyaml['type'] = 'post'
-	pyyaml['itemId'] = id_gen()
 	pyyaml['name'] = imgName + ": " + issue["title"]
 	pyyaml['urlSlug'] = imgName
 	pyyaml['tags'] = []
@@ -41,8 +53,7 @@ for issue in issues:
 	volume_name = "dream-network-volume-" + volume_number_str
 	pyyaml['tags'].append({"hasTag":volume_name})
 
-	writepath = rootdir + "/" + imgName + ".md"
-	newfile = open(writepath, "w")
+	newfile = open(filepath, "w")
 	newfile.write("---\n")
 	newfile.write(yaml.dump(pyyaml))
 	newfile.write("---\n")

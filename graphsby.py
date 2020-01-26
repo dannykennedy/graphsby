@@ -3,11 +3,12 @@
 import sys
 sys.path.insert(1, './modules')
 
-import markdown2, os, re, rdflib, shutil
+import os, re, rdflib, shutil
 from rdflib import Namespace, Literal
 from pathlib import Path
 import jinja2
 from get_yaml_var import get_yaml_var
+from load_file_to_object import load_file_to_object
 from copytree import copytree
 import yaml
 try:
@@ -188,47 +189,26 @@ rootdir = cwd + '/_items'
 
 # Instance data in graph
 instances = []
+file_objects = []
 
 for subdir, dirs, files in os.walk(rootdir):
 	for file in files:
+
+		# Ignore hidden files
 		if file.startswith('.'):
 			continue
-		
+
+		# Load YAML/Markdown file to Python object
 		filepath = os.path.join(subdir, file)
-
-		reading_yaml = False
-		lines = []
-		yaml_lines = []
-		with open(filepath,'r') as f:
-			for line in f:
-				if line == '---\n' and reading_yaml is False:
-					reading_yaml = True 
-					continue
-				elif line == '---\n' and reading_yaml is True:
-					reading_yaml = False
-					continue
-
-				# if line
-
-				# Append line to either YAML or main file 
-				if reading_yaml: 
-					yaml_lines.append(line)
-				else: 
-					lines.append(line)
-
-		yaml_document = "".join(yaml_lines)
-		pyyam = yaml.load(yaml_document, Loader=yaml.FullLoader);
-
-		htmlstring = markdown2.markdown("\n".join(line for line in lines))
-
-		writepath = cwd + '/_site/' + file
+		pyyam = load_file_to_object(filepath)
+		file_objects.append(pyyam)
 
 
 		################
 		# INSTANCE DATA
 		################
 
-		# Map YAML to item classes
+		# Map YAML descriptions to graph classes
 		classMap = {
 			"person": personClass,
 			"page": pageClass,
@@ -261,6 +241,7 @@ for subdir, dirs, files in os.walk(rootdir):
 		# Title
 		instances.append((newItem, name, Literal(pyyam['name'], datatype=xsdString)))
 		# Description
+		htmlstring = pyyam["description"]
 		instances.append((newItem, description, Literal(htmlstring, datatype=xsdString)))
 		# Layout
 		instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
@@ -331,18 +312,39 @@ for triple in propertyTriples:
 for triple in instances: 
 	graph.add(triple) 
 
-# 3.List available coffee types and their prices
-qres = graph.query(
-    """PREFIX ex:<https://www.dannykennedy.co/dnj-ontology#>
-	   SELECT DISTINCT ?item
-	   WHERE { ?item rdf:type/rdfs:subClassOf* ex:Item .}"""
+# Get all items
+q = graph.query(
+    """PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+	   SELECT DISTINCT ?item ?description ?layout ?handle
+	   WHERE {
+	   			?item dnj:layout ?layout .
+	   			?item dnj:handle ?handle .
+	   			?item dnj:description ?description .
+	   			?item rdf:type/rdfs:subClassOf* dnj:Item .}"""
 		 		)
 
 print("Items: ")
-for row in qres:
-    print("Item: %s" % row) 
+# for row in q:
+#     print("Item: %s , Description %s , Layout %s, Handle: %s" % row)
+#     # print(row) 
 
-print(len(qres))
+print(len(q))
+
+# Get all items
+q = graph.query(
+    """PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+	   SELECT DISTINCT ?item
+	   WHERE { ?network dnj:handle "dreamnetwork"^^xsd:string .
+	   		   ?item dnj:hasTag ?network .
+	   			}"""
+		 		)
+
+print("Items: ")
+for row in q:
+    print("Itemzzzz: %s" % row)
+    # print(row) 
+
+print(len(q))
 
 
 

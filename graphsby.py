@@ -3,11 +3,12 @@
 import sys
 sys.path.insert(1, './modules')
 
-import markdown2, os, re, rdflib
+import markdown2, os, re, rdflib, shutil
 from rdflib import Namespace, Literal
 from pathlib import Path
 import jinja2
 from get_yaml_var import get_yaml_var
+from copytree import copytree
 import yaml
 try:
     from yaml import CLoader as Loader, CDumper as Dumper
@@ -36,6 +37,17 @@ t = jinja2.Template("Site: {{ site_name }}")
 print(t.render(site_name=site_name))
 t = jinja2.Template("Homepage: {{ index_page }}")
 print(t.render(index_page=index_page))
+
+# Copy folders into _site
+# Styles
+style_folderpath = cwd + '/_site/styles'
+Path(style_folderpath).mkdir(parents=True, exist_ok=True)
+copytree(cwd + "/_styles/", cwd + "/_site/styles")
+# Images
+images_folderpath = cwd + '/_site/images'
+Path(images_folderpath).mkdir(parents=True, exist_ok=True)
+copytree(cwd + "/_images/", cwd + "/_site/images")
+# TODO: Files
 
 
 

@@ -6,6 +6,7 @@ sys.path.insert(1, './modules')
 import markdown2, os, re, rdflib
 from rdflib import Namespace, Literal
 from pathlib import Path
+from jinja2 import Template
 from get_yaml_var import get_yaml_var
 import yaml
 try:
@@ -16,16 +17,17 @@ except ImportError:
 # Vars
 cwd = os.getcwd()
 config_path = cwd + "/_config.yml"
-
-
-
 index_page = get_yaml_var("home", config_path)
 site_name = get_yaml_var("site", config_path)
+
+
+# Startup messages
 print("### Generating site ###")
-print("Site: ", end="")
-print(site_name)
-print("Homepage: ", end="")
-print(index_page)
+t = Template("Site: {{ site_name }}")
+print(t.render(site_name=site_name))
+t = Template("Homepage: {{ index_page }}")
+print(t.render(index_page=index_page))
+
 
 
 # Namespace declarations

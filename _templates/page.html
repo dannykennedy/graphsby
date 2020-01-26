@@ -1,23 +1,54 @@
 {% extends "base.html" %} {% block body_contents %}
-
 <div id="page">
-	<div id="page-description">
-		
-		{{description}}
+    <div id="page-description">
 
-	</div>
+        {{description}}
+    </div>
+    <div id="page-items">
+        {% if posts %} {% for post in posts %}
+        <div id="1228895055464076" class="item-card">
+            <div class="inner-card">
+                <div class="card-header">
+                    <div class="card-user-info">
+                        <div class="card-avatar tooltip">
+                            <div class="avatar-photo" style="background-color: rgb(161, 145, 203);"><span class="tooltiptext">Daniel Kennedy</span>
+                                <div class="avatar-text"><span aria-hidden="true" class="fa fa-file"></span></div>
+                            </div>
+                        </div>
+                        <div class="card-header-text">
+                            <div class="card-author"><span>Daniel Kennedy</span></div>
+                            <div class="card-date"> Jan 26, 2020</div>
+                        </div>
+                    </div>
+                    <div class="card-options dropdown">
+                        <div class="dropdown">
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="card-body-text">
+                        <p>{{post}}</p>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <div class="tags-area">
+                        <div class="tag OTHER" id="1228896226959920">
+                            <div class="tag-wrapper">
+                                <div class="tag-text"><span class="tag-name">something</span></div>
+                            </div>
+                        </div>
+                        <div class="tag OTHER" id="1228897996695413">
+                            <div class="tag-wrapper">
+                                <div class="tag-text"><span class="tag-description" style="border: 1px solid rgb(82, 151, 242);">Custom slug</span><span class="tag-name"></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-	<div id="page-items">
+        {% endfor %} {% endif %}
 
-		{% if posts %} {% for post in posts %}
-
-                <span class="poster">{{post}}</span>
-                
-		 {% endfor %} {% endif %}
-		
-
-	</div>
-
+    </div>
 </div>
-
 {% endblock %}

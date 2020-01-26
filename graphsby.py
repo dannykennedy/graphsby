@@ -250,51 +250,6 @@ for subdir, dirs, files in os.walk(rootdir):
 		for tag in pyyam['tags']:
 			print("", end="")
 
-		################
-		# GENERATE PAGES
-		################
-
-		# Layout 
-		# Post is for individual posts, page is for pages with many posts
-		full_html = htmlstring
-		if "layout" in pyyam.keys():
-			if pyyam["layout"] == "post":
-				full_html = post_template.render(description=htmlstring, posts=["dog", "cat"])
-			else: 
-				full_html = page_template.render(description=htmlstring, posts=["dog", "cat"])
-		else: 
-			full_html = post_template.render(description=htmlstring, posts=["dog", "cat"])
-
-		# If type is a user, make @handle/index.html
-		if "type" in pyyam.keys():
-			if pyyam["type"] == "user" or pyyam["type"] == "page":
-				user_folderpath = cwd + '/_site/' + "@" + pyyam["handle"]
-				Path(user_folderpath).mkdir(parents=True, exist_ok=True)
-				user_writepath = user_folderpath + "/index.html"
-				new_userfile = open(user_writepath, "w")
-				new_userfile.write(full_html)
-				new_userfile.close()
-			elif pyyam["type"] == "post":
-				post_folderpath = cwd + '/_site/' + str(pyyam["itemId"])
-				Path(post_folderpath).mkdir(parents=True, exist_ok=True)
-				user_writepath = post_folderpath + "/index.html"
-				user_writepath2 = post_folderpath + "/" + re.sub('.md$', '.html', file)
-				new_userfile = open(user_writepath, "w")
-				new_userfile.write(full_html)
-				new_userfile.close()
-				new_userfile = open(user_writepath2, "w")
-				new_userfile.write(full_html)
-				new_userfile.close()
-
-		# Create index.html file based on "home" in config.yml
-		if "handle" in pyyam.keys():
-			if pyyam["handle"] == index_page:
-				home_writepath = cwd + '/_site/index.html'
-				home_page = open(home_writepath, "w")
-				home_page.write(full_html)
-				home_page.close()
-
-
 
 # Add all triples to the graph
 from rdflib import ConjunctiveGraph
@@ -346,8 +301,6 @@ for row in q:
 
 print(len(q))
 
-
-
 ################
 # OUTPUT GRAPH
 ################
@@ -355,6 +308,57 @@ print(len(q))
 graph.serialize(destination='dream-network15.ttl', format='turtle')
 
 
-# Add properties to the item
+################
+# GENERATE PAGES
+################
+print("file_objects")
+print(file_objects)
+print(len(file_objects))
+for pyyam in file_objects:
+
+	htmlstring = pyyam["description"]
+	full_html = ""
+
+	# Layout 
+	# Post is for individual posts, page is for pages with many posts
+	if "layout" in pyyam.keys():
+		if pyyam["layout"] == "post":
+			full_html = post_template.render(description=htmlstring, posts=["dog", "cat"])
+		else: 
+			full_html = page_template.render(description=htmlstring, posts=["dog", "cat"])
+	else: 
+		full_html = post_template.render(description=htmlstring, posts=["dog", "cat"])
+
+	# If type is a user, make @handle/index.html
+	if "type" in pyyam.keys():
+		if pyyam["type"] == "user" or pyyam["type"] == "page":
+			user_folderpath = cwd + '/_site/' + "@" + pyyam["handle"]
+			Path(user_folderpath).mkdir(parents=True, exist_ok=True)
+			user_writepath = user_folderpath + "/index.html"
+			print(user_writepath)
+			new_userfile = open(user_writepath, "w")
+			new_userfile.write(full_html)
+			new_userfile.close()
+		elif pyyam["type"] == "post":
+			post_folderpath = cwd + '/_site/' + str(pyyam["itemId"])
+			Path(post_folderpath).mkdir(parents=True, exist_ok=True)
+			user_writepath = post_folderpath + "/index.html"
+
+			user_writepath2 = post_folderpath + "/" + pyyam["urlSlug"] + ".html"
+			print(user_writepath2)
+			new_userfile = open(user_writepath, "w")
+			new_userfile.write(full_html)
+			new_userfile.close()
+			new_userfile = open(user_writepath2, "w")
+			new_userfile.write(full_html)
+			new_userfile.close()
+
+	# Create index.html file based on "home" in config.yml
+	if "handle" in pyyam.keys():
+		if pyyam["handle"] == index_page:
+			home_writepath = cwd + '/_site/index.html'
+			home_page = open(home_writepath, "w")
+			home_page.write(full_html)
+			home_page.close()
 		
 		

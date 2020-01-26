@@ -2,6 +2,7 @@
 
 import markdown2, os, re, rdflib
 from rdflib import Namespace, Literal
+from pathlib import Path
 import yaml
 try:
     from yaml import CLoader as Loader, CDumper as Dumper
@@ -153,7 +154,6 @@ for subdir, dirs, files in os.walk(rootdir):
 			continue
 		
 		filepath = os.path.join(subdir, file)
-		print(os.path.join(subdir, file))
 
 		reading_yaml = False
 		lines = []
@@ -177,11 +177,21 @@ for subdir, dirs, files in os.walk(rootdir):
 
 		yaml_document = "".join(yaml_lines)
 		pyyam = yaml.load(yaml_document, Loader=yaml.FullLoader);
-		print(pyyam)
-
 
 		htmlstring = markdown2.markdown("\n".join(line for line in lines))
+
 		writepath = os.getcwd() + '/_site/' + file
+
+		# If type is a user, make handle/index.html
+		if "type" in pyyam.keys():
+			if pyyam["type"] == "user":
+				user_folderpath = os.getcwd() + '/_site/' + pyyam["handle"]
+				Path(user_folderpath).mkdir(parents=True, exist_ok=True)
+				user_writepath = user_folderpath + "/index.html"
+				new_userfile = open(user_writepath, "w")
+				new_userfile.write(htmlstring)
+				new_userfile.close()
+
 
 		writepath = re.sub('.md$', '.html', writepath)
 		newfile = open(writepath, "w")
@@ -233,7 +243,7 @@ for subdir, dirs, files in os.walk(rootdir):
 
 		# Tags
 		for tag in pyyam['tags']:
-			print(tag)
+			print("", end="")
 
 
 

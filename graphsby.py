@@ -26,9 +26,9 @@ site_name = get_yaml_var("site", config_path)
 templateLoader = jinja2.FileSystemLoader(searchpath="./_templates")
 templateEnv = jinja2.Environment(loader=templateLoader)
 POST_TEMPLATE_FILE = "post.html"
-PAGE_TEMPLATE_FILE = "post.html"
+PAGE_TEMPLATE_FILE = "page.html"
 post_template = templateEnv.get_template(POST_TEMPLATE_FILE)
-page_template = templateEnv.get_template(POST_TEMPLATE_FILE)
+page_template = templateEnv.get_template(PAGE_TEMPLATE_FILE)
 
 
 # Startup messages
@@ -245,15 +245,13 @@ for subdir, dirs, files in os.walk(rootdir):
 				new_userfile.close()
 
 		# Create index.html file based on "home" in config.yml
-		full_html = post_template.render(content=htmlstring)  # this is where to put args to the template renderer
+		full_html = page_template.render(description=htmlstring, posts=["dog", "cat"])  # this is where to put args to the template renderer
 		if "handle" in pyyam.keys():
 			if pyyam["handle"] == index_page:
 				home_writepath = cwd + '/_site/index.html'
 				home_page = open(home_writepath, "w")
 				home_page.write(full_html)
 				home_page.close()
-
-
 
 
 		################

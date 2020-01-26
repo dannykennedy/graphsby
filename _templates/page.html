@@ -1,0 +1,22 @@
+{% extends "base.html" %} {% block body_contents %}
+
+<div class="page">
+	<div class="page-description">
+		
+		{{description}}
+
+	</div>
+	<div class="page-items">
+
+		{% if posts %} {% for post in posts %}
+
+                <span class="poster">{{post}}</span>
+                
+		 {% endfor %} {% endif %}
+		
+
+	</div>
+
+</div>
+
+{% endblock %}

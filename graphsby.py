@@ -6,7 +6,7 @@ sys.path.insert(1, './modules')
 import markdown2, os, re, rdflib
 from rdflib import Namespace, Literal
 from pathlib import Path
-from jinja2 import Template
+import jinja2
 from get_yaml_var import get_yaml_var
 import yaml
 try:
@@ -20,12 +20,20 @@ config_path = cwd + "/_config.yml"
 index_page = get_yaml_var("home", config_path)
 site_name = get_yaml_var("site", config_path)
 
+# Template vars
+templateLoader = jinja2.FileSystemLoader(searchpath="./_templates")
+templateEnv = jinja2.Environment(loader=templateLoader)
+POST_TEMPLATE_FILE = "post.html"
+PAGE_TEMPLATE_FILE = "post.html"
+post_template = templateEnv.get_template(POST_TEMPLATE_FILE)
+page_template = templateEnv.get_template(POST_TEMPLATE_FILE)
+
 
 # Startup messages
 print("### Generating site ###")
-t = Template("Site: {{ site_name }}")
+t = jinja2.Template("Site: {{ site_name }}")
 print(t.render(site_name=site_name))
-t = Template("Homepage: {{ index_page }}")
+t = jinja2.Template("Homepage: {{ index_page }}")
 print(t.render(index_page=index_page))
 
 
@@ -224,11 +232,12 @@ for subdir, dirs, files in os.walk(rootdir):
 				new_userfile.close()
 
 		# Create index.html file based on "home" in config.yml
+		outputText = post_template.render(content=htmlstring)  # this is where to put args to the template renderer
 		if "handle" in pyyam.keys():
 			if pyyam["handle"] == index_page:
 				home_writepath = cwd + '/_site/index.html'
 				home_page = open(home_writepath, "w")
-				home_page.write(htmlstring)
+				home_page.write(outputText)
 				home_page.close()
 
 

@@ -1,7 +1,5 @@
 #!/usr/local/bin/python3
 
-import markdown2, os, re, rdflib
-from rdflib import Namespace, Literal
 import yaml
 try:
     from yaml import CLoader as Loader, CDumper as Dumper

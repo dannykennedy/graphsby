@@ -1,13 +1,22 @@
 #!/usr/local/bin/python3
 
+import sys
+sys.path.insert(1, './modules')
+
 import markdown2, os, re, rdflib
 from rdflib import Namespace, Literal
 from pathlib import Path
+from get_yaml_var import get_yaml_var
 import yaml
 try:
     from yaml import CLoader as Loader, CDumper as Dumper
 except ImportError:
     from yaml import Loader, Dumper
+
+index_page = get_yaml_var("home", os.getcwd()+"/_config.yml")
+print("### Generating site ###")
+print("Homepage: ", end="")
+print(index_page)
 
 
 # Namespace declarations
@@ -202,6 +211,15 @@ for subdir, dirs, files in os.walk(rootdir):
 				new_userfile = open(user_writepath2, "w")
 				new_userfile.write(htmlstring)
 				new_userfile.close()
+
+		# Create index.html file based on "home" in config.yml
+		if "handle" in pyyam.keys():
+			if pyyam["handle"] == index_page:
+				home_writepath = os.getcwd() + '/_site/index.html'
+				home_page = open(home_writepath, "w")
+				home_page.write(htmlstring)
+				home_page.close()
+
 
 
 

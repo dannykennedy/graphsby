@@ -36,7 +36,7 @@ for issue in issues:
 	print(existing_id)
 
 	# Use existing id, or make a new one if there isn't one
-	if existing_id > 0:
+	if len(existing_id) > 1:
 		pyyaml['itemId'] = existing_id
 	else:
 		pyyaml['itemId'] = id_gen()

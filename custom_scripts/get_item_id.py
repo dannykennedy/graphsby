@@ -34,4 +34,4 @@ def get_item_id(filepath):
 	if "itemId" in pyyam.keys():
 		return pyyam["itemId"]
 	else: 
-		return 0
+		return "0"

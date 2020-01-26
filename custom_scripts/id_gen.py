@@ -12,6 +12,7 @@
 
 import time
 from random import randrange
+from base64_id import base64_id
 
 # Python version
 def id_gen():
@@ -21,4 +22,6 @@ def id_gen():
 	# Up to 4 hex digits
 	random_part = randrange(999999)
 	# Zero pad
-	return int(str(millis) + str(random_part).zfill(6))
+	int_id = int(str(millis) + str(random_part).zfill(6))
+	# base64 encode
+	return base64_id(int_id)

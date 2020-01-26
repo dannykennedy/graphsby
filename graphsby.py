@@ -238,7 +238,7 @@ for subdir, dirs, files in os.walk(rootdir):
 		# If type is a user, make handle/index.html
 		if "type" in pyyam.keys():
 			if pyyam["type"] == "user" or pyyam["type"] == "page":
-				user_folderpath = cwd + '/_site/' + pyyam["handle"]
+				user_folderpath = cwd + '/_site/' + "@" + pyyam["handle"]
 				Path(user_folderpath).mkdir(parents=True, exist_ok=True)
 				user_writepath = user_folderpath + "/index.html"
 				new_userfile = open(user_writepath, "w")

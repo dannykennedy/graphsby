@@ -338,15 +338,11 @@ qres = graph.query(
 	   WHERE { ?item rdf:type/rdfs:subClassOf* ex:Item .}"""
 		 		)
 
-# SELECT ?entity
-# WHERE {
-#     ?entity rdf:type/rdfs:subClassOf* :C
-# }
-
-
 print("Items: ")
 for row in qres:
     print("Item: %s" % row) 
+
+print(len(qres))
 
 
 

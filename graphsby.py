@@ -355,19 +355,34 @@ for pyyam in file_objects:
 		# This is literally Inception
 		query_string = """
 			PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-			SELECT DISTINCT ?littleTag ?tagName ?tagId
+			SELECT DISTINCT ?littleTag ?tagName ?tagId ?textId ?tagType
 			WHERE {{ 
 				?item dnj:itemId "{id}"^^xsd:string .
 				?item dnj:hasTag ?littleTag .
 				?littleTag dnj:name ?tagName .
-				?littleTag dnj:itemId ?tagId
+				?littleTag dnj:itemId ?tagId .
+				?littleTag dnj:handle|dnj:urlSlug ?textId .
+				?littleTag a ?tagType .
 			}}""".format(id=row[3])
 		tag_query = graph.query(query_string)
 
 		# Create a tags array (for dem little tags on the cards)
 		little_tags = []
 		for lil_tag in tag_query:
-			little_tags.append({"name": lil_tag[1], "tagId": lil_tag[2]})
+
+			# Break down query object
+			tagName = lil_tag[1]
+			tagId = lil_tag[2]
+			textId = lil_tag[3]
+			tagType = lil_tag[4].split("#")[1]
+
+			tagLink = ""
+			if tagType == "Page" or tagType == "User":
+				tagLink = "@" + textId
+			else: 
+				tagLink = tagId + "/" + textId
+
+			little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagType":tagType, "tagLink":tagLink})
 
 		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "tags": little_tags})
 

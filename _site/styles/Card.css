@@ -121,6 +121,11 @@
     margin-top: 20px;
 }
 
+.card-title a {
+    text-decoration: none;
+    color: inherit;
+}
+
 /*ANIMATIONS*/
 
 .slide-left {

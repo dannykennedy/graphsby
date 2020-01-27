@@ -13,6 +13,11 @@
     -webkit-font-smoothing: antialiased;
 }
 
+.tag a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .tag-wrapper {
     display: flex;
     flex-direction: row;

@@ -28,22 +28,20 @@
                     </div>
                 </div>
                 <div class="card-body">
+                    <h3>{{post.name}}</h3>
                     <div class="card-body-text">
                         <p>{{post.description}}</p>
                     </div>
                 </div>
                 <div class="card-footer">
                     <div class="tags-area">
-                        <div class="tag OTHER" id="1228896226959920">
+                    {% if tags %} {% for tag in tags %}
+                        <div class="tag OTHER">
                             <div class="tag-wrapper">
-                                <div class="tag-text"><span class="tag-name">something</span></div>
+                                <div class="tag-text"><span class="tag-name">Something</span></div>
                             </div>
                         </div>
-                        <div class="tag OTHER" id="1228897996695413">
-                            <div class="tag-wrapper">
-                                <div class="tag-text"><span class="tag-description" style="border: 1px solid rgb(82, 151, 242);">Custom slug</span><span class="tag-name"></span></div>
-                            </div>
-                        </div>
+                    {% endfor %} {% endif %}
                     </div>
                 </div>
             </div>

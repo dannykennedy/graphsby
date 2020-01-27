@@ -308,46 +308,6 @@ for triple in edges:
 
 
 
-
-#############
-# QUERY GRAPH
-#############
-
-
-# # Get all items
-# q = graph.query(
-#     """PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-# 	   SELECT DISTINCT ?item ?description ?layout ?handle
-# 	   WHERE {
-# 	   			?item dnj:layout ?layout .
-# 	   			?item dnj:handle ?handle .
-# 	   			?item dnj:description ?description .
-# 	   			?item rdf:type/rdfs:subClassOf* dnj:Item .}"""
-# 		 		)
-
-# print("Items: ")
-# # for row in q:
-# #     print("Item: %s , Description %s , Layout %s, Handle: %s" % row)
-# #     # print(row) 
-
-print(len(q))
-
-# Get all items
-q = graph.query(
-    """PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-	   SELECT DISTINCT ?item
-	   WHERE { ?network dnj:handle "dreamnetwork"^^xsd:string .
-	   		   ?item dnj:hasTag ?network .
-	   			}"""
-		 		)
-
-print("Items: ")
-# for row in q:
-	# print("Itemzzzz: %s" % row)
-    # print(row) 
-
-print(len(q))
-
 ################
 # OUTPUT GRAPH
 ################
@@ -364,12 +324,6 @@ print(len(file_objects))
 ##########################################
 # GET ALL ITEMS THAT HAVE TAGGED THAT PAGE
 ##########################################
-
-
-
-
-
-
 
 for pyyam in file_objects:
 
@@ -402,7 +356,7 @@ for pyyam in file_objects:
 	tagged_items = []
 	for row in q:
 		# print("Item: %s, name: %s, description: %s" % row)
-		tagged_items.append({"description":row[2], "itemId":row[3]})
+		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3]})
 
 
 
@@ -414,11 +368,11 @@ for pyyam in file_objects:
 	# Post is for individual posts, page is for pages with many posts
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(description=htmlstring, posts=tagged_items, site=site_url)
+			full_html = post_template.render(description=htmlstring, posts=tagged_items, site=site_url, tags=pyyam["tags"])
 		else: 
-			full_html = page_template.render(description=htmlstring, posts=tagged_items, site=site_url)
+			full_html = page_template.render(description=htmlstring, posts=tagged_items, site=site_url, tags=pyyam["tags"])
 	else: 
-		full_html = post_template.render(description=htmlstring, posts=tagged_items, site=site_url)
+		full_html = post_template.render(description=htmlstring, posts=tagged_items, site=site_url, tags=pyyam["tags"])
 
 
 	# Path to write to (Dependant on type of item)
@@ -452,5 +406,27 @@ for pyyam in file_objects:
 			home_page = open(home_writepath, "w")
 			home_page.write(full_html)
 			home_page.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		
 		

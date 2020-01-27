@@ -5,7 +5,7 @@
 #########
 
 # Libraries
-import os, sys, re, rdflib, jinja2
+import os, sys, jinja2
 from rdflib import Namespace, Literal, ConjunctiveGraph
 from pathlib import Path
 
@@ -52,6 +52,13 @@ Path(images_folderpath).mkdir(parents=True, exist_ok=True)
 copytree(cwd + "/_images/", cwd + "/_site/images")
 # TODO: Files
 
+
+########################
+# SET UP GRAPH STRUCTURE
+########################
+
+# Create graph
+graph = ConjunctiveGraph()
 
 
 # Namespace declarations
@@ -178,6 +185,16 @@ propertyTriples = [
 	(hasAuthor, rdfsRange, personClass),
 ]
 
+# Save graph structure
+for triple in classTriples:
+	graph.add(triple)
+
+for triple in classHierarchyTriples:
+	graph.add(triple)
+
+for triple in propertyTriples:
+	graph.add(triple)
+
 
 
 
@@ -202,15 +219,11 @@ for subdir, dirs, files in os.walk(cwd + '/_items'):
 		file_objects.append(pyyam)
 
 
-##############################################
-# INSTANCE DATA FOR GRAPH (THE ACTUAL CONTENT)
-##############################################
+########################################################
+# LOOP ONCE AND ADD BASIC INSTANCES (THE ACTUAL CONTENT)
+########################################################
+
 instances = []
-
-
-###################################
-# LOOP ONCE AND ADD BASIC INSTANCES
-###################################
 
 for pyyam in file_objects:
 
@@ -252,38 +265,24 @@ for pyyam in file_objects:
 	# Layout
 	instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
 
+# Add instances to the graph
+for triple in instances: 
+	graph.add(triple) 
+
 
 ###############################################
 # LOOP AGAIN AND ADD TAGS (EDGES BETWEEN ITEMS)
 ###############################################
 
+edges = []
+
 for pyyam in file_objects:
 	for tag in pyyam['tags']:
-
-
-
-
 		print("", end="")
 
 
 
 
-
-# Add all triples to the graph
-
-graph = ConjunctiveGraph()
-
-for triple in classTriples:
-	graph.add(triple)
-
-for triple in classHierarchyTriples:
-	graph.add(triple)
-
-for triple in propertyTriples:
-	graph.add(triple)
-
-for triple in instances: 
-	graph.add(triple) 
 
 # Get all items
 q = graph.query(

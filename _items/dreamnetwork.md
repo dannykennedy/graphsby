@@ -10,8 +10,6 @@ date: 2015-03-24
 featuredImg: dnj.png
 ---
 
-# Thank you, Dream Network supporter!
-
 As thanks for your very generous donation, here's something special. As promised, scans of the entire 1982-2015 Dream Network archive, hot off the press from the scanners. We've barely even had time to style this page, but as tribute to the [old DNJ site](https://web.archive.org/web/20060424062349/http://dreamnetwork.net/) we've pulled in a few styles:)
         
 What a treasure trove this is. It's almost an embarrassment of riches, and we hope you enjoy perusing these for years to come.

@@ -1835,9 +1835,7 @@ ns1:bcpqn72unjj a ns1:Post ;
     ns1:urlSlug "dream-network-volume-2"^^xsd:string .
 
 ns1:bcphbq3xdnj a ns1:Page ;
-    ns1:description """<h1>Thank you, Dream Network supporter!</h1>
-
-<p>As thanks for your very generous donation, here's something special. As promised, scans of the entire 1982-2015 Dream Network archive, hot off the press from the scanners. We've barely even had time to style this page, but as tribute to the <a href="https://web.archive.org/web/20060424062349/http://dreamnetwork.net/">old DNJ site</a> we've pulled in a few styles:)</p>
+    ns1:description """<p>As thanks for your very generous donation, here's something special. As promised, scans of the entire 1982-2015 Dream Network archive, hot off the press from the scanners. We've barely even had time to style this page, but as tribute to the <a href="https://web.archive.org/web/20060424062349/http://dreamnetwork.net/">old DNJ site</a> we've pulled in a few styles:)</p>
 
 <p>What a treasure trove this is. It's almost an embarrassment of riches, and we hope you enjoy perusing these for years to come.</p>
 

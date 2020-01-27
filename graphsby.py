@@ -371,18 +371,17 @@ for pyyam in file_objects:
 
 		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "tags": little_tags})
 
-	htmlstring = pyyam["description"]
-	full_html = ""
 
+	full_html = ""
 	# Layout 
 	# Post is for individual posts, page is for pages with many posts
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(description=htmlstring, posts=tagged_items, site=site_url)
+			full_html = post_template.render(render_item=pyyam, posts=tagged_items, site=site_url)
 		else: 
-			full_html = page_template.render(description=htmlstring, posts=tagged_items, site=site_url)
+			full_html = page_template.render(render_item=pyyam, posts=tagged_items, site=site_url)
 	else: 
-		full_html = post_template.render(description=htmlstring, posts=tagged_items, site=site_url)
+		full_html = post_template.render(render_item=pyyam, posts=tagged_items, site=site_url)
 
 
 	# Path to write to (Dependant on type of item)

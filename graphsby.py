@@ -300,7 +300,6 @@ for pyyam in file_objects:
 		# Append edge to edges array
 		curr_item = pyyam["itemId"]
 		if tag_item != "":
-			print(tag_item)
 			edges.append((dreamNS[curr_item], hasTag, dreamNS[tag_item]))
 
 # Add edges to the graph

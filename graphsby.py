@@ -329,29 +329,30 @@ for pyyam in file_objects:
 	else: 
 		full_html = post_template.render(description=htmlstring, posts=["dog", "cat"])
 
-	# If type is a user, make @handle/index.html
-	if "type" in pyyam.keys():
-		if pyyam["type"] == "user" or pyyam["type"] == "page":
-			user_folderpath = cwd + '/_site/' + "@" + pyyam["handle"]
-			Path(user_folderpath).mkdir(parents=True, exist_ok=True)
-			user_writepath = user_folderpath + "/index.html"
-			print(user_writepath)
-			new_userfile = open(user_writepath, "w")
-			new_userfile.write(full_html)
-			new_userfile.close()
-		elif pyyam["type"] == "post":
-			post_folderpath = cwd + '/_site/' + str(pyyam["itemId"])
-			Path(post_folderpath).mkdir(parents=True, exist_ok=True)
-			user_writepath = post_folderpath + "/index.html"
 
-			user_writepath2 = post_folderpath + "/" + pyyam["urlSlug"] + ".html"
-			print(user_writepath2)
-			new_userfile = open(user_writepath, "w")
-			new_userfile.write(full_html)
-			new_userfile.close()
-			new_userfile = open(user_writepath2, "w")
-			new_userfile.write(full_html)
-			new_userfile.close()
+	# Path to write to (Dependant on type of item)
+	folderpath = cwd + "/site/no-type"
+	writepaths = []
+
+	if "type" in pyyam.keys():
+		# If type is a user or page, make @handle/index.html
+		if pyyam["type"] == "user" or pyyam["type"] == "page":
+			folderpath = cwd + '/_site/' + "@" + pyyam["handle"]
+			writepaths.append(folderpath + "/index.html")
+		elif pyyam["type"] == "post":
+			folderpath = cwd + '/_site/' + str(pyyam["itemId"])
+			writepaths.append(folderpath + "/index.html")
+			writepaths.append(folderpath + "/" + pyyam["urlSlug"] + ".html")
+
+	# Make the folder for the posts
+	Path(folderpath).mkdir(parents=True, exist_ok=True)
+
+	# Add post file(s) to the folder
+	for path in writepaths:
+		new_file = open(path, "w")
+		new_file.write(full_html)
+		new_file.close()
+
 
 	# Create index.html file based on "home" in config.yml
 	if "handle" in pyyam.keys():

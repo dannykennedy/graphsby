@@ -292,8 +292,22 @@ for pyyam in file_objects:
 
 		q = graph.query(query_string)
 
+		# Naively assume there is only one result
+		tag_item = ""
 		for row in q:
-			print(row[0])
+			tag_item = row[0]
+
+		# Append edge to edges array
+		curr_item = pyyam["itemId"]
+		if tag_item != "":
+			print(tag_item)
+			edges.append((dreamNS[curr_item], hasTag, dreamNS[tag_item]))
+
+# Add edges to the graph
+for triple in edges: 
+	graph.add(triple) 
+
+
 
 
 #############

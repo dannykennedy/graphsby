@@ -16,6 +16,8 @@ ns1:Place a <http://www.w3.org/2002/07/owl#Class> ;
 ns1:bcphb2asab7 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_33/33.1_beyond_the_veil.pdf" download="">Download issue 33.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocvint5 ;
     ns1:itemId "bcphb2asab7"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "33.1: Beyond the Veil"^^xsd:string ;
@@ -24,6 +26,8 @@ ns1:bcphb2asab7 a ns1:Post ;
 ns1:bcphb2eggje a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_33/33.2_popourri.pdf" download="">Download issue 33.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocvint5 ;
     ns1:itemId "bcphb2eggje"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "33.2: Popourri"^^xsd:string ;
@@ -32,6 +36,8 @@ ns1:bcphb2eggje a ns1:Post ;
 ns1:bcphb2huxmr a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_33/33.3_change.pdf" download="">Download issue 33.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocvint5 ;
     ns1:itemId "bcphb2huxmr"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "33.3: Dreams are Agents for Change"^^xsd:string ;
@@ -40,6 +46,8 @@ ns1:bcphb2huxmr a ns1:Post ;
 ns1:bcphb2kqfhu a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf" download="">Download issue 33.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocvint5 ;
     ns1:itemId "bcphb2kqfhu"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "33.4: Finding Gold in Old Dreams"^^xsd:string ;
@@ -48,6 +56,8 @@ ns1:bcphb2kqfhu a ns1:Post ;
 ns1:bcphbh7fv5e a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_1/1.5_Dream_Network_Bulletin_Vol.1_No.5.pdf" download="">Download issue 1.5</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
     ns1:itemId "bcphbh7fv5e"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "1.5: "^^xsd:string ;
@@ -56,6 +66,8 @@ ns1:bcphbh7fv5e a ns1:Post ;
 ns1:bcphbhe6wex a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_1/1.1_Dream_Network_Bulletin_Vol.1_Issue_1.pdf" download="">Download issue 1.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
     ns1:itemId "bcphbhe6wex"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "1.1: "^^xsd:string ;
@@ -64,6 +76,8 @@ ns1:bcphbhe6wex a ns1:Post ;
 ns1:bcphbhpaiyz a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_1/1.2_Dream_Network_Bulletin_Vol.1_Issue_2.pdf" download="">Download issue 1.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
     ns1:itemId "bcphbhpaiyz"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "1.2: "^^xsd:string ;
@@ -72,6 +86,8 @@ ns1:bcphbhpaiyz a ns1:Post ;
 ns1:bcphbhs662v a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_1/1.3_Dream_Network_Bulletin_Vol.1_Issue_3.pdf" download="">Download issue 1.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
     ns1:itemId "bcphbhs662v"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "1.3: "^^xsd:string ;
@@ -80,6 +96,8 @@ ns1:bcphbhs662v a ns1:Post ;
 ns1:bcphbhxekxp a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_1/1.4_Fusion_Volume_1_No._4_of_The_Dream_Network_Bulletin.pdf" download="">Download issue 1.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
     ns1:itemId "bcphbhxekxp"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "1.4: "^^xsd:string ;
@@ -88,6 +106,8 @@ ns1:bcphbhxekxp a ns1:Post ;
 ns1:bcphbi4awjx a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_2/2.1-Dream-Craft-Volume-2-No-1.pdf" download="">Download issue 2.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
     ns1:itemId "bcphbi4awjx"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "2.1: "^^xsd:string ;
@@ -96,6 +116,8 @@ ns1:bcphbi4awjx a ns1:Post ;
 ns1:bcphbibydox a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_1/1.7_Dream_Craft_Volume_1_No._7.pdf" download="">Download issue 1.7</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
     ns1:itemId "bcphbibydox"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "1.7: "^^xsd:string ;
@@ -104,6 +126,8 @@ ns1:bcphbibydox a ns1:Post ;
 ns1:bcphbiinqeh a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_1/1.8_Dream_Network_Bulletin_Vol.1_No.8.pdf" download="">Download issue 1.8</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
     ns1:itemId "bcphbiinqeh"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "1.8: "^^xsd:string ;
@@ -112,6 +136,8 @@ ns1:bcphbiinqeh a ns1:Post ;
 ns1:bcphbimbkal a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_1/1.9_Dream_Network_Bulletin_Vol.1_No.9_-_Pages_are_cut.pdf" download="">Download issue 1.9</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
     ns1:itemId "bcphbimbkal"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "1.9: "^^xsd:string ;
@@ -120,6 +146,8 @@ ns1:bcphbimbkal a ns1:Post ;
 ns1:bcphbirkrx4 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_1/1.10_Fusion_Volume_1_No._10_of_The_Dream_Network_Bulletin.pdf" download="">Download issue 1.10</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
     ns1:itemId "bcphbirkrx4"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "1.10: "^^xsd:string ;
@@ -128,6 +156,8 @@ ns1:bcphbirkrx4 a ns1:Post ;
 ns1:bcphbivy3pu a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_1/1.11_Dream_Network_Bulletin_Vol.1_No_11.pdf" download="">Download issue 1.11</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
     ns1:itemId "bcphbivy3pu"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "1.11: "^^xsd:string ;
@@ -136,6 +166,8 @@ ns1:bcphbivy3pu a ns1:Post ;
 ns1:bcphbj5rhy2 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_2/2.9-Dream-Craft-Volume-2-No-9.pdf" download="">Download issue 2.9</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
     ns1:itemId "bcphbj5rhy2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "2.9: "^^xsd:string ;
@@ -144,6 +176,8 @@ ns1:bcphbj5rhy2 a ns1:Post ;
 ns1:bcphbja6ifz a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_2/2.2-Dream-Network-Bulletin-Vol.2-No.2.pdf" download="">Download issue 2.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
     ns1:itemId "bcphbja6ifz"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "2.2: "^^xsd:string ;
@@ -152,6 +186,8 @@ ns1:bcphbja6ifz a ns1:Post ;
 ns1:bcphbje2mwm a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_2/2.3-Dream-Craft-Volume-2-No-3.pdf" download="">Download issue 2.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
     ns1:itemId "bcphbje2mwm"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "2.3: "^^xsd:string ;
@@ -160,6 +196,8 @@ ns1:bcphbje2mwm a ns1:Post ;
 ns1:bcphbjilydj a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf" download="">Download issue 2.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
     ns1:itemId "bcphbjilydj"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "2.4: "^^xsd:string ;
@@ -168,6 +206,8 @@ ns1:bcphbjilydj a ns1:Post ;
 ns1:bcphbjmcifx a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_2/2.5-Dream-Network-Bulletin-Vol.2-No.5.pdf" download="">Download issue 2.5</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
     ns1:itemId "bcphbjmcifx"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "2.5: "^^xsd:string ;
@@ -176,6 +216,8 @@ ns1:bcphbjmcifx a ns1:Post ;
 ns1:bcphbjpp3z2 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_2/2.6-Fusion-Volume-2_No-5_-of-The-Dream-Network-Bulletin.pdf" download="">Download issue 2.6</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
     ns1:itemId "bcphbjpp3z2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "2.6: "^^xsd:string ;
@@ -184,6 +226,8 @@ ns1:bcphbjpp3z2 a ns1:Post ;
 ns1:bcphbjv6pkd a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_2/2.7-Dream-Craft-Volume-2-No-7.pdf" download="">Download issue 2.7</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
     ns1:itemId "bcphbjv6pkd"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "2.7: "^^xsd:string ;
@@ -192,6 +236,8 @@ ns1:bcphbjv6pkd a ns1:Post ;
 ns1:bcphbjzjvrr a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_2/2.8-Dream-Network-Bulletin-Vol.2-No.8.pdf" download="">Download issue 2.8</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
     ns1:itemId "bcphbjzjvrr"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "2.8: "^^xsd:string ;
@@ -200,6 +246,8 @@ ns1:bcphbjzjvrr a ns1:Post ;
 ns1:bcphbk2qeun a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_2/2.12-Dream-Craft-Volume-2-No-12.pdf" download="">Download issue 2.12</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
     ns1:itemId "bcphbk2qeun"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "2.12: "^^xsd:string ;
@@ -208,6 +256,8 @@ ns1:bcphbk2qeun a ns1:Post ;
 ns1:bcphbk6b6uk a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_3/3.1-2-Dream-Network-Bulletin-Vol.3-No-1-2.pdf" download="">Download issue 3.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn76e7n5 ;
     ns1:itemId "bcphbk6b6uk"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "3.1: "^^xsd:string ;
@@ -216,6 +266,8 @@ ns1:bcphbk6b6uk a ns1:Post ;
 ns1:bcphbkea673 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_2/2.10-Dream-Network-Bulletin-Vol.2-No.10.pdf" download="">Download issue 2.10</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
     ns1:itemId "bcphbkea673"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "2.10: "^^xsd:string ;
@@ -224,6 +276,8 @@ ns1:bcphbkea673 a ns1:Post ;
 ns1:bcphbklgsln a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_2/2.11-Dream-Network-Bulletin-Vol.2-No.11.pdf" download="">Download issue 2.11</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
     ns1:itemId "bcphbklgsln"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "2.11: "^^xsd:string ;
@@ -232,6 +286,8 @@ ns1:bcphbklgsln a ns1:Post ;
 ns1:bcphbl3kedf a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_4/4.5-Dream-Network-Bulletin_Volume-4-Number-5.pdf" download="">Download issue 4.5</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn77nhwr ;
     ns1:itemId "bcphbl3kedf"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "4.5: "^^xsd:string ;
@@ -240,6 +296,8 @@ ns1:bcphbl3kedf a ns1:Post ;
 ns1:bcphblcllan a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_3/3.2-'3-4'-The-Dream-Network-Volume-3-4.pdf" download="">Download issue 3.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn76e7n5 ;
     ns1:itemId "bcphblcllan"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "3.2: "^^xsd:string ;
@@ -248,6 +306,8 @@ ns1:bcphblcllan a ns1:Post ;
 ns1:bcphblfujy2 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_3/3.3-The-Dream-Network-Volume-3-No-3.pdf" download="">Download issue 3.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn76e7n5 ;
     ns1:itemId "bcphblfujy2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "3.3: "^^xsd:string ;
@@ -256,6 +316,8 @@ ns1:bcphblfujy2 a ns1:Post ;
 ns1:bcphbliwn3u a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_3/3.4-The-Dream-Network_Volume-3_No-4.pdf" download="">Download issue 3.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn76e7n5 ;
     ns1:itemId "bcphbliwn3u"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "3.4: "^^xsd:string ;
@@ -264,6 +326,8 @@ ns1:bcphbliwn3u a ns1:Post ;
 ns1:bcphbllkqg7 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_3/3.5-The-Dream-Network_Volume-3_No-5.pdf" download="">Download issue 3.5</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn76e7n5 ;
     ns1:itemId "bcphbllkqg7"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "3.5: "^^xsd:string ;
@@ -272,6 +336,8 @@ ns1:bcphbllkqg7 a ns1:Post ;
 ns1:bcphblnikds a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf" download="">Download issue 3.6</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn76e7n5 ;
     ns1:itemId "bcphblnikds"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "3.6: "^^xsd:string ;
@@ -280,6 +346,8 @@ ns1:bcphblnikds a ns1:Post ;
 ns1:bcphblqvj7h a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_4/4.1-The-Dream-Network_Volume-4_Issue-1.pdf" download="">Download issue 4.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn77nhwr ;
     ns1:itemId "bcphblqvj7h"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "4.1: "^^xsd:string ;
@@ -288,6 +356,8 @@ ns1:bcphblqvj7h a ns1:Post ;
 ns1:bcphblsydwp a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_4/4.2-The-Dream-Network_Volume-4_Issue-2.pdf" download="">Download issue 4.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn77nhwr ;
     ns1:itemId "bcphblsydwp"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "4.2: "^^xsd:string ;
@@ -296,6 +366,8 @@ ns1:bcphblsydwp a ns1:Post ;
 ns1:bcphblwwuy6 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_4/4.3-The-Dream-Network-Vol.4-Issue-3.pdf" download="">Download issue 4.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn77nhwr ;
     ns1:itemId "bcphblwwuy6"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "4.3: "^^xsd:string ;
@@ -304,6 +376,8 @@ ns1:bcphblwwuy6 a ns1:Post ;
 ns1:bcphblyrd2y a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_4/4.4-Dream-Network-Bulletin_Volume-4-Number-4.pdf" download="">Download issue 4.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn77nhwr ;
     ns1:itemId "bcphblyrd2y"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "4.4: "^^xsd:string ;
@@ -312,6 +386,8 @@ ns1:bcphblyrd2y a ns1:Post ;
 ns1:bcphbm5mept a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_6/6.2-Dream-Network-Bulletin_Volume-6-Number-2.pdf" download="">Download issue 6.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaf5sto ;
     ns1:itemId "bcphbm5mept"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "6.2: "^^xsd:string ;
@@ -320,6 +396,8 @@ ns1:bcphbm5mept a ns1:Post ;
 ns1:bcphbmaewem a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_4/4.6-Dream-Network-Bulletin_Volume-4-Number-6.pdf" download="">Download issue 4.6</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn77nhwr ;
     ns1:itemId "bcphbmaewem"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "4.6: "^^xsd:string ;
@@ -328,6 +406,8 @@ ns1:bcphbmaewem a ns1:Post ;
 ns1:bcphbmepnkg a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_5/5.1-Dream-Network-Bulletin_Volume-5-Number-1.pdf" download="">Download issue 5.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
     ns1:itemId "bcphbmepnkg"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "5.1: "^^xsd:string ;
@@ -336,6 +416,8 @@ ns1:bcphbmepnkg a ns1:Post ;
 ns1:bcphbmgxd6x a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_5/5.2-Dream-Network-Bulletin_Volume-5-Number-2.pdf" download="">Download issue 5.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
     ns1:itemId "bcphbmgxd6x"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "5.2: "^^xsd:string ;
@@ -344,6 +426,8 @@ ns1:bcphbmgxd6x a ns1:Post ;
 ns1:bcphbmjs6by a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_5/5.3-Dream-Network-Bulletin-Vol-5-No-3.pdf" download="">Download issue 5.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
     ns1:itemId "bcphbmjs6by"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "5.3: "^^xsd:string ;
@@ -352,6 +436,8 @@ ns1:bcphbmjs6by a ns1:Post ;
 ns1:bcphbmmohfo a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_5/5.4-Dream-Network-Bulletin_Volume-5-Number-4.pdf" download="">Download issue 5.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
     ns1:itemId "bcphbmmohfo"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "5.4: "^^xsd:string ;
@@ -360,6 +446,8 @@ ns1:bcphbmmohfo a ns1:Post ;
 ns1:bcphbmqor5y a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_5/5.5-Dream-Network-Bulletin_Volume-5-Number-5.pdf" download="">Download issue 5.5</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
     ns1:itemId "bcphbmqor5y"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "5.5: "^^xsd:string ;
@@ -368,6 +456,8 @@ ns1:bcphbmqor5y a ns1:Post ;
 ns1:bcphbmvxewa a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf" download="">Download issue 5.6</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
     ns1:itemId "bcphbmvxewa"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "5.6: "^^xsd:string ;
@@ -376,6 +466,8 @@ ns1:bcphbmvxewa a ns1:Post ;
 ns1:bcphbmz7lpz a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_6/6.1-Dream-Network-Bulletin_Volume-6-Number-1.pdf" download="">Download issue 6.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaf5sto ;
     ns1:itemId "bcphbmz7lpz"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "6.1: "^^xsd:string ;
@@ -384,6 +476,8 @@ ns1:bcphbmz7lpz a ns1:Post ;
 ns1:bcphbn2j47k a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_8/8.1-Dream-Network-Bulletin_Volume-8-Number-1.pdf" download="">Download issue 8.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoalnwed ;
     ns1:itemId "bcphbn2j47k"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "8.1: "^^xsd:string ;
@@ -392,6 +486,8 @@ ns1:bcphbn2j47k a ns1:Post ;
 ns1:bcphbn5gpez a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_8/8.2-Dream-Network-Bulletin_Volume-8-Number-2.pdf" download="">Download issue 8.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoalnwed ;
     ns1:itemId "bcphbn5gpez"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "8.2: "^^xsd:string ;
@@ -400,6 +496,8 @@ ns1:bcphbn5gpez a ns1:Post ;
 ns1:bcphbnagfeb a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_6/6.3-Dream-Network-Bulletin_Volume-6-Number-3.pdf" download="">Download issue 6.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaf5sto ;
     ns1:itemId "bcphbnagfeb"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "6.3: "^^xsd:string ;
@@ -408,6 +506,8 @@ ns1:bcphbnagfeb a ns1:Post ;
 ns1:bcphbndh32i a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_6/6.4-Dream-Network-Bulletin_Volume-6-Number-4.pdf" download="">Download issue 6.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaf5sto ;
     ns1:itemId "bcphbndh32i"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "6.4: "^^xsd:string ;
@@ -416,6 +516,8 @@ ns1:bcphbndh32i a ns1:Post ;
 ns1:bcphbnhzqtk a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_7/7.1-Dream-Network-Bulletin_Volume-7-Number-1.pdf" download="">Download issue 7.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaivzve ;
     ns1:itemId "bcphbnhzqtk"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "7.1: "^^xsd:string ;
@@ -424,6 +526,8 @@ ns1:bcphbnhzqtk a ns1:Post ;
 ns1:bcphbnlbw5k a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_7/7.2-Dream-Network-Bulletin_Volume-7-Number-2.pdf" download="">Download issue 7.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaivzve ;
     ns1:itemId "bcphbnlbw5k"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "7.2: "^^xsd:string ;
@@ -432,6 +536,8 @@ ns1:bcphbnlbw5k a ns1:Post ;
 ns1:bcphbnodjs2 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_7/7.3-Dream-Network-Bulletin_Volume-7-Number-3.pdf" download="">Download issue 7.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaivzve ;
     ns1:itemId "bcphbnodjs2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "7.3: "^^xsd:string ;
@@ -440,6 +546,8 @@ ns1:bcphbnodjs2 a ns1:Post ;
 ns1:bcphbnp3qol a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_7/7.4-Dream-Network-Bulletin_Volume-7-Number-4.pdf" download="">Download issue 7.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaivzve ;
     ns1:itemId "bcphbnp3qol"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "7.4: "^^xsd:string ;
@@ -448,6 +556,8 @@ ns1:bcphbnp3qol a ns1:Post ;
 ns1:bcphbntd445 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_7/7.5-Dream-Network-Bulletin_Volume-7-Number-5.pdf" download="">Download issue 7.5</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaivzve ;
     ns1:itemId "bcphbntd445"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "7.5: "^^xsd:string ;
@@ -456,6 +566,8 @@ ns1:bcphbntd445 a ns1:Post ;
 ns1:bcphbnxwzvo a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_7/7.6-Dream-Network-Bulletin_Volume-7-Number-6.pdf" download="">Download issue 7.6</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaivzve ;
     ns1:itemId "bcphbnxwzvo"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "7.6: "^^xsd:string ;
@@ -464,6 +576,8 @@ ns1:bcphbnxwzvo a ns1:Post ;
 ns1:bcphbo4ff76 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_10/10.1-Dream-Network-Journal_Volume-10_No-1.pdf" download="">Download issue 10.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaqcodk ;
     ns1:itemId "bcphbo4ff76"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "10.1: Healing the Child Within "^^xsd:string ;
@@ -472,6 +586,8 @@ ns1:bcphbo4ff76 a ns1:Post ;
 ns1:bcphboajs77 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_8/8.3-Dream-Network-Bulletin_Volume-8-Number-3.pdf" download="">Download issue 8.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoalnwed ;
     ns1:itemId "bcphboajs77"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "8.3: "^^xsd:string ;
@@ -480,6 +596,8 @@ ns1:bcphboajs77 a ns1:Post ;
 ns1:bcphboc7tt5 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf" download="">Download issue 8.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoalnwed ;
     ns1:itemId "bcphboc7tt5"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "8.4: "^^xsd:string ;
@@ -488,6 +606,8 @@ ns1:bcphboc7tt5 a ns1:Post ;
 ns1:bcphbohoqoq a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_9/9.1-Dream-Network-Journal_Volume-9_No-1.pdf" download="">Download issue 9.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoanijcm ;
     ns1:itemId "bcphbohoqoq"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "9.1: Making Dreams Real"^^xsd:string ;
@@ -496,6 +616,8 @@ ns1:bcphbohoqoq a ns1:Post ;
 ns1:bcphbolab5r a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_9/9.2-Dream-Network-Journal-Vol-9-No-2.pdf" download="">Download issue 9.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoanijcm ;
     ns1:itemId "bcphbolab5r"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "9.2: Dreams, Passages & The Family"^^xsd:string ;
@@ -504,6 +626,8 @@ ns1:bcphbolab5r a ns1:Post ;
 ns1:bcphbope3kf a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_9/9.3-Dream-Network-Journal_Volume-9_No-3.pdf" download="">Download issue 9.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoanijcm ;
     ns1:itemId "bcphbope3kf"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "9.3: The Variety of Dreams & Dream Guidance"^^xsd:string ;
@@ -512,6 +636,8 @@ ns1:bcphbope3kf a ns1:Post ;
 ns1:bcphbovuijt a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_9/9.4-Dream-Network-Journal-Vol-9-No-4.pdf" download="">Download issue 9.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoanijcm ;
     ns1:itemId "bcphbovuijt"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "9.4: Dreams as Gateways to the 'Other Side'"^^xsd:string ;
@@ -520,6 +646,8 @@ ns1:bcphbovuijt a ns1:Post ;
 ns1:bcphbp2b6gy a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_11/11.3-Dream-Network_Volume-11_No-3.pdf" download="">Download issue 11.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoash2jt ;
     ns1:itemId "bcphbp2b6gy"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "11.3: Relationships"^^xsd:string ;
@@ -528,6 +656,8 @@ ns1:bcphbp2b6gy a ns1:Post ;
 ns1:bcphbp7rfno a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_11/11.4-Dream-Network_Volume-11_No-4.pdf" download="">Download issue 11.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoash2jt ;
     ns1:itemId "bcphbp7rfno"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "11.4: Androgyny: The Union of Opposites"^^xsd:string ;
@@ -536,6 +666,8 @@ ns1:bcphbp7rfno a ns1:Post ;
 ns1:bcphbpfnwcb a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_10/10.2-3-Dream-Network-Journal_Volume-10_No-2-3.pdf" download="">Download issue 10.2-3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaqcodk ;
     ns1:itemId "bcphbpfnwcb"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "10.2-3: Healing our Souls, Healing the Earth"^^xsd:string ;
@@ -544,6 +676,8 @@ ns1:bcphbpfnwcb a ns1:Post ;
 ns1:bcphbpntuo4 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_10/10.4-Dream-Network-Journal_Volume-10_No-4.pdf" download="">Download issue 10.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaqcodk ;
     ns1:itemId "bcphbpntuo4"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "10.4: Overcoming Addictions: Can our Dreams Help?"^^xsd:string ;
@@ -552,6 +686,8 @@ ns1:bcphbpntuo4 a ns1:Post ;
 ns1:bcphbpqyqpo a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf" download="">Download issue 11.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoash2jt ;
     ns1:itemId "bcphbpqyqpo"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "11.1: Women's Dreams"^^xsd:string ;
@@ -560,36 +696,18 @@ ns1:bcphbpqyqpo a ns1:Post ;
 ns1:bcphbpumr2x a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf" download="">Download issue 11.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoash2jt ;
     ns1:itemId "bcphbpumr2x"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "11.2: Men's Dreams"^^xsd:string ;
     ns1:urlSlug "11.2"^^xsd:string .
 
-ns1:bcphbq3xdnj a ns1:Page ;
-    ns1:description """<h1>Thank you, Dream Network supporter!</h1>
-
-<p>As thanks for your very generous donation, here's something special. As promised, scans of the entire 1982-2015 Dream Network archive, hot off the press from the scanners. We've barely even had time to style this page, but as tribute to the <a href="https://web.archive.org/web/20060424062349/http://dreamnetwork.net/">old DNJ site</a> we've pulled in a few styles:)</p>
-
-<p>What a treasure trove this is. It's almost an embarrassment of riches, and we hope you enjoy perusing these for years to come.</p>
-
-<p>Below, you can download each volume as a .zip file, or download each issue individually. If you'd like to look up an individual author or article, here's a (not-quite-complete) <a href="https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing">list of Dream Network articles</a></p>
-
-<p>We have one request to make: Please don't publish or distribute any of these files yet. We'll be making the full archive public in early 2020. After that, feel free to send them to your friends, but again rather than publishing them online please just link to the archive site. We also ask you not to publish the articles in them, unless you have the permission of the author (or you are the author, in which case, the rights are yours!)</p>
-
-<p><strong>Thank you</strong> to everyone who donated to this campaign. We'd like to personally thank <a href="https://kellybulkeley.org/about-kelly-bulkeley">Kelly Bulkeley</a>, whose donation really made this campaign possible, and all the 'super supporters' of the campaign: <a href="https://www.monroeinstitute.org/Luigi-Sciambarella">Luigi Sciambarella</a>, <a href="Evelyn Duesbury">Evelyn Duesbury</a>, <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as <a href="https://arthurstrock.com/about-arthur/">Arthur Strock</a>, <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, Rosemary Watts-Dreyer, Patti Allen and Mary Bronk. For their donations as well as providing providing their personal copies of publications for scanning, special thanks to <a href="https://www.changingworld.com/about-us">Dick McLeester</a> and <a href="https://www.dreamtimesguide.com/about-marlene-king/">Marlene King</a>.</p>
-
-<p><a href="https://twitter.com/EastWest_Works">Inoshi</a>, <a href="https://twitter.com/kannydennedy">Dan</a> and <a href="https://web.archive.org/web/20141119224703/http://www.understandthemeaningofmydreams.com/cgi-bin/article/news.cgi?act=read&amp;cat=12&amp;num=3">Roberta</a></p>
-
-<p><a href="https://chuffed.org/project/dream-network-journal">Visit the campaign page</a></p></p>
-"""^^xsd:string ;
-    ns1:handle "dreamnetwork"^^xsd:string ;
-    ns1:itemId "bcphbq3xdnj"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Welcome to the Dream Network"^^xsd:string .
-
 ns1:bcphbq3xymn a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_13/13.3-Dream-Network_Volume-13_No-3.pdf" download="">Download issue 13.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaxfojq ;
     ns1:itemId "bcphbq3xymn"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "13.3: Cross Cultural Perspectives on Dream & Myth: Native American Views"^^xsd:string ;
@@ -598,6 +716,8 @@ ns1:bcphbq3xymn a ns1:Post ;
 ns1:bcphbq7rbsc a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_13/13.4-Dream-Network_Volume-13_No-4.pdf" download="">Download issue 13.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaxfojq ;
     ns1:itemId "bcphbq7rbsc"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "13.4: Cross Cultural Perspectives on Dream & Myth: Extraterrestrial Dreams"^^xsd:string ;
@@ -606,6 +726,8 @@ ns1:bcphbq7rbsc a ns1:Post ;
 ns1:bcphbqdrrm2 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_12/12.1-Dream-Network_Volume-12_No-1.pdf" download="">Download issue 12.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoauztyp ;
     ns1:itemId "bcphbqdrrm2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "12.1: Animals in Dreams: Birds, Insects & Fish"^^xsd:string ;
@@ -614,6 +736,8 @@ ns1:bcphbqdrrm2 a ns1:Post ;
 ns1:bcphbqi5hzh a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_12/12.2-Dream-Network_Volume-12_No-2.pdf" download="">Download issue 12.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoauztyp ;
     ns1:itemId "bcphbqi5hzh"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "12.2: Animals in Dreams: More Creatures..."^^xsd:string ;
@@ -622,6 +746,8 @@ ns1:bcphbqi5hzh a ns1:Post ;
 ns1:bcphbqmxcnl a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_12/12.3-Dream-Network_Volume-12_No-3.pdf" download="">Download issue 12.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoauztyp ;
     ns1:itemId "bcphbqmxcnl"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "12.3: Flora, Stones & Crystals in Dreams"^^xsd:string ;
@@ -630,6 +756,8 @@ ns1:bcphbqmxcnl a ns1:Post ;
 ns1:bcphbqp3hfp a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf" download="">Download issue 12.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoauztyp ;
     ns1:itemId "bcphbqp3hfp"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "12.4: Water, Earth, Air & Fire in Dreams"^^xsd:string ;
@@ -638,6 +766,8 @@ ns1:bcphbqp3hfp a ns1:Post ;
 ns1:bcphbqvckd7 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_13/13.1-Dream-Network_Volume-13_No-1.pdf" download="">Download issue 13.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaxfojq ;
     ns1:itemId "bcphbqvckd7"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "13.1: Cross Cultural Perspectives on Dream & Myth"^^xsd:string ;
@@ -646,6 +776,8 @@ ns1:bcphbqvckd7 a ns1:Post ;
 ns1:bcphbqyogh7 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_13/13.2-Dream-Network_Volume-13_No-2.pdf" download="">Download issue 13.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaxfojq ;
     ns1:itemId "bcphbqyogh7"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "13.2: Cross Cultural Perspectives on Dream & Myth: More Cross-Cultural Perspectives"^^xsd:string ;
@@ -654,6 +786,8 @@ ns1:bcphbqyogh7 a ns1:Post ;
 ns1:bcphbr4spo2 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_15/15.2-3-Dream-Network-Vol-15-No-3_de-skew.pdf" download="">Download issue 15.2-3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoa5us2e ;
     ns1:itemId "bcphbr4spo2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "15.2-3: Focus on Healing"^^xsd:string ;
@@ -662,6 +796,8 @@ ns1:bcphbr4spo2 a ns1:Post ;
 ns1:bcphbr7xrtd a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_15/15.4-Dream-Network-Vol-15-No-4.pdf" download="">Download issue 15.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoa5us2e ;
     ns1:itemId "bcphbr7xrtd"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "15.4: Symbols: Language of the Soul"^^xsd:string ;
@@ -670,6 +806,8 @@ ns1:bcphbr7xrtd a ns1:Post ;
 ns1:bcphbrfqwml a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_14/14.1-2-Dream-Network-Vol-14-Nos-1-&amp;-2.pdf" download="">Download issue 14.1-2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoa3iell ;
     ns1:itemId "bcphbrfqwml"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "14.1-2: Dreaming Humanity's Path: Protecting the Children & Warning Dreams"^^xsd:string ;
@@ -678,6 +816,8 @@ ns1:bcphbrfqwml a ns1:Post ;
 ns1:bcphbrnlz5j a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_14/14.3-Dream-Network-Vol-14-No-3.pdf" download="">Download issue 14.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoa3iell ;
     ns1:itemId "bcphbrnlz5j"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "14.3: Dreaming Humanity's Path: Visions of Guidance for Humanity"^^xsd:string ;
@@ -686,6 +826,8 @@ ns1:bcphbrnlz5j a ns1:Post ;
 ns1:bcphbrptpuy a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_14/14.4-Dream-Network_Volume-14_No-4.pdf" download="">Download issue 14.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoa3iell ;
     ns1:itemId "bcphbrptpuy"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "14.4: Dreaming Humanity's Path: Beyond the Veil"^^xsd:string ;
@@ -694,6 +836,8 @@ ns1:bcphbrptpuy a ns1:Post ;
 ns1:bcphbrw63cp a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_15/15.1-Dream-Network-Vol-15-No-1.pdf" download="">Download issue 15.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoa5us2e ;
     ns1:itemId "bcphbrw63cp"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "15.1: Dream-Inspired Communities"^^xsd:string ;
@@ -702,6 +846,8 @@ ns1:bcphbrw63cp a ns1:Post ;
 ns1:bcphbs4b6on a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_17/17.1-Dream-Network_Volume-17_No-1.pdf" download="">Download issue 17.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobdubou ;
     ns1:itemId "bcphbs4b6on"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "17.1: Lucid, Mutual, WILD Dreaming"^^xsd:string ;
@@ -710,6 +856,8 @@ ns1:bcphbs4b6on a ns1:Post ;
 ns1:bcphbsc3ttt a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_16/16.1-Dream-Network-Vol-16-No-1.pdf" download="">Download issue 16.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobaotyu ;
     ns1:itemId "bcphbsc3ttt"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "16.1: Dancing the Dream Awake"^^xsd:string ;
@@ -718,6 +866,8 @@ ns1:bcphbsc3ttt a ns1:Post ;
 ns1:bcphbshc2lb a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_16/16.2-Dream-Network-Vol-16-No-2.pdf" download="">Download issue 16.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobaotyu ;
     ns1:itemId "bcphbshc2lb"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "16.2: Dreamsharing with Children"^^xsd:string ;
@@ -726,6 +876,8 @@ ns1:bcphbshc2lb a ns1:Post ;
 ns1:bcphbslvedc a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_16/16.3-Dream-Network-Vol-16-No-3.pdf" download="">Download issue 16.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobaotyu ;
     ns1:itemId "bcphbslvedc"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "16.3: The Wit & Wisdom in Dreams"^^xsd:string ;
@@ -734,6 +886,8 @@ ns1:bcphbslvedc a ns1:Post ;
 ns1:bcphbsvz3ik a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_16/16.4-Dream-Network-Vol-16-No-4.pdf" download="">Download issue 16.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobaotyu ;
     ns1:itemId "bcphbsvz3ik"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "16.4: Dreams & Culture"^^xsd:string ;
@@ -742,6 +896,8 @@ ns1:bcphbsvz3ik a ns1:Post ;
 ns1:bcphbt33uhn a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_18/18.4-Dream-Network-Vol-18-No-4.pdf" download="">Download issue 18.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobfojdv ;
     ns1:itemId "bcphbt33uhn"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "18.4: Preparing for the Millennium"^^xsd:string ;
@@ -750,6 +906,8 @@ ns1:bcphbt33uhn a ns1:Post ;
 ns1:bcphbt7x4uv a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_19/19.1-Dream-Network-Vol-19-No-1.pdf" download="">Download issue 19.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobmu4ep ;
     ns1:itemId "bcphbt7x4uv"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "19.1: Animals in Dreams: What do they Symbolize?"^^xsd:string ;
@@ -758,6 +916,8 @@ ns1:bcphbt7x4uv a ns1:Post ;
 ns1:bcphbtbcugl a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_17/17.2-Dream-Network-Vol-17-No-2.pdf" download="">Download issue 17.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobdubou ;
     ns1:itemId "bcphbtbcugl"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "17.2: Enhancing & Healing Relationships"^^xsd:string ;
@@ -766,6 +926,8 @@ ns1:bcphbtbcugl a ns1:Post ;
 ns1:bcphbte5ugv a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_17/17.3-Dream-Network-Vol-17-No-3.pdf" download="">Download issue 17.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobdubou ;
     ns1:itemId "bcphbte5ugv"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "17.3: Exploring Dreams' Relationship to Mythology"^^xsd:string ;
@@ -774,6 +936,8 @@ ns1:bcphbte5ugv a ns1:Post ;
 ns1:bcphbtj7a2e a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&amp;-18-No-1.pdf" download="">Download issue 17.4-18.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobdubou ;
     ns1:itemId "bcphbtj7a2e"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "17.4-18.1: Creative Dreamwork in the Central Corridor"^^xsd:string ;
@@ -782,6 +946,8 @@ ns1:bcphbtj7a2e a ns1:Post ;
 ns1:bcphbtsx7s6 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_18/18.2-Dream-Network-Vol-18-No-2.pdf" download="">Download issue 18.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobfojdv ;
     ns1:itemId "bcphbtsx7s6"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "18.2: Prophetic Dreams"^^xsd:string ;
@@ -790,6 +956,8 @@ ns1:bcphbtsx7s6 a ns1:Post ;
 ns1:bcphbtxh2bi a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_18/18.3-Dream-Network-Vol-18-No-3.pdf" download="">Download issue 18.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobfojdv ;
     ns1:itemId "bcphbtxh2bi"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "18.3: The Healing Power of Dreams"^^xsd:string ;
@@ -798,6 +966,8 @@ ns1:bcphbtxh2bi a ns1:Post ;
 ns1:bcphbu3wddv a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_21/21.1_music_crisis_I.pdf" download="">Download issue 21.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobs2l3e ;
     ns1:itemId "bcphbu3wddv"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "21.1: Creativity & Crisis: Dream Inspired Music I"^^xsd:string ;
@@ -806,6 +976,8 @@ ns1:bcphbu3wddv a ns1:Post ;
 ns1:bcphbu6vnbl a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_21/21.2_crisis_II.pdf" download="">Download issue 21.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobs2l3e ;
     ns1:itemId "bcphbu6vnbl"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "21.2: Creativity & Crisis: Dream Inspired Music II"^^xsd:string ;
@@ -814,6 +986,8 @@ ns1:bcphbu6vnbl a ns1:Post ;
 ns1:bcphbugth7l a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_19/19.2-Dream-Network-Vol-19-No-2.pdf" download="">Download issue 19.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobmu4ep ;
     ns1:itemId "bcphbugth7l"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "19.2: Sexuality in Dreams"^^xsd:string ;
@@ -822,6 +996,8 @@ ns1:bcphbugth7l a ns1:Post ;
 ns1:bcphbuj7fdh a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_19/19.3-Dream-Network-Vol-19-No-3.pdf" download="">Download issue 19.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobmu4ep ;
     ns1:itemId "bcphbuj7fdh"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "19.3: Dreams & Religion"^^xsd:string ;
@@ -830,6 +1006,8 @@ ns1:bcphbuj7fdh a ns1:Post ;
 ns1:bcphbumhc4e a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_19/19.4-Dream-Network-Vol-19-No-4.pdf" download="">Download issue 19.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobmu4ep ;
     ns1:itemId "bcphbumhc4e"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "19.4: Shamanism & Dreams I"^^xsd:string ;
@@ -838,6 +1016,8 @@ ns1:bcphbumhc4e a ns1:Post ;
 ns1:bcphbupdomk a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_20/20.1-20.2_shaman_II.pdf" download="">Download issue 20.1-2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobpf6pi ;
     ns1:itemId "bcphbupdomk"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "20.1-2: Shamanism & Dreams II"^^xsd:string ;
@@ -846,6 +1026,8 @@ ns1:bcphbupdomk a ns1:Post ;
 ns1:bcphbusgyjg a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_20/20.3_poetry.pdf" download="">Download issue 20.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobpf6pi ;
     ns1:itemId "bcphbusgyjg"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "20.3: Dream Inspired Poetry"^^xsd:string ;
@@ -854,6 +1036,8 @@ ns1:bcphbusgyjg a ns1:Post ;
 ns1:bcphbuzcgu3 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf" download="">Download issue 20.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobpf6pi ;
     ns1:itemId "bcphbuzcgu3"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "20.4: Dreams and 9.11"^^xsd:string ;
@@ -862,6 +1046,8 @@ ns1:bcphbuzcgu3 a ns1:Post ;
 ns1:bcphbv3fbuv a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_23/23.1_dance.pdf" download="">Download issue 23.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobxze6k ;
     ns1:itemId "bcphbv3fbuv"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "23.1: Dancing the Dream Awake"^^xsd:string ;
@@ -870,6 +1056,8 @@ ns1:bcphbv3fbuv a ns1:Post ;
 ns1:bcphbv6y2vp a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_23/23.2_creativity.pdf" download="">Download issue 23.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobxze6k ;
     ns1:itemId "bcphbv6y2vp"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "23.2: Creative Dreamwork"^^xsd:string ;
@@ -878,6 +1066,8 @@ ns1:bcphbv6y2vp a ns1:Post ;
 ns1:bcphbvbqspq a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_21/21.3-Dream-Network-Vol-21-No-3.pdf" download="">Download issue 21.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobs2l3e ;
     ns1:itemId "bcphbvbqspq"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "21.3: The Art of Dream Sharing"^^xsd:string ;
@@ -886,6 +1076,8 @@ ns1:bcphbvbqspq a ns1:Post ;
 ns1:bcphbvecgmx a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_21/21.4-22-1_evolution.pdf" download="">Download issue 21.4-22.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobs2l3e ;
     ns1:itemId "bcphbvecgmx"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "21.4-22.1: Evolution of the Dream Movement"^^xsd:string ;
@@ -894,6 +1086,8 @@ ns1:bcphbvecgmx a ns1:Post ;
 ns1:bcphbvjopd2 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf" download="">Download issue 22.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobu7vuq ;
     ns1:itemId "bcphbvjopd2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "22.2: Peace"^^xsd:string ;
@@ -902,6 +1096,8 @@ ns1:bcphbvjopd2 a ns1:Post ;
 ns1:bcphbvob4z7 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_22/22.3-Dream-Network_Vol_22_No-3.pdf" download="">Download issue 22.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobu7vuq ;
     ns1:itemId "bcphbvob4z7"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "22.3: Dreams, Aging and Death"^^xsd:string ;
@@ -910,6 +1106,8 @@ ns1:bcphbvob4z7 a ns1:Post ;
 ns1:bcphbvvhigo a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_22/22.4_et.pdf" download="">Download issue 22.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobu7vuq ;
     ns1:itemId "bcphbvvhigo"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "22.4: Dreaming of Extraterrestrials"^^xsd:string ;
@@ -918,6 +1116,8 @@ ns1:bcphbvvhigo a ns1:Post ;
 ns1:bcphbw4yscz a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_25/25.2_monte_ullman.pdf" download="">Download issue 25.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqob4y4gj ;
     ns1:itemId "bcphbw4yscz"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "25.2: A Tribute to Monte Ullman"^^xsd:string ;
@@ -926,6 +1126,8 @@ ns1:bcphbw4yscz a ns1:Post ;
 ns1:bcphbwctnd2 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_23/23.3_deja_vu.pdf" download="">Download issue 23.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobxze6k ;
     ns1:itemId "bcphbwctnd2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "23.3: Prophetic Dreams & Deja Vu"^^xsd:string ;
@@ -934,6 +1136,8 @@ ns1:bcphbwctnd2 a ns1:Post ;
 ns1:bcphbwfw4rc a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf" download="">Download issue 23.4-24.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobxze6k ;
     ns1:itemId "bcphbwfw4rc"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "23.4-24.1: Dreaming as a Practice"^^xsd:string ;
@@ -942,6 +1146,8 @@ ns1:bcphbwfw4rc a ns1:Post ;
 ns1:bcphbwmlvfh a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_24/24.2_facing_fear.pdf" download="">Download issue 24.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqob23yct ;
     ns1:itemId "bcphbwmlvfh"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "24.2: Facing & Embracing Fear"^^xsd:string ;
@@ -950,6 +1156,8 @@ ns1:bcphbwmlvfh a ns1:Post ;
 ns1:bcphbwpd2l7 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_24/24.3_reincarnation.pdf" download="">Download issue 24.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqob23yct ;
     ns1:itemId "bcphbwpd2l7"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "24.3: Dreams of Rebirth ~ Death ~ Rebirth"^^xsd:string ;
@@ -958,6 +1166,8 @@ ns1:bcphbwpd2l7 a ns1:Post ;
 ns1:bcphbwv4jtr a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_24/24.4-25.1_dreams_a_calling.pdf" download="">Download issue 24.4-25.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqob23yct ;
     ns1:itemId "bcphbwv4jtr"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "24.4-25.1: Dreams: A Calling"^^xsd:string ;
@@ -966,6 +1176,8 @@ ns1:bcphbwv4jtr a ns1:Post ;
 ns1:bcphbx7d7cu a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_27/27.4_agents_for_change.pdf" download="">Download issue 27.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocezqpx ;
     ns1:itemId "bcphbx7d7cu"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "27.4: Dreams as Agents for Change"^^xsd:string ;
@@ -974,6 +1186,8 @@ ns1:bcphbx7d7cu a ns1:Post ;
 ns1:bcphbxal53y a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf" download="">Download issue 25.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqob4y4gj ;
     ns1:itemId "bcphbxal53y"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "25.3: Back to Basics"^^xsd:string ;
@@ -982,6 +1196,8 @@ ns1:bcphbxal53y a ns1:Post ;
 ns1:bcphbxfpj5j a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_25/25.4_animals.pdf" download="">Download issue 25.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqob4y4gj ;
     ns1:itemId "bcphbxfpj5j"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "25.4: Make Way for the Animals in our Dreams"^^xsd:string ;
@@ -990,6 +1206,8 @@ ns1:bcphbxfpj5j a ns1:Post ;
 ns1:bcphbxjsuyu a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf" download="">Download issue 26.1-2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocbmxkx ;
     ns1:itemId "bcphbxjsuyu"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "26.1-2: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
@@ -998,6 +1216,8 @@ ns1:bcphbxjsuyu a ns1:Post ;
 ns1:bcphbxm2y5p a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_26/26.3_visionary_activism.pdf" download="">Download issue 26.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocbmxkx ;
     ns1:itemId "bcphbxm2y5p"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "26.3: Visionary Activism"^^xsd:string ;
@@ -1006,6 +1226,8 @@ ns1:bcphbxm2y5p a ns1:Post ;
 ns1:bcphbxplpmw a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_26/26.4_waking_life_as_dream.pdf" download="">Download issue 26.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocbmxkx ;
     ns1:itemId "bcphbxplpmw"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "26.4: Waking Life as a Dream"^^xsd:string ;
@@ -1014,6 +1236,8 @@ ns1:bcphbxplpmw a ns1:Post ;
 ns1:bcphbxuajab a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_27/27.1_childrens_dreams.pdf" download="">Download issue 27.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocezqpx ;
     ns1:itemId "bcphbxuajab"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "27.1: Children Dreaming"^^xsd:string ;
@@ -1022,6 +1246,8 @@ ns1:bcphbxuajab a ns1:Post ;
 ns1:bcphbxxscsf a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf" download="">Download issue 27.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocezqpx ;
     ns1:itemId "bcphbxxscsf"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "27.2: Women for Peace"^^xsd:string ;
@@ -1030,6 +1256,8 @@ ns1:bcphbxxscsf a ns1:Post ;
 ns1:bcphbxz53sl a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_27/27.3_dreaming_politics.pdf" download="">Download issue 27.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocezqpx ;
     ns1:itemId "bcphbxz53sl"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "27.3: Dreaming Politics"^^xsd:string ;
@@ -1038,6 +1266,8 @@ ns1:bcphbxz53sl a ns1:Post ;
 ns1:bcphby2swke a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_29/29.4_crop_circles.pdf" download="">Download issue 29.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocknhzs ;
     ns1:itemId "bcphby2swke"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "29.4: Crop Circles"^^xsd:string ;
@@ -1046,6 +1276,8 @@ ns1:bcphby2swke a ns1:Post ;
 ns1:bcphby5wc2q a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_30/30.1_religion.pdf" download="">Download issue 30.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocndszw ;
     ns1:itemId "bcphby5wc2q"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "30.1: Dreams, Religion and the Divine"^^xsd:string ;
@@ -1054,6 +1286,8 @@ ns1:bcphby5wc2q a ns1:Post ;
 ns1:bcphbycqos5 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf" download="">Download issue 28.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
     ns1:itemId "bcphbycqos5"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "28.1: Chaos & Apocalypse"^^xsd:string ;
@@ -1062,6 +1296,8 @@ ns1:bcphbycqos5 a ns1:Post ;
 ns1:bcphbygiw4g a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
     ns1:itemId "bcphbygiw4g"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "28.2-3: The Art of Dream Sharing"^^xsd:string ;
@@ -1070,6 +1306,8 @@ ns1:bcphbygiw4g a ns1:Post ;
 ns1:bcphbyjvotn a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_28/28.4_destiny.pdf" download="">Download issue 28.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
     ns1:itemId "bcphbyjvotn"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "28.4: Destiny"^^xsd:string ;
@@ -1078,6 +1316,8 @@ ns1:bcphbyjvotn a ns1:Post ;
 ns1:bcphbyl3dut a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_29/29.1_healing.pdf" download="">Download issue 29.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocknhzs ;
     ns1:itemId "bcphbyl3dut"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "29.1: Healing"^^xsd:string ;
@@ -1086,6 +1326,8 @@ ns1:bcphbyl3dut a ns1:Post ;
 ns1:bcphbyoxe6n a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_29/29.2_back_to_the_future.pdf" download="">Download issue 29.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocknhzs ;
     ns1:itemId "bcphbyoxe6n"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "29.2: Back to the Future"^^xsd:string ;
@@ -1094,6 +1336,8 @@ ns1:bcphbyoxe6n a ns1:Post ;
 ns1:bcphbyukqzw a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_29/29.3_art.pdf" download="">Download issue 29.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocknhzs ;
     ns1:itemId "bcphbyukqzw"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "29.3: Dreams and Art"^^xsd:string ;
@@ -1102,6 +1346,8 @@ ns1:bcphbyukqzw a ns1:Post ;
 ns1:bcphbz2bump a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_32/32.2-32.3_shamanic_dreams.pdf" download="">Download issue 32.2-3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocs2uhp ;
     ns1:itemId "bcphbz2bump"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "32.2-3: Shamanic Dreams"^^xsd:string ;
@@ -1110,6 +1356,8 @@ ns1:bcphbz2bump a ns1:Post ;
 ns1:bcphbz5vgog a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf" download="">Download issue 32.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocs2uhp ;
     ns1:itemId "bcphbz5vgog"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "32.4: Important People in our Dreams"^^xsd:string ;
@@ -1118,6 +1366,8 @@ ns1:bcphbz5vgog a ns1:Post ;
 ns1:bcphbzaknqj a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_30/30.2-30.3_money.pdf" download="">Download issue 30.2-3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocndszw ;
     ns1:itemId "bcphbzaknqj"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "30.2-3: Money in Dreams: What does it Synbolize?"^^xsd:string ;
@@ -1126,6 +1376,8 @@ ns1:bcphbzaknqj a ns1:Post ;
 ns1:bcphbzdzrug a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_30/30.4_music.pdf" download="">Download issue 30.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocndszw ;
     ns1:itemId "bcphbzdzrug"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "30.4: Music in our Dreams"^^xsd:string ;
@@ -1134,6 +1386,8 @@ ns1:bcphbzdzrug a ns1:Post ;
 ns1:bcphbzhpgrg a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_31/31.1_angels.pdf" download="">Download issue 31.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocpr3vh ;
     ns1:itemId "bcphbzhpgrg"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "31.1: Calling Forth Angels"^^xsd:string ;
@@ -1142,6 +1396,8 @@ ns1:bcphbzhpgrg a ns1:Post ;
 ns1:bcphbzlhdke a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf" download="">Download issue 31.2</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocpr3vh ;
     ns1:itemId "bcphbzlhdke"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "31.2: Calling Forth Angels II"^^xsd:string ;
@@ -1150,6 +1406,8 @@ ns1:bcphbzlhdke a ns1:Post ;
 ns1:bcphbzoxivb a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_31/31.3_politics.pdf" download="">Download issue 31.3</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocpr3vh ;
     ns1:itemId "bcphbzoxivb"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "31.3: Dreaming Politics"^^xsd:string ;
@@ -1158,6 +1416,8 @@ ns1:bcphbzoxivb a ns1:Post ;
 ns1:bcphbzrw57c a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_31/31.4_dreaming_humanitys_path.pdf" download="">Download issue 31.4</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocpr3vh ;
     ns1:itemId "bcphbzrw57c"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "31.4: Dreaming Humanity's Path"^^xsd:string ;
@@ -1166,6 +1426,8 @@ ns1:bcphbzrw57c a ns1:Post ;
 ns1:bcphbzxidqa a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_32/32.1_group_dreaming.pdf" download="">Download issue 32.1</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocs2uhp ;
     ns1:itemId "bcphbzxidqa"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "32.1: Group Dreaming"^^xsd:string ;
@@ -1174,6 +1436,7 @@ ns1:bcphbzxidqa a ns1:Post ;
 ns1:bcpov6pacmm a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
     ns1:itemId "bcpov6pacmm"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Relationship Dreams: Insight into Family - Friends - Co-workers"^^xsd:string ;
@@ -1182,6 +1445,7 @@ ns1:bcpov6pacmm a ns1:Post ;
 ns1:bcpov6tqqf6 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf" download="">Download</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
     ns1:itemId "bcpov6tqqf6"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "The Art of Dream Sharing and Developing Dream Groups"^^xsd:string ;
@@ -1190,6 +1454,7 @@ ns1:bcpov6tqqf6 a ns1:Post ;
 ns1:bcpov6wbyg5 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_publications/publications.welcome-to-the-magic-theater.pdf" download="">Download</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
     ns1:itemId "bcpov6wbyg5"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Welcome to the Magic Theater: A Handbook for Exploring Dreams by Dick McLeester"^^xsd:string ;
@@ -1198,266 +1463,11 @@ ns1:bcpov6wbyg5 a ns1:Post ;
 ns1:bcpov6zfsra a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p>
 """^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
     ns1:itemId "bcpov6zfsra"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Coat of Many Colors"^^xsd:string ;
     ns1:urlSlug "coat-of-many-colors"^^xsd:string .
-
-ns1:bcpqn72unjj a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqn72unjj"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 2"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-2"^^xsd:string .
-
-ns1:bcpqn76e7n5 a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqn76e7n5"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 3"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-3"^^xsd:string .
-
-ns1:bcpqn77nhwr a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_4.zip" download>Volume 4 (.zip file, 6mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqn77nhwr"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 4"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-4"^^xsd:string .
-
-ns1:bcpqn7zvpei a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqn7zvpei"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 1"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-1"^^xsd:string .
-
-ns1:bcpqoa3iell a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqoa3iell"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 14"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-14"^^xsd:string .
-
-ns1:bcpqoa5us2e a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_15.zip" download>Volume 15 (.zip file, 54mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqoa5us2e"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 15"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-15"^^xsd:string .
-
-ns1:bcpqoact7dh a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_5.zip" download>Volume 5 (.zip file, 10mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqoact7dh"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 5"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-5"^^xsd:string .
-
-ns1:bcpqoaf5sto a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_6.zip" download>Volume 6 (.zip file, 14mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqoaf5sto"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 6"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-6"^^xsd:string .
-
-ns1:bcpqoaivzve a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_7.zip" download>Volume 7 (.zip file, 13mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqoaivzve"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 7"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-7"^^xsd:string .
-
-ns1:bcpqoalnwed a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_8.zip" download>Volume 8 (.zip file, 13mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqoalnwed"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 8"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-8"^^xsd:string .
-
-ns1:bcpqoanijcm a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_9.zip" download>Volume 9 (.zip file, 38mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqoanijcm"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 9"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-9"^^xsd:string .
-
-ns1:bcpqoaqcodk a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_10.zip" download>Volume 10 (.zip file, 23mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqoaqcodk"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 10"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-10"^^xsd:string .
-
-ns1:bcpqoash2jt a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_11.zip" download>Volume 11 (.zip file, 24mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqoash2jt"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 11"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-11"^^xsd:string .
-
-ns1:bcpqoauztyp a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_12.zip" download>Volume 12 (.zip file, 25mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqoauztyp"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 12"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-12"^^xsd:string .
-
-ns1:bcpqoaxfojq a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_13.zip" download>Volume 13 (.zip file, 27mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqoaxfojq"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 13"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-13"^^xsd:string .
-
-ns1:bcpqob23yct a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_24.zip" download>Volume 24 (.zip file, 9mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqob23yct"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 24"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-24"^^xsd:string .
-
-ns1:bcpqob4y4gj a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_25.zip" download>Volume 25 (.zip file, 10mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqob4y4gj"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 25"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-25"^^xsd:string .
-
-ns1:bcpqobaotyu a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_16.zip" download>Volume 16 (.zip file, 59mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqobaotyu"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 16"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-16"^^xsd:string .
-
-ns1:bcpqobdubou a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_17.zip" download>Volume 17 (.zip file, 32mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqobdubou"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 17"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-17"^^xsd:string .
-
-ns1:bcpqobfojdv a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_18.zip" download>Volume 18 (.zip file, 31mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqobfojdv"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 18"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-18"^^xsd:string .
-
-ns1:bcpqobmu4ep a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_19.zip" download>Volume 19 (.zip file, 55mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqobmu4ep"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 19"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-19"^^xsd:string .
-
-ns1:bcpqobpf6pi a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_20.zip" download>Volume 20 (.zip file, 5mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqobpf6pi"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 20"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-20"^^xsd:string .
-
-ns1:bcpqobs2l3e a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_21.zip" download>Volume 21 (.zip file, 22mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqobs2l3e"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 21"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-21"^^xsd:string .
-
-ns1:bcpqobu7vuq a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_22.zip" download>Volume 22 (.zip file, 19mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqobu7vuq"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 22"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-22"^^xsd:string .
-
-ns1:bcpqobxze6k a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_23.zip" download>Volume 23 (.zip file, 10mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqobxze6k"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 23"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-23"^^xsd:string .
-
-ns1:bcpqocbmxkx a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_26.zip" download>Volume 26 (.zip file, 8mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqocbmxkx"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 26"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-26"^^xsd:string .
-
-ns1:bcpqocezqpx a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_27.zip" download>Volume 27 (.zip file, 13mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqocezqpx"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 27"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-27"^^xsd:string .
-
-ns1:bcpqochapy2 a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_28.zip" download>Volume 28 (.zip file, 6mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqochapy2"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 28"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-28"^^xsd:string .
-
-ns1:bcpqocknhzs a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_29.zip" download>Volume 29 (.zip file, 14mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqocknhzs"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 29"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-29"^^xsd:string .
-
-ns1:bcpqocndszw a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_30.zip" download>Volume 30 (.zip file, 6mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqocndszw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 30"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-30"^^xsd:string .
-
-ns1:bcpqocpr3vh a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_31.zip" download>Volume 31 (.zip file, 9mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqocpr3vh"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 31"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-31"^^xsd:string .
-
-ns1:bcpqocs2uhp a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_32.zip" download>Volume 32 (.zip file, 6mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqocs2uhp"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 32"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-32"^^xsd:string .
 
 ns1:bcpqocsbulk a ns1:User ;
     ns1:description """<p>Hi, I’m Kelly Bulkeley, Ph.D., a psychologist of religion specializing in dream research. This website is for anyone who is interested in dreams and wants to learn more about current research on dreams in relation to psychology, religion, evolutionary science, politics, art, and culture.  I also encourage you to visit the Sleep and Dream Database (SDDb), a companion website with a collection of thousands of dream reports and digital tools to study them.</p>
@@ -1476,14 +1486,6 @@ ns1:bcpqocskrip a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "A Psychologist in the Tradition of William James and Gardner Murphy"^^xsd:string ;
     ns1:urlSlug "a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy"^^xsd:string .
-
-ns1:bcpqocvint5 a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_33.zip" download>Volume 33 (.zip file, 10mb)</a></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpqocvint5"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 33"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-33"^^xsd:string .
 
 ns1:dateCreated a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
     rdfs:domain ns1:Post ;
@@ -1533,7 +1535,326 @@ ns1:Person a <http://www.w3.org/2002/07/owl#Class> ;
 ns1:Actor a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
 
+ns1:bcpqoa3iell a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqoa3iell"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 14"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-14"^^xsd:string .
+
+ns1:bcpqoa5us2e a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_15.zip" download>Volume 15 (.zip file, 54mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqoa5us2e"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 15"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-15"^^xsd:string .
+
+ns1:bcpqoaqcodk a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_10.zip" download>Volume 10 (.zip file, 23mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqoaqcodk"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 10"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-10"^^xsd:string .
+
+ns1:bcpqob23yct a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_24.zip" download>Volume 24 (.zip file, 9mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqob23yct"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 24"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-24"^^xsd:string .
+
+ns1:bcpqob4y4gj a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_25.zip" download>Volume 25 (.zip file, 10mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqob4y4gj"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 25"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-25"^^xsd:string .
+
+ns1:bcpqobfojdv a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_18.zip" download>Volume 18 (.zip file, 31mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqobfojdv"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 18"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-18"^^xsd:string .
+
+ns1:bcpqobpf6pi a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_20.zip" download>Volume 20 (.zip file, 5mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqobpf6pi"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 20"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-20"^^xsd:string .
+
+ns1:bcpqobu7vuq a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_22.zip" download>Volume 22 (.zip file, 19mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqobu7vuq"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 22"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-22"^^xsd:string .
+
+ns1:bcpqocbmxkx a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_26.zip" download>Volume 26 (.zip file, 8mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqocbmxkx"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 26"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-26"^^xsd:string .
+
+ns1:bcpqochapy2 a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_28.zip" download>Volume 28 (.zip file, 6mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqochapy2"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 28"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-28"^^xsd:string .
+
+ns1:bcpqocndszw a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_30.zip" download>Volume 30 (.zip file, 6mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqocndszw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 30"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-30"^^xsd:string .
+
+ns1:bcpqocs2uhp a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_32.zip" download>Volume 32 (.zip file, 6mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqocs2uhp"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 32"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-32"^^xsd:string .
+
+ns1:bcpqoaf5sto a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_6.zip" download>Volume 6 (.zip file, 14mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqoaf5sto"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 6"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-6"^^xsd:string .
+
+ns1:bcpqoalnwed a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_8.zip" download>Volume 8 (.zip file, 13mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqoalnwed"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 8"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-8"^^xsd:string .
+
+ns1:bcpqoanijcm a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_9.zip" download>Volume 9 (.zip file, 38mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqoanijcm"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 9"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-9"^^xsd:string .
+
+ns1:bcpqoash2jt a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_11.zip" download>Volume 11 (.zip file, 24mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqoash2jt"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 11"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-11"^^xsd:string .
+
+ns1:bcpqoauztyp a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_12.zip" download>Volume 12 (.zip file, 25mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqoauztyp"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 12"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-12"^^xsd:string .
+
+ns1:bcpqoaxfojq a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_13.zip" download>Volume 13 (.zip file, 27mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqoaxfojq"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 13"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-13"^^xsd:string .
+
+ns1:bcpqobaotyu a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_16.zip" download>Volume 16 (.zip file, 59mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqobaotyu"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 16"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-16"^^xsd:string .
+
+ns1:bcpqobdubou a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_17.zip" download>Volume 17 (.zip file, 32mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqobdubou"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 17"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-17"^^xsd:string .
+
+ns1:bcpqobmu4ep a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_19.zip" download>Volume 19 (.zip file, 55mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqobmu4ep"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 19"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-19"^^xsd:string .
+
+ns1:bcpqobs2l3e a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_21.zip" download>Volume 21 (.zip file, 22mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqobs2l3e"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 21"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-21"^^xsd:string .
+
+ns1:bcpqobxze6k a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_23.zip" download>Volume 23 (.zip file, 10mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqobxze6k"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 23"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-23"^^xsd:string .
+
+ns1:bcpqocezqpx a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_27.zip" download>Volume 27 (.zip file, 13mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqocezqpx"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 27"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-27"^^xsd:string .
+
+ns1:bcpqocknhzs a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_29.zip" download>Volume 29 (.zip file, 14mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqocknhzs"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 29"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-29"^^xsd:string .
+
+ns1:bcpqocpr3vh a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_31.zip" download>Volume 31 (.zip file, 9mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqocpr3vh"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 31"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-31"^^xsd:string .
+
+ns1:bcpqocvint5 a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_33.zip" download>Volume 33 (.zip file, 10mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqocvint5"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 33"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-33"^^xsd:string .
+
+ns1:bcpqn76e7n5 a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqn76e7n5"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 3"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-3"^^xsd:string .
+
+ns1:bcpqn77nhwr a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_4.zip" download>Volume 4 (.zip file, 6mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqn77nhwr"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 4"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-4"^^xsd:string .
+
+ns1:bcpqoact7dh a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_5.zip" download>Volume 5 (.zip file, 10mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqoact7dh"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 5"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-5"^^xsd:string .
+
+ns1:bcpqoaivzve a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_7.zip" download>Volume 7 (.zip file, 13mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqoaivzve"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 7"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-7"^^xsd:string .
+
+ns1:bcpqn7zvpei a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqn7zvpei"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-1"^^xsd:string .
+
 ns1:Item a <http://www.w3.org/2002/07/owl#Class> .
+
+ns1:bcpqn72unjj a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqn72unjj"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 2"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-2"^^xsd:string .
+
+ns1:bcphbq3xdnj a ns1:Page ;
+    ns1:description """<h1>Thank you, Dream Network supporter!</h1>
+
+<p>As thanks for your very generous donation, here's something special. As promised, scans of the entire 1982-2015 Dream Network archive, hot off the press from the scanners. We've barely even had time to style this page, but as tribute to the <a href="https://web.archive.org/web/20060424062349/http://dreamnetwork.net/">old DNJ site</a> we've pulled in a few styles:)</p>
+
+<p>What a treasure trove this is. It's almost an embarrassment of riches, and we hope you enjoy perusing these for years to come.</p>
+
+<p>Below, you can download each volume as a .zip file, or download each issue individually. If you'd like to look up an individual author or article, here's a (not-quite-complete) <a href="https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing">list of Dream Network articles</a></p>
+
+<p>We have one request to make: Please don't publish or distribute any of these files yet. We'll be making the full archive public in early 2020. After that, feel free to send them to your friends, but again rather than publishing them online please just link to the archive site. We also ask you not to publish the articles in them, unless you have the permission of the author (or you are the author, in which case, the rights are yours!)</p>
+
+<p><strong>Thank you</strong> to everyone who donated to this campaign. We'd like to personally thank <a href="https://kellybulkeley.org/about-kelly-bulkeley">Kelly Bulkeley</a>, whose donation really made this campaign possible, and all the 'super supporters' of the campaign: <a href="https://www.monroeinstitute.org/Luigi-Sciambarella">Luigi Sciambarella</a>, <a href="Evelyn Duesbury">Evelyn Duesbury</a>, <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as <a href="https://arthurstrock.com/about-arthur/">Arthur Strock</a>, <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, Rosemary Watts-Dreyer, Patti Allen and Mary Bronk. For their donations as well as providing providing their personal copies of publications for scanning, special thanks to <a href="https://www.changingworld.com/about-us">Dick McLeester</a> and <a href="https://www.dreamtimesguide.com/about-marlene-king/">Marlene King</a>.</p>
+
+<p><a href="https://twitter.com/EastWest_Works">Inoshi</a>, <a href="https://twitter.com/kannydennedy">Dan</a> and <a href="https://web.archive.org/web/20141119224703/http://www.understandthemeaningofmydreams.com/cgi-bin/article/news.cgi?act=read&amp;cat=12&amp;num=3">Roberta</a></p>
+
+<p><a href="https://chuffed.org/project/dream-network-journal">Visit the campaign page</a></p></p>
+"""^^xsd:string ;
+    ns1:handle "dreamnetwork"^^xsd:string ;
+    ns1:itemId "bcphbq3xdnj"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Welcome to the Dream Network"^^xsd:string .
 
 ns1:Post a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .

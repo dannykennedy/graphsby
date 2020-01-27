@@ -286,15 +286,14 @@ for pyyam in file_objects:
 				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
 				SELECT DISTINCT ?itemId
 			    WHERE {{
-			    	?item dnj:handle "{handle}"^^xsd:string .
+			    	?item dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
 			    	?item dnj:itemId ?itemId			   	
-			   	}}""".format(handle=tag_value)
+			   	}}""".format(string_identifier=tag_value)
 
 		q = graph.query(query_string)
 
 		for row in q:
 			print(row[0])
-			# print("Itemzzzz: %s" % row)
 
 
 #############

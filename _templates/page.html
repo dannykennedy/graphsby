@@ -6,7 +6,9 @@
     </div>
     <div id="page-items">
         {% if posts %} {% for post in posts %}
-        <div id="1228895055464076" class="item-card">
+
+        <div id="{{post.itemId}}" class="item-card">
+            <a href="{{site + post.itemId}}"><span class="make-div-a-link"><span></a>
             <div class="inner-card">
                 <div class="card-header">
                     <div class="card-user-info">
@@ -27,7 +29,8 @@
                 </div>
                 <div class="card-body">
                     <div class="card-body-text">
-                        <p>{{post}}</p>
+                        <p>{{post.description}}</p>
+                        <p>{{post.itemId}}</p>
                     </div>
                 </div>
                 <div class="card-footer">

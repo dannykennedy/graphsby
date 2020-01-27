@@ -22,7 +22,7 @@ from load_file_to_object import load_file_to_object
 cwd = os.getcwd()
 config_path = cwd + "/_config.yml"
 index_page = get_yaml_var("home", config_path)
-site_name = get_yaml_var("site", config_path)
+site_url = get_yaml_var("site", config_path)
 
 # Template vars
 # https://stackoverflow.com/questions/38642557/how-to-load-jinja-template-directly-from-filesystem
@@ -36,8 +36,8 @@ page_template = templateEnv.get_template(PAGE_TEMPLATE_FILE)
 
 # Startup messages
 print("### Generating site ###")
-t = jinja2.Template("Site: {{ site_name }}")
-print(t.render(site_name=site_name))
+t = jinja2.Template("Site: {{ site_url }}")
+print(t.render(site_url=site_url))
 t = jinja2.Template("Homepage: {{ index_page }}")
 print(t.render(index_page=index_page))
 
@@ -387,23 +387,23 @@ for pyyam in file_objects:
 
 	query_string = """
 				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-		   		SELECT DISTINCT ?item ?name ?description
+		   		SELECT DISTINCT ?item ?name ?description ?itemId
 		   		WHERE {{ 
 		   		?currentItem dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
 		   		?item dnj:hasTag ?currentItem .
 		   		?item dnj:name ?name .
 		   		?item dnj:description ?description .
+		   		?item dnj:itemId ?itemId
 		   		}}""".format(string_identifier=item_string_identifier)
 
 	q = graph.query(query_string)
 	print("tagged_with: ", end="")
 	print(len(q))
 
-	descriptions = []
+	tagged_items = []
 	for row in q:
 		# print("Item: %s, name: %s, description: %s" % row)
-		descriptions.append(row[2])
-		print(row[2])
+		tagged_items.append({"description":row[2], "itemId":row[3]})
 
 
 
@@ -415,11 +415,11 @@ for pyyam in file_objects:
 	# Post is for individual posts, page is for pages with many posts
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(description=htmlstring, posts=descriptions)
+			full_html = post_template.render(description=htmlstring, posts=tagged_items, site=site_url)
 		else: 
-			full_html = page_template.render(description=htmlstring, posts=descriptions)
+			full_html = page_template.render(description=htmlstring, posts=tagged_items, site=site_url)
 	else: 
-		full_html = post_template.render(description=htmlstring, posts=descriptions)
+		full_html = post_template.render(description=htmlstring, posts=tagged_items, site=site_url)
 
 
 	# Path to write to (Dependant on type of item)

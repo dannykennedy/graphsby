@@ -14,9 +14,7 @@ sys.path.insert(1, './modules')
 from copytree import copytree
 from get_yaml_var import get_yaml_var
 from load_file_to_object import load_file_to_object
-
-
-
+from map_class_to_css_tag import map_class_to_css_tag
 
 # Vars
 cwd = os.getcwd()
@@ -382,7 +380,9 @@ for pyyam in file_objects:
 			else: 
 				tagLink = tagId + "/" + textId
 
-			little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagType":tagType, "tagLink":tagLink})
+			cssTagClass = map_class_to_css_tag(tagType)
+
+			little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
 
 		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "tags": little_tags})
 

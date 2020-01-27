@@ -66,10 +66,10 @@
 .OTHER {
     background-color: rgb(121, 174, 245);
 }
-.DOCUMENT {
+.PAGE {
     background-color: rgba(161, 145, 203, 0.8);
 }
-.DOCUMENT:hover {
+.PAGE:hover {
     background-color: rgba(161, 145, 203, 1);
 }
 

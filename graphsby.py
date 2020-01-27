@@ -278,10 +278,28 @@ edges = []
 
 for pyyam in file_objects:
 	for tag in pyyam['tags']:
-		print("", end="")
+
+		tag_value = list(tag.values())[0]
+
+		# Find the object in the graph that the tag points to
+		query_string = """
+				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+				SELECT DISTINCT ?itemId
+			    WHERE {{
+			    	?item dnj:handle "{handle}"^^xsd:string .
+			    	?item dnj:itemId ?itemId			   	
+			   	}}""".format(handle=tag_value)
+
+		q = graph.query(query_string)
+
+		for row in q:
+			print(row[0])
+			# print("Itemzzzz: %s" % row)
 
 
-
+#############
+# QUERY GRAPH
+#############
 
 
 # Get all items
@@ -312,8 +330,8 @@ q = graph.query(
 		 		)
 
 print("Items: ")
-for row in q:
-    print("Itemzzzz: %s" % row)
+# for row in q:
+	# print("Itemzzzz: %s" % row)
     # print(row) 
 
 print(len(q))

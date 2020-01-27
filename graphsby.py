@@ -219,9 +219,9 @@ for subdir, dirs, files in os.walk(cwd + '/_items'):
 		file_objects.append(pyyam)
 
 
-########################################################
-# LOOP ONCE AND ADD BASIC INSTANCES (THE ACTUAL CONTENT)
-########################################################
+##########################################################
+# LOOP ONCE AND ADD INSTANCES (THE ACTUAL ITEMS / CONTENT)
+##########################################################
 
 instances = []
 
@@ -315,21 +315,21 @@ for triple in edges:
 #############
 
 
-# Get all items
-q = graph.query(
-    """PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-	   SELECT DISTINCT ?item ?description ?layout ?handle
-	   WHERE {
-	   			?item dnj:layout ?layout .
-	   			?item dnj:handle ?handle .
-	   			?item dnj:description ?description .
-	   			?item rdf:type/rdfs:subClassOf* dnj:Item .}"""
-		 		)
+# # Get all items
+# q = graph.query(
+#     """PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+# 	   SELECT DISTINCT ?item ?description ?layout ?handle
+# 	   WHERE {
+# 	   			?item dnj:layout ?layout .
+# 	   			?item dnj:handle ?handle .
+# 	   			?item dnj:description ?description .
+# 	   			?item rdf:type/rdfs:subClassOf* dnj:Item .}"""
+# 		 		)
 
-print("Items: ")
-# for row in q:
-#     print("Item: %s , Description %s , Layout %s, Handle: %s" % row)
-#     # print(row) 
+# print("Items: ")
+# # for row in q:
+# #     print("Item: %s , Description %s , Layout %s, Handle: %s" % row)
+# #     # print(row) 
 
 print(len(q))
 
@@ -361,7 +361,52 @@ graph.serialize(destination='dream-network16.ttl', format='turtle')
 ################
 print("Total pages processed:", end=" ")
 print(len(file_objects))
+
+##########################################
+# GET ALL ITEMS THAT HAVE TAGGED THAT PAGE
+##########################################
+
+
+
+
+
+
+
 for pyyam in file_objects:
+
+	item_string_identifier = ""
+	item_type = pyyam["type"]
+	if item_type == "user" or item_type == "page":
+		item_string_identifier = pyyam["handle"]
+	elif item_type == "post":
+		item_string_identifier = pyyam["urlSlug"]
+
+	print("Found string id: ", end="")
+	print(item_string_identifier)
+
+
+	query_string = """
+				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+		   		SELECT DISTINCT ?item ?name ?description
+		   		WHERE {{ 
+		   		?currentItem dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
+		   		?item dnj:hasTag ?currentItem .
+		   		?item dnj:name ?name .
+		   		?item dnj:description ?description .
+		   		}}""".format(string_identifier=item_string_identifier)
+
+	q = graph.query(query_string)
+	print("tagged_with: ", end="")
+	print(len(q))
+
+	descriptions = []
+	for row in q:
+		# print("Item: %s, name: %s, description: %s" % row)
+		descriptions.append(row[2])
+		print(row[2])
+
+
+
 
 	htmlstring = pyyam["description"]
 	full_html = ""
@@ -370,11 +415,11 @@ for pyyam in file_objects:
 	# Post is for individual posts, page is for pages with many posts
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(description=htmlstring, posts=["dog", "cat"])
+			full_html = post_template.render(description=htmlstring, posts=descriptions)
 		else: 
-			full_html = page_template.render(description=htmlstring, posts=["dog", "cat"])
+			full_html = page_template.render(description=htmlstring, posts=descriptions)
 	else: 
-		full_html = post_template.render(description=htmlstring, posts=["dog", "cat"])
+		full_html = post_template.render(description=htmlstring, posts=descriptions)
 
 
 	# Path to write to (Dependant on type of item)

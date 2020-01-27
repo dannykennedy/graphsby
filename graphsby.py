@@ -186,9 +186,6 @@ propertyTriples = [
 #################
 
 rootdir = cwd + '/_items'
-
-# Instance data in graph
-instances = []
 file_objects = []
 
 for subdir, dirs, files in os.walk(rootdir):
@@ -202,53 +199,67 @@ for subdir, dirs, files in os.walk(rootdir):
 		filepath = os.path.join(subdir, file)
 		pyyam = load_file_to_object(filepath)
 		file_objects.append(pyyam)
+		
+
+########################
+# LOOP ONCE AND ADD TAGS
+########################
+
+# Instance data in graph
+instances = []
+for pyyam in file_objects:
+
+	################
+	# INSTANCE DATA
+	################
+
+	# Map YAML descriptions to graph classes
+	classMap = {
+		"person": personClass,
+		"page": pageClass,
+		"user": userClass,
+		"post": postClass
+	}
+
+	# When you find an item, store it by its ID
+	docId = pyyam['itemId']
+	newItem = dreamNS[docId]
+
+	# Add ID as property
+	instances.append((newItem, itemId, Literal(docId, datatype=xsdString)))
+
+	# Type of item (e.g. page, person)
+	itemType = pyyam["type"]
+	if itemType in classMap.keys():
+		instances.append((newItem, rdfType, classMap[itemType]))
+
+	# Add handle, if type is person or page
+	if itemType == "user" or itemType == "page":
+		if "handle" in pyyam.keys():
+			instances.append((newItem, handle, Literal(pyyam['handle'], datatype=xsdString)))
+
+	# Add URL slug, if item type is post. 
+	if itemType == "post":
+		if "urlSlug" in pyyam.keys():
+			instances.append((newItem, urlSlug, Literal(pyyam['urlSlug'], datatype=xsdString)))
+
+	# Title
+	instances.append((newItem, name, Literal(pyyam['name'], datatype=xsdString)))
+	# Description
+	htmlstring = pyyam["description"]
+	instances.append((newItem, description, Literal(htmlstring, datatype=xsdString)))
+	# Layout
+	instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
+
+	# Tags
+	for tag in pyyam['tags']:
+		print("", end="")
+
+#########################
+# LOOP AGAIN AND ADD TAGS
+#########################
 
 
-		################
-		# INSTANCE DATA
-		################
-
-		# Map YAML descriptions to graph classes
-		classMap = {
-			"person": personClass,
-			"page": pageClass,
-			"user": userClass,
-			"post": postClass
-		}
-
-		# When you find an item, store it by its ID
-		docId = pyyam['itemId']
-		newItem = dreamNS[docId]
-
-		# Add ID as property
-		instances.append((newItem, itemId, Literal(docId, datatype=xsdString)))
-
-		# Type of item (e.g. page, person)
-		itemType = pyyam["type"]
-		if itemType in classMap.keys():
-			instances.append((newItem, rdfType, classMap[itemType]))
-
-		# Add handle, if type is person or page
-		if itemType == "user" or itemType == "page":
-			if "handle" in pyyam.keys():
-				instances.append((newItem, handle, Literal(pyyam['handle'], datatype=xsdString)))
-
-		# Add URL slug, if item type is post. 
-		if itemType == "post":
-			if "urlSlug" in pyyam.keys():
-				instances.append((newItem, urlSlug, Literal(pyyam['urlSlug'], datatype=xsdString)))
-
-		# Title
-		instances.append((newItem, name, Literal(pyyam['name'], datatype=xsdString)))
-		# Description
-		htmlstring = pyyam["description"]
-		instances.append((newItem, description, Literal(htmlstring, datatype=xsdString)))
-		# Layout
-		instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
-
-		# Tags
-		for tag in pyyam['tags']:
-			print("", end="")
 
 
 # Add all triples to the graph

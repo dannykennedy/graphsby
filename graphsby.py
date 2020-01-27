@@ -1,20 +1,22 @@
 #!/usr/local/bin/python3
 
-import sys
-sys.path.insert(1, './modules')
+#########
+# IMPORTS
+#########
 
-import os, re, rdflib, shutil
-from rdflib import Namespace, Literal
+# Libraries
+import os, sys, re, rdflib, jinja2
+from rdflib import Namespace, Literal, ConjunctiveGraph
 from pathlib import Path
-import jinja2
+
+# Custom functions in ./modules
+sys.path.insert(1, './modules')
+from copytree import copytree
 from get_yaml_var import get_yaml_var
 from load_file_to_object import load_file_to_object
-from copytree import copytree
-import yaml
-try:
-    from yaml import CLoader as Loader, CDumper as Dumper
-except ImportError:
-    from yaml import Loader, Dumper
+
+
+
 
 # Vars
 cwd = os.getcwd()
@@ -185,10 +187,9 @@ propertyTriples = [
 # PARSE DOCUMENTS
 #################
 
-rootdir = cwd + '/_items'
 file_objects = []
 
-for subdir, dirs, files in os.walk(rootdir):
+for subdir, dirs, files in os.walk(cwd + '/_items'):
 	for file in files:
 
 		# Ignore hidden files
@@ -199,19 +200,19 @@ for subdir, dirs, files in os.walk(rootdir):
 		filepath = os.path.join(subdir, file)
 		pyyam = load_file_to_object(filepath)
 		file_objects.append(pyyam)
-		
 
-########################
-# LOOP ONCE AND ADD TAGS
-########################
 
-# Instance data in graph
+##############################################
+# INSTANCE DATA FOR GRAPH (THE ACTUAL CONTENT)
+##############################################
 instances = []
-for pyyam in file_objects:
 
-	################
-	# INSTANCE DATA
-	################
+
+###################################
+# LOOP ONCE AND ADD BASIC INSTANCES
+###################################
+
+for pyyam in file_objects:
 
 	# Map YAML descriptions to graph classes
 	classMap = {
@@ -251,19 +252,25 @@ for pyyam in file_objects:
 	# Layout
 	instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
 
-	# Tags
+
+###############################################
+# LOOP AGAIN AND ADD TAGS (EDGES BETWEEN ITEMS)
+###############################################
+
+for pyyam in file_objects:
 	for tag in pyyam['tags']:
+
+
+
+
 		print("", end="")
 
-#########################
-# LOOP AGAIN AND ADD TAGS
-#########################
 
 
 
 
 # Add all triples to the graph
-from rdflib import ConjunctiveGraph
+
 graph = ConjunctiveGraph()
 
 for triple in classTriples:
@@ -316,14 +323,13 @@ print(len(q))
 # OUTPUT GRAPH
 ################
 
-graph.serialize(destination='dream-network15.ttl', format='turtle')
+graph.serialize(destination='dream-network16.ttl', format='turtle')
 
 
 ################
 # GENERATE PAGES
 ################
-print("file_objects")
-print(file_objects)
+print("Total pages processed:", end=" ")
 print(len(file_objects))
 for pyyam in file_objects:
 

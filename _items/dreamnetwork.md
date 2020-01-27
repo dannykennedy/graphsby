@@ -3,11 +3,9 @@ layout: page
 type: page
 itemId: bcphbq3xdnj
 handle: dreamnetwork
-name: "Welcome to the Dream Network"
+name: "Dream Network"
 shortDescription: "Welcome to the Dream Network"
 tags:
-  - hasTag: "hi"
-  - hasTag: "bye"
 date: 2015-03-24
 featuredImg: dnj.png
 ---

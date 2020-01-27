@@ -277,30 +277,31 @@ for triple in instances:
 edges = []
 
 for pyyam in file_objects:
-	for tag in pyyam['tags']:
+	if 'tags' in pyyam.keys() and pyyam['tags'] is not None:
+		for tag in pyyam['tags']:
 
-		tag_value = list(tag.values())[0]
+			tag_value = list(tag.values())[0]
 
-		# Find the object in the graph that the tag points to
-		query_string = """
-				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-				SELECT DISTINCT ?itemId
-			    WHERE {{
-			    	?item dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
-			    	?item dnj:itemId ?itemId			   	
-			   	}}""".format(string_identifier=tag_value)
+			# Find the object in the graph that the tag points to
+			query_string = """
+					PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+					SELECT DISTINCT ?itemId
+				    WHERE {{
+				    	?item dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
+				    	?item dnj:itemId ?itemId			   	
+				   	}}""".format(string_identifier=tag_value)
 
-		q = graph.query(query_string)
+			q = graph.query(query_string)
 
-		# Naively assume there is only one result
-		tag_item = ""
-		for row in q:
-			tag_item = row[0]
+			# Naively assume there is only one result
+			tag_item = ""
+			for row in q:
+				tag_item = row[0]
 
-		# Append edge to edges array
-		curr_item = pyyam["itemId"]
-		if tag_item != "":
-			edges.append((dreamNS[curr_item], hasTag, dreamNS[tag_item]))
+			# Append edge to edges array
+			curr_item = pyyam["itemId"]
+			if tag_item != "":
+				edges.append((dreamNS[curr_item], hasTag, dreamNS[tag_item]))
 
 # Add edges to the graph
 for triple in edges: 
@@ -334,10 +335,7 @@ for pyyam in file_objects:
 	elif item_type == "post":
 		item_string_identifier = pyyam["urlSlug"]
 
-	print("Found string id: ", end="")
-	print(item_string_identifier)
-
-
+	# Find all items that have tagged the current page
 	query_string = """
 				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
 		   		SELECT DISTINCT ?item ?name ?description ?itemId
@@ -350,16 +348,28 @@ for pyyam in file_objects:
 		   		}}""".format(string_identifier=item_string_identifier)
 
 	q = graph.query(query_string)
-	print("tagged_with: ", end="")
-	print(len(q))
 
 	tagged_items = []
 	for row in q:
-		# print("Item: %s, name: %s, description: %s" % row)
-		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3]})
+		# Now find everything that this item is tagged with
+		# This is literally Inception
+		query_string = """
+			PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+			SELECT DISTINCT ?littleTag ?tagName ?tagId
+			WHERE {{ 
+				?item dnj:itemId "{id}"^^xsd:string .
+				?item dnj:hasTag ?littleTag .
+				?littleTag dnj:name ?tagName .
+				?littleTag dnj:itemId ?tagId
+			}}""".format(id=row[3])
+		tag_query = graph.query(query_string)
 
+		# Create a tags array (for dem little tags on the cards)
+		little_tags = []
+		for lil_tag in tag_query:
+			little_tags.append({"name": lil_tag[1], "tagId": lil_tag[2]})
 
-
+		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "tags": little_tags})
 
 	htmlstring = pyyam["description"]
 	full_html = ""
@@ -368,11 +378,11 @@ for pyyam in file_objects:
 	# Post is for individual posts, page is for pages with many posts
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(description=htmlstring, posts=tagged_items, site=site_url, tags=pyyam["tags"])
+			full_html = post_template.render(description=htmlstring, posts=tagged_items, site=site_url)
 		else: 
-			full_html = page_template.render(description=htmlstring, posts=tagged_items, site=site_url, tags=pyyam["tags"])
+			full_html = page_template.render(description=htmlstring, posts=tagged_items, site=site_url)
 	else: 
-		full_html = post_template.render(description=htmlstring, posts=tagged_items, site=site_url, tags=pyyam["tags"])
+		full_html = post_template.render(description=htmlstring, posts=tagged_items, site=site_url)
 
 
 	# Path to write to (Dependant on type of item)

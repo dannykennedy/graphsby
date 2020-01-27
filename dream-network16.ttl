@@ -1854,7 +1854,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
     ns1:handle "dreamnetwork"^^xsd:string ;
     ns1:itemId "bcphbq3xdnj"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Welcome to the Dream Network"^^xsd:string .
+    ns1:name "Dream Network"^^xsd:string .
 
 ns1:Post a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .

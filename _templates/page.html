@@ -35,10 +35,10 @@
                 </div>
                 <div class="card-footer">
                     <div class="tags-area">
-                    {% if tags %} {% for tag in tags %}
+                    {% if post.tags %} {% for tag in post.tags %}
                         <div class="tag OTHER">
                             <div class="tag-wrapper">
-                                <div class="tag-text"><span class="tag-name">Something</span></div>
+                                <div class="tag-text"><span class="tag-name">{{tag.name}}</span></div>
                             </div>
                         </div>
                     {% endfor %} {% endif %}

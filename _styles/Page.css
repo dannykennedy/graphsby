@@ -16,6 +16,9 @@
 #profile-header {
     display: grid;
     grid-template-columns: 33% 67%;
+    align-items: center;
+    column-gap: 20px;
+    margin-top: 30px;
 }
 
 @media (max-width: 800px) {

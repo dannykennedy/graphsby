@@ -345,6 +345,8 @@ for pyyam in file_objects:
 		   		?item dnj:itemId ?itemId
 		   		}}""".format(string_identifier=item_string_identifier)
 
+	print("Finding linked posts for: ", end="")
+	print(pyyam['name'])
 	q = graph.query(query_string)
 
 	tagged_items = []
@@ -390,6 +392,7 @@ for pyyam in file_objects:
 	full_html = ""
 	# Layout 
 	# Post is for individual posts, page is for pages with many posts
+
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
 			full_html = post_template.render(render_item=pyyam, posts=tagged_items, site=site_url)

@@ -1,4 +1,5 @@
 ---
+featuredImg: volume-2.jpg
 itemId: bcpqn72unjj
 layout: page
 name: Volume 2

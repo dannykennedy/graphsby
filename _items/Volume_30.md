@@ -1,4 +1,5 @@
 ---
+featuredImg: volume-30.jpg
 itemId: bcpqocndszw
 layout: page
 name: Volume 30

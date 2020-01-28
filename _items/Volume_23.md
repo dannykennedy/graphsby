@@ -1,4 +1,5 @@
 ---
+featuredImg: volume-23.jpg
 itemId: bcpqobxze6k
 layout: page
 name: Volume 23

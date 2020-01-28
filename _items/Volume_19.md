@@ -1,4 +1,5 @@
 ---
+featuredImg: volume-19.jpg
 itemId: bcpqobmu4ep
 layout: page
 name: Volume 19

@@ -1,4 +1,5 @@
 ---
+featuredImg: volume-25.jpg
 itemId: bcpqob4y4gj
 layout: page
 name: Volume 25

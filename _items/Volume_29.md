@@ -1,4 +1,5 @@
 ---
+featuredImg: volume-29.jpg
 itemId: bcpqocknhzs
 layout: page
 name: Volume 29

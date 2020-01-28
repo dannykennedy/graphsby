@@ -1,4 +1,5 @@
 ---
+featuredImg: volume-16.jpg
 itemId: bcpqobaotyu
 layout: page
 name: Volume 16

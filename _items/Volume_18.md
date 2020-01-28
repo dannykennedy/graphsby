@@ -1,4 +1,5 @@
 ---
+featuredImg: volume-18.jpg
 itemId: bcpqobfojdv
 layout: page
 name: Volume 18

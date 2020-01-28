@@ -1,4 +1,5 @@
 ---
+featuredImg: volume-9.jpg
 itemId: bcpqoanijcm
 layout: page
 name: Volume 9

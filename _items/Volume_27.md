@@ -1,4 +1,5 @@
 ---
+featuredImg: volume-27.jpg
 itemId: bcpqocezqpx
 layout: page
 name: Volume 27

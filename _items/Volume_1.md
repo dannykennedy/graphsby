@@ -1,4 +1,5 @@
 ---
+featuredImg: volume-1.jpg
 itemId: bcpqn7zvpei
 layout: page
 name: Volume 1

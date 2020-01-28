@@ -1,4 +1,5 @@
 ---
+featuredImg: volume-21.jpg
 itemId: bcpqobs2l3e
 layout: page
 name: Volume 21

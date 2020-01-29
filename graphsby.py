@@ -23,16 +23,18 @@ index_page = get_yaml_var("home", config_path)
 site_url = get_yaml_var("site", config_path)
 port = get_yaml_var("port", config_path)
 build = "prod"
+build_folder = "/_site"
 
 if sys.argv[1] in ["dev", "prod"]:
 	build = sys.argv[1]
 
 if build == "dev":
-	print("Running dev build")
-	site_url =  "http://localhost:" + str(port) + "/_site"
+	build_folder = "/_build"
+	site_url =  "http://localhost:" + str(port) + build_folder
+	print("Running dev build on: ", end="")
+	print(site_url)
 else: 
 	print("Running prod build")
-
 
 # Template vars
 # https://stackoverflow.com/questions/38642557/how-to-load-jinja-template-directly-from-filesystem
@@ -51,15 +53,15 @@ print(t.render(site_url=site_url))
 t = jinja2.Template("Homepage: {{ index_page }}")
 print(t.render(index_page=index_page))
 
-# Copy folders into _site
+# Copy folders into build folder
 # Styles
-style_folderpath = cwd + '/_site/styles'
+style_folderpath = cwd + build_folder + '/styles'
 Path(style_folderpath).mkdir(parents=True, exist_ok=True)
-copytree(cwd + "/_styles/", cwd + "/_site/styles")
+copytree(cwd + "/_styles/", cwd + build_folder + "/styles")
 # Images
-images_folderpath = cwd + '/_site/images'
+images_folderpath = cwd + build_folder + '/images'
 Path(images_folderpath).mkdir(parents=True, exist_ok=True)
-copytree(cwd + "/_images/", cwd + "/_site/images")
+copytree(cwd + "/_images/", cwd + build_folder + "/images")
 # TODO: Files
 
 
@@ -238,6 +240,7 @@ for subdir, dirs, files in os.walk(cwd + '/_items'):
 
 instances = []
 
+print("Building graph nodes")
 for pyyam in file_objects:
 
 	# Map YAML descriptions to graph classes
@@ -289,6 +292,7 @@ for triple in instances:
 
 edges = []
 
+print("Building graph edges")
 for pyyam in file_objects:
 	if 'tags' in pyyam.keys() and pyyam['tags'] is not None:
 		for tag in pyyam['tags']:
@@ -339,6 +343,7 @@ print(len(file_objects))
 # GET ALL ITEMS THAT HAVE TAGGED THAT PAGE
 ##########################################
 
+print("Finding linked items")
 for pyyam in file_objects:
 
 	item_string_identifier = ""
@@ -360,8 +365,6 @@ for pyyam in file_objects:
 		   		?item dnj:itemId ?itemId
 		   		}}""".format(string_identifier=item_string_identifier)
 
-	print("Finding linked posts for: ", end="")
-	print(pyyam['name'])
 	q = graph.query(query_string)
 
 	tagged_items = []
@@ -408,8 +411,6 @@ for pyyam in file_objects:
 	# Layout 
 	# Post is for individual posts, page is for pages with many posts
 
-	print(site_url)
-
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
 			full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url)
@@ -425,10 +426,10 @@ for pyyam in file_objects:
 	if "type" in pyyam.keys():
 		# If type is a user or page, make @handle/index.html
 		if pyyam["type"] == "user" or pyyam["type"] == "page":
-			folderpath = cwd + '/_site/' + "@" + pyyam["handle"]
+			folderpath = cwd + build_folder + "/@" + pyyam["handle"]
 			writepaths.append(folderpath + "/index.html")
 		elif pyyam["type"] == "post":
-			folderpath = cwd + '/_site/' + str(pyyam["itemId"])
+			folderpath = cwd + build_folder + "/" + str(pyyam["itemId"])
 			writepaths.append(folderpath + "/index.html")
 			writepaths.append(folderpath + "/" + pyyam["urlSlug"] + ".html")
 
@@ -445,10 +446,12 @@ for pyyam in file_objects:
 	# Create index.html file based on "home" in config.yml
 	if "handle" in pyyam.keys():
 		if pyyam["handle"] == index_page:
-			home_writepath = cwd + '/_site/index.html'
+			home_writepath = cwd + build_folder + '/index.html'
 			home_page = open(home_writepath, "w")
 			home_page.write(full_html)
 			home_page.close()
+
+print("\nDone")
 
 
 

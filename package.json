@@ -13,6 +13,6 @@
     "scripts": {
         "start": "http-server -p 3000 -o /_site/@dreamnetwork",
         "build": "python3 graphsby.py prod",
-        "dev": "python3 graphsby.py dev && yarn start"
+        "dev": "python3 graphsby.py dev && http-server -p 3000 -o /_build/@dreamnetwork"
     }
 }

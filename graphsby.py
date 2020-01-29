@@ -21,6 +21,18 @@ cwd = os.getcwd()
 config_path = cwd + "/_config.yml"
 index_page = get_yaml_var("home", config_path)
 site_url = get_yaml_var("site", config_path)
+port = get_yaml_var("port", config_path)
+build = "prod"
+
+if sys.argv[1] in ["dev", "prod"]:
+	build = sys.argv[1]
+
+if build == "dev":
+	print("Running dev build")
+	site_url =  "http://localhost:" + str(port) + "/_site"
+else: 
+	print("Running prod build")
+
 
 # Template vars
 # https://stackoverflow.com/questions/38642557/how-to-load-jinja-template-directly-from-filesystem
@@ -54,6 +66,9 @@ copytree(cwd + "/_images/", cwd + "/_site/images")
 ########################
 # SET UP GRAPH STRUCTURE
 ########################
+
+# Let's give properties some properties
+# https://stackoverflow.com/questions/2078404/can-rdf-properties-contain-other-properties
 
 # Create graph
 graph = ConjunctiveGraph()
@@ -393,14 +408,15 @@ for pyyam in file_objects:
 	# Layout 
 	# Post is for individual posts, page is for pages with many posts
 
+	print(site_url)
+
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(render_item=pyyam, posts=tagged_items, site=site_url)
+			full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url)
 		else: 
-			full_html = page_template.render(render_item=pyyam, posts=tagged_items, site=site_url)
+			full_html = page_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url)
 	else: 
-		full_html = post_template.render(render_item=pyyam, posts=tagged_items, site=site_url)
-
+		full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url)
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"

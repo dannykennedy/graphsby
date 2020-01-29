@@ -1,88 +1,101 @@
 {% extends "base.html" %} {% block body_contents %}
+
 <div id="page">
     <div id="page-description">
-        <div id="profile-header">
-            {% if render_item.featuredImg %}
-            <div
-                id="profile-image-backing"
-                class="{{'profile-image-backing-' + render_item.type}}"
-            >
-                <img
-                    id="profile-image"
-                    class="{{'profile-image-' + render_item.type}}"
-                    src="{{'../images/' + render_item.featuredImg}}"
-                    alt="profile image"
-                />
-            </div>
-            {% endif %}
-            <h1>{{render_item.name}}</h1>
-        </div>
-        <div>{{render_item.description}}</div>
-    </div>
-    <div id="page-items">
-        {% if posts %} {% for post in posts %}
+        <div id="page-description-area">
 
-        <div id="{{post.itemId}}" class="item-card">
-            <div class="inner-card">
-                <div class="card-header">
-                    <div class="card-user-info">
-                        <div class="card-avatar tooltip">
-                            <div
-                                class="avatar-photo"
-                                style="background-color: rgb(246, 173, 97);"
-                            >
-                                <span class="tooltiptext">Daniel Kennedy</span>
-                                <div class="avatar-text">
-                                    <span
-                                        aria-hidden="true"
-                                        class="fa fa-user"
-                                    ></span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card-header-text">
-                            <div class="card-author">
-                                <span>Daniel Kennedy</span>
-                            </div>
-                            <div class="card-date">Jan 26, 2020</div>
-                        </div>
-                    </div>
-                    <div class="card-options dropdown">
-                        <div class="dropdown"></div>
-                    </div>
-                </div>
-                <div class="card-body">
-                    <h3 class="card-title">
-                        <a href="{{site_url + '/' + post.itemId}}"
-                            >{{post.name}}</a
+                        {% if render_item.featuredImg %}
+                        <div
+                            id="profile-image-backing"
+                            class="{{'profile-image-backing-' + render_item.type}}"
                         >
-                    </h3>
-                    <div class="card-body-text">
-                        <p>{{post.description}}</p>
+                            <img
+                                id="profile-image"
+                                class="{{'profile-image-' + render_item.type}}"
+                                src="{{'../images/' + render_item.featuredImg}}"
+                                alt="profile image"
+                            />
+                        </div>
+                        {% endif %}
+                        <h1 id="item-heading">{{render_item.name}}</h1>
+
+                        <div id="page-description-text">
+                            {{render_item.description}}
+                        </div>
                     </div>
                 </div>
-                <div class="card-footer">
-                    <div class="tags-area">
-                        {% if post.tags %} {% for tag in post.tags %}
-                        <div class="tag {{tag.tagClass}}">
-                            <div class="tag-wrapper">
-                                <div class="tag-text">
-                                    <span class="tag-name"
-                                        ><a
-                                            href="{{site_url + '/' + tag.tagLink}}"
-                                            >{{tag.name}}</a
-                                        ></span
+                <div id="page-items">
+                    {% if posts %} {% for post in posts %}
+
+                    <div id="{{post.itemId}}" class="item-card">
+                        <div class="inner-card">
+                            <div class="card-header">
+                                <div class="card-user-info">
+                                    <div class="card-avatar tooltip">
+                                        <div
+                                            class="avatar-photo"
+                                            style="background-color: rgb(246, 173, 97);"
+                                        >
+                                            <span class="tooltiptext"
+                                                >Daniel Kennedy</span
+                                            >
+                                            <div class="avatar-text">
+                                                <span
+                                                    aria-hidden="true"
+                                                    class="fa fa-user"
+                                                ></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card-header-text">
+                                        <div class="card-author">
+                                            <span>Daniel Kennedy</span>
+                                        </div>
+                                        <div class="card-date">
+                                            Jan 26, 2020
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-options dropdown">
+                                    <div class="dropdown"></div>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <h3 class="card-title">
+                                    <a href="{{site_url + '/' + post.itemId}}"
+                                        >{{post.name}}</a
                                     >
+                                </h3>
+                                <div class="card-body-text">
+                                    <p>{{post.description}}</p>
+                                </div>
+                            </div>
+                            <div class="card-footer">
+                                <div class="tags-area">
+                                    {% if post.tags %} {% for tag in post.tags
+                                    %}
+                                    <div class="tag {{tag.tagClass}}">
+                                        <div class="tag-wrapper">
+                                            <div class="tag-text">
+                                                <span class="tag-name"
+                                                    ><a
+                                                        href="{{site_url + '/' + tag.tagLink}}"
+                                                        >{{tag.name}}</a
+                                                    ></span
+                                                >
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {% endfor %} {% endif %}
                                 </div>
                             </div>
                         </div>
-                        {% endfor %} {% endif %}
                     </div>
+
+                    {% endfor %} {% endif %}
                 </div>
             </div>
+            {% endblock %}
         </div>
-
-        {% endfor %} {% endif %}
     </div>
 </div>
-{% endblock %}

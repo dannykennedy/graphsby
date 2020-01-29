@@ -13,6 +13,26 @@
     padding: 30px 30px 30px 10px;
 }
 
+.profile-image-page {
+    border-radius: 50%;
+}
+
+.profile-image-user {
+    border-radius: 50%;
+}
+
+.profile-image-backing-page {
+    border-radius: 50%;
+    padding: 5px;
+    background-color: rgba(161, 145, 203, 0.8);
+}
+
+.profile-image-backing-user {
+    border-radius: 50%;
+    padding: 5px;
+    background-color: rgb(246, 173, 97);
+}
+
 #profile-header {
     display: grid;
     grid-template-columns: 33% 67%;

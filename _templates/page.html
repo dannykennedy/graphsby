@@ -3,7 +3,17 @@
     <div id="page-description">
         <div id="profile-header">
             {% if render_item.featuredImg %}
-            <img src="{{'../images/' + render_item.featuredImg}}" alt="" />
+            <div
+                id="profile-image-backing"
+                class="{{'profile-image-backing-' + render_item.type}}"
+            >
+                <img
+                    id="profile-image"
+                    class="{{'profile-image-' + render_item.type}}"
+                    src="{{'../images/' + render_item.featuredImg}}"
+                    alt="profile image"
+                />
+            </div>
             {% endif %}
             <h1>{{render_item.name}}</h1>
         </div>

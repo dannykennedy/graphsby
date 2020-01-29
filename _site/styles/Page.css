@@ -61,8 +61,7 @@
     /* Safari/Chrome, other WebKit */
     -moz-box-sizing: border-box;
     /* Firefox, other Gecko */
-    box-sizing: border-box;
-    /* Opera/IE 8+ */
+    box-sizing: border-box; /* Opera/IE 8+ */
 }
 .profile-image-backing-user {
     border-radius: 50%;

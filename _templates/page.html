@@ -36,10 +36,15 @@
                                             class="avatar-photo"
                                             style="background-color: rgb(246, 173, 97);"
                                         >
-                                        {% if post.authors %}                                   
+                                        {% if post.authors %} 
+                                        <a
+                                        href="{{site_url + '/' + post.authors[0].tagLink}}"
+                                        >
+
                                         <img src="{{'../images/' + post.authors[0].featuredImg}}" 
                                             alt="{{post.authors[0].name}}" 
                                             class="post-author-img">
+                                        </a>
                                         {% else %}
                                             <div class="avatar-text">
                                                 <span

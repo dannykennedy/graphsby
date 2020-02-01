@@ -422,7 +422,6 @@ for pyyam in file_objects:
 			elif relation == "hasAuthor":
 				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "featuredImg": image})
 
-		print(authors)
 		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "tags": little_tags, "authors": authors})
 
 

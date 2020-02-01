@@ -1,10 +1,11 @@
 ---
-featuredImg: welcome-to-the-magic-theater.jpg
+featuredImg: welcome-to-the-magic-theater-sml.jpg
 itemId: bcpov6wbyg5
 layout: page
 name: 'Welcome to the Magic Theater: A Handbook for Exploring Dreams by Dick McLeester'
 tags:
 - hasTag: dreamnetwork
+- hasAuthor: dickmcleester
 type: post
 urlSlug: welcome-to-the-magic-theater
 ---

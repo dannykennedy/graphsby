@@ -407,7 +407,6 @@ for pyyam in file_objects:
 			tagType = lil_tag[4].split("#")[1]
 			relation = lil_tag[5].split("#")[1]
 			image = lil_tag[6]
-			image="dreamnetwork.jpg"
 
 			tagLink = ""
 			if tagType == "Page" or tagType == "User":

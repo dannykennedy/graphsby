@@ -1,10 +1,11 @@
 ---
-featuredImg: coat-of-many-colors.jpg
+featuredImg: coat-of-many-colors-sml.jpg
 itemId: bcpov6zfsra
 layout: page
 name: Coat of Many Colors
 tags:
 - hasTag: dreamnetwork
+- hasAuthor: dreamnetwork
 type: post
 urlSlug: coat-of-many-colors
 ---

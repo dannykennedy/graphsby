@@ -13,9 +13,6 @@ ns1:OtherItem a <http://www.w3.org/2002/07/owl#Class> ;
 ns1:Place a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
 
-ns1:User rdfs:subClassOf ns1:Actor,
-        ns1:Person .
-
 ns1:bcphb2asab7 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_33/33.1_beyond_the_veil.pdf" download="">Download issue 33.1</a></p>
 """^^xsd:string ;
@@ -1581,7 +1578,8 @@ ns1:bcphbzxidqa a ns1:Post ;
 ns1:bcpov6pacmm a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a></p>
 """^^xsd:string ;
-    ns1:featuredImg "relationship-dreams.jpg"^^xsd:string ;
+    ns1:featuredImg "relationship-dreams-sml.jpg"^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj ;
     ns1:itemId "bcpov6pacmm"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
@@ -1591,7 +1589,8 @@ ns1:bcpov6pacmm a ns1:Post ;
 ns1:bcpov6tqqf6 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf" download="">Download</a></p>
 """^^xsd:string ;
-    ns1:featuredImg "the-art-of-dream-sharing.jpg"^^xsd:string ;
+    ns1:featuredImg "the-art-of-dream-sharing-sml.jpg"^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3bayl ;
     ns1:hasTag ns1:bcphbq3xdnj ;
     ns1:itemId "bcpov6tqqf6"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
@@ -1601,7 +1600,8 @@ ns1:bcpov6tqqf6 a ns1:Post ;
 ns1:bcpov6wbyg5 a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_publications/publications.welcome-to-the-magic-theater.pdf" download="">Download</a></p>
 """^^xsd:string ;
-    ns1:featuredImg "welcome-to-the-magic-theater.jpg"^^xsd:string ;
+    ns1:featuredImg "welcome-to-the-magic-theater-sml.jpg"^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3mcle ;
     ns1:hasTag ns1:bcphbq3xdnj ;
     ns1:itemId "bcpov6wbyg5"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
@@ -1611,7 +1611,8 @@ ns1:bcpov6wbyg5 a ns1:Post ;
 ns1:bcpov6zfsra a ns1:Post ;
     ns1:description """<p><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p>
 """^^xsd:string ;
-    ns1:featuredImg "coat-of-many-colors.jpg"^^xsd:string ;
+    ns1:featuredImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj ;
     ns1:itemId "bcpov6zfsra"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
@@ -1663,6 +1664,49 @@ ns1:Page a <http://www.w3.org/2002/07/owl#Class> ;
 
 ns1:Person a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
+
+ns1:bcphbq3bayl a ns1:User ;
+    ns1:description """<p>.</p>
+
+<p>NEW Sept. 15, 2011. DREAM DYNAMICS and DECODING Personal, Practical, Powerful MessagesCreateSpace, 2011.</p>
+
+<p>Available at link[www.amazon.com/dp/1466219246[/url]</p>
+
+<p>New slants! The dynamics of Complexity Theory Science in dreams. These range from a single deterministic system to self organization. Also an analogy showing how dream-mind's thinking processes have a tree-like structure - roots to fruits.</p>
+
+<p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." Stanley Krippner, PhD. Professor of Psychology, Saybrook University</p>
+
+<p>How I, Janice Baylis, got interested in dreams: In 1959 a fellow teacher had major surgery. We set up a car pool where I picked her up in a strip mall parking lot and drove the 30 miles to our school.  One morning Mabel phoned and asked me to meet her around the corner on the residential street.  She said she didn't like her car taking up space in the store lot all day. </p>
+
+<p>I said, "Okay."</p>
+
+<p>As Mabel was getting into my car that morning, we heard an enormous CRASH!  A small airplane had landed upside down in the corner of the parking lot where we would have been.  Then she told me she had dreamed it during the night. "WOW!" exclaimed my eight year old son, Brad, from the backseat.</p>
+
+<p>That launched me on a life-long, self-directed and academic study of dreams. From the first, the practical side of dreaming has been my focus.  The Edgar Cayce dream material was the first I found to study.  He also emphasized the practical aspects--health, finances, job, creativity, and interpersonal, as well as the personality growth and spiritual aspects.</p>
+
+<p>With my BA degree in Education and a MA degree in Psychology, I got a credential/license to teach dream-study at the community college level.  I taught 36 hour, semester, night classes and weekend workshops.  My students urged me to write a book, so I wrote Sleep On It! The Practical Side of Dreaming in 1977. </p>
+
+<p>In my teaching I found many dreams use overt sexual imagery and that people were confused by the symbolism of sexual images.  I made this a secondary focus of my dream work.</p>
+"""^^xsd:string ;
+    ns1:featuredImg "janicebaylis.jpg"^^xsd:string ;
+    ns1:handle "janicebaylis"^^xsd:string ;
+    ns1:itemId "bcphbq3bayl"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Janice Baylis"^^xsd:string .
+
+ns1:bcphbq3mcle a ns1:User ;
+    ns1:description """<p>Once upon a time, there were no humans on the planet.  You may be too young to remember, but it seems the earth did just fine in those days.  The earth gave birth to an incredible, rich diversity of life, and yet maintained a delicate, sustainable balance between it all.  Even in the early days of human life, it seemed that we could be part of this magical balance as we found our niche and explored our possibilities.  Sure, we made mistakes in those days, but we could usually learn from those mistakes and try to do better in the next generation.</p>
+
+<p>But recently the humans seem to be acting like the worst kind of invasive species, spreading all over the planet, dominating, killing and destroying everything in sight.  The delicate balance of life has been seriously disrupted by humans.  What is happening here?  Will the humans finally win their war against nature and thus destroy all chance for balance to be restored?   What will it take for humans to change our ways, to strive again for some kind of balance?</p>
+"""^^xsd:string ;
+    ns1:featuredImg "dickmcleester.jpg"^^xsd:string ;
+    ns1:handle "dickmcleester"^^xsd:string ;
+    ns1:itemId "bcphbq3mcle"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dick McLeester"^^xsd:string .
+
+ns1:User rdfs:subClassOf ns1:Actor,
+        ns1:Person .
 
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>

@@ -1,10 +1,11 @@
 ---
-featuredImg: relationship-dreams.jpg
+featuredImg: relationship-dreams-sml.jpg
 itemId: bcpov6pacmm
 layout: page
 name: 'Relationship Dreams: Insight into Family - Friends - Co-workers'
 tags:
 - hasTag: dreamnetwork
+- hasAuthor: dreamnetwork
 type: post
 urlSlug: relationship-dreams
 ---

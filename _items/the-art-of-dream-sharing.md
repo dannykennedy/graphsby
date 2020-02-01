@@ -1,10 +1,11 @@
 ---
-featuredImg: the-art-of-dream-sharing.jpg
+featuredImg: the-art-of-dream-sharing-sml.jpg
 itemId: bcpov6tqqf6
 layout: page
 name: The Art of Dream Sharing and Developing Dream Groups
 tags:
 - hasTag: dreamnetwork
+- hasAuthor: janicebaylis
 type: post
 urlSlug: the-art-of-dream-sharing
 ---

@@ -50,7 +50,7 @@ for issue in issues:
     pyyaml['name'] = imgName + ": " + issue["title"]
     pyyaml['urlSlug'] = imgName
     pyyaml['tags'] = []
-    pyyaml['tags'].append({"hasTag": "dreamnetwork"})
+    pyyaml['tags'].append({"hasAuthor": "dreamnetwork"})
     volume_name = "dream-network-volume-" + volume_number_str
     pyyaml['tags'].append({"hasTag": volume_name})
 

@@ -4,7 +4,7 @@ itemId: bcpqocpr3vh
 layout: page
 name: Volume 31
 tags:
-- hasTag: dreamnetwork
+- hasAuthor: dreamnetwork
 type: post
 urlSlug: dream-network-volume-31
 ---

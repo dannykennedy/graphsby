@@ -36,9 +36,12 @@
                                             class="avatar-photo"
                                             style="background-color: rgb(246, 173, 97);"
                                         >
-                                            <span class="tooltiptext"
-                                                >Daniel Kennedy</span
-                                            >
+                                            <span class="tooltiptext">
+                                                {% if post.authors %} {% for author in post.authors
+                                                    %}   
+                                                    {{author.name}}
+                                                    {% endfor %} {% endif %}
+                                            </span>
                                             <div class="avatar-text">
                                                 <span
                                                     aria-hidden="true"
@@ -49,7 +52,12 @@
                                     </div>
                                     <div class="card-header-text">
                                         <div class="card-author">
-                                            <span>Daniel Kennedy</span>
+                                            
+                                                {% if post.authors %} {% for author in post.authors
+                                                    %}   
+                                                    <span>{{author.name}}</span>
+
+                                                    {% endfor %} {% endif %}
                                         </div>
                                         <div class="card-date">
                                             Jan 26, 2020

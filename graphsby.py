@@ -197,7 +197,7 @@ propertyTriples = [
 	# Author
 	(hasAuthor, rdfType, owlObjectProperty),
 	(hasAuthor, rdfsDomain, postClass),
-	(hasAuthor, rdfsRange, personClass),
+	(hasAuthor, rdfsRange, actorClass),
 ]
 
 # Save graph structure
@@ -297,6 +297,7 @@ for pyyam in file_objects:
 	if 'tags' in pyyam.keys() and pyyam['tags'] is not None:
 		for tag in pyyam['tags']:
 
+			tag_key = list(tag.keys())[0]
 			tag_value = list(tag.values())[0]
 
 			# Find the object in the graph that the tag points to
@@ -311,6 +312,7 @@ for pyyam in file_objects:
 			q = graph.query(query_string)
 
 			# Naively assume there is only one result
+			# This should be the case if string identifiers are unique
 			tag_item = ""
 			for row in q:
 				tag_item = row[0]
@@ -318,7 +320,10 @@ for pyyam in file_objects:
 			# Append edge to edges array
 			curr_item = pyyam["itemId"]
 			if tag_item != "":
-				edges.append((dreamNS[curr_item], hasTag, dreamNS[tag_item]))
+				if tag_key == "hasAuthor":
+					edges.append((dreamNS[curr_item], hasAuthor, dreamNS[tag_item]))
+				else:
+					edges.append((dreamNS[curr_item], hasTag, dreamNS[tag_item]))
 
 # Add edges to the graph
 for triple in edges: 
@@ -359,7 +364,7 @@ for pyyam in file_objects:
 		   		SELECT DISTINCT ?item ?name ?description ?itemId
 		   		WHERE {{ 
 		   		?currentItem dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
-		   		?item dnj:hasTag ?currentItem .
+		   		?item dnj:hasTag|dnj:hasAuthor ?currentItem .
 		   		?item dnj:name ?name .
 		   		?item dnj:description ?description .
 		   		?item dnj:itemId ?itemId
@@ -373,10 +378,10 @@ for pyyam in file_objects:
 		# This is literally Inception
 		query_string = """
 			PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-			SELECT DISTINCT ?littleTag ?tagName ?tagId ?textId ?tagType
+			SELECT DISTINCT ?littleTag ?tagName ?tagId ?textId ?tagType ?property
 			WHERE {{ 
 				?item dnj:itemId "{id}"^^xsd:string .
-				?item dnj:hasTag ?littleTag .
+				?item ?property ?littleTag .
 				?littleTag dnj:name ?tagName .
 				?littleTag dnj:itemId ?tagId .
 				?littleTag dnj:handle|dnj:urlSlug ?textId .
@@ -386,6 +391,7 @@ for pyyam in file_objects:
 
 		# Create a tags array (for dem little tags on the cards)
 		little_tags = []
+		authors = []
 		for lil_tag in tag_query:
 
 			# Break down query object
@@ -393,6 +399,7 @@ for pyyam in file_objects:
 			tagId = lil_tag[2]
 			textId = lil_tag[3]
 			tagType = lil_tag[4].split("#")[1]
+			relation = lil_tag[5].split("#")[1]
 
 			tagLink = ""
 			if tagType == "Page" or tagType == "User":
@@ -402,9 +409,13 @@ for pyyam in file_objects:
 
 			cssTagClass = map_class_to_css_tag(tagType)
 
-			little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
+			if relation == "hasTag":
+				little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
+			elif relation == "hasAuthor":
+				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
 
-		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "tags": little_tags})
+		print(authors)
+		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "tags": little_tags, "authors": authors})
 
 
 	full_html = ""

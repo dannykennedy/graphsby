@@ -50,7 +50,7 @@ for vol in range(1, 34):
     pyyaml['featuredImg'] = "volume-" + str(vol) + ".jpg"
     pyyaml['urlSlug'] = "dream-network-volume-" + str(vol)
     pyyaml['tags'] = []
-    pyyaml['tags'].append({"hasTag": "dreamnetwork"})
+    pyyaml['tags'].append({"hasAuthor": "dreamnetwork"})
 
     writepath = rootdir + "/Volume_" + str(vol) + ".md"
     newfile = open(writepath, "w")

@@ -36,18 +36,26 @@
                                             class="avatar-photo"
                                             style="background-color: rgb(246, 173, 97);"
                                         >
-                                            <span class="tooltiptext">
-                                                {% if post.authors %} {% for author in post.authors
-                                                    %}   
-                                                    {{author.name}}
-                                                    {% endfor %} {% endif %}
-                                            </span>
+                                        {% if post.authors %}                                   
+                                        <img src="{{'../images/' + post.authors[0].featuredImg}}" 
+                                            alt="{{post.authors[0].name}}" 
+                                            class="post-author-img">
+                                        {% else %}
                                             <div class="avatar-text">
                                                 <span
                                                     aria-hidden="true"
                                                     class="fa fa-user"
                                                 ></span>
                                             </div>
+                                            {% endif %}
+                                        
+                                            <span class="tooltiptext">
+                                                {% if post.authors %} {% for author in post.authors
+                                                    %}   
+                                                    {{author.name}}
+                                                    {% endfor %} {% endif %}
+                                            </span>
+
                                         </div>
                                     </div>
                                     <div class="card-header-text">

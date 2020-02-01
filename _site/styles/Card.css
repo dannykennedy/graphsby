@@ -32,10 +32,10 @@
 }
 
 .make-div-a-link {
-    position:absolute; 
-    width:100%;
-    height:100%;
-    top:0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
     left: 0;
     z-index: 1;
 }
@@ -100,17 +100,25 @@
 .card-author {
 }
 
+.post-author-img {
+    border-radius: 50%;
+    display: block;
+}
+
 .avatar-photo {
     height: 100%;
     width: 100%;
-    border-radius: 50%;
     display: grid;
     align-content: center;
     justify-content: center;
     cursor: pointer;
+    border-radius: 50%;
 }
 .avatar-text {
     color: white;
+    border-radius: 50%;
+    background-color: rgb(246, 173, 97);
+    width: 100%;
 }
 .more-icon {
     margin-top: 10px;

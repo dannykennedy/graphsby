@@ -1,4 +1,5 @@
 ---
+featuredImg: relationship-dreams.jpg
 itemId: bcpov6pacmm
 layout: page
 name: 'Relationship Dreams: Insight into Family - Friends - Co-workers'

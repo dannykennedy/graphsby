@@ -121,7 +121,7 @@ itemId = dreamNS['itemId']
 handle = dreamNS['handle']
 dateCreated = dreamNS['dateCreated']
 layout = dreamNS['layout']
-featuredImage = dreamNS['featuredImage']
+featuredImg = dreamNS['featuredImg']
 urlSlug = dreamNS['urlSlug']
 
 # "object is a class in our ontology"
@@ -187,6 +187,11 @@ propertyTriples = [
 	(layout, rdfsDomain, itemClass),
 	(layout, rdfsRange, xsdString),
 
+	# Featured image
+	(featuredImg, rdfType, owlDatatypeProperty),
+	(featuredImg, rdfsDomain, itemClass),
+	(featuredImg, rdfsRange, xsdString),
+
 	# OBJECT PROPERTIES
 
 	# Tag
@@ -198,6 +203,7 @@ propertyTriples = [
 	(hasAuthor, rdfType, owlObjectProperty),
 	(hasAuthor, rdfsDomain, postClass),
 	(hasAuthor, rdfsRange, actorClass),
+
 ]
 
 # Save graph structure
@@ -209,9 +215,6 @@ for triple in classHierarchyTriples:
 
 for triple in propertyTriples:
 	graph.add(triple)
-
-
-
 
 
 
@@ -280,6 +283,8 @@ for pyyam in file_objects:
 	instances.append((newItem, description, Literal(htmlstring, datatype=xsdString)))
 	# Layout
 	instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
+	# Featured image
+	instances.append((newItem, featuredImg, Literal(pyyam['featuredImg'], datatype=xsdString)))
 
 # Add instances to the graph
 for triple in instances: 
@@ -378,7 +383,7 @@ for pyyam in file_objects:
 		# This is literally Inception
 		query_string = """
 			PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-			SELECT DISTINCT ?littleTag ?tagName ?tagId ?textId ?tagType ?property
+			SELECT DISTINCT ?littleTag ?tagName ?tagId ?textId ?tagType ?property ?image
 			WHERE {{ 
 				?item dnj:itemId "{id}"^^xsd:string .
 				?item ?property ?littleTag .
@@ -386,6 +391,7 @@ for pyyam in file_objects:
 				?littleTag dnj:itemId ?tagId .
 				?littleTag dnj:handle|dnj:urlSlug ?textId .
 				?littleTag a ?tagType .
+				?littleTag dnj:featuredImg ?image
 			}}""".format(id=row[3])
 		tag_query = graph.query(query_string)
 
@@ -400,6 +406,8 @@ for pyyam in file_objects:
 			textId = lil_tag[3]
 			tagType = lil_tag[4].split("#")[1]
 			relation = lil_tag[5].split("#")[1]
+			image = lil_tag[6]
+			image="dreamnetwork.jpg"
 
 			tagLink = ""
 			if tagType == "Page" or tagType == "User":
@@ -412,7 +420,7 @@ for pyyam in file_objects:
 			if relation == "hasTag":
 				little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
 			elif relation == "hasAuthor":
-				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
+				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "featuredImg": image})
 
 		print(authors)
 		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "tags": little_tags, "authors": authors})

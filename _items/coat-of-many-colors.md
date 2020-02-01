@@ -1,4 +1,5 @@
 ---
+featuredImg: coat-of-many-colors.jpg
 itemId: bcpov6zfsra
 layout: page
 name: Coat of Many Colors

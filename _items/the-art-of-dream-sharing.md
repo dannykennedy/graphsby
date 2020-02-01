@@ -1,4 +1,5 @@
 ---
+featuredImg: the-art-of-dream-sharing.jpg
 itemId: bcpov6tqqf6
 layout: page
 name: The Art of Dream Sharing and Developing Dream Groups

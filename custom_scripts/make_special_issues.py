@@ -1,6 +1,8 @@
 #!/usr/local/bin/python3
 
-import markdown2, os, re
+import markdown2
+import os
+import re
 import yaml
 from special_publications import *
 from id_gen import id_gen
@@ -25,31 +27,33 @@ print(rootdir)
 # {'layout': 'post', 'type': 'post', 'itemId': 'PSYy-HU_', 'name': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'shortDescription': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'urlSlug': 'a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy', 'tags': [{'hasTag': 'hi'}, {'hasTag': 'bye'}], 'date': datetime.date(2015, 3, 24), 'featuredImg': 'dnj.png'}
 
 for pub in special_publications:
-	print(pub)
-	pyyaml = {}
+    print(pub)
+    pyyaml = {}
 
-	imgName = pub["imgName"]
-	filepath = rootdir + "/" + imgName + ".md"
-	existing_id = get_item_id(filepath)
+    imgName = pub["imgName"]
+    filepath = rootdir + "/" + imgName + ".md"
+    existing_id = get_item_id(filepath)
 
-	# Use existing id, or make a new one if there isn't one
-	if len(existing_id) > 1:
-		pyyaml['itemId'] = existing_id
-	else:
-		pyyaml['itemId'] = id_gen()
+    # Use existing id, or make a new one if there isn't one
+    if len(existing_id) > 1:
+        pyyaml['itemId'] = existing_id
+    else:
+        pyyaml['itemId'] = id_gen()
 
-	volume_number_str = pub["imgName"].split(".")[0]
-	pdfName = pub["pdfName"]
-	pyyaml['layout'] = 'page'
-	pyyaml['type'] = 'post'
-	pyyaml['name'] = pub["title"]
-	pyyaml['urlSlug'] = imgName
-	pyyaml['tags'] = []
-	pyyaml['tags'].append({"hasTag":"dreamnetwork"})
+    volume_number_str = pub["imgName"].split(".")[0]
+    pdfName = pub["pdfName"]
+    pyyaml['layout'] = 'page'
+    pyyaml['type'] = 'post'
+    pyyaml['name'] = pub["title"]
+    pyyaml['urlSlug'] = imgName
+    pyyaml['tags'] = []
+    pyyaml['featuredImg'] = imgName + ".jpg"
+    pyyaml['tags'].append({"hasTag": "dreamnetwork"})
 
-	newfile = open(filepath, "w")
-	newfile.write("---\n")
-	newfile.write(yaml.dump(pyyaml))
-	newfile.write("---\n")
-	newfile.write('<a href="../files/pdfs/Volume_publications/' + pdfName + '" download="">Download</a>')
-	newfile.close()
+    newfile = open(filepath, "w")
+    newfile.write("---\n")
+    newfile.write(yaml.dump(pyyaml))
+    newfile.write("---\n")
+    newfile.write('<a href="../files/pdfs/Volume_publications/' +
+                  pdfName + '" download="">Download</a>')
+    newfile.close()

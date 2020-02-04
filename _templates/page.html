@@ -2,7 +2,7 @@
 
 <div id="page">
     <div id="page-description">
-        <div id="page-description-area">
+        <div id="page-description-area" class="card">
 
                         {% if render_item.featuredImg %}
                         <div
@@ -27,7 +27,7 @@
                 <div id="page-items">
                     {% if posts %} {% for post in posts %}
 
-                    <div id="{{post.itemId}}" class="item-card">
+                    <div id="{{post.itemId}}" class="card item-card">
                         <div class="inner-card">
                             <div class="card-header">
                                 <div class="card-user-info">

@@ -2,7 +2,6 @@
 
 /* Card */
 :root {
-    --box-shadow-initial: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     --main-background-color: #ededef;
     --card-border-radius: 5px;
     --animation-interval: 1s;
@@ -40,18 +39,21 @@
     z-index: 1;
 }
 
+.card {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    border-radius: var(--card-border-radius);
+}
+
 .item-card {
     position: relative;
     display: grid;
     align-content: center;
-    border: 1px solid #aaa;
-    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
     transition: 0.2s;
     width: 100%;
-    border-radius: var(--card-border-radius);
     font-family: "Open Sans", sans-serif;
     font-weight: 100;
-    background-color: white;
     animation-duration: 1s;
     animation-name: slideLeft;
     animation-fill-mode: forwards;
@@ -61,7 +63,7 @@
 }
 
 .item-card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
 }
 
 .card-header {

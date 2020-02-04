@@ -52,10 +52,7 @@
 
 #page-description-area {
     position: relative;
-    border: 1px solid #aaa;
-    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
     width: 100%;
-    border-radius: var(--card-border-radius);
     font-family: "Open Sans", sans-serif;
     background-color: white;
     padding: var(--card-padding-size);

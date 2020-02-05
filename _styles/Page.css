@@ -13,7 +13,6 @@
 }
 #page-description {
     grid-area: description;
-    margin-top: 100px;
 }
 
 #item-heading {
@@ -22,7 +21,7 @@
 }
 #page-items {
     grid-area: items;
-    padding: 100px 10px 30px 30px;
+    padding: 0px 10px 30px 30px;
 }
 #profile-image {
     height: 200px;
@@ -50,7 +49,16 @@
     background-color: rgb(121, 174, 245);
 }
 
+.cover-image {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
 #page-description-area {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
     position: relative;
     width: 100%;
     font-family: "Open Sans", sans-serif;

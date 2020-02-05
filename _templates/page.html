@@ -3,8 +3,9 @@
 <div id="page">
     <div id="page-description">
         {% if render_item.coverImg %}
-        <div class="cover-image">
+        <div class="cover-image-container">
             <img
+            class="cover-image"
             src="{{'../images/' + render_item.coverImg}}"
             alt="cover image"
         />

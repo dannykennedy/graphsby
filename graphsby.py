@@ -290,7 +290,8 @@ for pyyam in file_objects:
 	# Layout
 	instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
 	# Featured image
-	instances.append((newItem, profileImg, Literal(pyyam['profileImg'], datatype=xsdString)))
+	if 'profileImg' in pyyam.keys():
+		instances.append((newItem, profileImg, Literal(pyyam['profileImg'], datatype=xsdString)))
 	# Cover image
 	if 'coverImg' in pyyam.keys():
 		instances.append((newItem, coverImg, Literal(pyyam['coverImg'], datatype=xsdString)))

@@ -46,7 +46,7 @@ for issue in issues:
     pdfName = issue["pdfName"]
     pyyaml['layout'] = 'page'
     pyyaml['type'] = 'post'
-    pyyaml['profileImg'] = imgName + "-sml.jpg"
+    pyyaml['coverImg'] = imgName + "-cover.jpg"
     pyyaml['name'] = imgName + ": " + issue["title"]
     pyyaml['urlSlug'] = imgName
     pyyaml['tags'] = []

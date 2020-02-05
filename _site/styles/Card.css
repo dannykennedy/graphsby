@@ -43,10 +43,10 @@
     border: 1px solid rgba(0, 0, 0, 0.1);
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
     background-color: white;
-    border-radius: var(--card-border-radius);
 }
 
 .item-card {
+    border-radius: var(--card-border-radius);
     position: relative;
     display: grid;
     align-content: center;

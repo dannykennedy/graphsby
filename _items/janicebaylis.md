@@ -7,7 +7,7 @@ name: "Janice Baylis"
 shortDescription: ""
 tags:
 date: 2015-03-24
-featuredImg: janicebaylis.jpg
+profileImg: janicebaylis.jpg
 ---
 
 .

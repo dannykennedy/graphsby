@@ -121,7 +121,8 @@ itemId = dreamNS['itemId']
 handle = dreamNS['handle']
 dateCreated = dreamNS['dateCreated']
 layout = dreamNS['layout']
-featuredImg = dreamNS['featuredImg']
+profileImg = dreamNS['profileImg']
+coverImg = dreamNS['coverImg']
 urlSlug = dreamNS['urlSlug']
 
 # "object is a class in our ontology"
@@ -188,9 +189,14 @@ propertyTriples = [
 	(layout, rdfsRange, xsdString),
 
 	# Featured image
-	(featuredImg, rdfType, owlDatatypeProperty),
-	(featuredImg, rdfsDomain, itemClass),
-	(featuredImg, rdfsRange, xsdString),
+	(profileImg, rdfType, owlDatatypeProperty),
+	(profileImg, rdfsDomain, itemClass),
+	(profileImg, rdfsRange, xsdString),
+
+	# Cover image
+	(coverImg, rdfType, owlDatatypeProperty),
+	(coverImg, rdfsDomain, itemClass),
+	(coverImg, rdfsRange, xsdString),
 
 	# OBJECT PROPERTIES
 
@@ -284,7 +290,10 @@ for pyyam in file_objects:
 	# Layout
 	instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
 	# Featured image
-	instances.append((newItem, featuredImg, Literal(pyyam['featuredImg'], datatype=xsdString)))
+	instances.append((newItem, profileImg, Literal(pyyam['profileImg'], datatype=xsdString)))
+	# Cover image
+	if 'coverImg' in pyyam.keys():
+		instances.append((newItem, coverImg, Literal(pyyam['coverImg'], datatype=xsdString)))
 
 # Add instances to the graph
 for triple in instances: 
@@ -391,7 +400,7 @@ for pyyam in file_objects:
 				?littleTag dnj:itemId ?tagId .
 				?littleTag dnj:handle|dnj:urlSlug ?textId .
 				?littleTag a ?tagType .
-				?littleTag dnj:featuredImg ?image
+				?littleTag dnj:profileImg ?image
 			}}""".format(id=row[3])
 		tag_query = graph.query(query_string)
 
@@ -419,7 +428,7 @@ for pyyam in file_objects:
 			if relation == "hasTag":
 				little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
 			elif relation == "hasAuthor":
-				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "featuredImg": image})
+				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image})
 
 		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "tags": little_tags, "authors": authors})
 

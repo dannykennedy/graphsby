@@ -1,5 +1,5 @@
 ---
-featuredImg: coat-of-many-colors-sml.jpg
+profileImg: coat-of-many-colors-sml.jpg
 itemId: bcpov6zfsra
 layout: page
 name: Coat of Many Colors

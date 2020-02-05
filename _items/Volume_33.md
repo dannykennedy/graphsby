@@ -1,5 +1,5 @@
 ---
-featuredImg: volume-33.jpg
+profileImg: volume-33.jpg
 itemId: bcpqocvint5
 layout: page
 name: Volume 33

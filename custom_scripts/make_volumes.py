@@ -22,9 +22,9 @@ print(rootdir)
 #   - hasTag: "hi"
 #   - hasTag: "bye"
 # date: 2015-03-24
-# featuredImg: volume-1.jpg
+# profileImg: volume-1.jpg
 
-# {'layout': 'post', 'type': 'post', 'itemId': 'PSYy-HU_', 'name': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'shortDescription': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'urlSlug': 'a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy', 'tags': [{'hasTag': 'hi'}, {'hasTag': 'bye'}], 'date': datetime.date(2015, 3, 24), 'featuredImg': 'dnj.png'}
+# {'layout': 'post', 'type': 'post', 'itemId': 'PSYy-HU_', 'name': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'shortDescription': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'urlSlug': 'a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy', 'tags': [{'hasTag': 'hi'}, {'hasTag': 'bye'}], 'date': datetime.date(2015, 3, 24), 'profileImg': 'dnj.png'}
 
 volume_sizes = [11, 10, 7, 6, 10, 14, 13, 13, 38, 23, 24, 25, 27, 27,
                 54, 59, 32, 31, 55, 5, 22, 19, 10, 9, 10, 8, 13, 6, 14, 6, 9, 6, 10]
@@ -47,7 +47,7 @@ for vol in range(1, 34):
     pyyaml['layout'] = 'page'
     pyyaml['type'] = 'post'
     pyyaml['name'] = "Volume " + str(vol)
-    pyyaml['featuredImg'] = "volume-" + str(vol) + ".jpg"
+    pyyaml['profileImg'] = "volume-" + str(vol) + ".jpg"
     pyyaml['urlSlug'] = "dream-network-volume-" + str(vol)
     pyyaml['tags'] = []
     pyyaml['tags'].append({"hasAuthor": "dreamnetwork"})

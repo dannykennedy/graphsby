@@ -1,5 +1,5 @@
 ---
-featuredImg: volume-32.jpg
+profileImg: volume-32.jpg
 itemId: bcpqocs2uhp
 layout: page
 name: Volume 32

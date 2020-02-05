@@ -1,5 +1,5 @@
 ---
-featuredImg: volume-24.jpg
+profileImg: volume-24.jpg
 itemId: bcpqob23yct
 layout: page
 name: Volume 24

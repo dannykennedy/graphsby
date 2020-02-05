@@ -7,7 +7,7 @@ name: "Dick McLeester"
 shortDescription: "Dick McLeester!"
 tags:
 date: 2015-03-24
-featuredImg: dickmcleester.jpg
+profileImg: dickmcleester.jpg
 ---
 
 Once upon a time, there were no humans on the planet.  You may be too young to remember, but it seems the earth did just fine in those days.  The earth gave birth to an incredible, rich diversity of life, and yet maintained a delicate, sustainable balance between it all.  Even in the early days of human life, it seemed that we could be part of this magical balance as we found our niche and explored our possibilities.  Sure, we made mistakes in those days, but we could usually learn from those mistakes and try to do better in the next generation.

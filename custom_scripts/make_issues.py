@@ -22,9 +22,9 @@ print(rootdir)
 #   - hasTag: "hi"
 #   - hasTag: "bye"
 # date: 2015-03-24
-# featuredImg: dnj.png
+# profileImg: dnj.png
 
-# {'layout': 'post', 'type': 'post', 'itemId': 'PSYy-HU_', 'name': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'shortDescription': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'urlSlug': 'a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy', 'tags': [{'hasTag': 'hi'}, {'hasTag': 'bye'}], 'date': datetime.date(2015, 3, 24), 'featuredImg': 'dnj.png'}
+# {'layout': 'post', 'type': 'post', 'itemId': 'PSYy-HU_', 'name': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'shortDescription': 'A Psychologist in the Tradition of William James and Gardner Murphy', 'urlSlug': 'a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy', 'tags': [{'hasTag': 'hi'}, {'hasTag': 'bye'}], 'date': datetime.date(2015, 3, 24), 'profileImg': 'dnj.png'}
 
 for issue in issues:
     pyyaml = {}
@@ -46,7 +46,7 @@ for issue in issues:
     pdfName = issue["pdfName"]
     pyyaml['layout'] = 'page'
     pyyaml['type'] = 'post'
-    pyyaml['featuredImg'] = imgName + "-sml.jpg"
+    pyyaml['profileImg'] = imgName + "-sml.jpg"
     pyyaml['name'] = imgName + ": " + issue["title"]
     pyyaml['urlSlug'] = imgName
     pyyaml['tags'] = []

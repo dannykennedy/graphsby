@@ -1,5 +1,5 @@
 ---
-featuredImg: volume-3.jpg
+profileImg: volume-3.jpg
 itemId: bcpqn76e7n5
 layout: page
 name: Volume 3

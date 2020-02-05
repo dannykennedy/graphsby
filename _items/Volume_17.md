@@ -1,5 +1,5 @@
 ---
-featuredImg: volume-17.jpg
+profileImg: volume-17.jpg
 itemId: bcpqobdubou
 layout: page
 name: Volume 17

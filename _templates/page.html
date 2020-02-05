@@ -2,9 +2,17 @@
 
 <div id="page">
     <div id="page-description">
+        {% if render_item.coverImg %}
+        <div class="cover-image">
+            <img
+            src="{{'../images/' + render_item.coverImg}}"
+            alt="cover image"
+        />
+        </div>
+        {% endif %}
         <div id="page-description-area" class="card">
 
-                        {% if render_item.featuredImg %}
+                        {% if render_item.profileImg %}
                         <div
                             id="profile-image-backing"
                             class="{{'profile-image-backing-' + render_item.type}}"
@@ -12,7 +20,7 @@
                             <img
                                 id="profile-image"
                                 class="{{'profile-image-' + render_item.type}}"
-                                src="{{'../images/' + render_item.featuredImg}}"
+                                src="{{'../images/' + render_item.profileImg}}"
                                 alt="profile image"
                             />
                         </div>
@@ -41,7 +49,7 @@
                                         href="{{site_url + '/' + post.authors[0].tagLink}}"
                                         >
 
-                                        <img src="{{'../images/' + post.authors[0].featuredImg}}" 
+                                        <img src="{{'../images/' + post.authors[0].profileImg}}" 
                                             alt="{{post.authors[0].name}}"
                                             class="post-author-img">
                                         </a>

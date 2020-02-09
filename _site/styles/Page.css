@@ -4,7 +4,7 @@
     --card-border-radius: 5px;
     --animation-interval: 1s;
     --card-header-size: 40px;
-    --card-padding-size: 20px;
+    --card-padding-size: 15px;
 }
 
 #app-name-container {
@@ -21,7 +21,7 @@
 #page {
     display: grid;
     grid-template-areas: "description items";
-    grid-template-columns: 11fr 19fr;
+    grid-template-columns: 10fr 19fr;
 }
 #page-description {
     grid-area: description;

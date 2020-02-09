@@ -5,7 +5,8 @@
 #########
 
 # Libraries
-import os, sys, jinja2
+import os, sys, jinja2, calendar
+import dateutil.parser # For converting xsd:datetime to something sensible
 from rdflib import Namespace, Literal, ConjunctiveGraph
 from pathlib import Path
 
@@ -386,7 +387,8 @@ for pyyam in file_objects:
 		   		?item dnj:description ?description .
 		   		?item dnj:itemId ?itemId .
 				?item dnj:dateCreated ?dateCreated
-		   		}}""".format(string_identifier=item_string_identifier)
+		   		}}
+				ORDER BY ASC(?dateCreated)""".format(string_identifier=item_string_identifier)
 
 	q = graph.query(query_string)
 
@@ -434,9 +436,16 @@ for pyyam in file_objects:
 			elif relation == "hasAuthor":
 				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image})
 
-		print("date!")
-		print(row[4])
-		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "dateCreated":row[4], "tags": little_tags, "authors": authors})
+		dateOfPost = row[4]
+		date_string = ""
+		if dateOfPost:
+			mydate = dateutil.parser.parse(dateOfPost)
+			month_no = mydate.month
+			monthstring = calendar.month_name[month_no]
+			year = str(mydate.year)
+			date_string = monthstring  + " " + year 
+
+		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors})
 
 
 	full_html = ""

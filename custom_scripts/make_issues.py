@@ -30,6 +30,7 @@ for issue in issues:
     pyyaml = {}
 
     imgName = issue["imgName"]
+    dateCreated = issue["date"]
     filepath = rootdir + "/" + imgName + ".md"
     existing_id = get_item_id(filepath)
 
@@ -54,6 +55,7 @@ for issue in issues:
     volume_name = "dream-network-volume-" + volume_number_str
     pyyaml['tags'].append({"hasTag": volume_name})
     pyyaml['tags'].append({"hasTag": "dreamnetwork"})
+    pyyaml['dateCreated'] = dateCreated
 
     print(pyyaml)
 

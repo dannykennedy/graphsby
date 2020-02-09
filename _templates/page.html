@@ -91,7 +91,9 @@
                                                     {% endfor %} {% endif %}
                                         </div>
                                         <div class="card-date">
-                                            Jan 26, 2020
+                                            {% if post.dateCreated %}
+                                            {{post.dateCreated}}
+                                            {% endif %}
                                         </div>
                                     </div>
                                 </div>

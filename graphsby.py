@@ -281,6 +281,8 @@ for pyyam in file_objects:
 	if itemType == "post":
 		if "urlSlug" in pyyam.keys():
 			instances.append((newItem, urlSlug, Literal(pyyam['urlSlug'], datatype=xsdString)))
+		if "dateCreated" in pyyam.keys():
+			instances.append((newItem, dateCreated, Literal(pyyam["dateCreated"], datatype=xsdDateTime )))
 
 	# Title
 	instances.append((newItem, name, Literal(pyyam['name'], datatype=xsdString)))
@@ -376,13 +378,14 @@ for pyyam in file_objects:
 	# Find all items that have tagged the current page
 	query_string = """
 				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-		   		SELECT DISTINCT ?item ?name ?description ?itemId
+		   		SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated
 		   		WHERE {{ 
 		   		?currentItem dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
 		   		?item dnj:hasTag|dnj:hasAuthor ?currentItem .
 		   		?item dnj:name ?name .
 		   		?item dnj:description ?description .
-		   		?item dnj:itemId ?itemId
+		   		?item dnj:itemId ?itemId .
+				?item dnj:dateCreated ?dateCreated
 		   		}}""".format(string_identifier=item_string_identifier)
 
 	q = graph.query(query_string)
@@ -431,7 +434,9 @@ for pyyam in file_objects:
 			elif relation == "hasAuthor":
 				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image})
 
-		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "tags": little_tags, "authors": authors})
+		print("date!")
+		print(row[4])
+		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "dateCreated":row[4], "tags": little_tags, "authors": authors})
 
 
 	full_html = ""

@@ -44,11 +44,17 @@ for issue in issues:
         pyyaml['itemId'] = id_gen()
 
     volume_number_str = issue["imgName"].split(".")[0]
+    issue_number_str = issue["imgName"].split(".")[1].split("-")[0]
     pdfName = issue["pdfName"]
     pyyaml['layout'] = 'page'
     pyyaml['type'] = 'post'
     pyyaml['coverImg'] = imgName + "-cover.jpg"
-    pyyaml['name'] = imgName + ": " + issue["title"]
+    namestring = "Volume " + volume_number_str + \
+        ", issue " + issue_number_str
+    if issue["title"] != "":
+        namestring += ": " + issue["title"]
+    pyyaml['name'] = namestring
+
     pyyaml['urlSlug'] = imgName
     pyyaml['tags'] = []
     pyyaml['tags'].append({"hasAuthor": "dreamnetwork"})

@@ -6,7 +6,7 @@ handle: dreamnetwork
 name: "Dream Network"
 shortDescription: "Welcome to the Dream Network"
 tags:
-profileImg: logo.png
+profileImg: logo-white-on-purple.png
 coverImg: banner.jpg
 ---
 

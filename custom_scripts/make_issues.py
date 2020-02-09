@@ -61,7 +61,7 @@ for issue in issues:
     newfile.write("---\n")
     newfile.write(yaml.dump(pyyaml))
     newfile.write("---\n")
-    newfile.write('<img class="card-img" src="../images/' +
+    newfile.write('<img class="card-journal-img" src="../images/' +
                   imgName + '-rect.jpg"/>')
     newfile.write('<a href="../files/pdfs/Volume_' + volume_number_str +
                   '/' + pdfName + '" download="">Download issue ' + imgName + '</a>')

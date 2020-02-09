@@ -79,6 +79,11 @@
 .card-body {
     margin-top: 15px;
 }
+
+.card-journal-img {
+    width: 130px;
+}
+
 .card-footer {
     /*    background-color: rgba(0,0,0,.03);*/
 }

@@ -6,6 +6,18 @@
     --card-header-size: 40px;
     --card-padding-size: 20px;
 }
+
+#app-name-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#app-logo {
+    width: 30px;
+    height: 30px;
+}
+
 #page {
     display: grid;
     grid-template-areas: "description items";
@@ -22,6 +34,9 @@
 #page-items {
     grid-area: items;
     padding: 0px 10px 30px 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 15px;
 }
 #profile-image {
     height: 200px;
@@ -76,6 +91,13 @@
     border-radius: 50%;
     padding: 5px;
     background-color: rgb(246, 173, 97);
+}
+
+@media (max-width: 1100px) {
+    #page-items {
+        grid-template-columns: 1fr 1fr;
+        column-gap: 10px;
+    }
 }
 
 @media (max-width: 800px) {

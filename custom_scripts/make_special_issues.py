@@ -50,6 +50,7 @@ for pub in special_publications:
     pyyaml['profileImg'] = imgName + "-sml.jpg"
     pyyaml['tags'].append({"hasTag": "dreamnetwork"})
     pyyaml['tags'].append({"hasAuthor": pub["author"]})
+    pyyaml['tags'].append({"hasTag": pub["author"]})
 
     newfile = open(filepath, "w")
     newfile.write("---\n")

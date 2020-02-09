@@ -6,6 +6,18 @@
     --card-header-size: 40px;
     --card-padding-size: 20px;
 }
+
+#app-name-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#app-logo {
+    width: 30px;
+    height: 30px;
+}
+
 #page {
     display: grid;
     grid-template-areas: "description items";

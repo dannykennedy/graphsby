@@ -57,9 +57,9 @@
     animation-duration: 1s;
     animation-name: slideLeft;
     animation-fill-mode: forwards;
-    padding-bottom: var(--card-padding-size);
-    padding-top: var(--card-padding-size);
     margin-bottom: 15px;
+    box-sizing: border-box;
+    padding: var(--card-padding-size);
 }
 
 .item-card:hover {
@@ -132,7 +132,7 @@
 }
 
 .card-title a {
-    /*text-decoration: none;*/
+    text-decoration: none;
     color: inherit;
 }
 

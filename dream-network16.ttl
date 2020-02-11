@@ -2688,5 +2688,5 @@ ns1:bcphbq3xdnj a ns1:Page ;
     ns1:itemId "bcphbq3xdnj"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dream Network"^^xsd:string ;
-    ns1:profileImg "logo-white-on-purple.png"^^xsd:string .
+    ns1:profileImg "network-logo.png"^^xsd:string .
 

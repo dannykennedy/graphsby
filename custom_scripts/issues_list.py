@@ -247,237 +247,237 @@ issues = [
         "imgName": "6.1",
         "pdfName": "6.1-Dream-Network-Bulletin_Volume-6-Number-1.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1987-05-01T11:32:52"
     },
     {
         "imgName": "6.2",
         "pdfName": "6.2-Dream-Network-Bulletin_Volume-6-Number-2.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1987-07-01T11:32:52"
     },
     {
         "imgName": "6.3",
         "pdfName": "6.3-Dream-Network-Bulletin_Volume-6-Number-3.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1987-09-02T11:32:52"
     },
     {
         "imgName": "6.4",
         "pdfName": "6.4-Dream-Network-Bulletin_Volume-6-Number-4.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1987-11-01T11:32:52"
     },
     {
         "imgName": "7.1",
         "pdfName": "7.1-Dream-Network-Bulletin_Volume-7-Number-1.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1988-01-01T11:32:52"
     },
     {
         "imgName": "7.2",
         "pdfName": "7.2-Dream-Network-Bulletin_Volume-7-Number-2.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1988-03-01T11:32:52"
     },
     {
         "imgName": "7.3",
         "pdfName": "7.3-Dream-Network-Bulletin_Volume-7-Number-3.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1988-05-01T11:32:52"
     },
     {
         "imgName": "7.4",
         "pdfName": "7.4-Dream-Network-Bulletin_Volume-7-Number-4.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1987-07-01T11:32:52"
     },
     {
         "imgName": "7.5",
         "pdfName": "7.5-Dream-Network-Bulletin_Volume-7-Number-5.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1988-09-01T11:32:52"
     },
     {
         "imgName": "7.6",
         "pdfName": "7.6-Dream-Network-Bulletin_Volume-7-Number-6.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1988-11-01T11:32:52"
     },
     {
         "imgName": "8.1",
         "pdfName": "8.1-Dream-Network-Bulletin_Volume-8-Number-1.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1989-01-01T11:32:52"
     },
     {
         "imgName": "8.2",
         "pdfName": "8.2-Dream-Network-Bulletin_Volume-8-Number-2.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1989-03-01T11:32:52"
     },
     {
         "imgName": "8.3",
         "pdfName": "8.3-Dream-Network-Bulletin_Volume-8-Number-3.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1989-05-01T11:32:52"
     },
     {
         "imgName": "8.4",
         "pdfName":
             "8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf",
         "title": "",
-        "date": "2019-07-01T11:32:52"
+        "date": "1989-07-01T11:32:52"
     },
     {
         "imgName": "9.1",
         "pdfName": "9.1-Dream-Network-Journal_Volume-9_No-1.pdf",
         "title": "Making Dreams Real",
-        "date": "2019-07-01T11:32:52"
+        "date": "1990-01-01T11:32:52"
     },
     {
         "imgName": "9.2",
         "pdfName": "9.2-Dream-Network-Journal-Vol-9-No-2.pdf",
         "title": "Dreams, Passages & The Family",
-        "date": "2019-07-01T11:32:52"
+        "date": "1990-04-01T11:32:52"
     },
     {
         "imgName": "9.3",
         "pdfName": "9.3-Dream-Network-Journal_Volume-9_No-3.pdf",
         "title": "The Variety of Dreams & Dream Guidance",
-        "date": "2019-07-01T11:32:52"
+        "date": "1990-07-01T11:32:52"
     },
     {
         "imgName": "9.4",
         "pdfName": "9.4-Dream-Network-Journal-Vol-9-No-4.pdf",
         "title": "Dreams as Gateways to the 'Other Side'",
-        "date": "2019-07-01T11:32:52"
+        "date": "1990-10-01T11:32:52"
     },
     {
         "imgName": "10.1",
         "pdfName": "10.1-Dream-Network-Journal_Volume-10_No-1.pdf",
         "title": "Healing the Child Within ",
-        "date": "2019-07-01T11:32:52"
+        "date": "1991-01-01T11:32:52"
     },
     {
         "imgName": "10.2-3",
         "pdfName":
             "10.2-3-Dream-Network-Journal_Volume-10_No-2-3.pdf",
         "title": "Healing our Souls, Healing the Earth",
-        "date": "2019-07-01T11:32:52"
+        "date": "1991-04-01T11:32:52"
     },
     {
         "imgName": "10.4",
         "pdfName": "10.4-Dream-Network-Journal_Volume-10_No-4.pdf",
         "title": "Overcoming Addictions: Can our Dreams Help?",
-        "date": "2019-07-01T11:32:52"
+        "date": "1991-10-01T11:32:52"
     },
     {
         "imgName": "11.1",
         "pdfName": "11.1-Dream-Network-Vol-11-No-1.pdf",
         "title": "Women's Dreams",
-        "date": "2019-07-01T11:32:52"
+        "date": "1992-01-01T11:32:52"
     },
     {
         "imgName": "11.2",
         "pdfName": "11.2-Dream-Network-Vol-11-No-2.pdf",
         "title": "Men's Dreams",
-        "date": "2019-07-01T11:32:52"
+        "date": "1992-04-01T11:32:52"
     },
     {
         "imgName": "11.3",
         "pdfName": "11.3-Dream-Network_Volume-11_No-3.pdf",
         "title": "Relationships",
-        "date": "2019-07-01T11:32:52"
+        "date": "1992-07-01T11:32:52"
     },
     {
         "imgName": "11.4",
         "pdfName": "11.4-Dream-Network_Volume-11_No-4.pdf",
         "title": "Androgyny: The Union of Opposites",
-        "date": "2019-07-01T11:32:52"
+        "date": "1992-10-01T11:32:52"
     },
     {
         "imgName": "12.1",
         "pdfName": "12.1-Dream-Network_Volume-12_No-1.pdf",
         "title": "Animals in Dreams: Birds, Insects & Fish",
-        "date": "2019-07-01T11:32:52"
+        "date": "1993-01-01T11:32:52"
     },
     {
         "imgName": "12.2",
         "pdfName": "12.2-Dream-Network_Volume-12_No-2.pdf",
         "title": "Animals in Dreams: More Creatures...",
-        "date": "2019-07-01T11:32:52"
+        "date": "1993-04-01T11:32:52"
     },
     {
         "imgName": "12.3",
         "pdfName": "12.3-Dream-Network_Volume-12_No-3.pdf",
         "title": "Flora, Stones & Crystals in Dreams",
-        "date": "2019-07-01T11:32:52"
+        "date": "1993-07-01T11:32:52"
     },
     {
         "imgName": "12.4",
         "pdfName": "12.4-Dream-Network_Volume-12_No-4.pdf",
         "title": "Water, Earth, Air & Fire in Dreams",
-        "date": "2019-07-01T11:32:52"
+        "date": "1993-10-01T11:32:52"
     },
     {
         "imgName": "13.1",
         "pdfName": "13.1-Dream-Network_Volume-13_No-1.pdf",
         "title": "Cross Cultural Perspectives on Dream & Myth",
-        "date": "2019-07-01T11:32:52"
+        "date": "1994-01-01T11:32:52"
     },
     {
         "imgName": "13.2",
         "pdfName": "13.2-Dream-Network_Volume-13_No-2.pdf",
         "title": "Cross Cultural Perspectives on Dream & Myth: More Cross-Cultural Perspectives",
-        "date": "2019-07-01T11:32:52"
+        "date": "1994-04-01T11:32:52"
     },
     {
         "imgName": "13.3",
         "pdfName": "13.3-Dream-Network_Volume-13_No-3.pdf",
         "title": "Cross Cultural Perspectives on Dream & Myth: Native American Views",
-        "date": "2019-07-01T11:32:52"
+        "date": "1994-07-01T11:32:52"
     },
     {
         "imgName": "13.4",
         "pdfName": "13.4-Dream-Network_Volume-13_No-4.pdf",
         "title": "Cross Cultural Perspectives on Dream & Myth: Extraterrestrial Dreams",
-        "date": "2019-07-01T11:32:52"
+        "date": "1994-10-01T11:32:52"
     },
     {
         "imgName": "14.1-2",
         "pdfName": "14.1-2-Dream-Network-Vol-14-Nos-1-&-2.pdf",
         "title": "Dreaming Humanity's Path: Protecting the Children & Warning Dreams",
-        "date": "2019-07-01T11:32:52"
+        "date": "1995-01-01T11:32:52"
     },
     {
         "imgName": "14.3",
         "pdfName": "14.3-Dream-Network-Vol-14-No-3.pdf",
         "title": "Dreaming Humanity's Path: Visions of Guidance for Humanity",
-        "date": "2019-07-01T11:32:52"
+        "date": "1995-07-01T11:32:52"
     },
     {
         "imgName": "14.4",
         "pdfName": "14.4-Dream-Network_Volume-14_No-4.pdf",
         "title": "Dreaming Humanity's Path: Beyond the Veil",
-        "date": "2019-07-01T11:32:52"
+        "date": "1995-10-01T11:32:52"
     },
     {
         "imgName": "15.1",
         "pdfName": "15.1-Dream-Network-Vol-15-No-1.pdf",
         "title": "Dream-Inspired Communities",
-        "date": "2019-07-01T11:32:52"
+        "date": "1996-01-01T11:32:52"
     },
     {
         "imgName": "15.2-3",
         "pdfName": "15.2-3-Dream-Network-Vol-15-No-3_de-skew.pdf",
         "title": "Focus on Healing",
-        "date": "2019-07-01T11:32:52"
+        "date": "1996-04-01T11:32:52"
     },
     {
         "imgName": "15.4",
         "pdfName": "15.4-Dream-Network-Vol-15-No-4.pdf",
         "title": "Symbols: Language of the Soul",
-        "date": "2019-07-01T11:32:52"
+        "date": "1996-10-01T11:32:52"
     },
     {
         "imgName": "16.1",

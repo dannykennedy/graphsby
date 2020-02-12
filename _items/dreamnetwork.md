@@ -6,7 +6,7 @@ handle: dreamnetwork
 name: "Dream Network"
 shortDescription: "Welcome to the Dream Network"
 tags:
-profileImg: network-logo.png
+profileImg: logo-white.png
 coverImg: banner.jpg
 ---
 
@@ -191,5 +191,3 @@ Feel free to send the PDFs to your friends, but rather than publishing them onli
         </a>
     </div>
 </div>
-
-

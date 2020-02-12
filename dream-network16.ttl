@@ -15,7 +15,7 @@ ns1:Place a <http://www.w3.org/2002/07/owl#Class> ;
 
 ns1:bcphb2asab7 a ns1:Post ;
     ns1:coverImg "33.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2014-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/33.1-rect.jpg"/><a href="../files/pdfs/Volume_33/33.1_beyond_the_veil.pdf" download="">Download issue 33.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -28,7 +28,7 @@ ns1:bcphb2asab7 a ns1:Post ;
 
 ns1:bcphb2eggje a ns1:Post ;
     ns1:coverImg "33.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2014-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/33.2-rect.jpg"/><a href="../files/pdfs/Volume_33/33.2_popourri.pdf" download="">Download issue 33.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -41,7 +41,7 @@ ns1:bcphb2eggje a ns1:Post ;
 
 ns1:bcphb2huxmr a ns1:Post ;
     ns1:coverImg "33.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2014-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/33.3-rect.jpg"/><a href="../files/pdfs/Volume_33/33.3_change.pdf" download="">Download issue 33.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -54,7 +54,7 @@ ns1:bcphb2huxmr a ns1:Post ;
 
 ns1:bcphb2kqfhu a ns1:Post ;
     ns1:coverImg "33.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2015-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/33.4-rect.jpg"/><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf" download="">Download issue 33.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -496,7 +496,7 @@ ns1:bcphblyrd2y a ns1:Post ;
 
 ns1:bcphbm5mept a ns1:Post ;
     ns1:coverImg "6.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/6.2-rect.jpg"/><a href="../files/pdfs/Volume_6/6.2-Dream-Network-Bulletin_Volume-6-Number-2.pdf" download="">Download issue 6.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -600,7 +600,7 @@ ns1:bcphbmvxewa a ns1:Post ;
 
 ns1:bcphbmz7lpz a ns1:Post ;
     ns1:coverImg "6.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1987-05-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/6.1-rect.jpg"/><a href="../files/pdfs/Volume_6/6.1-Dream-Network-Bulletin_Volume-6-Number-1.pdf" download="">Download issue 6.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -613,7 +613,7 @@ ns1:bcphbmz7lpz a ns1:Post ;
 
 ns1:bcphbn2j47k a ns1:Post ;
     ns1:coverImg "8.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1989-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/8.1-rect.jpg"/><a href="../files/pdfs/Volume_8/8.1-Dream-Network-Bulletin_Volume-8-Number-1.pdf" download="">Download issue 8.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -626,7 +626,7 @@ ns1:bcphbn2j47k a ns1:Post ;
 
 ns1:bcphbn5gpez a ns1:Post ;
     ns1:coverImg "8.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1989-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/8.2-rect.jpg"/><a href="../files/pdfs/Volume_8/8.2-Dream-Network-Bulletin_Volume-8-Number-2.pdf" download="">Download issue 8.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -639,7 +639,7 @@ ns1:bcphbn5gpez a ns1:Post ;
 
 ns1:bcphbnagfeb a ns1:Post ;
     ns1:coverImg "6.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1987-09-02T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/6.3-rect.jpg"/><a href="../files/pdfs/Volume_6/6.3-Dream-Network-Bulletin_Volume-6-Number-3.pdf" download="">Download issue 6.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -652,7 +652,7 @@ ns1:bcphbnagfeb a ns1:Post ;
 
 ns1:bcphbndh32i a ns1:Post ;
     ns1:coverImg "6.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1987-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/6.4-rect.jpg"/><a href="../files/pdfs/Volume_6/6.4-Dream-Network-Bulletin_Volume-6-Number-4.pdf" download="">Download issue 6.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -665,7 +665,7 @@ ns1:bcphbndh32i a ns1:Post ;
 
 ns1:bcphbnhzqtk a ns1:Post ;
     ns1:coverImg "7.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1988-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/7.1-rect.jpg"/><a href="../files/pdfs/Volume_7/7.1-Dream-Network-Bulletin_Volume-7-Number-1.pdf" download="">Download issue 7.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -678,7 +678,7 @@ ns1:bcphbnhzqtk a ns1:Post ;
 
 ns1:bcphbnlbw5k a ns1:Post ;
     ns1:coverImg "7.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1988-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/7.2-rect.jpg"/><a href="../files/pdfs/Volume_7/7.2-Dream-Network-Bulletin_Volume-7-Number-2.pdf" download="">Download issue 7.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -691,7 +691,7 @@ ns1:bcphbnlbw5k a ns1:Post ;
 
 ns1:bcphbnodjs2 a ns1:Post ;
     ns1:coverImg "7.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1988-05-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/7.3-rect.jpg"/><a href="../files/pdfs/Volume_7/7.3-Dream-Network-Bulletin_Volume-7-Number-3.pdf" download="">Download issue 7.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -704,7 +704,7 @@ ns1:bcphbnodjs2 a ns1:Post ;
 
 ns1:bcphbnp3qol a ns1:Post ;
     ns1:coverImg "7.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/7.4-rect.jpg"/><a href="../files/pdfs/Volume_7/7.4-Dream-Network-Bulletin_Volume-7-Number-4.pdf" download="">Download issue 7.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -717,7 +717,7 @@ ns1:bcphbnp3qol a ns1:Post ;
 
 ns1:bcphbntd445 a ns1:Post ;
     ns1:coverImg "7.5-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1988-09-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/7.5-rect.jpg"/><a href="../files/pdfs/Volume_7/7.5-Dream-Network-Bulletin_Volume-7-Number-5.pdf" download="">Download issue 7.5</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -730,7 +730,7 @@ ns1:bcphbntd445 a ns1:Post ;
 
 ns1:bcphbnxwzvo a ns1:Post ;
     ns1:coverImg "7.6-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1988-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/7.6-rect.jpg"/><a href="../files/pdfs/Volume_7/7.6-Dream-Network-Bulletin_Volume-7-Number-6.pdf" download="">Download issue 7.6</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -743,7 +743,7 @@ ns1:bcphbnxwzvo a ns1:Post ;
 
 ns1:bcphbo4ff76 a ns1:Post ;
     ns1:coverImg "10.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1991-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/10.1-rect.jpg"/><a href="../files/pdfs/Volume_10/10.1-Dream-Network-Journal_Volume-10_No-1.pdf" download="">Download issue 10.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -756,7 +756,7 @@ ns1:bcphbo4ff76 a ns1:Post ;
 
 ns1:bcphboajs77 a ns1:Post ;
     ns1:coverImg "8.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1989-05-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/8.3-rect.jpg"/><a href="../files/pdfs/Volume_8/8.3-Dream-Network-Bulletin_Volume-8-Number-3.pdf" download="">Download issue 8.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -769,7 +769,7 @@ ns1:bcphboajs77 a ns1:Post ;
 
 ns1:bcphboc7tt5 a ns1:Post ;
     ns1:coverImg "8.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/8.4-rect.jpg"/><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf" download="">Download issue 8.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -782,7 +782,7 @@ ns1:bcphboc7tt5 a ns1:Post ;
 
 ns1:bcphbohoqoq a ns1:Post ;
     ns1:coverImg "9.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/9.1-rect.jpg"/><a href="../files/pdfs/Volume_9/9.1-Dream-Network-Journal_Volume-9_No-1.pdf" download="">Download issue 9.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -795,7 +795,7 @@ ns1:bcphbohoqoq a ns1:Post ;
 
 ns1:bcphbolab5r a ns1:Post ;
     ns1:coverImg "9.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1990-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/9.2-rect.jpg"/><a href="../files/pdfs/Volume_9/9.2-Dream-Network-Journal-Vol-9-No-2.pdf" download="">Download issue 9.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -808,7 +808,7 @@ ns1:bcphbolab5r a ns1:Post ;
 
 ns1:bcphbope3kf a ns1:Post ;
     ns1:coverImg "9.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1990-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/9.3-rect.jpg"/><a href="../files/pdfs/Volume_9/9.3-Dream-Network-Journal_Volume-9_No-3.pdf" download="">Download issue 9.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -821,7 +821,7 @@ ns1:bcphbope3kf a ns1:Post ;
 
 ns1:bcphbovuijt a ns1:Post ;
     ns1:coverImg "9.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1990-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/9.4-rect.jpg"/><a href="../files/pdfs/Volume_9/9.4-Dream-Network-Journal-Vol-9-No-4.pdf" download="">Download issue 9.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -834,7 +834,7 @@ ns1:bcphbovuijt a ns1:Post ;
 
 ns1:bcphbp2b6gy a ns1:Post ;
     ns1:coverImg "11.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1992-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/11.3-rect.jpg"/><a href="../files/pdfs/Volume_11/11.3-Dream-Network_Volume-11_No-3.pdf" download="">Download issue 11.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -847,7 +847,7 @@ ns1:bcphbp2b6gy a ns1:Post ;
 
 ns1:bcphbp7rfno a ns1:Post ;
     ns1:coverImg "11.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1992-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/11.4-rect.jpg"/><a href="../files/pdfs/Volume_11/11.4-Dream-Network_Volume-11_No-4.pdf" download="">Download issue 11.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -860,7 +860,7 @@ ns1:bcphbp7rfno a ns1:Post ;
 
 ns1:bcphbpfnwcb a ns1:Post ;
     ns1:coverImg "10.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1991-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/10.2-3-rect.jpg"/><a href="../files/pdfs/Volume_10/10.2-3-Dream-Network-Journal_Volume-10_No-2-3.pdf" download="">Download issue 10.2-3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -873,7 +873,7 @@ ns1:bcphbpfnwcb a ns1:Post ;
 
 ns1:bcphbpntuo4 a ns1:Post ;
     ns1:coverImg "10.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1991-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/10.4-rect.jpg"/><a href="../files/pdfs/Volume_10/10.4-Dream-Network-Journal_Volume-10_No-4.pdf" download="">Download issue 10.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -886,7 +886,7 @@ ns1:bcphbpntuo4 a ns1:Post ;
 
 ns1:bcphbpqyqpo a ns1:Post ;
     ns1:coverImg "11.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/11.1-rect.jpg"/><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf" download="">Download issue 11.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -899,7 +899,7 @@ ns1:bcphbpqyqpo a ns1:Post ;
 
 ns1:bcphbpumr2x a ns1:Post ;
     ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/11.2-rect.jpg"/><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf" download="">Download issue 11.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -912,7 +912,7 @@ ns1:bcphbpumr2x a ns1:Post ;
 
 ns1:bcphbq3xymn a ns1:Post ;
     ns1:coverImg "13.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1994-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/13.3-rect.jpg"/><a href="../files/pdfs/Volume_13/13.3-Dream-Network_Volume-13_No-3.pdf" download="">Download issue 13.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -925,7 +925,7 @@ ns1:bcphbq3xymn a ns1:Post ;
 
 ns1:bcphbq7rbsc a ns1:Post ;
     ns1:coverImg "13.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1994-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/13.4-rect.jpg"/><a href="../files/pdfs/Volume_13/13.4-Dream-Network_Volume-13_No-4.pdf" download="">Download issue 13.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -938,7 +938,7 @@ ns1:bcphbq7rbsc a ns1:Post ;
 
 ns1:bcphbqdrrm2 a ns1:Post ;
     ns1:coverImg "12.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1993-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/12.1-rect.jpg"/><a href="../files/pdfs/Volume_12/12.1-Dream-Network_Volume-12_No-1.pdf" download="">Download issue 12.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -951,7 +951,7 @@ ns1:bcphbqdrrm2 a ns1:Post ;
 
 ns1:bcphbqi5hzh a ns1:Post ;
     ns1:coverImg "12.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1993-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/12.2-rect.jpg"/><a href="../files/pdfs/Volume_12/12.2-Dream-Network_Volume-12_No-2.pdf" download="">Download issue 12.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -964,7 +964,7 @@ ns1:bcphbqi5hzh a ns1:Post ;
 
 ns1:bcphbqmxcnl a ns1:Post ;
     ns1:coverImg "12.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1993-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/12.3-rect.jpg"/><a href="../files/pdfs/Volume_12/12.3-Dream-Network_Volume-12_No-3.pdf" download="">Download issue 12.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -977,7 +977,7 @@ ns1:bcphbqmxcnl a ns1:Post ;
 
 ns1:bcphbqp3hfp a ns1:Post ;
     ns1:coverImg "12.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1993-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/12.4-rect.jpg"/><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf" download="">Download issue 12.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -990,7 +990,7 @@ ns1:bcphbqp3hfp a ns1:Post ;
 
 ns1:bcphbqvckd7 a ns1:Post ;
     ns1:coverImg "13.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1994-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/13.1-rect.jpg"/><a href="../files/pdfs/Volume_13/13.1-Dream-Network_Volume-13_No-1.pdf" download="">Download issue 13.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1003,7 +1003,7 @@ ns1:bcphbqvckd7 a ns1:Post ;
 
 ns1:bcphbqyogh7 a ns1:Post ;
     ns1:coverImg "13.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1994-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/13.2-rect.jpg"/><a href="../files/pdfs/Volume_13/13.2-Dream-Network_Volume-13_No-2.pdf" download="">Download issue 13.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1016,7 +1016,7 @@ ns1:bcphbqyogh7 a ns1:Post ;
 
 ns1:bcphbr4spo2 a ns1:Post ;
     ns1:coverImg "15.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1996-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/15.2-3-rect.jpg"/><a href="../files/pdfs/Volume_15/15.2-3-Dream-Network-Vol-15-No-3_de-skew.pdf" download="">Download issue 15.2-3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1029,7 +1029,7 @@ ns1:bcphbr4spo2 a ns1:Post ;
 
 ns1:bcphbr7xrtd a ns1:Post ;
     ns1:coverImg "15.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1996-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/15.4-rect.jpg"/><a href="../files/pdfs/Volume_15/15.4-Dream-Network-Vol-15-No-4.pdf" download="">Download issue 15.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1042,7 +1042,7 @@ ns1:bcphbr7xrtd a ns1:Post ;
 
 ns1:bcphbrfqwml a ns1:Post ;
     ns1:coverImg "14.1-2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1995-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/14.1-2-rect.jpg"/><a href="../files/pdfs/Volume_14/14.1-2-Dream-Network-Vol-14-Nos-1-&amp;-2.pdf" download="">Download issue 14.1-2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1055,7 +1055,7 @@ ns1:bcphbrfqwml a ns1:Post ;
 
 ns1:bcphbrnlz5j a ns1:Post ;
     ns1:coverImg "14.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1995-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/14.3-rect.jpg"/><a href="../files/pdfs/Volume_14/14.3-Dream-Network-Vol-14-No-3.pdf" download="">Download issue 14.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1068,7 +1068,7 @@ ns1:bcphbrnlz5j a ns1:Post ;
 
 ns1:bcphbrptpuy a ns1:Post ;
     ns1:coverImg "14.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1995-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/14.4-rect.jpg"/><a href="../files/pdfs/Volume_14/14.4-Dream-Network_Volume-14_No-4.pdf" download="">Download issue 14.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1081,7 +1081,7 @@ ns1:bcphbrptpuy a ns1:Post ;
 
 ns1:bcphbrw63cp a ns1:Post ;
     ns1:coverImg "15.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1996-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/15.1-rect.jpg"/><a href="../files/pdfs/Volume_15/15.1-Dream-Network-Vol-15-No-1.pdf" download="">Download issue 15.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1094,7 +1094,7 @@ ns1:bcphbrw63cp a ns1:Post ;
 
 ns1:bcphbs4b6on a ns1:Post ;
     ns1:coverImg "17.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1998-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/17.1-rect.jpg"/><a href="../files/pdfs/Volume_17/17.1-Dream-Network_Volume-17_No-1.pdf" download="">Download issue 17.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1107,7 +1107,7 @@ ns1:bcphbs4b6on a ns1:Post ;
 
 ns1:bcphbsc3ttt a ns1:Post ;
     ns1:coverImg "16.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1997-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/16.1-rect.jpg"/><a href="../files/pdfs/Volume_16/16.1-Dream-Network-Vol-16-No-1.pdf" download="">Download issue 16.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1120,7 +1120,7 @@ ns1:bcphbsc3ttt a ns1:Post ;
 
 ns1:bcphbshc2lb a ns1:Post ;
     ns1:coverImg "16.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1997-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/16.2-rect.jpg"/><a href="../files/pdfs/Volume_16/16.2-Dream-Network-Vol-16-No-2.pdf" download="">Download issue 16.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1133,7 +1133,7 @@ ns1:bcphbshc2lb a ns1:Post ;
 
 ns1:bcphbslvedc a ns1:Post ;
     ns1:coverImg "16.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1997-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/16.3-rect.jpg"/><a href="../files/pdfs/Volume_16/16.3-Dream-Network-Vol-16-No-3.pdf" download="">Download issue 16.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1146,7 +1146,7 @@ ns1:bcphbslvedc a ns1:Post ;
 
 ns1:bcphbsvz3ik a ns1:Post ;
     ns1:coverImg "16.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1997-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/16.4-rect.jpg"/><a href="../files/pdfs/Volume_16/16.4-Dream-Network-Vol-16-No-4.pdf" download="">Download issue 16.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1159,7 +1159,7 @@ ns1:bcphbsvz3ik a ns1:Post ;
 
 ns1:bcphbt33uhn a ns1:Post ;
     ns1:coverImg "18.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1999-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/18.4-rect.jpg"/><a href="../files/pdfs/Volume_18/18.4-Dream-Network-Vol-18-No-4.pdf" download="">Download issue 18.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1172,7 +1172,7 @@ ns1:bcphbt33uhn a ns1:Post ;
 
 ns1:bcphbt7x4uv a ns1:Post ;
     ns1:coverImg "19.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2000-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/19.1-rect.jpg"/><a href="../files/pdfs/Volume_19/19.1-Dream-Network-Vol-19-No-1.pdf" download="">Download issue 19.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1185,7 +1185,7 @@ ns1:bcphbt7x4uv a ns1:Post ;
 
 ns1:bcphbtbcugl a ns1:Post ;
     ns1:coverImg "17.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1998-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/17.2-rect.jpg"/><a href="../files/pdfs/Volume_17/17.2-Dream-Network-Vol-17-No-2.pdf" download="">Download issue 17.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1198,7 +1198,7 @@ ns1:bcphbtbcugl a ns1:Post ;
 
 ns1:bcphbte5ugv a ns1:Post ;
     ns1:coverImg "17.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1998-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/17.3-rect.jpg"/><a href="../files/pdfs/Volume_17/17.3-Dream-Network-Vol-17-No-3.pdf" download="">Download issue 17.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1211,7 +1211,7 @@ ns1:bcphbte5ugv a ns1:Post ;
 
 ns1:bcphbtj7a2e a ns1:Post ;
     ns1:coverImg "17.4-18.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/17.4-18.1-rect.jpg"/><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&amp;-18-No-1.pdf" download="">Download issue 17.4-18.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1224,7 +1224,7 @@ ns1:bcphbtj7a2e a ns1:Post ;
 
 ns1:bcphbtsx7s6 a ns1:Post ;
     ns1:coverImg "18.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1999-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/18.2-rect.jpg"/><a href="../files/pdfs/Volume_18/18.2-Dream-Network-Vol-18-No-2.pdf" download="">Download issue 18.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1237,7 +1237,7 @@ ns1:bcphbtsx7s6 a ns1:Post ;
 
 ns1:bcphbtxh2bi a ns1:Post ;
     ns1:coverImg "18.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1999-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/18.3-rect.jpg"/><a href="../files/pdfs/Volume_18/18.3-Dream-Network-Vol-18-No-3.pdf" download="">Download issue 18.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1250,7 +1250,7 @@ ns1:bcphbtxh2bi a ns1:Post ;
 
 ns1:bcphbu3wddv a ns1:Post ;
     ns1:coverImg "21.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2002-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/21.1-rect.jpg"/><a href="../files/pdfs/Volume_21/21.1_music_crisis_I.pdf" download="">Download issue 21.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1263,7 +1263,7 @@ ns1:bcphbu3wddv a ns1:Post ;
 
 ns1:bcphbu6vnbl a ns1:Post ;
     ns1:coverImg "21.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2002-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/21.2-rect.jpg"/><a href="../files/pdfs/Volume_21/21.2_crisis_II.pdf" download="">Download issue 21.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1276,7 +1276,7 @@ ns1:bcphbu6vnbl a ns1:Post ;
 
 ns1:bcphbugth7l a ns1:Post ;
     ns1:coverImg "19.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/19.2-rect.jpg"/><a href="../files/pdfs/Volume_19/19.2-Dream-Network-Vol-19-No-2.pdf" download="">Download issue 19.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1289,7 +1289,7 @@ ns1:bcphbugth7l a ns1:Post ;
 
 ns1:bcphbuj7fdh a ns1:Post ;
     ns1:coverImg "19.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2000-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/19.3-rect.jpg"/><a href="../files/pdfs/Volume_19/19.3-Dream-Network-Vol-19-No-3.pdf" download="">Download issue 19.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1302,7 +1302,7 @@ ns1:bcphbuj7fdh a ns1:Post ;
 
 ns1:bcphbumhc4e a ns1:Post ;
     ns1:coverImg "19.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2000-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/19.4-rect.jpg"/><a href="../files/pdfs/Volume_19/19.4-Dream-Network-Vol-19-No-4.pdf" download="">Download issue 19.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1315,7 +1315,7 @@ ns1:bcphbumhc4e a ns1:Post ;
 
 ns1:bcphbupdomk a ns1:Post ;
     ns1:coverImg "20.1-2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2001-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/20.1-2-rect.jpg"/><a href="../files/pdfs/Volume_20/20.1-01.2_shaman_II.pdf" download="">Download issue 20.1-2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1328,7 +1328,7 @@ ns1:bcphbupdomk a ns1:Post ;
 
 ns1:bcphbusgyjg a ns1:Post ;
     ns1:coverImg "20.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2001-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/20.3-rect.jpg"/><a href="../files/pdfs/Volume_20/20.3_poetry.pdf" download="">Download issue 20.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1341,7 +1341,7 @@ ns1:bcphbusgyjg a ns1:Post ;
 
 ns1:bcphbuzcgu3 a ns1:Post ;
     ns1:coverImg "20.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/20.4-rect.jpg"/><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf" download="">Download issue 20.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1354,7 +1354,7 @@ ns1:bcphbuzcgu3 a ns1:Post ;
 
 ns1:bcphbv3fbuv a ns1:Post ;
     ns1:coverImg "23.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2004-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/23.1-rect.jpg"/><a href="../files/pdfs/Volume_23/23.1_dance.pdf" download="">Download issue 23.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1367,7 +1367,7 @@ ns1:bcphbv3fbuv a ns1:Post ;
 
 ns1:bcphbv6y2vp a ns1:Post ;
     ns1:coverImg "23.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2004-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/23.2-rect.jpg"/><a href="../files/pdfs/Volume_23/23.2_creativity.pdf" download="">Download issue 23.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1380,7 +1380,7 @@ ns1:bcphbv6y2vp a ns1:Post ;
 
 ns1:bcphbvbqspq a ns1:Post ;
     ns1:coverImg "21.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2002-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/21.3-rect.jpg"/><a href="../files/pdfs/Volume_21/21.3-Dream-Network-Vol-21-No-3.pdf" download="">Download issue 21.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1393,7 +1393,7 @@ ns1:bcphbvbqspq a ns1:Post ;
 
 ns1:bcphbvecgmx a ns1:Post ;
     ns1:coverImg "21.4-22.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2002-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/21.4-22.1-rect.jpg"/><a href="../files/pdfs/Volume_21/21.4-22-1_evolution.pdf" download="">Download issue 21.4-22.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1406,7 +1406,7 @@ ns1:bcphbvecgmx a ns1:Post ;
 
 ns1:bcphbvjopd2 a ns1:Post ;
     ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/22.2-rect.jpg"/><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf" download="">Download issue 22.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1419,7 +1419,7 @@ ns1:bcphbvjopd2 a ns1:Post ;
 
 ns1:bcphbvob4z7 a ns1:Post ;
     ns1:coverImg "22.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2003-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/22.3-rect.jpg"/><a href="../files/pdfs/Volume_22/22.3-Dream-Network_Vol_22_No-3.pdf" download="">Download issue 22.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1432,7 +1432,7 @@ ns1:bcphbvob4z7 a ns1:Post ;
 
 ns1:bcphbvvhigo a ns1:Post ;
     ns1:coverImg "22.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2003-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/22.4-rect.jpg"/><a href="../files/pdfs/Volume_22/22.4_et.pdf" download="">Download issue 22.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1445,7 +1445,7 @@ ns1:bcphbvvhigo a ns1:Post ;
 
 ns1:bcphbw4yscz a ns1:Post ;
     ns1:coverImg "25.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2006-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/25.2-rect.jpg"/><a href="../files/pdfs/Volume_25/25.2_monte_ullman.pdf" download="">Download issue 25.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1458,7 +1458,7 @@ ns1:bcphbw4yscz a ns1:Post ;
 
 ns1:bcphbwctnd2 a ns1:Post ;
     ns1:coverImg "23.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2004-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/23.3-rect.jpg"/><a href="../files/pdfs/Volume_23/23.3_deja_vu.pdf" download="">Download issue 23.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1471,7 +1471,7 @@ ns1:bcphbwctnd2 a ns1:Post ;
 
 ns1:bcphbwfw4rc a ns1:Post ;
     ns1:coverImg "23.4-24.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/23.4-24.1-rect.jpg"/><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf" download="">Download issue 23.4-24.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1484,7 +1484,7 @@ ns1:bcphbwfw4rc a ns1:Post ;
 
 ns1:bcphbwmlvfh a ns1:Post ;
     ns1:coverImg "24.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2005-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/24.2-rect.jpg"/><a href="../files/pdfs/Volume_24/24.2_facing_fear.pdf" download="">Download issue 24.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1497,7 +1497,7 @@ ns1:bcphbwmlvfh a ns1:Post ;
 
 ns1:bcphbwpd2l7 a ns1:Post ;
     ns1:coverImg "24.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2005-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/24.3-rect.jpg"/><a href="../files/pdfs/Volume_24/24.3_reincarnation.pdf" download="">Download issue 24.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1510,7 +1510,7 @@ ns1:bcphbwpd2l7 a ns1:Post ;
 
 ns1:bcphbwv4jtr a ns1:Post ;
     ns1:coverImg "24.4-25.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2005-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/24.4-25.1-rect.jpg"/><a href="../files/pdfs/Volume_24/24.4-25.1_dreams_a_calling.pdf" download="">Download issue 24.4-25.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1523,7 +1523,7 @@ ns1:bcphbwv4jtr a ns1:Post ;
 
 ns1:bcphbx7d7cu a ns1:Post ;
     ns1:coverImg "27.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2008-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/27.4-rect.jpg"/><a href="../files/pdfs/Volume_27/27.4_agents_for_change.pdf" download="">Download issue 27.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1536,7 +1536,7 @@ ns1:bcphbx7d7cu a ns1:Post ;
 
 ns1:bcphbxal53y a ns1:Post ;
     ns1:coverImg "25.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2006-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/25.3-rect.jpg"/><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf" download="">Download issue 25.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1549,7 +1549,7 @@ ns1:bcphbxal53y a ns1:Post ;
 
 ns1:bcphbxfpj5j a ns1:Post ;
     ns1:coverImg "25.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2006-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/25.4-rect.jpg"/><a href="../files/pdfs/Volume_25/25.4_animals.pdf" download="">Download issue 25.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1562,7 +1562,7 @@ ns1:bcphbxfpj5j a ns1:Post ;
 
 ns1:bcphbxjsuyu a ns1:Post ;
     ns1:coverImg "26.1-2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/26.1-2-rect.jpg"/><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf" download="">Download issue 26.1-2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1575,7 +1575,7 @@ ns1:bcphbxjsuyu a ns1:Post ;
 
 ns1:bcphbxm2y5p a ns1:Post ;
     ns1:coverImg "26.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2007-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/26.3-rect.jpg"/><a href="../files/pdfs/Volume_26/26.3_visionary_activism.pdf" download="">Download issue 26.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1588,7 +1588,7 @@ ns1:bcphbxm2y5p a ns1:Post ;
 
 ns1:bcphbxplpmw a ns1:Post ;
     ns1:coverImg "26.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2007-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/26.4-rect.jpg"/><a href="../files/pdfs/Volume_26/26.4_waking_life_as_dream.pdf" download="">Download issue 26.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1601,7 +1601,7 @@ ns1:bcphbxplpmw a ns1:Post ;
 
 ns1:bcphbxuajab a ns1:Post ;
     ns1:coverImg "27.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2008-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/27.1-rect.jpg"/><a href="../files/pdfs/Volume_27/27.1_childrens_dreams.pdf" download="">Download issue 27.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1614,7 +1614,7 @@ ns1:bcphbxuajab a ns1:Post ;
 
 ns1:bcphbxxscsf a ns1:Post ;
     ns1:coverImg "27.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2008-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/27.2-rect.jpg"/><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf" download="">Download issue 27.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1627,7 +1627,7 @@ ns1:bcphbxxscsf a ns1:Post ;
 
 ns1:bcphbxz53sl a ns1:Post ;
     ns1:coverImg "27.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2008-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/27.3-rect.jpg"/><a href="../files/pdfs/Volume_27/27.3_dreaming_politics.pdf" download="">Download issue 27.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1640,7 +1640,7 @@ ns1:bcphbxz53sl a ns1:Post ;
 
 ns1:bcphby2swke a ns1:Post ;
     ns1:coverImg "29.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2010-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/29.4-rect.jpg"/><a href="../files/pdfs/Volume_29/29.4_crop_circles.pdf" download="">Download issue 29.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1653,7 +1653,7 @@ ns1:bcphby2swke a ns1:Post ;
 
 ns1:bcphby5wc2q a ns1:Post ;
     ns1:coverImg "30.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2011-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/30.1-rect.jpg"/><a href="../files/pdfs/Volume_30/30.1_religion.pdf" download="">Download issue 30.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1666,7 +1666,7 @@ ns1:bcphby5wc2q a ns1:Post ;
 
 ns1:bcphbycqos5 a ns1:Post ;
     ns1:coverImg "28.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/28.1-rect.jpg"/><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf" download="">Download issue 28.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1679,7 +1679,7 @@ ns1:bcphbycqos5 a ns1:Post ;
 
 ns1:bcphbygiw4g a ns1:Post ;
     ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/28.2-3-rect.jpg"/><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1692,7 +1692,7 @@ ns1:bcphbygiw4g a ns1:Post ;
 
 ns1:bcphbyjvotn a ns1:Post ;
     ns1:coverImg "28.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2009-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/28.4-rect.jpg"/><a href="../files/pdfs/Volume_28/28.4_destiny.pdf" download="">Download issue 28.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1705,7 +1705,7 @@ ns1:bcphbyjvotn a ns1:Post ;
 
 ns1:bcphbyl3dut a ns1:Post ;
     ns1:coverImg "29.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2010-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/29.1-rect.jpg"/><a href="../files/pdfs/Volume_29/29.1_healing.pdf" download="">Download issue 29.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1718,7 +1718,7 @@ ns1:bcphbyl3dut a ns1:Post ;
 
 ns1:bcphbyoxe6n a ns1:Post ;
     ns1:coverImg "29.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2010-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/29.2-rect.jpg"/><a href="../files/pdfs/Volume_29/29.2_back_to_the_future.pdf" download="">Download issue 29.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1731,7 +1731,7 @@ ns1:bcphbyoxe6n a ns1:Post ;
 
 ns1:bcphbyukqzw a ns1:Post ;
     ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/29.3-rect.jpg"/><a href="../files/pdfs/Volume_29/29.3_art.pdf" download="">Download issue 29.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1744,7 +1744,7 @@ ns1:bcphbyukqzw a ns1:Post ;
 
 ns1:bcphbz2bump a ns1:Post ;
     ns1:coverImg "32.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2013-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/32.2-3-rect.jpg"/><a href="../files/pdfs/Volume_32/32.2-32.3_shamanic_dreams.pdf" download="">Download issue 32.2-3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1757,7 +1757,7 @@ ns1:bcphbz2bump a ns1:Post ;
 
 ns1:bcphbz5vgog a ns1:Post ;
     ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/32.4-rect.jpg"/><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf" download="">Download issue 32.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1770,7 +1770,7 @@ ns1:bcphbz5vgog a ns1:Post ;
 
 ns1:bcphbzaknqj a ns1:Post ;
     ns1:coverImg "30.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2011-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/30.2-3-rect.jpg"/><a href="../files/pdfs/Volume_30/30.2-30.3_money.pdf" download="">Download issue 30.2-3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1783,7 +1783,7 @@ ns1:bcphbzaknqj a ns1:Post ;
 
 ns1:bcphbzdzrug a ns1:Post ;
     ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/30.4-rect.jpg"/><a href="../files/pdfs/Volume_30/30.4_music.pdf" download="">Download issue 30.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1796,7 +1796,7 @@ ns1:bcphbzdzrug a ns1:Post ;
 
 ns1:bcphbzhpgrg a ns1:Post ;
     ns1:coverImg "31.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2012-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/31.1-rect.jpg"/><a href="../files/pdfs/Volume_31/31.1_angels.pdf" download="">Download issue 31.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1809,7 +1809,7 @@ ns1:bcphbzhpgrg a ns1:Post ;
 
 ns1:bcphbzlhdke a ns1:Post ;
     ns1:coverImg "31.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2012-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/31.2-rect.jpg"/><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf" download="">Download issue 31.2</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1822,7 +1822,7 @@ ns1:bcphbzlhdke a ns1:Post ;
 
 ns1:bcphbzoxivb a ns1:Post ;
     ns1:coverImg "31.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2012-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/31.3-rect.jpg"/><a href="../files/pdfs/Volume_31/31.3_politics.pdf" download="">Download issue 31.3</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1835,7 +1835,7 @@ ns1:bcphbzoxivb a ns1:Post ;
 
 ns1:bcphbzrw57c a ns1:Post ;
     ns1:coverImg "31.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2012-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/31.4-rect.jpg"/><a href="../files/pdfs/Volume_31/31.4_dreaming_humanitys_path.pdf" download="">Download issue 31.4</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -1848,7 +1848,7 @@ ns1:bcphbzrw57c a ns1:Post ;
 
 ns1:bcphbzxidqa a ns1:Post ;
     ns1:coverImg "32.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2019-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2013-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/32.1-rect.jpg"/><a href="../files/pdfs/Volume_32/32.1_group_dreaming.pdf" download="">Download issue 32.1</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
@@ -2688,5 +2688,5 @@ ns1:bcphbq3xdnj a ns1:Page ;
     ns1:itemId "bcphbq3xdnj"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dream Network"^^xsd:string ;
-    ns1:profileImg "network-logo.png"^^xsd:string .
+    ns1:profileImg "logo-white.png"^^xsd:string .
 

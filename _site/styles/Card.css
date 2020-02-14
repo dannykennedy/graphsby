@@ -49,9 +49,6 @@
   width: 100%;
   font-family: "Open Sans", sans-serif;
   font-weight: 100;
-  animation-duration: 1s;
-  animation-name: slideLeft;
-  animation-fill-mode: forwards;
   margin-bottom: 15px;
   box-sizing: border-box;
   padding: var(--card-padding-size);
@@ -136,13 +133,7 @@
   color: inherit;
 }
 
-/*ANIMATIONS*/
 
-.slide-left {
-  animation-duration: var(--animation-interval);
-  animation-name: slideLeft;
-  animation-fill-mode: forwards;
-}
 
 .card-edit-area {
   display: none;
@@ -150,28 +141,6 @@
 
 .dropbtn {
   background-color: transparent;
-}
-
-@keyframes slideLeft {
-  from {
-    margin-left: -1%;
-  }
-  to {
-    margin-left: 0px;
-  }
-}
-/*DELETE CARD*/
-.animate-delete {
-  animation-duration: var(--animation-interval);
-  animation-name: animateDelete;
-  animation-fill-mode: forwards;
-}
-@keyframes animateDelete {
-  from {
-  }
-  to {
-    height: 0px;
-  }
 }
 
 /* IMAGES */

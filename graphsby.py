@@ -34,7 +34,7 @@ if build == "dev":
 	site_url =  "http://localhost:" + str(port) + build_folder
 	print("Running dev build on: ", end="")
 	print(site_url)
-else: 
+else:
 	print("Running prod build")
 
 # Template vars
@@ -278,7 +278,7 @@ for pyyam in file_objects:
 		if "handle" in pyyam.keys():
 			instances.append((newItem, handle, Literal(pyyam['handle'], datatype=xsdString)))
 
-	# Add URL slug, if item type is post. 
+	# Add URL slug, if item type is post.
 	if itemType == "post":
 		if "urlSlug" in pyyam.keys():
 			instances.append((newItem, urlSlug, Literal(pyyam['urlSlug'], datatype=xsdString)))
@@ -300,8 +300,8 @@ for pyyam in file_objects:
 		instances.append((newItem, coverImg, Literal(pyyam['coverImg'], datatype=xsdString)))
 
 # Add instances to the graph
-for triple in instances: 
-	graph.add(triple) 
+for triple in instances:
+	graph.add(triple)
 
 
 ###############################################
@@ -324,7 +324,7 @@ for pyyam in file_objects:
 					SELECT DISTINCT ?itemId
 				    WHERE {{
 				    	?item dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
-				    	?item dnj:itemId ?itemId			   	
+				    	?item dnj:itemId ?itemId
 				   	}}""".format(string_identifier=tag_value)
 
 			q = graph.query(query_string)
@@ -344,8 +344,8 @@ for pyyam in file_objects:
 					edges.append((dreamNS[curr_item], hasTag, dreamNS[tag_item]))
 
 # Add edges to the graph
-for triple in edges: 
-	graph.add(triple) 
+for triple in edges:
+	graph.add(triple)
 
 
 
@@ -380,7 +380,7 @@ for pyyam in file_objects:
 	query_string = """
 				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
 		   		SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated
-		   		WHERE {{ 
+		   		WHERE {{
 		   		?currentItem dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
 		   		?item dnj:hasTag|dnj:hasAuthor ?currentItem .
 		   		?item dnj:name ?name .
@@ -388,7 +388,7 @@ for pyyam in file_objects:
 		   		?item dnj:itemId ?itemId .
 				?item dnj:dateCreated ?dateCreated
 		   		}}
-				ORDER BY ASC(?dateCreated)""".format(string_identifier=item_string_identifier)
+				ORDER BY DESC(?dateCreated)""".format(string_identifier=item_string_identifier)
 
 	q = graph.query(query_string)
 
@@ -399,7 +399,7 @@ for pyyam in file_objects:
 		query_string = """
 			PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
 			SELECT DISTINCT ?littleTag ?tagName ?tagId ?textId ?tagType ?property ?image
-			WHERE {{ 
+			WHERE {{
 				?item dnj:itemId "{id}"^^xsd:string .
 				?item ?property ?littleTag .
 				?littleTag dnj:name ?tagName .
@@ -426,7 +426,7 @@ for pyyam in file_objects:
 			tagLink = ""
 			if tagType == "Page" or tagType == "User":
 				tagLink = "@" + textId
-			else: 
+			else:
 				tagLink = tagId + "/" + textId
 
 			cssTagClass = map_class_to_css_tag(tagType)
@@ -443,21 +443,21 @@ for pyyam in file_objects:
 			month_no = mydate.month
 			monthstring = calendar.month_name[month_no]
 			year = str(mydate.year)
-			date_string = monthstring  + " " + year 
+			date_string = monthstring  + " " + year
 
 		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors})
 
 
 	full_html = ""
-	# Layout 
+	# Layout
 	# Post is for individual posts, page is for pages with many posts
 
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
 			full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url)
-		else: 
+		else:
 			full_html = page_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url)
-	else: 
+	else:
 		full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url)
 
 	# Path to write to (Dependant on type of item)
@@ -515,5 +515,5 @@ print("\nDone")
 
 
 
-		
-		
+
+

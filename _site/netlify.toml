@@ -1,11 +1,11 @@
 [[redirects]]
   from = "/"
   to = "/@dreamnetwork"
-  status = 200
+  status = 301
   force = true
 
 [[redirects]]
   from = "/index.html"
   to = "/@dreamnetwork"
-  status = 200
+  status = 301
   force = true

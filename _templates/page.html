@@ -18,7 +18,7 @@
             alt="cover image"
         />
         </div>
-        
+
         {% endif %}
         <div id="page-description-area" class="card">
 
@@ -45,7 +45,7 @@
                 <div id="page-items">
                     {% if posts %} {% for post in posts %}
 
-                    <div id="{{post.itemId}}" class="card item-card">
+                    <div id="{{post.itemId}}" class="card item-card" onclick="window.location.href = '{{site_url + '/' + post.itemId}}'">
                         <div class="inner-card">
                             <div class="card-header">
                                 <div class="card-user-info">
@@ -54,12 +54,12 @@
                                             class="avatar-photo"
                                             style="background-color: rgb(246, 173, 97);"
                                         >
-                                        {% if post.authors %} 
+                                        {% if post.authors %}
                                         <a
                                         href="{{site_url + '/' + post.authors[0].tagLink}}"
                                         >
 
-                                        <img src="{{'../images/' + post.authors[0].profileImg}}" 
+                                        <img src="{{'../images/' + post.authors[0].profileImg}}"
                                             alt="{{post.authors[0].name}}"
                                             class="post-author-img">
                                         </a>
@@ -71,10 +71,10 @@
                                                 ></span>
                                             </div>
                                             {% endif %}
-                                        
+
                                             <span class="tooltiptext">
                                                 {% if post.authors %} {% for author in post.authors
-                                                    %}   
+                                                    %}
                                                     {{author.name}}
                                                     {% endfor %} {% endif %}
                                             </span>
@@ -83,9 +83,9 @@
                                     </div>
                                     <div class="card-header-text">
                                         <div class="card-author">
-                                            
+
                                                 {% if post.authors %} {% for author in post.authors
-                                                    %}   
+                                                    %}
                                                     <span>{{author.name}}</span>
 
                                                     {% endfor %} {% endif %}

@@ -47,6 +47,7 @@ for pub in special_publications:
     pyyaml['name'] = pub["title"]
     pyyaml['urlSlug'] = imgName
     pyyaml['tags'] = []
+    pyyaml['dateCreated'] = pub['dateCreated']
     pyyaml['profileImg'] = imgName + "-sml.jpg"
     pyyaml['tags'].append({"hasTag": "dreamnetwork"})
     pyyaml['tags'].append({"hasAuthor": pub["author"]})
@@ -56,6 +57,8 @@ for pub in special_publications:
     newfile.write("---\n")
     newfile.write(yaml.dump(pyyaml))
     newfile.write("---\n")
+    newfile.write('<img class="card-journal-img" src="../images/' +
+                  imgName + '-rect.jpg"/>')
     newfile.write('<a href="../files/pdfs/Volume_publications/' +
                   pdfName + '" download="">Download</a>')
     newfile.close()

@@ -10,11 +10,6 @@ date: 2015-03-24
 profileImg: janicebaylis.jpg
 ---
 
-.
-NEW Sept. 15, 2011. DREAM DYNAMICS and DECODING Personal, Practical, Powerful MessagesCreateSpace, 2011.
-Available at link[www.amazon.com/dp/1466219246[/url]
-New slants! The dynamics of Complexity Theory Science in dreams. These range from a single deterministic system to self organization. Also an analogy showing how dream-mind's thinking processes have a tree-like structure - roots to fruits.
-
 "Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." Stanley Krippner, PhD. Professor of Psychology, Saybrook University
 
 How I, Janice Baylis, got interested in dreams: In 1959 a fellow teacher had major surgery. We set up a car pool where I picked her up in a strip mall parking lot and drove the 30 miles to our school.  One morning Mabel phoned and asked me to meet her around the corner on the residential street.  She said she didn't like her car taking up space in the store lot all day. 

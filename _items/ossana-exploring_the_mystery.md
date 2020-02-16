@@ -136,7 +136,7 @@ I'd like to close by reading and sharing some of what I've learned over this pas
 
 **Exploring the Mystery of Dreams**
 
-*Together we have learned that dreams constitute a field of
+Together we have learned that dreams constitute a field of
 meaning and purpose as vast and complex as our knowledge
 of the known universe. 
 We know that, although we're just becoming reacquainted,
@@ -147,9 +147,9 @@ for doing the work we share today.
 Like mercury, the field of dreams is elusive,
 a mystery, expansive, ever evading definition,
 description, categorization,
-and forever earning our respect.*
+and forever earning our respect.
 
-*I believe we all agree that dreams are meaningful and purposeful.
+I believe we all agree that dreams are meaningful and purposeful.
 We know that we all dream every night,
 in fact many dreams each night.
 Not all of our dreams are recalled,
@@ -182,4 +182,4 @@ creating art and sculpture.
 Dreams prophesize.
 Dreams are spirits' way of speaking to us.
 Dreams heal.
-In one word, dreams Reveal.*
+In one word, dreams Reveal.

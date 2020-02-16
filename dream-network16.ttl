@@ -2648,9 +2648,11 @@ ns1:bcphbq3xdnj a ns1:Page ;
 
 <p>Cover image: <em>'Luna Lights' (detail)</em>, by <a href="../@brendaferrimani">Brenda Ferrimani</a></p>
 
-<div style="text-align:center;font-style:italic;">
+<div style="text-align:center;font-style:italic; margin-bottom: 30px">
 
-<a href="https://twitter.com/EastWest_Works">Inoshi</a>, <a href="https://twitter.com/kannydennedy">Dan</a> and <a href="../@robertaossana">Roberta</a>
+<a href="../@robertaossana">Roberta</a>,
+
+<a href="https://twitter.com/EastWest_Works">Inoshi</a> and <a href="https://twitter.com/kannydennedy">Dan</a>
 
 </div>
 

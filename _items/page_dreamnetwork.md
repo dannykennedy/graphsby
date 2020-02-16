@@ -19,8 +19,9 @@ Feel free to send the PDFs to your friends, but rather than publishing them onli
 
 Cover image: *'Luna Lights' (detail)*, by [Brenda Ferrimani](../@brendaferrimani)
 
-<div style="text-align:center;font-style:italic;">
-<a href="https://twitter.com/EastWest_Works">Inoshi</a>, <a href="https://twitter.com/kannydennedy">Dan</a> and <a href="../@robertaossana">Roberta</a>
+<div style="text-align:center;font-style:italic; margin-bottom: 30px">
+<a href="../@robertaossana">Roberta</a>,
+<a href="https://twitter.com/EastWest_Works">Inoshi</a> and <a href="https://twitter.com/kannydennedy">Dan</a>
 </div>
 
 

@@ -1,46 +1,100 @@
 {% extends "base.html" %} {% block body_contents %}
+
 <div id="post">
-    <div id="post-card">
-        <div id="1228895055464076" class="item-card">
-            <div class="inner-card">
-                <div class="card-header">
-                    <div class="card-user-info">
-                        <div class="card-avatar tooltip">
-                            <div class="avatar-photo" style="background-color: rgb(161, 145, 203);"><span class="tooltiptext">Daniel Kennedy</span>
-                                <div class="avatar-text"><span aria-hidden="true" class="fa fa-file"></span></div>
+
+    <div id="{{render_item.itemId}}" class="card item-card" onclick="window.location.href = '{{site_url + '/' + render_item.itemId}}'">
+        <div class="inner-card">
+            <div class="card-header">
+                <div class="card-user-info">
+                    <div class="card-avatar tooltip">
+                        <div
+                            class="avatar-photo"
+                            style="background-color: rgb(246, 173, 97);"
+                        >
+                        {% if render_item.authors %}
+                        <a
+                        href="{{site_url + '/' + render_item.authors[0].tagLink}}"
+                        >
+
+                        <img src="{{'../images/' + render_item.authors[0].profileImg}}"
+                            alt="{{render_item.authors[0].name}}"
+                            class="post-author-img">
+                        </a>
+                        {% else %}
+                            <div class="avatar-text">
+                                <span
+                                    aria-hidden="true"
+                                    class="fa fa-user"
+                                ></span>
                             </div>
-                        </div>
-                        <div class="card-header-text">
-                            <div class="card-author"><span>Daniel Kennedy</span></div>
-                            <div class="card-date"> Jan 26, 2020</div>
+                            {% endif %}
+
+                            <span class="tooltiptext">
+                                {% if render_item.authors %} {% for author in render_item.authors
+                                    %}
+                                    {{author.name}}
+                                    {% endfor %} {% endif %}
+                            </span>
+
                         </div>
                     </div>
-                    <div class="card-options dropdown">
-                        <div class="dropdown">
+                    <div class="card-header-text">
+                        <div class="card-author">
+
+                                {% if render_item.authors %} {% for author in render_item.authors
+                                    %}
+                                    <span>{{author.name}}</span>
+
+                                    {% endfor %} {% endif %}
+                        </div>
+                        <div class="card-date">
+                            {% if render_item.dateCreated %}
+                            {{render_item.dateCreated}}
+                            {% endif %}
                         </div>
                     </div>
                 </div>
-                <div class="card-body">
-                    <div class="card-body-text">
-                        <p>{{description}}</p>
-                    </div>
+                <div class="card-options dropdown">
+                    <div class="dropdown"></div>
                 </div>
-                <div class="card-footer">
-                    <div class="tags-area">
-                        <div class="tag OTHER" id="1228896226959920">
-                            <div class="tag-wrapper">
-                                <div class="tag-text"><span class="tag-name">something</span></div>
-                            </div>
-                        </div>
-                        <div class="tag OTHER" id="1228897996695413">
-                            <div class="tag-wrapper">
-                                <div class="tag-text"><span class="tag-description" style="border: 1px solid rgb(82, 151, 242);">Custom slug</span><span class="tag-name"></span></div>
+            </div>
+            <div class="card-body">
+                <h3 class="card-title">
+                    <a href="{{site_url + '/' + render_item.itemId}}"
+                        >{{render_item.name}}</a
+                    >
+                </h3>
+                <div class="card-body-text">
+                    <p>{% if render_item.description %}
+                        {{render_item.description}}
+                        {% endif %}
+                    </p>
+                </div>
+            </div>
+            <div class="card-footer">
+                <div class="tags-area">
+                    {% if render_item.tags %} {% for tag in render_item.tags
+                    %}
+                    {% if tag.tagLink %}
+                    <div class="tag {{tag.tagClass}}">
+                        <div class="tag-wrapper">
+                            <div class="tag-text">
+                                <span class="tag-name"
+                                    ><a
+                                        href="{{site_url + '/' + tag.tagLink}}"
+                                        >{{tag.name}}</a
+                                    ></span
+                                >
                             </div>
                         </div>
                     </div>
+                    {% endif %}
+                    {% endfor %} {% endif %}
                 </div>
             </div>
         </div>
     </div>
+
 </div>
+
 {% endblock %}

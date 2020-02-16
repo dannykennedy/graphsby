@@ -447,7 +447,7 @@ for pyyam in file_objects:
 			date_string = monthstring  + " " + year
 
 		post_description = row[2]
-		truncated_desc = truncate_html(post_description, 100, end="...", break_words=True)
+		truncated_desc = truncate_html(post_description, 250, end="...", break_words=True)
 
 		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors})
 

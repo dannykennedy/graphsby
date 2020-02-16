@@ -12,4 +12,4 @@ tags:
 type: post
 urlSlug: the-art-of-dream-sharing
 ---
-<img class="card-journal-img" src="../images/the-art-of-dream-sharing-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf" download="">Download</a>
+<img class="card-journal-img" src="../images/the-art-of-dream-sharing-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf" download="">Download</a><br><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf">View online</a>

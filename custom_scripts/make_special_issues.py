@@ -62,4 +62,6 @@ for pub in special_publications:
                   imgName + '-rect.jpg"/>')
     newfile.write('<a href="../files/pdfs/Volume_publications/' +
                   pdfName + '" download="">Download</a>')
+    newfile.write('<br><a href="../files/pdfs/Volume_publications/' +
+                  pdfName + '">View online</a>')
     newfile.close()

@@ -12,4 +12,4 @@ tags:
 type: post
 urlSlug: coat-of-many-colors
 ---
-<img class="card-journal-img" src="../images/coat-of-many-colors-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a>
+<img class="card-journal-img" src="../images/coat-of-many-colors-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a><br><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a>

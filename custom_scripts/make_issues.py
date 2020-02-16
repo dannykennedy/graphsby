@@ -73,4 +73,6 @@ for issue in issues:
                   imgName + '-rect.jpg"/>')
     newfile.write('<a href="../files/pdfs/Volume_' + volume_number_str +
                   '/' + pdfName + '" download="">Download issue ' + imgName + '</a>')
+    newfile.write('<br><a href="../files/pdfs/Volume_' + volume_number_str +
+                  '/' + pdfName + '">View online</a>')
     newfile.close()

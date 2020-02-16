@@ -17,9 +17,12 @@ Feel free to send the PDFs to your friends, but rather than publishing them onli
 
 **Thank you** to everyone who donated to this campaign. We'd like to personally thank [Kelly Bulkeley](https://kellybulkeley.org/about-kelly-bulkeley), whose donation really made this campaign possible, and all the 'super supporters' of the campaign: [Luigi Sciambarella](https://www.monroeinstitute.org/Luigi-Sciambarella), Evelyn Duesbury, <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as <a href="https://arthurstrock.com/about-arthur/">Arthur Strock</a>, <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, Rosemary Watts-Dreyer, Patti Allen and Mary Bronk. For their donations as well as providing providing their personal copies of publications for scanning, special thanks to [Dick McLeester](../@dickmcleester) and <a href="https://www.dreamtimesguide.com/about-marlene-king/">Marlene King</a>.
 
-<a href="https://twitter.com/EastWest_Works">Inoshi</a>, <a href="https://twitter.com/kannydennedy">Dan</a> and <a href="../@robertaossana">Roberta</a>
-
 Cover image: *'Luna Lights' (detail)*, by [Brenda Ferrimani](../@brendaferrimani)
+
+<div style="text-align:center;font-style:italic;">
+<a href="https://twitter.com/EastWest_Works">Inoshi</a>, <a href="https://twitter.com/kannydennedy">Dan</a> and <a href="../@robertaossana">Roberta</a>
+</div>
+
 
 <hr>
 

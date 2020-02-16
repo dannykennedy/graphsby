@@ -12,4 +12,4 @@ tags:
 type: post
 urlSlug: relationship-dreams
 ---
-<img class="card-journal-img" src="../images/relationship-dreams-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a>
+<img class="card-journal-img" src="../images/relationship-dreams-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a><br><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf">View online</a>

@@ -2620,6 +2620,14 @@ ns1:bcphbq3xdnj a ns1:Page ;
 
 <div class="sidebar-link">
 
+<a href="https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing">List of articles (Google sheet)</a></p>
+
+</div>
+
+<hr>
+
+<div class="sidebar-link">
+
 <a href="../@robertaossana">Meet the editor</a></p>
 
 </div>

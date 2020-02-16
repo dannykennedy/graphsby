@@ -3,6 +3,7 @@
 <div id="page">
     <div id="page-description">
         {% if render_item.coverImg %}
+
         <div class="cover-image-container">
             <img
             class="cover-image"
@@ -12,11 +13,13 @@
         </div>
         {% else %}
         <div class="cover-image-container">
+            <a href="../@brendaferrimani">
             <img
             class="cover-image"
             src="{{'../images/' + 'banner.jpg'}}"
             alt="cover image"
         />
+        </a>
         </div>
 
         {% endif %}

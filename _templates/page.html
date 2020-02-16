@@ -108,7 +108,10 @@
                                     >
                                 </h3>
                                 <div class="card-body-text">
-                                    <p>{{post.description}}</p>
+                                    <p>{% if post.description %}
+                                        {{post.description}}
+                                        {% endif %}
+                                    </p>
                                 </div>
                             </div>
                             <div class="card-footer">

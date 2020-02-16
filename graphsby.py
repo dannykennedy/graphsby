@@ -5,10 +5,11 @@
 #########
 
 # Libraries
-import os, sys, jinja2, calendar
+import os, sys, jinja2, calendar, html5lib
 import dateutil.parser # For converting xsd:datetime to something sensible
 from rdflib import Namespace, Literal, ConjunctiveGraph
 from pathlib import Path
+from html5lib_truncation import truncate_html
 
 # Custom functions in ./modules
 sys.path.insert(1, './modules')
@@ -445,7 +446,10 @@ for pyyam in file_objects:
 			year = str(mydate.year)
 			date_string = monthstring  + " " + year
 
-		tagged_items.append({"name": row[1], "description":row[2], "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors})
+		post_description = row[2]
+		truncated_desc = truncate_html(post_description, 100, end="...", break_words=True)
+
+		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors})
 
 
 	full_html = ""

@@ -910,6 +910,41 @@ ns1:bcphbpumr2x a ns1:Post ;
     ns1:name "Volume 11, issue 2: Men's Dreams"^^xsd:string ;
     ns1:urlSlug "11.2"^^xsd:string .
 
+ns1:bcphbq3ossa a ns1:User ;
+    ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
+
+<p>The event that marked my starting point appeared in the form of a technicolor, stereophonic sound, full length movie-like dream which was the first of its kind in my experience. Its power and beauty were such that I recorded it, not knowing why at the time.</p>
+
+<p>Many other dreams followed, compelling enough that I started journaling regularly and began reading what related literature I could find. But it wasn't until that particular dream took the form of an actual event several years later that I got deeply involved.</p>
+
+<p>This dream occurred during summer 1975 and in it,</p>
+
+<p><strong>I find myself in a community center (which inwaking life housed the office in which I was working). In every room of this building are people participating in an amazing variety of artistic activities: dancers, singers, musicians, artists...</strong></p>
+
+<p>The energy in the dream and afterward was exhilarating!</p>
+
+<p>In the Autumn of l980, the mayor of my community, in his weekly column in the local newspaper, cast an open invitation for "someone" in the community to coordinate an event. I considered accepting that invitation by calling together a group of colleagues to brainstorm ideas and as that process was unfolding, ideas and images were being put forth from members of the group which formed in my mind's eye a clear memory of the above-mentioned dream. To the group I exclaimed "My God, this reminds me of a dream I had five years ago!" One person responded immediately: "Then we've got to do it!"</p>
+
+<p>The program was scheduled, very well attended... and I found myself presiding over a virtual re-enactment of the dream in full detail. It was the ever-sought-after experience of Being at the intersection between the dreamworld and daytime 'reality.' The occasion for this event was the 35th anniversary of the United Nations.</p>
+
+<p>By the way, the photo (above) was taken during that event:</p>
+
+<p>A Dream Come True! Can you tell?</p>
+
+<p><strong>"To live mythically is to seek guidance from your dreams, imagination, and other reflections of your inner being, as well as from the most inspiring people, practices, and institutions of your society.</strong></p>
+
+<p><strong>To live mythically is also to cultivate an ever-deepening relationship with the universe and its great mysteries."</strong></p>
+
+<p>David Feinstein &amp; Stanley Krippner, Personal Mythology</p>
+
+<p>(Jeremy Tarcher, LA CA 1988 ) p. 1</p>
+"""^^xsd:string ;
+    ns1:handle "robertaossana"^^xsd:string ;
+    ns1:itemId "bcphbq3ossa"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Roberta Ossana"^^xsd:string ;
+    ns1:profileImg "roberta_ossana.png"^^xsd:string .
+
 ns1:bcphbq3xymn a ns1:Post ;
     ns1:coverImg "13.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1994-07-01T11:32:52"^^xsd:dateTime ;
@@ -2336,7 +2371,7 @@ ns1:Post a <http://www.w3.org/2002/07/owl#Class> ;
 
 ns1:bcphbq3xdnj a ns1:Page ;
     ns1:coverImg "banner.jpg"^^xsd:string ;
-    ns1:description """<p>As thanks for your very generous donation, here's something special. As promised, scans of the entire 1982-2015 Dream Network archive! What a treasure trove this is. It's almost an embarrassment of riches, and we hope you enjoy perusing these for years to come.</p>
+    ns1:description """<p>As thanks for your very generous donation, here's something special. As promised, scans of the entire 1982-2015 Dream Network archive!</p>
 
 <p>Below, you can download each volume as a .zip file, or download each issue individually from the list of images. If you'd like to look up an individual author or article, here's a (not-quite-complete) <a href="https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing">list of Dream Network articles</a></p>
 

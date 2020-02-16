@@ -10,7 +10,7 @@ profileImg: dnj-text.jpg
 coverImg: banner.jpg
 ---
 
-As thanks for your very generous donation, here's something special. As promised, scans of the entire 1982-2015 Dream Network archive! What a treasure trove this is. It's almost an embarrassment of riches, and we hope you enjoy perusing these for years to come.
+As thanks for your very generous donation, here's something special. As promised, scans of the entire 1982-2015 Dream Network archive!
 
 Below, you can download each volume as a .zip file, or download each issue individually from the list of images. If you'd like to look up an individual author or article, here's a (not-quite-complete) [list of Dream Network articles](https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing)
 

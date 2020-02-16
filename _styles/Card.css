@@ -52,6 +52,7 @@
   box-sizing: border-box;
   padding: var(--card-padding-size);
   cursor: pointer;
+  height: fit-content;
 }
 
 .item-card:hover {

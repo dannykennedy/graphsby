@@ -1,5 +1,6 @@
 ---
 profileImg: welcome-to-the-magic-theater-sml.jpg
+dateCreated: '1977-06-01T11:32:52'
 itemId: bcpov6wbyg5
 layout: page
 name: 'Welcome to the Magic Theater: A Handbook for Exploring Dreams by Dick McLeester'

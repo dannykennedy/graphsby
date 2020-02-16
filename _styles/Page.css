@@ -131,3 +131,7 @@
   color: #fefefe;
   text-decoration: none;
 }
+
+.sidebar-link {
+    text-align: center;
+}

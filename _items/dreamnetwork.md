@@ -20,9 +20,27 @@ Feel free to send the PDFs to your friends, but rather than publishing them onli
 
 <a href="https://twitter.com/EastWest_Works">Inoshi</a>, <a href="https://twitter.com/kannydennedy">Dan</a> and <a href="../@robertaossana">Roberta</a>
 
-<a href="https://chuffed.org/project/dream-network-journal">Visit the campaign page</a></p>
+<hr>
 
-[Old DNJ site](https://web.archive.org/web/20060424062349/http://dreamnetwork.net/)
+<div class="sidebar-link">
+<a href="../@robertaossana">Meet the editor</a></p>
+</div>
+
+<hr>
+
+<div class="sidebar-link">
+<a href="https://chuffed.org/project/dream-network-journal">Visit the campaign page</a></p>
+</div>
+
+<hr>
+
+<div class="sidebar-link">
+<a href="https://web.archive.org/web/20060424062349/http://dreamnetwork.net/">Old DNJ site</a></p>
+</div>
+
+<hr>
+
+###Zip files
 
 <div class="scans">
     <div class="container">

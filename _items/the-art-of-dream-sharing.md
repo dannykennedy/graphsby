@@ -8,6 +8,7 @@ tags:
 - hasTag: dreamnetwork
 - hasAuthor: janicebaylis
 - hasTag: janicebaylis
+- hasTag: special-publications
 type: post
 urlSlug: the-art-of-dream-sharing
 ---

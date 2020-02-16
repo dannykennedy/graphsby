@@ -8,6 +8,7 @@ tags:
 - hasTag: dreamnetwork
 - hasAuthor: dickmcleester
 - hasTag: dickmcleester
+- hasTag: special-publications
 type: post
 urlSlug: welcome-to-the-magic-theater
 ---

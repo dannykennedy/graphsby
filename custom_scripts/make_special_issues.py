@@ -52,6 +52,7 @@ for pub in special_publications:
     pyyaml['tags'].append({"hasTag": "dreamnetwork"})
     pyyaml['tags'].append({"hasAuthor": pub["author"]})
     pyyaml['tags'].append({"hasTag": pub["author"]})
+    pyyaml['tags'].append({"hasTag": "special-publications"})
 
     newfile = open(filepath, "w")
     newfile.write("---\n")

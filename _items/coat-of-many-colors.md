@@ -8,6 +8,7 @@ tags:
 - hasTag: dreamnetwork
 - hasAuthor: dreamnetwork
 - hasTag: dreamnetwork
+- hasTag: special-publications
 type: post
 urlSlug: coat-of-many-colors
 ---

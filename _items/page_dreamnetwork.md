@@ -36,6 +36,12 @@ Cover image: *'Luna Lights' (detail)*, by [Brenda Ferrimani](../@brendaferrimani
 <hr>
 
 <div class="sidebar-link">
+<a href="../bcpov6pspec/special-publications">Special publications</a></p>
+</div>
+
+<hr>
+
+<div class="sidebar-link">
 <a href="https://chuffed.org/project/dream-network-journal">Visit the campaign page</a></p>
 </div>
 

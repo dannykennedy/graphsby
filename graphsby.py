@@ -456,6 +456,51 @@ for pyyam in file_objects:
 	# Layout
 	# Post is for individual posts, page is for pages with many posts
 
+	# Get things that item is tagged with
+	query_string = """
+			PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+			SELECT DISTINCT ?littleTag ?tagName ?tagId ?textId ?tagType ?property ?image
+			WHERE {{
+				?item dnj:itemId "{id}"^^xsd:string .
+				?item ?property ?littleTag .
+				?littleTag dnj:name ?tagName .
+				?littleTag dnj:itemId ?tagId .
+				?littleTag dnj:handle|dnj:urlSlug ?textId .
+				?littleTag a ?tagType .
+				?littleTag dnj:profileImg ?image
+			}}""".format(id=pyyam["itemId"])
+	tag_query = graph.query(query_string)
+
+	# Create a tags array (for info about the post)
+	little_tags = []
+	authors = []
+	for lil_tag in tag_query:
+
+		# Break down query object
+		tagName = lil_tag[1]
+		tagId = lil_tag[2]
+		textId = lil_tag[3]
+		tagType = lil_tag[4].split("#")[1]
+		relation = lil_tag[5].split("#")[1]
+		image = lil_tag[6]
+
+		tagLink = ""
+		if tagType == "Page" or tagType == "User":
+			tagLink = "@" + textId
+		else:
+			tagLink = tagId + "/" + textId
+
+		cssTagClass = map_class_to_css_tag(tagType)
+
+		if relation == "hasTag":
+			little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
+		elif relation == "hasAuthor":
+			author = {"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image}
+			authors.append(author)
+
+	pyyam["authors"] = authors
+	pyyam["tags"] = little_tags
+
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
 			full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url)

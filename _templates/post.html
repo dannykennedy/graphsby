@@ -48,8 +48,8 @@
                                     {% endfor %} {% endif %}
                         </div>
                         <div class="card-date">
-                            {% if render_item.dateCreated %}
-                            {{render_item.dateCreated}}
+                            {% if render_item.dateString %}
+                            {{render_item.dateString}}
                             {% endif %}
                         </div>
                     </div>
@@ -59,11 +59,11 @@
                 </div>
             </div>
             <div class="card-body">
-                <h3 class="card-title">
+                <h1 class="card-title">
                     <a href="{{site_url + '/' + render_item.itemId}}"
                         >{{render_item.name}}</a
                     >
-                </h3>
+                </h1>
                 <div class="card-body-text">
                     <p>{% if render_item.description %}
                         {{render_item.description}}

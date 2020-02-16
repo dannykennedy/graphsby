@@ -14,6 +14,7 @@ from html5lib_truncation import truncate_html
 # Custom functions in ./modules
 sys.path.insert(1, './modules')
 from copytree import copytree
+from formatDate import formatDate
 from get_yaml_var import get_yaml_var
 from load_file_to_object import load_file_to_object
 from map_class_to_css_tag import map_class_to_css_tag
@@ -46,7 +47,7 @@ POST_TEMPLATE_FILE = "post.html"
 PAGE_TEMPLATE_FILE = "page.html"
 post_template = templateEnv.get_template(POST_TEMPLATE_FILE)
 page_template = templateEnv.get_template(PAGE_TEMPLATE_FILE)
-
+POST_SNIPPET_LENGTH = 250
 
 # Startup messages
 print("### Generating site ###")
@@ -440,14 +441,10 @@ for pyyam in file_objects:
 		dateOfPost = row[4]
 		date_string = ""
 		if dateOfPost:
-			mydate = dateutil.parser.parse(dateOfPost)
-			month_no = mydate.month
-			monthstring = calendar.month_name[month_no]
-			year = str(mydate.year)
-			date_string = monthstring  + " " + year
+			date_string = formatDate(dateOfPost, "month")
 
 		post_description = row[2]
-		truncated_desc = truncate_html(post_description, 250, end="...", break_words=True)
+		truncated_desc = truncate_html(post_description, POST_SNIPPET_LENGTH, end="...", break_words=True)
 
 		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors})
 
@@ -500,6 +497,11 @@ for pyyam in file_objects:
 
 	pyyam["authors"] = authors
 	pyyam["tags"] = little_tags
+
+	if "dateCreated" in pyyam.keys():
+		dateOfPost = pyyam["dateCreated"]
+		pyyam["dateString"] = formatDate(dateOfPost, "month")
+
 
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":

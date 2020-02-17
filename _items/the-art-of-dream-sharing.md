@@ -6,8 +6,8 @@ name: The Art of Dream Sharing and Developing Dream Groups
 profileImg: the-art-of-dream-sharing-sml.jpg
 tags:
 - hasTag: dreamnetwork
-- hasAuthor: janicebaylis
-- hasTag: janicebaylis
+- hasAuthor: dreamnetwork
+- hasTag: dreamnetwork
 - hasTag: special-publications
 type: post
 urlSlug: the-art-of-dream-sharing

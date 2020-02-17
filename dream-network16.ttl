@@ -1894,9 +1894,8 @@ ns1:bcpov6tqqf6 a ns1:Post ;
     ns1:dateCreated "1993-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/the-art-of-dream-sharing-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf" download="">Download</a><br><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf">View online</a></p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3bayl ;
-    ns1:hasTag ns1:bcphbq3bayl,
-        ns1:bcphbq3xdnj,
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
         ns1:bcpov6pspec ;
     ns1:itemId "bcpov6tqqf6"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
@@ -2217,6 +2216,27 @@ ns1:Page a <http://www.w3.org/2002/07/owl#Class> ;
 ns1:Person a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
 
+ns1:bcphbq3bayl a ns1:User ;
+    ns1:description """<p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." Stanley Krippner, PhD. Professor of Psychology, Saybrook University</p>
+
+<p>How I, Janice Baylis, got interested in dreams: In 1959 a fellow teacher had major surgery. We set up a car pool where I picked her up in a strip mall parking lot and drove the 30 miles to our school.  One morning Mabel phoned and asked me to meet her around the corner on the residential street.  She said she didn't like her car taking up space in the store lot all day. </p>
+
+<p>I said, "Okay."</p>
+
+<p>As Mabel was getting into my car that morning, we heard an enormous CRASH!  A small airplane had landed upside down in the corner of the parking lot where we would have been.  Then she told me she had dreamed it during the night. "WOW!" exclaimed my eight year old son, Brad, from the backseat.</p>
+
+<p>That launched me on a life-long, self-directed and academic study of dreams. From the first, the practical side of dreaming has been my focus.  The Edgar Cayce dream material was the first I found to study.  He also emphasized the practical aspects--health, finances, job, creativity, and interpersonal, as well as the personality growth and spiritual aspects.</p>
+
+<p>With my BA degree in Education and a MA degree in Psychology, I got a credential/license to teach dream-study at the community college level.  I taught 36 hour, semester, night classes and weekend workshops.  My students urged me to write a book, so I wrote Sleep On It! The Practical Side of Dreaming in 1977. </p>
+
+<p>In my teaching I found many dreams use overt sexual imagery and that people were confused by the symbolism of sexual images.  I made this a secondary focus of my dream work.</p>
+"""^^xsd:string ;
+    ns1:handle "janicebaylis"^^xsd:string ;
+    ns1:itemId "bcphbq3bayl"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Janice Baylis"^^xsd:string ;
+    ns1:profileImg "janicebaylis.jpg"^^xsd:string .
+
 ns1:bcphbq3mcle a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.changingworld.com/about-us">changingworld.com</a></p>
 
@@ -2390,27 +2410,6 @@ ns1:Actor a <http://www.w3.org/2002/07/owl#Class> ;
 
 ns1:User rdfs:subClassOf ns1:Actor,
         ns1:Person .
-
-ns1:bcphbq3bayl a ns1:User ;
-    ns1:description """<p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." Stanley Krippner, PhD. Professor of Psychology, Saybrook University</p>
-
-<p>How I, Janice Baylis, got interested in dreams: In 1959 a fellow teacher had major surgery. We set up a car pool where I picked her up in a strip mall parking lot and drove the 30 miles to our school.  One morning Mabel phoned and asked me to meet her around the corner on the residential street.  She said she didn't like her car taking up space in the store lot all day. </p>
-
-<p>I said, "Okay."</p>
-
-<p>As Mabel was getting into my car that morning, we heard an enormous CRASH!  A small airplane had landed upside down in the corner of the parking lot where we would have been.  Then she told me she had dreamed it during the night. "WOW!" exclaimed my eight year old son, Brad, from the backseat.</p>
-
-<p>That launched me on a life-long, self-directed and academic study of dreams. From the first, the practical side of dreaming has been my focus.  The Edgar Cayce dream material was the first I found to study.  He also emphasized the practical aspects--health, finances, job, creativity, and interpersonal, as well as the personality growth and spiritual aspects.</p>
-
-<p>With my BA degree in Education and a MA degree in Psychology, I got a credential/license to teach dream-study at the community college level.  I taught 36 hour, semester, night classes and weekend workshops.  My students urged me to write a book, so I wrote Sleep On It! The Practical Side of Dreaming in 1977. </p>
-
-<p>In my teaching I found many dreams use overt sexual imagery and that people were confused by the symbolism of sexual images.  I made this a secondary focus of my dream work.</p>
-"""^^xsd:string ;
-    ns1:handle "janicebaylis"^^xsd:string ;
-    ns1:itemId "bcphbq3bayl"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Janice Baylis"^^xsd:string ;
-    ns1:profileImg "janicebaylis.jpg"^^xsd:string .
 
 ns1:bcpov6pspec a ns1:Post ;
     ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
@@ -2644,7 +2643,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
 
 <p>Feel free to send the PDFs to your friends, but rather than publishing them online please just link to the archive site once it's public. We also ask you not to publish the articles in the journals, unless you have the permission of the author (or you are the author, in which case, the rights are yours!)</p>
 
-<p><strong>Thank you</strong> to everyone who donated to this campaign. We'd like to personally thank <a href="https://kellybulkeley.org/about-kelly-bulkeley">Kelly Bulkeley</a>, whose donation really made this campaign possible, and all the 'super supporters' of the campaign: <a href="https://www.monroeinstitute.org/Luigi-Sciambarella">Luigi Sciambarella</a>, Evelyn Duesbury, <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as <a href="https://arthurstrock.com/about-arthur/">Arthur Strock</a>, <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, Rosemary Watts-Dreyer, Patti Allen and Mary Bronk. For their donations as well as providing providing their personal copies of publications for scanning, special thanks to <a href="../@dickmcleester">Dick McLeester</a> and <a href="https://www.dreamtimesguide.com/about-marlene-king/">Marlene King</a>.</p>
+<p><strong>Thank you</strong> to everyone who donated to this campaign. We'd like to personally thank <a href="https://kellybulkeley.org/about-kelly-bulkeley">Kelly Bulkeley</a>, whose donation really made this campaign possible, and all the 'super supporters' of the campaign: <a href="https://www.monroeinstitute.org/pages/trainer-luigi-sciambarella">Luigi Sciambarella</a>, Evelyn Duesbury, <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as <a href="https://arthurstrock.com/about-arthur/">Arthur Strock</a>, <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, Rosemary Watts-Dreyer, Patti Allen and Mary Bronk. For their donations as well as providing providing their personal copies of publications for scanning, special thanks to <a href="../@dickmcleester">Dick McLeester</a> and <a href="https://www.dreamtimesguide.com/about-marlene-king/">Marlene King</a>.</p>
 
 <p>Cover image: <em>'Luna Lights' (detail)</em>, by <a href="../@brendaferrimani">Brenda Ferrimani</a></p>
 
@@ -2652,7 +2651,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
 
 <a href="../@robertaossana">Roberta</a>,
 
-<a href="https://twitter.com/EastWest_Works">Inoshi</a> and <a href="https://twitter.com/kannydennedy">Dan</a>
+<a href="http://eastwest.works/Inoshi.html">Inoshi</a> and <a href="https://twitter.com/kannydennedy">Dan</a>
 
 </div>
 

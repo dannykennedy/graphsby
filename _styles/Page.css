@@ -39,7 +39,7 @@
   column-gap: 15px;
 }
 #profile-image {
-  height: 200px;
+  height: 170px;
 }
 .profile-image-page {
   border-radius: 50%;
@@ -49,8 +49,8 @@
 }
 #profile-image-backing {
   position: absolute;
-  top: -100px;
-  left: calc(50% - 100px);
+  top: -85px;
+  left: calc(50% - 85px);
   margin-left: auto;
   margin-right: auto;
   padding: 5px;

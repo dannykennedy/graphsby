@@ -10,7 +10,7 @@ special_publications = [
         "imgName": "the-art-of-dream-sharing",
         "pdfName": "publications.the-art-of-dream-sharing.pdf",
         "title": "The Art of Dream Sharing and Developing Dream Groups",
-        "author": "janicebaylis",
+        "author": "dreamnetwork",
         "dateCreated": '1993-01-01T11:32:52'
     },
     {

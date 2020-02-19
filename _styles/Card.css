@@ -51,9 +51,7 @@
 }
 
 .card-header {
-  display: grid;
   height: 40px;
-  grid-template-columns: 1fr 20px;
 }
 .card-user-info {
   display: grid;
@@ -86,6 +84,8 @@
   height: 40px;
   padding-left: 20px;
   grid-template-rows: 50% 50%;
+  display: inline-block;
+  max-width: 300px;
 }
 
 .post-author-img {
@@ -98,7 +98,7 @@
 .avatar-photo {
   height: 100%;
   width: 100%;
-  display: grid;
+  display: inline-block;
   align-content: center;
   justify-content: center;
   cursor: pointer;

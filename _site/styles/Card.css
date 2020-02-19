@@ -1,21 +1,13 @@
-/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
-
 /* CARD THINGS */
 
 .inner-card {
-  display: -ms-grid;
   display: grid;
-  -ms-grid-rows: 40px 1fr auto;
   grid-template-rows: 40px 1fr auto;
-  -webkit-transition: 0.2s;
-  -o-transition: 0.2s;
   transition: 0.2s;
   height: 100%;
   width: 100%;
-  -ms-grid-row-align: center;
-      align-self: center;
-  -ms-grid-column-align: center;
-      justify-self: center;
+  align-self: center;
+  justify-self: center;
 }
 
 .card-body blockquote {
@@ -34,51 +26,38 @@
 
 .card {
   border: 1px solid rgba(0, 0, 0, 0.1);
-  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
-          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
   background-color: white;
 }
 
 .item-card {
   border-radius: 5px;
   position: relative;
-  display: -ms-grid;
   display: grid;
-  -ms-flex-line-pack: center;
-      align-content: center;
-  -webkit-transition: 0.2s;
-  -o-transition: 0.2s;
+  align-content: center;
   transition: 0.2s;
   width: 100%;
   font-family: "Open Sans", sans-serif;
   font-weight: 100;
   margin-bottom: 15px;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 12px;
   cursor: pointer;
-  height: -webkit-fit-content;
-  height: -moz-fit-content;
   height: fit-content;
 }
 
 .item-card:hover {
-  -webkit-box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
-          box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
 }
 
 .card-header {
-  display: -ms-grid;
   display: grid;
   height: 40px;
-  -ms-grid-columns: 1fr 20px;
   grid-template-columns: 1fr 20px;
 }
 .card-user-info {
-  display: -ms-grid;
   display: grid;
   height: inherit;
-  -ms-grid-columns: 40px 1fr;
   grid-template-columns: 40px 1fr;
 }
 .card-body {
@@ -94,14 +73,9 @@
   /*    background-color: rgba(0,0,0,.03);*/
 }
 .card-options {
-  display: -ms-grid;
   display: grid;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  align-items: center;
+  justify-content: center;
   height: 40px;
   width: 20px;
 }
@@ -111,7 +85,6 @@
 .card-header-text {
   height: 40px;
   padding-left: 20px;
-  -ms-grid-rows: 50% 50%;
   grid-template-rows: 50% 50%;
 }
 
@@ -125,13 +98,9 @@
 .avatar-photo {
   height: 100%;
   width: 100%;
-  display: -ms-grid;
   display: grid;
-  -ms-flex-line-pack: center;
-      align-content: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  align-content: center;
+  justify-content: center;
   cursor: pointer;
   border-radius: 50%;
 }

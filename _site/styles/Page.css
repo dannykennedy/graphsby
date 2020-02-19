@@ -28,6 +28,8 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 15px;
+  -webkit-column-gap: 15px;
+  -moz-column-gap: 15px;
 }
 #profile-image {
   height: 170px;
@@ -88,6 +90,8 @@
   #page-items {
     grid-template-columns: 1fr 1fr;
     column-gap: 10px;
+    -webkit-column-gap: 10px;
+    -moz-column-gap: 10px;
   }
 }
 
@@ -106,6 +110,8 @@
   #page-items {
     grid-template-columns: 100%;
     column-gap: 0px;
+    -webkit-column-gap: 0px;
+    -moz-column-gap: 0px;
   }
 }
 
@@ -115,6 +121,8 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   column-gap: 8px;
+  -webkit-column-gap: 8px;
+  -moz-column-gap: 8px;
 }
 
 .scans .container {

@@ -17,7 +17,8 @@ The event that marked my starting point appeared in the form of a technicolor, s
 Many other dreams followed, compelling enough that I started journaling regularly and began reading what related literature I could find. But it wasn't until that particular dream took the form of an actual event several years later that I got deeply involved.
 
 This dream occurred during summer 1975 and in it,
-**I find myself in a community center (which inwaking life housed the office in which I was working). In every room of this building are people participating in an amazing variety of artistic activities: dancers, singers, musicians, artists...**
+
+*I find myself in a community center (which in waking life housed the office in which I was working). In every room of this building are people participating in an amazing variety of artistic activities: dancers, singers, musicians, artists...*
 
 The energy in the dream and afterward was exhilarating!
 
@@ -29,8 +30,9 @@ By the way, the photo (above) was taken during that event:
 A Dream Come True! Can you tell?
 
 
-**"To live mythically is to seek guidance from your dreams, imagination, and other reflections of your inner being, as well as from the most inspiring people, practices, and institutions of your society.**
-**To live mythically is also to cultivate an ever-deepening relationship with the universe and its great mysteries."**
+*"To live mythically is to seek guidance from your dreams, imagination, and other reflections of your inner being, as well as from the most inspiring people, practices, and institutions of your society.*
+
+*To live mythically is also to cultivate an ever-deepening relationship with the universe and its great mysteries."*
 
 David Feinstein & Stanley Krippner, Personal Mythology
 (Jeremy Tarcher, LA CA 1988 ) p. 1

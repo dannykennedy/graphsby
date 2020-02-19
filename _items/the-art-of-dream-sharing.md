@@ -5,10 +5,10 @@ layout: page
 name: The Art of Dream Sharing and Developing Dream Groups
 profileImg: the-art-of-dream-sharing-sml.jpg
 tags:
+- hasTag: special-publications
 - hasTag: dreamnetwork
 - hasAuthor: dreamnetwork
 - hasTag: dreamnetwork
-- hasTag: special-publications
 type: post
 urlSlug: the-art-of-dream-sharing
 ---

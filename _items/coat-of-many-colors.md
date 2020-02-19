@@ -4,11 +4,7 @@ itemId: bcpov6zfsra
 layout: page
 name: Coat of Many Colors
 profileImg: coat-of-many-colors-sml.jpg
-tags:
-- hasTag: dreamnetwork
-- hasAuthor: dreamnetwork
-- hasTag: dreamnetwork
-- hasTag: special-publications
+tags: []
 type: post
 urlSlug: coat-of-many-colors
 ---

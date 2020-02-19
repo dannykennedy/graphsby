@@ -49,10 +49,12 @@ for pub in special_publications:
     pyyaml['tags'] = []
     pyyaml['dateCreated'] = pub['dateCreated']
     pyyaml['profileImg'] = imgName + "-sml.jpg"
-    pyyaml['tags'].append({"hasTag": "dreamnetwork"})
-    pyyaml['tags'].append({"hasAuthor": pub["author"]})
-    pyyaml['tags'].append({"hasTag": pub["author"]})
-    pyyaml['tags'].append({"hasTag": "special-publications"})
+    # Don't include coat of many colours for now
+    if not pub["title"] == "Coat of Many Colors":
+        pyyaml['tags'].append({"hasTag": "special-publications"})
+        pyyaml['tags'].append({"hasTag": "dreamnetwork"})
+        pyyaml['tags'].append({"hasAuthor": pub["author"]})
+        pyyaml['tags'].append({"hasTag": pub["author"]})
 
     newfile = open(filepath, "w")
     newfile.write("---\n")

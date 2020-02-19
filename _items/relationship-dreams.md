@@ -5,10 +5,10 @@ layout: page
 name: 'Relationship Dreams: Insight into Family - Friends - Co-workers'
 profileImg: relationship-dreams-sml.jpg
 tags:
+- hasTag: special-publications
 - hasTag: dreamnetwork
 - hasAuthor: janicebaylis
 - hasTag: janicebaylis
-- hasTag: special-publications
 type: post
 urlSlug: relationship-dreams
 ---

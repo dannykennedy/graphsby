@@ -2157,9 +2157,6 @@ ns1:bcpov6zfsra a ns1:Post ;
     ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/coat-of-many-colors-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a><br><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpov6pspec ;
     ns1:itemId "bcpov6zfsra"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Coat of Many Colors"^^xsd:string ;
@@ -2284,6 +2281,16 @@ ns1:bcphbq3ossa a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Roberta Ossana"^^xsd:string ;
     ns1:profileImg "roberta_ossana.png"^^xsd:string .
+
+ns1:bcpov6pspec a ns1:Post ;
+    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Some of these publications were published by the Dream Network, others have been kindly offered to this site so you can download and enjoy them. All are fabulous!</p>
+"""^^xsd:string ;
+    ns1:itemId "bcpov6pspec"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Special publications"^^xsd:string ;
+    ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "special-publications"^^xsd:string .
 
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>
@@ -2410,16 +2417,6 @@ ns1:Actor a <http://www.w3.org/2002/07/owl#Class> ;
 
 ns1:User rdfs:subClassOf ns1:Actor,
         ns1:Person .
-
-ns1:bcpov6pspec a ns1:Post ;
-    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>Some of these publications were published by the Dream Network, others have been kindly offered to this site so you can download and enjoy them. All are fabulous!</p>
-"""^^xsd:string ;
-    ns1:itemId "bcpov6pspec"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Special publications"^^xsd:string ;
-    ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
-    ns1:urlSlug "special-publications"^^xsd:string .
 
 ns1:bcpqoaf5sto a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_6.zip" download>Volume 6 (.zip file, 14mb)</a></p>

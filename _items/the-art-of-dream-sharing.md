@@ -6,7 +6,6 @@ name: The Art of Dream Sharing and Developing Dream Groups
 profileImg: the-art-of-dream-sharing-sml.jpg
 tags:
 - hasTag: special-publications
-- hasTag: dreamnetwork
 - hasAuthor: dreamnetwork
 - hasTag: dreamnetwork
 type: post

@@ -6,7 +6,6 @@ name: 'Welcome to the Magic Theater: A Handbook for Exploring Dreams by Dick McL
 profileImg: welcome-to-the-magic-theater-sml.jpg
 tags:
 - hasTag: special-publications
-- hasTag: dreamnetwork
 - hasAuthor: dickmcleester
 - hasTag: dickmcleester
 type: post

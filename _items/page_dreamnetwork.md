@@ -9,13 +9,25 @@ tags:
 profileImg: dnj-text.jpg
 ---
 
-As thanks for your very generous donation, here's something special. As promised, scans of the entire 1982-2015 Dream Network archive!
+The (draft) Dream Network archive is finally here! The entire 1982-2015 collection, to peruse at your leisure. Thank you so much again for your help.
 
 Below, you can download each volume as a .zip file, or download each issue individually from the list of images. If you'd like to look up an individual author or article, here's a (not-quite-complete) [list of Dream Network articles](https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing) in spreadsheet form.
 
 Feel free to send the PDFs to your friends, but rather than publishing them online please just link to the archive site once it's public. We also ask you not to publish the articles in the journals, unless you have the permission of the author (or you are the author, in which case, the rights are yours!)
 
 **Thank you to everyone who donated** to this campaign. We'd like to personally thank [Kelly Bulkeley](https://kellybulkeley.org/about-kelly-bulkeley), whose donation really made this campaign possible, and all the 'super supporters' of the campaign: [Luigi Sciambarella](https://www.monroeinstitute.org/pages/trainer-luigi-sciambarella), [Evelyn Duesbury](http://www.yourguidingdreams.com/), <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as <a href="https://arthurstrock.com/about-arthur/">Arthur Strock</a>, <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, Rosemary Watts-Dreyer, [Patti Allen](https://pattiallen.com/about/patti-allen/), [Mary Bronk](https://www.linkedin.com/in/mary-beth-bronk-583298164/), [Spoken Stone](http://spokenstone.com/), and [all the supporters](https://chuffed.org/project/dream-network-journal) who made this a reality. For their donations as well as providing providing their personal copies of publications for scanning, special thanks to [Dick McLeester](../@dickmcleester) and <a href="https://www.dreamtimesguide.com/about-marlene-king/">Marlene King</a>.
+
+**Thank you also to all the amazing authors and advisors** of the Dream Network, and all the editors prior to Roberta. 
+
+Firstly of course all the past editors and organisers before Roberta:
+
+* [Bill Stimson](http://www.billstimson.com/) - founder and editor, NYC (1982- ~1984)
+* Chris Hudson - editor, NYC (1984 - 1985)
+* [Robert Van De Castle](https://www.parapsych.org/articles/37/209/in_memoriam_robert_van_de_castle.aspx) (now departed) & [Henry Reed](http://www.henryreed.com/) (1985-1987)
+* [Bob Trowbridge](http://www.bobtrowbridge.com/), Linda Magallón & Jill Gregory, San Jose (1987 - 1989)
+
+This history, and many other things on this site may be imperfect... please <a href="mailto:dannykennedy@email.com">email us</a> with feedback!
+
 
 Cover image: *'Luna Lights' (detail)*, by [Brenda Ferrimani](../@brendaferrimani)
 

@@ -6,7 +6,7 @@ handle: dreamnetwork
 name: "Dream Network"
 shortDescription: "Welcome to the Dream Network"
 tags:
-profileImg: dnj-text.jpg
+profileImg: logo-white-filled.png
 ---
 
 The (draft) Dream Network archive is finally here! The entire 1982-2015 collection, to peruse at your leisure. Thank you so much again for your help.

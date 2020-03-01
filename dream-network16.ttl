@@ -52,19 +52,6 @@ ns1:bcphb2huxmr a ns1:Post ;
     ns1:name "Volume 33, issue 3: Dreams are Agents for Change"^^xsd:string ;
     ns1:urlSlug "33.3"^^xsd:string .
 
-ns1:bcphb2kqfhu a ns1:Post ;
-    ns1:coverImg "33.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2015-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/33.4-rect.jpg"/><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf" download="">Download issue 33.4</a><br><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocvint5 ;
-    ns1:itemId "bcphb2kqfhu"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 33, issue 4: Finding Gold in Old Dreams"^^xsd:string ;
-    ns1:urlSlug "33.4"^^xsd:string .
-
 ns1:bcphbh7fv5e a ns1:Post ;
     ns1:coverImg "1.5-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1982-07-01T11:32:52"^^xsd:dateTime ;
@@ -584,19 +571,6 @@ ns1:bcphbmqor5y a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 5, issue 5"^^xsd:string ;
     ns1:urlSlug "5.5"^^xsd:string .
-
-ns1:bcphbmvxewa a ns1:Post ;
-    ns1:coverImg "5.6-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/5.6-rect.jpg"/><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf" download="">Download issue 5.6</a><br><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoact7dh ;
-    ns1:itemId "bcphbmvxewa"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 5, issue 6"^^xsd:string ;
-    ns1:urlSlug "5.6"^^xsd:string .
 
 ns1:bcphbmz7lpz a ns1:Post ;
     ns1:coverImg "6.1-cover.jpg"^^xsd:string ;
@@ -1603,19 +1577,6 @@ ns1:bcphbxm2y5p a ns1:Post ;
     ns1:name "Volume 26, issue 3: Visionary Activism"^^xsd:string ;
     ns1:urlSlug "26.3"^^xsd:string .
 
-ns1:bcphbxplpmw a ns1:Post ;
-    ns1:coverImg "26.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2007-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/26.4-rect.jpg"/><a href="../files/pdfs/Volume_26/26.4_waking_life_as_dream.pdf" download="">Download issue 26.4</a><br><a href="../files/pdfs/Volume_26/26.4_waking_life_as_dream.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocbmxkx ;
-    ns1:itemId "bcphbxplpmw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 26, issue 4: Waking Life as a Dream"^^xsd:string ;
-    ns1:urlSlug "26.4"^^xsd:string .
-
 ns1:bcphbxuajab a ns1:Post ;
     ns1:coverImg "27.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2008-01-01T11:32:52"^^xsd:dateTime ;
@@ -1628,19 +1589,6 @@ ns1:bcphbxuajab a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 27, issue 1: Children Dreaming"^^xsd:string ;
     ns1:urlSlug "27.1"^^xsd:string .
-
-ns1:bcphbxxscsf a ns1:Post ;
-    ns1:coverImg "27.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2008-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/27.2-rect.jpg"/><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf" download="">Download issue 27.2</a><br><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocezqpx ;
-    ns1:itemId "bcphbxxscsf"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 27, issue 2: Women for Peace"^^xsd:string ;
-    ns1:urlSlug "27.2"^^xsd:string .
 
 ns1:bcphbxz53sl a ns1:Post ;
     ns1:coverImg "27.3-cover.jpg"^^xsd:string ;
@@ -1772,19 +1720,6 @@ ns1:bcphbz2bump a ns1:Post ;
     ns1:name "Volume 32, issue 2: Shamanic Dreams"^^xsd:string ;
     ns1:urlSlug "32.2-3"^^xsd:string .
 
-ns1:bcphbz5vgog a ns1:Post ;
-    ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/32.4-rect.jpg"/><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf" download="">Download issue 32.4</a><br><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocs2uhp ;
-    ns1:itemId "bcphbz5vgog"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 32, issue 4: Important People in our Dreams"^^xsd:string ;
-    ns1:urlSlug "32.4"^^xsd:string .
-
 ns1:bcphbzaknqj a ns1:Post ;
     ns1:coverImg "30.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2011-04-01T11:32:52"^^xsd:dateTime ;
@@ -1914,6 +1849,36 @@ ns1:bcpov6wbyg5 a ns1:Post ;
     ns1:name "Welcome to the Magic Theater: A Handbook for Exploring Dreams by Dick McLeester"^^xsd:string ;
     ns1:profileImg "welcome-to-the-magic-theater-sml.jpg"^^xsd:string ;
     ns1:urlSlug "welcome-to-the-magic-theater"^^xsd:string .
+
+ns1:bcpov6zfbigd a ns1:Post ;
+    ns1:dateCreated "2008-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Do you ever wish you could have a really <em>BIG DREAM?</em> You might imagine what it would be like: a great opportunity. Some people report having life defining dreams that remain vividly in mind for years. </p>
+
+<p>Who wouldn’t want such an experience? In ones’ imagination, the <em>big dream</em> might be extremely vibrant, or be of the utmost clarity. Most certainly, it would be memorable and life changing. The dream might spark a spiritual awakening. </p>
+
+<p>In an attempt to find out more about the big dream, I looked through my dream book collection. Some of the authors assured readers that their books on dreams provided all the information they needed to know about dreams. Nevertheless, scanning tables of contents, chapter titles, section labels, and indices failed to turn up any direct reference to the big dream. </p>
+
+<p>The big dream was even elusive on the internet. The term was there. Some “big dream” sites attempted to tell internet surfers what they “really” want out of life. One site had a synchronicity card pack for sale. Another site was about a church building fund. Even “bigdream.com” billed as “your source for virtually anything” wasn’t a source of information about big dreams. On a hunch, I revisited The World Dream Book by Sarvananda Bluestone. He used the term, “great dream.” He also provided a simple yet significant reminder that “ … there are many kinds of dreams, it lies with the dreamer to determine the nature of the dream and it remains for each person to determine his dreams’ lessons.” </p>
+
+<p>There is certainly the chance that many of us have had a big dream and failed to recognize it. We’ve been conditioned in our society to expect important things to make a big impression. The big dream may fail to get our full attention at first. </p>
+
+<p>Symbolically, the International Association for the Study of Dreams (ASD) has been like a big dream for me that began quietly but grew in importance as I worked with it. It has helped me to satisfy my intention to learn more about dreams by providing reading material, group study opportunities, dream sharing groups, and research reports. Most importantly, it has provided the opportunity to be a part of a dedicated community of dreamers. Rita Dwyer and Jean Campbell are vital members of that community. </p>
+
+<p>I met Rita when I attended an Association for the Study of Dreams annual conference for the first time. Prior to the conference, I had little contact with the organization. Rita made quite a fuss over me. She explained how she had seen my name as a founding member of the association on paperwork for about 14 years and wondered who this phantom person might be. Her welcome made me feel very much at home during a personally and professionally rough time in my life. Immediately after the conference, I got to enjoy her company when a small group of members went out to supper before returning home. Remembering the event brought a heartfelt smile as I recalled such a warm feeling of belonging. Over time, I became aware of how vitally important Rita was to the association and all of the people she has welcomed. Years later, at another conference, I was just turning to leave the ball, when Rita reached out and asked me to dance. I wondered if she had sensed that I felt alone and reached out once again to make me feel right at home. </p>
+
+<p>I met Jean Campbell at an ASD Conference in Copenhagen a few years ago. I knew about her marvelous “Dream Bridge” project that allowed children from different countries to share their dreams. I can recall with fondness, sitting on a restaurant boat with Jean and another member as Jean shared her dreams, plans, and hopes for the organization. The weather was chilly and rainy, but she projected an air of confidentiality that made me feel like a life long friend. At a subsequent conference, I was pleased to learn that she had been elected as president of the association and I worked just briefly with her on a project. More recently, I received a note card from Jean in the mail. She was complementing me on an article I had written. I was tickled to read the compliment in her beautifully written script even before I had gotten a chance to see the article in print myself. </p>
+
+<p>Like dream characters, Rita Dwyer and Jean Campbell came into my life for an admittedly brief period of time, but have had an ongoing and meaningful effect. In order to fully appreciate the positive impact these two dedicated individuals have had on the lives of others, however, we would literally have to visit with people all over the world. You can bet that Rita and Jean represent portions of the big dreams of many individuals. So, if you get a chance to meet Rita and Jean, be sure to see that opportunity as potentially life changing, something like a big dream coming your way. ∞</p>
+
+<p><em>Bluestone, Sarvananda. The World Dreambook. Rochester, Vermont, Destiny Books, 2002</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3arts ;
+    ns1:hasTag ns1:bcphbq3arts,
+        ns1:bcphbxxscsf ;
+    ns1:itemId "bcpov6zfbigd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Big Dreams & Big Dreamers"^^xsd:string ;
+    ns1:urlSlug "big-dreams-and-big-dreamers"^^xsd:string .
 
 ns1:bcpov6zfexpl a ns1:Post ;
     ns1:dateCreated "1996-07-01T11:32:52"^^xsd:dateTime ;
@@ -2151,6 +2116,146 @@ ns1:bcpov6zfexpl a ns1:Post ;
     ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
     ns1:urlSlug "exploring-the-mystery"^^xsd:string .
 
+ns1:bcpov6zfheal a ns1:Post ;
+    ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>People are becoming increasingly health conscious. Dreams, however, are often overlooked as a potential aid to good health. The following account of a persistent health problem shows how dreams can be called upon to provide continuing health care information.</p>
+
+<p>The situation has a history that begins over twenty years ago when I had my first hangnail infection. A hangnail may sound like a minor problem, but the infection was resistant to medical treatment and led to hospitalization. A surgeon removed the infected tissue including the bone tuft. This procedure was effective, but left me with a smaller fingertip. Years later, a similar infection in another finger was treated on an outpatient basis. The result of this treatment was a healed finger that included a hard, sensitive scar tissuelike projection near the nail. I learned that serious risks accompany traditional medical care of such infections. </p>
+
+<p>On December 1, 1984, I recognized the beginning of another hangnail, this time in the original, slightly shrunken, left index finger. It was during a period of considerable stress. I had left full time employment to complete my doctoral program in psychology. My resistance to infection was down. I was also dealing with the residual effects of flu along with persistent middle ear fluid buildup problems. In the intervening years, however, I had adopted a more wholistic life view and this time decided to take more direct treatment responsibility. I began with a small castor oil-soaked bandage. Castor oil is reported to facilitate the healing process.</p>
+
+<p><img src="../images/5.6-strock-1.jpg" alt="hand" /></p>
+
+<p>The next morning I had the first in a series of dreams related to the finger. The dream confirmed the fact that I had a "hangnail" and would riot be seen as a "good patient" by conventional medical doctors. Several days later, the swelling had Increased and the finger was very sensitive to touch. I wrote in my dream journal, "Help, I'm scared." I feared surgery, a medically accepted treatment of choice. I could imagine what the surgeon would cut now that the bone tuft was gone. I did not want to chance losing more of the finger. Neither did I want the expense, risk, or time away from my academic work that traditional medical care would require. I now actively sought help from my dreams. </p>
+
+<p>I interpreted an unclear dream as an indication I should see a doctor. So, on the next day, December 10th, I saw a doctor. He recommended that I discontinue my castor oil treatment, but continue with epsom salt soaks accompanied by an antibiotic ointment. I followed his advice and added visual imagery exercises to encourage the infection coming to a head, so the doctor could cut the upper skin and release the resulting pus. </p>
+
+<p>A frightening dream came the day after I saw the doctor. In the dream, I took a piece of wood my grandfather handed me and noticed that it had termites in one section. I banged the wood on the ground and watched the termites come out, go Into a pile and then die from exposure. I then smashed the Queen and one other termite. To me, the termites in the wood represented infection in the bone. I knew that bone infections are notoriously resistant to treatment. Fear prevented me from seeing positive aspects of the dream. </p>
+
+<p>I became obsessed with the infection. I got my name added to a prayer group listing. I began calling friends asking for their prayers. One friend, who is especially psychic, called back moments after my call. He had been meditating when I called, returned to the meditative state and asked for advice on my behalf. The recommendation which came to him was accompanied by a brilliant white light. I should use a castor oil pack. I was familiar with castor oil packs and had been using one before the doctor recommended I stop. </p>
+
+<p>I got castor oil soaked wool felt and made a total finger pack which I used with heat for an hour and a half two times a day. My psychic friend called a couple of times during the next two days and mentioned he had also gotten the recommendation that 1 use epsom salt soaks followed by a cleansing with lemon oil; that I would see improvement in from three to six days. I followed this advice, but wasn't sure what form the "improvement" would take. The swelling began to increase and was now accompanied by redness and subsurface yellow pus which began to spread around the base of the nail. Seven worrisome days after my friend's initial recommendation I actively sought dream guidance that I could understand. I awoke with a vague impression of perforation of the skin -the idea that if I found a preparation that would help to draw out the infection at this point, that would be helpful. </p>
+
+<p>The following day, December 18th, I saw the doctor for the second time. He carefully cut the surface layer of skin, drained off the pus and applied antbiotic ointment. The finger improved dramatically. I was more relieved than I had been in days. I was able to reflect on my consuming fears of pain, surgery, and possible failure of my wholistic measures. I got insight regarding how I developed the very fearful side of myself. I realized the powerful impact of fear and toned for situations where I had caused fear in others. I could now relax. </p>
+
+<p>The respite was short lived. Ten days after the doctor's treatment, I dreamed: I saw an index finger with the little flap of skin turned back to expose pus. </p>
+
+<p>I checked my finger carefully and noticed pus around the base of the nail. The infection had come back to life. I resumed ointment and castor oil treatment. I anxiously sought dream information. The resulting dreams indicated a connection between the infection and my overly strong preoccupation with it. It was difficult to reduce my preoccupation since I was constantly reminded of the problem by the ever present protective bandage and the fact that I typed several hours each day. Nevertheless, my finger did improve noticeably. Two months after the onset, it looked healed but was still extremely sensitive and barely sable. I had the doctor check it. He assured me that the finger was fine and that I had healed quickly. I knew the finger was not fine. </p>
+
+<p>The sensitivity continued. Once again, I resumed the castor oil treatments and requested dream guidance. My answering dream included a scene where I got castor oil all over my trousers and could not find anything to wipe it off with - hardly a positive recommendation for continued castor oil use. A few days later a dream made reference to a crayfish biting one of the fingers of my right hand. The possibility of the dream being related to the problems with my left index finger were unclear. Another dream reference occurred a few days later when I dreamed of wrestling with someone "in play, but must be careful of my finger." This last dream was dramatic and revitalized fears for my finger. </p>
+
+<p><img src="../images/5.6-strock-2.jpg" alt="hand" /></p>
+
+<p>The question was, if castor oil were not indicated, then what could I do to provide effective treatment? In desperation I began an intense search for treatment clues that included every medical reference I owned, including: <em>Conn's Therapy</em>, the <em>Merck Manual</em>, and wholistic health sources. As a result of my haH day search, I decided to use lodex, a topical preparation I had never used before. I called a store and reserved a jar, planning to pick it up the next day. That night, my dreams came alive. The following dream on February 19, 1985 was a breakthrough: </p>
+
+<p><em>I'm looking into a school yard fenced with chain link fence. In a leanto-like shelter are two college friends sitting in a special mud. It is a life experiment! I recalled having difficulty "getting" the name of the mud. Finally I got it - ICHTHYOL.</em></p>
+
+<p>By the time I was fully awake, I recognized lchthyol as a medication I had react about the day before. I did not associate it with my finger, but thought that the dream was somehow related to my ear problems for which I was also soliciting help from my dreams. I later reread the description, noticed a functional similarity to lodex, and then made the connection. As indicated in the dream, it was difficult "to get." lchthyol is the trade name of a discontinued product - a drawing salve. I did locate the medication under its generic name, ichthammol, and began using it immediately. Surprise! It smelled and looked like mud. I was fascinated and read more about it. The descriptions warned about becoming reliant on such preparations. I slowed down my use of the product. A dream responded by pointing out the spiritual nature of dream guidance and its relevence to my current problem. I resumed full use of the ichthammol. </p>
+
+<p>Three months after the first indication of a problem, I was shocked by the following dream's power and lightning fast action. </p>
+
+<p><em>I'm the lead character on stage in a play. The fellow who designed the play pushed a sword through my lapel and on through my finger. Just as quickly, he withdrew it. I looked down and was surprised to see that it didn't hurt. He had done it expertly. later, I looked at the wound. Each opening had healed, although of course it was still healing inside. I thought about putting salt water on it, but didn't think it needed it.</em></p>
+
+<p>My immediate reaction was: IT WAS A CLEAN CUT. THE FINGER WAS HEALED. </p>
+
+<p>In my joy of realizing the infection was gone, I neglected the statements about continued healing and salt water. Continued finger stiffness renewed my concerns. On March 14, 1985, came the last dream of the series; simply an impression that all the finger needed was exercise. Careful exercise soon brought my finger back to full use.</p>
+
+<p>Overlooked dream clues and encouragement became apparent in a later review of the log. The critical use of a drawing salve in the Jast phases of treatment was indicated by a couple of early dreams. The reference to my grandfather was undoubtedly related to his frequent use of a "drawing salve" as treatment for job-related metal splinters. Another dream referred to a "preparation that would help draw out the infection" long before the mud experiment dream. Other uninterpretted symbols undoubtedly hold a wealth of untapped information. Dreams clearly played a helpful, dynamic andmultifaceted role in the entire healing process.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3arts ;
+    ns1:hasTag ns1:bcphbmvxewa,
+        ns1:bcphbq3arts ;
+    ns1:itemId "bcpov6zfheal"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Health Related Dream Guidance"^^xsd:string ;
+    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "health-related-dream-guidance"^^xsd:string .
+
+ns1:bcpov6zfimpp a ns1:Post ;
+    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><strong>THE OLD MAN</strong> was still working. He had enough money and didn’t need to work, but working was a part of him. He dimly realized that his sparkle of existence fueled by over half a century of work was dying. He needed to know if his illusory passion for a different kind of work was real or only an empty excuse to stop working altogether. </p>
+
+<p>His thoughts floated on the mist of awareness into a dream where…</p>
+
+<blockquote>
+  <p>A slender, almost shapeless woman covered in silence appears before him. Her features dissolve, leaving only the sheen and smooth perfection of her short, silvery-white hair. </p>
+</blockquote>
+
+<p>The dream woman was important. She was to be his comfort, his source of reassurance that he needed to give energy to a new dream. She would be able to release him from his worries, the worries of many elders: that their potential for making a mark in the world will be denied them in this new world of speeding change that defies comprehension. </p>
+
+<blockquote>
+  <p>Time is visibly absent. Neither the old man nor the woman disturbs the stillness. They just stand opposite one another, seeing each other, but with no exchange of any kind.</p>
+</blockquote>
+
+<p><strong>THE TIRED, MIDDLE-AGED WOMAN</strong> had just changed careers. She had emerged from the stifling cocoon of a corporate management position to pursue a new life. With adrenalin-charged power, she worked her way through a grueling graduate education program right along side quick learning students in there twenties. She emerged victorious with a master’s degree, enormous debts, and only a part time job. As she drifts into dreams, she looks forward to seeing her grandfather again. In the comfort and silence of their meetings, their love for each other eclipses the need for any talk.</p>
+
+<p><strong>THE YOUNG MAN IN HIS THIRTIES</strong> feels invincible. His power and vision are as yet unchallenged by the need to overcome the inevitabilities of future discouragement and pain. Dreams provide him with strong counselors and teachers whose advice and answers he knows will ensure success in his all-encompassing endeavors. </p>
+
+<p><strong>THE LITTLE GIRL</strong> is spritely, engaging, and well cared for. She is growing up as she weaves her way through a world of confusing mirages, unspoken rights and wrongs, and the inconsistencies of adult behaviors.</p>
+
+<p>In dreams ...</p>
+
+<blockquote>
+  <p>She bravely meets the frightening and comforting lady in blue who returns night after night to stand by her.</p>
+</blockquote>
+
+<p>We usually consider archetypal figures—which are there to help—as being most important in our dreams… but they are not the only ones. Who we draw into our dreams as guides and helpers is influenced by our personal history and our stage of life. </p>
+
+<p>The size of emerging problems, our belief system, our intentions for direction in life, and unconscious drives all combine to govern who will show up in dreamtime to assist us. </p>
+
+<p>Even more so than in waking life, those who come to us in dreams allow us to grow spiritually. Respecting our gift of free will, they rarely tell us what to do. Their unstated perspective is a universal one that transcends the needs of the dreamer’s ego and focuses on the collective Whole. </p>
+
+<p>The more we consider the seemingly simplistic question of who is the most important person in our dreams, the more complex the question becomes. Adding to the complexity is the fact that we ourselves are participants in our dreams - if sometimes only as unseen observers. </p>
+
+<p>With the realization that the power of the universe embodied in love can be focused on us as we dream, we are drawn to an awareness of our own deep value. The dream in all of its quiet, veiled power comes to celebrate us as half-asleep dreamers, who when awake can be enormously vital and important contributors to the welfare of Humanity. </p>
+
+<p>So we might then conclude that the most important person in your dreams very well may be <em>YOU!</em> ∞</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3arts ;
+    ns1:hasTag ns1:bcphbq3arts,
+        ns1:bcphbz5vgog ;
+    ns1:itemId "bcpov6zfimpp"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Who is the Important Person in Your Dreams?"^^xsd:string ;
+    ns1:urlSlug "who-is-the-important-person-in-your-dreams"^^xsd:string .
+
+ns1:bcpov6zfoldd a ns1:Post ;
+    ns1:dateCreated "2015-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>It was time to dig those old dream journals out of the basement. Yes, they were all there stored in plastic storage containers, thirty-three years worth. The early journals were 9½ by 6 inch spiral notebooks. That spiral format had many advantages. Those notebooks could be opened and laid flat and were easy to write in even when lying in bed. And, the day’s events could be recorded on the left side with the resulting dreams of the next morning beginning on the right. They also came in all different colored covers adding a bit of fascination to them. Years later, larger format spirals replaced the small ones only to be replaced still later by three ring binders. </p>
+
+<p>With all of those journals, the question was where to start. An approach that included spot reviews of dreams from ten, twenty, and thirty years ago was appealing. Opening one of the containers, however, revealed the very first notebooks. My plan went out the window. Those early notebooks were just too fascinating to be ignored. My dream work had begun just before my daughter was born. There were the documented worries about Elizabeth who had developed toxemia toward the end of her pregnancy. There was the record of an early dream incubation to let me know what I could do to help her. The dream came through in a simple piece of music, “It’s Sleepy Time down South.” The message was clear. I just need to help her get as much sleep as possible. </p>
+
+<p>The faithfully kept records of days’ events were there too: the exhaustion from getting the nursery ready, even a comment my mother had made that she had climbed up on a chair to hang curtains the day before I was born. There were notes about all the help we had gotten from friends and neighbors. Then of course notes about the joy I experienced when Shannon was born and how amazing it was, just to hold such a precious and beautiful little person. </p>
+
+<p>In true synchronistic fashion, the early journals revealed other things of interest to my current waking life: the name of an old friend that had been eluding me; and toy train dreams that fit in with a problem I’ve been having trying to fix a toy locomotive.</p>
+
+<p>Having given up on the idea of an organized dream search, I followed an impulse to look up the circumstances surrounding the writing of my first article for the Dream Network Journal in 1987. There it was, a note that my article had been published, with a star drawn next to the note showing how pleased I was. </p>
+
+<p>But while looking for references to the DNJ article, I came across a dream of my daughter’s when she was five years old, in her last year of preschool. The dream had been a favorite for years. I remembered it being about a scary monster wearing yellow boots. Because of the dream, I spoke to Shannon’s teacher about little Ritchie, who I recalled wearing yellow boots to school and w known to bite other children. In a quickly arranged conference, the teacher reassured me that Shannon was safe and that she almost never interacted with Ritchie.</p>
+
+<p>As written, however, Shannon’s dream was much different than I remembered. </p>
+
+<p>*I was going that way and I saw a man with big green boots. You know? Like Ritchie’s boots. He was going in big high puddles. I wanted to kiss my mom. He let me kiss you dad because mom wasn’t home. Then he took me home. I’m glad that dream didn’t come true. I don’t like dreams that come true. *</p>
+
+<p>The dream was multi-layered. The meanings, which related to school, big men, high puddles, home, and Shannon’s relationships with her mom and me, are still not entirely clear. On one level, the man represented Ritchie. I had taken action on that assumption. A brief entry the next day indicated that I was with Shannon when she drew pictures of the big man from her dream who wore green boots. Taking control of the big man in her drawings had been effective. He did not return to her dreams. I don’t recall if I had dealt with the dream issue of Shannon’s mom being unavailable or if I encouraged Shannon to share the dream with her mom; but if it had happened today, I would. Her mom and I would have discussed Shannon’s need for reassurance, concerning her mom’s availability. The outcome might have at least resulted in Shannon getting some additional cuddling and an extra kiss or two. </p>
+
+<p>As a young mother herself, I wondered what Shannon would recall of the incident all these years later. Because she lives nearly a day’s drive from me, I scanned and attached the dream journal page to an email and gave Shannon a follow-up call. Shannon said that the dream seemed unusual to her in a couple of ways. In the dream, her mom was not home, but she recalled her mother as always being at home. The dream did not trigger thoughts about her mom being unavailable. Reading the dream, however, did trigger memories of her being a very frightened child. To me, Shannon hadn’t seemed to be a particularly frightened child. During our conversation, I learned about some of her childhood concerns of which I had been unaware. </p>
+
+<p>Eventually our conversation moved back to the present and the topic of availability. Shannon wanted to make sure that I would continue to be accessible to her and the grandchildren. We realized that we hadn’t been visiting as much as we would like. As a result, we scheduled visits that we’re both very much looking forward to.</p>
+
+<p>After putting down the phone, I felt much better about having carted those dream journals around for so long. They not only helped correct and enlarge on old memories, they also confirmed the enduring importance of old dreams. Because dreams are so relevant to the present and come with perfect timing, it may be tempting to discard dreams after they have been read and interpreted, the way we used to discard day old newspapers. Luckily for me, I had kept those old dreams as well as some of my daughter’s. Randomly finding and revisiting one of my favorite dreams of hers was more valuable than finding a gemstone. That old dream had helped strengthen our relationship when she was only five and helped re-strengthen it again over a quarter of a century later. And the icing on the cake was that it provided the catalyst for strengthening relationships with my granddaughter Annabelle, who just happens to be approaching age five, and her three-year-old brother Alex. </p>
+
+<p>After looking at all those old dreams, they with a doubt have relevance for the present and don’t seem to be quite so old after all. ∞</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3arts ;
+    ns1:hasTag ns1:bcphb2kqfhu,
+        ns1:bcphbq3arts ;
+    ns1:itemId "bcpov6zfoldd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Old Dreams - Memories and Reflections"^^xsd:string ;
+    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "the-old-dreams-memories-and-reflections"^^xsd:string .
+
 ns1:bcpov6zfsra a ns1:Post ;
     ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/coat-of-many-colors-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a><br><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p>
@@ -2160,6 +2265,34 @@ ns1:bcpov6zfsra a ns1:Post ;
     ns1:name "Coat of Many Colors"^^xsd:string ;
     ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
     ns1:urlSlug "coat-of-many-colors"^^xsd:string .
+
+ns1:bcpov6zfwake a ns1:Post ;
+    ns1:dateCreated "2007-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>In the process of living, I often incubate a dream to get information. So, in keeping with the current Dream Network theme, I turned to dream incubation to give me additional understanding about the experience of living one's life as if it were a dream. </p>
+
+<p>My incubated dreams are often quite understandable so I was expecting to get some quick and easy to understand information. Instead, I got a middle-of-the-night dream about a family that had been getting light over a period of years. The meaning of light as well as other dream elements, however, all lacked clarity. The dream itself seemed to be more like the waking process of ‘brainstorming’ often used to generate ideas. </p>
+
+<p>After jotting down the dream, I had to use the bathroom. Without turning on any lights, I walked into the bathroom and saw a star through the window, beautifully framed by an opening in the surrounding tree branches. I realized that the light of the star could in some way be a continuation of the focus on light in my dream. As I turned from the window, my attention was caught by a lighted wall switch. The thought occurred to me that seeing lights could be the beginning of a waking nightmare experience if I allowed it to be. That realization triggered more thoughts of lights before I was able to bring the train of thought to a close. </p>
+
+<p>I began walking back to the bedroom without switching on any lights that might disturb the sleep cycle. Even so, my eye caught the lighted switch in the hallway. Then, upon entering the bedroom, the lighted switch on the electric heater caught my attention. The realization came that if I didn’t jot down the unusual waking experience of noticing/seeing these lights, the recall might drift away in dream like fashion. So, I groped for my flashlight, and realized that I was faced with still another light. </p>
+
+<p>Possibly the awareness of the parade of lights in my nighttime waking moments had been initiated by the dream theme of collecting light. The experience was not particularly pleasant. To eliminate the unpleasantness, I considered the more comforting thought that when we see “the light,” we’ve gotten the answer. Conflicting with that idea was a bunch of nighttime scribbles in my dream journal that contained no simple answer about waking as a dream. As the disappointment became clear, I heard a still small voice say, “Wonderful.” At hearing the voice, my resulting excitement blocked out whatever was supposed to be so wonderful. </p>
+
+<p>So, I turned off my flashlight to go back to sleep. As I did so, I saw the glow from the digital display of my clock that I had carefully covered so I wouldn't see the light. Agh, more light. I figured that there must be a message here somehow about seeing the light. Next, I realized that I’d forgotten to put in my mouthpiece to avoid nighttime teeth grinding. So, I got up again and had difficulty finding it because the night-time glow built into its container had gone out. </p>
+
+<p>The experience with light was becoming more complicated and difficult to understand. With relief, an idea came to mind from Ralph Blum’s The Book of Runes. He writes of the desire to immerse oneself in the experience of living “without having to evaluate or understand.” With that in mind, I could go back to sleep. </p>
+
+<p>The next day, an old choir friend gave me a call. During the course of our conversation, I told her about my recent dream along with my intention to learn more about experiencing waking life as if it were a dream. She didn't seem to resonate with the topic. Instead, she said, “Well Arthur, you know the first thing God said was ‘Let there be light.’” She then proceeded to sing a song as a prayer for me that finished with “May God’s light shine on your face.” She brought our conversation to a close by repeating the last line of the song. </p>
+
+<p>Later, as I sat back and contemplated the call, I realized that not only was the focus on light continuing in my life, but also that I’d been given a heart-felt gift. That gift of a blessing was related to immersing myself in and being conscious of my waking and dreaming experiences. My dream incubation process that had been designed to more fully understand waking as if one is in a dream certainly yielded unexpected results. The results were reminders of a number of factors including: the powerful effect of intention on our dreams and waking; the back-and-forth flow of information and emotions between dreams and waking; how the mystery of light is alive and well; the question about which comes first, the dream or the waking and finally, the un-predictability of life, the energy drain that can occur when trying to understand things, and the fact that there just aren’t any simple answers. Possibly most important, however, was the reminder that by immersing ourselves in life—and ‘The Light,’ we can experience satisfaction and a fullness that no amount of understanding can bring. ℘</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3arts ;
+    ns1:hasTag ns1:bcphbq3arts,
+        ns1:bcphbxplpmw ;
+    ns1:itemId "bcpov6zfwake"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Waking As Dreaming"^^xsd:string ;
+    ns1:urlSlug "waking-as-dreaming"^^xsd:string .
 
 ns1:coverImg a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
     rdfs:domain ns1:Item ;
@@ -2210,6 +2343,71 @@ ns1:Page a <http://www.w3.org/2002/07/owl#Class> ;
 
 ns1:Person a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
+
+ns1:bcphb2kqfhu a ns1:Post ;
+    ns1:coverImg "33.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2015-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/33.4-rect.jpg"/><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf" download="">Download issue 33.4</a><br><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocvint5 ;
+    ns1:itemId "bcphb2kqfhu"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 33, issue 4: Finding Gold in Old Dreams"^^xsd:string ;
+    ns1:urlSlug "33.4"^^xsd:string .
+
+ns1:bcphbmvxewa a ns1:Post ;
+    ns1:coverImg "5.6-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/5.6-rect.jpg"/><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf" download="">Download issue 5.6</a><br><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
+    ns1:itemId "bcphbmvxewa"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 5, issue 6"^^xsd:string ;
+    ns1:urlSlug "5.6"^^xsd:string .
+
+ns1:bcphbxplpmw a ns1:Post ;
+    ns1:coverImg "26.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2007-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/26.4-rect.jpg"/><a href="../files/pdfs/Volume_26/26.4_waking_life_as_dream.pdf" download="">Download issue 26.4</a><br><a href="../files/pdfs/Volume_26/26.4_waking_life_as_dream.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocbmxkx ;
+    ns1:itemId "bcphbxplpmw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 26, issue 4: Waking Life as a Dream"^^xsd:string ;
+    ns1:urlSlug "26.4"^^xsd:string .
+
+ns1:bcphbxxscsf a ns1:Post ;
+    ns1:coverImg "27.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2008-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/27.2-rect.jpg"/><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf" download="">Download issue 27.2</a><br><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocezqpx ;
+    ns1:itemId "bcphbxxscsf"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 27, issue 2: Women for Peace"^^xsd:string ;
+    ns1:urlSlug "27.2"^^xsd:string .
+
+ns1:bcphbz5vgog a ns1:Post ;
+    ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/32.4-rect.jpg"/><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf" download="">Download issue 32.4</a><br><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocs2uhp ;
+    ns1:itemId "bcphbz5vgog"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 32, issue 4: Important People in our Dreams"^^xsd:string ;
+    ns1:urlSlug "32.4"^^xsd:string .
 
 ns1:bcphbq3bayl a ns1:User ;
     ns1:description """<p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." Stanley Krippner, PhD. Professor of Psychology, Saybrook University</p>
@@ -2413,9 +2611,6 @@ ns1:bcpqocs2uhp a ns1:Post ;
 ns1:Actor a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
 
-ns1:User rdfs:subClassOf ns1:Actor,
-        ns1:Person .
-
 ns1:bcpqoaf5sto a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_6.zip" download>Volume 6 (.zip file, 14mb)</a></p>
 """^^xsd:string ;
@@ -2566,6 +2761,9 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
 
+ns1:User rdfs:subClassOf ns1:Actor,
+        ns1:Person .
+
 ns1:bcpqn76e7n5 a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>
 """^^xsd:string ;
@@ -2605,6 +2803,17 @@ ns1:bcpqoaivzve a ns1:Post ;
     ns1:name "Volume 7"^^xsd:string ;
     ns1:profileImg "volume-7.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-7"^^xsd:string .
+
+ns1:bcphbq3arts a ns1:User ;
+    ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
+
+<p>Arthur Strock, Ph.D., is a Founding Life Member of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a>. He is dedicated to sharing information about dreamwork and how it can be used to improve our lives. Dr. Strock holds advanced degrees in psychology and clinical social work. His professional experience includes work in hospital, corrections, school, and private practice settings. He has also taught psychology courses as an adjunct faculty member at colleges in New Jersey. His writing includes a column in the Dream Network Journal and articles online and in other publications. He currently works as a school psychologist and provides dream workshops for professionals and the general public.  Arthur published <a href="https://arthurstrock.com/live-by-your-dreams/">“Live By Your Dreams: Heartwarming Stories About Dreams and What They Tell Us” </a>in 2005 and is available on <a href="https://www.amazon.com/Live-Your-Dreams-Arthur-Strock/dp/0996545808/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1455133208&amp;sr=1-1&amp;keywords=live+by+your+dreams+strock">Amazon</a>.  Arthur resides in New Jersey with his partner, art therapist Susan Dingsor. They enjoy their rural location overlooking a natural spring-fed lake that offers relaxed kayaking during their leisure time.</p>
+"""^^xsd:string ;
+    ns1:handle "arthurstrock"^^xsd:string ;
+    ns1:itemId "bcphbq3arts"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Arthur Strock"^^xsd:string ;
+    ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
 
 ns1:bcpqn7zvpei a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>

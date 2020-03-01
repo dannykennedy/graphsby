@@ -7,6 +7,7 @@ name: "Dream Network"
 shortDescription: "Welcome to the Dream Network"
 tags:
 profileImg: logo-nightsky.png
+coverImg: banner-tree.jpg
 ---
 
 The (draft) Dream Network archive is finally here! The entire 1982-2015 collection, to peruse at your leisure. Thank you so much again for your help.
@@ -26,14 +27,12 @@ Feel free to send the PDFs to your friends, but rather than publishing them onli
 
 This history, and many other things on this site may be imperfect... please <a href="mailto:dannykennedy@email.com">email us</a> with feedback!
 
-
-Cover image: *'Luna Lights' (detail)*, by [Brenda Ferrimani](../@brendaferrimani)
+Cover image: _'Luna Lights' (detail)_, by [Brenda Ferrimani](../@brendaferrimani)
 
 <div style="text-align:center;font-style:italic; margin-bottom: 30px">
 <a href="../@robertaossana">Roberta</a>,
 <a href="http://eastwest.works/Inoshi.html">Inoshi</a> and <a href="https://twitter.com/kannydennedy">Dan</a>
 </div>
-
 
 <hr>
 

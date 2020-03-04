@@ -24,6 +24,7 @@ ns1:bcphb2asab7 a ns1:Post ;
     ns1:itemId "bcphb2asab7"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 33, issue 1: Beyond the Veil"^^xsd:string ;
+    ns1:profileImg "33.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.1"^^xsd:string .
 
 ns1:bcphb2eggje a ns1:Post ;
@@ -37,6 +38,7 @@ ns1:bcphb2eggje a ns1:Post ;
     ns1:itemId "bcphb2eggje"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 33, issue 2: Popourri"^^xsd:string ;
+    ns1:profileImg "33.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.2"^^xsd:string .
 
 ns1:bcphb2huxmr a ns1:Post ;
@@ -50,6 +52,7 @@ ns1:bcphb2huxmr a ns1:Post ;
     ns1:itemId "bcphb2huxmr"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 33, issue 3: Dreams are Agents for Change"^^xsd:string ;
+    ns1:profileImg "33.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.3"^^xsd:string .
 
 ns1:bcphbh7fv5e a ns1:Post ;
@@ -63,6 +66,7 @@ ns1:bcphbh7fv5e a ns1:Post ;
     ns1:itemId "bcphbh7fv5e"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 1, issue 5"^^xsd:string ;
+    ns1:profileImg "1.5-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.5"^^xsd:string .
 
 ns1:bcphbhe6wex a ns1:Post ;
@@ -76,6 +80,7 @@ ns1:bcphbhe6wex a ns1:Post ;
     ns1:itemId "bcphbhe6wex"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 1, issue 1"^^xsd:string ;
+    ns1:profileImg "1.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.1"^^xsd:string .
 
 ns1:bcphbhpaiyz a ns1:Post ;
@@ -89,6 +94,7 @@ ns1:bcphbhpaiyz a ns1:Post ;
     ns1:itemId "bcphbhpaiyz"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 1, issue 2"^^xsd:string ;
+    ns1:profileImg "1.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.2"^^xsd:string .
 
 ns1:bcphbhs662v a ns1:Post ;
@@ -102,6 +108,7 @@ ns1:bcphbhs662v a ns1:Post ;
     ns1:itemId "bcphbhs662v"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 1, issue 3"^^xsd:string ;
+    ns1:profileImg "1.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.3"^^xsd:string .
 
 ns1:bcphbhxekxp a ns1:Post ;
@@ -115,6 +122,7 @@ ns1:bcphbhxekxp a ns1:Post ;
     ns1:itemId "bcphbhxekxp"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 1, issue 4"^^xsd:string ;
+    ns1:profileImg "1.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.4"^^xsd:string .
 
 ns1:bcphbi4awjx a ns1:Post ;
@@ -128,6 +136,7 @@ ns1:bcphbi4awjx a ns1:Post ;
     ns1:itemId "bcphbi4awjx"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2, issue 1"^^xsd:string ;
+    ns1:profileImg "2.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.1"^^xsd:string .
 
 ns1:bcphbibydox a ns1:Post ;
@@ -141,6 +150,7 @@ ns1:bcphbibydox a ns1:Post ;
     ns1:itemId "bcphbibydox"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 1, issue 7"^^xsd:string ;
+    ns1:profileImg "1.7-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.7"^^xsd:string .
 
 ns1:bcphbiinqeh a ns1:Post ;
@@ -154,6 +164,7 @@ ns1:bcphbiinqeh a ns1:Post ;
     ns1:itemId "bcphbiinqeh"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 1, issue 8"^^xsd:string ;
+    ns1:profileImg "1.8-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.8"^^xsd:string .
 
 ns1:bcphbimbkal a ns1:Post ;
@@ -167,6 +178,7 @@ ns1:bcphbimbkal a ns1:Post ;
     ns1:itemId "bcphbimbkal"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 1, issue 9"^^xsd:string ;
+    ns1:profileImg "1.9-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.9"^^xsd:string .
 
 ns1:bcphbirkrx4 a ns1:Post ;
@@ -180,6 +192,7 @@ ns1:bcphbirkrx4 a ns1:Post ;
     ns1:itemId "bcphbirkrx4"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 1, issue 10"^^xsd:string ;
+    ns1:profileImg "1.10-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.10"^^xsd:string .
 
 ns1:bcphbivy3pu a ns1:Post ;
@@ -193,6 +206,7 @@ ns1:bcphbivy3pu a ns1:Post ;
     ns1:itemId "bcphbivy3pu"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 1, issue 11"^^xsd:string ;
+    ns1:profileImg "1.11-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.11"^^xsd:string .
 
 ns1:bcphbj5rhy2 a ns1:Post ;
@@ -206,6 +220,7 @@ ns1:bcphbj5rhy2 a ns1:Post ;
     ns1:itemId "bcphbj5rhy2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2, issue 9"^^xsd:string ;
+    ns1:profileImg "2.9-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.9"^^xsd:string .
 
 ns1:bcphbja6ifz a ns1:Post ;
@@ -219,6 +234,7 @@ ns1:bcphbja6ifz a ns1:Post ;
     ns1:itemId "bcphbja6ifz"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2, issue 2"^^xsd:string ;
+    ns1:profileImg "2.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.2"^^xsd:string .
 
 ns1:bcphbje2mwm a ns1:Post ;
@@ -232,6 +248,7 @@ ns1:bcphbje2mwm a ns1:Post ;
     ns1:itemId "bcphbje2mwm"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2, issue 3"^^xsd:string ;
+    ns1:profileImg "2.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.3"^^xsd:string .
 
 ns1:bcphbjilydj a ns1:Post ;
@@ -245,6 +262,7 @@ ns1:bcphbjilydj a ns1:Post ;
     ns1:itemId "bcphbjilydj"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2, issue 4"^^xsd:string ;
+    ns1:profileImg "2.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.4"^^xsd:string .
 
 ns1:bcphbjmcifx a ns1:Post ;
@@ -258,6 +276,7 @@ ns1:bcphbjmcifx a ns1:Post ;
     ns1:itemId "bcphbjmcifx"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2, issue 5"^^xsd:string ;
+    ns1:profileImg "2.5-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.5"^^xsd:string .
 
 ns1:bcphbjpp3z2 a ns1:Post ;
@@ -271,6 +290,7 @@ ns1:bcphbjpp3z2 a ns1:Post ;
     ns1:itemId "bcphbjpp3z2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2, issue 6"^^xsd:string ;
+    ns1:profileImg "2.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.6"^^xsd:string .
 
 ns1:bcphbjv6pkd a ns1:Post ;
@@ -284,6 +304,7 @@ ns1:bcphbjv6pkd a ns1:Post ;
     ns1:itemId "bcphbjv6pkd"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2, issue 7"^^xsd:string ;
+    ns1:profileImg "2.7-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.7"^^xsd:string .
 
 ns1:bcphbjzjvrr a ns1:Post ;
@@ -297,6 +318,7 @@ ns1:bcphbjzjvrr a ns1:Post ;
     ns1:itemId "bcphbjzjvrr"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2, issue 8"^^xsd:string ;
+    ns1:profileImg "2.8-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.8"^^xsd:string .
 
 ns1:bcphbk2qeun a ns1:Post ;
@@ -310,6 +332,7 @@ ns1:bcphbk2qeun a ns1:Post ;
     ns1:itemId "bcphbk2qeun"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2, issue 12"^^xsd:string ;
+    ns1:profileImg "2.12-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.12"^^xsd:string .
 
 ns1:bcphbk6b6uk a ns1:Post ;
@@ -323,6 +346,7 @@ ns1:bcphbk6b6uk a ns1:Post ;
     ns1:itemId "bcphbk6b6uk"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 3, issue 1"^^xsd:string ;
+    ns1:profileImg "3.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "3.1"^^xsd:string .
 
 ns1:bcphbkea673 a ns1:Post ;
@@ -336,6 +360,7 @@ ns1:bcphbkea673 a ns1:Post ;
     ns1:itemId "bcphbkea673"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2, issue 10"^^xsd:string ;
+    ns1:profileImg "2.10-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.10"^^xsd:string .
 
 ns1:bcphbklgsln a ns1:Post ;
@@ -349,6 +374,7 @@ ns1:bcphbklgsln a ns1:Post ;
     ns1:itemId "bcphbklgsln"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2, issue 11"^^xsd:string ;
+    ns1:profileImg "2.11-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.11"^^xsd:string .
 
 ns1:bcphbl3kedf a ns1:Post ;
@@ -362,6 +388,7 @@ ns1:bcphbl3kedf a ns1:Post ;
     ns1:itemId "bcphbl3kedf"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 4, issue 5"^^xsd:string ;
+    ns1:profileImg "4.5-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.5"^^xsd:string .
 
 ns1:bcphblcllan a ns1:Post ;
@@ -375,6 +402,7 @@ ns1:bcphblcllan a ns1:Post ;
     ns1:itemId "bcphblcllan"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 3, issue 2"^^xsd:string ;
+    ns1:profileImg "3.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "3.2"^^xsd:string .
 
 ns1:bcphblfujy2 a ns1:Post ;
@@ -388,6 +416,7 @@ ns1:bcphblfujy2 a ns1:Post ;
     ns1:itemId "bcphblfujy2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 3, issue 3"^^xsd:string ;
+    ns1:profileImg "3.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "3.3"^^xsd:string .
 
 ns1:bcphbliwn3u a ns1:Post ;
@@ -401,6 +430,7 @@ ns1:bcphbliwn3u a ns1:Post ;
     ns1:itemId "bcphbliwn3u"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 3, issue 4"^^xsd:string ;
+    ns1:profileImg "3.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "3.4"^^xsd:string .
 
 ns1:bcphbllkqg7 a ns1:Post ;
@@ -414,6 +444,7 @@ ns1:bcphbllkqg7 a ns1:Post ;
     ns1:itemId "bcphbllkqg7"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 3, issue 5"^^xsd:string ;
+    ns1:profileImg "3.5-rect.jpg"^^xsd:string ;
     ns1:urlSlug "3.5"^^xsd:string .
 
 ns1:bcphblnikds a ns1:Post ;
@@ -427,6 +458,7 @@ ns1:bcphblnikds a ns1:Post ;
     ns1:itemId "bcphblnikds"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 3, issue 6"^^xsd:string ;
+    ns1:profileImg "3.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "3.6"^^xsd:string .
 
 ns1:bcphblqvj7h a ns1:Post ;
@@ -440,6 +472,7 @@ ns1:bcphblqvj7h a ns1:Post ;
     ns1:itemId "bcphblqvj7h"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 4, issue 1"^^xsd:string ;
+    ns1:profileImg "4.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.1"^^xsd:string .
 
 ns1:bcphblsydwp a ns1:Post ;
@@ -453,6 +486,7 @@ ns1:bcphblsydwp a ns1:Post ;
     ns1:itemId "bcphblsydwp"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 4, issue 2"^^xsd:string ;
+    ns1:profileImg "4.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.2"^^xsd:string .
 
 ns1:bcphblwwuy6 a ns1:Post ;
@@ -466,6 +500,7 @@ ns1:bcphblwwuy6 a ns1:Post ;
     ns1:itemId "bcphblwwuy6"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 4, issue 3"^^xsd:string ;
+    ns1:profileImg "4.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.3"^^xsd:string .
 
 ns1:bcphblyrd2y a ns1:Post ;
@@ -479,6 +514,7 @@ ns1:bcphblyrd2y a ns1:Post ;
     ns1:itemId "bcphblyrd2y"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 4, issue 4"^^xsd:string ;
+    ns1:profileImg "4.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.4"^^xsd:string .
 
 ns1:bcphbm5mept a ns1:Post ;
@@ -492,6 +528,7 @@ ns1:bcphbm5mept a ns1:Post ;
     ns1:itemId "bcphbm5mept"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 6, issue 2"^^xsd:string ;
+    ns1:profileImg "6.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.2"^^xsd:string .
 
 ns1:bcphbmaewem a ns1:Post ;
@@ -505,6 +542,7 @@ ns1:bcphbmaewem a ns1:Post ;
     ns1:itemId "bcphbmaewem"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 4, issue 6"^^xsd:string ;
+    ns1:profileImg "4.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.6"^^xsd:string .
 
 ns1:bcphbmepnkg a ns1:Post ;
@@ -518,6 +556,7 @@ ns1:bcphbmepnkg a ns1:Post ;
     ns1:itemId "bcphbmepnkg"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 5, issue 1"^^xsd:string ;
+    ns1:profileImg "5.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "5.1"^^xsd:string .
 
 ns1:bcphbmgxd6x a ns1:Post ;
@@ -531,6 +570,7 @@ ns1:bcphbmgxd6x a ns1:Post ;
     ns1:itemId "bcphbmgxd6x"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 5, issue 2"^^xsd:string ;
+    ns1:profileImg "5.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "5.2"^^xsd:string .
 
 ns1:bcphbmjs6by a ns1:Post ;
@@ -544,6 +584,7 @@ ns1:bcphbmjs6by a ns1:Post ;
     ns1:itemId "bcphbmjs6by"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 5, issue 3"^^xsd:string ;
+    ns1:profileImg "5.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "5.3"^^xsd:string .
 
 ns1:bcphbmmohfo a ns1:Post ;
@@ -557,6 +598,7 @@ ns1:bcphbmmohfo a ns1:Post ;
     ns1:itemId "bcphbmmohfo"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 5, issue 4"^^xsd:string ;
+    ns1:profileImg "5.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "5.4"^^xsd:string .
 
 ns1:bcphbmqor5y a ns1:Post ;
@@ -570,6 +612,7 @@ ns1:bcphbmqor5y a ns1:Post ;
     ns1:itemId "bcphbmqor5y"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 5, issue 5"^^xsd:string ;
+    ns1:profileImg "5.5-rect.jpg"^^xsd:string ;
     ns1:urlSlug "5.5"^^xsd:string .
 
 ns1:bcphbmz7lpz a ns1:Post ;
@@ -583,6 +626,7 @@ ns1:bcphbmz7lpz a ns1:Post ;
     ns1:itemId "bcphbmz7lpz"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 6, issue 1"^^xsd:string ;
+    ns1:profileImg "6.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.1"^^xsd:string .
 
 ns1:bcphbn2j47k a ns1:Post ;
@@ -596,6 +640,7 @@ ns1:bcphbn2j47k a ns1:Post ;
     ns1:itemId "bcphbn2j47k"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 8, issue 1"^^xsd:string ;
+    ns1:profileImg "8.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.1"^^xsd:string .
 
 ns1:bcphbn5gpez a ns1:Post ;
@@ -609,6 +654,7 @@ ns1:bcphbn5gpez a ns1:Post ;
     ns1:itemId "bcphbn5gpez"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 8, issue 2"^^xsd:string ;
+    ns1:profileImg "8.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.2"^^xsd:string .
 
 ns1:bcphbnagfeb a ns1:Post ;
@@ -622,6 +668,7 @@ ns1:bcphbnagfeb a ns1:Post ;
     ns1:itemId "bcphbnagfeb"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 6, issue 3"^^xsd:string ;
+    ns1:profileImg "6.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.3"^^xsd:string .
 
 ns1:bcphbndh32i a ns1:Post ;
@@ -635,6 +682,7 @@ ns1:bcphbndh32i a ns1:Post ;
     ns1:itemId "bcphbndh32i"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 6, issue 4"^^xsd:string ;
+    ns1:profileImg "6.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.4"^^xsd:string .
 
 ns1:bcphbnhzqtk a ns1:Post ;
@@ -648,6 +696,7 @@ ns1:bcphbnhzqtk a ns1:Post ;
     ns1:itemId "bcphbnhzqtk"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 7, issue 1"^^xsd:string ;
+    ns1:profileImg "7.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.1"^^xsd:string .
 
 ns1:bcphbnlbw5k a ns1:Post ;
@@ -661,6 +710,7 @@ ns1:bcphbnlbw5k a ns1:Post ;
     ns1:itemId "bcphbnlbw5k"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 7, issue 2"^^xsd:string ;
+    ns1:profileImg "7.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.2"^^xsd:string .
 
 ns1:bcphbnodjs2 a ns1:Post ;
@@ -674,6 +724,7 @@ ns1:bcphbnodjs2 a ns1:Post ;
     ns1:itemId "bcphbnodjs2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 7, issue 3"^^xsd:string ;
+    ns1:profileImg "7.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.3"^^xsd:string .
 
 ns1:bcphbnp3qol a ns1:Post ;
@@ -687,6 +738,7 @@ ns1:bcphbnp3qol a ns1:Post ;
     ns1:itemId "bcphbnp3qol"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 7, issue 4"^^xsd:string ;
+    ns1:profileImg "7.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.4"^^xsd:string .
 
 ns1:bcphbntd445 a ns1:Post ;
@@ -700,6 +752,7 @@ ns1:bcphbntd445 a ns1:Post ;
     ns1:itemId "bcphbntd445"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 7, issue 5"^^xsd:string ;
+    ns1:profileImg "7.5-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.5"^^xsd:string .
 
 ns1:bcphbnxwzvo a ns1:Post ;
@@ -713,6 +766,7 @@ ns1:bcphbnxwzvo a ns1:Post ;
     ns1:itemId "bcphbnxwzvo"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 7, issue 6"^^xsd:string ;
+    ns1:profileImg "7.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.6"^^xsd:string .
 
 ns1:bcphbo4ff76 a ns1:Post ;
@@ -726,6 +780,7 @@ ns1:bcphbo4ff76 a ns1:Post ;
     ns1:itemId "bcphbo4ff76"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 10, issue 1: Healing the Child Within "^^xsd:string ;
+    ns1:profileImg "10.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "10.1"^^xsd:string .
 
 ns1:bcphboajs77 a ns1:Post ;
@@ -739,6 +794,7 @@ ns1:bcphboajs77 a ns1:Post ;
     ns1:itemId "bcphboajs77"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 8, issue 3"^^xsd:string ;
+    ns1:profileImg "8.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.3"^^xsd:string .
 
 ns1:bcphboc7tt5 a ns1:Post ;
@@ -752,6 +808,7 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:itemId "bcphboc7tt5"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 8, issue 4"^^xsd:string ;
+    ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.4"^^xsd:string .
 
 ns1:bcphbohoqoq a ns1:Post ;
@@ -765,6 +822,7 @@ ns1:bcphbohoqoq a ns1:Post ;
     ns1:itemId "bcphbohoqoq"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 9, issue 1: Making Dreams Real"^^xsd:string ;
+    ns1:profileImg "9.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "9.1"^^xsd:string .
 
 ns1:bcphbolab5r a ns1:Post ;
@@ -778,6 +836,7 @@ ns1:bcphbolab5r a ns1:Post ;
     ns1:itemId "bcphbolab5r"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 9, issue 2: Dreams, Passages & The Family"^^xsd:string ;
+    ns1:profileImg "9.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "9.2"^^xsd:string .
 
 ns1:bcphbope3kf a ns1:Post ;
@@ -791,6 +850,7 @@ ns1:bcphbope3kf a ns1:Post ;
     ns1:itemId "bcphbope3kf"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 9, issue 3: The Variety of Dreams & Dream Guidance"^^xsd:string ;
+    ns1:profileImg "9.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "9.3"^^xsd:string .
 
 ns1:bcphbovuijt a ns1:Post ;
@@ -804,6 +864,7 @@ ns1:bcphbovuijt a ns1:Post ;
     ns1:itemId "bcphbovuijt"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 9, issue 4: Dreams as Gateways to the 'Other Side'"^^xsd:string ;
+    ns1:profileImg "9.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "9.4"^^xsd:string .
 
 ns1:bcphbp2b6gy a ns1:Post ;
@@ -817,6 +878,7 @@ ns1:bcphbp2b6gy a ns1:Post ;
     ns1:itemId "bcphbp2b6gy"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 11, issue 3: Relationships"^^xsd:string ;
+    ns1:profileImg "11.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "11.3"^^xsd:string .
 
 ns1:bcphbp7rfno a ns1:Post ;
@@ -830,6 +892,7 @@ ns1:bcphbp7rfno a ns1:Post ;
     ns1:itemId "bcphbp7rfno"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 11, issue 4: Androgyny: The Union of Opposites"^^xsd:string ;
+    ns1:profileImg "11.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "11.4"^^xsd:string .
 
 ns1:bcphbpfnwcb a ns1:Post ;
@@ -843,6 +906,7 @@ ns1:bcphbpfnwcb a ns1:Post ;
     ns1:itemId "bcphbpfnwcb"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 10, issue 2: Healing our Souls, Healing the Earth"^^xsd:string ;
+    ns1:profileImg "10.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "10.2-3"^^xsd:string .
 
 ns1:bcphbpntuo4 a ns1:Post ;
@@ -856,6 +920,7 @@ ns1:bcphbpntuo4 a ns1:Post ;
     ns1:itemId "bcphbpntuo4"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 10, issue 4: Overcoming Addictions: Can our Dreams Help?"^^xsd:string ;
+    ns1:profileImg "10.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "10.4"^^xsd:string .
 
 ns1:bcphbpqyqpo a ns1:Post ;
@@ -869,6 +934,7 @@ ns1:bcphbpqyqpo a ns1:Post ;
     ns1:itemId "bcphbpqyqpo"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 11, issue 1: Women's Dreams"^^xsd:string ;
+    ns1:profileImg "11.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "11.1"^^xsd:string .
 
 ns1:bcphbpumr2x a ns1:Post ;
@@ -882,6 +948,7 @@ ns1:bcphbpumr2x a ns1:Post ;
     ns1:itemId "bcphbpumr2x"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 11, issue 2: Men's Dreams"^^xsd:string ;
+    ns1:profileImg "11.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "11.2"^^xsd:string .
 
 ns1:bcphbq3ferr a ns1:User ;
@@ -912,6 +979,7 @@ ns1:bcphbq3xymn a ns1:Post ;
     ns1:itemId "bcphbq3xymn"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 13, issue 3: Cross Cultural Perspectives on Dream & Myth: Native American Views"^^xsd:string ;
+    ns1:profileImg "13.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.3"^^xsd:string .
 
 ns1:bcphbq7rbsc a ns1:Post ;
@@ -925,6 +993,7 @@ ns1:bcphbq7rbsc a ns1:Post ;
     ns1:itemId "bcphbq7rbsc"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 13, issue 4: Cross Cultural Perspectives on Dream & Myth: Extraterrestrial Dreams"^^xsd:string ;
+    ns1:profileImg "13.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.4"^^xsd:string .
 
 ns1:bcphbqdrrm2 a ns1:Post ;
@@ -938,6 +1007,7 @@ ns1:bcphbqdrrm2 a ns1:Post ;
     ns1:itemId "bcphbqdrrm2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 12, issue 1: Animals in Dreams: Birds, Insects & Fish"^^xsd:string ;
+    ns1:profileImg "12.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "12.1"^^xsd:string .
 
 ns1:bcphbqi5hzh a ns1:Post ;
@@ -951,6 +1021,7 @@ ns1:bcphbqi5hzh a ns1:Post ;
     ns1:itemId "bcphbqi5hzh"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 12, issue 2: Animals in Dreams: More Creatures..."^^xsd:string ;
+    ns1:profileImg "12.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "12.2"^^xsd:string .
 
 ns1:bcphbqmxcnl a ns1:Post ;
@@ -964,6 +1035,7 @@ ns1:bcphbqmxcnl a ns1:Post ;
     ns1:itemId "bcphbqmxcnl"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 12, issue 3: Flora, Stones & Crystals in Dreams"^^xsd:string ;
+    ns1:profileImg "12.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "12.3"^^xsd:string .
 
 ns1:bcphbqp3hfp a ns1:Post ;
@@ -977,6 +1049,7 @@ ns1:bcphbqp3hfp a ns1:Post ;
     ns1:itemId "bcphbqp3hfp"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 12, issue 4: Water, Earth, Air & Fire in Dreams"^^xsd:string ;
+    ns1:profileImg "12.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "12.4"^^xsd:string .
 
 ns1:bcphbqvckd7 a ns1:Post ;
@@ -990,6 +1063,7 @@ ns1:bcphbqvckd7 a ns1:Post ;
     ns1:itemId "bcphbqvckd7"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 13, issue 1: Cross Cultural Perspectives on Dream & Myth"^^xsd:string ;
+    ns1:profileImg "13.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.1"^^xsd:string .
 
 ns1:bcphbqyogh7 a ns1:Post ;
@@ -1003,6 +1077,7 @@ ns1:bcphbqyogh7 a ns1:Post ;
     ns1:itemId "bcphbqyogh7"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 13, issue 2: Cross Cultural Perspectives on Dream & Myth: More Cross-Cultural Perspectives"^^xsd:string ;
+    ns1:profileImg "13.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.2"^^xsd:string .
 
 ns1:bcphbr4spo2 a ns1:Post ;
@@ -1016,6 +1091,7 @@ ns1:bcphbr4spo2 a ns1:Post ;
     ns1:itemId "bcphbr4spo2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 15, issue 2: Focus on Healing"^^xsd:string ;
+    ns1:profileImg "15.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "15.2-3"^^xsd:string .
 
 ns1:bcphbr7xrtd a ns1:Post ;
@@ -1029,6 +1105,7 @@ ns1:bcphbr7xrtd a ns1:Post ;
     ns1:itemId "bcphbr7xrtd"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 15, issue 4: Symbols: Language of the Soul"^^xsd:string ;
+    ns1:profileImg "15.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "15.4"^^xsd:string .
 
 ns1:bcphbrfqwml a ns1:Post ;
@@ -1042,6 +1119,7 @@ ns1:bcphbrfqwml a ns1:Post ;
     ns1:itemId "bcphbrfqwml"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 14, issue 1: Dreaming Humanity's Path: Protecting the Children & Warning Dreams"^^xsd:string ;
+    ns1:profileImg "14.1-2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "14.1-2"^^xsd:string .
 
 ns1:bcphbrnlz5j a ns1:Post ;
@@ -1055,6 +1133,7 @@ ns1:bcphbrnlz5j a ns1:Post ;
     ns1:itemId "bcphbrnlz5j"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 14, issue 3: Dreaming Humanity's Path: Visions of Guidance for Humanity"^^xsd:string ;
+    ns1:profileImg "14.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "14.3"^^xsd:string .
 
 ns1:bcphbrptpuy a ns1:Post ;
@@ -1068,6 +1147,7 @@ ns1:bcphbrptpuy a ns1:Post ;
     ns1:itemId "bcphbrptpuy"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 14, issue 4: Dreaming Humanity's Path: Beyond the Veil"^^xsd:string ;
+    ns1:profileImg "14.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "14.4"^^xsd:string .
 
 ns1:bcphbs4b6on a ns1:Post ;
@@ -1081,6 +1161,7 @@ ns1:bcphbs4b6on a ns1:Post ;
     ns1:itemId "bcphbs4b6on"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 17, issue 1: Lucid, Mutual, WILD Dreaming"^^xsd:string ;
+    ns1:profileImg "17.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.1"^^xsd:string .
 
 ns1:bcphbsc3ttt a ns1:Post ;
@@ -1094,6 +1175,7 @@ ns1:bcphbsc3ttt a ns1:Post ;
     ns1:itemId "bcphbsc3ttt"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 16, issue 1: Dancing the Dream Awake"^^xsd:string ;
+    ns1:profileImg "16.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "16.1"^^xsd:string .
 
 ns1:bcphbshc2lb a ns1:Post ;
@@ -1107,6 +1189,7 @@ ns1:bcphbshc2lb a ns1:Post ;
     ns1:itemId "bcphbshc2lb"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 16, issue 2: Dreamsharing with Children"^^xsd:string ;
+    ns1:profileImg "16.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "16.2"^^xsd:string .
 
 ns1:bcphbslvedc a ns1:Post ;
@@ -1120,6 +1203,7 @@ ns1:bcphbslvedc a ns1:Post ;
     ns1:itemId "bcphbslvedc"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 16, issue 3: The Wit & Wisdom in Dreams"^^xsd:string ;
+    ns1:profileImg "16.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "16.3"^^xsd:string .
 
 ns1:bcphbsvz3ik a ns1:Post ;
@@ -1133,6 +1217,7 @@ ns1:bcphbsvz3ik a ns1:Post ;
     ns1:itemId "bcphbsvz3ik"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 16, issue 4: Dreams & Culture"^^xsd:string ;
+    ns1:profileImg "16.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "16.4"^^xsd:string .
 
 ns1:bcphbt33uhn a ns1:Post ;
@@ -1146,6 +1231,7 @@ ns1:bcphbt33uhn a ns1:Post ;
     ns1:itemId "bcphbt33uhn"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 18, issue 4: Preparing for the Millennium"^^xsd:string ;
+    ns1:profileImg "18.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "18.4"^^xsd:string .
 
 ns1:bcphbt7x4uv a ns1:Post ;
@@ -1159,6 +1245,7 @@ ns1:bcphbt7x4uv a ns1:Post ;
     ns1:itemId "bcphbt7x4uv"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 19, issue 1: Animals in Dreams: What do they Symbolize?"^^xsd:string ;
+    ns1:profileImg "19.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "19.1"^^xsd:string .
 
 ns1:bcphbtbcugl a ns1:Post ;
@@ -1172,6 +1259,7 @@ ns1:bcphbtbcugl a ns1:Post ;
     ns1:itemId "bcphbtbcugl"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 17, issue 2: Enhancing & Healing Relationships"^^xsd:string ;
+    ns1:profileImg "17.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.2"^^xsd:string .
 
 ns1:bcphbte5ugv a ns1:Post ;
@@ -1185,6 +1273,7 @@ ns1:bcphbte5ugv a ns1:Post ;
     ns1:itemId "bcphbte5ugv"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 17, issue 3: Exploring Dreams' Relationship to Mythology"^^xsd:string ;
+    ns1:profileImg "17.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.3"^^xsd:string .
 
 ns1:bcphbtj7a2e a ns1:Post ;
@@ -1198,6 +1287,7 @@ ns1:bcphbtj7a2e a ns1:Post ;
     ns1:itemId "bcphbtj7a2e"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 17, issue 4: Creative Dreamwork in the Central Corridor"^^xsd:string ;
+    ns1:profileImg "17.4-18.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.4-18.1"^^xsd:string .
 
 ns1:bcphbtsx7s6 a ns1:Post ;
@@ -1211,6 +1301,7 @@ ns1:bcphbtsx7s6 a ns1:Post ;
     ns1:itemId "bcphbtsx7s6"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 18, issue 2: Prophetic Dreams"^^xsd:string ;
+    ns1:profileImg "18.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "18.2"^^xsd:string .
 
 ns1:bcphbtxh2bi a ns1:Post ;
@@ -1224,6 +1315,7 @@ ns1:bcphbtxh2bi a ns1:Post ;
     ns1:itemId "bcphbtxh2bi"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 18, issue 3: The Healing Power of Dreams"^^xsd:string ;
+    ns1:profileImg "18.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "18.3"^^xsd:string .
 
 ns1:bcphbu3wddv a ns1:Post ;
@@ -1237,6 +1329,7 @@ ns1:bcphbu3wddv a ns1:Post ;
     ns1:itemId "bcphbu3wddv"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 21, issue 1: Creativity & Crisis: Dream Inspired Music I"^^xsd:string ;
+    ns1:profileImg "21.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "21.1"^^xsd:string .
 
 ns1:bcphbu6vnbl a ns1:Post ;
@@ -1250,6 +1343,7 @@ ns1:bcphbu6vnbl a ns1:Post ;
     ns1:itemId "bcphbu6vnbl"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 21, issue 2: Creativity & Crisis: Dream Inspired Music II"^^xsd:string ;
+    ns1:profileImg "21.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "21.2"^^xsd:string .
 
 ns1:bcphbugth7l a ns1:Post ;
@@ -1263,6 +1357,7 @@ ns1:bcphbugth7l a ns1:Post ;
     ns1:itemId "bcphbugth7l"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 19, issue 2: Sexuality in Dreams"^^xsd:string ;
+    ns1:profileImg "19.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "19.2"^^xsd:string .
 
 ns1:bcphbuj7fdh a ns1:Post ;
@@ -1276,6 +1371,7 @@ ns1:bcphbuj7fdh a ns1:Post ;
     ns1:itemId "bcphbuj7fdh"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 19, issue 3: Dreams & Religion"^^xsd:string ;
+    ns1:profileImg "19.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "19.3"^^xsd:string .
 
 ns1:bcphbumhc4e a ns1:Post ;
@@ -1289,6 +1385,7 @@ ns1:bcphbumhc4e a ns1:Post ;
     ns1:itemId "bcphbumhc4e"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 19, issue 4: Shamanism & Dreams I"^^xsd:string ;
+    ns1:profileImg "19.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "19.4"^^xsd:string .
 
 ns1:bcphbupdomk a ns1:Post ;
@@ -1302,6 +1399,7 @@ ns1:bcphbupdomk a ns1:Post ;
     ns1:itemId "bcphbupdomk"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 20, issue 1: Shamanism & Dreams II"^^xsd:string ;
+    ns1:profileImg "20.1-2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "20.1-2"^^xsd:string .
 
 ns1:bcphbusgyjg a ns1:Post ;
@@ -1315,6 +1413,7 @@ ns1:bcphbusgyjg a ns1:Post ;
     ns1:itemId "bcphbusgyjg"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 20, issue 3: Dream Inspired Poetry"^^xsd:string ;
+    ns1:profileImg "20.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "20.3"^^xsd:string .
 
 ns1:bcphbuzcgu3 a ns1:Post ;
@@ -1328,6 +1427,7 @@ ns1:bcphbuzcgu3 a ns1:Post ;
     ns1:itemId "bcphbuzcgu3"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 20, issue 4: Dreams and 9.11"^^xsd:string ;
+    ns1:profileImg "20.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "20.4"^^xsd:string .
 
 ns1:bcphbv3fbuv a ns1:Post ;
@@ -1341,6 +1441,7 @@ ns1:bcphbv3fbuv a ns1:Post ;
     ns1:itemId "bcphbv3fbuv"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 23, issue 1: Dancing the Dream Awake"^^xsd:string ;
+    ns1:profileImg "23.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "23.1"^^xsd:string .
 
 ns1:bcphbv6y2vp a ns1:Post ;
@@ -1354,6 +1455,7 @@ ns1:bcphbv6y2vp a ns1:Post ;
     ns1:itemId "bcphbv6y2vp"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 23, issue 2: Creative Dreamwork"^^xsd:string ;
+    ns1:profileImg "23.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "23.2"^^xsd:string .
 
 ns1:bcphbvbqspq a ns1:Post ;
@@ -1367,6 +1469,7 @@ ns1:bcphbvbqspq a ns1:Post ;
     ns1:itemId "bcphbvbqspq"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 21, issue 3: The Art of Dream Sharing"^^xsd:string ;
+    ns1:profileImg "21.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "21.3"^^xsd:string .
 
 ns1:bcphbvecgmx a ns1:Post ;
@@ -1380,6 +1483,7 @@ ns1:bcphbvecgmx a ns1:Post ;
     ns1:itemId "bcphbvecgmx"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 21, issue 4: Evolution of the Dream Movement"^^xsd:string ;
+    ns1:profileImg "21.4-22.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "21.4-22.1"^^xsd:string .
 
 ns1:bcphbvjopd2 a ns1:Post ;
@@ -1393,6 +1497,7 @@ ns1:bcphbvjopd2 a ns1:Post ;
     ns1:itemId "bcphbvjopd2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 22, issue 2: Peace"^^xsd:string ;
+    ns1:profileImg "22.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "22.2"^^xsd:string .
 
 ns1:bcphbvob4z7 a ns1:Post ;
@@ -1406,6 +1511,7 @@ ns1:bcphbvob4z7 a ns1:Post ;
     ns1:itemId "bcphbvob4z7"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 22, issue 3: Dreams, Aging and Death"^^xsd:string ;
+    ns1:profileImg "22.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "22.3"^^xsd:string .
 
 ns1:bcphbvvhigo a ns1:Post ;
@@ -1419,6 +1525,7 @@ ns1:bcphbvvhigo a ns1:Post ;
     ns1:itemId "bcphbvvhigo"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 22, issue 4: Dreaming of Extraterrestrials"^^xsd:string ;
+    ns1:profileImg "22.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "22.4"^^xsd:string .
 
 ns1:bcphbw4yscz a ns1:Post ;
@@ -1432,6 +1539,7 @@ ns1:bcphbw4yscz a ns1:Post ;
     ns1:itemId "bcphbw4yscz"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 25, issue 2: A Tribute to Monte Ullman"^^xsd:string ;
+    ns1:profileImg "25.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "25.2"^^xsd:string .
 
 ns1:bcphbwctnd2 a ns1:Post ;
@@ -1445,6 +1553,7 @@ ns1:bcphbwctnd2 a ns1:Post ;
     ns1:itemId "bcphbwctnd2"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 23, issue 3: Prophetic Dreams & Deja Vu"^^xsd:string ;
+    ns1:profileImg "23.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "23.3"^^xsd:string .
 
 ns1:bcphbwfw4rc a ns1:Post ;
@@ -1458,6 +1567,7 @@ ns1:bcphbwfw4rc a ns1:Post ;
     ns1:itemId "bcphbwfw4rc"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 23, issue 4: Dreaming as a Practice"^^xsd:string ;
+    ns1:profileImg "23.4-24.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "23.4-24.1"^^xsd:string .
 
 ns1:bcphbwmlvfh a ns1:Post ;
@@ -1471,6 +1581,7 @@ ns1:bcphbwmlvfh a ns1:Post ;
     ns1:itemId "bcphbwmlvfh"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 24, issue 2: Facing & Embracing Fear"^^xsd:string ;
+    ns1:profileImg "24.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "24.2"^^xsd:string .
 
 ns1:bcphbwpd2l7 a ns1:Post ;
@@ -1484,6 +1595,7 @@ ns1:bcphbwpd2l7 a ns1:Post ;
     ns1:itemId "bcphbwpd2l7"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 24, issue 3: Dreams of Rebirth ~ Death ~ Rebirth"^^xsd:string ;
+    ns1:profileImg "24.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "24.3"^^xsd:string .
 
 ns1:bcphbwv4jtr a ns1:Post ;
@@ -1497,6 +1609,7 @@ ns1:bcphbwv4jtr a ns1:Post ;
     ns1:itemId "bcphbwv4jtr"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 24, issue 4: Dreams: A Calling"^^xsd:string ;
+    ns1:profileImg "24.4-25.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "24.4-25.1"^^xsd:string .
 
 ns1:bcphbx7d7cu a ns1:Post ;
@@ -1510,6 +1623,7 @@ ns1:bcphbx7d7cu a ns1:Post ;
     ns1:itemId "bcphbx7d7cu"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 27, issue 4: Dreams as Agents for Change"^^xsd:string ;
+    ns1:profileImg "27.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "27.4"^^xsd:string .
 
 ns1:bcphbxal53y a ns1:Post ;
@@ -1523,6 +1637,7 @@ ns1:bcphbxal53y a ns1:Post ;
     ns1:itemId "bcphbxal53y"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 25, issue 3: Back to Basics"^^xsd:string ;
+    ns1:profileImg "25.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "25.3"^^xsd:string .
 
 ns1:bcphbxfpj5j a ns1:Post ;
@@ -1536,6 +1651,7 @@ ns1:bcphbxfpj5j a ns1:Post ;
     ns1:itemId "bcphbxfpj5j"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 25, issue 4: Make Way for the Animals in our Dreams"^^xsd:string ;
+    ns1:profileImg "25.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "25.4"^^xsd:string .
 
 ns1:bcphbxjsuyu a ns1:Post ;
@@ -1549,6 +1665,7 @@ ns1:bcphbxjsuyu a ns1:Post ;
     ns1:itemId "bcphbxjsuyu"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 26, issue 1: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
+    ns1:profileImg "26.1-2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "26.1-2"^^xsd:string .
 
 ns1:bcphbxm2y5p a ns1:Post ;
@@ -1562,6 +1679,7 @@ ns1:bcphbxm2y5p a ns1:Post ;
     ns1:itemId "bcphbxm2y5p"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 26, issue 3: Visionary Activism"^^xsd:string ;
+    ns1:profileImg "26.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "26.3"^^xsd:string .
 
 ns1:bcphbxuajab a ns1:Post ;
@@ -1575,6 +1693,7 @@ ns1:bcphbxuajab a ns1:Post ;
     ns1:itemId "bcphbxuajab"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 27, issue 1: Children Dreaming"^^xsd:string ;
+    ns1:profileImg "27.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "27.1"^^xsd:string .
 
 ns1:bcphbxz53sl a ns1:Post ;
@@ -1588,6 +1707,7 @@ ns1:bcphbxz53sl a ns1:Post ;
     ns1:itemId "bcphbxz53sl"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 27, issue 3: Dreaming Politics"^^xsd:string ;
+    ns1:profileImg "27.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "27.3"^^xsd:string .
 
 ns1:bcphby2swke a ns1:Post ;
@@ -1601,6 +1721,7 @@ ns1:bcphby2swke a ns1:Post ;
     ns1:itemId "bcphby2swke"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 29, issue 4: Crop Circles"^^xsd:string ;
+    ns1:profileImg "29.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.4"^^xsd:string .
 
 ns1:bcphby5wc2q a ns1:Post ;
@@ -1614,6 +1735,7 @@ ns1:bcphby5wc2q a ns1:Post ;
     ns1:itemId "bcphby5wc2q"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 30, issue 1: Dreams, Religion and the Divine"^^xsd:string ;
+    ns1:profileImg "30.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "30.1"^^xsd:string .
 
 ns1:bcphbycqos5 a ns1:Post ;
@@ -1627,6 +1749,7 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:itemId "bcphbycqos5"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 28, issue 1: Chaos & Apocalypse"^^xsd:string ;
+    ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.1"^^xsd:string .
 
 ns1:bcphbygiw4g a ns1:Post ;
@@ -1640,6 +1763,7 @@ ns1:bcphbygiw4g a ns1:Post ;
     ns1:itemId "bcphbygiw4g"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
+    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.2-3"^^xsd:string .
 
 ns1:bcphbyjvotn a ns1:Post ;
@@ -1653,6 +1777,7 @@ ns1:bcphbyjvotn a ns1:Post ;
     ns1:itemId "bcphbyjvotn"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 28, issue 4: Destiny"^^xsd:string ;
+    ns1:profileImg "28.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.4"^^xsd:string .
 
 ns1:bcphbyl3dut a ns1:Post ;
@@ -1666,6 +1791,7 @@ ns1:bcphbyl3dut a ns1:Post ;
     ns1:itemId "bcphbyl3dut"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 29, issue 1: Healing"^^xsd:string ;
+    ns1:profileImg "29.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.1"^^xsd:string .
 
 ns1:bcphbyoxe6n a ns1:Post ;
@@ -1679,6 +1805,7 @@ ns1:bcphbyoxe6n a ns1:Post ;
     ns1:itemId "bcphbyoxe6n"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 29, issue 2: Back to the Future"^^xsd:string ;
+    ns1:profileImg "29.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.2"^^xsd:string .
 
 ns1:bcphbyukqzw a ns1:Post ;
@@ -1692,6 +1819,7 @@ ns1:bcphbyukqzw a ns1:Post ;
     ns1:itemId "bcphbyukqzw"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
+    ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.3"^^xsd:string .
 
 ns1:bcphbz2bump a ns1:Post ;
@@ -1705,6 +1833,7 @@ ns1:bcphbz2bump a ns1:Post ;
     ns1:itemId "bcphbz2bump"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 32, issue 2: Shamanic Dreams"^^xsd:string ;
+    ns1:profileImg "32.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.2-3"^^xsd:string .
 
 ns1:bcphbzaknqj a ns1:Post ;
@@ -1718,20 +1847,8 @@ ns1:bcphbzaknqj a ns1:Post ;
     ns1:itemId "bcphbzaknqj"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 30, issue 2: Money in Dreams: What does it Synbolize?"^^xsd:string ;
+    ns1:profileImg "30.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "30.2-3"^^xsd:string .
-
-ns1:bcphbzdzrug a ns1:Post ;
-    ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/30.4-rect.jpg"/><a href="../files/pdfs/Volume_30/30.4_music.pdf" download="">Download issue 30.4</a><br><a href="../files/pdfs/Volume_30/30.4_music.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocndszw ;
-    ns1:itemId "bcphbzdzrug"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 30, issue 4: Music in our Dreams"^^xsd:string ;
-    ns1:urlSlug "30.4"^^xsd:string .
 
 ns1:bcphbzhpgrg a ns1:Post ;
     ns1:coverImg "31.1-cover.jpg"^^xsd:string ;
@@ -1744,6 +1861,7 @@ ns1:bcphbzhpgrg a ns1:Post ;
     ns1:itemId "bcphbzhpgrg"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 31, issue 1: Calling Forth Angels"^^xsd:string ;
+    ns1:profileImg "31.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.1"^^xsd:string .
 
 ns1:bcphbzlhdke a ns1:Post ;
@@ -1757,6 +1875,7 @@ ns1:bcphbzlhdke a ns1:Post ;
     ns1:itemId "bcphbzlhdke"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 31, issue 2: Calling Forth Angels II"^^xsd:string ;
+    ns1:profileImg "31.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.2"^^xsd:string .
 
 ns1:bcphbzoxivb a ns1:Post ;
@@ -1770,6 +1889,7 @@ ns1:bcphbzoxivb a ns1:Post ;
     ns1:itemId "bcphbzoxivb"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 31, issue 3: Dreaming Politics"^^xsd:string ;
+    ns1:profileImg "31.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.3"^^xsd:string .
 
 ns1:bcphbzrw57c a ns1:Post ;
@@ -1783,6 +1903,7 @@ ns1:bcphbzrw57c a ns1:Post ;
     ns1:itemId "bcphbzrw57c"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 31, issue 4: Dreaming Humanity's Path"^^xsd:string ;
+    ns1:profileImg "31.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.4"^^xsd:string .
 
 ns1:bcphbzxidqa a ns1:Post ;
@@ -1796,6 +1917,7 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:itemId "bcphbzxidqa"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 32, issue 1: Group Dreaming"^^xsd:string ;
+    ns1:profileImg "32.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
 
 ns1:bcpov6pacmm a ns1:Post ;
@@ -2193,6 +2315,119 @@ ns1:bcpov6zfexpl a ns1:Post ;
     ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
     ns1:urlSlug "exploring-the-mystery"^^xsd:string .
 
+ns1:bcpov6zfgil1 a ns1:Post ;
+    ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zfgil1-0.jpg" alt="Hoffman at his computer" /></p>
+
+<p>Dreams have long been a source of inspiration for musical composers of all genres. For example, Richard Wagner – who once wrote that “all poetry is only true dream interpretation” – recounted in his autobiography that he was unable to find a way to begin his gigantic Ring of the Niebelungen cycle when he had a dream in which he felt that he was drowning in overwhelming waves, while the figurations of an E flat major chord sounded in his mind. When he awoke, he realized that his dream had provided him with the opening of Das Rheingold, which is set at the bottom of the Rhine River. </p>
+
+<p>When I proposed doing a symposium on music and dreaming to some colleagues at the 2010 IASD conference, what I had in mind to present was exploring how music finds its way into my dreams and how my unconscious mind is able to recognize musical themes and compositions. However, recent events in my dream life have transformed this study into an exploration of how music found its way out of my dreams and into a partially finished composition. </p>
+
+<p>I have journaled my dreams for the past 19 years, using a database program that allows me to retrieve motifs with ease over the entire period. Out of a total of 9,696 recorded dreams, 332 contain the words “music” or “musical” – an average of 3.4% of the total. Over time, the number of musical dreams averaged 17.3 per year, and tended to increase to a peak in year 11 (2002-3), then to decrease to around the mean, and lastly to increase again sharply, starting in year 18 and continuing to the present (2009-11). (See Figure 1).</p>
+
+<p><img src="../images/post-bcpov6zfgil1-2.jpg" alt="Graph" /></p>
+
+<p>In addition to these two keywords, there have been numerous other occurrences of musical genres in my dreams. Music has always been a part of my life; I trained as a clarinetist from an early age and played in bands and orchestras through my second year in college. Over the past 9 years, as the result of a dream I reported in DNJV24#1, I have returned to instrumental practice on the crumhorn, a Renaissance double reed instrument ancestral to the oboe and the English horn. Mostly my interest is in classical music, but as Table 2 shows, both jazz and rock music appear in my dreams and are part of my waking appreciation, also. Missing from this list—and of less interest to me in waking life—are popular music, folk music, country, hip-hop, rap, and such genres. They do show up in my dreams, but more rarely. So, this listing somewhat parallels my musical tastes. However, as I do not consider myself to be a particularly good singer, it is a bit surprising that song shows up at the top of the list.</p>
+
+<h3>Table 2: Genres (in descending order of frequency)</h3>
+
+<p><br>Song – 100 <br>Performance – 96 <br>Tune – 86 <br>Symphony – 46 <br>Opera – 25 <br>Voice – 23 <br>Jazz – 20 <br>Concerto – 17 <br>Rock – 16 <br>Classical – 10 <br>Prelude – 10 <br>Overture – 7 <br>Duet – 7 <br>March – 7 <br>Hymn – 6 <br>Sonata – 6 <br>Composition – 6 <br>Trio – 5</p>
+
+<p>Also, there have been a number of more technical musical terms appearing with some frequency in my dreams. These are shown in Table 3, and obviously reflect upon my familiarity with the language of music and its incorporation into my dream life.</p>
+
+<h3>Table 3: Technical Terms (in descending order of frequency)</h3>
+
+<p><br>Theme – 63<br>Note – 62<br>Movement – 39<br>Bass – 36<br>Key – 24<br>Tenor – 22<br>Rhythm – 21<br>Staff – 19<br>Harmony – 16<br>Measure – 13<br>Alto – 13<br>Melody – 13<br>Beat – 12<br>Tone – 12<br>Pitch – 11<br>Lyrics – 10<br>Variation – 9<br>Soprano – 9<br>Scale – 8<br>Flat – 7<br>Octave – 5<br>Sharp – 4 </p>
+
+<p><img src="../images/post-bcpov6zfgil1-1.jpg" alt="Music" /></p>
+
+<p>In addition, actions of a musical nature appear in my dreams, especially playing and singing. These are shown in Table 4. (This listing does not include any non-musical instances of these verbs, such as playing games, or conducting tours.) Though I am not a profi cient vocalist, once again, singing is high on the list. Composing is rather far down on the list; while I composed a little music during high school, it is not something that I have felt motivated to do… until recently.</p>
+
+<h3>Table 4: Key Actions (in descending order of frequency)</h3>
+
+<p><br>Play – 298<br>Sing – 143<br>Perform – 49<br>Chant – 33<br>Conduct – 14<br>Practice –10<br>Hum - 10<br>Compose – 6 </p>
+
+<p>A wide variety of musical instruments have appeared in my dreams, as shown in Table 5. Not surprisingly, the crumhorn and the clarinet—the two instruments I actually play—have a high frequency; as a crumhornist, I play with a recorder group, which might account for the frequency of recorders on the list. But I do not play piano, or any stringed or brass instruments. So their frequent appearance in my dreams would seem to derive from listening rather than playing music.</p>
+
+<h3>Table 5: Instruments (in descending order of frequency)</h3>
+
+<p><br>Instrument – 87<br>Piano – 52<br>Crumhorn – 37<br>Recorder – 31<br>Clarinet – 29<br>Drum – 23<br>Violin – 19<br>Flute – 17<br>Trumpet – 13<br>Guitar – 12<br>Reed – 11<br>Saxophone – 10<br>Cello – 9<br>Organ – 7<br>Viola – 6<br>Bassoon – 6<br>Oboe – 6<br>Harpsichord – 6<br>Mouthpiece – 6<br>Trombone – 5<br>Pipe – 4<br>Sitar – 3<br>Tympani – 3<br>Bow – 3 </p>
+
+<p>The same pattern is demonstrated by the types of performers who appear in my dreams. As Table 6 shows, although wind players are near the top, singers exceed them in frequency; and other types of performers are not far behind. Much of the music I listen to is orchestral but increasingly, chamber music as well. I haven’t listened to much choral music, so it’s surprising that choristers appear so often. This may prefigure the developments I will discuss later in the article.</p>
+
+<h3>Table 6: Performers (in descending order of frequency)</h3>
+
+<p><br>Singers – 40<br>Conductors – 26<br>Wind Players – 26<br>Orchestra – 24<br>String Players – 19<br>Table 6<br>Keyboardists – 10<br>Music Teachers – 9<br>Rock Groups – 9<br>Brass Players – 8<br>Bands – 7<br>Jazz Musicians – 6<br>Percussionists – 6 </p>
+
+<p>A wide diversity of composers is represented in my dreams: 54 identifiable composers in all. Table 7 indicates all those appearing at least twice. Mahler and Wagner, who definitely rank among my favorites, are at the top of the list. However, the rest of the distribution is not entirely in accord with my waking life tastes. Some of my favorite composers — for example, Rachmaninoff and Vaughan-Williams — are very far down on the list; others, like Bruckner and Puccini, have only appeared once. With the exception of Michael Praetorius, none of the Renaissance and early Baroque composers whose music I now frequently play appear on this list. It might be suggested that the frequency of composers in my dreams is correlated with the degree to which their music impacts me emotionally … but the four Late Romantic composers I mentioned above, appeared only once or twice, and yet they wrote highly emotionally charged music.</p>
+
+<h3>Table 7: Composers (in descending order of frequency)</h3>
+
+<p><br>Gustav Mahler – 35<br>Richard Wagner – 25<br>Johannes Brahms – 16<br>Wolfgang Amadeus Mozart – 16<br>The Beatles – 16<br>Ludwig van Beethoven – 16<br>Johann Sebastian Bach – 12<br>Pyotr Ilyich Tchaikovsky – 9<br>Felix Mendelssohn – 5<br>Franz Schubert – 5<br>Antonin Dvorak – 4<br>Frederic Chopin – 4<br>Richard Strauss – 4<br>Giuseppi Verdi – 4<br>Jan Sibelius – 3<br>Franz Josef Haydn – 3<br>Michael Praetorius – 3<br>Robert Schumann - 3<br>Leonard Bernstein-3<br>Edvard Grieg – 2<br>Bob Dylan – 2<br>Percy Grainger - 2<br>Georg Frederick Handel – 2<br>Johann Pachelbel – 2<br>Sergei Rachmaninoff – 2<br>Camille Saint-Saens – 2<br>Dmitri Shostakovich - 2<br>Ralph Vaughan-Williams – 2<br>Carl Maria von Weber – 2<br>plus 29 others – 1 each </p>
+
+<p>As I reported in DNJ V29#3, during the summer of 2010 I read Jung’s Red Book and it had a profound effect upon my consciousness. Themes from the book frequently appeared in my dreams and waking synchronous experience, and in dreams, often prior to my reading them. The “biggest” dream in this series concerned my observation of a group of choristers performing an a capella cantata based upon texts from the Red Book. Upon awakening, I realized that the texts derived from the “Incantations” section of the book, in which Jung presents a series of prayers within his dreaming that was directed to the Babylonian hero Gilgamesh, whom he had previously (in the dream) mortally wounded then saved, by collapsing him to miniscule size and placing him within an egg, which he brought to a village for incubation.</p>
+
+<p>Subsequent dreaming has made it clear to me that I have been asked to compose this cantata out of themes my dreaming presents to me. Even though I had no formal education in musical composition, I agreed to undertake this project. The first stage was to translate the words of the Incantations from German into Akkadian, the actual language of the Gilgamesh epic. My training in ancient Near Eastern languages has made it possible for me to accomplish this. Next, I am applying to the Incantations section text the specific musical themes derived from my dreams.</p>
+
+<p>My dreams indicated that the cantata would be sung a capella by four voices, and that it would be in 6 sections. In order to manifest this, I have audited two Music Theory courses this year, which enabled me to set the melodies my dreams gave me within a tonal harmonic structure. Far from easy!</p>
+
+<p>The first section I was moved to set to music is associated with a powerful Red Book image (Jung 2009:55): the sun barque of the Egyptian god Ra sailing over the surface of the waters, beneath which lurks a monstrous fi sh, identified by Jung as the “Spirit of the Depths.” The text consists of four lines and the melody for it was given to me in a dream. Translated into English, these are:</p>
+
+<blockquote>
+  <p>One word, which has never yet been spoken; </p>
+  
+  <p>One light, which has not yet shone; </p>
+  
+  <p>One confusion, without equal; </p>
+  
+  <p>And one road, without end.</p>
+</blockquote>
+
+<p><img src="../images/post-bcpov6zfgil1-3.jpg" alt="Music spiral" /></p>
+
+<p>Underlying the text, the Akkadian words for “Spirit of the Depths” are intoned as an undulating pedal, representing the waves. In addition, singers from time to time hold long notes on “a,” which is the Sumerian word for water. </p>
+
+<p>The piece is in four sections, each of which corresponds to one of the four lines of the text. The first section picks up the theme of “one word” from the dream, as each line is sung solo above the bass pedal, first by the tenor, then by the alto, then by the soprano, then again by the tenor. </p>
+
+<p>In the second section, the melody is taken up by the sopranos, harmonized by the altos, while the tenors sing the pedal and the basses harmonize beneath them. This corresponds to the “one light” phrase. </p>
+
+<p>In the third, “confusion” section, the sopranos sing arpeggios while the altos hold the pedal and the tenors sing the melody, harmonized by the basses. </p>
+
+<p>The fourth, “road” section, the sopranos sing descending road-like quarter notes while the altos harmonize, the tenors hold the pedal and the basses have the melody. There is a brief coda in which the pedal finally reaches the water’s surface with the soprano line and then works its way down through the voices. </p>
+
+<p>This piece was premiered at the 2011 IASD conference to a receptive audience. A second section of the cantata was performed in August of 2011 at the same music camp that provided the inspiration for the original dream that “commissioned” the cantata. </p>
+
+<p>Since I undertook the writing of the cantata, dreams about it have come in profusion. I have had 47 dreams in which the cantata was featured, 35 providing musical themes. In 11 of these, I have actually visualized the notes on the staff; more often, I just hear the themes. Most of these dreams are just brief snippets… or the theme occurs only at the end of a longer dream. Some dreams have provided me with insights into the structure of the cantata or helped me to revise what I have written. I know that there are themes that I have not been able to recall in the morning, but one dream early in the process informed me that these are being stored in my unconscious for when I will need them later on. </p>
+
+<p>The creative process sometimes takes unexpected twists and turns; for example, the section performed last summer combines two dream themes in a canonical structure. I had no idea that the second theme would fi t the fi rst as well as it does. An early dream indicated that I would need to incorporate a chorale from Bach’s <em>St. Matthew Passion</em> into one section of the cantata. Recent dreams have shown me that this will actually be in a rondo form, with several repeats of the chorale interspersed with other dream themes. A section I am working on now contrasts a vigorous hora rhythm from one dream against a more melodic pastoral theme from another. As Jung observed of the paintings which accompany his dreams in the <em>Red Book</em>, sometimes they didn’t come out the way he expected! </p>
+
+<p>In many instances, I have no idea with what portion of the cantata the themes will go. But in other cases, I get the words with the music. My knowledge of music enables me to see that some of the themes bear a relationship to existing music. But other themes are unfamiliar and hopefully my dreams will give me more! ℘</p>
+
+<blockquote>
+  <p>There is a language older by far and deeper than words. It is the language of bodies, of bodies on body, wind on snow, rain on trees, wave on stone. It is the language of dreams, gesture, symbol, memory and music. We have forgotten the language. We do not even remember that it exists.” - A Language Older than Words, Derrick Jensen</p>
+</blockquote>
+
+<p><img src="../images/post-bcpov6zfgil1-4.jpg" alt="Hoffman" /></p>
+
+<p><strong>References</strong></p>
+
+<p>Hoffman, Curtiss 2005 A Call to Music! Dream Network Journal 24(4)/25(1):16-17. 2010</p>
+
+<p>Read by the Red Book. Dream Network Journal 29(3):54-57.</p>
+
+<p>Jung, Carl Gustav 2009 The Red Book. W.W. Norton, New York.</p>
+
+<p>Wagner, Richard 1912 My Life. 2 vol. Dodd, Mead &amp; Co., New York </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3curt ;
+    ns1:hasTag ns1:bcphbq3curt,
+        ns1:bcphbzdzrug ;
+    ns1:itemId "bcpov6zfgil1"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Gilgamesh Cantata: A Personal Exploration of Dreams and Music"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zfgil1-0.jpg"^^xsd:string ;
+    ns1:urlSlug "the-gilgamesh-cantata-a-personal-exploration-of-dreams-and-music-1"^^xsd:string .
+
 ns1:bcpov6zfheal a ns1:Post ;
     ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>People are becoming increasingly health conscious. Dreams, however, are often overlooked as a potential aid to good health. The following account of a persistent health problem shows how dreams can be called upon to provide continuing health care information.</p>
@@ -2330,7 +2565,6 @@ ns1:bcpov6zfoldd a ns1:Post ;
     ns1:itemId "bcpov6zfoldd"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Old Dreams - Memories and Reflections"^^xsd:string ;
-    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
     ns1:urlSlug "the-old-dreams-memories-and-reflections"^^xsd:string .
 
 ns1:bcpov6zfsra a ns1:Post ;
@@ -2432,6 +2666,7 @@ ns1:bcphb2kqfhu a ns1:Post ;
     ns1:itemId "bcphb2kqfhu"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 33, issue 4: Finding Gold in Old Dreams"^^xsd:string ;
+    ns1:profileImg "33.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.4"^^xsd:string .
 
 ns1:bcphbmvxewa a ns1:Post ;
@@ -2445,6 +2680,7 @@ ns1:bcphbmvxewa a ns1:Post ;
     ns1:itemId "bcphbmvxewa"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 5, issue 6"^^xsd:string ;
+    ns1:profileImg "5.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "5.6"^^xsd:string .
 
 ns1:bcphbrw63cp a ns1:Post ;
@@ -2458,6 +2694,7 @@ ns1:bcphbrw63cp a ns1:Post ;
     ns1:itemId "bcphbrw63cp"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 15, issue 1: Dream-Inspired Communities"^^xsd:string ;
+    ns1:profileImg "15.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "15.1"^^xsd:string .
 
 ns1:bcphbxplpmw a ns1:Post ;
@@ -2471,6 +2708,7 @@ ns1:bcphbxplpmw a ns1:Post ;
     ns1:itemId "bcphbxplpmw"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 26, issue 4: Waking Life as a Dream"^^xsd:string ;
+    ns1:profileImg "26.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "26.4"^^xsd:string .
 
 ns1:bcphbxxscsf a ns1:Post ;
@@ -2484,6 +2722,7 @@ ns1:bcphbxxscsf a ns1:Post ;
     ns1:itemId "bcphbxxscsf"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 27, issue 2: Women for Peace"^^xsd:string ;
+    ns1:profileImg "27.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "27.2"^^xsd:string .
 
 ns1:bcphbz5vgog a ns1:Post ;
@@ -2497,7 +2736,22 @@ ns1:bcphbz5vgog a ns1:Post ;
     ns1:itemId "bcphbz5vgog"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 32, issue 4: Important People in our Dreams"^^xsd:string ;
+    ns1:profileImg "32.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.4"^^xsd:string .
+
+ns1:bcphbzdzrug a ns1:Post ;
+    ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/30.4-rect.jpg"/><a href="../files/pdfs/Volume_30/30.4_music.pdf" download="">Download issue 30.4</a><br><a href="../files/pdfs/Volume_30/30.4_music.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocndszw ;
+    ns1:itemId "bcphbzdzrug"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 30, issue 4: Music in our Dreams"^^xsd:string ;
+    ns1:profileImg "30.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "30.4"^^xsd:string .
 
 ns1:bcphbq3bayl a ns1:User ;
     ns1:description """<p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." Stanley Krippner, PhD. Professor of Psychology, Saybrook University</p>
@@ -2519,6 +2773,17 @@ ns1:bcphbq3bayl a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Janice Baylis"^^xsd:string ;
     ns1:profileImg "janicebaylis.jpg"^^xsd:string .
+
+ns1:bcphbq3curt a ns1:User ;
+    ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher in the Department of Anthropology at Bridgewater State College, of which he is the Chair. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of The Seven Story Tower: A Mythic Journey through Space and Time.</p>
+
+<p>He was the host of the 2006 IASD conference at Bridgewater State, and has presented at IASD conferences and at the on-line Psiberdreaming Conference for several years.</p>
+"""^^xsd:string ;
+    ns1:handle "curtisshoffman"^^xsd:string ;
+    ns1:itemId "bcphbq3curt"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Curtiss Hoffman"^^xsd:string ;
+    ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
 
 ns1:bcphbq3mcle a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.changingworld.com/about-us">changingworld.com</a></p>
@@ -2882,9 +3147,6 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
 
-ns1:User rdfs:subClassOf ns1:Actor,
-        ns1:Person .
-
 ns1:bcpqn76e7n5 a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>
 """^^xsd:string ;
@@ -2924,6 +3186,9 @@ ns1:bcpqoaivzve a ns1:Post ;
     ns1:name "Volume 7"^^xsd:string ;
     ns1:profileImg "volume-7.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-7"^^xsd:string .
+
+ns1:User rdfs:subClassOf ns1:Actor,
+        ns1:Person .
 
 ns1:bcphbq3arts a ns1:User ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>

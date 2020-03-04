@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/"
+  to = "/@dreamnetwork"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/index.html"
+  to = "/@dreamnetwork"
+  status = 301
+  force = true

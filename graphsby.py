@@ -5,7 +5,7 @@
 #########
 
 # Libraries
-import os, sys, jinja2, calendar, html5lib
+import os, sys, re, jinja2, calendar, html5lib
 import dateutil.parser # For converting xsd:datetime to something sensible
 from rdflib import Namespace, Literal, ConjunctiveGraph
 from pathlib import Path
@@ -444,7 +444,13 @@ for pyyam in file_objects:
 			date_string = formatDate(dateOfPost, "month")
 
 		post_description = row[2]
+		# Truncate
 		truncated_desc = truncate_html(post_description, POST_SNIPPET_LENGTH, end="...", break_words=True)
+		# Remove images
+		truncated_desc = re.sub("(<img.*?>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
+		# Remove empty <p> tags
+		truncated_desc = re.sub("(<p></p>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
+
 
 		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors})
 

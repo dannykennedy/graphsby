@@ -62,6 +62,7 @@ for issue in issues:
     pyyaml['tags'].append({"hasTag": volume_name})
     pyyaml['tags'].append({"hasTag": "dreamnetwork"})
     pyyaml['dateCreated'] = dateCreated
+    pyyaml['profileImg'] = imgName + "-rect.jpg"
 
     print(pyyaml)
 

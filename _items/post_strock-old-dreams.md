@@ -1,5 +1,4 @@
 ---
-profileImg: coat-of-many-colors-sml.jpg
 dateCreated: '2015-01-01T11:32:52'
 itemId: bcpov6zfoldd
 layout: post

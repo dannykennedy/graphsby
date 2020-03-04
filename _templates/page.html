@@ -107,6 +107,12 @@
                                         >{{post.name}}</a
                                     >
                                 </h3>
+                                {% if post.profileImg %}
+                                    <img
+                                        src="{{'../images/' + post.profileImg}}"
+                                        alt="profile image"
+                                    />
+                                {% endif %}
                                 <div class="card-body-text">
                                     <p>{% if post.description %}
                                         {{post.description}}

@@ -296,6 +296,7 @@ for pyyam in file_objects:
 	instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
 	# Featured image
 	if 'profileImg' in pyyam.keys():
+		print(pyyam['profileImg'])
 		instances.append((newItem, profileImg, Literal(pyyam['profileImg'], datatype=xsdString)))
 	# Cover image
 	if 'coverImg' in pyyam.keys():
@@ -381,14 +382,15 @@ for pyyam in file_objects:
 	# Find all items that have tagged the current page
 	query_string = """
 				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-		   		SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated
+		   		SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img
 		   		WHERE {{
 		   		?currentItem dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
 		   		?item dnj:hasTag|dnj:hasAuthor ?currentItem .
 		   		?item dnj:name ?name .
 		   		?item dnj:description ?description .
 		   		?item dnj:itemId ?itemId .
-				?item dnj:dateCreated ?dateCreated
+				?item dnj:dateCreated ?dateCreated .
+				OPTIONAL {{ ?item dnj:profileImg ?img }}
 		   		}}
 				ORDER BY DESC(?dateCreated)""".format(string_identifier=item_string_identifier)
 
@@ -451,8 +453,11 @@ for pyyam in file_objects:
 		# Remove empty <p> tags
 		truncated_desc = re.sub("(<p></p>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 
+		print("gotta profile")
+		print(row[5])
 
-		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors})
+
+		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5]})
 
 
 	full_html = ""

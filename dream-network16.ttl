@@ -2312,7 +2312,6 @@ ns1:bcpov6zfexpl a ns1:Post ;
     ns1:itemId "bcpov6zfexpl"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Exploring the Mystery"^^xsd:string ;
-    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
     ns1:urlSlug "exploring-the-mystery"^^xsd:string .
 
 ns1:bcpov6zfgil1 a ns1:Post ;
@@ -2480,7 +2479,6 @@ ns1:bcpov6zfheal a ns1:Post ;
     ns1:itemId "bcpov6zfheal"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Health Related Dream Guidance"^^xsd:string ;
-    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
     ns1:urlSlug "health-related-dream-guidance"^^xsd:string .
 
 ns1:bcpov6zfimpp a ns1:Post ;

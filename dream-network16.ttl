@@ -1836,20 +1836,6 @@ ns1:bcphbzhpgrg a ns1:Post ;
     ns1:profileImg "31.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.1"^^xsd:string .
 
-ns1:bcphbzlhdke a ns1:Post ;
-    ns1:coverImg "31.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2012-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/31.2-rect.jpg"/><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf" download="">Download issue 31.2</a><br><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocpr3vh ;
-    ns1:itemId "bcphbzlhdke"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 31, issue 2: Calling Forth Angels II"^^xsd:string ;
-    ns1:profileImg "31.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "31.2"^^xsd:string .
-
 ns1:bcphbzoxivb a ns1:Post ;
     ns1:coverImg "31.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2012-07-01T11:32:52"^^xsd:dateTime ;
@@ -2299,6 +2285,48 @@ ns1:bcpov6zfexpl a ns1:Post ;
     ns1:name "Exploring the Mystery"^^xsd:string ;
     ns1:urlSlug "exploring-the-mystery"^^xsd:string .
 
+ns1:bcpov6zffelt a ns1:Post ;
+    ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><!--nopreview--><h2>The birth of my new dream-inspired song</h2><!--/nopreview--></p>
+
+<p>This song and the fact that I chose to record it are inspired by a number of dreams. I have experienced many dreams spread over a couple decades that encourage me to record and share more music. Many such dreams involve various famous musical artists. These come at least monthly, sometimes weekly, and occasionally more often. I am lucky to be amongst the tiny percentage of people whose dreams include music and sound. </p>
+
+<p>My newly released song <em>“Lucid (Never Felt As Good)”</em> was originally inspired by a music-only dream where I “received” the lyrics and melody from the song’s opening line and chorus. Just before I awaken, I clearly hear a disembodied voice singing, <em>“Wherever I’ve been in my life, I’ve never felt as good as when I’m with you.”</em> This type of dream melody with lyrics is not unusual for me, but I liked the tune and decided to experiment with it on guitar. Within a few weeks, I composed more lyrics and created a chord pattern and song structure around the dream melody. That was the easy part. </p>
+
+<p>Then came another dream, again music only: <em>I hear the last few notes of the song’s guitar solo bridge as a distorted electric guitar.</em> Again no visuals, but what seems to me a clear suggestion from the muse to switch the feel from acoustic/folk to more rock and roll, especially for the solo. The sound of the electric guitar solo in the recording is much like I heard it in the dream. I recorded the song with friends but the quality was low. Dreams urged me to again record more music and I decided to revisit this song since I felt it was kind of catchy. The recording-arranging process spread over 10 months. In that time, I had multiple dreams encouraging me to continue recording and arranging it. Towards the end of arranging, I had a breakthrough evening where I found the sound I was looking for. I went to sleep very late, but happy. In the morning, I had what felt like a celebration dream: </p>
+
+<p>*A spiritual teacher of mine is strolling along the red carpet. Waking, the dream feels related to the song. *</p>
+
+<p>A week or so later, when I was having trouble blending the mix, another dream came: </p>
+
+<p><em>I’m with my sister at the breakfast table, listening to the current mix with her. It seems that the mixing process is dragging on far too long on the last few notes. I am also shocked to hear that the drums and guitar arrangement has been changed and now sounds quite heavy metal, though it sounds good in an unusual way. At that point, I decide not to change the arrangement any further.</em></p>
+
+<p>Within a couple weeks of completing the recording, Grace has blessed this song with air play on about 150 radio stations so far and I am very grateful. </p>
+
+<p>Among other music I’ve composed, dreams also inspired the recording of my fun environmental song Polymers: <a href="http://www.youtube.com/ watch?v=YFy6npBQ8mU">http://www.youtube.com/ watch?v=YFy6npBQ8mU</a></p>
+
+<p>Life has now blessed me with well over a thousand lucid dreams, so to share some of the dream and lucidity skills and insights that have come my way, I lead lively online interactive teleclasses about how to harvest dreams for creativity (music, art, inventions, film etc.), healing, life path guidance, spiritual growth, adventure, etc. ℘ </p>
+
+<p>~ ~ ∞ ~ ∞ ~ ∞ ~ ~ </p>
+
+<p><a href="www.dreams.ca/teleclass.pdf">www.dreams.ca/teleclass.pdf</a></p>
+
+<p>Email: Craig Sim Webb csw@edutainer.ca </p>
+
+<p>Link to song: <a href="http://www.edutainer.ca/music/lucidsong.htm">www.edutainer.ca/lucidsong.htm</a> </p>
+
+<p>(song also available at iTunes and Amazon) </p>
+
+<p>Web site: <a href="http://www.edutainer.ca/">www.edutainer.ca</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3webb ;
+    ns1:hasTag ns1:bcphbq3webb,
+        ns1:bcphbzdzrug ;
+    ns1:itemId "bcpov6zffelt"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Lucid “Never Felt As Good”"^^xsd:string ;
+    ns1:urlSlug "lucid-never-felt-as-good"^^xsd:string .
+
 ns1:bcpov6zfflyi a ns1:Post ;
     ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zfflyi-0.jpg" alt="Airobics" /></p>
@@ -2606,6 +2634,30 @@ ns1:bcpov6zflies a ns1:Post ;
     ns1:name "If Nothing Ever Changed, There Would Be No Butterflies: Reflections on Butterflies, Dreams & Synchronicity"^^xsd:string ;
     ns1:urlSlug "if-nothing-ever-changed-there-would-be-no-butterflies"^^xsd:string .
 
+ns1:bcpov6zfmanw a ns1:Post ;
+    ns1:dateCreated "2012-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><em>At a most fascinating time in my life when I was learning how life can respond in real time to the lessons I was /am learning internally, I had the following experience:</em></p>
+
+<p>One summer night, I am walking on the street towards the subway. A car passes with dogs barking out of the window. The barking reminds me of a quote I had read recently about “listening to the barking dogs of the unconscious” (i.e. noticing subtle experiences like nightmares that try to catch our attention with an important message). The driver stops and asks directions and I gladly tell him how to find the street he is looking for. I continue to the subway, contemplating a principle I seem to be learning in my life, symbolically exemplified by the passing car and barking dogs... about how it is wise to give help to people when they ask for it. I don’t think it applies in every situation but there seems to be some truth to this principle, at least spiritually speaking. Like Jesus might have meant when he said, <em>“Ask and ye shall receive, knock and it shall be opened.”</em></p>
+
+<p>As I descend the subway stairs, I am a little lost in my thoughts when I see an old gentleman slowly hobbling down the steps with a cane. Without thinking twice, I ask him if he needs help. He does not look at me but he does say something very odd: <em>“As I was walking down the stair, I met a man who wasn’t there.”</em> He has a British accent, which is quite unusual in Montreal. I’m confused by his response, yet out of good will I repeat my offer to assist him. He shakes his head and says,<em>“It might be a little convoluted, but hopefully you get the point.”</em> </p>
+
+<p>Well, I don’t get it, but I wish him well and continue down another couple flights to the subway. Nearing the bottom, it strikes me that perhaps the old gentleman is trying to help me learn the precise lesson I was contemplating as I entered the subway, since I twice offered him help when he hadn’t asked for it. I immediately run back up two long flights of stairs to speak to him again. </p>
+
+<p>At the speed he was hobbling down the steps—unless he was completely faking it—there is no way he could have either passed me or even turned back and left the subway. In the 20 or 30 seconds it takes me to sprint back to where he <em>should</em> still have been, there was, amazingly, nobody there! </p>
+
+<p>His peculiar statement suddenly seems to make sense. He said, <em>“As I was walking down the stair, I met a man who wasn’t there.”</em> I laugh at the magic of the moment and return to catch my train, no older gentleman anywhere to be seen. ∞ </p>
+
+<p><em>Craig offers highly transformational online classes in Applied Dreaming, Dream Interpretation, and Lucid Living. To learn more or register, please visit: <a href="www.dreams.ca/teleclass.pdf">www.dreams.ca/teleclass.pdf</a></em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3webb ;
+    ns1:hasTag ns1:bcphbq3webb,
+        ns1:bcphbzlhdke ;
+    ns1:itemId "bcpov6zfmanw"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Met a Man Who Wasn’t There"^^xsd:string ;
+    ns1:urlSlug "man-who-wasnt-there"^^xsd:string .
+
 ns1:bcpov6zfoldd a ns1:Post ;
     ns1:dateCreated "2015-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>It was time to dig those old dream journals out of the basement. Yes, they were all there stored in plastic storage containers, thirty-three years worth. The early journals were 9½ by 6 inch spiral notebooks. That spiral format had many advantages. Those notebooks could be opened and laid flat and were easy to write in even when lying in bed. And, the day’s events could be recorded on the left side with the resulting dreams of the next morning beginning on the right. They also came in all different colored covers adding a bit of fascination to them. Years later, larger format spirals replaced the small ones only to be replaced still later by three ring binders. </p>
@@ -2842,19 +2894,19 @@ ns1:bcphbz5vgog a ns1:Post ;
     ns1:profileImg "32.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.4"^^xsd:string .
 
-ns1:bcphbzdzrug a ns1:Post ;
-    ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/30.4-rect.jpg"/><a href="../files/pdfs/Volume_30/30.4_music.pdf" download="">Download issue 30.4</a><br><a href="../files/pdfs/Volume_30/30.4_music.pdf">View online</a></p>
+ns1:bcphbzlhdke a ns1:Post ;
+    ns1:coverImg "31.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2012-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/31.2-rect.jpg"/><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf" download="">Download issue 31.2</a><br><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf">View online</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocndszw ;
-    ns1:itemId "bcphbzdzrug"^^xsd:string ;
+        ns1:bcpqocpr3vh ;
+    ns1:itemId "bcphbzlhdke"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 30, issue 4: Music in our Dreams"^^xsd:string ;
-    ns1:profileImg "30.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "30.4"^^xsd:string .
+    ns1:name "Volume 31, issue 2: Calling Forth Angels II"^^xsd:string ;
+    ns1:profileImg "31.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "31.2"^^xsd:string .
 
 ns1:bcphbq3atki a ns1:User ;
     ns1:description """<p>Website: <a href="http://camerawilltravel.com/">camerawilltravel.com</a></p>
@@ -2985,6 +3037,20 @@ ns1:bcphbq3rcwi a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Richard Wilkerson"^^xsd:string ;
     ns1:profileImg "author-richard-wilkerson.jpg"^^xsd:string .
+
+ns1:bcphbzdzrug a ns1:Post ;
+    ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/30.4-rect.jpg"/><a href="../files/pdfs/Volume_30/30.4_music.pdf" download="">Download issue 30.4</a><br><a href="../files/pdfs/Volume_30/30.4_music.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocndszw ;
+    ns1:itemId "bcphbzdzrug"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 30, issue 4: Music in our Dreams"^^xsd:string ;
+    ns1:profileImg "30.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "30.4"^^xsd:string .
 
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>
@@ -3143,6 +3209,15 @@ ns1:bcphbq3asay a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Ann Sayre Wiseman"^^xsd:string ;
     ns1:profileImg "author-ann-sayre-wiseman.jpg"^^xsd:string .
+
+ns1:bcphbq3webb a ns1:User ;
+    ns1:description """<p>Craig Webb, Executive Director of the non-profit <a href="http://www.dreams.ca/">DREAMS Foundation</a>, is a McGill University graduate with pioneering dream and lucid dream research at Stanford University and Montreal’s Sacré-Coeur Hospital. As an author, columnist, and hired/invited expert for major motion pictures, fortune 500 companies, universities, international TV networks, numerous magazines and e-zines, and well over 1000 media (ABC, BBC, SyFy/NBC/Universal, Discovery Channel, New York Times, MSN, etc.), he’s broadcast/published cutting edge approaches on dreams, lucid dreaming, applied psychology, communications, creativity, and the science of mind, as well as interviews with leading visionaries. His trainings have enabled CEO’s, celebrities, best-selling authors, world-class athletes, and other clients from all walks of life to make profound breakthroughs while having loads of fun. Craig also helped found/produce “Making Contact” (a progressive radio show airing weekly on 150+ stations for 25 years), and has designed multiple personal transformation devices with worldwide distribution. For over 2 decades, he's had the privilege to lead numerous training programs and over 1500 miles of transformational training programs. He has performed and presented at benefit concerts and events, and served as a volunteer for Children's hospitals and environmental organizations, Montreal's suicide hotline, 3rd world development programs, and various other humanitarian causes.</p>
+"""^^xsd:string ;
+    ns1:handle "craigwebb"^^xsd:string ;
+    ns1:itemId "bcphbq3webb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Craig Webb"^^xsd:string ;
+    ns1:profileImg "author-craig-webb.jpg"^^xsd:string .
 
 ns1:bcpov6pspec a ns1:Post ;
     ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;

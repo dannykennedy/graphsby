@@ -454,6 +454,8 @@ for pyyam in file_objects:
 		truncated_desc = re.sub("(<p></p>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 		# Remove break tags
 		truncated_desc = re.sub("(<br>)", "<span>&nbsp;</span>", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
+		# Remove captions
+		truncated_desc = re.sub('<!--nopreview-->.*<!--/nopreview-->', "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 
 		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5]})
 

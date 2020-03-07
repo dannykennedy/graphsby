@@ -12,7 +12,7 @@ urlSlug: if-nothing-ever-changed-there-would-be-no-butterflies
 ---
 
 ![Butterflies](../images/post-bcpov6zflies-0.jpg)
-<div style="text-align: center;"><i>“Butterfly Party” Photography by Laura Atkinson</i></div>
+<!--nopreview--><div class="caption" style="text-align: center;"><i>“Butterfly Party” Photography by Laura Atkinson</i></div><!--/nopreview-->
 
 As I unlocked the polished white door of my hotel room, I recited the inscribed jet-black lettering that read: "June 12th, Procession of the Unmarried Woman. In which single women walk through the centre of their village looking for a husband. (Palestrina, Italy.)" I felt obligated to check the calendar. Yes, indeed it was June 12th. On an afternoon that supplied an abundance of heavy, dark clouds pregnant with moisture, I had set out on a solo journey to navigate a foreign railway system determined to find my own way to the city. I asked the universe “..please show me some signs to follow…” In retrospect, that fine lettering seemingly indicated the type of day it had been. 
 

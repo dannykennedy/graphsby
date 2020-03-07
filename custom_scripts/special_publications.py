@@ -26,5 +26,12 @@ special_publications = [
         "title": "Coat of Many Colors",
         "author": "dreamnetwork",
         "dateCreated": '1983-03-01T11:32:52'
+    },
+    {
+        "imgName": "satisfy-the-image",
+        "pdfName": "publications.satisfy-the-image.pdf",
+        "title": "Satisfy the Image",
+        "author": "annsayrewiseman",
+        "dateCreated": '2012-01-01T11:32:52'
     }
 ]

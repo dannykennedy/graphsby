@@ -517,20 +517,6 @@ ns1:bcphblyrd2y a ns1:Post ;
     ns1:profileImg "4.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.4"^^xsd:string .
 
-ns1:bcphbm5mept a ns1:Post ;
-    ns1:coverImg "6.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/6.2-rect.jpg"/><a href="../files/pdfs/Volume_6/6.2-Dream-Network-Bulletin_Volume-6-Number-2.pdf" download="">Download issue 6.2</a><br><a href="../files/pdfs/Volume_6/6.2-Dream-Network-Bulletin_Volume-6-Number-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaf5sto ;
-    ns1:itemId "bcphbm5mept"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 6, issue 2"^^xsd:string ;
-    ns1:profileImg "6.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "6.2"^^xsd:string .
-
 ns1:bcphbmaewem a ns1:Post ;
     ns1:coverImg "4.6-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-11-01T11:32:52"^^xsd:dateTime ;
@@ -1933,6 +1919,19 @@ ns1:bcpov6pacmm a ns1:Post ;
     ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
     ns1:urlSlug "relationship-dreams"^^xsd:string .
 
+ns1:bcpov6pimag a ns1:Post ;
+    ns1:dateCreated "2012-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/satisfy-the-image-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.satisfy-the-image.pdf" download="">Download</a><br><a href="../files/pdfs/Volume_publications/publications.satisfy-the-image.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3asay ;
+    ns1:hasTag ns1:bcphbq3asay,
+        ns1:bcpov6pspec ;
+    ns1:itemId "bcpov6pimag"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Satisfy the Image"^^xsd:string ;
+    ns1:profileImg "satisfy-the-image-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "satisfy-the-image"^^xsd:string .
+
 ns1:bcpov6tqqf6 a ns1:Post ;
     ns1:dateCreated "1993-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/the-art-of-dream-sharing-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf" download="">Download</a><br><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf">View online</a></p>
@@ -2314,6 +2313,42 @@ ns1:bcpov6zfexpl a ns1:Post ;
     ns1:name "Exploring the Mystery"^^xsd:string ;
     ns1:urlSlug "exploring-the-mystery"^^xsd:string .
 
+ns1:bcpov6zfflyi a ns1:Post ;
+    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zfflyi-0.jpg" alt="Airobics" /></p>
+
+<p>The phenomenon of flying in one's sleep is truly a miracle. If, as they say, ontogeny recapitulates philogeny, then consider the premise that we are all, at some time in our primal development. equipped with tail, gills and wings and all other aspects of an the creatures that live in air and water, especially fish and birds. The fact that dreamers can fly and breathe underwater as well as free fly in their sleep without any previous instruction or practice may be related to this innate, though undeveloped, potential.</p>
+
+<p>For some years I have been collecting flying dreams. Everywhere I go I ask people how they fly. I want to include in this book a few of the interesting reports I've received, both to encourage dream flyers to share their adventures and to inspire others, especially those timid dreamers who have never experienced free flying, to try to relax and develop your will to fly.</p>
+
+<p>The styles of flying are far more numerous than I ever imagined. They include flapping, soaring, sitting, lying, swimming, flopping, breast and butterfly stroking, dolphin kicking, whale tail snapping, and the yoga sit style of flying. </p>
+
+<p>Then we have ASSIST FLYING: people empowered to fly holding a stick, a magic wand, or by riding a refrigerator, bed soaring, carpet flying, floor grabbing, back packing, and, most original, something called bloodpressure cuff pump flying. There is low and high altitude flying. Some can fly only a few inches off the ground. Some can do barn storming. A young woman says she flies, but never above the telephone wires. My son claims he's expert at indoor ceiling hovering. Some people jump to take off and fly at head height. Some fly at building height. Some are totally weightless for outer space flying. </p>
+
+<p>We have human jet travelers and cosmic trans-gravity floaters. Some run on trans-spirit supersonic propulsion. Many hover out of their bodies. </p>
+
+<p>Then there are just plain old fashioned BIRD flappers. Some have to make a great effort to stay up, while others rise off the ground at will. We even have those who fly in the body of another. </p>
+
+<p>There are stories about effortless flight and stories of flight frustration. Some people go somewhere and others go nowhere. You can fly for joy or what one man calls efficiency flying; the only way to get there faster. Some dreamers are propelled by fear, called the fight or flight style. Some Guru followers know about spiritual transcendance, and a gal from California describes orgasmic cartwheeling. </p>
+
+<p>We have stories of people who fly on air channels, people who FLY TO SEE and people who FLY TO FEEL. METHOD FLYING uses guide ropes or long stride takeoffs. Ordinary arm flapping is common, but fish tail flopping is rare. Some dreamers have to run in air or they can't stay up. One physicist uses the balling up method where he shoots through the atmosphere. A mathematician on my street does what he calls the tadpole wiggle. He says he can also sit on the back of a couch and slip out through the top of his head. Some of the experienced meditators say they do levitation rising. </p>
+
+<p>Then there is intention flying versus guided imagining. I've got stories about losing power in midflight, as well as flying faster than light. One woman from the midwest says she flew to her father racing death, and was able to say good by before he died. Some dreamers tell about floating through walls, through floors and windows. They can float down stairs, or descend head first diving, spinning, dancing, with arms backwards and arms forward. Some have no arms at all. </p>
+
+<p>Upside-down flying is more difficult, says a girl from New Hampshire, because you can't see where you are going at all. I'm waiting for more information about ecstatic flying orgasms. The girl who can bring them on at will says she has invented a dream pill and has a teachable Olympic routine of sexual acrobatics and tandem flying. </p>
+
+<p>While presenting some dream programs for the "outer-most" listener supported radio station in Provincetown Mass., I received more contributions to my collection of flying dreams. I am fascinated by the variety of methods, positions, problems and adventures of those lucky dreamers who have the flying skill on command.</p>
+
+<p><img src="../images/post-bcpov6zfflyi-1.jpg" alt="Illustrations" /></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3asay ;
+    ns1:hasTag ns1:bcphbm5mept,
+        ns1:bcphbq3asay ;
+    ns1:itemId "bcpov6zfflyi"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Flying Dreams"^^xsd:string ;
+    ns1:urlSlug "flying-dreams"^^xsd:string .
+
 ns1:bcpov6zfgil1 a ns1:Post ;
     ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zfgil1-0.jpg" alt="Hoffman at his computer" /></p>
@@ -2667,6 +2702,20 @@ ns1:bcphb2kqfhu a ns1:Post ;
     ns1:profileImg "33.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.4"^^xsd:string .
 
+ns1:bcphbm5mept a ns1:Post ;
+    ns1:coverImg "6.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/6.2-rect.jpg"/><a href="../files/pdfs/Volume_6/6.2-Dream-Network-Bulletin_Volume-6-Number-2.pdf" download="">Download issue 6.2</a><br><a href="../files/pdfs/Volume_6/6.2-Dream-Network-Bulletin_Volume-6-Number-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaf5sto ;
+    ns1:itemId "bcphbm5mept"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 6, issue 2"^^xsd:string ;
+    ns1:profileImg "6.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "6.2"^^xsd:string .
+
 ns1:bcphbmvxewa a ns1:Post ;
     ns1:coverImg "5.6-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
@@ -2773,7 +2822,7 @@ ns1:bcphbq3bayl a ns1:User ;
     ns1:profileImg "janicebaylis.jpg"^^xsd:string .
 
 ns1:bcphbq3curt a ns1:User ;
-    ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher in the Department of Anthropology at Bridgewater State College, of which he is the Chair. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of The Seven Story Tower: A Mythic Journey through Space and Time.</p>
+    ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of The Seven Story Tower: A Mythic Journey through Space and Time, and Stone Prayers, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.</p>
 
 <p>He was the host of the 2006 IASD conference at Bridgewater State, and has presented at IASD conferences and at the on-line Psiberdreaming Conference for several years.</p>
 """^^xsd:string ;
@@ -2861,16 +2910,6 @@ ns1:bcphbq3rcwi a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Richard Wilkerson"^^xsd:string ;
     ns1:profileImg "author-richard-wilkerson.jpg"^^xsd:string .
-
-ns1:bcpov6pspec a ns1:Post ;
-    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>Some of these publications were published by the Dream Network, others have been kindly offered to this site so you can download and enjoy them. All are fabulous!</p>
-"""^^xsd:string ;
-    ns1:itemId "bcpov6pspec"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Special publications"^^xsd:string ;
-    ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
-    ns1:urlSlug "special-publications"^^xsd:string .
 
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>
@@ -2994,6 +3033,51 @@ ns1:bcpqocs2uhp a ns1:Post ;
 
 ns1:Actor a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
+
+ns1:bcphbq3asay a ns1:User ;
+    ns1:description """<p>Ann used Milton Erickson's common-sense and self hypnosis approach to dreams. She used art, dreams, and closed eye visioning in workshop intensives here and abroad. She taught at Lesley College Arts Institute, where she helped develop the Expressive Therapies Program, trained teachers, and earned her Master’s degree. Ann kept dream journals for fifty years, published two books on dreams, and was an ASD member and presenter for over 20 years, offering workshops and slide talks at IASD (almost every year), and at California’s Esalen Institute, The Cambridge center for Adult Education, and organizations here and abroad. She derived much inspiration from the work of Patricia Garfield, Freud, Jung, Milton Erickson, Gibran, the I Ching, the Dalai Lama, and others.</p>
+
+<p>This adaptation of her Introduction to her last book, Satisfy the Image, summarizes her work: </p>
+
+<p>Autodrama on the Paper Stage is a concrete mapping method that works for dreams and all kinds of life problems. You create your own symbols to represent the people and things in your story and set them on a sheet of paper we call the stage. Instead of telling the story in words, we use colored paper or found objects to represent characters and significant objects—it’s very simple. As you answer questions about the scene, you begin to understand the problem and manipulate the characters in search of resolution. </p>
+
+<p>As a mini psychodrama, it shrinks the stage to a sheet of paper, eliminates other players, and offers a quick, direct approach. Working alone or with a guide, the dreamer plays all the roles, speaks and hears the dialogue, harvests projections, and negotiates a resolution. </p>
+
+<p>The method came to me in a dream where I saw myself as a tiny human attached to the earth’s globe by gravity. Up in the universal darkness, a giant megaphone shouted “FIND THE IMAGE AND SATISFY IT.” Immediately I understood that the way to resolution was through the image, and the way to the image was through your feelings. </p>
+
+<p>Since the age of three, I drew, painted, designed textiles, perfected and taught various crafts. When I had kids, I made bread sculpture, rag tapestries, furniture, and toys, and then turned it into how-to books. In the 1970’s, as Program Director for the Boston Children’s Museum Visitor Center, I developed how-to workshops so visitors could make paper, build looms and kites, and invent musical instruments from junk. I also conducted workshops for the New Hampshire elementary school system: sixty to ninety teachers came once a week for five-hour sessions on “Methods and Materials” and “Creative Enrichment.” We called it “Kindergarten for creatively deprived adults,” who were then very excited to take the ideas and methods back to their classes. </p>
+
+<p>From there it was a short step to Expressive Therapy, a field just being defined at Lesley College. In addition to teaching there, I designed and completed my own Masters program based on work I did with teachers all over the country and in India. </p>
+
+<p>Dreams were an arrow leading straight to the unconscious. Like parables, they provide perspective on truths too close to see. Visual methods make problem solving exciting because they require you to think outside the box and use all kinds of intelligence and sources of wisdom. Impatient with the time required by conventional dream work, I asked students to “show me your dream. Show me your problem. Create images. Make characters from torn tissue papers or find an object to represent people and things. Set the stage and tell the story on a sheet of paper.” </p>
+
+<p>In half an hour, everyone in a class could create a scene and begin to work using ten simple questions. I just walked around the room helping to move things as needed. And there was the magic of working in groups. People borrowed from each other, saw what others were doing, heard the first solutions, and were inspired to take risks or reach out. Originality was rampant. Everyone left the room with new information, and often with a new resolution. </p>
+
+<p>A Harvard student who took a workshop said, “This work you do is more interesting than all my psychology courses. I’d like my professor to see.” I did a workshop there, but the professor asked what books I was using, what theory? </p>
+
+<p>“No books, no theory—just common sense and the wisdom of the dream, the power of peoples’ images. We simply ‘satisfy the image.’” </p>
+
+<p>“Well, that isn’t going to make much sense to Academe is it?” he says. </p>
+
+<p>“No. I guess not. It is not a theory; it is an experience.” </p>
+
+<p>So you are the system. You are the method. It’s the doing that heals, creates change, and enlightens. When you experience it, you know it. It is the “Aha!” method. </p>
+"""^^xsd:string ;
+    ns1:handle "annsayrewiseman"^^xsd:string ;
+    ns1:itemId "bcphbq3asay"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Ann Sayre Wiseman"^^xsd:string ;
+    ns1:profileImg "author-ann-sayre-wiseman.jpg"^^xsd:string .
+
+ns1:bcpov6pspec a ns1:Post ;
+    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Some of these publications were published by the Dream Network, others have been kindly offered to this site so you can download and enjoy them. All are fabulous!</p>
+"""^^xsd:string ;
+    ns1:itemId "bcpov6pspec"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Special publications"^^xsd:string ;
+    ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "special-publications"^^xsd:string .
 
 ns1:bcpqoaf5sto a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_6.zip" download>Volume 6 (.zip file, 14mb)</a></p>

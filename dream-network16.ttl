@@ -2303,13 +2303,13 @@ ns1:bcpov6zffelt a ns1:Post ;
 
 <p>Within a couple weeks of completing the recording, Grace has blessed this song with air play on about 150 radio stations so far and I am very grateful. </p>
 
-<p>Among other music I’ve composed, dreams also inspired the recording of my fun environmental song Polymers: <a href="http://www.youtube.com/ watch?v=YFy6npBQ8mU">http://www.youtube.com/ watch?v=YFy6npBQ8mU</a></p>
+<p>Among other music I’ve composed, dreams also inspired the recording of my fun environmental song Polymers: <a href="http://www.youtube.com/watch?v=YFy6npBQ8mU">http://www.youtube.com/watch?v=YFy6npBQ8mU</a></p>
 
 <p>Life has now blessed me with well over a thousand lucid dreams, so to share some of the dream and lucidity skills and insights that have come my way, I lead lively online interactive teleclasses about how to harvest dreams for creativity (music, art, inventions, film etc.), healing, life path guidance, spiritual growth, adventure, etc. ℘ </p>
 
 <p>~ ~ ∞ ~ ∞ ~ ∞ ~ ~ </p>
 
-<p><a href="www.dreams.ca/teleclass.pdf">www.dreams.ca/teleclass.pdf</a></p>
+<p><a href="http://www.dreams.ca/teleclass.pdf">www.dreams.ca/teleclass.pdf</a></p>
 
 <p>Email: Craig Sim Webb csw@edutainer.ca </p>
 
@@ -2648,7 +2648,7 @@ ns1:bcpov6zfmanw a ns1:Post ;
 
 <p>His peculiar statement suddenly seems to make sense. He said, <em>“As I was walking down the stair, I met a man who wasn’t there.”</em> I laugh at the magic of the moment and return to catch my train, no older gentleman anywhere to be seen. ∞ </p>
 
-<p><em>Craig offers highly transformational online classes in Applied Dreaming, Dream Interpretation, and Lucid Living. To learn more or register, please visit: <a href="www.dreams.ca/teleclass.pdf">www.dreams.ca/teleclass.pdf</a></em></p>
+<p><em>Craig offers highly transformational online classes in Applied Dreaming, Dream Interpretation, and Lucid Living. To learn more or register, please visit: <a href="http://www.dreams.ca/teleclass.pdf">www.dreams.ca/teleclass.pdf</a></em></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3webb ;
     ns1:hasTag ns1:bcphbq3webb,

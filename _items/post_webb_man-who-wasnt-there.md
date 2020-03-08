@@ -22,7 +22,7 @@ At the speed he was hobbling down the steps—unless he was completely faking it
 
 His peculiar statement suddenly seems to make sense. He said, *“As I was walking down the stair, I met a man who wasn’t there.”* I laugh at the magic of the moment and return to catch my train, no older gentleman anywhere to be seen. ∞ 
 
-*Craig offers highly transformational online classes in Applied Dreaming, Dream Interpretation, and Lucid Living. To learn more or register, please visit: [www.dreams.ca/teleclass.pdf](www.dreams.ca/teleclass.pdf)*
+*Craig offers highly transformational online classes in Applied Dreaming, Dream Interpretation, and Lucid Living. To learn more or register, please visit: [www.dreams.ca/teleclass.pdf](http://www.dreams.ca/teleclass.pdf)*
 
 
 

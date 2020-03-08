@@ -25,13 +25,13 @@ A week or so later, when I was having trouble blending the mix, another dream ca
 
 Within a couple weeks of completing the recording, Grace has blessed this song with air play on about 150 radio stations so far and I am very grateful. 
 
-Among other music I’ve composed, dreams also inspired the recording of my fun environmental song Polymers: [http://www.youtube.com/ watch?v=YFy6npBQ8mU](http://www.youtube.com/ watch?v=YFy6npBQ8mU)
+Among other music I’ve composed, dreams also inspired the recording of my fun environmental song Polymers: [http://www.youtube.com/watch?v=YFy6npBQ8mU](http://www.youtube.com/watch?v=YFy6npBQ8mU)
 
 Life has now blessed me with well over a thousand lucid dreams, so to share some of the dream and lucidity skills and insights that have come my way, I lead lively online interactive teleclasses about how to harvest dreams for creativity (music, art, inventions, film etc.), healing, life path guidance, spiritual growth, adventure, etc. ℘ 
 
 ~ ~ ∞ ~ ∞ ~ ∞ ~ ~ 
 
-[www.dreams.ca/teleclass.pdf](www.dreams.ca/teleclass.pdf)
+[www.dreams.ca/teleclass.pdf](http://www.dreams.ca/teleclass.pdf)
 Email: Craig Sim Webb csw@edutainer.ca 
 Link to song: [www.edutainer.ca/lucidsong.htm](http://www.edutainer.ca/music/lucidsong.htm) 
 (song also available at iTunes and Amazon) 

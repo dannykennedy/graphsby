@@ -15,7 +15,7 @@ Whenever I am getting ready for a radio interview or a talk, I try to anticipate
 
 But on this particular talk show, I was thrown off a bit. The kind lady on the phone handed me a really simple, basic question. But it caused me to hesitate. To think a bit. 
 
-Her question: **What is a dream? **
+Her question: **What is a dream?**
 
 I thought back. Had any of the so called dream “experts” answered that question? I have noticed that most writers of dream books dive right in, assuming everyone knows what they are talking about when they discuss dreams. 
 

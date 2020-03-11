@@ -1,12 +1,12 @@
 ---
-dateCreated: '2006-04-01T11:32:52'
+dateCreated: '2013-01-01T11:32:52'
 itemId: bcpov6zfpsig
 layout: post
 name: "Contest Inspires Group Psi Game: Dreaming Minds Unite!"
 tags:
 - hasTag: joyfatooh
 - hasAuthor: joyfatooh
-- hasTag: 25.2
+- hasTag: 32.1
 type: post
 urlSlug: group-psi-game-dreaming-minds-unite
 ---

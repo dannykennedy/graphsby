@@ -10,6 +10,7 @@ date: 2015-03-24
 profileImg: author-joy-fatooh.jpg
 ---
 
+Copy editor, [IASD Newsletter](http://www.asdreams.org/dreamnewsletter/)
 Website: [fatooh.org/art](http://fatooh.org/art/)
 
 My earliest memories include dreams and my fascination was intensified by sharing a mutual dream with my sister at the age of 11. Psi dreaming has seemed natural ever since; lucid dreaming comes easily; and I especially enjoy exploring the potential of lucid psi. I love inspiring others to expand the horizons of their dream worlds and above all I treasure the incidents that reveal our ultimate connectedness.

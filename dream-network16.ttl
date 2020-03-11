@@ -1472,20 +1472,6 @@ ns1:bcphbvecgmx a ns1:Post ;
     ns1:profileImg "21.4-22.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "21.4-22.1"^^xsd:string .
 
-ns1:bcphbvjopd2 a ns1:Post ;
-    ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/22.2-rect.jpg"/><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf" download="">Download issue 22.2</a><br><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobu7vuq ;
-    ns1:itemId "bcphbvjopd2"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 22, issue 2: Peace"^^xsd:string ;
-    ns1:profileImg "22.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "22.2"^^xsd:string .
-
 ns1:bcphbvob4z7 a ns1:Post ;
     ns1:coverImg "22.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2003-07-01T11:32:52"^^xsd:dateTime ;
@@ -2602,8 +2588,6 @@ ns1:bcpov6zflies a ns1:Post ;
 
 <p>It was my second visit to the garden nursery in Rhode Island. The warm, milky sunshine and abundance of flora provided a sweetly scented backdrop to what would be the beginning of an ongoing and wondrous experience in synchronicity. With my camera strapped around my neck, I walked upon a pebbled walk-way through a beautiful butterfly garden. Like fidgety toddlers, the butterflies were not behaving and refused to sit for the portraits I longed to take. Rarely would they land on a flower and if they did it was never long enough to catch their image. I shook my head with impatience and was ready to put my camera away. </p>
 
-<p><em>Dream Journal Entry 7/30/10</em></p>
-
 <p>From the corner of my eye I caught sight of a grey-blue painted, metal chair sitting alone at the corner of the garden. Delicately dangling from the curved edge of the chair was the chrysalis of a Monarch butterfly. It captivated me, those fine details of tightly folded orange and black wings that could be seen through the translucent casing. As I gazed upon it, my dream from earlier that month immediately entered my consciousness. I became the solitary cheerleader for the emergence of this little creature. I stayed with the Monarch for over 45 minutes as it struggled from its outer shell. In my mind I heard unspoken words <em>“You cannot rush a butterfly,”</em> nor can you help it break free of its cocoon, otherwise the risk exists of damaging delicate wings. I simply watched and waited patiently while I slowly snapped photographs of the small miracle unfolding before my eyes.</p>
 
 <h3>A Visit to the Consignment Store</h3>
@@ -2693,6 +2677,112 @@ ns1:bcpov6zfoldd a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Old Dreams - Memories and Reflections"^^xsd:string ;
     ns1:urlSlug "the-old-dreams-memories-and-reflections"^^xsd:string .
+
+ns1:bcpov6zfpeac a ns1:Post ;
+    ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<blockquote>
+  <p>“Nothing happens unless first a dream.” - Carl Sandburg</p>
+</blockquote>
+
+<p>I would like to talk to you about <em>The World Dreams Peace Bridge</em>, my current dreaming project. In order to do so it is necessary to first give you a little background about myself and about the fairly unique dreamwork process in which I have involved myself over the past thirty years or so. </p>
+
+<h2>Some History</h2>
+
+<p>I was fortunate that fairly early in my career in that I was asked to direct a small, non-profit organization in Virginia Beach, Virginia, called Poseidia Institute. At that time, the focus of research was on the intuitive process — what made people able to do such things as accurate psychic readings(?), for example. What made it possible for ‘healers’ to ‘cure’ and ‘telepaths’ to give information for someone halfway around the world? </p>
+
+<p>Because these questions were primary to my own research as well, it quickly became clear to me that dreams — whatever else they may be — are the one altered state of consciousness we all share. Therefore, talking to people about dreaming might reduce the general awe in which psychics and psychic phenomena were held, that is when they were not being denied or ridiculed. </p>
+
+<p>So I began with the premise that we are all psychic, that being psychic is our nature. It wasn’t long before the necessity to examine the nature of time and space became important to me as well, since the psychics I knew often talked about alternate realities, or other areas of time and space. </p>
+
+<p>These were interesting times in the field of dreams, during the 1970s. John Herbert, Richard Wilkerson and others summed some of that history up in articles in the last issue of Dream Network. </p>
+
+<p>On the East Coast, Dr. Henry Reed was publishing his <em>Sundance Community Dream Journal</em> for the Association for Research and Enlightenment (ARE). This journal served the function of bringing dreamers into dialogue. So popular was this quarterly journal that, when the ARE stopped its production, a New Yorker by the name of Bill Stimson decided that something needed to be done to keep the grassroots dream community going. He was so convinced, that he started a small publication of his own, the <em>Dream Network Bulletin</em>, which was an immediate precursor of the Dream Network you now hold in your hand. </p>
+
+<p>The staff of Posiedia Institute was involved in these events, with other editors of the DNB, Suzanne Keyes, and Linda Magallon. We were all volunteers in a project we called <em>‘Dreams to the Tenth Power’</em>, a group dreaming experiment. </p>
+
+<p>At the same time Henry was publishing the <em>Sundance Community Dream Journal</em>, he was also conducting his <em>Dream Helper</em> experiments, a process he had devised for getting people incubate dreams to help another dreamer. </p>
+
+<p>In conversation one day, Henry and I decided it might be interesting to see if dream helpers could work with someone they’d never met, or met only briefly. So it was determined that the next person who filled out an application for a psychic reading from one of Poseidia’s staff of very competent psychics would be, if they were willing, the target for a Dream Helper experiment. </p>
+
+<p>The majority of people coming to Poseidia for readings at that time were there for medical assistance, often referred by their doctor or therapist. So when the next application arrived, we invited the young woman to participate in this joint ARE/Poseidia Institute experiment. </p>
+
+<p>What occurred to me the next morning, when the ‘dream helpers’ met to report their dreams—myself among them—was that not only had several members of the group accurately targeted the young woman’s illness, but the dreamers actually appeared to have shared dreams.</p>
+
+<p>This subject of sharing dreams fascinated me so much that I decided to devise some sort of experiment to see if people could share dreams, possibly even lucid dreams, on a planned basis. This was the beginning of a set of experiments which took place over several years. The results of these experiments more than convinced me that spontaneous mutual dreaming is fairly common, though not so commonly reported; I was also convinced that skills such as mutual, and even mutual lucid, dreaming can be developed.</p>
+
+<p>It was out of this background then that I returned in 1996 to The Association for the Study of Dreams. As one of ASD’s earliest members, I had presented at the second ASD conference in Charlottesville, Virginia, but then left dreamwork behind for doctoral work at American University, and later for work as a senior Science Fiction/ Fantasy editor. </p>
+
+<h2>We’ll Cross That Bridge When We Come To It</h2>
+
+<p>So how does all of that bring us to the World Dreams Peace Bridge?</p>
+
+<p>The period between 1985 and 1995 was very important to the study of dreams. In California, Linda Magallon continued the study of mutual and group dreams, finally resulting in her book, <em>Mutual Dreaming</em>, published by Simon &amp; Schuster in 1997. Interest in dream lucidity continued to grow, supported by activities like Ruth Sacksteder’s Lucid Dream Exchange. </p>
+
+<p>Although there continued to be an interest in both interpretive dreamwork and theoretical dream research, dreamers were also becoming interested in such things as Dr. Stanley Krippner’s ongoing research into Shamanic dream practices around the world, and the work of Australian author, Robert Moss. These researchers and others were talking about the important role dreaming has played in world cultures, apart from the more scientific models of Western culture.</p>
+
+<p>I have often told the story of sitting at a table overlooking the ocean on the terrace of the beautiful University of California Santa Cruz campus, with a group of some of the top experts on dream lucidity. Someone asked how people had first become lucid. One man responded, holding up his hands, “I looked at my hands.” One by one, around the table, people grinned and held their hands in front of their faces in silent homage to Carlos Castaneda who, even if he made it all up, introduced an entire generation of dreamers to lucidity through <em>The Teachings of Don Juan</em>. </p>
+
+<p>During the decade in which I was away from dreamwork, more dreamers had become conversant with theories of time and space presented first by Albert Einstein, followed by an entire group of nuclear physicists and popularized by writers such as Gary Zukov, Michael Talbot, and Fred Alan Wolf. Now it was not so unusual as it had once been for dreamers to believe that possibly consciousness—particularly dreaming consciousness—could extend beyond the boundaries of linear time and cross the boundaries of space. </p>
+
+<blockquote>
+  <p>“In the days following 9/11, it seemed to me that maybe it was time for a practical experiment. If it were true that we are dreaming the world, and if it were true that dreamers all over the world could come out of isolation via the internet, then perhaps we should join together to explore the possibility of dreaming the world into peace.” </p>
+</blockquote>
+
+<p>Possibly the single most important development of the decade was the Internet, where almost as soon as longdistance communication was possible, dreamworkers like the Rev. Jeremy Taylor, John Herbert, Jayne Gackenbach, and Richard Wilkerson were communicating globally with dreamers around the world and constructing Internet dream resources which far outshone anything available to dreamers prior to that time. </p>
+
+<p>When I returned to ASD in 1996, almost the first thing I did was volunteer to moderate the Online Bulletin Board at http://www.asdreams.org. I was fascinated by the potential of the Internet to link dreamers with one another and to provide instant communication. Whereas before, when the <em>‘Dreams to the Tenth Power’</em> research was going on, weeks of sending dream accounts and responses through the mail were discouraging to dreamers. Now communication was instantaneous, free... with the click of a key. </p>
+
+<p>As soon as I began to moderate the Online Bulletin Board, I noticed one less-than-surprising thing: a majority of the questions—from kids writing school papers, from adults with sleep disorders, from dreamers all over the globe—focused on subjects which, heretofore, had been classified under ‘paranormal’ dreaming or ‘anomalous’ dreams. There were questions about out-of-body experiences, about dream telepathy, about mutual dreams and experiences of sleep paralysis. It seemed that this type of dreaming, far from being paranormal, was — if we were to believe the people who came to the Bulletin Board — very normal indeed. </p>
+
+<p>The visitors to the Bulletin Board, some of whom became so regular that we began to call them Boarders, carried on the practice of grassroots dreamwork which began in the seventies. Even though dream interpretation is not done on the Bulletin Board, wideranging questions about dreaming and dreamwork are discussed, with equal participation from therapists, sleep and dream researchers, artists as well as from dreamers themselves. </p>
+
+<p>In the two years after I began moderating the Bulletin Board, Ed Kellogg developed the Paranormal Dreaming Forum on the ASD site, and we began also to create ASD Member Pages, which allowed for members to put up a page online, introducing themselves and their work. It was not long until I conceived a plan for bringing International members even closer, through the medium of the Internet. In 1998, I invited ASD members around the world to participate in the construction of the Online Guide to International Dream Work. This project not only provided a stunning array of multi-language pages for the ASD web site, but it also built a feeling of camaraderie among the ASD members working on the project, even though they lived in Greece, Russia, Switzerland, Australia and many places in between.</p>
+
+<h2>The Effects of 9/11</h2>
+
+<p>Given my sensitivity to the issues of interest to the online dream community, it wasn’t much of a stretch for me, when I saw the televised report of the second plane flying into the Twin Towers on the morning of September 11, 2001, to go to the computer and invite people to post their dreams and feelings to the Bulletin Board. I saw the number of precognitive dream reports without surprise and before long I was writing an article called “Dealing With Precognitive Dreamer Guilt,” <a href="http://dreamtalk.hypermart.net/campbell/dreamer_guilt.htm">http://dreamtalk.hypermart.net/campbell/dreamer_guilt.htm</a>, which Richard Wilkerson generously published in his online magazine <a href="http://dreamgate.com/dream/electric-dreams/edreams-g01.htm">Electric Dreams</a>. I was touched by the outpouring of sympathy and understanding, which came to the U.S. from dreamers around the globe. </p>
+
+<p>Then, as the bombs began dropping in Afghanistan, two of my lifelong interests came together with a very loud click. I have been a pacifist ever since, as a graduate student in the 1960s, I did Conscientious Objector counseling for the American Friends Service Committee. </p>
+
+<p>I remembered the plenary speech Dr. Stephen Aizenstat, director of Pacifica Graduate Institute, made at the 1999 ASD Conference in Santa Cruz: <em>‘Dreaming the World.’</em> That lecture caught my attention because Aizenstat was saying what I had believed for years: that people, and all sentient beings, are dreaming the world into existence, all the time. </p>
+
+<p>This is not a new idea, having been the foundation for Aboriginal Australian culture for thousands of years, as well as fundamental to other indigenous cultures. Numerous psychics, such as Edgar Cayce and Jane Roberts, have said the same thing. </p>
+
+<p>In the days following 9/11, it seemed to me that maybe it was time for a practical experiment. If it were true that we are dreaming the world, and if it were true that dreamers all over the world could come out of isolation via the internet, then perhaps we should join together to explore the possibility of dreaming the world into peace. </p>
+
+<h2>The World Dreams Peace Bridge</h2>
+
+<p>In October of 2001, I sent an e-mail to approximately one hundred people: friends, family, those ASD members who had worked on the Online Guide to International Dream Work, inviting them to join me in a discussion group, which I later labeled the first-ever longterm group journaling experiment. There was something that had struck me in my own briefly precognitive dream on the morning of 9/11. In that dream, <em>I was standing in the control tower of an airport, watching as an air traffic control person dealt with an obvious emergency.</em></p>
+
+<p>What struck me about the dream was that, although I was in the control tower, I was only an observer. My dream reminded me that I had the ability to respond, a response-ability to be in control, as we all do if we believe that we are dreaming the world. </p>
+
+<p>In the last issue of <em>Dream Network</em>, Richard Wilkerson labeled this emerging attitude as Dream Activism. In fact, there are other groups now following the model of the World Dreams Peace Bridge, and there are a growing number of dream activists. Is this a new concept? Not entirely. During the time between the emergence of ‘grass roots’ dreamwork and today, many dreamers have recognized that — from a certain position in the dream, often a lucid dream, and sometimes a group or mutual dream — it is possible to act consciously from the dream state, to communicate with others and to participate in creating the magic of reality. </p>
+
+<p>The World Dreams Peace Bridge, which maintains an active membership of around fifty people, is composed of dreamers from around the world: Australia, Japan, the Netherlands, Austria, New Zealand, the U.S. and many other places. In its waking form, as a discussion group, the Peace Bridge operates as a support system for dreamers. New ideas are explored; dreams are told; because of its international membership, news is often reported from one country or another before it is picked up by the press. </p>
+
+<p>At the dreaming level, the World Dreams Peace Bridge has acted as a catalyst for creativity. One example of this is the Peace Train Project, which has grown from a dream Jeremy Seligson dreamed in Korea in August 2002. </p>
+
+<p>In the dream, <em>Jeremy was riding with a group of people on a train across the country. The train, which bore a banner calling it the ‘Peace Train,’ ended up at a platform on which President Gore stood.</em></p>
+
+<p>From the dream, when he first recounted it, Jeremy began to muse. What would happen if people all over the world began to create peace trains? What would happen if children were asked to create peace trains? What would peace trains carry? </p>
+
+<p>Other members of the group began to get enthused and now—less than a year later—Peace Train projects and Peace Train workshops have been held or are planned for Korea, Australia, India, Turkey and the United States. UNESCO has praised the Peace Train Project. Jeremy has created a Peace Train song and is working on a video. There will be a Peace Train workshop at the ASD Conference in Berkeley in June. And the Peace Train Project has brought more dreamers to the Peace Bridge. </p>
+
+<p>By the fall of 2002, the World Dreams Peace Bridge had become so active that we needed to create a web site. With the work of webmistress, Liz Diaz—who had already designed a beautiful World Dreams logo—<a href="https://www.worlddreamspeacebridge.org/">http://www.worlddreamspeacebridge.org</a> was created. The site, among other things, now houses a marvelous collection of art, which has grown out of the dreams of various peace dreamers. </p>
+
+<p>Most recently, in the time just preceding massive world-wide peace demonstrations against U.S. attempts to convince the United Nations to approve war against Iraq, members of the World Dreams Peace Bridge sponsored a Peaceful Solutions Dream In, inviting not just members of the Peace Bridge but dreamers everywhere to join us in attempting to dream up peaceful solutions to the world’s conflicts.</p>
+
+<p>In my own estimation, these are good questions for all dreamers to consider, not just dream activists. In the work I was doing at Poseidia Institute in the 1970s, I was often told that I was ahead of my time. Recently, when I helped to facilitate ASD’s first PsiberDreaming Online Conference, an online psi event that had participants asking for more, I was told that my first book on dreams, <em>Dreams Beyond Dreaming</em>, published in 1980, had withstood the test of time. But, for myself, I have seen Dream Activism as a natural development, an outgrowth of believing that dreams might predict the future or support such things as lucid/mutual communication. </p>
+
+<p>Much has happened in the past thirty years to convince Western dreamers that we might be creating the world (or many worlds) through our dreams. Dream Activism, or projects like those of The World Dreams Peace Bridge, are no more than our attempt to become increasingly more conscious of what we already know to be possible. ℘</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3jean ;
+    ns1:hasTag ns1:bcphbq3jean,
+        ns1:bcphbvjopd2 ;
+    ns1:itemId "bcpov6zfpeac"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Can the World Dream Peace?"^^xsd:string ;
+    ns1:urlSlug "can-the-world-dream-peace"^^xsd:string .
 
 ns1:bcpov6zfsra a ns1:Post ;
     ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
@@ -2838,6 +2928,20 @@ ns1:bcphbrw63cp a ns1:Post ;
     ns1:profileImg "15.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "15.1"^^xsd:string .
 
+ns1:bcphbvjopd2 a ns1:Post ;
+    ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/22.2-rect.jpg"/><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf" download="">Download issue 22.2</a><br><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobu7vuq ;
+    ns1:itemId "bcphbvjopd2"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 22, issue 2: Peace"^^xsd:string ;
+    ns1:profileImg "22.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "22.2"^^xsd:string .
+
 ns1:bcphbxplpmw a ns1:Post ;
     ns1:coverImg "26.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2007-10-01T11:32:52"^^xsd:dateTime ;
@@ -2958,6 +3062,17 @@ ns1:bcphbq3curt a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Curtiss Hoffman"^^xsd:string ;
     ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
+
+ns1:bcphbq3jean a ns1:User ;
+    ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
+
+<p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
+"""^^xsd:string ;
+    ns1:handle "jeancampbell"^^xsd:string ;
+    ns1:itemId "bcphbq3jean"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jean Campbell"^^xsd:string ;
+    ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
 
 ns1:bcphbq3mcle a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.changingworld.com/about-us">changingworld.com</a></p>
@@ -3419,9 +3534,6 @@ ns1:bcpqoaivzve a ns1:Post ;
     ns1:profileImg "volume-7.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-7"^^xsd:string .
 
-ns1:User rdfs:subClassOf ns1:Actor,
-        ns1:Person .
-
 ns1:bcphbq3arts a ns1:User ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
 
@@ -3442,6 +3554,9 @@ ns1:bcpqn7zvpei a ns1:Post ;
     ns1:name "Volume 1"^^xsd:string ;
     ns1:profileImg "volume-1.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-1"^^xsd:string .
+
+ns1:User rdfs:subClassOf ns1:Actor,
+        ns1:Person .
 
 ns1:bcpqn72unjj a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>

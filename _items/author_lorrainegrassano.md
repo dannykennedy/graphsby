@@ -2,7 +2,7 @@
 layout: page
 type: user
 itemId: bcphbq3gras
-handle: lorrainagrassano
+handle: lorrainegrassano
 name: "Lorraine Grassano"
 shortDescription: ""
 tags:

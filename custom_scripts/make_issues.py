@@ -69,10 +69,6 @@ for issue in issues:
         for tag in issue["tags"]:
             pyyaml['tags'].append({"hasTag": tag})
 
-    # Add description
-    if "description" in issue.keys():
-        pyyaml["description"] = issue["description"]
-
     print(pyyaml)
 
     newfile = open(filepath, "w")
@@ -84,8 +80,8 @@ for issue in issues:
     if "description" in issue.keys():
         newfile.write("<div>" + issue["description"] + "</div>")
 
-    newfile.write('<img class="card-journal-img" src="../images/' +
-                  imgName + '-rect.jpg"/>')
+    # newfile.write('<img class="card-journal-img" src="../images/' +
+    #               imgName + '-rect.jpg"/>')
     newfile.write('<a href="../files/pdfs/Volume_' + volume_number_str +
                   '/' + pdfName + '" download="">Download issue ' + imgName + '</a>')
     newfile.write('<br><a href="../files/pdfs/Volume_' + volume_number_str +

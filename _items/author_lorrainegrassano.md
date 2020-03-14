@@ -1,17 +1,16 @@
 ---
 layout: page
 type: user
-itemId: bcphbq3gras
-handle: lorrainegrassano
-name: "Lorraine Grassano"
+itemId: bcphbq3spar
+handle: davidsparenberg
+name: "David Sparenberg"
 shortDescription: ""
 tags:
 date: 2015-03-24
-profileImg: author-lorraine-grassano.jpg
+profileImg: author-david-sparenberg.jpg
 ---
 
-Lorraine Grassano is an author and long time advisor & copyeditor for the Dream Network Journal. 
+International Eco Ebook, Author OVI Bookshop, Director-Scriptwriter for CROSSING the THRESHOLD TOGETHER video project
 
-Grassano was born in Paterson, New Jersey, and graduated from Rutgers University with a B.A. in Journalism. She has been an Acquisitions Editor for Spinsters/Aunt Lute Press She has resided in San Francisco since 1979.
+David's [YouTube](https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww) channel
 
-She is the author of the book ["With Vows Unspoken"](https://www.amazon.com/Vows-Unspoken-Lorraine-Grassano/dp/1300022396) (2012).

@@ -10,6 +10,8 @@ date: 2015-03-24
 profileImg: author-robert-gongloff.jpg
 ---
 
+Website: [heartofthedream.com](http://heartofthedream.com/)
+
 Robert’s background in dream work is varied. He has been involved with the International Association for the Study of Dreams (IASD) for over 25 years. Through this organization, he has enjoyed the benefit of multidiscipline dream work expertise from around the world. He is a past president of IASD and has hosted multiple international dream conferences. He is a graduate of the two-year Dream Leader Training program offered by The Haden Institute in Charlotte. It was here that he gained much of his knowledge of Jungian archetypes. He was ordained through Sancta Sophia Seminary in Oklahoma's modern day wisdom school. The seminary opened his eyes to the relationships between dreams, astrology, and the ancient wisdom teachings.
 
 Robert has a Master of Arts degree in guidance and counseling from Wayne State University in Detroit. He has also completed a year of Ph.D. level work in spiritual studies.

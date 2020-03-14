@@ -2890,7 +2890,7 @@ ns1:bcpov6zfpsig a ns1:Post ;
     ns1:urlSlug "group-psi-game-dreaming-minds-unite"^^xsd:string .
 
 ns1:bcpov6zfredb a ns1:Post ;
-    ns1:dateCreated "2014-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2012-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zfredb-0.jpg" alt="READING THE RED BOOK, Spring Journal Books, 317 pp" /></p>
 
 <p><!--nopreview--><div style="text-align:center"><i>READING THE RED BOOK, Spring Journal Books, 317 pp</i></div><!--/nopreview--></p>

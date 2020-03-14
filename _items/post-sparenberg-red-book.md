@@ -1,5 +1,5 @@
 ---
-dateCreated: '2014-07-01T11:32:52'
+dateCreated: '2012-10-01T11:32:52'
 itemId: bcpov6zfredb
 layout: post
 name: "Reading the Red Book: An Interpretive Guide to CG Jung’s Liber Novus by Sanford L. Drob"

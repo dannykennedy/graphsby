@@ -6,7 +6,7 @@ name: "Aware in the Light: Lucid Dreaming’s Transformational Potential"
 tags:
 - hasTag: robertwaggoner
 - hasAuthor: robertwaggoner
-- hasTag: 28.2
+- hasTag: 28.2-3
 - hasTag: "lucid dreaming"
 type: post
 urlSlug: lucid-dreaming-transformational-potential

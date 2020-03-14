@@ -1696,20 +1696,6 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.1"^^xsd:string .
 
-ns1:bcphbygiw4g a ns1:Post ;
-    ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a><br><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqochapy2 ;
-    ns1:itemId "bcphbygiw4g"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
-    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "28.2-3"^^xsd:string .
-
 ns1:bcphbyjvotn a ns1:Post ;
     ns1:coverImg "28.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2009-10-01T11:32:52"^^xsd:dateTime ;
@@ -1889,7 +1875,8 @@ ns1:bcpov6zfawar a ns1:Post ;
 <p>Once the province of parapsychologists and Buddhist monks, lucid dreaming has radical transformational potential to usher in a new age of human potential and greater awareness. Individually, scientifically and culturally, lucid dreaming can help us discover the broader dimensions of Self and in so doing, transform society and its relationships. ℘</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3wagg ;
-    ns1:hasTag ns1:bcphbq3wagg ;
+    ns1:hasTag ns1:bcphbq3wagg,
+        ns1:bcphbygiw4g ;
     ns1:itemId "bcpov6zfawar"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Aware in the Light: Lucid Dreaming’s Transformational Potential"^^xsd:string ;
@@ -3279,6 +3266,20 @@ ns1:bcphbxxscsf a ns1:Post ;
     ns1:name "Volume 27, issue 2: Women for Peace"^^xsd:string ;
     ns1:profileImg "27.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "27.2"^^xsd:string .
+
+ns1:bcphbygiw4g a ns1:Post ;
+    ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a><br><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
+    ns1:itemId "bcphbygiw4g"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
+    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "28.2-3"^^xsd:string .
 
 ns1:bcphbyukqzw a ns1:Post ;
     ns1:coverImg "29.3-cover.jpg"^^xsd:string ;

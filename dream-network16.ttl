@@ -2868,6 +2868,38 @@ ns1:bcpov6zfpsig a ns1:Post ;
     ns1:name "Contest Inspires Group Psi Game: Dreaming Minds Unite!"^^xsd:string ;
     ns1:urlSlug "group-psi-game-dreaming-minds-unite"^^xsd:string .
 
+ns1:bcpov6zfsing a ns1:Post ;
+    ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<div style="text-align: center;">
+
+<p style="font-style: italic;">
+
+I awoke to this strange sound coming from outside my window.<br>
+
+After a while, it occurred to me it was coming from the trees.<br>
+
+They were creating music; they were singing!<br>
+
+I was filled with inexplicable joy at the wonder of this.<br>
+
+It all made sense somehow, like the ‘Pythagorean Music of the Spheres.’<br>
+
+How the Universe is alive and we are all making music!<br>
+
+</p>
+
+</div>
+
+<p><img src="../images/post-bcpov6zfsing-0.jpg" alt="The Trees are Singing, Artwork by Linda Mastrangelo" /></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3mast ;
+    ns1:hasTag ns1:bcphbq3mast,
+        ns1:bcphbzdzrug ;
+    ns1:itemId "bcpov6zfsing"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Trees are Singing!"^^xsd:string ;
+    ns1:urlSlug "the-trees-are-singing"^^xsd:string .
+
 ns1:bcpov6zfsra a ns1:Post ;
     ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/coat-of-many-colors-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a><br><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p>
@@ -3257,6 +3289,39 @@ ns1:bcphbq3joyf a ns1:User ;
     ns1:name "Joy Fatooh"^^xsd:string ;
     ns1:profileImg "author-joy-fatooh.jpg"^^xsd:string .
 
+ns1:bcphbq3mast a ns1:User ;
+    ns1:description """<p>Website: <a href="http://lindamastrangelo.com/">lindamastrangelo.com</a></p>
+
+<p>For over twenty years, Linda has been serving a diverse population of people in several multicultural cities including New York, Los Angeles, Oakland and San Jose in mental health, academic and nonprofit settings; supporting individuals from all walks of life and age ranges during significant life transitions.</p>
+
+<p>As a therapist, Linda has provided individual, couples, family and group counseling, and community education/training for underserved populations in Alameda and Santa Clara Counties, as well as hospice work and trainings in grief counseling in San Jose. Linda also provides consultations for those in the healing professions who want to work with dreams with clients.</p>
+
+<p>Linda is a graduate level certified dream specialist with a Master’s degree in counseling psychology from John F. Kennedy University with an emphasis on Transpersonal Psychology.  With her many years of training, facilitations, consultations and award winning research on using dreams as a therapeutic model, makes her a specialist in this field.</p>
+
+<h3>Writing and Research</h3>
+
+<p>In 2009, Linda’s passion to share the wisdom of dreams blossomed into the first dream column for The Examiner . The intention was to write about dreams and the dreaming community and this labor of love has grown into a resource for the San Francisco Bay Area and beyond. She currently writes about dreams for many other publications including; The Lucid Dream Exchange (LDE), The Dream Tribe , <a href="../@dreamnetwork">Dream Network Journal</a>, All Things Healing and DreamTime Magazine. Linda is also Editor of <a href="https://www.asdreams.org/dreamnewsletter/">Dream News</a>; an IASD monthly e-news publication.</p>
+
+<p>Linda has been a guest lecturer and facilitator at institutions and conferences internationally including John F. Kennedy University, International Association for the Study of Dreams (IASD), California Association for Marriage and Family Therapist (CAMFT), Santa Cruz Museum of Art and History (MAH),  The <a href="http://institutefordreamstudies.org/">Institute for Dream Studies</a>, Jan des Bouvrie College, and The Dream Institute of Northern California where she co-hosted a “Dream Studies Open Forum” where researchers, teachers and counselors in the dreaming field shared resources to promote change in their communities.</p>
+
+<h3>Alchemical Art</h3>
+
+<p>Linda has been illustrating and writing down her dreams for over twenty five years. Her process of these alchemically organic images can be closely described as creation through “waking dream.” The art emerges spontaneously and fluidly and, like the dream, can have a multitude of layers and meanings. Linda’s work has been shown internationally including New York, Los Angeles, San Francisco, Prague and Amsterdam.</p>
+
+<p>You can find her alchemical illustrations at the PsiberDreaming Gallery.</p>
+
+<p>Her <a href="http://lindamastrangelo.com/alchemical-art/">Dream Alchemy Shoppe</a> features dream inspired talismans for healing work.</p>
+
+<h3>Professional Affiliations</h3>
+
+<p>Linda serves on the board of directors at the <a href="https://www.asdreams.org/">International Association of the Study of Dreams (IASD)</a>, is a member of the California Association for Marriage Family Therapists (CAMFT) and the Writers Guild of America, West.</p>
+"""^^xsd:string ;
+    ns1:handle "lindamastrangelo"^^xsd:string ;
+    ns1:itemId "bcphbq3mast"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Linda Mastrangelo"^^xsd:string ;
+    ns1:profileImg "author-linda-mastrangelo.jpg"^^xsd:string .
+
 ns1:bcphbq3mcle a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.changingworld.com/about-us">changingworld.com</a></p>
 
@@ -3336,6 +3401,19 @@ ns1:bcphbq3rcwi a ns1:User ;
     ns1:name "Richard Wilkerson"^^xsd:string ;
     ns1:profileImg "author-richard-wilkerson.jpg"^^xsd:string .
 
+ns1:bcphbq3jean a ns1:User ;
+    ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
+
+<p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
+
+<p>In 2008, <a href="../bcphbxxscsf/27.2">Volume 27 Issue 2 of the Dream Network Journal</a> paid tribute to Jean as well as Rita Dwyer, "Two Exceptional Women Working Vigilantly for Dreams and for Peace". </p>
+"""^^xsd:string ;
+    ns1:handle "jeancampbell"^^xsd:string ;
+    ns1:itemId "bcphbq3jean"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jean Campbell"^^xsd:string ;
+    ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
+
 ns1:bcphbzdzrug a ns1:Post ;
     ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
@@ -3349,19 +3427,6 @@ ns1:bcphbzdzrug a ns1:Post ;
     ns1:name "Volume 30, issue 4: Music in our Dreams"^^xsd:string ;
     ns1:profileImg "30.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "30.4"^^xsd:string .
-
-ns1:bcphbq3jean a ns1:User ;
-    ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
-
-<p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
-
-<p>In 2008, <a href="../bcphbxxscsf/27.2">Volume 27 Issue 2 of the Dream Network Journal</a> paid tribute to Jean as well as Rita Dwyer, "Two Exceptional Women Working Vigilantly for Dreams and for Peace". </p>
-"""^^xsd:string ;
-    ns1:handle "jeancampbell"^^xsd:string ;
-    ns1:itemId "bcphbq3jean"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jean Campbell"^^xsd:string ;
-    ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
 
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>

@@ -718,7 +718,9 @@ issues = [
         "imgName": "27.2",
         "pdfName": "27.2_women_for_peace.pdf",
         "title": "Women for Peace",
-        "date": "2008-04-01T11:32:52"
+        "date": "2008-04-01T11:32:52",
+        "tags": ["jeancampbell"],
+        "description": "<p>Paying Tribute to Two Exceptional Women Working Vigilantly for Dreams and for Peace: Rita Dwyer & <a href='../@jeancampbell'>Jean Campbell</a></p>"
     },
     {
         "imgName": "27.3",

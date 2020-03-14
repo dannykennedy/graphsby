@@ -64,12 +64,26 @@ for issue in issues:
     pyyaml['dateCreated'] = dateCreated
     pyyaml['profileImg'] = imgName + "-rect.jpg"
 
+    # Add tags
+    if "tags" in issue.keys():
+        for tag in issue["tags"]:
+            pyyaml['tags'].append({"hasTag": tag})
+
+    # Add description
+    if "description" in issue.keys():
+        pyyaml["description"] = issue["description"]
+
     print(pyyaml)
 
     newfile = open(filepath, "w")
     newfile.write("---\n")
     newfile.write(yaml.dump(pyyaml))
     newfile.write("---\n")
+
+    # Add description
+    if "description" in issue.keys():
+        newfile.write("<div>" + issue["description"] + "</div>")
+
     newfile.write('<img class="card-journal-img" src="../images/' +
                   imgName + '-rect.jpg"/>')
     newfile.write('<a href="../files/pdfs/Volume_' + volume_number_str +

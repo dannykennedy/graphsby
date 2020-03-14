@@ -3103,10 +3103,11 @@ ns1:bcphbxplpmw a ns1:Post ;
 ns1:bcphbxxscsf a ns1:Post ;
     ns1:coverImg "27.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2008-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/27.2-rect.jpg"/><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf" download="">Download issue 27.2</a><br><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf">View online</a></p>
+    ns1:description """<p><div><p>Paying Tribute to Two Exceptional Women Working Vigilantly for Dreams and for Peace: Rita Dwyer &amp; Jean Campbell</p></div><img class="card-journal-img" src="../images/27.2-rect.jpg"/><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf" download="">Download issue 27.2</a><br><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf">View online</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
+    ns1:hasTag ns1:bcphbq3jean,
+        ns1:bcphbq3xdnj,
         ns1:bcpqocezqpx ;
     ns1:itemId "bcphbxxscsf"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
@@ -3235,17 +3236,6 @@ ns1:bcphbq3curt a ns1:User ;
     ns1:name "Curtiss Hoffman"^^xsd:string ;
     ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
 
-ns1:bcphbq3jean a ns1:User ;
-    ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
-
-<p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
-"""^^xsd:string ;
-    ns1:handle "jeancampbell"^^xsd:string ;
-    ns1:itemId "bcphbq3jean"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jean Campbell"^^xsd:string ;
-    ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
-
 ns1:bcphbq3joyf a ns1:User ;
     ns1:description """<p>Copy editor, <a href="http://www.asdreams.org/dreamnewsletter/">IASD Newsletter</a></p>
 
@@ -3359,6 +3349,19 @@ ns1:bcphbzdzrug a ns1:Post ;
     ns1:name "Volume 30, issue 4: Music in our Dreams"^^xsd:string ;
     ns1:profileImg "30.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "30.4"^^xsd:string .
+
+ns1:bcphbq3jean a ns1:User ;
+    ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
+
+<p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
+
+<p>In 2008, <a href="../bcphbxxscsf/27.2">Volume 27 Issue 2 of the Dream Network Journal</a> paid tribute to Jean as well as Rita Dwyer, "Two Exceptional Women Working Vigilantly for Dreams and for Peace". </p>
+"""^^xsd:string ;
+    ns1:handle "jeancampbell"^^xsd:string ;
+    ns1:itemId "bcphbq3jean"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jean Campbell"^^xsd:string ;
+    ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
 
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>

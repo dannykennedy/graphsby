@@ -3004,6 +3004,7 @@ How the Universe is alive and we are all making music!<br>
     ns1:itemId "bcpov6zfsing"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Trees are Singing!"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zfsing-0.jpg"^^xsd:string ;
     ns1:urlSlug "the-trees-are-singing"^^xsd:string .
 
 ns1:bcpov6zfsra a ns1:Post ;

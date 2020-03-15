@@ -3455,15 +3455,31 @@ ns1:bcphbq3joyf a ns1:User ;
     ns1:profileImg "author-joy-fatooh.jpg"^^xsd:string .
 
 ns1:bcphbq3mast a ns1:User ;
-    ns1:description """<p>Website: <a href="https://lightningtreetherapy.com/">lightningtreetherapy.com</a></p>
+    ns1:description """<p>Website: <a href="http://lindamastrangelo.com/">lindamastrangelo.com</a></p>
 
-<p>Linda Mastrangelo, MA, LMFT is an author, educator, artist and psychotherapist with a private practice in the San Francisco Bay area specializing in bereavement and dreamwork. Being a prolific dreamer since childhood, she discovered the remarkable potential of dreams as “good medicine” and developed techniques that have empowered people to make more mindful changes in their lives and communities. Because dreams can go right to the core of issues, Linda uses a gentle approach while encouraging her clients to explore at their own pace while accessing their own wisdom.</p>
+<p>For over twenty years, Linda has been serving a diverse population of people in several multicultural cities including New York, Los Angeles, Oakland and San Jose in mental health, academic and nonprofit settings; supporting individuals from all walks of life and age ranges during significant life transitions.</p>
 
-<p>With many years of training, facilitations, consultations and award winning research on using dreams as a therapeutic model, she has presented this work internationally including; the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a>, California Association for Marriage and Family Therapists, Institute for Dream Studies, Santa Cruz Museum of Art &amp; History, Hospice of the Valley, and The Dream Institute of Northern California. Her most recent labor of love happened on April 12 of 2019, the IASD regional event the <a href="https://festivalofdreams.net/">“Festival of Dreams”</a> with cohost Katherine Bell and an incredible team of volunteers. The event was held in a dreamy venue in the hub of downtown at the Santa Cruz Museum of Art &amp; History with almost 100 attendees and 30 presenters and artists, mostly local residents. Due to the glowing reviews and wonderful feedback, they are already in the planning stages for the next event in 2021. </p>
+<p>As a therapist, Linda has provided individual, couples, family and group counseling, and community education/training for underserved populations in Alameda and Santa Clara Counties, as well as hospice work and trainings in grief counseling in San Jose. Linda also provides consultations for those in the healing professions who want to work with dreams with clients.</p>
 
-<p>Linda has also written for numerous publications including <a href="https://www.goodtherapy.org/therapists/profile/linda-mastrangelo-20160129">GoodTherapy</a>, <a href="https://www.sufijournal.org/archives-97-summer-issue/">SUFI</a>, Lucid Dreaming Exchange, <a href="http://www.immanencejournal.com/wp-content/uploads/2016/10/Fall-2016-Immanence-Journal-desktop-double-spread.pdf">Immanence</a>, Dream Network Journal, DreamTime Magazine, the Examiner and as a contributor for two highly anticipated books; <a href="https://products.abc-clio.com/abc-cliocorporate/product.aspx?pc=A4996C">Sleep Monsters and Superheroes</a> and Dreams that Change Our Lives. She has also been interviewed on <a href="https://ksqd.org/bereavement-and-visitation-dreams-with-linda-mastrangelo/">KSQD’s The Dream Journal</a>, <a href="https://podcasts.apple.com/us/podcast/linda-mastrangelo-using-dreams-to-work-through-grief/id1441339304?i=1000436057947">Dream Power Radio</a> and <a href="http://www.facebook.com/DreamSynergy">the Dream Effect</a>.</p>
+<p>Linda is a graduate level certified dream specialist with a Master’s degree in counseling psychology from John F. Kennedy University with an emphasis on Transpersonal Psychology.  With her many years of training, facilitations, consultations and award winning research on using dreams as a therapeutic model, makes her a specialist in this field.</p>
 
-<p>Linda is a graduate professor at John F. Kennedy University in their Department of Consciousness &amp; Transformative Studies program as well as serving on the Board of Directors and Editor of Dream News for the International Association for the Study of Dreams. You can visit her website at <a href="http://lightningtreetherapy.com/">lightningtreetherapy.com</a></p>
+<h3>Writing and Research</h3>
+
+<p>In 2009, Linda’s passion to share the wisdom of dreams blossomed into the first dream column for The Examiner . The intention was to write about dreams and the dreaming community and this labor of love has grown into a resource for the San Francisco Bay Area and beyond. She currently writes about dreams for many other publications including; The Lucid Dream Exchange (LDE), The Dream Tribe , <a href="../@dreamnetwork">Dream Network Journal</a>, All Things Healing and DreamTime Magazine. Linda is also Editor of <a href="https://www.asdreams.org/dreamnewsletter/">Dream News</a>; an IASD monthly e-news publication.</p>
+
+<p>Linda has been a guest lecturer and facilitator at institutions and conferences internationally including John F. Kennedy University, International Association for the Study of Dreams (IASD), California Association for Marriage and Family Therapist (CAMFT), Santa Cruz Museum of Art and History (MAH),  The <a href="http://institutefordreamstudies.org/">Institute for Dream Studies</a>, Jan des Bouvrie College, and The Dream Institute of Northern California where she co-hosted a “Dream Studies Open Forum” where researchers, teachers and counselors in the dreaming field shared resources to promote change in their communities.</p>
+
+<h3>Alchemical Art</h3>
+
+<p>Linda has been illustrating and writing down her dreams for over twenty five years. Her process of these alchemically organic images can be closely described as creation through “waking dream.” The art emerges spontaneously and fluidly and, like the dream, can have a multitude of layers and meanings. Linda’s work has been shown internationally including New York, Los Angeles, San Francisco, Prague and Amsterdam.</p>
+
+<p>You can find her alchemical illustrations at the PsiberDreaming Gallery.</p>
+
+<p>Her <a href="http://lindamastrangelo.com/alchemical-art/">Dream Alchemy Shoppe</a> features dream inspired talismans for healing work.</p>
+
+<h3>Professional Affiliations</h3>
+
+<p>Linda serves on the board of directors at the <a href="https://www.asdreams.org/">International Association of the Study of Dreams (IASD)</a>, is a member of the California Association for Marriage Family Therapists (CAMFT) and the Writers Guild of America, West.</p>
 """^^xsd:string ;
     ns1:handle "lindamastrangelo"^^xsd:string ;
     ns1:itemId "bcphbq3mast"^^xsd:string ;
@@ -3566,11 +3582,11 @@ ns1:bcphbq3wagg a ns1:User ;
 
 <p>Robert Waggoner wrote the acclaimed book, <a href="https://www.lucidadvice.com/books/lucid-dreaming-gateway-to-the-inner-self/">Lucid Dreaming – Gateway to the Inner Self</a> (now in its tenth printing), and co-authored <a href="https://www.lucidadvice.com/books/lucid-dreaming-plain-and-simple/">Lucid Dreaming Plain and Simple</a> with Caroline McCready.  Both books are in Audible, Kindle and CD/Mp3. </p>
 
-<p>He is also the author of <a href="https://www.amazon.com/Dream-Exploration-Approach-Robert-Gongloff/dp/0738708186">Dream Exploration: A New Approach</a>, which helps dreamers identify the core "theme" - the "heart" - of the dream; and is co-editor of the <a href="https://www.amazon.com/Dreams-That-Change-Our-Lives/dp/1630514292">IASD book, Dreams that Change Our Lives</a>, and the second volume of <a href="https://www.amazon.com.au/Dreams-Understanding-Biology-Psychology-Culture/dp/1440856168">Dreams: Understanding Biology, Psychology, and Culture</a>.</p>
+<p>He is also the author of <a href="https://www.amazon.com/Dream-Exploration-Approach-Robert-Gongloff/dp/0738708186">Dream Exploration: A New Approach</a>, which helps dreamers identify the core "theme" - the "heart" - of the dream; and is co-editor of the <a href="https://www.amazon.com/Dreams-That-Change-Our-Lives/dp/1630514292">IASD book, Dreams that Change Our Lives</a>, and the second volume of <a href="https://www.amazon.com.au/Dreams-Understanding-Biology-Psychology-Culture/dp/1440856168">Dreams: Understanding Biology, Psychology, and Culture</a>. He lives in Málaga, Spain. </p>
 
 <p>His books have been translated into French, German, Chinese, Korean, Czech, Finnish and other languages.</p>
 
-<p>A past President of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a> (IASD), Waggoner serves at co-editor of the online magazine, <a href="https://www.dreaminglucid.com/">The Lucid Dreaming Experience</a>, (ISSN 2167-616X); the only ongoing publication devoted specifically to lucid dreaming. A lucid dreamer since 1975, he has logged more than 1,000 lucid dreams. He lives in Málaga, Spain. </p>
+<p>A past President of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a> (IASD), Waggoner serves at co-editor of the online magazine, <a href="https://www.dreaminglucid.com/">The Lucid Dreaming Experience</a>, (ISSN 2167-616X); the only ongoing publication devoted specifically to lucid dreaming. A lucid dreamer since 1975, he has logged more than 1,000 lucid dreams.</p>
 """^^xsd:string ;
     ns1:handle "robertwaggoner"^^xsd:string ;
     ns1:itemId "bcphbq3wagg"^^xsd:string ;

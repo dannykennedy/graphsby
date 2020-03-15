@@ -357,6 +357,8 @@ for triple in edges:
 ################
 
 graph.serialize(destination='dream-network16.ttl', format='turtle')
+graph.serialize(destination='dream-network16.nt', format='nt')
+graph.serialize(destination='dream-network16.xml', format='xml')
 
 
 ################

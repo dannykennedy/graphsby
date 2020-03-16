@@ -9,7 +9,10 @@ tags:
 - hasTag: 33.2
 type: post
 urlSlug: water-water-everywhere
+profileImg: post_bcpov6zwater_0.jpg
 ---
+
+![Dream collage](../images/post_bcpov6zwater_0.jpg)
 
 In looking at my dreams, I often see reflections of my negative actions, thoughts, and feelings. By examining them closely and being completely honest with myself, I’ve come to discover who I am, why I am who I am, and more importantly, who I am meant to be. This is an ongoing and continuing process; I am forever changing for the better, which is also reflected in my dreams. This became evident a few months ago when I had a dream that I titled, “Another Tidal Wave,” which reminded me of a previously recurring dream titled, “Water, Water Everywhere.” A comparison of the two was very revealing. 
 
@@ -31,6 +34,8 @@ The window allowed me a glimpse of the emotions (the “water”) that I was afr
 
 ### Another Tidal Wave 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EilI5nTha6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *I am on a balcony overlooking a beach. I know that I am not alone. To my left is my “guide” and to my right, I sense two or three women, though I do not see them. Out on the beach I see several people walking. I look out to the ocean and see a huge tidal wave approaching the shore. I start yelling at the people on the beach to run for safety. Then I see a baby on the edge of the surf, alone. I point to the baby and yell at the people to, “Save the baby, save the baby!” Everyone runs off and leaves the baby on the shore alone with the tidal wave getting closer.* 
 
 *The scene shifts slightly. Now I am on the balcony with these same women and my guide, only we are completely underwater, though I am not afraid. I see a scorpion drift by. One of the “women” warns me to be careful as it might sting, but I am drawn to the scorpion and reach out my hand to touch it. It stings me on my palm. I look at my palm, but it doesn’t hurt. I know that I will be OK. The scene shifts again. We have moved inside and I hear a Special News Bulletin on the TV. The announcer is saying, “Tidal wave hits beach, baby dies.”* I wake up. 
@@ -42,43 +47,3 @@ It so happens that my partner in life and dreams, Bob Van de Castle, is a Scorpi
 The announcement that the baby dies might seem, at first, to be negative or dangerous, but (if the baby signifies an immature part of me, then the baby *dying* means that this part of me has matured, or I am no longer in need of it. The baby has died and in its place is a mature woman ready to accept and deal with whatever comes -- and I am not alone. 
 
 It was only in comparing the recent dream to the older dream that I was able to completely understand and appreciate how far I have come over the years. I am grateful for my dreams and the messages they provide. I know I am on the right path. ∞
-
-### Dream Inspired Poetry
-The Tide is Turning
-My dreambody swims many bodies of water
-All kinds perceivable:
-Streams, creeks, ponds, lakes, rivers.
-It seems unbelievable.
-There is a conscious knowing in my being as I play:
-“Oh, yes, I know water’s ways:
-Its’ twisting and turning, its’ swellings and yearnings;
-In stillness, reflection; in action, projection;
-Its anger, its falls; the voices, its walls;
-The whirlpools.... unpredictability;
-Its substance: spirituality....
-I do know water’s ways and how to interact,
-fearlessly.”
-In this moment of knowing,
-I’m inside a blue ocean wave
-New Wave.... cresting, curling
-Have the honor of standing on its floor as it’s merging
-A circular enormous proud moving hall,
- of turquoise, lavender, blue, creamy pearl
-I revel in seeing this warm womb bright sight
-(At one point I stand with my ‘back to the wall’
---huge gushes of water may sweep me away--
-One wrong move . . . and that’s all!
-It’s a good thing, a good thing I know how to play.)
-Before it collapses, I plunge into its heart
-to surface behind it and watch it depart,
-as waves do on the sand....
-when WHAT is this wonder my eyes now behold?
-This wave’s bending, turning right back . . .
-this is bold!
-It isn’t caressing and teasing the land,
-(are you glancing?)
-But doing wave upon wave of water-swirl dancing.
-Perplexed, I awaken, a song’s in my Being
-A mantra.... a rhythm.... not ending.... repeating
-The Tide is Turning The Tide is Turning
-The Tide is Turning The Tide is Turning

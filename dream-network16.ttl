@@ -3079,7 +3079,9 @@ ns1:bcpov6zfwhat a ns1:Post ;
 
 ns1:bcpov6zwater a ns1:Post ;
     ns1:dateCreated "2014-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>In looking at my dreams, I often see reflections of my negative actions, thoughts, and feelings. By examining them closely and being completely honest with myself, I’ve come to discover who I am, why I am who I am, and more importantly, who I am meant to be. This is an ongoing and continuing process; I am forever changing for the better, which is also reflected in my dreams. This became evident a few months ago when I had a dream that I titled, “Another Tidal Wave,” which reminded me of a previously recurring dream titled, “Water, Water Everywhere.” A comparison of the two was very revealing. </p>
+    ns1:description """<p><img src="../images/post_bcpov6zwater_0.jpg" alt="Dream collage" /></p>
+
+<p>In looking at my dreams, I often see reflections of my negative actions, thoughts, and feelings. By examining them closely and being completely honest with myself, I’ve come to discover who I am, why I am who I am, and more importantly, who I am meant to be. This is an ongoing and continuing process; I am forever changing for the better, which is also reflected in my dreams. This became evident a few months ago when I had a dream that I titled, “Another Tidal Wave,” which reminded me of a previously recurring dream titled, “Water, Water Everywhere.” A comparison of the two was very revealing. </p>
 
 <h3>Water, Water Everywhere</h3>
 
@@ -3099,6 +3101,8 @@ ns1:bcpov6zwater a ns1:Post ;
 
 <h3>Another Tidal Wave</h3>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EilI5nTha6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p><em>I am on a balcony overlooking a beach. I know that I am not alone. To my left is my “guide” and to my right, I sense two or three women, though I do not see them. Out on the beach I see several people walking. I look out to the ocean and see a huge tidal wave approaching the shore. I start yelling at the people on the beach to run for safety. Then I see a baby on the edge of the surf, alone. I point to the baby and yell at the people to, “Save the baby, save the baby!” Everyone runs off and leaves the baby on the shore alone with the tidal wave getting closer.</em> </p>
 
 <p><em>The scene shifts slightly. Now I am on the balcony with these same women and my guide, only we are completely underwater, though I am not afraid. I see a scorpion drift by. One of the “women” warns me to be careful as it might sting, but I am drawn to the scorpion and reach out my hand to touch it. It stings me on my palm. I look at my palm, but it doesn’t hurt. I know that I will be OK. The scene shifts again. We have moved inside and I hear a Special News Bulletin on the TV. The announcer is saying, “Tidal wave hits beach, baby dies.”</em> I wake up. </p>
@@ -3110,84 +3114,6 @@ ns1:bcpov6zwater a ns1:Post ;
 <p>The announcement that the baby dies might seem, at first, to be negative or dangerous, but (if the baby signifies an immature part of me, then the baby <em>dying</em> means that this part of me has matured, or I am no longer in need of it. The baby has died and in its place is a mature woman ready to accept and deal with whatever comes -- and I am not alone. </p>
 
 <p>It was only in comparing the recent dream to the older dream that I was able to completely understand and appreciate how far I have come over the years. I am grateful for my dreams and the messages they provide. I know I am on the right path. ∞</p>
-
-<h3>Dream Inspired Poetry</h3>
-
-<p>The Tide is Turning</p>
-
-<p>My dreambody swims many bodies of water</p>
-
-<p>All kinds perceivable:</p>
-
-<p>Streams, creeks, ponds, lakes, rivers.</p>
-
-<p>It seems unbelievable.</p>
-
-<p>There is a conscious knowing in my being as I play:</p>
-
-<p>“Oh, yes, I know water’s ways:</p>
-
-<p>Its’ twisting and turning, its’ swellings and yearnings;</p>
-
-<p>In stillness, reflection; in action, projection;</p>
-
-<p>Its anger, its falls; the voices, its walls;</p>
-
-<p>The whirlpools.... unpredictability;</p>
-
-<p>Its substance: spirituality....</p>
-
-<p>I do know water’s ways and how to interact,</p>
-
-<p>fearlessly.”</p>
-
-<p>In this moment of knowing,</p>
-
-<p>I’m inside a blue ocean wave</p>
-
-<p>New Wave.... cresting, curling</p>
-
-<p>Have the honor of standing on its floor as it’s merging</p>
-
-<p>A circular enormous proud moving hall,</p>
-
-<p>of turquoise, lavender, blue, creamy pearl</p>
-
-<p>I revel in seeing this warm womb bright sight</p>
-
-<p>(At one point I stand with my ‘back to the wall’</p>
-
-<p>--huge gushes of water may sweep me away--</p>
-
-<p>One wrong move . . . and that’s all!</p>
-
-<p>It’s a good thing, a good thing I know how to play.)</p>
-
-<p>Before it collapses, I plunge into its heart</p>
-
-<p>to surface behind it and watch it depart,</p>
-
-<p>as waves do on the sand....</p>
-
-<p>when WHAT is this wonder my eyes now behold?</p>
-
-<p>This wave’s bending, turning right back . . .</p>
-
-<p>this is bold!</p>
-
-<p>It isn’t caressing and teasing the land,</p>
-
-<p>(are you glancing?)</p>
-
-<p>But doing wave upon wave of water-swirl dancing.</p>
-
-<p>Perplexed, I awaken, a song’s in my Being</p>
-
-<p>A mantra.... a rhythm.... not ending.... repeating</p>
-
-<p>The Tide is Turning The Tide is Turning</p>
-
-<p>The Tide is Turning The Tide is Turning</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3pimm ;
     ns1:hasTag ns1:bcphb2eggje,
@@ -3195,6 +3121,7 @@ ns1:bcpov6zwater a ns1:Post ;
     ns1:itemId "bcpov6zwater"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Water, Water Everywhere"^^xsd:string ;
+    ns1:profileImg "post_bcpov6zwater_0.jpg"^^xsd:string ;
     ns1:urlSlug "water-water-everywhere"^^xsd:string .
 
 ns1:coverImg a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
@@ -3643,13 +3570,13 @@ ns1:bcphbq3ossa a ns1:User ;
 ns1:bcphbq3pimm a ns1:User ;
     ns1:description """<p>Website: <a href="http://notesfromadreamer.com">notesfromadreamer.com</a></p>
 
-<p>I am a dreamworker and author of Notes From a Dreamer … on Dreaming: A Personal Journey in Dream Interpretation. My current focus is on teaching others how to interpret and work with their own dreams. I have created several <a href="http://notesfromadreamer.com/dream-interpretation-services-courses-workshops/">online courses on dream interpretation</a>. I am also available to do workshops and one-on-one consultations via phone or Skype.</p>
+<p>I am a dreamworker and author of Notes From a Dreamer … on Dreaming: A Personal Journey in Dream Interpretation. My current focus is on teaching others how to interpret and work with their own dreams. I have created several <a href="https://theazire.org/moodle/course/index.php?categoryid=11">online courses on dream interpretation</a>. I am also available to do workshops and one-on-one consultations via phone or Skype.</p>
 
-<p>My interest in dreams began in 1988, after I left my husband of 13 years.  At that time, two dreams kept recurring over and over again; dreams which I had since she was 12. I knew these dreams were trying to tell me something, but didn’t know just what. In 1994, I discovered the book, Our Dreaming Mind, by Dr. Robert L. Van de Castle, which helped me understand the process of dreaming.  With further reading and research, I began to slowly learn to decipher my dreams.</p>
+<p>My interest in dreams began in 1988, after I left my husband of 13 years.  At that time, two dreams kept recurring over and over again; dreams which I had since I was 12. I knew these dreams were trying to tell me something, but didn’t know just what. In 1994, I discovered the book, Our Dreaming Mind, by Dr. Robert L. Van de Castle, which helped me understand the process of dreaming.  With further reading and research, I began to slowly learn to decipher my dreams.</p>
 
 <p>I have been actively enlightening others online about dreams since 2001, when I created my original Notes From a Dreamer … on Dreaming website to share my experience of learning to interpret my own dreams. Then, in late September 2008, I connected with Dr. Robert Van de Castle at an online PsiberDreaming Conference put on by the <a href="http://asdreams.org/">International Association for the Study of Dreams (IASD)</a>.  A few short weeks, several lengthy phone calls and numerous emails later, I left New Jersey and moved to Charlottesville, VA to live and work with him until his passing in January 2014. Working closely with Dr. Van de Castle, we created and taught an online course for Atlantic University, Becoming a Teacher of Dreamwork/Dream Interpretation. We also presented together at several conferences and co-authored an article for Explore! journal, <a href="http://www.explorejournal.com/article/S1550-8307(10)00099-6/abstract">Dreams As a Multidimensional Expression of PSI</a>.</p>
 
-<p>I am an active member of the IASD for over 15 years and an elected member of the Board of Directors since 2014. As such, I adhere to their <a href="http://www.asdreams.org/ethics-and-confidentiality/">ethical guidelines in dreamworking</a> which “supports an approach to dreamwork and dream sharing that respects the dreamer’s dignity and integrity, and which recognizes the dreamer as the decision-maker regarding the significance of the dream.” In other words, only the dreamer knows what their dream means. My goal in life is to help you learn to understand what yours are saying to you.</p>
+<p>I am an active member of the IASD for over 15 years and an elected member of the Board of Directors from 2014-2017. As such, I adhere to their <a href="http://www.asdreams.org/ethics-and-confidentiality/">ethical guidelines in dreamworking</a> which “supports an approach to dreamwork and dream sharing that respects the dreamer’s dignity and integrity, and which recognizes the dreamer as the decision-maker regarding the significance of the dream.” In other words, only the dreamer knows what their dream means. My goal in life is to help you learn to understand what yours are saying to you.</p>
 
 <p>I believe that our dreams are the key to becoming more aware of who we are, why we are who we are and who we are supposed to be. If you care to join me, I’d like to help you learn to interpret your dreams as I have learned to do.</p>
 """^^xsd:string ;

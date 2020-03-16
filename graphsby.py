@@ -374,6 +374,8 @@ print(len(file_objects))
 print("Finding linked items")
 for pyyam in file_objects:
 
+	print(pyyam["name"])
+
 	item_string_identifier = ""
 	item_type = pyyam["type"]
 	if item_type == "user" or item_type == "page":

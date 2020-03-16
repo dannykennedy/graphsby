@@ -1668,20 +1668,6 @@ ns1:bcphby5wc2q a ns1:Post ;
     ns1:profileImg "30.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "30.1"^^xsd:string .
 
-ns1:bcphbycqos5 a ns1:Post ;
-    ns1:coverImg "28.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf" download="">Download issue 28.1</a><br><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqochapy2 ;
-    ns1:itemId "bcphbycqos5"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 28, issue 1: Chaos & Apocalypse"^^xsd:string ;
-    ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "28.1"^^xsd:string .
-
 ns1:bcphbyjvotn a ns1:Post ;
     ns1:coverImg "28.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2009-10-01T11:32:52"^^xsd:dateTime ;
@@ -2611,6 +2597,46 @@ ns1:bcpov6zfkiss a ns1:Post ;
     ns1:profileImg "post-bcpov6zfkiss-0.jpg"^^xsd:string ;
     ns1:urlSlug "kissing-the-bear"^^xsd:string .
 
+ns1:bcpov6zflast a ns1:Post ;
+    ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><strong>*“When you harm Nature, you harm yourself.” *</strong></p>
+
+<p>I first heard those words nearly twenty years ago, in a dream. They have haunted me ever since. In that equation’s utter simplicity, it seems to me, a deep ecological truth about relationships emerges. </p>
+
+<p>In the dream, <em>I stand on a steep sloping river bank of exposed dirt and mud. A friend and I watch helplessly as a lone figure proceeds to cut down the last standing tree on the desolate river bank. As I observe the final bit of green life lean sharply and tumble to the barren ground, an unspeakable sadness rises within me. At that moment, my friend says solemnly, “When you harm Nature, you harm yourself.”</em></p>
+
+<p>On one level, it was ironic to hear these words from my friend, since in waking life, he graduated from the University of Chicago with an MBA and firmly believed in the “Chicago School” of economic thought, which held that the free market would provide for everyone’s needs by properly valuing all items, according to the laws of supply and demand. But having canoed with my friend as a Boy Scout, backpacked with him across wilderness mountain passes in Colorado and New Mexico, and sipped cold water from alpine streams, I knew there was another side of him that valued the beauty and great harmony of nature. </p>
+
+<p>As an adult, I tried to discover what economic value he and the Chicago School’s free market system placed on nature. What was the value of a healthy environment? What was the value of a well functioning ecosystem? How did this economic approach calculate global sustainability? Like many discussions with economists at that time, I found that a properly functioning ecosystem seemed a “given.” We did not have to be concerned about it; the natural world had been built into the equation as an economic assumption. </p>
+
+<p>Yet in this dream, my friend provides an answer with a new and startling economic equation devoid of assumptions and givens. <em>When you harm Nature, you harm yourself</em>. Suddenly the fundamental economic principle of the environment seemed clear: When you deplete nature, you deplete yourself. When you hamper nature, you hamper yourself. When you threaten the proper functioning of nature, you directly threaten yourself. Subtracting from nature, subtracts from you. Enhancing nature, enhances you. Economically and quite practically, my dreamt equation made explicit what economic equations do not: our individual and collective well being is intrinsically connected to Nature’s micro and macro well-being. </p>
+
+<p>Somewhere in history, modern man began ignoring that direct connection with physical nature. Similarly, the rarefied world of economic thought and philosophy dismissed it too. Yet the deeper, archaic, unconscious part of my self, accessible in dreams, still carried the knowledge of this ancient economic equation. A subconscious portion of me knew what had been tragically learned on Easter Island and elsewhere: <em>“When you harm Nature, you harm yourself.”</em> </p>
+
+<p>In dreaming, we possess a connection to this older and wiser portion of our being, which can remind us of ancient truths and guide us to creative realizations and actions—if we do not ignore it. In the final chapter of my recently released book, <strong>Lucid Dreaming: Gateway to the Inner Self</strong>, I relate an interesting dream in which <em>a tall, regally dressed man stopped me and asked me a simple question, “What book do you hold in your hand?” Unsure, I brought the book in front of me and read the title, “Dreams: God’s Forgotten Language by John A. Sanford.” Then suddenly, it dawned on me that I had this book on my book shelf but had never read it. I became lucidly aware... ecstatic.</em> </p>
+
+<p>Upon waking, I pondered the idea that the unconscious portion of my larger self had knowingly and purposefully called this book to my attention as important. But why? In the book’s final chapter, “The God Within,” I find one of the possible answers in Sanford’s conclusion: </p>
+
+<blockquote>
+  <p>“We are not only conscious; we are also unconscious. Unconscious psychic reality is as real and substantial as is our conscious life. It expresses its reality in a hundred ways, one of which is the dream. The center of our conscious life is the ego, the center of our total psyche is the self, which seeks to express through our consciousness the totality of our nature.“ </p>
+</blockquote>
+
+<p>By attending to our dreams, we have one means to attend to “the totality of our nature.” Without the connection to dreams, we can easily forget and ignore our broader nature and become trapped in an ego-centric and finite world. </p>
+
+<p>With Sanford’s perspective, the wider circle of interrelationships becomes apparent. Not only, “When we harm Nature, [do] we harm ourself,” but when we ignore and deny the unconscious, we lessen ourselves. We lose touch with our inner nature. It is our inner nature that reminds us of our ancient connections to Nature, others and the larger self—the broad circle of being. The gift of dreaming is the gift of that connection. Through honoring that connection, we can find a way. </p>
+
+<p><strong>*When you love Nature, you love yourself. *</strong></p>
+
+<p>∞</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3wagg ;
+    ns1:hasTag ns1:bcphbq3wagg,
+        ns1:bcphbycqos5 ;
+    ns1:itemId "bcpov6zflast"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Last Green Thing: Valuing Nature in Dreams"^^xsd:string ;
+    ns1:urlSlug "valuing-nature-in-dreams"^^xsd:string .
+
 ns1:bcpov6zflies a ns1:Post ;
     ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zflies-0.jpg" alt="Butterflies" /></p>
@@ -3315,6 +3341,20 @@ ns1:bcphbxxscsf a ns1:Post ;
     ns1:profileImg "27.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "27.2"^^xsd:string .
 
+ns1:bcphbycqos5 a ns1:Post ;
+    ns1:coverImg "28.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf" download="">Download issue 28.1</a><br><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
+    ns1:itemId "bcphbycqos5"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 28, issue 1: Chaos & Apocalypse"^^xsd:string ;
+    ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "28.1"^^xsd:string .
+
 ns1:bcphbygiw4g a ns1:Post ;
     ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
@@ -3628,19 +3668,6 @@ ns1:bcphbq3spar a ns1:User ;
     ns1:name "David Sparenberg"^^xsd:string ;
     ns1:profileImg "author-david-sparenberg.jpg"^^xsd:string .
 
-ns1:bcphbq3wagg a ns1:User ;
-    ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>
-
-<p>Robert Waggoner wrote the acclaimed book, <a href="https://www.lucidadvice.com/books/lucid-dreaming-gateway-to-the-inner-self/">Lucid Dreaming – Gateway to the Inner Self</a> (now in its tenth printing), and co-authored <a href="https://www.lucidadvice.com/books/lucid-dreaming-plain-and-simple/">Lucid Dreaming Plain and Simple</a> with Caroline McCready.  Both books are in Audible, Kindle and CD/Mp3.  His books have been translated into French, German, Chinese, Korean, Czech, Finnish and other languages.</p>
-
-<p>A past President of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a> (IASD), Waggoner serves at co-editor of the online magazine, <a href="https://www.dreaminglucid.com/">The Lucid Dreaming Experience</a>, (ISSN 2167-616X); the only ongoing publication devoted specifically to lucid dreaming. A lucid dreamer since 1975, he has logged more than 1,000 lucid dreams.</p>
-"""^^xsd:string ;
-    ns1:handle "robertwaggoner"^^xsd:string ;
-    ns1:itemId "bcphbq3wagg"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Robert Waggoner"^^xsd:string ;
-    ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
-
 ns1:bcphbq3jean a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
 
@@ -3842,6 +3869,19 @@ ns1:bcphbq3gong a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert P. Gongloff"^^xsd:string ;
     ns1:profileImg "author-robert-gongloff.jpg"^^xsd:string .
+
+ns1:bcphbq3wagg a ns1:User ;
+    ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>
+
+<p>Robert Waggoner wrote the acclaimed book, <a href="https://www.lucidadvice.com/books/lucid-dreaming-gateway-to-the-inner-self/">Lucid Dreaming – Gateway to the Inner Self</a> (now in its tenth printing), and co-authored <a href="https://www.lucidadvice.com/books/lucid-dreaming-plain-and-simple/">Lucid Dreaming Plain and Simple</a> with Caroline McCready.  Both books are in Audible, Kindle and CD/Mp3.  His books have been translated into French, German, Chinese, Korean, Czech, Finnish and other languages.</p>
+
+<p>A past President of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a> (IASD), Waggoner serves at co-editor of the online magazine, <a href="https://www.dreaminglucid.com/">The Lucid Dreaming Experience</a>, (ISSN 2167-616X); the only ongoing publication devoted specifically to lucid dreaming. A lucid dreamer since 1975, he has logged more than 1,000 lucid dreams.</p>
+"""^^xsd:string ;
+    ns1:handle "robertwaggoner"^^xsd:string ;
+    ns1:itemId "bcphbq3wagg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Robert Waggoner"^^xsd:string ;
+    ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
 
 ns1:bcphbq3webb a ns1:User ;
     ns1:description """<p>Craig Webb, Executive Director of the non-profit <a href="http://www.dreams.ca/">DREAMS Foundation</a>, is a McGill University graduate with pioneering dream and lucid dream research at Stanford University and Montreal’s Sacré-Coeur Hospital. As an author, columnist, and hired/invited expert for major motion pictures, fortune 500 companies, universities, international TV networks, numerous magazines and e-zines, and well over 1000 media (ABC, BBC, SyFy/NBC/Universal, Discovery Channel, New York Times, MSN, etc.), he’s broadcast/published cutting edge approaches on dreams, lucid dreaming, applied psychology, communications, creativity, and the science of mind, as well as interviews with leading visionaries. His trainings have enabled CEO’s, celebrities, best-selling authors, world-class athletes, and other clients from all walks of life to make profound breakthroughs while having loads of fun. Craig also helped found/produce “Making Contact” (a progressive radio show airing weekly on 150+ stations for 25 years), and has designed multiple personal transformation devices with worldwide distribution. For over 2 decades, he's had the privilege to lead numerous training programs and over 1500 miles of transformational training programs. He has performed and presented at benefit concerts and events, and served as a volunteer for Children's hospitals and environmental organizations, Montreal's suicide hotline, 3rd world development programs, and various other humanitarian causes.</p>

@@ -34,7 +34,7 @@ The window allowed me a glimpse of the emotions (the “water”) that I was afr
 
 ### Another Tidal Wave 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EilI5nTha6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="media-item resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/EilI5nTha6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 *I am on a balcony overlooking a beach. I know that I am not alone. To my left is my “guide” and to my right, I sense two or three women, though I do not see them. Out on the beach I see several people walking. I look out to the ocean and see a huge tidal wave approaching the shore. I start yelling at the people on the beach to run for safety. Then I see a baby on the edge of the surf, alone. I point to the baby and yell at the people to, “Save the baby, save the baby!” Everyone runs off and leaves the baby on the shore alone with the tidal wave getting closer.* 
 

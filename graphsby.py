@@ -452,6 +452,8 @@ for pyyam in file_objects:
 		truncated_desc = truncate_html(post_description, POST_SNIPPET_LENGTH, end="...", break_words=True)
 		# Remove images
 		truncated_desc = re.sub("(<img.*?>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
+		# Remove iframes
+		truncated_desc = re.sub("(<div class=\"media-item resp-container\">.*</div>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 		# Remove empty <p> tags
 		truncated_desc = re.sub("(<p></p>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 		# Remove break tags

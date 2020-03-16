@@ -11,7 +11,7 @@ type: post
 urlSlug: valuing-nature-in-dreams
 ---
 
-***“When you harm Nature, you harm yourself.” ***
+***“When you harm Nature, you harm yourself.”***
 
 I first heard those words nearly twenty years ago, in a dream. They have haunted me ever since. In that equation’s utter simplicity, it seems to me, a deep ecological truth about relationships emerges. 
 
@@ -29,13 +29,13 @@ In dreaming, we possess a connection to this older and wiser portion of our bein
 
 Upon waking, I pondered the idea that the unconscious portion of my larger self had knowingly and purposefully called this book to my attention as important. But why? In the book’s final chapter, “The God Within,” I find one of the possible answers in Sanford’s conclusion: 
 
-> “We are not only conscious; we are also unconscious. Unconscious psychic reality is as real and substantial as is our conscious life. It expresses its reality in a hundred ways, one of which is the dream. The center of our conscious life is the ego, the center of our total psyche is the self, which seeks to express through our consciousness the totality of our nature.“ 
+> “We are not only conscious; we are also unconscious. Unconscious psychic reality is as real and substantial as is our conscious life. It expresses its reality in a hundred ways, one of which is the dream. The center of our conscious life is the ego, the center of our total psyche is the self, which seeks to express through our consciousness the totality of our nature.” 
 
 By attending to our dreams, we have one means to attend to “the totality of our nature.” Without the connection to dreams, we can easily forget and ignore our broader nature and become trapped in an ego-centric and finite world. 
 
 With Sanford’s perspective, the wider circle of interrelationships becomes apparent. Not only, “When we harm Nature, [do] we harm ourself,” but when we ignore and deny the unconscious, we lessen ourselves. We lose touch with our inner nature. It is our inner nature that reminds us of our ancient connections to Nature, others and the larger self—the broad circle of being. The gift of dreaming is the gift of that connection. Through honoring that connection, we can find a way. 
 
-***When you love Nature, you love yourself. ***
+***When you love Nature, you love yourself.***
 
 ∞
 

@@ -12,7 +12,7 @@ urlSlug: "chaotic-attractors-in-myth-stories-told-by-the-kariri-xuco-indians"
 profileImg: post-bcpov6zchaot-0.jpg
 ---
 
-<img src="post-bcpov6zchaot-0.jpg" alt="Krippner in Brazil">
+<img src="../images/post-bcpov6zchaot-0.jpg" alt="Krippner in Brazil">
 
 A myth can be described in many ways but the metaphor of a "chaotic attractor" is especially suitable. In chaos theory, there are several types of "attractors" but a "chaotic attractor" finds order in what appears to be incomprehensible data by helping us to discern an underlying pattern. In much the same way, a myth can organize a constellation of beliefs, images, emotions, motives, and values that can, in turn, bring order and direction to a society, an institution, a family, a person, or to an entire culture. From a psychological perspective, a myth is an imaginative narrative (usually expressed in words but sometimes expressed in dance, images, etc.) that addresses existential human concerns, and that has behavioral consequences. Myths are more imaginative (more accurately, "imaginal") than empirical, and this is where a mythic narrative differs from an empirical scientific narrative. Empirical science, despite its successes in explaining the workings of natural phenomena, is virtually incapable of fulfilling the other functions that myth has provided over . the millennia - assisting the passage of individuals through the life cycle with rituals and ceremonies (e.g. ways in which myths are "performed"), identifying a person's place in the social world of work, love, and play, as well as helping him or her to link with the world of spirit, of the "ground of being," or of ultimate value.
 

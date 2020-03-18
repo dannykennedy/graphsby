@@ -1192,20 +1192,6 @@ ns1:bcphbtbcugl a ns1:Post ;
     ns1:profileImg "17.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.2"^^xsd:string .
 
-ns1:bcphbtj7a2e a ns1:Post ;
-    ns1:coverImg "17.4-18.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&amp;-18-No-1.pdf" download="">Download issue 17.4-18.1</a><br><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&amp;-18-No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobdubou ;
-    ns1:itemId "bcphbtj7a2e"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 17, issue 4: Creative Dreamwork in the Central Corridor"^^xsd:string ;
-    ns1:profileImg "17.4-18.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "17.4-18.1"^^xsd:string .
-
 ns1:bcphbtsx7s6 a ns1:Post ;
     ns1:coverImg "18.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1999-01-01T11:32:52"^^xsd:dateTime ;
@@ -3375,7 +3361,13 @@ ns1:bcpov6zmythd a ns1:Post ;
     ns1:dateCreated "1998-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Familiar themes and symbols emerge to most people who record their dreams. They are components that parallel their lives above and below conscious awareness. Do these themes and symbols form pieces of your own mythology? Since dreams dip into the world of the unconscious to select their stories and dramas, they tap both the personal and collective unconscious for dream material, thus forming a unique relationship between your personal mythology and your dreams. </p>
 
-<p>What is the definition of "myth"? Webster defines it as follows: " ... a traditional story of ostensible historical events that serves to unfold part of the world view of a people or explain a practice, belief or natural phenomenon." [1] Do your dreams reveal your world view? Certainly, your personal history is reflected through your dreams in regard the content you select from your life activities to play out in your dreams. Thus, your dreams reflect your personal 'myths' - ones in which your personal relationship can change and transform, just as your life experiences do. </p>
+<p>What is the definition of "myth"? Webster defines it as follows:</p>
+
+<blockquote>
+  <p>"...a traditional story of ostensible historical events that serves to unfold part of the world view of a people or explain a practice, belief or natural phenomenon." [1] </p>
+</blockquote>
+
+<p>Do your dreams reveal your world view? Certainly, your personal history is reflected through your dreams in regard the content you select from your life activities to play out in your dreams. Thus, your dreams reflect your personal 'myths' - ones in which your personal relationship can change and transform, just as your life experiences do. </p>
 
 <p>However, the collective unconscious component adds a deeper layer to the meaning of your dreams with the appearances of the archetypal themes and symbols which reflect the primitive and ancient part of your personal mythology: Arthur Cotterell explains that: </p>
 
@@ -3412,6 +3404,40 @@ ns1:bcpov6zmythd a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Mythology of Dreams"^^xsd:string ;
     ns1:urlSlug "the-mythology-of-dreams"^^xsd:string .
+
+ns1:bcpov6zmytoz a ns1:Post ;
+    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Houses play a mqjor role in shaping our world view. From our earliest memories, houses reflect what our world is and who shares it with us. Housing provides shelter and protection from our environment, safety. physical comfort- a refugea place to go within and just be/do and take care of one's needs. It is a space that is special and highly personal and its presence is a dominant and integral image in our daily lives. </p>
+
+<p>The popular story of <em>The Wizard of Oz</em> that told about Dorothy's magical journey into her unconscious is an example of the rote that houses have in regard to how our worldviews are perceived. Dorothy 'dreamed' she was being carried through the sky on winds from a Kansas tornado and was awakened abruptly on the edge of the Land of Oz when her house was propelled to earth and dropped with a thud on a wicked witch - and killing her. Dorothy's journey to Oz and all she encountered along the way was all about getting home again - back to her beloved family and familiar surroundings. </p>
+
+<p>Many dream reports I receive have to do with the houses that populate our dreams and what to do with the images. feelings and people related to them. The following is a dream submitted by a woman who inherited her parents' home after their death: </p>
+
+<p>*"I just realized that a VERY recurring theme in my (usually disturbing) dreams is that .... *</p>
+
+<blockquote>
+  <p><em>I'm in someone else's house. Most of the time, the houses are cluttered or in disarray.</em></p>
+</blockquote>
+
+<p><em>I know that houses reflect my body - but that I'm "living in someone else's body" doesn't click with me. Any other ideas?"</em> -A.M. </p>
+
+<p>Yes, one's "dream house" can be one's body if universally interpreted, but beneath that are also personal associations and many other layers of possible meanings. Consider that you are LITERALLY living in someone else's house (your parents') and your recurring dream theme may be pointing out that your innermost being is stiLL dealing with the "clutter or disarray" of memories, feelings and circumstances surrounding your parents. The 'nudging' to go through the houses in your dreams may indicate your psyche's prompting to claim its own identity; in order to have that happen, you may have a desire to have your OWN HOUSE - one that outpictures YOU and not someone's else's tastes, configurations, etc. Also, the house is considered to be the "cosmic center" in religious rites of various cultures, e.g., tepees. huts, Lodges, which may have spiritual significance for you, too, in terms of sacred ancestral connections. </p>
+
+<p>Also, the fact that your dream houses are cluttered, messed up, may mean that you literally have been trying to conform and "live in" someone else's "stuff'. You may sense on many levels a desire to move, clean out and clear out - and you are asking the "dream question" because you already are aware that this would be a healing step for you. Another aspect to consider is that esoterically we have more than one body: astral. causaL physical. etheric. mental spiritual. Make conscious contact with any or aU of these other "selves" and see how they "fit" you; perhaps THEY need some attainment, clearing out or adjustment? </p>
+
+<p>Dorothy's dream search was for her home, but for you, it may be to FIND your true home. It would be important for you to ask yourself such questions as, "What does a house mean to me?"... What are the meanings I attribute to home?'' "What disturbs me about my home?" "What pleases me about it?" "If I could create my perfect house, what would it look like - what would I add - what would I leave out?" "Who would I invite to my home?" "What nourishes me in my home?" By writing out your answers, you may find further clues as to what your dream houses mean for you-and even some surprising answers. </p>
+
+<hr>
+
+<p><strong><em>Dream Times</em></strong> is a column for you, its readers. It is a forum provided to give response and discussion to dream phenomena you are experiencing. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3king ;
+    ns1:hasTag ns1:bcphbq3king,
+        ns1:bcphbtj7a2e ;
+    ns1:itemId "bcpov6zmytoz"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "In the Land of Oz"^^xsd:string ;
+    ns1:urlSlug "in-the-land-of-oz"^^xsd:string .
 
 ns1:bcpov6zwater a ns1:Post ;
     ns1:dateCreated "2014-04-01T11:32:52"^^xsd:dateTime ;
@@ -3635,6 +3661,20 @@ ns1:bcphbte5ugv a ns1:Post ;
     ns1:name "Volume 17, issue 3: Exploring Dreams' Relationship to Mythology"^^xsd:string ;
     ns1:profileImg "17.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.3"^^xsd:string .
+
+ns1:bcphbtj7a2e a ns1:Post ;
+    ns1:coverImg "17.4-18.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&amp;-18-No-1.pdf" download="">Download issue 17.4-18.1</a><br><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&amp;-18-No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobdubou ;
+    ns1:itemId "bcphbtj7a2e"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 17, issue 4: Creative Dreamwork in the Central Corridor"^^xsd:string ;
+    ns1:profileImg "17.4-18.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "17.4-18.1"^^xsd:string .
 
 ns1:bcphbugth7l a ns1:Post ;
     ns1:coverImg "19.2-cover.jpg"^^xsd:string ;
@@ -3907,23 +3947,6 @@ ns1:bcphbq3joyf a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Joy Fatooh"^^xsd:string ;
     ns1:profileImg "author-joy-fatooh.jpg"^^xsd:string .
-
-ns1:bcphbq3king a ns1:User ;
-    ns1:description """<p>I started my first dream journal at age 8. I have accumulated volumes since that are filled with images, feelings, symbolism and characters that never fail to educate and inspire me and elucidate my waking world. Working with people and their dreams is all about pulling in the pieces the unconscious hands us in our dreams and integrating them into waking life to add dimension and arrive at that “ah-ha” meaning.</p>
-
-<p>As a professional art therapist and active member in the dream community for over 35 years, my approach to dreamwork is both intuitive and eclectic, and is sensitive to each person based on my toolbox of knowledge and experience of working with individuals and groups. A creative approach to dreamwork via expressive means can be done through journaling, art, dance, writing or Gestalting with dream imagery or any expressive method meaningful to the dreamer.</p>
-
-<p>Marlene served on the board and was a regular contributor to <a href="../@dreamnetwork">Dream Network Journal</a> for nearly two decades. Her column, “Dream Times,” appeared there and in the North Kitsap Herald. You can visit her blog, <a href="https://www.thedreamplace.wordpress.com/">www.thedreamplace.wordpress.com</a>, that contains inspirational true stories and reflections from her life.</p>
-
-<p>Her inspirational novel, <strong><em>The Rainbow Watchers</em></strong>, released in the fall of 2018, is spiritual fiction based on a true NDE (near-death experience) that explores the possibilities life has to offer on both sides of the veil. <a href="https://www.therainbowwatchers.com/">To learn more, visit www.therainbowwatchers.com</a>.</p>
-
-<p>Marlene holds a B.A. degree in Art History from the University of California, Santa Barbara and an M.A. in Art Therapy from Marylhurst University. A member and affiliate of IASD since 1984.</p>
-"""^^xsd:string ;
-    ns1:handle "marleneking"^^xsd:string ;
-    ns1:itemId "bcphbq3king"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Marlene King"^^xsd:string ;
-    ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
 
 ns1:bcphbq3mast a ns1:User ;
     ns1:description """<p>Website: <a href="https://lightningtreetherapy.com/">lightningtreetherapy.com</a></p>
@@ -4252,6 +4275,23 @@ ns1:bcphbq3gong a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert P. Gongloff"^^xsd:string ;
     ns1:profileImg "author-robert-gongloff.jpg"^^xsd:string .
+
+ns1:bcphbq3king a ns1:User ;
+    ns1:description """<p>I started my first dream journal at age 8. I have accumulated volumes since that are filled with images, feelings, symbolism and characters that never fail to educate and inspire me and elucidate my waking world. Working with people and their dreams is all about pulling in the pieces the unconscious hands us in our dreams and integrating them into waking life to add dimension and arrive at that “ah-ha” meaning.</p>
+
+<p>As a professional art therapist and active member in the dream community for over 35 years, my approach to dreamwork is both intuitive and eclectic, and is sensitive to each person based on my toolbox of knowledge and experience of working with individuals and groups. A creative approach to dreamwork via expressive means can be done through journaling, art, dance, writing or Gestalting with dream imagery or any expressive method meaningful to the dreamer.</p>
+
+<p>Marlene served on the board and was a regular contributor to <a href="../@dreamnetwork">Dream Network Journal</a> for nearly two decades. Her column, “Dream Times,” appeared there and in the North Kitsap Herald. You can visit her blog, <a href="https://www.thedreamplace.wordpress.com/">www.thedreamplace.wordpress.com</a>, that contains inspirational true stories and reflections from her life.</p>
+
+<p>Her inspirational novel, <strong><em>The Rainbow Watchers</em></strong>, released in the fall of 2018, is spiritual fiction based on a true NDE (near-death experience) that explores the possibilities life has to offer on both sides of the veil. <a href="https://www.therainbowwatchers.com/">To learn more, visit www.therainbowwatchers.com</a>.</p>
+
+<p>Marlene holds a B.A. degree in Art History from the University of California, Santa Barbara and an M.A. in Art Therapy from Marylhurst University. A member and affiliate of IASD since 1984.</p>
+"""^^xsd:string ;
+    ns1:handle "marleneking"^^xsd:string ;
+    ns1:itemId "bcphbq3king"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Marlene King"^^xsd:string ;
+    ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
 
 ns1:bcphbq3krip a ns1:User ;
     ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>

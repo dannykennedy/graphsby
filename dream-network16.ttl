@@ -926,23 +926,6 @@ ns1:bcphbq3ferr a ns1:User ;
     ns1:name "Brenda Ferrimani"^^xsd:string ;
     ns1:profileImg "brendaferrimani.jpg"^^xsd:string .
 
-ns1:bcphbq3king a ns1:User ;
-    ns1:description """<p>I started my first dream journal at age 8. I have accumulated volumes since that are filled with images, feelings, symbolism and characters that never fail to educate and inspire me and elucidate my waking world. Working with people and their dreams is all about pulling in the pieces the unconscious hands us in our dreams and integrating them into waking life to add dimension and arrive at that “ah-ha” meaning.</p>
-
-<p>As a professional art therapist and active member in the dream community for over 35 years, my approach to dreamwork is both intuitive and eclectic, and is sensitive to each person based on my toolbox of knowledge and experience of working with individuals and groups. A creative approach to dreamwork via expressive means can be done through journaling, art, dance, writing or Gestalting with dream imagery or any expressive method meaningful to the dreamer.</p>
-
-<p>Marlene served on the board and was a regular contributor to <a href="../@dreamnetwork">Dream Network Journal</a> for nearly two decades. Her column, “Dream Times,” appeared there and in the North Kitsap Herald. You can visit her blog, <a href="https://www.thedreamplace.wordpress.com/">www.thedreamplace.wordpress.com</a>, that contains inspirational true stories and reflections from her life.</p>
-
-<p>Her inspirational novel, <strong><em>The Rainbow Watchers</em></strong>, released in the fall of 2018, is spiritual fiction based on a true NDE (near-death experience) that explores the possibilities life has to offer on both sides of the veil. <a href="https://www.therainbowwatchers.com/">To learn more, visit www.therainbowwatchers.com</a>.</p>
-
-<p>Marlene holds a B.A. degree in Art History from the University of California, Santa Barbara and an M.A. in Art Therapy from Marylhurst University. A member and affiliate of IASD since 1984.</p>
-"""^^xsd:string ;
-    ns1:handle "marleneking"^^xsd:string ;
-    ns1:itemId "bcphbq3king"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Marlene King"^^xsd:string ;
-    ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
-
 ns1:bcphbq3xymn a ns1:Post ;
     ns1:coverImg "13.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1994-07-01T11:32:52"^^xsd:dateTime ;
@@ -1208,20 +1191,6 @@ ns1:bcphbtbcugl a ns1:Post ;
     ns1:name "Volume 17, issue 2: Enhancing & Healing Relationships"^^xsd:string ;
     ns1:profileImg "17.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.2"^^xsd:string .
-
-ns1:bcphbte5ugv a ns1:Post ;
-    ns1:coverImg "17.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1998-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><a href="../files/pdfs/Volume_17/17.3-Dream-Network-Vol-17-No-3.pdf" download="">Download issue 17.3</a><br><a href="../files/pdfs/Volume_17/17.3-Dream-Network-Vol-17-No-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobdubou ;
-    ns1:itemId "bcphbte5ugv"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 17, issue 3: Exploring Dreams' Relationship to Mythology"^^xsd:string ;
-    ns1:profileImg "17.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "17.3"^^xsd:string .
 
 ns1:bcphbtj7a2e a ns1:Post ;
     ns1:coverImg "17.4-18.1-cover.jpg"^^xsd:string ;
@@ -3402,6 +3371,48 @@ ns1:bcpov6zlucse a ns1:Post ;
     ns1:profileImg "post-bcpov6zlucse-0.jpg"^^xsd:string ;
     ns1:urlSlug "lucid-dreaming-transformational-potential"^^xsd:string .
 
+ns1:bcpov6zmythd a ns1:Post ;
+    ns1:dateCreated "1998-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Familiar themes and symbols emerge to most people who record their dreams. They are components that parallel their lives above and below conscious awareness. Do these themes and symbols form pieces of your own mythology? Since dreams dip into the world of the unconscious to select their stories and dramas, they tap both the personal and collective unconscious for dream material, thus forming a unique relationship between your personal mythology and your dreams. </p>
+
+<p>What is the definition of "myth"? Webster defines it as follows: " ... a traditional story of ostensible historical events that serves to unfold part of the world view of a people or explain a practice, belief or natural phenomenon." [1] Do your dreams reveal your world view? Certainly, your personal history is reflected through your dreams in regard the content you select from your life activities to play out in your dreams. Thus, your dreams reflect your personal 'myths' - ones in which your personal relationship can change and transform, just as your life experiences do. </p>
+
+<p>However, the collective unconscious component adds a deeper layer to the meaning of your dreams with the appearances of the archetypal themes and symbols which reflect the primitive and ancient part of your personal mythology: Arthur Cotterell explains that: </p>
+
+<blockquote>
+  <p>"The myth in a primitive society ... was the recognition of the link between past and present established by myth in daily life. ...Jung became convinced that the individual possessed both a personal and collective unconscious; the former filled with material peculiar to the individual whereas the latter housed the common mental inheritance of mankind - the archetypes, or primordial images which 'bring into our ephemeral consciousness an unknown psychic life belonging to a remote past. This psychic life .. is the mind of our ancient ancestors, the way in which they conceived of life and the world, of gods and human being.' ... No doubt the creative period of myth is set in prehistoric times.'' [2] </p>
+</blockquote>
+
+<p>How can you track your own personal mythology through your dreams? Those who have kept dream journals for more than five years will have ample material to process; begin by reading through them finding frequent images/scenarios that you notice. Jot them down and see how your world view/ psyche has changed, remained the same or intensified - is it a map for the evolution of your own life pattern? Have your myths outgrown you - or you them? But no matter how long you have journaled - whether a novice recording the magic of the dream world or one who is well-seasoned, you will be able to recognize the emergence of your own myth material. </p>
+
+<p>For example, several of my older dream themes had to do with hotel/motel settings; that is, temporary way stations on a journey to somewhere. It reflected my internal as well as external search for "home". Since I have found what I call home both within and in the physical world , the occurrence of a hotel or motel setting in my dreams generally has diminished. </p>
+
+<p>Similarly, there has been an increase in circular-shaped symbols in my dreams during the past few years. For me, this equates to the archetype of the integration process of the self wanting to coalesce and evolve through internal processes. </p>
+
+<p>In <em>Personal Mythology</em>, Feinstein and Krippner further explain the personal mythology process: </p>
+
+<blockquote>
+  <p>"Many depth psychologists believe that dreams are best understood as an unfolding of the psyche and should not be distorted by intellectual interpretations. In a similar manner, you can learn to sense, without being overly intellectual, the relationship between patterns you find in your dreams and developing personal myths. Dreams serve to mediate between your daily experiences and your underlying myths, Working with your dreams can reveal changes in your mythology that are occurring outside your awareness. Dreams may support or challenge an existing myth ... and you can understand your personal mythology more fully through the instructions [symbols] of your dreams." [3] </p>
+</blockquote>
+
+<p>I encourage you to examine your own dream material in this light of mythmaking; it is a template for you to observe the smaller and bigger picture of your life as it evolves through developmental stages and reveals the inner and outer journey of the self. </p>
+
+<h2>References</h2>
+
+<ol>
+<li><p>Webster's New Collegiate Dictionary. ed., G. &amp; C. Merriam Company, Springfield, MA, 1977. </p></li>
+<li><p>Dictionary of World Mythology. Arthur Cotterrell, G.P. Putnam's Sons, NY, NY, 1979 . </p></li>
+<li><p>Personal Mythology. D. Feinstein and S. Krippner, Jeremy Tarcher, Inc., Los Angeles, CA, 1988.</p></li>
+</ol>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3king ;
+    ns1:hasTag ns1:bcphbq3king,
+        ns1:bcphbte5ugv ;
+    ns1:itemId "bcpov6zmythd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Mythology of Dreams"^^xsd:string ;
+    ns1:urlSlug "the-mythology-of-dreams"^^xsd:string .
+
 ns1:bcpov6zwater a ns1:Post ;
     ns1:dateCreated "2014-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post_bcpov6zwater_0.jpg" alt="Dream collage" /></p>
@@ -3610,6 +3621,20 @@ ns1:bcphbs4b6on a ns1:Post ;
     ns1:name "Volume 17, issue 1: Lucid, Mutual, WILD Dreaming"^^xsd:string ;
     ns1:profileImg "17.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.1"^^xsd:string .
+
+ns1:bcphbte5ugv a ns1:Post ;
+    ns1:coverImg "17.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1998-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="../files/pdfs/Volume_17/17.3-Dream-Network-Vol-17-No-3.pdf" download="">Download issue 17.3</a><br><a href="../files/pdfs/Volume_17/17.3-Dream-Network-Vol-17-No-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobdubou ;
+    ns1:itemId "bcphbte5ugv"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 17, issue 3: Exploring Dreams' Relationship to Mythology"^^xsd:string ;
+    ns1:profileImg "17.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "17.3"^^xsd:string .
 
 ns1:bcphbugth7l a ns1:Post ;
     ns1:coverImg "19.2-cover.jpg"^^xsd:string ;
@@ -3882,6 +3907,23 @@ ns1:bcphbq3joyf a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Joy Fatooh"^^xsd:string ;
     ns1:profileImg "author-joy-fatooh.jpg"^^xsd:string .
+
+ns1:bcphbq3king a ns1:User ;
+    ns1:description """<p>I started my first dream journal at age 8. I have accumulated volumes since that are filled with images, feelings, symbolism and characters that never fail to educate and inspire me and elucidate my waking world. Working with people and their dreams is all about pulling in the pieces the unconscious hands us in our dreams and integrating them into waking life to add dimension and arrive at that “ah-ha” meaning.</p>
+
+<p>As a professional art therapist and active member in the dream community for over 35 years, my approach to dreamwork is both intuitive and eclectic, and is sensitive to each person based on my toolbox of knowledge and experience of working with individuals and groups. A creative approach to dreamwork via expressive means can be done through journaling, art, dance, writing or Gestalting with dream imagery or any expressive method meaningful to the dreamer.</p>
+
+<p>Marlene served on the board and was a regular contributor to <a href="../@dreamnetwork">Dream Network Journal</a> for nearly two decades. Her column, “Dream Times,” appeared there and in the North Kitsap Herald. You can visit her blog, <a href="https://www.thedreamplace.wordpress.com/">www.thedreamplace.wordpress.com</a>, that contains inspirational true stories and reflections from her life.</p>
+
+<p>Her inspirational novel, <strong><em>The Rainbow Watchers</em></strong>, released in the fall of 2018, is spiritual fiction based on a true NDE (near-death experience) that explores the possibilities life has to offer on both sides of the veil. <a href="https://www.therainbowwatchers.com/">To learn more, visit www.therainbowwatchers.com</a>.</p>
+
+<p>Marlene holds a B.A. degree in Art History from the University of California, Santa Barbara and an M.A. in Art Therapy from Marylhurst University. A member and affiliate of IASD since 1984.</p>
+"""^^xsd:string ;
+    ns1:handle "marleneking"^^xsd:string ;
+    ns1:itemId "bcphbq3king"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Marlene King"^^xsd:string ;
+    ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
 
 ns1:bcphbq3mast a ns1:User ;
     ns1:description """<p>Website: <a href="https://lightningtreetherapy.com/">lightningtreetherapy.com</a></p>

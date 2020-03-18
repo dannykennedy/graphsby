@@ -454,6 +454,7 @@ for pyyam in file_objects:
 		truncated_desc = truncate_html(post_description, POST_SNIPPET_LENGTH, end="...", break_words=True)
 		# Remove lists
 		truncated_desc = re.sub("(<ol.*?ol>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
+		truncated_desc = re.sub("(<ul.*?ul>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 		# Remove images
 		truncated_desc = re.sub("(<img.*?>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 		# Remove iframes

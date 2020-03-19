@@ -10,7 +10,7 @@ date: 2015-03-24
 profileImg: author-marlene-king.jpg
 ---
 
-Marlene started her first dream journal at age 8. She has accumulated volumes since then filled with images, feelings, symbolism and characters that never fail to educate and inspire her and elucidate her waking world. Her philosophy is that working with people and their dreams is all about pulling in the pieces the unconscious hands us in our dreams and integrating them into waking life to add dimension and arrive at that “ah-ha” meaning.
+Marlene started her first dream journal at age 8. She has accumulated volumes since then filled with images, feelings, symbolism and characters that never fail to educate and inspire her and elucidate her waking world. Her philosophy is that working with people and their dreams is all about pulling in the pieces the unconscious hands us in our dreams, and integrating them into waking life to add dimension and arrive at that “ah-ha” meaning.
 
 As a professional art therapist and active member in the dream community for over 35 years, her approach to dreamwork is both intuitive and eclectic, and is sensitive to each person based on her toolbox of knowledge and experience of working with individuals and groups. She believes that a creative approach to dreamwork via expressive means can be done through journaling, art, dance, writing or Gestalting with dream imagery or any expressive method meaningful to the dreamer.
 

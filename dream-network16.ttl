@@ -3345,11 +3345,15 @@ ns1:bcpov6zlucse a ns1:Post ;
 
 ns1:bcpov6zmstar a ns1:Post ;
     ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>There are times when Dreams take us on unexplored roads to learn new things. Such is my case. Several years back I had dreams where I was specifically requested to look up information about the Constellation of Bootes and I did so. But, that’s all I did; I learned a few details about what Astronomers knew then about Bootes and let it go recorded and forgotten into my dream journal. I didn’t bother, at the time, to integrate any information about Bootes to anything pertinent in my life.</p>
+    ns1:description """<p><img src="../images/post-bcpov6zmstar-0.jpg" alt="Constellations" /></p>
+
+<p>There are times when Dreams take us on unexplored roads to learn new things. Such is my case. Several years back I had dreams where I was specifically requested to look up information about the Constellation of Bootes and I did so. But, that’s all I did; I learned a few details about what Astronomers knew then about Bootes and let it go recorded and forgotten into my dream journal. I didn’t bother, at the time, to integrate any information about Bootes to anything pertinent in my life.</p>
 
 <p>Time passed and then I was again presented with the opportunity to learn something new, only this time it did not come as easily. I dreamt that...</p>
 
-<p><em>I am talking with a wonderful middle-aged man who is obviously avery good friend of mine, even though in real life I do not know this person. We talk about our families and hobbies and then decide to take a walk. We walk for a while, then enter a restaurant and sit down to eat something. I look out the window closest to me and see some reflected shadowy movement. I standup, move in closer to take a goodlook and see two beautiful peacocks, red and shimmering in glowing red light. I am so enthralled with the view that I call out to my friend and tell him I am seeing two very eccentric, red peacocks shimmering in red light! My friend comes overfrom the table, looks at them,smiles and tells me, “They are not eccentric, this is the way they are supposed to be... and still are!”</em></p>
+<blockquote>
+  <p><em>I am talking with a wonderful middle-aged man who is obviously avery good friend of mine, even though in real life I do not know this person. We talk about our families and hobbies and then decide to take a walk. We walk for a while, then enter a restaurant and sit down to eat something. I look out the window closest to me and see some reflected shadowy movement. I standup, move in closer to take a goodlook and see two beautiful peacocks, red and shimmering in glowing red light. I am so enthralled with the view that I call out to my friend and tell him I am seeing two very eccentric, red peacocks shimmering in red light! My friend comes overfrom the table, looks at them,smiles and tells me, “They are not eccentric, this is the way they are supposed to be... and still are!”</em></p>
+</blockquote>
 
 <p>I awoke that morning feeling very well but knowing that I had to go learn about the “two red peacocks.”I knew the message inherent in the dream was important and decided to hit the search engines and see what I could come up with. I looked up “Peacock” in mythology and learned a lot in that area. I kept looking up the birds’ habits and felt it was nice information but nothing that really made me feel that I had come uponthe right interpretation. Being bilingual, I placed the word “Peacock” in Spanish, “Pavo,” and the Constellationof Pavo was displayed on the screen. As I read the description of the Constellation and learned it was made up of two very uneven but bright red primary and companion stars, I sensed that this was the information I was seeking.</p>
 
@@ -3363,11 +3367,15 @@ ns1:bcpov6zmstar a ns1:Post ;
 
 <h3>DREAM AUGUST 2001</h3>
 
-<p><em>I am visiting a building that specializes in Advertising and Public Relations. I am looking for someone in particular to discuss some details about something (I do not remember). I walk into a room and see thatit is in the process of being renovated, I walk into another and seethat this room is filled and busywith very delicate machinery. I walk towards the wall and notice a table with three transparent, flat, acrylic screens that are showing magnificent pictures, mainly in shades of red, orange, some grey and pockets of black. As I walk closer, I notice that the three screens are showing three sections of some remarkable picture from Space. I do not know what it is, but I know it is from outer Space. I ask the Office Manager what these are but she smiles and does not tell me. Regarding this dream, the moon was in Perigee to the Earth and it would be further clarified by the...</em></p>
+<blockquote>
+  <p><em>I am visiting a building that specializes in Advertising and Public Relations. I am looking for someone in particular to discuss some details about something (I do not remember). I walk into a room and see thatit is in the process of being renovated, I walk into another and seethat this room is filled and busywith very delicate machinery. I walk towards the wall and notice a table with three transparent, flat, acrylic screens that are showing magnificent pictures, mainly in shades of red, orange, some grey and pockets of black. As I walk closer, I notice that the three screens are showing three sections of some remarkable picture from Space. I do not know what it is, but I know it is from outer Space. I ask the Office Manager what these are but she smiles and does not tell me. Regarding this dream, the moon was in Perigee to the Earth and it would be further clarified by the...</em></p>
+</blockquote>
 
 <h3>ASTRONOMY CALENDAR FOR 2002</h3>
 
-<p>Christmas Day 2001: <em>I am unwrapping a gift from my sister that is an Astronomy Calendar for 2002. Inside the cover page is something remarkable.</em></p>
+<blockquote>
+  <p>Christmas Day 2001: <em>I am unwrapping a gift from my sister that is an Astronomy Calendar for 2002. Inside the cover page is something remarkable.</em></p>
+</blockquote>
 
 <p>I awaken screaming and go get my dream journal. My painting of the beautiful three acrylic screens and the inside cover page present the same image! It’s the center of the Galaxy as processed by the twin telescopes “Two Micron All Sky Survey (2MASS)” in Arizona and Chile, in which they have captured the Milky Way galaxy and galaxies that lie beyond.</p>
 
@@ -3389,12 +3397,13 @@ ns1:bcpov6zmstar a ns1:Post ;
 
 <p>http://home.earthlink.net/~cosmichand/</p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3king ;
-    ns1:hasTag ns1:bcphbq3king,
+    ns1:hasAuthor ns1:bcphbq3mild ;
+    ns1:hasTag ns1:bcphbq3mild,
         ns1:bcphbwfw4rc ;
     ns1:itemId "bcpov6zmstar"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dreamtime Star Gazing"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zmstar-0.jpg"^^xsd:string ;
     ns1:urlSlug "dreamtime-star-gazing"^^xsd:string .
 
 ns1:bcpov6zmythd a ns1:Post ;
@@ -4032,6 +4041,15 @@ ns1:bcphbq3mcle a ns1:User ;
     ns1:name "Dick McLeester"^^xsd:string ;
     ns1:profileImg "dickmcleester.jpg"^^xsd:string .
 
+ns1:bcphbq3mild a ns1:User ;
+    ns1:description """<p></p>
+"""^^xsd:string ;
+    ns1:handle "mildredrosario"^^xsd:string ;
+    ns1:itemId "bcphbq3mild"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Mildred Rosario"^^xsd:string ;
+    ns1:profileImg "author-mildred-rosario.jpg"^^xsd:string .
+
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
 
@@ -4330,6 +4348,23 @@ ns1:bcphbq3gong a ns1:User ;
     ns1:name "Robert P. Gongloff"^^xsd:string ;
     ns1:profileImg "author-robert-gongloff.jpg"^^xsd:string .
 
+ns1:bcphbq3king a ns1:User ;
+    ns1:description """<p>Marlene started her first dream journal at age 8. She has accumulated volumes since then filled with images, feelings, symbolism and characters that never fail to educate and inspire her and elucidate her waking world. Her philosophy is that working with people and their dreams is all about pulling in the pieces the unconscious hands us in our dreams, and integrating them into waking life to add dimension and arrive at that “ah-ha” meaning.</p>
+
+<p>As a professional art therapist and active member in the dream community for over 35 years, her approach to dreamwork is both intuitive and eclectic, and is sensitive to each person based on her toolbox of knowledge and experience of working with individuals and groups. She believes that a creative approach to dreamwork via expressive means can be done through journaling, art, dance, writing or Gestalting with dream imagery or any expressive method meaningful to the dreamer.</p>
+
+<p>Marlene served on the board and was a regular contributor to <a href="../@dreamnetwork">Dream Network Journal</a> for nearly two decades. Her column, “Dream Times,” appeared there and in the North Kitsap Herald. You can visit her blog, <a href="https://www.thedreamplace.wordpress.com/">www.thedreamplace.wordpress.com</a>, that contains inspirational true stories and reflections from her life.</p>
+
+<p>Her inspirational novel, <strong><em>The Rainbow Watchers</em></strong>, released in the fall of 2018, is spiritual fiction based on a true NDE (near-death experience) that explores the possibilities life has to offer on both sides of the veil. <a href="https://www.therainbowwatchers.com/">To learn more, visit www.therainbowwatchers.com</a>.</p>
+
+<p>Marlene holds a B.A. degree in Art History from the University of California, Santa Barbara and an M.A. in Art Therapy from Marylhurst University. A member and affiliate of IASD since 1984.</p>
+"""^^xsd:string ;
+    ns1:handle "marleneking"^^xsd:string ;
+    ns1:itemId "bcphbq3king"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Marlene King"^^xsd:string ;
+    ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
+
 ns1:bcphbq3krip a ns1:User ;
     ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
 
@@ -4513,28 +4548,6 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:name "Volume 33"^^xsd:string ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
-
-ns1:bcphbq3king a ns1:User ;
-    ns1:description """<p></p>
-"""^^xsd:string,
-        """<p>Marlene started her first dream journal at age 8. She has accumulated volumes since then filled with images, feelings, symbolism and characters that never fail to educate and inspire her and elucidate her waking world. Her philosophy is that working with people and their dreams is all about pulling in the pieces the unconscious hands us in our dreams, and integrating them into waking life to add dimension and arrive at that “ah-ha” meaning.</p>
-
-<p>As a professional art therapist and active member in the dream community for over 35 years, her approach to dreamwork is both intuitive and eclectic, and is sensitive to each person based on her toolbox of knowledge and experience of working with individuals and groups. She believes that a creative approach to dreamwork via expressive means can be done through journaling, art, dance, writing or Gestalting with dream imagery or any expressive method meaningful to the dreamer.</p>
-
-<p>Marlene served on the board and was a regular contributor to <a href="../@dreamnetwork">Dream Network Journal</a> for nearly two decades. Her column, “Dream Times,” appeared there and in the North Kitsap Herald. You can visit her blog, <a href="https://www.thedreamplace.wordpress.com/">www.thedreamplace.wordpress.com</a>, that contains inspirational true stories and reflections from her life.</p>
-
-<p>Her inspirational novel, <strong><em>The Rainbow Watchers</em></strong>, released in the fall of 2018, is spiritual fiction based on a true NDE (near-death experience) that explores the possibilities life has to offer on both sides of the veil. <a href="https://www.therainbowwatchers.com/">To learn more, visit www.therainbowwatchers.com</a>.</p>
-
-<p>Marlene holds a B.A. degree in Art History from the University of California, Santa Barbara and an M.A. in Art Therapy from Marylhurst University. A member and affiliate of IASD since 1984.</p>
-"""^^xsd:string ;
-    ns1:handle "marleneking"^^xsd:string,
-        "mildredrosario"^^xsd:string ;
-    ns1:itemId "bcphbq3king"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Marlene King"^^xsd:string,
-        "Mildred Rosario"^^xsd:string ;
-    ns1:profileImg "author-marlene-king.jpg"^^xsd:string,
-        "author-mildred-rosario.jpg"^^xsd:string .
 
 ns1:bcphbq3wagg a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>

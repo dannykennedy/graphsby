@@ -3692,6 +3692,8 @@ ns1:bcpov6zwakin a ns1:Post ;
 
 <p><!--nopreview--><div class="caption" style="text-align: center;"><i>Touch Drawing™ by <a href="https://touchdrawing.com/deborah/">Deborah Koff Chapin</a></i></div><!--/nopreview--></p>
 
+<p><br></p>
+
 <p>Let’s assume for a moment that Life is a dream. This means that we can use dream techniques on waking life events or situations. Go ahead. Try it: </p>
 
 <p>Pick something from your everyday, waking life — say, an unexpected change in your job, or that near-miss on the freeway, or perhaps an emotionally charged encounter with someone — and take a step back to look at that event or situation ‘as if’ it were a dream or a scene from a dream. Apply your favorite dream tech-nique(s) to this event or situation. What do you notice? Now take another unusual waking life event or situation and look at that as if it were a dream. Now look at any waking life event or situation as if it were a dream. </p>
@@ -4442,6 +4444,8 @@ ns1:bcphbqvlach a ns1:User ;
     ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>
 
 <p>She's passionate about the incredible potential of human-to-human connection and interaction.</p>
+
+<p>On the web: <a href="https://www.linkedin.com/in/victoriavlach/">linkedin.com/in/victoriavlach</a></p>
 """^^xsd:string ;
     ns1:handle "victoriavlach"^^xsd:string ;
     ns1:itemId "bcphbqvlach"^^xsd:string ;

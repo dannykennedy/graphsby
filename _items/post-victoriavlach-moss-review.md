@@ -8,6 +8,7 @@ tags:
   - hasTag: robertmoss
   - hasAuthor: victoriavlach
   - hasTag: 24.3
+  - hasTag: "Book Review"
 type: post
 urlSlug: "book-review-the-dreamers-book-of-the-dead-by-robert-moss"
 profileImg: post-bcpov6zbotdm-0.jpg
@@ -16,7 +17,7 @@ profileImg: post-bcpov6zbotdm-0.jpg
 <a href="https://www.amazon.com/Dreamers-Book-Dead-Travelers-Guide/dp/1594770379">
 <img src="../images/post-bcpov6zbotdm-0.jpg" alt="The Dreamer's Book of the Dead: A Soul Traveler's Guide to Death, Dying, and the Other Side" width="300" height="auto"/>
 </a>
-<!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://www.amazon.com/Dreamers-Book-Dead-Travelers-Guide/dp/1594770379">The Dreamer's Book of the Dead: A Soul Traveler's Guide to Death, Dying, and the Other Side</a>(Destiny Books, 2005, 320 pages</i></div><!--/nopreview-->
+<!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://www.amazon.com/Dreamers-Book-Dead-Travelers-Guide/dp/1594770379">The Dreamer's Book of the Dead: A Soul Traveler's Guide to Death, Dying, and the Other Side</a> (Destiny Books, 2005, 320 pages</i></div><!--/nopreview-->
 
 <br>
 Dreamers inspired by poets—poets inspiring and guiding Dreamers. One particular poet and one particular Dreamer come together on a joint venture of mutual interest and the result is Robert Moss’s *The Dreamer’s Book of the Dead: A Soul Traveler’s Guide to Death, Dying and the Other Side*. Divided into three distinct and interconnected sections, The Dreamer’s Book of the Dead offers what could very well be the beginnings of a much needed Book of the Dead for the Western (industrialized) world. 

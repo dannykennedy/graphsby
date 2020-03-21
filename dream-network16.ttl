@@ -881,34 +881,6 @@ ns1:bcphbpntuo4 a ns1:Post ;
     ns1:profileImg "10.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "10.4"^^xsd:string .
 
-ns1:bcphbpqyqpo a ns1:Post ;
-    ns1:coverImg "11.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf" download="">Download issue 11.1</a><br><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoash2jt ;
-    ns1:itemId "bcphbpqyqpo"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 11, issue 1: Women's Dreams"^^xsd:string ;
-    ns1:profileImg "11.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "11.1"^^xsd:string .
-
-ns1:bcphbpumr2x a ns1:Post ;
-    ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf" download="">Download issue 11.2</a><br><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoash2jt ;
-    ns1:itemId "bcphbpumr2x"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 11, issue 2: Men's Dreams"^^xsd:string ;
-    ns1:profileImg "11.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "11.2"^^xsd:string .
-
 ns1:bcphbq3ferr a ns1:User ;
     ns1:description """<p>Website: <a href="https://brendaferrimanidreamart.com/">brendaferrimanidreamart.com</a></p>
 
@@ -3343,6 +3315,86 @@ ns1:bcpov6zlucse a ns1:Post ;
     ns1:profileImg "post-bcpov6zlucse-0.jpg"^^xsd:string ;
     ns1:urlSlug "lucid-dreaming-transformational-potential"^^xsd:string .
 
+ns1:bcpov6zmcat1 a ns1:Post ;
+    ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Dreams are a very important aspect of our daily lives that need more conscious attention and con-sideration. Whether we dream in vague snippets or full-blown epic movies, the information your sleeping mind is sharing should not be overlooked. With more focus and value given to your dreams, you will remember more dreams and learn incomparable lessons. </p>
+
+<p>I have found that dreams can fall into ten different categories. When approaching dreams, know that several categories may apply to one dream. The deeper you explore, the more levels of meaning you can find. I present these categories so that you may begin to look at your own dreams to discover the multidimensional aspects within these nightly scenarios. </p>
+
+<h2>1. Daily Wash or Review Dreams</h2>
+
+<p>These are the most common of dreams and, unfortunately, are often easily dismissed. An example might be: you have dinner with a friend and that night you dream about having dinner with this friend. In the dream, you have all the food on your side of the table as your friends sits there watching you eat. Suddenly, she begins crying uncontrollably. Then, as you watch, she turns into a small, wounded bird fluttering on the chair, seeming to cry out for attention. You are then changed in to a colorful parrot talking a mile a minute. There are several possible reasons for having this type of dream: a.) The dream might be showing you explicitly the choices you made. With the food on your side of the table, you become aware that you were the one nour-ished through your encounter with your friend. b.) The dream might be sharing reactions you overlooked. Your subconscious picks up on subtle emotional nuances and presents them to you in the dream. Your friend was upset and you were not consciously aware of this, thus your dream presents her emotional state in a dramatic version so that you will listen. c.) A third reason for this type of dream might be to act as a character study. Through these bird symbols, you clearly understand each of your roles from the previous evening. In a waking state you can now correct the imbalances from your dinner by calling to listen, support and nourish your friend. Rather than quickly tossing these dream images aside, look more closely into the messages behind dreams. Please don't dismiss any dream fragments or "obvious" messages; dreams are more complex and deserve your attention. </p>
+
+<h2>2. Character Review Dreams.</h2>
+
+<p>Most characters presented in dreams are an aspect of yourself. When you dream about your mother she is likely to be personifying an aspect of yourself of which you may not be aware. When friends from the past pop up in a dream, you should look back either to your relationship with them or the time period you knew them to see what messages they present. The "character review" category can serve several functions: a.) It can highlight your own strengths. Perhaps your dream shows positive aspects about yourself that you are presently overlooking. For example, you dream about a beautiful dancer being showered with roses upon her curtain call. She then presents the roses to you backstage. The dream is showing your potential for sharing creativity with others and being rewarded. However, consciously you have put these talents "backstage" and the dream is showing you the rewards of bringing them "on stage". b.) It can point out weaknesses. You dream about standing in line, then you get stuck in traffic and then your date is late. When you awaken, you see the comedy in this frustrating dream and understand your own need to be patient with circumstances that are out of your control. c.) It can also give suggestions for balancing. You dream about being chained to your desk with mounds of work in front of you. Meanwhile, outside the window, you see people playing. You wake up knowing that "all work and no play makes Jack a dull boy," and you vow to take more time for yourself. </p>
+
+<h2>3. Problem Solving Dreams.</h2>
+
+<p>Dreams are very helpful, like a good friend trying to relay messages to you... all you have to do is ask. There are several ways these problem solving tools can be used. a.) Dreams can present business or study advice. One night, I gave myself a pre-sleep suggestion about whether to take a job I was considering. That night, I dreamt that I was walking a close, unidentified friend to the elevator in a high rise apartment building. I turned to go back down the hall to my apartment. Suddenly, the elevator cable snapped and I heard the elevator crash to the bottom, my friend screaming. I woke up and imme-diately knew I shouldn't take this particular job because it could" crash" to the ground and in the process I would lose something close to me. b.) Dreams can aid in interpersonal clarification. You are having some misunderstandings with your spouse and you go to bed upset. That night, your dream shows you some key to this conflict, and you awaken with a resolution and a better understanding of your partners feelings. c.) They can give clues for the best choice to be made. Perhaps you are considering moving and have narrowed your choice down to several locations. Still undecided, you go to sleep and you dream about the most appropriate location for you. Dreams may not be presented in a literal scenario, but when working with the symbols of the dream, the deeper meaning becomes much more evident. Listen to your own inner voice or "heart" to validate your impressions. As the dreamer, you will know when you've "gotten" the message from your dream. d.) Finally, dreams can share· suppressed emotions about a situa-tion. In college, my sister and I had many misunderstandings. I dreamt short) y before shew as getting married that her best friend and I completely missed the wedding. We showed up without our bridesmaids' dresses on, embarrassed to be so late. My dream warned me about my negative feelings and how they could poten-tially sabotage my sister's wedding. </p>
+
+<h2>4. Body &amp; Health Awareness Dreams.</h2>
+
+<p>Dreams can a.) show imbalances, b.) give health-aid suggestions, and c.) share mental or emotional effects on the body. Perhaps you dream about a vicious dog attacking your stomach and ripping out your intestines. Your doctor (or someone you don't actually know in waking life, but this person reminds you of your doctor) appears, leading a cow. You awaken, aware that this stomach pain could be a serious problem, perhaps an ulcer. Your dream shows the importance of making an appoint-ment to see your doctor and that you should drink more milk to soothe your ulceric problems. The dog is 26 Dream Network Vol .. 11 No. 1 showing how your uncontrollable anger, even if suppressed, is the cause of this attack on your stomach and intestines. Dreams are not always presented so simplistically as these examples, and you may not be aware of their meaning upon waking; however, if given attention, dreams will make their meaning clear and relay their individually unique message. </p>
+
+<h2>5. Inspiration Dreams.</h2>
+
+<p>a.) Dreams can give specific answers to questions. My brother, a computer scientist, has told me of going to bed exhausted from working on an unsolved issue. In the morning, the solution to the problem is clear! Dreams used for problem solving and inspiration have been greatly noted by a variety of people such as scientists, writers and other artists, and business people. b.) Dreams can show creativity in action. During college, I was taking a choreography class. I took a short nap before rehearsal one day. In my dream, I woke up at 6:10 pm., although the meeting was to begin at 5:00. I dashed over to the studio and everyone had already been working for over an hour. In the dream, we completed the dance and felt very creative. When I woke up, it was indeed 6:10pm. AGH! My partners had left by then without working on our project. The next day, I shared the dance ideas presented in my dream and many of these ideas were incorporated into our final dance project! So my dreams were working on my dance project even though my body was sleeping. c.) Dreams can provide motivat-ion to continue in a specific creative endeavor. As an actress, there are times when I lose sight of my goals. Usually during this time, I will dream of being cast in a great role and I wake up with renewed determination. </p>
+
+<hr>
+
+<p>(Editor's note: In the next issue, Rosemary will describe the remaining five dream categories she has identified.) </p>
+
+<p>(c) ROSEMARY WATTS</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqwatts ;
+    ns1:hasTag ns1:bcphbpqyqpo,
+        ns1:bcphbqwatts ;
+    ns1:itemId "bcpov6zmcat1"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dream Categories: Part One"^^xsd:string ;
+    ns1:urlSlug "dream-categories-part-one"^^xsd:string .
+
+ns1:bcpov6zmcat2 a ns1:Post ;
+    ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Dreams are a very important aspect of our daily lives that need more conscious attention and con-sideration. Whether we dream in vague snippets or full-blown epic movies, the information your sleeping mind is sharing should not be overlooked. With more focus and value given to your dreams, you will remember more dreams and learn incomparable lessons. </p>
+
+<p>I have found that dreams can fall into ten different categories. When approaching dreams, know that several categories may apply to one dream. The deeper you explore, the more levels of meaning you can find. I present these categories so that you may begin to look at your own dreams to discover the multidimensional aspects within these nightly scenarios. </p>
+
+<h2>1. Daily Wash or Review Dreams</h2>
+
+<p>These are the most common of dreams and, unfortunately, are often easily dismissed. An example might be: you have dinner with a friend and that night you dream about having dinner with this friend. In the dream, you have all the food on your side of the table as your friends sits there watching you eat. Suddenly, she begins crying uncontrollably. Then, as you watch, she turns into a small, wounded bird fluttering on the chair, seeming to cry out for attention. You are then changed in to a colorful parrot talking a mile a minute. There are several possible reasons for having this type of dream: a.) The dream might be showing you explicitly the choices you made. With the food on your side of the table, you become aware that you were the one nour-ished through your encounter with your friend. b.) The dream might be sharing reactions you overlooked. Your subconscious picks up on subtle emotional nuances and presents them to you in the dream. Your friend was upset and you were not consciously aware of this, thus your dream presents her emotional state in a dramatic version so that you will listen. c.) A third reason for this type of dream might be to act as a character study. Through these bird symbols, you clearly understand each of your roles from the previous evening. In a waking state you can now correct the imbalances from your dinner by calling to listen, support and nourish your friend. Rather than quickly tossing these dream images aside, look more closely into the messages behind dreams. Please don't dismiss any dream fragments or "obvious" messages; dreams are more complex and deserve your attention. </p>
+
+<h2>2. Character Review Dreams.</h2>
+
+<p>Most characters presented in dreams are an aspect of yourself. When you dream about your mother she is likely to be personifying an aspect of yourself of which you may not be aware. When friends from the past pop up in a dream, you should look back either to your relationship with them or the time period you knew them to see what messages they present. The "character review" category can serve several functions: a.) It can highlight your own strengths. Perhaps your dream shows positive aspects about yourself that you are presently overlooking. For example, you dream about a beautiful dancer being showered with roses upon her curtain call. She then presents the roses to you backstage. The dream is showing your potential for sharing creativity with others and being rewarded. However, consciously you have put these talents "backstage" and the dream is showing you the rewards of bringing them "on stage". b.) It can point out weaknesses. You dream about standing in line, then you get stuck in traffic and then your date is late. When you awaken, you see the comedy in this frustrating dream and understand your own need to be patient with circumstances that are out of your control. c.) It can also give suggestions for balancing. You dream about being chained to your desk with mounds of work in front of you. Meanwhile, outside the window, you see people playing. You wake up knowing that "all work and no play makes Jack a dull boy," and you vow to take more time for yourself. </p>
+
+<h2>3. Problem Solving Dreams.</h2>
+
+<p>Dreams are very helpful, like a good friend trying to relay messages to you... all you have to do is ask. There are several ways these problem solving tools can be used. a.) Dreams can present business or study advice. One night, I gave myself a pre-sleep suggestion about whether to take a job I was considering. That night, I dreamt that I was walking a close, unidentified friend to the elevator in a high rise apartment building. I turned to go back down the hall to my apartment. Suddenly, the elevator cable snapped and I heard the elevator crash to the bottom, my friend screaming. I woke up and imme-diately knew I shouldn't take this particular job because it could" crash" to the ground and in the process I would lose something close to me. b.) Dreams can aid in interpersonal clarification. You are having some misunderstandings with your spouse and you go to bed upset. That night, your dream shows you some key to this conflict, and you awaken with a resolution and a better understanding of your partners feelings. c.) They can give clues for the best choice to be made. Perhaps you are considering moving and have narrowed your choice down to several locations. Still undecided, you go to sleep and you dream about the most appropriate location for you. Dreams may not be presented in a literal scenario, but when working with the symbols of the dream, the deeper meaning becomes much more evident. Listen to your own inner voice or "heart" to validate your impressions. As the dreamer, you will know when you've "gotten" the message from your dream. d.) Finally, dreams can share· suppressed emotions about a situa-tion. In college, my sister and I had many misunderstandings. I dreamt short) y before shew as getting married that her best friend and I completely missed the wedding. We showed up without our bridesmaids' dresses on, embarrassed to be so late. My dream warned me about my negative feelings and how they could poten-tially sabotage my sister's wedding. </p>
+
+<h2>4. Body &amp; Health Awareness Dreams.</h2>
+
+<p>Dreams can a.) show imbalances, b.) give health-aid suggestions, and c.) share mental or emotional effects on the body. Perhaps you dream about a vicious dog attacking your stomach and ripping out your intestines. Your doctor (or someone you don't actually know in waking life, but this person reminds you of your doctor) appears, leading a cow. You awaken, aware that this stomach pain could be a serious problem, perhaps an ulcer. Your dream shows the importance of making an appoint-ment to see your doctor and that you should drink more milk to soothe your ulceric problems. The dog is 26 Dream Network Vol .. 11 No. 1 showing how your uncontrollable anger, even if suppressed, is the cause of this attack on your stomach and intestines. Dreams are not always presented so simplistically as these examples, and you may not be aware of their meaning upon waking; however, if given attention, dreams will make their meaning clear and relay their individually unique message. </p>
+
+<h2>5. Inspiration Dreams.</h2>
+
+<p>a.) Dreams can give specific answers to questions. My brother, a computer scientist, has told me of going to bed exhausted from working on an unsolved issue. In the morning, the solution to the problem is clear! Dreams used for problem solving and inspiration have been greatly noted by a variety of people such as scientists, writers and other artists, and business people. b.) Dreams can show creativity in action. During college, I was taking a choreography class. I took a short nap before rehearsal one day. In my dream, I woke up at 6:10 pm., although the meeting was to begin at 5:00. I dashed over to the studio and everyone had already been working for over an hour. In the dream, we completed the dance and felt very creative. When I woke up, it was indeed 6:10pm. AGH! My partners had left by then without working on our project. The next day, I shared the dance ideas presented in my dream and many of these ideas were incorporated into our final dance project! So my dreams were working on my dance project even though my body was sleeping. c.) Dreams can provide motivat-ion to continue in a specific creative endeavor. As an actress, there are times when I lose sight of my goals. Usually during this time, I will dream of being cast in a great role and I wake up with renewed determination. </p>
+
+<hr>
+
+<p>(Editor's note: In the next issue, Rosemary will describe the remaining five dream categories she has identified.) </p>
+
+<p>(c) ROSEMARY WATTS</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqwatts ;
+    ns1:hasTag ns1:bcphbpumr2x,
+        ns1:bcphbqwatts ;
+    ns1:itemId "bcpov6zmcat2"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dream Categories: Part Two"^^xsd:string ;
+    ns1:urlSlug "dream-categories-part-two"^^xsd:string .
+
 ns1:bcpov6zmstar a ns1:Post ;
     ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zmstar-0.jpg" alt="Constellations" /></p>
@@ -3656,6 +3708,34 @@ ns1:bcphbmvxewa a ns1:Post ;
     ns1:name "Volume 5, issue 6"^^xsd:string ;
     ns1:profileImg "5.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "5.6"^^xsd:string .
+
+ns1:bcphbpqyqpo a ns1:Post ;
+    ns1:coverImg "11.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf" download="">Download issue 11.1</a><br><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoash2jt ;
+    ns1:itemId "bcphbpqyqpo"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 11, issue 1: Women's Dreams"^^xsd:string ;
+    ns1:profileImg "11.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "11.1"^^xsd:string .
+
+ns1:bcphbpumr2x a ns1:Post ;
+    ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf" download="">Download issue 11.2</a><br><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoash2jt ;
+    ns1:itemId "bcphbpumr2x"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 11, issue 2: Men's Dreams"^^xsd:string ;
+    ns1:profileImg "11.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "11.2"^^xsd:string .
 
 ns1:bcphbqvckd7 a ns1:Post ;
     ns1:coverImg "13.1-cover.jpg"^^xsd:string ;
@@ -4394,6 +4474,15 @@ ns1:bcphbq3webb a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Craig Webb"^^xsd:string ;
     ns1:profileImg "author-craig-webb.jpg"^^xsd:string .
+
+ns1:bcphbqwatts a ns1:User ;
+    ns1:description """<p></p>
+"""^^xsd:string ;
+    ns1:handle "rosemarywattsdreyer"^^xsd:string ;
+    ns1:itemId "bcphbqwatts"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Rosemary Watts-Dreyer"^^xsd:string ;
+    ns1:profileImg "author-rosemary-watts.jpg"^^xsd:string .
 
 ns1:bcpov6pspec a ns1:Post ;
     ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;

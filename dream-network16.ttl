@@ -982,20 +982,6 @@ ns1:bcphbqp3hfp a ns1:Post ;
     ns1:profileImg "12.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "12.4"^^xsd:string .
 
-ns1:bcphbqyogh7 a ns1:Post ;
-    ns1:coverImg "13.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1994-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><a href="../files/pdfs/Volume_13/13.2-Dream-Network_Volume-13_No-2.pdf" download="">Download issue 13.2</a><br><a href="../files/pdfs/Volume_13/13.2-Dream-Network_Volume-13_No-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaxfojq ;
-    ns1:itemId "bcphbqyogh7"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 13, issue 2: Cross Cultural Perspectives on Dream & Myth: More Cross-Cultural Perspectives"^^xsd:string ;
-    ns1:profileImg "13.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "13.2"^^xsd:string .
-
 ns1:bcphbr4spo2 a ns1:Post ;
     ns1:coverImg "15.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1996-04-01T11:32:52"^^xsd:dateTime ;
@@ -3623,6 +3609,79 @@ ns1:bcpov6zmytoz a ns1:Post ;
     ns1:name "In the Land of Oz"^^xsd:string ;
     ns1:urlSlug "in-the-land-of-oz"^^xsd:string .
 
+ns1:bcpov6zprofe a ns1:Post ;
+    ns1:dateCreated "1994-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>In my work as an accounting professor I am catching fascinating glimpses of an ever-present Counselor who has finally caught my attention by speaking to me in my dreams. </p>
+
+<p>Imagine my delight at discovering that my "theater of the night" also acts as a "light by day" as I teach university students. I have included two dreams in which I used that "light." </p>
+
+<p><img src="../images/post-bcpov6zprofe-1.jpg" alt="Assignment dreams" width="300px" height="auto"></p>
+
+<h2>ENVIRONMENT of the DREAMS &amp; the DREAMER:</h2>
+
+<p>My students tell me I require more work than most professors, but the most often repeated comment on student evaluations, is that I care about my students; I act as sort of "mom" role for them. Yet another role I assume is "coach". I use "coaching" language and techniques. Not surprisingly, one of the dreams included in this article reflects the coach role as well as the role of a mom. Quieting to me, though, is the clear message in both dreams, to me, to ease off - to stand back.</p>
+
+<h2>SETTING OF THE FIRST DREAM:</h2>
+
+<p>I assigned an ethics case for my principles of accounting classes. The case involved a graduating senior who had job interviews at two separate companies in the same city. Upon discovering he would be reimbursed for interviewing expenses, the student billed both companies for the <em>full</em> amount of his expenses. </p>
+
+<p>In our brief class discussion, a couple students openly said they would have done the same thing; that is, take double reimbursement. However, later when I read the students' written responses to the ethics question, I was surprised to find the same comment made by <em>several</em> other students. I gave considerable thought of what to say to the classes for our next meeting. I finally had my talk prepared on how it is very important to be honest in coming to know oneself and so I appreciated the honesty in the responses. I planned then to lead into a discussion of the matter of treating others as one would like to be treated. I thought my plan was set. Then the following dream came in the early morning the day I planned to give my "little talk".</p>
+
+<blockquote>
+  <p><strong><em>Don't Ask Your Students to Wash Their Dirty Laundry in Public</em></strong></p>
+  
+  <p><em>People are washing clothes in a laundry area of our apartment building. They brought the clothes up from the basement. I bring my clothes to wash also. A woman who was washing in the basement is now washing upstairs in this laundromat sort of area. A young man, probably a college student, is standing close to her and when he sees me, he says very loudly and possessively to me, "I'm next". I take my basket of clothes downstairs and talk very loud in mimic of the young man's "I'm next" as I go down the stairs. But when I get to the basement, I understand why these people aren't washing in the basement - either there aren't machines here now, or they aren't working. The upstairs is more like a laundromat, than the basement.</em></p>
+  
+  <p><strong>[Oh, the 'washing your dirty clothes in public' dream is saying not to say anything about the students' ethics case answers in class. Several students said they would take the "double" reimbursement for interviewing trip.]</strong> (The bold type indicates the "aha" point which came just as I finished typing the dream.)</p>
+</blockquote>
+
+<p><strong><em>My interpretation of the dream:</em></strong> The dream is saying my planned talk on the ethics case in class is like asking my students to "wash their dirty laundry in public." (Laundromat - a public place.) The matter is a personal matter and best handled at the subconscious level (the basement). Discussing the matter further in class is like asking my students to reveal in public what each can only decide for themselves. (Clothes are often symbolic of the personality.) </p>
+
+<p><img src="../images/post-bcpov6zprofe-0.jpg" alt="clothing in public" width="400px" height="auto"></p>
+
+<p>Assigning the ethics case provided an opportunity for each student to cleanse personality attitudes and emotions in the privacy of their subconscious level. However, my "appraisal" of the students responses would cause the students to bring their "cleansing work" to the mental level in defense of their attitudes and render the "washing machines in the basement" (use of subconscious mind) inoperable for improving understanding and cleansing attitudes. </p>
+
+<p>On the other hand, the dream seems to confirm what I had already said in class the day the case was assigned: We must live in consideration for others. Likely, the setting of the dream, in an apartment complex (several people involved), confirms the need for consideration of others. Likewise, the young man student who loudly and possess-ively tells me "I'm next" confirms his lack of consideration for others while watching out intensely for his own interests. </p>
+
+<p>Notice, too, my own mimic of the student's "I'm next," which seems to point out by <strong>exaggeration</strong> that for me to <strong>repeat</strong> the students' comments about accepting the double reimbursement is certainly an unprofessional and unproductive method of dealing with the situation. Apparently my "dream counselor" is saying my "wellplanned" little talk would be a taunting insult to my students. </p>
+
+<p>I believe the dream is further saying my planned talk wasn't from the my inner resources. (When I arrive in the basement - subconscious level - the washing machines are either not there or are inoperable.) Even though I gave the matter considerable thought I still didn't feel completely satisfied with what I planned to say. And, finally, notice I was also planning to wash my dirty clothes. </p>
+
+<p>How I used my dream: When I went to class the day of the dream, I gave each student their copy of the textbook authors' comments on the ethics case and made a note to myself to assign the ethics cases from most of the chapters we will cover. But I did NOT give my planned "little talk."</p>
+
+<h2>SETTING of the SECOND DREAM:</h2>
+
+<p>I use a <em>team</em> approach in teaching an advanced auditing class where the class size ranges between twelve to fifteen students. We sit around oblong tables pulled together and act as an auditing team with me, the professor, as the partner-in-charge. This spring I purposely used only one table in order to bring the students in close eye-to-eye contact. </p>
+
+<p>One of the hardest working students in the class was also the star of the university men's basketball team. The dream came in early morning the day there was major auditing case work due as well as an important basketball game that night. </p>
+
+<p>About "gymnastics:" My husband often uses the word "gymnastics" in referring to frustration from excessive paperwork. </p>
+
+<h2>THE GYMNASTICS AUDIT TEAM &amp; the COACH-MOM</h2>
+
+<blockquote>
+  <p><em>I am an observer. There is a coach and young athletes - perhaps nine or ten. The coach is at the head of two parallel bars on which the young athletes are doing training. It seems like they are turning over the bars. The bars are two rows close together and the athletes are boys and girls. They are probably the same age, but the girls look more mature. At first I only notice the boys and one in particular. He is tired and thinks the coach is expecting too much. The boy says he has some injury and crawls between the bars toward the lady coach. She doesn't stop the practice, but keeps on going. The boy now does half-hearted turning over the bars. Now it is the end of the day's session and <strong>the boy quits the team!</strong> And now others quit the team and there are only six girls left; they don't complain. They seem to be willing to work. The coach is discouraged though. I believe she is wondering if there will be enough participants on the team for the next competition (but the dream is unclear on that point).</em></p>
+  
+  <p><strong><em>Now I seem like the coach</strong> and am standing just inside the door at the house of the boy who quit first. It is dusk-like in this modest room. The boy's mother is in the room. She is very discouraged about the boy quitting. She is very disappointed. She had high hopes of how well things were going. She knew he had something to overcome -fight back from something- but had thought her son was making progress.</em></p>
+</blockquote>
+
+<p><strong><em>My interpretation of the dream:</em></strong> The parallel bars, so close together, is the setting for the auditing class. The arrangement of the young women and young men was basically the same as in the classroom with the young wo men on one side and the young men on the other side with the coach at the front end. </p>
+
+<p>For the young athlete-scholar, the intense practice <strong>was</strong> his style except when the <em>"gymnastics" (unnecessary "paper work")</em> required of him as a student, coupled with the demands placed on him as an superior athlete, took more strength than he physically possessed. In the dream his "injury" portrays this. His crawling toward the coach shows his desperate need for relief. </p>
+
+<p>The young man's mother (the mom in the professor) is concerned about him in a more compassionate and understanding way than the coach who has a greater interest in the team's being able to do well against competition than in the physical, emotional or mental well being of the gymnast-students. </p>
+
+<p><strong><em>How I used the dream:</em></strong> I immediately cut back on the work assignments for the auditing class.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3dues ;
+    ns1:hasTag ns1:bcphbq3dues,
+        ns1:bcphbqyogh7 ;
+    ns1:itemId "bcpov6zprofe"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Professor Uses Dreams as Guides in Working with Students"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zprofe-0.jpg"^^xsd:string ;
+    ns1:urlSlug "professor-uses-dreams-as-guides-in-working-with-students"^^xsd:string .
+
 ns1:bcpov6zwater a ns1:Post ;
     ns1:dateCreated "2014-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post_bcpov6zwater_0.jpg" alt="Dream collage" /></p>
@@ -3831,6 +3890,20 @@ ns1:bcphbqvckd7 a ns1:Post ;
     ns1:name "Volume 13, issue 1: Cross Cultural Perspectives on Dream & Myth"^^xsd:string ;
     ns1:profileImg "13.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.1"^^xsd:string .
+
+ns1:bcphbqyogh7 a ns1:Post ;
+    ns1:coverImg "13.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1994-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="../files/pdfs/Volume_13/13.2-Dream-Network_Volume-13_No-2.pdf" download="">Download issue 13.2</a><br><a href="../files/pdfs/Volume_13/13.2-Dream-Network_Volume-13_No-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaxfojq ;
+    ns1:itemId "bcphbqyogh7"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 13, issue 2: Cross Cultural Perspectives on Dream & Myth: More Cross-Cultural Perspectives"^^xsd:string ;
+    ns1:profileImg "13.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "13.2"^^xsd:string .
 
 ns1:bcphbrw63cp a ns1:Post ;
     ns1:coverImg "15.1-cover.jpg"^^xsd:string ;
@@ -4135,6 +4208,23 @@ ns1:bcphbq3curt a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Curtiss Hoffman"^^xsd:string ;
     ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
+
+ns1:bcphbq3dues a ns1:User ;
+    ns1:description """<p>Websites: <a href="http://www.yourguidingdreams.com/">yourguidingdreams.com</a>, <a href="https://www.livingdreams.life/">livingdreams.life</a></p>
+
+<p>Evelyn Duesbury is a National Certified Counselor (NCC), a Board Certified TeleMental Health Provider (BC-TMH-CCE), and a Licensed Professional Counselor (LPC). She is a member of the American Counseling Association (ACA), the American Psychological Association (APA), the International Association of Marriage and Family Counselors (IAMFC), the International Association for the Study of Dreams (IASD), and The Honor Society of Phi Kappa Phi.</p>
+
+<p>Duesbury’s earlier careers included working as a private secretary for patent attorneys, bankers, accountants, and general practice attorneys. After earning a B.A. in accounting and an MBA, she became a public accountant, then changed careers to education as an associate professor of accounting at the University of Wisconsin-Platteville. In 2000, Duesbury’s master of counselor education thesis, “Utilizing Dreams from a Systemic Perspective to Understand and Mollify Relationship Issues,” received the University of Wisconsin-Whitewater’s Outstanding Thesis Award. Since that time Duesbury and colleagues researched and explored her thesis-based Personalized Method for Interpreting Dreams (PMID) for seven additional projects. During those years, Duesbury developed and taught a distance education course to counselors on how to use her PMID model. The course guide that she wrote for her distance education class is the foundation for The Counselor’s Guide for Facilitating the Interpretation of Dreams: Family and Other Relationship Systems Perspectives.</p>
+
+<p>Before writing The Counselor’s Guide for Facilitating the Interpretation of Dreams Duesbury worked on other projects. First, with assistance from her son, a writer, and consultation from E. B. Bynum, a clinical psychologist, Duesbury published a self-help book for the general population titled Living Dreams, Living Life, a Practical Guide to Understanding Your Dreams and How They Can Change Your Waking-Life. One night, after thinking about updating her distance education course guide, she thought to herself, “I am so occupied that I am unable to give time to my own dreams the way I want.” The next morning she woke with a dream that persuaded her to put her plans of working exclusively with her own dreams on hold. In the dream, her former accounting advisor suggested (in dream language) that she should transform her distance counseling course book into a “universal systems book.”</p>
+
+<p>In waking-life several years earlier, an advisor had told Duesbury he had taken several positions to prepare him to do what he loves, teach. Duesbury likewise discovered that she loves to teach. She loves to show others how to use their dreams to improve their lives.</p>
+"""^^xsd:string ;
+    ns1:handle "evelynduesbury"^^xsd:string ;
+    ns1:itemId "bcphbq3dues"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Evelyn Duesbury"^^xsd:string ;
+    ns1:profileImg "author-evelyn-duesbury.jpg"^^xsd:string .
 
 ns1:bcphbq3gras a ns1:User ;
     ns1:description """<p>Lorraine Grassano was born in Paterson, New Jersey in 1951 and graduated from Rutgers University with a B.A. in Journalism. She has been an Acquisitions Editor for Spinster/Aunt Lute Press and writer and Copy Editor for Dream Network Journal. She was founding editor of The Gay Old Times, The Lavender Express, and Natural Lighting.</p>
@@ -4826,7 +4916,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
 
 <p>Feel free to send the PDFs to your friends, but rather than publishing them online please just link to the archive site once it's public. We also ask you not to publish the articles in the journals, unless you have the permission of the author (or you are the author, in which case, the rights are yours!)</p>
 
-<p><strong>Thank you to everyone who donated</strong> to this campaign. We'd like to personally thank <a href="https://kellybulkeley.org/about-kelly-bulkeley">Kelly Bulkeley</a>, whose donation really made this campaign possible, and all the 'super supporters' of the campaign: <a href="https://www.monroeinstitute.org/pages/trainer-luigi-sciambarella">Luigi Sciambarella</a>, <a href="http://www.yourguidingdreams.com/">Evelyn Duesbury</a>, <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as <a href="../@arthurstrock">Arthur Strock</a>, <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, <a href="../@rosemarywattsdreyer">Rosemary Watts-Dreyer</a>, <a href="https://pattiallen.com/about/patti-allen/">Patti Allen</a>, <a href="https://www.linkedin.com/in/mary-beth-bronk-583298164/">Mary Bronk</a>, <a href="http://spokenstone.com/">Spoken Stone</a>, and <a href="https://chuffed.org/project/dream-network-journal">all the supporters</a> who made this a reality. For their donations as well as providing providing their personal copies of publications for scanning, special thanks to <a href="../@dickmcleester">Dick McLeester</a> and <a href="https://www.dreamtimesguide.com/about-marlene-king/">Marlene King</a>.</p>
+<p><strong>Thank you to everyone who donated</strong> to this campaign. We'd like to personally thank <a href="https://kellybulkeley.org/about-kelly-bulkeley">Kelly Bulkeley</a>, whose donation really made this campaign possible, and all the 'super supporters' of the campaign: <a href="https://www.monroeinstitute.org/pages/trainer-luigi-sciambarella">Luigi Sciambarella</a>, <a href="../@evelynduesbury">Evelyn Duesbury</a>, <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as <a href="../@arthurstrock">Arthur Strock</a>, <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, <a href="../@rosemarywattsdreyer">Rosemary Watts-Dreyer</a>, <a href="https://pattiallen.com/about/patti-allen/">Patti Allen</a>, <a href="https://www.linkedin.com/in/mary-beth-bronk-583298164/">Mary Bronk</a>, <a href="http://spokenstone.com/">Spoken Stone</a>, and <a href="https://chuffed.org/project/dream-network-journal">all the supporters</a> who made this a reality. For their donations as well as providing providing their personal copies of publications for scanning, special thanks to <a href="../@dickmcleester">Dick McLeester</a> and <a href="../@marleneking">Marlene King</a>.</p>
 
 <p><strong>Thank you also to all the amazing authors and advisors</strong> of the Dream Network, and all the editors prior to Roberta:</p>
 

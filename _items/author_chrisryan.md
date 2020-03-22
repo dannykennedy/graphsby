@@ -8,6 +8,7 @@ shortDescription: ""
 tags:
 date: 2015-03-24
 profileImg: author-chris-ryan.jpg
+coverImg: cover-chris-ryan.jpg
 ---
 
 Website: [chrisryanphd.com](https://chrisryanphd.com/)

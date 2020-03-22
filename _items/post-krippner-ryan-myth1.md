@@ -31,7 +31,7 @@ While personal myths shape our awareness, they themselves operate largely outsid
 
 We can develop a categorization system which describes several aspects of dreams in this ongoing dialectic. A particular dream may include one or more of the aspects outlined below. For people who have learned to understand inner events in terms of personal mythology, this can be a useful framework for understanding their dreams. 
 
-• The dream may attempt to strengthen an old, self-limiting myth (particularly when it is challenged) by 
+• The dream may attempt to strengthen an old, self-limiting myth (particularly when it is challenged), by: 
 <ol type="a"> 
 <li>emphasizing past experiences which provided evidence for the validity of the old myth;</li>
 <li>resolving conflicts between the old myth and daily experiences through the assimilation of these experiences into the structure of the old myth</li>
@@ -52,7 +52,7 @@ We can develop a categorization system which describes several aspects of dreams
 <li>portent a future where the conflict is resolved, often instructing us in how to accomplish the resolution.</li>
 </ol>
 
-Feeling tone often gives a clue as to the function of the dream. "Old myth" dreams typically feel defeating, hopeless, and draining in terms of energy and vitality. "Counter-myth " dreams typically tend to feel hopeful, optimistic, even exhilarating. "Integration" dreams tend to produce a calm positive, realistic feeling. 
+Feeling tone often gives a clue as to the function of the dream. "Old myth" dreams typically feel defeating, hopeless, and draining in terms of energy and vitality. "Counter-myth" dreams typically tend to feel hopeful, optimistic, even exhilarating. "Integration" dreams tend to produce a calm positive, realistic feeling. 
 
 In summary, dreams can play an important role in presenting the personal mythic structure to the dreamer. Dreams can itemize each aspect of our personal mythology and can point out when an old personal myth has become inadequate for life's current issues. The dream can point out when personal myths have become outdated, can provide a dialectical encounter between old and new myths, and can mediate conflicts between myths even providing new mythic structures and facilitating synthesis. 
 

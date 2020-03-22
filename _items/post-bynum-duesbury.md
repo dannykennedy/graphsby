@@ -12,8 +12,7 @@ tags:
 type: post
 urlSlug: "awakening-personal-meanings-with-symbol-phrases-systems-effects-and-more"
 ---
-
-<img src="../images/post-bcpov6zfamil-0.jpg" alt="Family sleeping in bed" width="500" height="auto"/>
+<img src="../images/post-bcpov6zphras-0.png" alt="Duesbury and Bynum" width="500" height="auto"/>
 
 <br>
 Many of us use dream dictionaries for finding meanings to one- word symbols. One-word symbol meanings can be helpful and fun to use, but there is also danger of taking dream dictionary meanings as absolute. Dream symbol meanings often vary depending on particular situations, and vary greatly from person to person, which is why understanding your own personal meanings for dream symbols is so important to interpreting your own dreams. 
@@ -24,7 +23,7 @@ We will tell you more about symbol phrases later, but first a quick background o
 
 A dream about a “quiet Black man with an unshaven beard” led Evelyn to inquire of Bruce Bynum’s interest in helping research the PMID™ dream interpretation method. Dr. Bynum said yes. We now conduct ongoing projects with students; so you see our research is not limited to the experimental lab. Dreams accommodate to essentially any theory (2) and the PMID ™ dream interpretation method accommodates to essentially any type learning – especially self-facilitation. 
 
-Evelyn’sÊdream about a “manycolored ‘dream’ cloth”Êover her shoulders (prompted by her husband’s question “Wonder if Ev’s dreams could be helpful to her”), gave her confidence to begin intense work with her dreams. In the process, Evelyn developed the PMID™ dream interpretation method. Although she was a highly rated accounting professor at the time, she followed her heart (and her dreams) into earning a counselor education masters degree to support her credibility for teaching dreamwork. Today teaching others how to interpret their own dreams is the “ loveliest and most fulfilling work I have done.” 
+Evelyn’s dream about a “many colored ‘dream’ cloth” over her shoulders (prompted by her husband’s question “Wonder if Ev’s dreams could be helpful to her”), gave her confidence to begin intense work with her dreams. In the process, Evelyn developed the PMID™ dream interpretation method. Although she was a highly rated accounting professor at the time, she followed her heart (and her dreams) into earning a counselor education masters degree to support her credibility for teaching dreamwork. Today teaching others how to interpret their own dreams is the “ loveliest and most fulfilling work I have done.” 
 
 Now back to explaining what symbol phrases are and how they greatly accelerate your understanding of your dream symbols.
 
@@ -36,39 +35,41 @@ The phrase that contains the symbol helps the dreamer connect definitions to the
 
 Next are examples of symbol phrases that dreamers selected from their dreams. For purposes of these examples, we added words to the definitions to show dreamers’ connections to the context of their dreams. 
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
+
+
 
 “Decide to be friendly with person:” Way to overcome trace of stressful emotions about the person in this dream is to think friendly thoughts about her. (She was also implicated in a dream that I revisited last night.) 
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 “Did not spend time with my friend Sara Emerson:” Reprimands me for skipping meditation yesterday after I decided my uninterrupted work was more important. Sara’s last name “Emerson” reflects my appreciation for Ralph Waldo Emerson’s philosophy to think from the highest perspective, something meditation helps me do. 
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 “Does not want to hear what I have to say:” Be cautious about reminiscing in remorseful ways. In the dream, a childhood friend thinks I am going to talk about activities that she might have been involved in. Last night I almost went into talking remorsefully about this friend. 
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 “Finally tell Joleatha that I need to bring my spouse home:” Successful overcoming of unfounded worry thoughts about whether my spouse was upset by my actions early this morning. Joleatha tends toward gross overreaction. 
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 “Healthy mom urges me to dress well:” After working through mothering issues, get on with wearing those personality characteristics. 
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 “House being cold:” The sadness and heaviness that was felt throughout our house when we argued last night.
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 “I missed our very fine little girl friendship:” These words that I say to a childhood friend in the dream lets me know the true way I felt when my very fine childhood friend began preferring other friends. Last night I thought about the friendship but decided not to talk remorsefully about it. 
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div> 
 
 “Lack of food:” Lack of food seemed to me to be saying I’m not getting enough emotional nourishment. All there was, was booze. I’m wondering where’s the meat (the substance). This ties to my last night’s worry thoughts about Victor’s alcohol consumption. 
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 [YourGuidingDreams.com](http://www.yourguidingdreams.com/) offers our [DreamScan™](http://www.yourguidingdreams.com/public/dreamscan.htm) (latest technology to instantly finding meanings to one-word symbols), for use as “thought-starters.’ DreamScan™, free to visitors on the site, is fun to use, and many of those meanings reflect the context of the dream.. HOWEVER, the best way to find “unique-to-the-individual” meanings is to go beyond one-word symbols to defining symbol phrases. YourGuidingDreams.com gives instructions to members for defining symbol phrases. The Dreamwork Systems Perspective PMID™ step 6 uses a dreamwork systems approach to understanding dreams about relationships. A dreamwork systems approach is mindful of family systemic models, except, instead of the family or other major relationships coming together in personal counseling sessions, an individual studies series of dreams about various major relationships, primarily the family. (See the PMID™ steps in the box).
 
@@ -90,43 +91,43 @@ To demonstrate the dreamwork systems perspective, we present a synopsis of Katha
 
 To set the background for the primary relationship issues Katharine faced, we take a couple sentences from Katharine’s first dreamwork. “I have recurrent emotions of guilt and responsibility. I often feel like I need to keep everyone happy and not cause conflict, and that I must take on other people’s views on certain things.” Then, well into her work with dreams, Katharine wrote, “A common thread (in my dreams) seems to be that I am not responsible for other people’s feelings and I cannot carry that burden of feeling like I need to make people feel a certain way.” Dream series follows: 
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 ### Dream One: “Family Crash.” 
 
 > *Katharine is driving, the whole family is in the car, she loses control and the car crashes. The night before the dream, Katherine felt guilty for letting her family down because she could not go with them to a football game.*
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 ### Dream Two: “Victorian Mansion.” 
 
 > *“Victorian vs. present day,” could symbolize being out of place… me caretaking my mom… which is out of place.” On one floor are children who “died at about age four.” “I can remember at a very young age, about four, being left at daycare, and being so upset that my mom was leaving, and wanting to cry, but not letting myself, because I knew that would make it hard for her to leave.” The night before this dream, Katharine worried about her mom’s “too quiet” attitude.*
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div> 
 
 ### Dream Three: “Blocked Path.” 
 
 > *Katharine is the only family member brave enough to leave the house to make a delivery to a neighbor.. Dead animals in her path (“possibly any negative emotions/ situations my family is unwilling to deal with”) prevent her from getting back to the family. The family watches with “we told you so” looks on their faces. “I feel guilty… and very alone… and scared.”*
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 ### Dream Four: “Bullets.”
 
 > *A roommate is shot. Katharine tries to stop the bleeding. The night before the dream, Katherine tried to stand up for a roommate who did not defend herself.*
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 ### Dream Five: “Going Back to High School”
 
 > A breakthrough dream. *Katharine gathers courage to give a dead cat back to a high school boyfriend after he leaves the dead cat in her locker. “As I walk back down the hall, I feel very relieved and freed.” The night before the dream the friend, now several years past high school, “pouted” when she declined a date with him, as he did during high school days. “I need to put Marshall’s childish behavior back on him and… refuse to carry around that worry.”*
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div> 
 
 ### Dream Six: “Painting in the Basement” 
 
 > -came one night after Katharine, for the first time, told a long-time friend, Paige, that she disapproved of Paige’s treatment of a young man. In the dream, *Katharine invites Paige to “paint in the basement.” Paige resists. “Me eventually going back upstairs:” “Represents me (Katharine) realizing I can’t force Paige to look deeper into herself….”*
 
-≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ 
+<div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 ### Dream Seven: “Nobody Believes Me” 
 

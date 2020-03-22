@@ -11,4 +11,4 @@ tags:
 type: post
 urlSlug: satisfy-the-image
 ---
-<img class="card-journal-img" src="../images/satisfy-the-image-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.satisfy-the-image.pdf" download="">Download</a><br><a href="../files/pdfs/Volume_publications/publications.satisfy-the-image.pdf">View online</a>
+<img class="card-journal-img" src="../images/satisfy-the-image-rect.jpg"/><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.satisfy-the-image.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.satisfy-the-image.pdf">View online</a></p>

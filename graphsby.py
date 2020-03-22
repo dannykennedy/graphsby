@@ -465,7 +465,7 @@ for pyyam in file_objects:
 		# Remove empty <p> tags
 		truncated_desc = re.sub("(<p></p>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 		# Remove break tags
-		truncated_desc = re.sub("(<br>)", "<span>&nbsp;</span>", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
+		truncated_desc = re.sub("(<br>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 		# Remove captions
 		truncated_desc = re.sub('<!--nopreview-->.*<!--/nopreview-->', "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 

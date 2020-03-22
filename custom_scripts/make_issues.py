@@ -82,8 +82,8 @@ for issue in issues:
 
     # newfile.write('<img class="card-journal-img" src="../images/' +
     #               imgName + '-rect.jpg"/>')
-    newfile.write('<a href="../files/pdfs/Volume_' + volume_number_str +
-                  '/' + pdfName + '" download="">Download issue ' + imgName + '</a>')
-    newfile.write('<br><a href="../files/pdfs/Volume_' + volume_number_str +
-                  '/' + pdfName + '">View online</a>')
+    newfile.write('<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_' + volume_number_str +
+                  '/' + pdfName + '" download="">Download issue ' + imgName + '</a></p>')
+    newfile.write('<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_' + volume_number_str +
+                  '/' + pdfName + '">View online</a></p>')
     newfile.close()

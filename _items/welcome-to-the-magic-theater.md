@@ -11,4 +11,4 @@ tags:
 type: post
 urlSlug: welcome-to-the-magic-theater
 ---
-<img class="card-journal-img" src="../images/welcome-to-the-magic-theater-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.welcome-to-the-magic-theater.pdf" download="">Download</a><br><a href="../files/pdfs/Volume_publications/publications.welcome-to-the-magic-theater.pdf">View online</a>
+<img class="card-journal-img" src="../images/welcome-to-the-magic-theater-rect.jpg"/><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.welcome-to-the-magic-theater.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.welcome-to-the-magic-theater.pdf">View online</a></p>

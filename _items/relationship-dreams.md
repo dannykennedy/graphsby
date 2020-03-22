@@ -11,4 +11,4 @@ tags:
 type: post
 urlSlug: relationship-dreams
 ---
-<img class="card-journal-img" src="../images/relationship-dreams-rect.jpg"/><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a><br><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf">View online</a>
+<img class="card-journal-img" src="../images/relationship-dreams-rect.jpg"/><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf">View online</a></p>

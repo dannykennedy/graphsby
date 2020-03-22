@@ -38,7 +38,7 @@
                         {% endfor %} {% endif %}
                     </div>
                     <div class="card-header-text" style="padding-left: {{10 + (render_item.authors|length -1 ) * 60}}px">
-                            <div class="card-author" style="font-size: 1.1em">
+                            <div class="card-author" style="font-size: 1.2em">
 
                                     {% if render_item.authors %} {% for author in render_item.authors
                                         %}
@@ -48,7 +48,7 @@
                                         <span>{{author.name}}</span>
                                     {% endfor %} {% endif %}
                             </div>
-                            <div class="card-date" style="font-size: 1.1em">
+                            <div class="card-date" style="font-size: 1.2em">
                                 {% if render_item.dateString %}
                                 {{render_item.dateString}}
                                 {% endif %}

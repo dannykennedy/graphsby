@@ -12,10 +12,10 @@ tags:
 type: post
 urlSlug: "awakening-personal-meanings-with-symbol-phrases-systems-effects-and-more"
 ---
-<img src="../images/post-bcpov6zphras-0.png" alt="Duesbury and Bynum" width="500" height="auto"/>
+<img src="../images/post-bcpov6zphras-0.jpg" alt="Duesbury and Bynum" width="500" height="auto"/>
 
 <br>
-Many of us use dream dictionaries for finding meanings to one- word symbols. One-word symbol meanings can be helpful and fun to use, but there is also danger of taking dream dictionary meanings as absolute. Dream symbol meanings often vary depending on particular situations, and vary greatly from person to person, which is why understanding your own personal meanings for dream symbols is so important to interpreting your own dreams. 
+Many of us use dream dictionaries for finding meanings to one-word symbols. One-word symbol meanings can be helpful and fun to use, but there is also danger of taking dream dictionary meanings as absolute. Dream symbol meanings often vary depending on particular situations, and vary greatly from person to person, which is why understanding your own personal meanings for dream symbols is so important to interpreting your own dreams. 
 
 An important key in understanding your own dream symbolism and your personal meanings in dreams are what we call “symbol phrases” — learning the meanings of your symbols by examining the context beyond simple one-word objects. To understand the importance of symbol phrases just consider how often we use context in our waking life. Even a simple “Hello” can carry infinite meanings based on the event that precipitates this one-word greeting, the listener’s thoughts and attitudes about the person speaking, and so on. The same is just as true for dreams. 
 
@@ -72,6 +72,8 @@ Next are examples of symbol phrases that dreamers selected from their dreams. Fo
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
 [YourGuidingDreams.com](http://www.yourguidingdreams.com/) offers our [DreamScan™](http://www.yourguidingdreams.com/public/dreamscan.htm) (latest technology to instantly finding meanings to one-word symbols), for use as “thought-starters.’ DreamScan™, free to visitors on the site, is fun to use, and many of those meanings reflect the context of the dream.. HOWEVER, the best way to find “unique-to-the-individual” meanings is to go beyond one-word symbols to defining symbol phrases. YourGuidingDreams.com gives instructions to members for defining symbol phrases. The Dreamwork Systems Perspective PMID™ step 6 uses a dreamwork systems approach to understanding dreams about relationships. A dreamwork systems approach is mindful of family systemic models, except, instead of the family or other major relationships coming together in personal counseling sessions, an individual studies series of dreams about various major relationships, primarily the family. (See the PMID™ steps in the box).
+
+<img src="../images/post-bcpov6zphras-1.jpg" alt="YourGuidingDreams.com" width="500" height="auto"/>
 
 ## Personalized Method for Interpretation Dreams (PMID™) Steps
 

@@ -8,6 +8,11 @@
 }
 
 #post .item-card p {
-	font-family: Lora,serif;
-	line-height: 1.4em
+  font-family: Lora, serif;
+  line-height: 1.4em;
+}
+
+#post .item-card li {
+  font-family: Lora, serif;
+  line-height: 1.4em;
 }

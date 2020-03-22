@@ -27,6 +27,7 @@ Since our personal mythology has its roots in the ways we learned to make sense 
 While personal myths shape our awareness, they themselves operate largely outside of ordinary consciousness. It is possible, however, to willfully bring many aspects of our personal mythology into our awareness. Because it is the nature of dreams to expose and puncture dysfunctional personal myths and to shed light on the self-deceptive strategies we use to avoid initiating a more functional pattern of behavior dream appreciation can be one of the most effective means of bringing these myths into conscious awareness. Awakening to the mythic dimension of our lives is to achieve the freedom to inspect and revise that wh ich for most people controls them unaware. 
 
 <img src="../images/post-bcpov6kmyth1-0.jpg" alt="Family sleeping in bed" width="500" height="auto"/>
+<div class="caption" style="text-align: center;"><i>Christopher Ryan relaxing on his veranda in Spain.</i></div>
 
 We can develop a categorization system which describes several aspects of dreams in this ongoing dialectic. A particular dream may include one or more of the aspects outlined below. For people who have learned to understand inner events in terms of personal mythology, this can be a useful framework for understanding their dreams. 
 

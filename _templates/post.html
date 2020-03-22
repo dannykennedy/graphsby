@@ -42,10 +42,7 @@
 
                                     {% if render_item.authors %} {% for author in render_item.authors
                                         %}
-                                        {% if loop.index > 1 %}
-                                        <span>,</span>
-                                        {% endif %}
-                                        <span>{{author.name}}</span>
+                                        <span>{% if loop.index > 1 %}, {% endif %}{{author.name}}</span>
                                     {% endfor %} {% endif %}
                             </div>
                             <div class="card-date" style="font-size: 1.2em">

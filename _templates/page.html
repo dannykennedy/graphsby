@@ -94,12 +94,12 @@
                                                     {% endif %}
 
                                                     <span>
-                                                    {% if author.name|length < 18 %}
+                                                    {% if author.name|length < 21 %}
                                                     {{author.name}}
                                                     {% elif post.authors|length < 2 %}
                                                     {{author.name}}
                                                     {% else %}
-                                                    {{ author.name[:-((author.name|length) - 18)] + "..."}}
+                                                    {{ author.name[:-((author.name|length) - 21)] + "..."}}
                                                     {% endif %}
                                                     </span>
 

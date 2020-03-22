@@ -85,7 +85,7 @@
   padding-left: 20px;
   grid-template-rows: 50% 50%;
   display: inline-block;
-  max-width: 300px;
+  font-size: 0.9em;
 }
 
 .post-author-img {
@@ -141,3 +141,60 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+
+/* TOOLTIP TEXT */
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 3;
+    /* Top tooltip */
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+    /* Use half of the width (120/2 = 60), to center the tooltip */
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+.tooltip .tooltiptext::after {
+    content: " ";
+    position: absolute;
+    top: 100%;
+    /* At the bottom of the tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+}
+.graph-tooltip {
+    position: absolute;
+    background: black;
+    color: #fff;
+    opacity: 0;
+    padding: 5px;
+    pointer-events: none !important;
+    font-size: 1em;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 100;
+    -webkit-font-smoothing: antialiased;
+    border-radius: 6px;
+}
+
+/* END TOOLTIP */
+
+
+

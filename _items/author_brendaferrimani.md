@@ -7,7 +7,7 @@ name: "Brenda Ferrimani"
 shortDescription: ""
 tags:
 date: 2015-03-24
-profileImg: brendaferrimani.jpg
+profileImg: author-brendaferrimani.jpg
 ---
 
 Website: [brendaferrimanidreamart.com](https://brendaferrimanidreamart.com/)

@@ -7,17 +7,18 @@
             <div class="card-header">
                 <div class="card-user-info">
                     <div class="card-avatar tooltip">
+                        {% if render_item.authors %} {% for author in render_item.authors %}
                         <div
                             class="avatar-photo"
-                            style="background-color: rgb(246, 173, 97);"
+                            style="background-color: rgb(246, 173, 97); position: absolute; left: {{(loop.index-1) * 50}}px"
                         >
                         {% if render_item.authors %}
                         <a
-                        href="{{site_url + '/' + render_item.authors[0].tagLink}}"
+                        href="{{site_url + '/' + author.tagLink}}"
                         >
 
-                        <img src="{{'../images/' + render_item.authors[0].profileImg}}"
-                            alt="{{render_item.authors[0].name}}"
+                        <img src="{{'../images/thumb-' + author.profileImg}}"
+                            alt="{{author.name}}"
                             class="post-author-img">
                         </a>
                         {% else %}
@@ -30,29 +31,29 @@
                             {% endif %}
 
                             <span class="tooltiptext">
-                                {% if render_item.authors %} {% for author in render_item.authors
-                                    %}
                                     {{author.name}}
-                                    {% endfor %} {% endif %}
                             </span>
 
                         </div>
+                        {% endfor %} {% endif %}
                     </div>
-                    <div class="card-header-text">
-                        <div class="card-author">
+                    <div class="card-header-text" style="padding-left: {{10 + (render_item.authors|length -1 ) * 60}}px">
+                            <div class="card-author" style="font-size: 1.1em">
 
-                                {% if render_item.authors %} {% for author in render_item.authors
-                                    %}
-                                    <span>{{author.name}}</span>
-
+                                    {% if render_item.authors %} {% for author in render_item.authors
+                                        %}
+                                        {% if loop.index > 1 %}
+                                        <span>,</span>
+                                        {% endif %}
+                                        <span>{{author.name}}</span>
                                     {% endfor %} {% endif %}
+                            </div>
+                            <div class="card-date" style="font-size: 1.1em">
+                                {% if render_item.dateString %}
+                                {{render_item.dateString}}
+                                {% endif %}
+                            </div>
                         </div>
-                        <div class="card-date">
-                            {% if render_item.dateString %}
-                            {{render_item.dateString}}
-                            {% endif %}
-                        </div>
-                    </div>
                 </div>
             </div>
             <div class="card-body">

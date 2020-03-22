@@ -882,7 +882,7 @@ ns1:bcphbq3ferr a ns1:User ;
     ns1:itemId "bcphbq3ferr"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Brenda Ferrimani"^^xsd:string ;
-    ns1:profileImg "brendaferrimani.jpg"^^xsd:string .
+    ns1:profileImg "author-brendaferrimani.jpg"^^xsd:string .
 
 ns1:bcphbq3xymn a ns1:Post ;
     ns1:coverImg "13.3-cover.jpg"^^xsd:string ;
@@ -4517,7 +4517,7 @@ ns1:bcphbq3bayl a ns1:User ;
     ns1:itemId "bcphbq3bayl"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Janice Baylis"^^xsd:string ;
-    ns1:profileImg "janicebaylis.jpg"^^xsd:string .
+    ns1:profileImg "author-janicebaylis.jpg"^^xsd:string .
 
 ns1:bcphbq3curt a ns1:User ;
     ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of The Seven Story Tower: A Mythic Journey through Space and Time, and Stone Prayers, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.</p>
@@ -4596,7 +4596,7 @@ ns1:bcphbq3mcle a ns1:User ;
     ns1:itemId "bcphbq3mcle"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dick McLeester"^^xsd:string ;
-    ns1:profileImg "dickmcleester.jpg"^^xsd:string .
+    ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
 
 ns1:bcphbq3mild a ns1:User ;
     ns1:description """<p></p>

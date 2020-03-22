@@ -455,6 +455,7 @@ for pyyam in file_objects:
 		# Remove lists
 		truncated_desc = re.sub("(<ol.*?ol>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 		truncated_desc = re.sub("(<ul.*?ul>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
+		truncated_desc = re.sub("(<li.*?li>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 		# Remove hr
 		truncated_desc = re.sub("(<hr>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
 		# Remove images

@@ -7,7 +7,7 @@ name: "Janice Baylis"
 shortDescription: ""
 tags:
 date: 2015-03-24
-profileImg: janicebaylis.jpg
+profileImg: author-janicebaylis.jpg
 ---
 
 "Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." Stanley Krippner, PhD. Professor of Psychology, Saybrook University

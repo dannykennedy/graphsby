@@ -52,18 +52,20 @@
                         <div class="inner-card">
                             <div class="card-header">
                                 <div class="card-user-info">
+                                    
                                     <div class="card-avatar tooltip">
+                                        {% if post.authors %} {% for author in post.authors %}
                                         <div
                                             class="avatar-photo"
-                                            style="background-color: rgb(246, 173, 97);"
+                                            style="background-color: rgb(246, 173, 97); position: absolute; left: {{(loop.index-1) * 20}}px"
                                         >
                                         {% if post.authors %}
                                         <a
-                                        href="{{site_url + '/' + post.authors[0].tagLink}}"
+                                        href="{{site_url + '/' + author.tagLink}}"
                                         >
 
-                                        <img src="{{'../images/thumb-' + post.authors[0].profileImg}}"
-                                            alt="{{post.authors[0].name}}"
+                                        <img src="{{'../images/thumb-' + author.profileImg}}"
+                                            alt="{{author.name}}"
                                             class="post-author-img">
                                         </a>
                                         {% else %}
@@ -75,23 +77,33 @@
                                             </div>
                                             {% endif %}
 
-                                            <span class="tooltiptext">
-                                                {% if post.authors %} {% for author in post.authors
-                                                    %}
+                                            <!-- <span class="tooltiptext">
                                                     {{author.name}}
-                                                    {% endfor %} {% endif %}
-                                            </span>
+                                            </span> -->
 
                                         </div>
+                                        {% endfor %} {% endif %}
                                     </div>
-                                    <div class="card-header-text">
+                                    <div class="card-header-text" style="padding-left: {{10 + (post.authors|length -1 ) * 20}}px">
                                         <div class="card-author">
 
                                                 {% if post.authors %} {% for author in post.authors
                                                     %}
-                                                    <span>{{author.name}}</span>
+                                                    {% if loop.index > 1 %}
+                                                    <span>,</span>
+                                                    {% endif %}
 
-                                                    {% endfor %} {% endif %}
+                                                    <span>
+                                                    {% if author.name|length < 18 %}
+                                                    {{author.name}}
+                                                    {% elif post.authors|length < 2 %}
+                                                    {{author.name}}
+                                                    {% else %}
+                                                    {{ author.name[:-((author.name|length) - 18)] + "..."}}
+                                                    {% endif %}
+                                                    </span>
+
+                                                {% endfor %} {% endif %}
                                         </div>
                                         <div class="card-date">
                                             {% if post.dateCreated %}

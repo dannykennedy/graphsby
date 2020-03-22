@@ -1632,7 +1632,7 @@ ns1:bcpov6kmyth1 a ns1:Post ;
 
 <hr>
 
-<p><em>For further exploration of the concepts and techniques presented in this article, please see The Mythic Path by D. Feinstein and S. Krippner, New York: Putnam/Tarcher, 1997. The second part of this essay , appearing in a future issue of Dream Network Journal, will apply these techniques of dream appreciation to some well-known popular songs in which dreams are presented.</em></p>
+<p><em>For further exploration of the concepts and techniques presented in this article, please see The Mythic Path by D. Feinstein and S. Krippner, New York: Putnam/Tarcher, 1997. The <a href="../bcpov6kmyth2">second part of this essay</a> applies these techniques of dream appreciation to some well-known popular songs in which dreams are presented.</em></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3krip,
         ns1:bcphbq3ryan ;

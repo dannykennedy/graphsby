@@ -1262,20 +1262,6 @@ ns1:bcphbuzcgu3 a ns1:Post ;
     ns1:profileImg "20.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "20.4"^^xsd:string .
 
-ns1:bcphbv3fbuv a ns1:Post ;
-    ns1:coverImg "23.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2004-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><a href="../files/pdfs/Volume_23/23.1_dance.pdf" download="">Download issue 23.1</a><br><a href="../files/pdfs/Volume_23/23.1_dance.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobxze6k ;
-    ns1:itemId "bcphbv3fbuv"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 23, issue 1: Dancing the Dream Awake"^^xsd:string ;
-    ns1:profileImg "23.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "23.1"^^xsd:string .
-
 ns1:bcphbv6y2vp a ns1:Post ;
     ns1:coverImg "23.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2004-04-01T11:32:52"^^xsd:dateTime ;
@@ -3655,6 +3641,192 @@ ns1:bcpov6zmytoz a ns1:Post ;
     ns1:name "In the Land of Oz"^^xsd:string ;
     ns1:urlSlug "in-the-land-of-oz"^^xsd:string .
 
+ns1:bcpov6zphras a ns1:Post ;
+    ns1:dateCreated "2004-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zfamil-0.jpg" alt="Family sleeping in bed" width="500" height="auto"/></p>
+
+<p><br></p>
+
+<p>Many of us use dream dictionaries for finding meanings to one- word symbols. One-word symbol meanings can be helpful and fun to use, but there is also danger of taking dream dictionary meanings as absolute. Dream symbol meanings often vary depending on particular situations, and vary greatly from person to person, which is why understanding your own personal meanings for dream symbols is so important to interpreting your own dreams. </p>
+
+<p>An important key in understanding your own dream symbolism and your personal meanings in dreams are what we call “symbol phrases” — learning the meanings of your symbols by examining the context beyond simple one-word objects. To understand the importance of symbol phrases just consider how often we use context in our waking life. Even a simple “Hello” can carry infinite meanings based on the event that precipitates this one-word greeting, the listener’s thoughts and attitudes about the person speaking, and so on. The same is just as true for dreams. </p>
+
+<p>We will tell you more about symbol phrases later, but first a quick background of how we became co-researchers and how Evelyn became so deeply steeped in dreamwork that it led her to the six step Personalized Method for Interpreting Dreams (PMID™) (1) that she teaches and we research today. </p>
+
+<p>A dream about a “quiet Black man with an unshaven beard” led Evelyn to inquire of Bruce Bynum’s interest in helping research the PMID™ dream interpretation method. Dr. Bynum said yes. We now conduct ongoing projects with students; so you see our research is not limited to the experimental lab. Dreams accommodate to essentially any theory (2) and the PMID ™ dream interpretation method accommodates to essentially any type learning – especially self-facilitation. </p>
+
+<p>Evelyn’sÊdream about a “manycolored ‘dream’ cloth”Êover her shoulders (prompted by her husband’s question “Wonder if Ev’s dreams could be helpful to her”), gave her confidence to begin intense work with her dreams. In the process, Evelyn developed the PMID™ dream interpretation method. Although she was a highly rated accounting professor at the time, she followed her heart (and her dreams) into earning a counselor education masters degree to support her credibility for teaching dreamwork. Today teaching others how to interpret their own dreams is the “ loveliest and most fulfilling work I have done.” </p>
+
+<p>Now back to explaining what symbol phrases are and how they greatly accelerate your understanding of your dream symbols.</p>
+
+<h2>Awakening Personal Meanings with Symbol Phrases</h2>
+
+<p>We have found the dreamer’s ability to bridge the gap from defining one-word symbols to defining the phrase that contains the symbol is very often a major key to capturing the “unique-to- theindividual meanings.” An example of a one-word symbol is door. One universal meaning of the word, door, is “opportunity.” An example of a symbol phrase is “I lock the car doors,” which one dreamer understood to mean, “I think I have to protect myself from danger without my husband with me ‘on the road of life.’” Another dreamer understood “I closed the door” to mean he had overcome a difficult relationship issue that was represented in his dream. </p>
+
+<p>The phrase that contains the symbol helps the dreamer connect definitions to the context of the dream, the context being pre- dream events, pre-dream thoughts and experiences with people, places and objects. Selecting key symbol phrases is a judgment evaluation by the dreamer as to which dream phrases are the most personally meaningful. Dreamers’ spontaneous feelings are the best gages for knowing the relative accuracy of meanings she or he has developed. </p>
+
+<p>Next are examples of symbol phrases that dreamers selected from their dreams. For purposes of these examples, we added words to the definitions to show dreamers’ connections to the context of their dreams. </p>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<p>“Decide to be friendly with person:” Way to overcome trace of stressful emotions about the person in this dream is to think friendly thoughts about her. (She was also implicated in a dream that I revisited last night.) </p>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<p>“Did not spend time with my friend Sara Emerson:” Reprimands me for skipping meditation yesterday after I decided my uninterrupted work was more important. Sara’s last name “Emerson” reflects my appreciation for Ralph Waldo Emerson’s philosophy to think from the highest perspective, something meditation helps me do. </p>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<p>“Does not want to hear what I have to say:” Be cautious about reminiscing in remorseful ways. In the dream, a childhood friend thinks I am going to talk about activities that she might have been involved in. Last night I almost went into talking remorsefully about this friend. </p>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<p>“Finally tell Joleatha that I need to bring my spouse home:” Successful overcoming of unfounded worry thoughts about whether my spouse was upset by my actions early this morning. Joleatha tends toward gross overreaction. </p>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<p>“Healthy mom urges me to dress well:” After working through mothering issues, get on with wearing those personality characteristics. </p>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<p>“House being cold:” The sadness and heaviness that was felt throughout our house when we argued last night.</p>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<p>“I missed our very fine little girl friendship:” These words that I say to a childhood friend in the dream lets me know the true way I felt when my very fine childhood friend began preferring other friends. Last night I thought about the friendship but decided not to talk remorsefully about it. </p>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<p>“Lack of food:” Lack of food seemed to me to be saying I’m not getting enough emotional nourishment. All there was, was booze. I’m wondering where’s the meat (the substance). This ties to my last night’s worry thoughts about Victor’s alcohol consumption. </p>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<p><a href="http://www.yourguidingdreams.com/">YourGuidingDreams.com</a> offers our <a href="http://www.yourguidingdreams.com/public/dreamscan.htm">DreamScan™</a> (latest technology to instantly finding meanings to one-word symbols), for use as “thought-starters.’ DreamScan™, free to visitors on the site, is fun to use, and many of those meanings reflect the context of the dream.. HOWEVER, the best way to find “unique-to-the-individual” meanings is to go beyond one-word symbols to defining symbol phrases. YourGuidingDreams.com gives instructions to members for defining symbol phrases. The Dreamwork Systems Perspective PMID™ step 6 uses a dreamwork systems approach to understanding dreams about relationships. A dreamwork systems approach is mindful of family systemic models, except, instead of the family or other major relationships coming together in personal counseling sessions, an individual studies series of dreams about various major relationships, primarily the family. (See the PMID™ steps in the box).</p>
+
+<h2>Personalized Method for Interpretation Dreams (PMID™) Steps</h2>
+
+<p><strong>Step 1:</strong> Connect your dream contents to current events and circumstances (most often, same day) to determine the context or theme of your dream. </p>
+
+<p><strong>Step 2:</strong> Connect your pre-dream thoughts (most often, same day) to your dream contents by treating the dream as a responsive answer to your pre-dream thoughts. </p>
+
+<p><strong>Step 3:</strong> Develop your personal experienced-based definitions of dream symbol/symbol phrase meanings (or associations about) each dream character, place, object or circumstance. </p>
+
+<p><strong>Step 4:</strong> Explore the emotions you felt during your dream. Compare to your waking emotions. Also, periodically compare to previous dreams for changes in emotions over time about a relationship or issue being studied. </p>
+
+<p><strong>Step 5:</strong> Explore dream for possible suggestions of how to change thoughts, attitudes or behavior leading to understanding and reduction of key issues. </p>
+
+<p><strong>Step 6:</strong> Who is the primary relationship in this dream? Comment on your dreaming reactions to/ relationship with any person(s) in this dream. Also, comment on whether this dream reflects current effects from past or recent experiences with another or others. If so, compare how you related/reacted in the past with your current reactions in similar circumstances. </p>
+
+<p>To demonstrate the dreamwork systems perspective, we present a synopsis of Katharine’s series of dreams. After each of the first four dreams and interpretations, Evelyn gave feedback (through the instructor-facilitated university course) on Katharine’s PMID method use. Katharine interpreted her remaining dreams without facilitation. </p>
+
+<p>To set the background for the primary relationship issues Katharine faced, we take a couple sentences from Katharine’s first dreamwork. “I have recurrent emotions of guilt and responsibility. I often feel like I need to keep everyone happy and not cause conflict, and that I must take on other people’s views on certain things.” Then, well into her work with dreams, Katharine wrote, “A common thread (in my dreams) seems to be that I am not responsible for other people’s feelings and I cannot carry that burden of feeling like I need to make people feel a certain way.” Dream series follows: </p>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<h3>Dream One: “Family Crash.”</h3>
+
+<blockquote>
+  <p><em>Katharine is driving, the whole family is in the car, she loses control and the car crashes. The night before the dream, Katherine felt guilty for letting her family down because she could not go with them to a football game.</em></p>
+</blockquote>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<h3>Dream Two: “Victorian Mansion.”</h3>
+
+<blockquote>
+  <p><em>“Victorian vs. present day,” could symbolize being out of place… me caretaking my mom… which is out of place.” On one floor are children who “died at about age four.” “I can remember at a very young age, about four, being left at daycare, and being so upset that my mom was leaving, and wanting to cry, but not letting myself, because I knew that would make it hard for her to leave.” The night before this dream, Katharine worried about her mom’s “too quiet” attitude.</em></p>
+</blockquote>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<h3>Dream Three: “Blocked Path.”</h3>
+
+<blockquote>
+  <p><em>Katharine is the only family member brave enough to leave the house to make a delivery to a neighbor.. Dead animals in her path (“possibly any negative emotions/ situations my family is unwilling to deal with”) prevent her from getting back to the family. The family watches with “we told you so” looks on their faces. “I feel guilty… and very alone… and scared.”</em></p>
+</blockquote>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<h3>Dream Four: “Bullets.”</h3>
+
+<blockquote>
+  <p><em>A roommate is shot. Katharine tries to stop the bleeding. The night before the dream, Katherine tried to stand up for a roommate who did not defend herself.</em></p>
+</blockquote>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<h3>Dream Five: “Going Back to High School”</h3>
+
+<blockquote>
+  <p>A breakthrough dream. <em>Katharine gathers courage to give a dead cat back to a high school boyfriend after he leaves the dead cat in her locker. “As I walk back down the hall, I feel very relieved and freed.” The night before the dream the friend, now several years past high school, “pouted” when she declined a date with him, as he did during high school days. “I need to put Marshall’s childish behavior back on him and… refuse to carry around that worry.”</em></p>
+</blockquote>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<h3>Dream Six: “Painting in the Basement”</h3>
+
+<blockquote>
+  <p>-came one night after Katharine, for the first time, told a long-time friend, Paige, that she disapproved of Paige’s treatment of a young man. In the dream, <em>Katharine invites Paige to “paint in the basement.” Paige resists. “Me eventually going back upstairs:” “Represents me (Katharine) realizing I can’t force Paige to look deeper into herself….”</em></p>
+</blockquote>
+
+<p>≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈ </p>
+
+<h3>Dream Seven: “Nobody Believes Me”</h3>
+
+<blockquote>
+  <p>(a dream she had before the course, but was “too freaked out” to work with it, came again during the course). <em>Katharine first watches a sister bury a dead person in the back yard. Finally, Katharine comes out from “ Hiding behind a bush: My own fear of not knowing how to confront my sister” and “Stands next to my sister: This represents me confronting my sister, but also supporting her with this problem.” Before the dream, Katharine asked her parents to talk with this daughter about a disorder that seemed quite plain to Katharine. “They didn’t believe me.”</em> (They don’t believe her in the dream either.) </p>
+</blockquote>
+
+<p><strong>(Dreamer’s Summary):</strong> “Common with other dreams is the focus on me expressing myself more even if it is scary because I am not used to it. In “Family Crash,” I am in the driver’s seat, and in the “Blocked Path” dream, I am the one to be brave, and in “Nobody Believes Me,” I am the one to take charge and go stand by my sister. This message is very clear to me that I have the power to change things that I don’t like, even if I may not necessarily change how others respond. I can change my own actions, which does affect the system.” </p>
+
+<p>A major aim for the PMID™ method is to help people in the current generation make healthful differences in their own lives, thus terminating potential unhealthful patterns. For several years, coauthor E. Bruce Bynum has suggested a “personalized” view of an extended familial system. In his explorations of dreams with individuals and with families in therapy, he has found people in close association, such as the family, resonate with each other in such a way that dreams of each family member express the family’s emotional situations. This shared matrix that exists within and between us, interlaces us all in an enfolding field, in a Family Unconscious. Though dreams of each family member reflect the family constellation, individual’s dreams differ, depending on the individual’s particular skew or perception of the family constellation and conflicts (4, 5). </p>
+
+<p>Though we concentrate on relationship dreams, the PMID™ Method is equally useful for “everyday” guidance in common activities, such as home, work, recreation, career, education, and health. Simply eliminate PMID™ Step 6. Examples of what we call everyday dreams are the two dreams published by Dream Network (6).</p>
+
+<h2>How to Become Involved in Understanding Your Dreams with the PMID™ Method</h2>
+
+<p>Would you like to use the Personalized Method for Interpreting Dreams (PMID™) as you record your dreams in your personal dream journal? If yes, use the six steps shown earlier in this article.</p>
+
+<p>Or, would you like to use one of <a href="http://www.yourguidingdreams.com/">www.YourGuidingDreams.com</a> options to help you work with the PMID™ dream interpretation method? If yes, go to <a href="http://www.yourguidingdreams.com/">www.YourGuidingDreams.com</a> to select from these two options. </p>
+
+<p>Both options are very user friendly:</p>
+
+<ol>
+
+<li>Public Membership. Dreamer Self-faciltated, the public option is not an education credit course. Applicants enter and leave when they wish. Some functions for Public Membership are: 
+
+<ol type="a">
+
+<li>Record and interpret your dreams using the computer-guided steps of the PMID™ dream interpretation method.</li>
+
+<li>Participate in discussions on a discussion board.</li>
+
+<li>Dream files by date, title, and relationship, automatically created.</li>
+
+<li>Your symbol/symbol phrase definitions automatically compiled in your personal directory.</li>
+
+</ol>
+
+<p></li></p>
+
+<p><li>University Level Courses - Instructorfacilitated through the University of WisconsinWhitewater available at graduate and undergraduate levels to counselor education, social work, psychology, and sociology majors or graduates. Outof-state Tuition rates apply to all states except Wisconsin and states with reciprocity agreements. </p>
+
+<p></li></p>
+
+<p></ol></p>
+
+<p>To sign-up for either option, click on Sign-up from the home page of www.yourguidingdreams.com. Dreams are “personal.” Your dreams are personal. All member dreams and interpretations are kept confidential and are available for viewing only by the individual dreamer member and select members of YourGuidingDreams staff. Whether you use the website, or record your dreams in a journal, the PMID™ dream interpretation method could benefit you. Think about it. You likely already sense that many of your pre- dream events and thoughts connect to your dreams. You possibly have heard about comparing dreaming emotions and waking emotions, and that dreams contain solutions. The PMID™ dream interpretation method does all those and more—from inviting you to define dream symbol phrases based on personal experiences, to inviting you to explore whether stressful reactions to others stem from your reactions in prior experiences. ℘ References: (1) Duesbury, E. (2000). Utilizing Dreams from a Systemic Perspective to Understand and Mollify Relationship Issues, University of Wisconsin-Whitewater (2) Duesbury, E. (2001). Personalized Method for Interpreting Dreams (PMID) – As Applied to Relationship Issues. Dreaming: Journal of the Association for the Study of Dreams, 11(4), 203- 216. (3 Mahrer, A. R. (1989). Dreamwork in Psychotherapy and Self- Change (4) Bynum, E. B. (1993/2003). Families and the Interpretation of Dreams: Awakening the Intimate Web. NY: Paraview Books. (5) Bynum, E. B. (1984). The Family Unconscious. Wheaton, IL: The Theosophical Publishing House. (6) Duesbury, E. Dream Network. Vol. 13, 2 Professor Uses Dreams as Guides in Working with Students</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3dues,
+        ns1:bcphbqbynum ;
+    ns1:hasTag ns1:bcphbq3dues,
+        ns1:bcphbqbynum,
+        ns1:bcphbv3fbuv ;
+    ns1:itemId "bcpov6zphras"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Awakening Personal Meanings with Symbol Phrases, Systems Effects, and More"^^xsd:string ;
+    ns1:urlSlug "awakening-personal-meanings-with-symbol-phrases-systems-effects-and-more"^^xsd:string .
+
 ns1:bcpov6zprofe a ns1:Post ;
     ns1:dateCreated "1994-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>In my work as an accounting professor I am catching fascinating glimpses of an ever-present Counselor who has finally caught my attention by speaking to me in my dreams. </p>
@@ -4090,6 +4262,20 @@ ns1:bcphbugth7l a ns1:Post ;
     ns1:profileImg "19.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "19.2"^^xsd:string .
 
+ns1:bcphbv3fbuv a ns1:Post ;
+    ns1:coverImg "23.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2004-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="../files/pdfs/Volume_23/23.1_dance.pdf" download="">Download issue 23.1</a><br><a href="../files/pdfs/Volume_23/23.1_dance.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobxze6k ;
+    ns1:itemId "bcphbv3fbuv"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 23, issue 1: Dancing the Dream Awake"^^xsd:string ;
+    ns1:profileImg "23.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "23.1"^^xsd:string .
+
 ns1:bcphbvjopd2 a ns1:Post ;
     ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
@@ -4324,23 +4510,6 @@ ns1:bcphbq3curt a ns1:User ;
     ns1:name "Curtiss Hoffman"^^xsd:string ;
     ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
 
-ns1:bcphbq3dues a ns1:User ;
-    ns1:description """<p>Websites: <a href="http://www.yourguidingdreams.com/">yourguidingdreams.com</a>, <a href="https://www.livingdreams.life/">livingdreams.life</a></p>
-
-<p>Evelyn Duesbury is a National Certified Counselor (NCC), a Board Certified TeleMental Health Provider (BC-TMH-CCE), and a Licensed Professional Counselor (LPC). She is a member of the American Counseling Association (ACA), the American Psychological Association (APA), the International Association of Marriage and Family Counselors (IAMFC), the International Association for the Study of Dreams (IASD), and The Honor Society of Phi Kappa Phi.</p>
-
-<p>Duesbury’s earlier careers included working as a private secretary for patent attorneys, bankers, accountants, and general practice attorneys. After earning a B.A. in accounting and an MBA, she became a public accountant, then changed careers to education as an associate professor of accounting at the University of Wisconsin-Platteville. In 2000, Duesbury’s master of counselor education thesis, “Utilizing Dreams from a Systemic Perspective to Understand and Mollify Relationship Issues,” received the University of Wisconsin-Whitewater’s Outstanding Thesis Award. Since that time Duesbury and colleagues researched and explored her thesis-based Personalized Method for Interpreting Dreams (PMID) for seven additional projects. During those years, Duesbury developed and taught a distance education course to counselors on how to use her PMID model. The course guide that she wrote for her distance education class is the foundation for The Counselor’s Guide for Facilitating the Interpretation of Dreams: Family and Other Relationship Systems Perspectives.</p>
-
-<p>Before writing The Counselor’s Guide for Facilitating the Interpretation of Dreams Duesbury worked on other projects. First, with assistance from her son, a writer, and consultation from E. B. Bynum, a clinical psychologist, Duesbury published a self-help book for the general population titled Living Dreams, Living Life, a Practical Guide to Understanding Your Dreams and How They Can Change Your Waking-Life. One night, after thinking about updating her distance education course guide, she thought to herself, “I am so occupied that I am unable to give time to my own dreams the way I want.” The next morning she woke with a dream that persuaded her to put her plans of working exclusively with her own dreams on hold. In the dream, her former accounting advisor suggested (in dream language) that she should transform her distance counseling course book into a “universal systems book.”</p>
-
-<p>In waking-life several years earlier, an advisor had told Duesbury he had taken several positions to prepare him to do what he loves, teach. Duesbury likewise discovered that she loves to teach. She loves to show others how to use their dreams to improve their lives.</p>
-"""^^xsd:string ;
-    ns1:handle "evelynduesbury"^^xsd:string ;
-    ns1:itemId "bcphbq3dues"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Evelyn Duesbury"^^xsd:string ;
-    ns1:profileImg "author-evelyn-duesbury.jpg"^^xsd:string .
-
 ns1:bcphbq3gras a ns1:User ;
     ns1:description """<p>Lorraine Grassano was born in Paterson, New Jersey in 1951 and graduated from Rutgers University with a B.A. in Journalism. She has been an Acquisitions Editor for Spinster/Aunt Lute Press and writer and Copy Editor for Dream Network Journal. She was founding editor of The Gay Old Times, The Lavender Express, and Natural Lighting.</p>
 
@@ -4513,21 +4682,6 @@ ns1:bcphbq3spar a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "David Sparenberg"^^xsd:string ;
     ns1:profileImg "author-david-sparenberg.jpg"^^xsd:string .
-
-ns1:bcphbqbynum a ns1:User ;
-    ns1:description """<p>Website: <a href="http://www.obeliskfoundation.com/">obeliskfoundation.com</a></p>
-
-<p>Books: <a href="https://www.amazon.com/Edward-Bruce-Bynum/e/B001K7WMXU?ref=sr_ntt_srch_lnk_1&amp;qid=1584830830&amp;sr=8-1">amazon.com/Edward-Bruce-Bynum</a></p>
-
-<p>Dr. Bynum is the author of numerous clinical articles in scientific journals, four texts in psychology and two in poetry. His most recent texts in psychology are The African Unconscious: Roots of Ancient Mysticism And Modern Psychology (Cosimo Books), Families And The Interpretation of Dreams (Paraview Special Books) and DARK LIGHT CONSCIOUSNESS (Inner Traditions &amp; Bear Company). He is the producer of a ten part audio lecture series on science, psychology, spirituality and African psycho-historical and philosophical systems. He is a frequent speaker at national and international conferences and has appeared on radio, television and in documentaries. His research interests include depth psychology as it pertains to neuroscience, neuromelanin, consciousness research, as well as the analysis of dreams, family dynamics, the philosophy of science, ancient history, anthropology-archaeology and yoga. </p>
-
-<p>Dr. Bynum is the recepient of the Abraham H. Maslow Award of the Division of Humanistic Psychology of the American Psychological Association for "outstanding and lasting contributions to the exploration of the fartherest reaches of human spirit". He is married and the father of two sons. He lives in the Amherst Massachusetts area and is a practitioner of kundalini yoga.</p>
-"""^^xsd:string ;
-    ns1:handle "edwardbrucebynum"^^xsd:string ;
-    ns1:itemId "bcphbqbynum"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Edward Bruce Bynum, Ph.D., ABPP"^^xsd:string ;
-    ns1:profileImg "author-edward-bynum.jpg"^^xsd:string .
 
 ns1:bcphbxplpmw a ns1:Post ;
     ns1:coverImg "26.4-cover.jpg"^^xsd:string ;
@@ -4728,6 +4882,23 @@ ns1:bcphbq3asay a ns1:User ;
     ns1:name "Ann Sayre Wiseman"^^xsd:string ;
     ns1:profileImg "author-ann-sayre-wiseman.jpg"^^xsd:string .
 
+ns1:bcphbq3dues a ns1:User ;
+    ns1:description """<p>Websites: <a href="http://www.yourguidingdreams.com/">yourguidingdreams.com</a>, <a href="https://www.livingdreams.life/">livingdreams.life</a></p>
+
+<p>Evelyn Duesbury is a National Certified Counselor (NCC), a Board Certified TeleMental Health Provider (BC-TMH-CCE), and a Licensed Professional Counselor (LPC). She is a member of the American Counseling Association (ACA), the American Psychological Association (APA), the International Association of Marriage and Family Counselors (IAMFC), the International Association for the Study of Dreams (IASD), and The Honor Society of Phi Kappa Phi.</p>
+
+<p>Duesbury’s earlier careers included working as a private secretary for patent attorneys, bankers, accountants, and general practice attorneys. After earning a B.A. in accounting and an MBA, she became a public accountant, then changed careers to education as an associate professor of accounting at the University of Wisconsin-Platteville. In 2000, Duesbury’s master of counselor education thesis, “Utilizing Dreams from a Systemic Perspective to Understand and Mollify Relationship Issues,” received the University of Wisconsin-Whitewater’s Outstanding Thesis Award. Since that time Duesbury and colleagues researched and explored her thesis-based Personalized Method for Interpreting Dreams (PMID) for seven additional projects. During those years, Duesbury developed and taught a distance education course to counselors on how to use her PMID model. The course guide that she wrote for her distance education class is the foundation for The Counselor’s Guide for Facilitating the Interpretation of Dreams: Family and Other Relationship Systems Perspectives.</p>
+
+<p>Before writing The Counselor’s Guide for Facilitating the Interpretation of Dreams Duesbury worked on other projects. First, with assistance from her son, a writer, and consultation from E. B. Bynum, a clinical psychologist, Duesbury published a self-help book for the general population titled Living Dreams, Living Life, a Practical Guide to Understanding Your Dreams and How They Can Change Your Waking-Life. One night, after thinking about updating her distance education course guide, she thought to herself, “I am so occupied that I am unable to give time to my own dreams the way I want.” The next morning she woke with a dream that persuaded her to put her plans of working exclusively with her own dreams on hold. In the dream, her former accounting advisor suggested (in dream language) that she should transform her distance counseling course book into a “universal systems book.”</p>
+
+<p>In waking-life several years earlier, an advisor had told Duesbury he had taken several positions to prepare him to do what he loves, teach. Duesbury likewise discovered that she loves to teach. She loves to show others how to use their dreams to improve their lives.</p>
+"""^^xsd:string ;
+    ns1:handle "evelynduesbury"^^xsd:string ;
+    ns1:itemId "bcphbq3dues"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Evelyn Duesbury"^^xsd:string ;
+    ns1:profileImg "author-evelyn-duesbury.jpg"^^xsd:string .
+
 ns1:bcphbq3gong a ns1:User ;
     ns1:description """<p>Website: <a href="http://heartofthedream.com/">heartofthedream.com</a></p>
 
@@ -4791,6 +4962,21 @@ ns1:bcphbq3webb a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Craig Webb"^^xsd:string ;
     ns1:profileImg "author-craig-webb.jpg"^^xsd:string .
+
+ns1:bcphbqbynum a ns1:User ;
+    ns1:description """<p>Website: <a href="http://www.obeliskfoundation.com/">obeliskfoundation.com</a></p>
+
+<p>Books: <a href="https://www.amazon.com/Edward-Bruce-Bynum/e/B001K7WMXU?ref=sr_ntt_srch_lnk_1&amp;qid=1584830830&amp;sr=8-1">amazon.com/Edward-Bruce-Bynum</a></p>
+
+<p>Dr. Bynum is the author of numerous clinical articles in scientific journals, four texts in psychology and two in poetry. His most recent texts in psychology are The African Unconscious: Roots of Ancient Mysticism And Modern Psychology (Cosimo Books), Families And The Interpretation of Dreams (Paraview Special Books) and DARK LIGHT CONSCIOUSNESS (Inner Traditions &amp; Bear Company). He is the producer of a ten part audio lecture series on science, psychology, spirituality and African psycho-historical and philosophical systems. He is a frequent speaker at national and international conferences and has appeared on radio, television and in documentaries. His research interests include depth psychology as it pertains to neuroscience, neuromelanin, consciousness research, as well as the analysis of dreams, family dynamics, the philosophy of science, ancient history, anthropology-archaeology and yoga. </p>
+
+<p>Dr. Bynum is the recepient of the Abraham H. Maslow Award of the Division of Humanistic Psychology of the American Psychological Association for "outstanding and lasting contributions to the exploration of the fartherest reaches of human spirit". He is married and the father of two sons. He lives in the Amherst Massachusetts area and is a practitioner of kundalini yoga.</p>
+"""^^xsd:string ;
+    ns1:handle "edwardbrucebynum"^^xsd:string ;
+    ns1:itemId "bcphbqbynum"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Edward Bruce Bynum, Ph.D., ABPP"^^xsd:string ;
+    ns1:profileImg "author-edward-bynum.jpg"^^xsd:string .
 
 ns1:bcphbqvlach a ns1:User ;
     ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>

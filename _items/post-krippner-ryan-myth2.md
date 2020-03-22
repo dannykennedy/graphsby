@@ -21,7 +21,7 @@ A mythic crisis occurs when a prevailing myth becomes so outdated or otherwise d
 
 Because it is the nature of many dreams to expose and puncture dysfunctional personal myths and to shed light on the self-deceptive strategies we use to avoid initiating a more functional pattern of beha vior, dream appreciation can be one of the most effective means of bringing these myths into conscious awareness.
 
-A particular dream may include one or more of the following aspects: The dream may attempt to strengthen an old, self-limiting myth (particularly whe _n it is challenged) by 
+A particular dream may include one or more of the following aspects: The dream may attempt to strengthen an old, self-limiting myth (particularly when it is challenged), by: 
 <ol type="a">
 <li>emphasizing past experiences which formerly provided evidence for the validity of the old myth;</li> 
 <li>resolving conflicts between the old myth and daily experiences through the assimilation of these experiences into the structure of the old myth;</li>  

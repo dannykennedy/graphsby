@@ -1544,7 +1544,9 @@ ns1:bcphbzoxivb a ns1:Post ;
 
 ns1:bcpov6kfutur a ns1:Post ;
     ns1:dateCreated "1993-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/post-bcpov6kfutur-0.jpg" width="500" height="auto" alt="Russell Lockhart"/></p>
+    ns1:description """<p><img src="../images/post-bcpov6kfutur-0.jpg" width="400" height="auto" alt="Russell Lockhart"/></p>
+
+<p><br/></p>
 
 <blockquote>
   <p><em>I can feel a yearning to make a place for hearing our dreams and their poetry, a place for the "re-enchantment" of the world. To have psyche's speech heard only in consulting rooms will not suffice in the times to come; psyche's voice must be heard in the world, enacted and incarnated in the world.</em> -Psyche Speaks, pgs. 88-89</p>
@@ -1862,7 +1864,7 @@ ns1:bcpov6krudhp a ns1:Post ;
 
 <p><!--nopreview--><h2>I. Psyche Speaks</h2><!--/nopreview--></p>
 
-<p>It is quite remarkable, because it is so rare, to see in public such a collection of unattributed, uncommented, unexplained, unanalyzed, uninterpreted dreams as those on exhibit in the pages of <em>Dream Network</em> this past year. As your editor said in introducing this unusual gathering, she wanted "psyche to speak for itself" in response to the journal's research calling for "dreams which belong to the larger community." This simple appeal reaped a rich and varied bounty. </p>
+<p>It is quite remarkable, because it is so rare, to see in public such a collection of unattributed, uncommented, unexplained, unanalyzed, uninterpreted dreams as those <a href="../bcpqoa3iell">on exhibit in the pages of <em>Dream Network</em></a> this past year. As your editor said in introducing this unusual gathering, she wanted "psyche to speak for itself" in response to the journal's research calling for "dreams which belong to the larger community." This simple appeal reaped a rich and varied bounty. </p>
 
 <p>Yes, psyche has spoken! But to whom? To what end? Do not expect me to answer these questions by interpreting or analyzing the dreams in this exhibition. That would violate the spirit with which they were gathered. Instead, imagine we had been viewing these dreams in silence and began speaking with one another. A conversation. For some reason, in the face of these dreams, I want to speak in whispers, though these dreams stir strong passions in me. Of course, my murmurings on these pages are rather one sided. So I'll just set off and see what comes.</p>
 
@@ -5440,7 +5442,7 @@ ns1:bcphbqvruss a ns1:User ;
 
 <p>Los Angeles-born Russell Lockhart has a doctoral degree (human psychophysiology) from the University of Southern California. In 1974 he graduated from the C.G. Jung Institute of Los Angeles, where he served as Director of Analyst Training from 1979 to 1982. Since 1974 he has been in private practice. He has served on the faculties at the University of California, Santa Barbara, and University of California, Berkeley. He was a research psychologist at the University of California, Los Angeles, and Director of the Psychophysiological Research Laboratory at Camarillo State Hospital. </p>
 
-<p>Dr. Lockhart is the author of Words as Eggs: Psyche in Language and Clinic; Psyche Speaks: A Jungian Approach to Self and World; Secrets of <a href="http://undergroundtrader.com/">Undergroundtrader.com</a> (with Jea Yu), and two books in progress: Gleanings from the Dreamfield and Hints and Helps for Short-Term Traders. He and his wife Frankie have four children.</p>
+<p>Dr. Lockhart is the author of <a href="https://www.amazon.com/Words-As-Eggs-Russell-Lockhart/dp/0911783008">Words as Eggs: Psyche in Language and Clinic</a>; <a href="https://www.amazon.com/Psyche-Speaks-Jungian-Approach-Paperback/dp/1630512699">Psyche Speaks: A Jungian Approach to Self and World</a>; <a href="https://www.amazon.com/Secrets-Undergroundtrader-Jea-Yu/dp/0071417370">Secrets of the Undergroundtrader</a> (with Jea Yu), and two books in progress: Gleanings from the Dreamfield and <a href="http://ralockhart.com/orderinfo.htm">Hints and Helps for Daytraders</a>. He and his wife Frankie have four children.</p>
 """^^xsd:string ;
     ns1:handle "ral"^^xsd:string ;
     ns1:itemId "bcphbqvruss"^^xsd:string ;

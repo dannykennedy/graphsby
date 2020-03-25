@@ -15,7 +15,7 @@ urlSlug: "whispers-and-murmurs-perspectives-on-dreaming-humanitys-path"
 
 <!--nopreview--><h2>I. Psyche Speaks</h2><!--/nopreview-->
 
-It is quite remarkable, because it is so rare, to see in public such a collection of unattributed, uncommented, unexplained, unanalyzed, uninterpreted dreams as those on exhibit in the pages of *Dream Network* this past year. As your editor said in introducing this unusual gathering, she wanted "psyche to speak for itself" in response to the journal's research calling for "dreams which belong to the larger community." This simple appeal reaped a rich and varied bounty. 
+It is quite remarkable, because it is so rare, to see in public such a collection of unattributed, uncommented, unexplained, unanalyzed, uninterpreted dreams as those [on exhibit in the pages of *Dream Network*](../bcpqoa3iell) this past year. As your editor said in introducing this unusual gathering, she wanted "psyche to speak for itself" in response to the journal's research calling for "dreams which belong to the larger community." This simple appeal reaped a rich and varied bounty. 
 
 Yes, psyche has spoken! But to whom? To what end? Do not expect me to answer these questions by interpreting or analyzing the dreams in this exhibition. That would violate the spirit with which they were gathered. Instead, imagine we had been viewing these dreams in silence and began speaking with one another. A conversation. For some reason, in the face of these dreams, I want to speak in whispers, though these dreams stir strong passions in me. Of course, my murmurings on these pages are rather one sided. So I'll just set off and see what comes.
 

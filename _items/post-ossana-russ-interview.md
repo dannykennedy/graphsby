@@ -14,7 +14,8 @@ urlSlug: "embracing-the-future-in-our-dreams-emerging-forms-of-community"
 profileImg: post-bcpov6kfutur-0.jpg
 ---
 
-<img src="../images/post-bcpov6kfutur-0.jpg" width="500" height="auto" alt="Russell Lockhart"/>
+<img src="../images/post-bcpov6kfutur-0.jpg" width="400" height="auto" alt="Russell Lockhart"/>
+<br/>
 
 > *I can feel a yearning to make a place for hearing our dreams and their poetry, a place for the "re-enchantment" of the world. To have psyche's speech heard only in consulting rooms will not suffice in the times to come; psyche's voice must be heard in the world, enacted and incarnated in the world.* -Psyche Speaks, pgs. 88-89
 

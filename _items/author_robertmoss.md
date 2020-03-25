@@ -10,8 +10,6 @@ date: 2015-03-24
 profileImg: author-moss.jpg
 ---
 
-Link to www.mossdreams.com, also books at  http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html
-
 Website: [mossdreams.com](https://mossdreams.com/)
 Books: [mossdreams.blogspot.com](http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html)
 

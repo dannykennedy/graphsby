@@ -11,9 +11,14 @@ tags:
   - hasTag: 12.4
 type: post
 urlSlug: "embracing-the-future-in-our-dreams-emerging-forms-of-community"
-profileImg: post-bcpov6kmyth1-0.jpg
+profileImg: post-bcpov6kfutur-0.jpg
 ---
 
+<img src="../images/post-bcpov6kfutur-0.jpg" width="500" height="auto" alt="Russell Lockhart"/>
+
+> *I can feel a yearning to make a place for hearing our dreams and their poetry, a place for the "re-enchantment" of the world. To have psyche's speech heard only in consulting rooms will not suffice in the times to come; psyche's voice must be heard in the world, enacted and incarnated in the world.* -Psyche Speaks, pgs. 88-89
+
+<br/>
 **R.O.:** I recently attended a gathering of Northwest Coast Native tribes on one of the Queen Charlotte Islands in British Columbia, which, in essence, was a celebration of cultural revival and a sharing of Visions through storytelling, song and dance. I was able to see with vivid clarity - as regards dreams that come for community, that are intended to be shared on that level with others - how that's creativly integrated in Native American culture. It's also helped me to see the abject poverty of our culture in this respect. We simply don't provide enough places for the 'enacting' of the dream to occur at this time.
 
 I perceive, from the materials and information that come to the matrix of the Dream Network, that there is a growing desire among the general population to engage more seriously in their dreams; the satisfaction of that urge is trying to be satisfied in a variety of ways. It seems to me that what we have happening now in terms of *where* people can go with their dreams, is to private therapy with depth, transpersonal and Jungian therapists, like yourself... to dream groups or to the many individuals who cluster around the philosophy espoused by this publication... which, in essence, says that dreams are a common human experience and we do not need to rely, exclusively, on professional help to engage with our dreams and to integrate our dreams into our lives and culture. 
@@ -52,7 +57,7 @@ I feel more in community with people I've never met, never seen, who are in Euro
 
 Certainly, I'm not in opposition to having community close at hand in my small town, but it doesn't seem to · be happening. I don't know whether that's peculiar to me or...
 
-**R.O.:** DN: I don't believe so. I'm hearing everywhere I go that there is no such thing as community anymore, except when a crisis occurs. I am experiencing it myself. It's a great loss, whatever the causes. I wasn't I aware of how much I miss a sense of community until attending the gathering I mentioned earlier. The setting was on an island in British Columbia. There, most people do not have, nor need, cars. Every day was a celebration of people in the streets, walking and genuinely greeting one another. That in itself was incredibly nourishing and made me painfully nostalgic because that's the way it used to be... 
+**R.O.:** I don't believe so. I'm hearing everywhere I go that there is no such thing as community anymore, except when a crisis occurs. I am experiencing it myself. It's a great loss, whatever the causes. I wasn't I aware of how much I miss a sense of community until attending the gathering I mentioned earlier. The setting was on an island in British Columbia. There, most people do not have, nor need, cars. Every day was a celebration of people in the streets, walking and genuinely greeting one another. That in itself was incredibly nourishing and made me painfully nostalgic because that's the way it used to be... 
 
 **R.L.:** I'm a strong believer in the *organicity* of community. The way in which community is genuinely formed is not to press the idea of community by saying we've got to have community and kind of force it in some way. That doesn't work. Community doesn't even mean that if you think about the word. The *munis* part of that word means "gift"; the *comm* part of it means "together." So community that is organically based is based on *what we give* to each other. When you give something to another person and that gift starts circulating - that's the key thing: the circulation of gifts - then, you have community. 
 

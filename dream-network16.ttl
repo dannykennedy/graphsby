@@ -1527,8 +1527,7 @@ ns1:bcpov6kbchil a ns1:Post ;
     ns1:itemId "bcpov6kbchil"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Teaching Dreamwork to Children: Helping Them Face a Complex World"^^xsd:string ;
-    ns1:profileImg "post-bcpov6kbheal-0.jpg"^^xsd:string ;
-    ns1:urlSlug "dreams-and-child-development"^^xsd:string .
+    ns1:urlSlug "teaching-dreamwork-to-children"^^xsd:string .
 
 ns1:bcpov6kbcoup a ns1:Post ;
     ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
@@ -1603,7 +1602,7 @@ ns1:bcpov6kbheal a ns1:Post ;
 
 <p>Here, we need to listen to what environmentalists themselves say we need to overcome these problems. Most environmentalist action involves lobbying politicians to change laws, protesting against corporate polluters, and trying to develop cleaner, safe technologies. Yet many leading environmentalists admit that these efforts are not enough; they say that we need a deeper, more fundamental change in people's <em>values and attitudes</em> regarding Nature. </p>
 
-<p>Bill McKibben, author of <em><a href="https://en.wikipedia.org/wiki/The_End_of_Nature">The End of Nature</a></em>, says "We must invent nothing less than a new and humbler attitude toward the rest of creation. And we must do it quickly." <a href="https://en.wikipedia.org/wiki/Petra_Kelly">Petra Kelly</a>, founder of the Green party in West Germany, states "Saving life on Earth requires not only a new way of thinking, but also a new way of feeling. We must work with our minds and with our hearts." And Peter Bahouth, executive director of Greenpeace in the U.S., insists that "the way to change the assumptions that are destroying the earth is to combine personal transformation with a hard-headed, practical campaign of coalition building, demonstrating and organizing."(1) </p>
+<p>Bill McKibben, author of <em><a href="https://en.wikipedia.org/wiki/The_End_of_Nature">The End of Nature</a></em>, says "We must invent nothing less than a new and humbler attitude toward the rest of creation. And we must do it quickly." <a href="https://en.wikipedia.org/wiki/Petra_Kelly">Petra Kelly</a>, founder of the Green party in West Germany, states "Saving life on Earth requires not only a new way of thinking, but also a new way of feeling. We must work with our minds and with our hearts." And Peter Bahouth, executive director of Greenpeace in the U.S., insists that "the way to change the assumptions that are destroying the earth is to combine personal transformation with a hard-headed, practical campaign of coalition building, demonstrating and organizing."<sup>1</sup> </p>
 
 <p>These environmentalists are all saying, in different ways, the same basic thing: we need, more than anything else, a deep transformation in the basic values and attitudes that guide our society's treatment of the Earth. </p>
 
@@ -1621,7 +1620,7 @@ ns1:bcpov6kbheal a ns1:Post ;
 
 <p>LaBudde's dreams and his understandings of them provide us with some valuable insights into the question of how dreams can contribute to environmental awareness and action. First, his dreams are about environmental problems; the dreams probably have personal, intrapsychic meanings too, but they are certainly speaking directly to our society's environmental crisis. Second, LaBudde's dreams present powerful, moving images of that crisis. The wounded dolphins hobbling on crutches, struggling to communicate is a tragic, strikingly poignant image that haunts LaBudde long after his voyages; the. annihilation of corporate bureaucrats, by contrast, is a wish-fulfilling fantasy that seems to refresh him and clean out his aggressions. </p>
 
-<p>These dreams prompt LaBudde to further environmental action. The dolphin dreams remind him of the dolphins' torment, spurring him to continue fighting on their behalf; the corporate bureaucrat dreams seem to show him that although it might be satisfying to blast these people out of existence, there may be less violent, more <em>effective</em> ways for him to protect the environment. (2) </p>
+<p>These dreams prompt LaBudde to further environmental action. The dolphin dreams remind him of the dolphins' torment, spurring him to continue fighting on their behalf; the corporate bureaucrat dreams seem to show him that although it might be satisfying to blast these people out of existence, there may be less violent, more <em>effective</em> ways for him to protect the environment.<sup>2</sup> </p>
 
 <p>People's dreams often bring forth striking natural images-raging storms, fantastic creatures and plants, cataclysmic earthquakes, mysterious caves, fiery volcanoes. Most western interpreters view such images as personal metaphors (e.g. dreaming of an earthquake might mean the dreamer's world is being "shaken up"). But we also need to appreciate how, in another dimension of meaning, these dream images speak to us about our relationship with Nature; they tell us (among other things) that Nature is powerful beyond our reckoning, full of beauty and wonder, and deserving of our respect. </p>
 
@@ -1631,7 +1630,7 @@ ns1:bcpov6kbheal a ns1:Post ;
 
 <p>What good is dreamwork for people who aren't already committed to environmentalist values? Can dreamwork promote a transformation of values and attitudes <em>throughout</em> our society regarding our treatment of the Earth? </p>
 
-<p>I would respond by pointing to the most crucial, fundamental insight of the environmentalist movement, which is that all life is <em>interconnected</em> - as John Muir said, "when we try to pick out anything by itself, we find it hitched to everything else in the universe" (3)</p>
+<p>I would respond by pointing to the most crucial, fundamental insight of the environmentalist movement, which is that all life is <em>interconnected</em> - as John Muir said, "when we try to pick out anything by itself, we find it hitched to everything else in the universe".<sup>3</sup></p>
 
 <p>Western society has long asserted that humans are <em>separate</em> from the Earth, and that we can use, exploit, and destroy the natural environment however we wish. Environmentalists have worked hard to overturn that view and to make people realize that we are integrally <em>related</em> to all of Nature. But their efforts have met strong resistance from stubborn, tenaciously held attitudes; environmentalists have found it very difficult to create the deep change in values and attitudes that are necessary for a more respectful relationship with the Earth. </p>
 
@@ -1641,7 +1640,7 @@ ns1:bcpov6kbheal a ns1:Post ;
 
 <p>We can focus on images of Nature in dreams and, rather than reducing them to personal metaphors, can treat them as reflections on our treatment of the natural world. We can ask, what does it mean that I often dream of dark, dangerous forests? Does that affect my views of our society's use of natural resources? What about dreams of speeding around in fast cars - does that give any insights into our society's environmentally destructive obsession with automobiles? In dreams where birds, or fish, or rodents are prominent, might those animals be able to tell us something about the needs of Nature? </p>
 
-<p>The crucial point is that we begin trying to ask such questions. Other cultures have always seen their dreams as speaking to their community's relations with Nature; they have regarded dreams as inner manifestations of the same cosmic forces that shape the natural world. (4) </p>
+<p>The crucial point is that we begin trying to ask such questions. Other cultures have always seen their dreams as speaking to their community's relations with Nature; they have regarded dreams as inner manifestations of the same cosmic forces that shape the natural world.<sup>4</sup></p>
 
 <p>Indeed, it's no coincidence that many Native American tribes have both a profound reverence for Nature and a profound respect for the communal wisdom of their dreams. Now, our culture needs to learn how to listen to this communal wisdom. We must begin to ask how our dreams can guide us in healing our relationship with the Earth.</p>
 

@@ -8,8 +8,7 @@ tags:
   - hasAuthor: kellybulkeley
   - hasTag: 10.2-3
 type: post
-urlSlug: "dreams-and-child-development"
-profileImg: post-bcpov6kbheal-0.jpg
+urlSlug: "teaching-dreamwork-to-children"
 ---
 Many dreamworkers have described the positive values of teaching children about their dreams. Patricia Garfield, Ann Sayre Wiseman, Jill Gregory and others have written on how children can learn in their dreams about their emotions, their fears, their wishes, and their artistic potentials<sup>1</sup>. Yet introducing dreamwork to children has still more values than these: dreamwork can teach children *how* to think in especially creative, sophisticated ways. Today's children face a future of over-increasing complexity, a future filled with both exciting hopes and frightening dangers. They will need tremendous powers of sensitivity, understanding, and creativity if they are to realize those hopes and overcome those dangers. Teaching dreamwork to children can make a big contribution toward providing them with precisely these powers of thought. 
 

@@ -9,7 +9,6 @@ tags:
   - hasTag: 11.1
 type: post
 urlSlug: "the-soviet-coup-dream-myth-and-reality"
-profileImg: post-bcpov6kbheal-0.jpg
 ---
 
 I left Chicago on Sunday evening, August 18, for the "Dreaming in Russia" conference in Moscow. I was very excited, expecting that the first-ever gathering of Western and Soviet dream explorers would be a fascinating experience. I did not, however, expect that we would suddenly be caught up in a shocking political revolution--for we happened to arrive in Moscow on August 19, *the day the [military coup](https://en.wikipedia.org/wiki/1991_Soviet_coup_d%27%C3%A9tat_attempt) began*. As we drove out of the Moscow airport on Monday afternoon, tanks and armored personnel carriers (APCs) were streaming into the city. What followed was a roller coaster week of terror, confusion, amazement and, ultimately, joyfulness and hope. 

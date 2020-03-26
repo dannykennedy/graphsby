@@ -1571,7 +1571,6 @@ ns1:bcpov6kbcoup a ns1:Post ;
     ns1:itemId "bcpov6kbcoup"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Soviet Coup: Dream, Myth & Reality"^^xsd:string ;
-    ns1:profileImg "post-bcpov6kbheal-0.jpg"^^xsd:string ;
     ns1:urlSlug "the-soviet-coup-dream-myth-and-reality"^^xsd:string .
 
 ns1:bcpov6kbheal a ns1:Post ;

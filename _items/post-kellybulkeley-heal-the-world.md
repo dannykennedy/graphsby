@@ -9,7 +9,6 @@ tags:
   - hasTag: 10.2-3
 type: post
 urlSlug: "dreaming-to-heal-the-earth"
-profileImg: post-bcpov6kbheal-0.jpg
 ---
 > *"In every dream, whether you are conscious of it while you are dreaming or not, there is some kind of natural phenomenon present. Either it's night and there is a night sky, with or without stars; the sun is shining in the day or it's cloudy; there is a feeling of wind present or not. There is always some kind of natural phenomenon and that is because you cannot dream without the natural phenomenon; it is the nature of things, out of which the dream arises."* 
 > Bartholomew, Taos, NM

@@ -954,6 +954,18 @@ ns1:bcphbqmxcnl a ns1:Post ;
     ns1:profileImg "12.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "12.3"^^xsd:string .
 
+ns1:bcphbqvbulk a ns1:User ;
+    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://kellybulkeley.org/">kellybulkeley.org</a></p>
+
+<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion.  He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal Dreaming, and a former President of the International Association for the Study of Dreams.  He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School.  He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018).  He lives in Portland, Oregon.</p>
+"""^^xsd:string ;
+    ns1:handle "kellybulkeley"^^xsd:string ;
+    ns1:itemId "bcphbqvbulk"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Kelly Bulkeley"^^xsd:string ;
+    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
+
 ns1:bcphbr4spo2 a ns1:Post ;
     ns1:coverImg "15.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1996-04-01T11:32:52"^^xsd:dateTime ;
@@ -1642,9 +1654,7 @@ ns1:bcpov6kcultu a ns1:Post ;
 
 <p><br/></p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqvmoss ;
-    ns1:hasTag ns1:bcphbqvmoss,
-        ns1:bcphbsvz3ik ;
+    ns1:hasTag ns1:bcphbsvz3ik ;
     ns1:itemId "bcpov6kcultu"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "When We Become a Dreaming Culture"^^xsd:string ;
@@ -1884,9 +1894,7 @@ ns1:bcpov6kheart a ns1:Post ;
 
 <p>I shared this dream with a circle I was leading. We did more than discuss it. We agreed to travel inside it, in a conscious group journey assisted by shamanic drumming. We climbed the mountain to receive healing and guidance in the realm of the animal guardians and the place of the heart. The heart center is where we find courage, and reconnect with what truly matters. Our role, as dream helpers, is to encourage each other to go there, and move beyond our conflict and confusion to the heart of the world.</p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqvmoss ;
-    ns1:hasTag ns1:bcphbqvmoss,
-        ns1:bcphbvecgmx ;
+    ns1:hasTag ns1:bcphbvecgmx ;
     ns1:itemId "bcpov6kheart"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dreaming Our Way To The Heart of the World"^^xsd:string ;
@@ -2253,7 +2261,6 @@ ns1:bcpov6zbotdm a ns1:Post ;
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqvlach ;
     ns1:hasTag ns1:bcphbqvlach,
-        ns1:bcphbqvmoss,
         ns1:bcphbwpd2l7 ;
     ns1:itemId "bcpov6zbotdm"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -5855,21 +5862,6 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:name "Volume 33"^^xsd:string ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
-
-ns1:bcphbqvmoss a ns1:User ;
-    ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>
-
-<p>Books: <a href="http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html">mossdreams.blogspot.com</a></p>
-
-<p><em>When strangers ask me what I do, I often respond, “I am a storyteller and I help people to find and live their bigger and braver stories, and tell them really well.”</em></p>
-
-<p>Robert Moss describes himself as a dream teacher, on a path for which there has been no career track in our culture. He is the creator of Active Dreaming, an original synthesis of dreamwork and shamanism. Born in Australia, he survived three near-death experiences in childhood. He leads popular seminars all over the world, including a three-year training for teachers of Active Dreaming. A former lecturer in ancient history at the Australian National University, he is a best-selling novelist, journalist and independent scholar. He has published  twelve books on dreaming, shamanism and imagination.</p>
-"""^^xsd:string ;
-    ns1:handle "robertmoss"^^xsd:string ;
-    ns1:itemId "bcphbqvmoss"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Robert Moss"^^xsd:string ;
-    ns1:profileImg "author-moss.jpg"^^xsd:string .
 
 ns1:bcphbq3wagg a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>

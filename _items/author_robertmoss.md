@@ -1,18 +1,16 @@
 ---
 layout: page
 type: user
-itemId: bcphbqvmoss
-handle: robertmoss
-name: "Robert Moss"
+itemId: bcphbqvbulk
+handle: kellybulkeley
+name: "Kelly Bulkeley"
 shortDescription: ""
 tags:
 date: 2015-03-24
-profileImg: author-moss.jpg
+profileImg: author-kelly-bulkeley.jpg
+coverImg: cover-author-kelly-bulkeley.jpg
 ---
 
-Website: [mossdreams.com](https://mossdreams.com/)
-Books: [mossdreams.blogspot.com](http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html)
+Website: [kellybulkeley.org](http://kellybulkeley.org/)
 
-*When strangers ask me what I do, I often respond, “I am a storyteller and I help people to find and live their bigger and braver stories, and tell them really well.”*
-
-Robert Moss describes himself as a dream teacher, on a path for which there has been no career track in our culture. He is the creator of Active Dreaming, an original synthesis of dreamwork and shamanism. Born in Australia, he survived three near-death experiences in childhood. He leads popular seminars all over the world, including a three-year training for teachers of Active Dreaming. A former lecturer in ancient history at the Australian National University, he is a best-selling novelist, journalist and independent scholar. He has published  twelve books on dreaming, shamanism and imagination.
+Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion.  He is director of the [Sleep and Dream Database (SDDb)](http://sleepanddreamdatabase.org/), a Senior Editor of the APA journal Dreaming, and a former President of the International Association for the Study of Dreams.  He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School.  He is author and editor of several books, including [The Wilderness of Dreams](https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams) (State University of New York Press, 1994), [An Introduction to the Psychology of Dreaming](https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming) (1997) [Dreaming Beyond Death](https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death) (Beacon, 2006), [American Dreamers](https://www.goodreads.com/book/show/8180959-american-dreamers) (Beacon, 2008), [Dreaming in the World’s Religions](https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions) (New York University Press, 2008), [Lucid Dreaming](https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes) (ABC-Clio, 2014), [Big Dreams: The Science of Dreaming and the Origins of Religion](https://www.goodreads.com/book/show/26700531-big-dreams) (Oxford University Press, 2016), and [Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition](https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer) (Stanford University Press, 2018).  He lives in Portland, Oregon.

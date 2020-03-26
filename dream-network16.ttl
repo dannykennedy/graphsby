@@ -1486,6 +1486,50 @@ ns1:bcphbzoxivb a ns1:Post ;
     ns1:profileImg "31.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.3"^^xsd:string .
 
+ns1:bcpov6kbchil a ns1:Post ;
+    ns1:dateCreated "1990-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Many dreamworkers have described the positive values of teaching children about their dreams. Patricia Garfield, Ann Sayre Wiseman, Jill Gregory and others have written on how children can learn in their dreams about their emotions, their fears, their wishes, and their artistic potentials<sup>1</sup>. Yet introducing dreamwork to children has still more values than these: dreamwork can teach children <em>how</em> to think in especially creative, sophisticated ways. Today's children face a future of over-increasing complexity, a future filled with both exciting hopes and frightening dangers. They will need tremendous powers of sensitivity, understanding, and creativity if they are to realize those hopes and overcome those dangers. Teaching dreamwork to children can make a big contribution toward providing them with precisely these powers of thought. </p>
+
+<p>Although dreamworkers do a wide variety of different things with dreams, almost all forms of dreamwork teach a few common mental abilities, a few common ways of thinking: </p>
+
+<ol>
+<li><p>Dreamwork encourages us to appreciate <em>ambiguities</em>, multiple meanings, and the many subtle shades between black and white. Dreams rarely if ever have one simple, sharply defined meaning. The more we work (and play) with dreams, the more we learn to adapt creatively to situations filled with ambiguity and paradox.</p></li>
+<li><p>Dreamwork makes us open to <em>surprises</em>, to new and novel situations-it helps us "expect the unexpected". In exploring our dreams we are continuously startled by sudden, unanticipated discoveries. Dreamwork teaches us how to keep our balance when surprising experiences spring up at us.</p></li>
+<li><p>It teaches us how to seek <em>resolutions</em> to dilemmas through understanding and patience, instead of through brute force or ostrich-like ignorance. Our dreams often bring us to face upsetting, even frightening, problems in our lives. It is tempting to respond to such problems by angrily fighting against them or by blithely pretending they don't exist. But effective dreamwork teaches us to approach difficult situations with openness, sensitivity, and a willingness to work patiently toward a resolution.</p></li>
+<li><p>And, dreamwork makes us more aware of how <em>other people</em> have their own dream worlds. As people share and discuss their dreams with each other, they learn about the unique qualities that unite all people, and also about the wonderfully distinctive characteristics that make each individual human being unique. </p></li>
+</ol>
+
+<p>Now as we consider the kind of world today's children are facing, I would argue that these are the <em>exact qualities</em> they will need to resolve its problems and enjoy its possibilities. The world we are passing along to coming generations will be one of great complexity: extremely different cultures, religions; and races will interact more and more; problems will arise from the convergence of multiple, far-flung causes. New approaches will be necessary, approaches that can adapt to difficult, complicated, and quickly-changing circumstances. </p>
+
+<p>An illustration of how desperately we need to have such abilities for creative thought is the current crisis in the Middle East. The situation there is often referred to as the "first post-cold war crisis", suggesting that it is the kind of dilemma we will frequently face in the future. The U.S. is baffled by all the ambiguities of the Middle East-rather than clear-cut lines we find evershifting sand dunes. We are constantly surprised by events there, caught off guard by changes more sudden than we are able to handle effectively. We agonize over how to resolve the many problems of the region; we seem to be trapped between two awful options-either unleashing the violence of warfare, or surrendering meekly to the injustices of the current situation.<sup>2</sup> </p>
+
+<p>Perhaps of greatest interest to dreamworkers is how the Middle East crisis has brought to the fore the importance of being able to understand the dream worlds of others. In late October Iraq's President Sadam Hussein reportedly dreamed that the Prophet Mohammed appeared before him and said Iraq's missiles "were pointed in the wrong direction." Commentators in the Middle East speculated that Hussein's dream could suggest that the Iraqi leader is prepared to withdraw his forces from Kuwait. But when U.S. President Bush's spokesman, Marlin Fitzwater, was asked for his reaction he said "No comment on dreams. I have enough problem dealing with reality."<sup>3</sup> </p>
+
+<p>In a way, this statement sums up our difficulties in facing a crisis as complex and mystifying as that of the Middle East - it seems as strange, as baffling, as unfathomable as a dream. But the harsh truth is that in our world's future such complex crises will be the rule rather than the exception. It seems a matter of simple survival for us and for our children, then, to try and learn how to deal with dreams and with "dream-like" realities. </p>
+
+<p>I am not suggesting, of course, that teaching dreamwork to children would by itself solve the Middle East crisis, Likewise, I would not argue that teaching children to add and subtract would by itself lead to advances in computer technology. But we do teach children elementary math because it provides them with the basic mental abilities that will allow them in the future to work effectively with computers. In just the same way, dreamwork can teach children extremely valuable <em>ways of thinking</em> that will enable them to deal with future problems like those we now face in the Middle East. </p>
+
+<p>The world our children will inherit from us will require enormous resources of creativity, sensitivity, and understanding. Teaching them dreamwork is one of the gifts we can give our children as they step into that world.</p>
+
+<hr>
+
+<h3>References:</h3>
+
+<ol>
+<li><p>Patricia Garfield, Your Child's Dreams (New York: Ballantine, 1984), Anne Sayre Wiseman, Nightmare Help (Berkeley, CA: Ten Speed Press, 1989), Jill Gregory, "Bringing Dreams to Kids!", Dream Network Bulletin vol. 7. no. 3 </p></li>
+<li><p>I wonder, as I write in early November of 1990, whether by the time this appears in print we will have succeeded in finding a middle path between these two terrible extremes? </p></li>
+<li><p>"A Dreamlike Landscape, a Dreamlike Reality", New York Times (10-28-90, p. E3)</p></li>
+</ol>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvbulk ;
+    ns1:hasTag ns1:bcphbpfnwcb,
+        ns1:bcphbqvbulk ;
+    ns1:itemId "bcpov6kbchil"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Teaching Dreamwork to Children: Helping Them Face a Complex World"^^xsd:string ;
+    ns1:profileImg "post-bcpov6kbheal-0.jpg"^^xsd:string ;
+    ns1:urlSlug "dreams-and-child-development"^^xsd:string .
+
 ns1:bcpov6kbcoup a ns1:Post ;
     ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>I left Chicago on Sunday evening, August 18, for the "Dreaming in Russia" conference in Moscow. I was very excited, expecting that the first-ever gathering of Western and Soviet dream explorers would be a fascinating experience. I did not, however, expect that we would suddenly be caught up in a shocking political revolution--for we happened to arrive in Moscow on August 19, <em>the day the <a href="https://en.wikipedia.org/wiki/1991_Soviet_coup_d%27%C3%A9tat_attempt">military coup</a> began</em>. As we drove out of the Moscow airport on Monday afternoon, tanks and armored personnel carriers (APCs) were streaming into the city. What followed was a roller coaster week of terror, confusion, amazement and, ultimately, joyfulness and hope. </p>
@@ -1539,7 +1583,7 @@ ns1:bcpov6kbheal a ns1:Post ;
   <p>Bartholomew, Taos, NM</p>
 </blockquote>
 
-<h2>I</h2>
+<h2>I.</h2>
 
 <p>From ancient times people have looked to dreams for visions of the divine realms above, and/or the demonic underworld below. But in our time, with our society's pressing environmental troubles, we need to ask a different question of our dreams: what do dreams tell us of <em>this</em> world, the natural world <em>between</em> Heaven and Hades? Can dreams help us heal our wounded, suffering Earth? </p>
 
@@ -1565,7 +1609,7 @@ ns1:bcpov6kbheal a ns1:Post ;
 
 <p>My claim is that dreamwork can contribute to this task. Dreams may not help us create new environmental laws or technologies. But, dreams <em>can</em> promote exactly the sort of transformation of moral and spiritual values that environmentalists say we desperately need. Throughout history dreams have been a potent source of new visions, energies, and ideals that have helped people overcome seemingly insoluble problems. Today's dreamworkers have a great opportunity: to help bring the wisdom of dreams to bear on our community's environmental problems.</p>
 
-<h2>II</h2>
+<h2>II.</h2>
 
 <p>Little practical research has been done on the specific question of how dreams can promote greater environmental awareness. However, 1 have an example that might help to indicate the potential dreams have in this regard. </p>
 
@@ -1583,7 +1627,7 @@ ns1:bcpov6kbheal a ns1:Post ;
 
 <p>Bill McKibben speaks of the need for a "new and humbler attitude toward the rest of creation" if we are to stop humankind's destruction of the natural world. It can be difficult to cultivate such an attitude in our waking lives where we so easily control and manipulate the environment. Our dreams, though, remind us of our true relationship to the Earth; we are but one species of creatures in the mysterious unfolding of life, an unfolding that can be incredibly joyous, humbling, and beautiful. </p>
 
-<h2>III</h2>
+<h2>III.</h2>
 
 <p>What good is dreamwork for people who aren't already committed to environmentalist values? Can dreamwork promote a transformation of values and attitudes <em>throughout</em> our society regarding our treatment of the Earth? </p>
 
@@ -4910,20 +4954,6 @@ ns1:bcphbnlbw5k a ns1:Post ;
     ns1:profileImg "7.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.2"^^xsd:string .
 
-ns1:bcphbpfnwcb a ns1:Post ;
-    ns1:coverImg "10.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1991-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.2-3-Dream-Network-Journal_Volume-10_No-2-3.pdf" download="">Download issue 10.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.2-3-Dream-Network-Journal_Volume-10_No-2-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaqcodk ;
-    ns1:itemId "bcphbpfnwcb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 10, issue 2: Healing our Souls, Healing the Earth"^^xsd:string ;
-    ns1:profileImg "10.2-3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "10.2-3"^^xsd:string .
-
 ns1:bcphbpumr2x a ns1:Post ;
     ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
@@ -5288,6 +5318,20 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:name "Volume 32, issue 1: Group Dreaming"^^xsd:string ;
     ns1:profileImg "32.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
+
+ns1:bcphbpfnwcb a ns1:Post ;
+    ns1:coverImg "10.2-3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1991-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.2-3-Dream-Network-Journal_Volume-10_No-2-3.pdf" download="">Download issue 10.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.2-3-Dream-Network-Journal_Volume-10_No-2-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaqcodk ;
+    ns1:itemId "bcphbpfnwcb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 10, issue 2: Healing our Souls, Healing the Earth"^^xsd:string ;
+    ns1:profileImg "10.2-3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "10.2-3"^^xsd:string .
 
 ns1:bcphbpqyqpo a ns1:Post ;
     ns1:coverImg "11.1-cover.jpg"^^xsd:string ;
@@ -6043,18 +6087,6 @@ ns1:bcphbq3wagg a ns1:User ;
     ns1:name "Robert Waggoner"^^xsd:string ;
     ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
 
-ns1:bcphbqvbulk a ns1:User ;
-    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://kellybulkeley.org/">kellybulkeley.org</a></p>
-
-<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion.  He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal Dreaming, and a former President of the International Association for the Study of Dreams.  He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School.  He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018).  He lives in Portland, Oregon.</p>
-"""^^xsd:string ;
-    ns1:handle "kellybulkeley"^^xsd:string ;
-    ns1:itemId "bcphbqvbulk"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Kelly Bulkeley"^^xsd:string ;
-    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
-
 ns1:bcpqn76e7n5 a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>
 """^^xsd:string ;
@@ -6111,6 +6143,18 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dr. Stanley Krippner"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
+
+ns1:bcphbqvbulk a ns1:User ;
+    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://kellybulkeley.org/">kellybulkeley.org</a></p>
+
+<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion.  He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal Dreaming, and a former President of the International Association for the Study of Dreams.  He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School.  He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018).  He lives in Portland, Oregon.</p>
+"""^^xsd:string ;
+    ns1:handle "kellybulkeley"^^xsd:string ;
+    ns1:itemId "bcphbqvbulk"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Kelly Bulkeley"^^xsd:string ;
+    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
 
 ns1:bcphbq3arts a ns1:User ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>

@@ -14,7 +14,7 @@ profileImg: post-bcpov6kbheal-0.jpg
 > *"In every dream, whether you are conscious of it while you are dreaming or not, there is some kind of natural phenomenon present. Either it's night and there is a night sky, with or without stars; the sun is shining in the day or it's cloudy; there is a feeling of wind present or not. There is always some kind of natural phenomenon and that is because you cannot dream without the natural phenomenon; it is the nature of things, out of which the dream arises."* 
 > Bartholomew, Taos, NM
 
-## I
+## I.
 
 From ancient times people have looked to dreams for visions of the divine realms above, and/or the demonic underworld below. But in our time, with our society's pressing environmental troubles, we need to ask a different question of our dreams: what do dreams tell us of *this* world, the natural world *between* Heaven and Hades? Can dreams help us heal our wounded, suffering Earth? 
 
@@ -37,7 +37,7 @@ These environmentalists are all saying, in different ways, the same basic thing:
 
 My claim is that dreamwork can contribute to this task. Dreams may not help us create new environmental laws or technologies. But, dreams *can* promote exactly the sort of transformation of moral and spiritual values that environmentalists say we desperately need. Throughout history dreams have been a potent source of new visions, energies, and ideals that have helped people overcome seemingly insoluble problems. Today's dreamworkers have a great opportunity: to help bring the wisdom of dreams to bear on our community's environmental problems.
 
-## II
+## II.
 
 Little practical research has been done on the specific question of how dreams can promote greater environmental awareness. However, 1 have an example that might help to indicate the potential dreams have in this regard. 
 
@@ -55,7 +55,7 @@ People's dreams often bring forth striking natural images-raging storms, fantast
 
 Bill McKibben speaks of the need for a "new and humbler attitude toward the rest of creation" if we are to stop humankind's destruction of the natural world. It can be difficult to cultivate such an attitude in our waking lives where we so easily control and manipulate the environment. Our dreams, though, remind us of our true relationship to the Earth; we are but one species of creatures in the mysterious unfolding of life, an unfolding that can be incredibly joyous, humbling, and beautiful. 
 
-## III 
+## III.
 
 What good is dreamwork for people who aren't already committed to environmentalist values? Can dreamwork promote a transformation of values and attitudes *throughout* our society regarding our treatment of the Earth? 
 
@@ -74,3 +74,10 @@ The crucial point is that we begin trying to ask such questions. Other cultures 
 Indeed, it's no coincidence that many Native American tribes have both a profound reverence for Nature and a profound respect for the communal wisdom of their dreams. Now, our culture needs to learn how to listen to this communal wisdom. We must begin to ask how our dreams can guide us in healing our relationship with the Earth.
 
 <img src="../images/post-bcpov6kbheal-1.jpg" alt="Celtic design" width="200" height="auto"/>
+
+## Notes: 
+
+1. These quotes are taken from the article "How We Can Save It", Greenpeace Magazine (Jan / Feb 1990), vol. IS #1 , pp. 4-8. 
+2. The information on LaBudde's experiences on the Maria Luisa comes from Kenneth Brower's article "The Destruction of Dolphins", in The Atlantic Monthly (July 1989), pp. 35-58, and from my personal correspondence with Brower. The quotations regarding the dreams themselves come from my personal correspondence with LaBudde. 
+3. John Muir, My First Summer in the Sierra, as quoted in Roderick Nash's The Rights of Nature (Madison, WI; U of Wisconsin Press, 1989) p. 40. 
+4. This deeper connection between dreams and the environment - drea ms as an "inner wilderness", the environment as an "outer wilderness" - suggests that the dialogue could, and should, work in both directions. Not only can dreamwork contribute to environmental awareness and action; environmentalist insights can also contribute to dreamwork. In short, we also need to ask the question: What can healing the Earth tell us about dreams? While I don't have space in this essay to explore this other side of the dialogue, I would note the following ideas it suggests: that we not use dreams as "raw materials" to be exploited for our individual human desires and that we treat dreams with humility, respect, and reverence.

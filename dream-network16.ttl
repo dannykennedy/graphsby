@@ -1486,8 +1486,53 @@ ns1:bcphbzoxivb a ns1:Post ;
     ns1:profileImg "31.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.3"^^xsd:string .
 
+ns1:bcpov6kbcoup a ns1:Post ;
+    ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>I left Chicago on Sunday evening, August 18, for the "Dreaming in Russia" conference in Moscow. I was very excited, expecting that the first-ever gathering of Western and Soviet dream explorers would be a fascinating experience. I did not, however, expect that we would suddenly be caught up in a shocking political revolution--for we happened to arrive in Moscow on August 19, <em>the day the <a href="https://en.wikipedia.org/wiki/1991_Soviet_coup_d%27%C3%A9tat_attempt">military coup</a> began</em>. As we drove out of the Moscow airport on Monday afternoon, tanks and armored personnel carriers (APCs) were streaming into the city. What followed was a roller coaster week of terror, confusion, amazement and, ultimately, joyfulness and hope. </p>
+
+<p>When I returned to the U.S. from the conference, my family and friends said we must not have learned anything about dreams, given all the incredible political events. But when I thought about it, I realized that I did learn a lot about dreams-the Soviet coup itself revealed entirely new dimensions of the dream world to me. For the space of that magical week there was a profound merging of reality, myth and dream. It might sound strange but I believe it was a truly sacred time, in the fullest sense of the word. Ordinary reality was suspended and the most powerful fears, desires and hopes of the human soul emerged, struggling among the desperately constructed barricades and the intimidating lines of huge steel tanks. I've never been in any church or sanctuary that was as overflowing with sacred power as were the cold, wet streets of Moscow during that week. </p>
+
+<p>Myths express sacred power through vivid stories and symbols, dreams reveal that power into our social reality. True political revolutions are the rarest expression of sacred power but also the most explosive. They force us, even more directly than myths and dreams do, to admit that human life is ultimately shaped by powers our rational consciousness does not (yet) fathom. </p>
+
+<p>Now to be honest, these lofty reflections only came to me much later. My first reaction, when we arrived at our conference center just outside the city and heard about the coup, was cool! Totally, totally cool! We're right in the middle of the greatest historical event of the 20th century! Part of me was scared, of course, but part of me was exhilarated. I've been to plenty of dream conferences in my time but never to a military coup! I felt a strong desire to go into Moscow so I could see - and feel - what was happening there. So I joined a small group of people who also wanted to sneak into the city (our Russian organizers had forbidden us from leaving the conference center), and we finally managed to reach the center of Moscow on Wednesday morning, the third day of the coup. </p>
+
+<p>Our first goal was Red Square, the heart of the Soviet government and the control center of the coup leaders. As we rode the Moscow subways, we noticed people clustered around handbills posted on the walls. These were notices from the grassroots resistance movement providing information not available on the heavily censored TV and radio reports. When we left the subways and returned to the street level, we found tanks and APCs everywhere. We tried to reach Red Square, but a line of APCs and soldiers blocked off the intersection in front of us, so we started turning back. But one of our Lithuanian friends (there were three psychology students from the University of Vilnius in our little group) somehow convinced a Red Army soldier to escort us through the APC barrier and over to the other side of the intersection. </p>
+
+<p>It's hard to describe how eerie it felt walking across that big, empty intersection, ominously ringed by heavily-armed military vehicles. The only thing that comes to mind is that it was like walking inside a ritual circle created by a black magician-a sacred space in the sense that it was filled with spiritual power-but a space consecrated to violence, destruction and death. I was very glad to reach the other side of the intersection, squeeze between the APCs, walk through the line of troops and reenter the "normal" space of Moscow's streets. </p>
+
+<p>After getting as close to Red Square as we could, we went to the U.S. Embassy. As we approached the embassy, we saw dozens of crushed, burned-out city buses, surrounded by crowds of people. We learned that the resistance had used the buses to block off the military; however, early that morning tanks had come and smashed through the buses, killing at least three people. We could see the crowd circling around a couple of particular spots. I eased my way in toward one and found it to be a spontaneously created shrine, with icons, prayer candles and a growing pile of fresh flowers. This was the spot where one of the people had been killed. Right nearby the street curb was all broken up, crushed by the grinding weight of the tanks. </p>
+
+<p>We asked the Embassy staff to send messages to our families in the U.S., who we knew could only be imagining the worst about our welfare. When we left, we walked down the hill toward the "White House", the Russian Parliament building where Boris Yeltsin and other Russian national leaders were organizing the resistance to the coup. The scene was one of barely-ordered chaos: the White House was surrounded by huge piles of steel pipes and wood planks, strategically placed clusters of overturned trucks and hundreds of thousands of people waving the Russian national flag. As we stood among the ever-growing crowds at the barricades, we realized that the situation was reaching a crisis point and that perhaps this was a good time for us to beat our retreat. </p>
+
+<p>We rode the train back in awed silence, overwhelmed by everything we'd just seen. But when we reached our conference center, we were met by yet another shock: the coup was over! The military leaders had given up, the tanks and APCs were leaving the city and people were literally dancing on the barricades! The Soviet people at the conference were ecstatic, especially those from Lithuania and Armenia. Their cultures had been violently conquered by U.S.S.R. decades ago and suddenly they were on the road to true independence. I felt very lucky to be with them during such an amazing festival of joy, pride and hope. </p>
+
+<p>Once the coup ended, we were eager to get the dream conference going. There were four main kinds of activities: common lectures, small dream discussion groups, all-group discussion sessions and workshops on dreams and creativity (e.g. dance, theater, sandplay). At each activity there were translators to help bridge the language barriers. The common lectures were OK; I thought the best were by Russian and Armenian scholars who tried to interpret the failed coup in terms of unconscious and archetypal dynamics. The dream discussion groups were a lot of fun! When we share dreams with people from totally different cultures, we realize how important it is to explore what their words, images and concepts mean in their world. The allgroup discussion sessions were not well-received. There were frequent conflicts between the two discussion leaders and the group, and progressively fewer people attended the sessions as the conference went on. </p>
+
+<p>The dreams and creativity workshops were all very interesting. I was in John Lipsky's dream theater workshop and we had a great time creating little dramatic productions from our dreams. It was a perfect activity because it did not require verbal language; instead, we used sounds, motions and facial gestures to share our dreams. </p>
+
+<p>The most joyful and memorable experiences, however, had nothing to do with these formal activities. By far the best part of the conference were the informal conversations in the hallways, at mealtimes, between scheduled activities and after hours at the" magic house" bar. During these more personal encounters we really got to know the Soviet people, to learn about their lives, to share our ideas about dreams and to form new friendships. </p>
+
+<p>The success of the conference was in the way it brought together people from cultures that have demonized each other for, most of this century. Speaking for myself, I've had many dreams over the years in which I've fought against evil, violent Soviet soldiers. It was an incredibly positive experience to meet these people and realize that not only are they warm, caring human beings but also that they share my passion for the world of dreams. My sense was that many people, both Westerners and Soviets, also found the conference to be a powerful experience of healing and integration. </p>
+
+<p>The conference's shortcoming, I thought, was its Jungian bias (the conference was primarily organized by Western Jungian analysts). Jung's dream theories are immensely important, of course, but there's a lot more to contemporary dream studies than Jung. At times I felt like the conference was a Jungian proselytizing mission - like we Westerners were bringing the sacred light of Jungian truth to the dark heathen lands of the Soviet Union. As a result, I fear we may not have shared with the Soviets the full range and diversity of Western approaches to dreams; I also fear we may not have learned as much from the Soviets as we might have. </p>
+
+<p>An interesting aspect of the conference was how the waking world events of the failed coup influenced people's dreaming worlds. Many people said they didn't dream at all during the three days of the coup. A Lithuanian man in my dream discussion group said the waking world was so strange and fantastic that he felt he was dreaming while awake! Others did have dreams that related directly to the coup, for example an American woman - also in my dream group - dreamed during those three days of a disembodied female voice hovering over the resistance movement's barricades in Moscow, encouraging them to struggle on. </p>
+
+<p>I am sure that everyone who attended the conference has different thoughts, feelings and dreams about what went on-all this is nothing more than my own very personal reactions to an incredibly powerful experience. If you want to share others' perspectives, you may want to contact others who attended, like Rita Dwyer, Jane White Lewis, Fred Olson and Dierdre Barrett. You may also contact some of the Soviets as well; many of them asked me to share their addresses, as they are eager to make connections with Westerners interested in dreams. (See pg. 32). </p>
+
+<p>If I took any lesson away from the "Dreaming in Russia" conference, it is this: an idea, shared with the right person at the right time, can create amazingly wonderful, positive, life-affirming effects. Thete are many Soviet people (or, to be more accurate, ex-Soviet people) who are hungering for ideas about dreams - for letters, stories, articles, books, anything we in the West can provide. They have survived a cultural dark age and are now joyously entering a new era of hope and vitality. Each of us can join them in that exciting journey simply by sharing our dreams with them.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvbulk ;
+    ns1:hasTag ns1:bcphbpqyqpo,
+        ns1:bcphbqvbulk ;
+    ns1:itemId "bcpov6kbcoup"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Soviet Coup: Dream, Myth & Reality"^^xsd:string ;
+    ns1:profileImg "post-bcpov6kbheal-0.jpg"^^xsd:string ;
+    ns1:urlSlug "the-soviet-coup-dream-myth-and-reality"^^xsd:string .
+
 ns1:bcpov6kbheal a ns1:Post ;
-    ns1:dateCreated "1988-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1991-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<blockquote>
   <p><em>"In every dream, whether you are conscious of it while you are dreaming or not, there is some kind of natural phenomenon present. Either it's night and there is a night sky, with or without stars; the sun is shining in the day or it's cloudy; there is a feeling of wind present or not. There is always some kind of natural phenomenon and that is because you cannot dream without the natural phenomenon; it is the nature of things, out of which the dream arises."</em> </p>
   
@@ -1557,6 +1602,15 @@ ns1:bcpov6kbheal a ns1:Post ;
 <p>Indeed, it's no coincidence that many Native American tribes have both a profound reverence for Nature and a profound respect for the communal wisdom of their dreams. Now, our culture needs to learn how to listen to this communal wisdom. We must begin to ask how our dreams can guide us in healing our relationship with the Earth.</p>
 
 <p><img src="../images/post-bcpov6kbheal-1.jpg" alt="Celtic design" width="200" height="auto"/></p>
+
+<h2>Notes:</h2>
+
+<ol>
+<li><p>These quotes are taken from the article "How We Can Save It", Greenpeace Magazine (Jan / Feb 1990), vol. IS #1 , pp. 4-8. </p></li>
+<li><p>The information on LaBudde's experiences on the Maria Luisa comes from Kenneth Brower's article "The Destruction of Dolphins", in The Atlantic Monthly (July 1989), pp. 35-58, and from my personal correspondence with Brower. The quotations regarding the dreams themselves come from my personal correspondence with LaBudde. </p></li>
+<li><p>John Muir, My First Summer in the Sierra, as quoted in Roderick Nash's The Rights of Nature (Madison, WI; U of Wisconsin Press, 1989) p. 40. </p></li>
+<li><p>This deeper connection between dreams and the environment - drea ms as an "inner wilderness", the environment as an "outer wilderness" - suggests that the dialogue could, and should, work in both directions. Not only can dreamwork contribute to environmental awareness and action; environmentalist insights can also contribute to dreamwork. In short, we also need to ask the question: What can healing the Earth tell us about dreams? While I don't have space in this essay to explore this other side of the dialogue, I would note the following ideas it suggests: that we not use dreams as "raw materials" to be exploited for our individual human desires and that we treat dreams with humility, respect, and reverence.</p></li>
+</ol>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqvbulk ;
     ns1:hasTag ns1:bcphbpfnwcb,
@@ -4870,20 +4924,6 @@ ns1:bcphbpfnwcb a ns1:Post ;
     ns1:profileImg "10.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "10.2-3"^^xsd:string .
 
-ns1:bcphbpqyqpo a ns1:Post ;
-    ns1:coverImg "11.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf" download="">Download issue 11.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoash2jt ;
-    ns1:itemId "bcphbpqyqpo"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 11, issue 1: Women's Dreams"^^xsd:string ;
-    ns1:profileImg "11.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "11.1"^^xsd:string .
-
 ns1:bcphbpumr2x a ns1:Post ;
     ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
@@ -5248,6 +5288,20 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:name "Volume 32, issue 1: Group Dreaming"^^xsd:string ;
     ns1:profileImg "32.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
+
+ns1:bcphbpqyqpo a ns1:Post ;
+    ns1:coverImg "11.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf" download="">Download issue 11.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoash2jt ;
+    ns1:itemId "bcphbpqyqpo"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 11, issue 1: Women's Dreams"^^xsd:string ;
+    ns1:profileImg "11.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "11.1"^^xsd:string .
 
 ns1:bcphbq3atki a ns1:User ;
     ns1:description """<p>Website: <a href="http://camerawilltravel.com/">camerawilltravel.com</a></p>
@@ -5781,18 +5835,6 @@ ns1:bcphbqbynum a ns1:User ;
     ns1:name "Edward Bruce Bynum, Ph.D., ABPP"^^xsd:string ;
     ns1:profileImg "author-edward-bynum.jpg"^^xsd:string .
 
-ns1:bcphbqvbulk a ns1:User ;
-    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://kellybulkeley.org/">kellybulkeley.org</a></p>
-
-<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion.  He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal Dreaming, and a former President of the International Association for the Study of Dreams.  He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School.  He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018).  He lives in Portland, Oregon.</p>
-"""^^xsd:string ;
-    ns1:handle "kellybulkeley"^^xsd:string ;
-    ns1:itemId "bcphbqvbulk"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Kelly Bulkeley"^^xsd:string ;
-    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
-
 ns1:bcphbqvlach a ns1:User ;
     ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>
 
@@ -6000,6 +6042,18 @@ ns1:bcphbq3wagg a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert Waggoner"^^xsd:string ;
     ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
+
+ns1:bcphbqvbulk a ns1:User ;
+    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://kellybulkeley.org/">kellybulkeley.org</a></p>
+
+<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion.  He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal Dreaming, and a former President of the International Association for the Study of Dreams.  He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School.  He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018).  He lives in Portland, Oregon.</p>
+"""^^xsd:string ;
+    ns1:handle "kellybulkeley"^^xsd:string ;
+    ns1:itemId "bcphbqvbulk"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Kelly Bulkeley"^^xsd:string ;
+    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
 
 ns1:bcpqn76e7n5 a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>

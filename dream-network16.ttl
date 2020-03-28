@@ -5616,7 +5616,7 @@ ns1:bcphbqvmack a ns1:User ;
     ns1:coverImg "cover-author-christamackinnon.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://christamackinnon.com/">christamackinnon.com</a></p>
 
-<p>Christa Mackinnon is the founder and director of Kamdaris Psychological Consultancy &amp; Training and the co-founder of <a href="https://www.womenweavingchange.com/">‘Women Weaving Change’</a> and of ‘The Modern Medicine Woman Training School’. She is the author of <a href="https://www.goodreads.com/book/show/14483175-shamanism-and-spirituality-in-therapeutic-practice">Shamanism and Spirituality in Therapeutic Practice</a>, Singing Dragon Editions, Jessica Kingsley Publishers and the author of <a href="https://www.goodreads.com/book/show/40587211-shamanism-made-easy">’Shamanism Made Easy - Awaken and Develop the Shamanic Force Within’</a>, Hay House International. </p>
+<p>Christa Mackinnon is the founder and director of 'Bridging the Worlds Training' and and the co-founder of <a href="https://www.womenweavingchange.com/">‘Women Weaving Change’</a> and of ‘The Modern Medicine Woman Training School’. She is the author of <a href="https://www.goodreads.com/book/show/14483175-shamanism-and-spirituality-in-therapeutic-practice">Shamanism and Spirituality in Therapeutic Practice</a>, Singing Dragon Editions, Jessica Kingsley Publishers and the author of <a href="https://www.goodreads.com/book/show/40587211-shamanism-made-easy">’Shamanism Made Easy - Awaken and Develop the Shamanic Force Within’</a>, Hay House International. </p>
 """^^xsd:string ;
     ns1:handle "christamackinnon"^^xsd:string ;
     ns1:itemId "bcphbqvmack"^^xsd:string ;

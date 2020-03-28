@@ -77,9 +77,5 @@ What you said about such states being ‘problematic in most professional and ma
 
 Yet if we want to solve the earth crisis, rather than being eliminated by the earth—if we want to evolve spiritually as well as in humaneness—we need to redress this imbalance. For a long time to come, we need to focus on bringing into the fore the basic aspects of the feminine—that which is deep, life incubating, life giving, life sustaining and life nurturing. ∞
 
-<img src="../images/post-bcpov6shaman-4.jpg" width="300" height="auto" alt="David Sparenberg in the forest"/>
-<div class="caption" style="text-align: center;"><i>David Sparenberg, a DNJ contributing editor, is author of two eco ebooks, both available as a free downloads at <a href="https://www.ovimagazine.com/cat/56">http://www.ovimagazine.com/cat/56</a></i></div>
-<br/>
-
 
 

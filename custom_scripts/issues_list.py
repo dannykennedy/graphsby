@@ -31,6 +31,12 @@ issues = [
         "date": "1982-07-01T11:32:52"
     },
     {
+        "imgName": "1.6",
+        "pdfName": "1.6_Dream_Network_Bulletin_Vol.1_No.6.pdf",
+        "title": "",
+        "date": "1982-08-01T11:32:52"
+    },
+    {
         "imgName": "1.7",
         "pdfName": "1.7_Dream_Craft_Volume_1_No._7.pdf",
         "title": "",

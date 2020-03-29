@@ -41,20 +41,6 @@ ns1:bcphbh7fv5e a ns1:Post ;
     ns1:profileImg "1.5-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.5"^^xsd:string .
 
-ns1:bcphbhe6wex a ns1:Post ;
-    ns1:coverImg "1.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1982-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.1_Dream_Network_Bulletin_Vol.1_Issue_1.pdf" download="">Download issue 1.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.1_Dream_Network_Bulletin_Vol.1_Issue_1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn7zvpei ;
-    ns1:itemId "bcphbhe6wex"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 1, issue 1"^^xsd:string ;
-    ns1:profileImg "1.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "1.1"^^xsd:string .
-
 ns1:bcphbhpaiyz a ns1:Post ;
     ns1:coverImg "1.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1982-04-01T11:32:52"^^xsd:dateTime ;
@@ -68,20 +54,6 @@ ns1:bcphbhpaiyz a ns1:Post ;
     ns1:name "Volume 1, issue 2"^^xsd:string ;
     ns1:profileImg "1.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.2"^^xsd:string .
-
-ns1:bcphbhs662v a ns1:Post ;
-    ns1:coverImg "1.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1982-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.3_Dream_Network_Bulletin_Vol.1_Issue_3.pdf" download="">Download issue 1.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.3_Dream_Network_Bulletin_Vol.1_Issue_3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn7zvpei ;
-    ns1:itemId "bcphbhs662v"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 1, issue 3"^^xsd:string ;
-    ns1:profileImg "1.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "1.3"^^xsd:string .
 
 ns1:bcphbhxekxp a ns1:Post ;
     ns1:coverImg "1.4-cover.jpg"^^xsd:string ;
@@ -278,20 +250,6 @@ ns1:bcphbjv6pkd a ns1:Post ;
     ns1:name "Volume 2, issue 7"^^xsd:string ;
     ns1:profileImg "2.7-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.7"^^xsd:string .
-
-ns1:bcphbjzjvrr a ns1:Post ;
-    ns1:coverImg "2.8-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-08-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.8-Dream-Network-Bulletin-Vol.2-No.8.pdf" download="">Download issue 2.8</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.8-Dream-Network-Bulletin-Vol.2-No.8.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn72unjj ;
-    ns1:itemId "bcphbjzjvrr"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 2, issue 8"^^xsd:string ;
-    ns1:profileImg "2.8-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "2.8"^^xsd:string .
 
 ns1:bcphbk2qeun a ns1:Post ;
     ns1:coverImg "2.12-cover.jpg"^^xsd:string ;
@@ -2355,6 +2313,46 @@ ns1:bcpov6krudhp a ns1:Post ;
     ns1:name "Whispers and Murmurs: Perspectives on 'Dreaming Humanity's Path'"^^xsd:string ;
     ns1:urlSlug "whispers-and-murmurs-perspectives-on-dreaming-humanitys-path"^^xsd:string .
 
+ns1:bcpov6master a ns1:Post ;
+    ns1:dateCreated "1982-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>De Chirico's paintings come from dimensions of awareness that our kinds of understanding are only imperfect derivatives of. Yet the paintings speak to us, loudly, deeply. They mysteriously transport us to nuances of comprehension not readily grasped or expressed in the ways we have been schooled to be limited to. In this sense they are not unlike our own dreams. could this be because they are our own dreams? I think so. The visions that de Chirico was able to express with such genius on canvas are not unique to him. It is our own deepest stirrings that he has brought before us. His paintings are mirrors of our own minds and souls, How much we can see in them is contingent upon how well we can know what is happening in ourselves. So they may convey quite different messages to different individuals, depending on how far along on the path to self-realization each is. Which message is real? Of course it's the one you feel the strongest that's most real for you. </p>
+
+<p>In our commercial culture art is mistakenly confused with the objects produced by artists. Nothing could be farther from the truth. Art is a mode of perception. The objects or paintings themselves are only ancillary. Yet they are essential to the process just as it is essential for me to put my impressions of these paintings into writing. Anything I can say about de Chirico's paintings is only what some part of me already knows but putting it into words liberates me by bringing this awareness to areas of my mind that aren't privy to this kind of knowing and thus causing them to release their restrictive hold on my natural unfolding. sounds like working with dreams? It is. </p>
+
+<p>Let me emphasize that I know nothing of de Chirico, nothing of painting, and certainly nothing of art criticism. It's the ways we have been taught to approach the art of the masters that kill the process in us all. I am fortunately unburdened by these. The three paintings I have chosen to write about are done scant justice by the photographs reproduced here. De Chirico's paintings don't work in black and white. To miss the color is to miss the meaning. But color paintings are prohibitively expensive to reproduce accurately. These black and white pictures of his paintings still convey the sense of something like dimly remembered dreams, but that "something" itself is gone. I urge our readers to attend this spectacular exhibit at the Museum of Modern Art in New York City. What this man is saying on canvas and what dreamwork is about are the same thing.</p>
+
+<p><img src="../images/post-bcpov6master-0.jpg" width="400" height="auto" alt="The Joy of Return"/></p>
+
+<h2>The Joy of Return</h2>
+
+<p>We live in a world of gray facades flying their black sperm flags of a false fertility, but they are no longer anything but facades. we can see through them, especially at the top. The machines have becomes the center of our world. We are alone, colorless, going to the somewhere that is nowhere to go. But there is a light behind the machine, there is something dawning behind the facades. There is a hope behind all of this bleakness. We can see through all this we know there is something brighter; the dawning of a post-industrial mentality. The man's head isn't on straight. He is each of us. De Chirico entitles this painting "The Joy of Return". What is returning is the light in the sky. It's dawn. It heralds the end of the night that our kind of consciousness and civilization has been for the human soul. It announces the dawn of a new age, a new way of being. </p>
+
+<p><img src="../images/post-bcpov6master-1.jpg" width="400" height="auto" alt="The Seer"/></p>
+
+<h2>The Seer</h2>
+
+<p>creativity is the key. The maker is the made. The artist is the work of art, sitting squarely on his pedestal. It is himself that he is working on. Self-tailored, still incompletely formed: a human, yet a dummy. How deformed are we who create, how powerless of limb. Yet how beautiful, erect, noble. How dead our heads are: deaf and dumb and blind to the inner vision that is burning brightly within us like a star. Could it be that we have to let go of all that our senses have been trained to see and hear and taste, and all that our arms and hands have been tramed to touch and feel? Certainly these trained systems are like so many trained monkeys seeing only what they have been taught. Relinquishing all that, we feel a different kind of sight emerging within us. we become the seer. The eye we see with is inside of us. It is the third eye, the eye of enlightened vision. This painting shows our predicament as creators. We have distanced ourselves from our blackboard of mental contructs, and even more so from the massive structure of our civilization. We are in a bare room that is no room at all but opens out mto the infinite. It's only out of this emptiness that a new world can be born. Only by owning our creativity will the new human emerge wtthm each of us. </p>
+
+<p><img src="../images/post-bcpov6master-2.jpg" width="500" height="auto" alt="The Transformed Dream"/></p>
+
+<h2>The Transformed Dream</h2>
+
+<p>An exploration of nuance and mood is what this painter's work is all about, the nuance of subtle metaphysical perception, the stuff of dreams brought to waking perception. The dream we are living is our culture - the heritage of past knowledge, the remains of the great men and thinkers. This dead dream of industialized architecture that the thinking mind has constructed all around us is transformed with the more delicate substance that comes from within us, not just from night dreams but from altered states of perception that move from them into our waking life - ephemeral things, these modalities, luscious and fresh like a banana, bountiful and ripe like a whole copious stalk of bananas, aromatic and delicious like the prickly pineapple with its teasing promise of sweetness. The past we've contructed all around us is transformed by these newly emergent modalities of perception. </p>
+
+<p>The dreams we have dreamt into reality all around us are dead substance but become transformed when we open up to the continued unfolding of this dream which places its precious bounty on the altar of the reality that we worship and is its only legitimate compliment. Our world - that empty parade of forms like the ruins of some dead civilization becomes transformed. To dream and to become: only this will populate our world with the life that is the most precious and exotic food for our souls. Only this makes everything else beautiful and fitting. Only this brings life into what all around us is dead. </p>
+
+<p>If art such as de Chirico's is invaluable it is only because it brings us closer to what is happening within us all. His genius mirrors our own. We can't all be great painters like him but we are all - yes, every one of us - great dreamers. And each of us, to do justice to this great dream emerging from within us, must struggle to find his own ways to bring it to the light of day as de Chirico did. Only in this way, and in no other, can we save a world that has grown dead and gray.</p>
+
+<p><img src="../images/post-bcpov6master-3.jpg" width="400" height="auto" alt="Chirico exhibition ad"/></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbhs662v,
+        ns1:bcphbqvstim ;
+    ns1:itemId "bcpov6master"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Dreams of a Master"^^xsd:string ;
+    ns1:urlSlug "the-dreams-of-a-master"^^xsd:string .
+
 ns1:bcpov6pacmm a ns1:Post ;
     ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/relationship-dreams-rect.jpg"/><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf">View online</a></p></p>
@@ -2380,6 +2378,41 @@ ns1:bcpov6pimag a ns1:Post ;
     ns1:name "Satisfy the Image"^^xsd:string ;
     ns1:profileImg "satisfy-the-image-sml.jpg"^^xsd:string ;
     ns1:urlSlug "satisfy-the-image"^^xsd:string .
+
+ns1:bcpov6sarmed a ns1:Post ;
+    ns1:dateCreated "1982-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>What we're dealing with in dreamwork, in short, is counterconditioning. Constantly we're blasted by what's all around us with what we should think and feel. It's so easy to let a lot of our decisions be made by all that noise. Meanwhile we're being just as consistently informed from within by a different source. Our dreams tell us what we do think and what we do feel and what we do perceive. </p>
+
+<p>Dreams, like little children, can't help but be truthful. They are the accurate map to our reality. The one we're being spoon fed day and night from external sources isn't so much wrong as it is outdated, like an ancient map with inaccurately depicted shorelines. </p>
+
+<p>Why then is it so assiduously propounded by everything and everyone around us? Because it serves to maintain things as they are and we all profit more than we care to realize by keeping things just as they are. Not just those in economic or political power who are profiting at our expense. Not just those who grow rich as we grow fat or as others starve. Not just those who get powerful when we stay poor; or who get even richer when we try to get rich. Not just those who earn fat therapy fees when we stay confused about who we really are. Not just all of those. But we ourselves benefit from keeping the parts of the world today where change is breaking through to the surface - Poland, Afghanistan, El Salvador, Guatemala. Change always involves turmoil, a return to chaos before the new more inclusive order emerges. It's nothing other than the creative process that is at work. Anyone who has embarked on the path of creative personal transformation knows what I mean. True work with dreams often brings disruption and indecision and chaos before it heralds in the higher level of awareness that a lone enables a deeper, truer life. It's not nice to be miserable but it's a little more bearable if we don't know it. So we read about Poland and El Salvador in the newspapers and forget our dreams. If they persist in forcing themselves upon our awareness, then we manage to not understand them. It's easier. It allows us to stay as we are. </p>
+
+<p>If, by working with dreams, we do manage to free ourselves from an intolerable domination like Cuba or Vietnam did, we congratulate ourselves, ignoring that we may have landed under a different but equally intolerable oppressor. The movement toward freedom tries to continue as in Poland but meets powerful resistance. The chaos it entails is too disruptive. It's easier to remain fixated somewhere along the way where we can congratulate ourselves on our progress while doing everything in our power to defeat the ongoing process. But the process won't stop. It will merely find someone else in whom it can carry itself forward. Most of society is composed of dead souls, washed up on the shore of their fixation to a stagnant life. History moves through the rare individuals: "I have a dream," Martin Luther King said. </p>
+
+<p>Domination from any one super strong component of our total souls is intolerable. Total freedom is the only aim. Freedom from within. For each part of us to be free to be what it is. Not for some other part of us, however strong and valid and important, to tell it what it should be. The repressed part will always merely go underground, into our dreams, towage its guerrilla warfare. If the smallest segment of the whole circle is rejected, we don't have a circle anymore. The tiniest excluded part of us can easily sabotage the whole and cause all our good aims to go awry. An age old axiom goes, "As without, so also within." What are our souls like? Look at our world, our society, our environment, our bodies. Need I say more? </p>
+
+<p>So we are polluted, we are dominated, we are ravaged, we are unreal, and hence, we are ineffectual in achieving what can really make our lives work. </p>
+
+<p>These ideas aren't new. Everybody knows these things. Read any psychology book or New Age manifesto. But such knowledge hasn't helped us. Knowing with the mind is of little import. When we know in the real sense, the only sense that signifies, we become, we transform. D.H. Lawrence, poor misled man, was right all along when he talked of "knowing with the blood." Unfortunately though, it was all an intellectualization with him. The disease that his life was eventually overtook him, as it will us all. </p>
+
+<p>There is a way out, though. You don't even have to work with your dreams but dreamwork makes it easier, much easier, for people like us. Krishnamurti maintains that when we become enlightened we cease dreaming. Reality itself becomes the dream that we write. Nothing is forced into the underground to wage its guerrilla fight toward our awareness. Everything that weare is admitted into our being. The battle is over. Freedom is won. Life itself becomes deeper and fuller and more beautiful than we could ever dream. I haven't reached that ultimate state. I have only tasted little glimpses but these have shown me that it is the only thing worth pursuing. </p>
+
+<p>My work with dreams has shown me that our society is a lie. Our lives are lies. The things I have wanted aren't the things I want. The things I have needed aren't the things I need. What I was and am isn't what it is to be a human being. Working with dreams and with creativity (I am writing a novel that came from a dream) has carried me to the portal of a new way of being. I started the dream community of New York perhaps because I'd rather not be alone as I take the next few steps. </p>
+
+<p>Armed with our dreams we have a weapon that can turn this society upside down by turning our lives around. The greatest battles waged throughout history have been within the souls of a few brave men and women. All the rest has been noise, an externalized reverberation from these great happenings. To work with dreams in the deepest sense is to be a leader in the revolution of human consciousness.</p>
+
+<hr>
+
+<p><em>First published as 'Dreams as a Subversive Activity' in Dream Network Bulletin, Vol. 1 Issue 1. Reprinted as 'Armed With Our Dreams', in Dream Network Journal Volume 11 Issue 2.</em> </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbhe6wex,
+        ns1:bcphbpumr2x,
+        ns1:bcphbqvstim ;
+    ns1:itemId "bcpov6sarmed"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreams as a Subversive Activity"^^xsd:string ;
+    ns1:urlSlug "dreams-as-a-subversive-activity"^^xsd:string .
 
 ns1:bcpov6shaman a ns1:Post ;
     ns1:dateCreated "2013-04-01T11:32:52"^^xsd:dateTime ;
@@ -2465,6 +2498,299 @@ ns1:bcpov6shaman a ns1:Post ;
     ns1:name "A Shamaness in Devonshire: An Interview with Christa Mackinnon"^^xsd:string ;
     ns1:profileImg "post-bcpov6shaman-0.jpg"^^xsd:string ;
     ns1:urlSlug "a-shamaness-in-devonshire-an-interview-with-christa-mackinnon"^^xsd:string .
+
+ns1:bcpov6shanth a ns1:Post ;
+    ns1:dateCreated "1983-08-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>The dream mind takes everything in. It makes pictures and stories out of more data than we consciously realize we have at our disposal. The dream mind sees everything fresh. It combines something that happened yesterday with something that happened twenty years ago to liberate an entirely novel perception. Its scope is broader because it is less focused. Perhaps we might vaguely compare the dream mind with the coarse adjustment system on a microscope and the waking mind with the high power fine adjustment apparatus. It is obvious to us that when using the microscope to best advantage we must move back and forth between the two systems. How strange that we are never trained to use our minds in this way also. The dream mind is virtually ignored by our educational system. Our waking minds are trained as if they operated alone, as if they were the only minds we had. What an interesting folly we have created. </p>
+
+<p>This folly becomes patently evident after a while to one who works with his own dreams. Perhaps at first he sees the folly of his life as an inadequacy of his own. He is at the "Something-Is-Wrong-With-Me" stage. But after he has worked with many many dreams and filled several shelves with the dream journals, he becomes aware of himself in a different way and starts to see the world differently too. When he becomes aware of his own ignorance, he is not ignorant anymore. To the degree that he is able to realize his continuing ignorance, he becomes wise. When he can admit his total ignorance, that man is enlightened. All this is called the Creative Process by some. Others call it The Path. It is operative in every individual who has freed himself from conditioning. He is not a robot anymore. He is a human being. The only thing that can condition one such as this is the reality of the moment as he perceives it with his own ever more refined senses. He begins to see through the shallow forms of culture to its universally denied essence. For example, whereas millions adhere to the belief that the Virgin Birth was something that happened to the mother of Jesus in history, he sees that myth as a metaphor for the Creative Process each of us must go through in order to be reborn from our minds !nto our hearts, a higher site of intelligence. For when we are thinking with our feelings, we are thinking accurately. We discover that our feelings are our thoughts. Such complicated thoughts! We cannot easily accomodate them but if we ignore them a false kind of intelligence is born in us. Our minds can no longer think. They are stupid. They are blocking out too much eata. They settle for false substitues for the thing itself. We aren't playing with a full deck anymore. </p>
+
+<p>A timely example is the "jihad" or Holy War of the Moslems. Today there are millions in Iran willing to slaughter their own ethnic brothers in the service of this "Holy" mission. But the Holy War is not a war between men or nations. It is a war within each of us. Its weapons are not violence and treachery but peace and love. It is the Creative Process of reowning the whole of ourselves. If we are locked up in our bodies, it means reowning our minds. If we are locked up in our minds, it means reowning our bodies. We can be locked up in our hearts too if that was the only place of refuge we had during the course of our development. What a turbulent black hole this place can be and many of us are perhaps a little psychotic. How else to explain the world we create around us? Of course, we don't see our world as psychotic. Do you think the Iranian zealot sees how crazy the order is that he serves? No, he can only see our kind of craziness, not his own. He is a blind man causing a great deal of pain and misery in the world. He is a lot like us. </p>
+
+<p>I think it is clear that in matters of religion we are a lot like the Cargo-cultist of the Pacific Islands, going through the motions of the thing as a way to get the thing itself. We laugh at the Melanesian who makes a cardboard carton refrigerator and sits at an upturned crate "table" pretending to drink from an empty beer can in order to capture the magic that will bring him the wealth and success of the White Man. Bm we take our own stupid substitutes for religion just as seriously as the native takes the cardboard carton refrigerator in which he carefully replaces his rusty old beer can. </p>
+
+<p>"O.K." I have heard some modern intellectuals say, trying to set themselves above all this stupidity, "But I am an atheist. I believe in Science. In Science we see things as they are. In Science we don't fall prey to all this foolishness. Science is Exact." Hah! How the Dream laughs every time we become exact! What pleasure it will have with us now that we think we know something! And how the Dream cries every time we turn our back on it like this, every time we sell out to a metaphor at the price the the thing itself. Let us take a look at Science, the established religion of our modern culture, and see if it is immune from the follies we inflict upon ourselves by ignoring our creative side. Anthropology is as good an example as any. </p>
+
+<p>Let's say we live in an age of sexual supression. Our bodies themselves dream of freedom. Let's say we are Margaret Mead. Let's say we visit Samoa. Let's say the dream in our body is liberated by the exotic surroundings. We are Anthropologists performing an exact science but do we see the Samoans or do we see what the Samoans liberate within us? Is what we are seeing not actually our own dream? One who has not worked extensively with his own dreams would object if we told him the world he sees around him with his own eyes is only his dream. But those of us who have worked ourselves in a little closer with our own dream minds have discovered over and over again that when we can own our own desires and wants and express these freely we no longer have an emotional need to misconstrue the reality we see around us. We can see things more clearly for what they are. It is only when we begin to awaken that we realize we're living a dream. New facts now come to the fore. </p>
+
+<p>We are told now that the factual reality for Margaret Mead's reports of sexual freedom in Samoa was never there in the first place. The new facts appear to be sound. But should Margaret Mead be attacked as a bad Anthropologist? Maybe the whole thing has nothing at all to do with her. She lived in an age that longed for sexual freedom. Through her that age created a fiction that helped dispel its ignorance of itself. Through her eyes it saw in the Samoans what it needed to find in itself. I guess psychologists would call this a "projection." We see in others what we disown in ourselves. A projection is a fiction. It is something that doesn't exist "out there" but "in here." Margaret Mead gave her generation the fiction it needed to liberate itself. Gaugain was off in Tahiti, illustrating the text. </p>
+
+<p>Our Science, like our lives, is largely a fiction. This realization is threatening to the modern intellectual who is unschooled in the ways of the dream mind. He lashes out at Margaret Mead as a bad Anthropologist. She was a good Anthropologist, but she was an Anthropologist of her time, as all others are. And among the Anthropologists of her time she was a genius. </p>
+
+<p>What is a genius? A genius is a great artist. He may be a physicist like Einstein or a psychologist like Freud, depending on what art form he chooses. Oh how this grates against the nerve of those who need to think in categories! Their minds are in a straightjacket. Margaret Mead was a genius because she played a major role in freeing the mind of her generation from the particular straightjacket that had been imposed upon it. Should she be criticized for using Anthropology as her art form? After all, aren't all of our explorations really explorations of ourselves? Out of our body's dreams we weave art.</p>
+
+<p>From that art we find a new reality. The sexual freedom Margaret Mead painted among the Samoans has now permeated our own culture. Like anything long buried, it has gone a little "bad" and is emerging in some strange ways. But the fresh air will shake it out a bit. It will be its old self again after a few generations, a self that it has never been able to be before, anywhere, ever. It has a freedom now it never had before. And when we begin to taste that freedom ourselves we can see why it needs to be restricted. But the difference now is that we will restrict it in our own ways, the ways that work for us, and not with the rigid formulae that are culturally imposed from a time in history when conditions were not as they are now. Margaret Mead and the other great artists of her generation set us free. The world as they saw it was a fictitious creation of their own dreams. Their dreams became our actuality. As a result, we can see the world a little differently. We can see the Samoans a little differently. Anthropology has changed because we have changed and we see things differently now.</p>
+
+<p>I think it is in this light that we must examine the growing controversy over Kilton Stewart's Anthropology of the Senoi and the dream psychology that a number of individuals have fashioned from it. What I am proposing we do is look at the situation in reverse. Instead of imagining that we are actually finding out the truth about the Senoi finally, let us realize that the only thing we are really exploring in our studies of the Senoi is our ability to perceive the truth about ourselves. </p>
+
+<p>I for one am not in any position to know the facts about that tribe but from the letters I have been receiving of late, which unfortunately I have been asked not to publish, I am reasonably convinced that Stewart's Anthropology can be seen now as another fiction. It hardly matters that his study was a detailed and thorough one, as several have pointed out. The issue may not be whether he was a good or a bad Anthropologist, although it seems some are trying to make it into that. The issue may merely be that the unfelt needs of his own culture and his own generation colored what he saw and reported. Anthropology once again became an art form. Anthropology once again taught us something about ourselves. How arrogant to assume it could ever teach us anything else. How presumptuous to assume that what we see and report is ever reality itself. How blind to see our Science as anything more than a reflection of our own state of conscious development. </p>
+
+<p>If we examine Kilton Stewart's marvelous fiction as a specimen of consciousness of the society that created it, we see our own denied dreams leaping out at us. Have you ever heard of Senoi dream workshop leader expounding on how peaceful and creative the tribe is? The very tones that he uses show that he's talking about a dream he has in his own heart, a vision he has for his own society: a vision of interpersonal harmony, absence of crime and insane violence; a vision of sharing and communication between individuals in society and between those individuals and society itself that is deep and powerful and creative. Is ts any wonder that Kilton Stewart's study of a remote Malaysian tribe was seized upon by so many individuals in our society? It reflects our own dream of creative freedom from the kind of bureaucratic and repressive society that results when we ignore our dreaming mind-the kind of society that poisions our very relationship with violence and sickness. How wonderful and simple it would be if we only needed to attend to our dreams to free ourselves from all this. Maybe people were only too ready to believe Kilton Stewarts study because it was true, not for the Senoi, but for us. </p>
+
+<p>It remains to be seen what the actual facts about the Senoi are. But we can no longer deny that Kilton Stewart's Anthropology has taught us much about ourselves. It was a picture of our own future, like fiction often is; It immediately began to permeate our lives, as good art always does. The idea got out that a healed society was possible if only we would reown our own deepest dreams, the furthermost reaches of our own consciousness, the thoughtforms of our own bodies-our feelings. Maybe a few more of us now are finally ready to let go of our dead religions and our false sciences and embark, each one of us, on the Path of the great ones from Jesus to Einstein-that process of creative transformation of self and relationship that will revolutionize our world like it has never been revolutionized before. The Science of the future will become the science of the impossible as slowly we begin to take off our straightjackets and discover ourselves, each other, and the world for the first time.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbjzjvrr,
+        ns1:bcphbqvstim ;
+    ns1:itemId "bcpov6shanth"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Anthropology of the Dream People"^^xsd:string ;
+    ns1:urlSlug "anthropology-of-the-dream-people"^^xsd:string .
+
+ns1:bcpov6shpoet a ns1:Post ;
+    ns1:dateCreated "1982-08-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6shpoet-0.jpg" width="400" height="auto" alt="Clouds"/></p>
+
+<p><!--nopreview--><h2>Clouds</h2><!--/nopreview--></p>
+
+<p><!--nopreview--><h3>By Charles Tomlinson</h3><!--/nopreview--></p>
+
+<pre>
+
+How should the dreamer, on whose slow
+
+  Solidities fix his wandering adagio,
+
+Seizing, bone-frail, blown
+
+  Through the diaphanous air of their patrols,
+
+Shadows of fanfares, grails of melting snow?
+
+  How can he hope to hold that white
+
+Opacity as it endures, advances,
+
+  At a dream's length? Its strength
+
+Confounds him with detail, his glance falls
+
+  From ridge to ridge down the soft canyon walls.
+
+And, fleeces as it may seem, its tones
+
+  And touch are not the fleece of dream,
+
+But light and body, spaced accumulation
+
+  The mind can take its purchase on:
+
+Cloudshapes are destinies, and they
+
+  Charging the atmosphere of a common day,
+
+Make it the place of confrontation where
+
+  The dreamer wakes to the categorical call
+
+And clear cerulean trumpet of the air.
+
+</pre>
+
+<p><br></p>
+
+<p><em>It is the role of the dream to wake us up to nuances and other dimensions of perception. What we can dream, we can become. The purpose of working with dreams is to bring those kinds of perceptions into our waking lives where they can confront the intellectualized, thinking-based fiction that we might otherwise settle for as our personal reality. There is something impossible about confronting the dream on any terms other than its own. And when we confront it on its own terms, our lives can't help but be transformed by its dimensions and transfused with clarity and poetry.</em></p>
+
+<p><br></p>
+
+<p><img src="../images/post-bcpov6shpoet-2.jpg" width="400" height="auto" alt="Swans"/></p>
+
+<h2>untitled poem</h2>
+
+<h3>by David Dunn</h3>
+
+<pre>
+
+the white necks of the swans
+
+catch the pulse of the moonlight
+
+thru the branches
+
+a woman who can not sleep
+
+in this heat
+
+walks along the edge of a bay
+
+or lake.
+
+the swans drift in circles.
+
+the woman lays in the damp grass.
+
+she dreams of a man
+
+that her touch
+
+turns into a swan.
+
+</pre>
+
+<p><br></p>
+
+<p><em>Could it be that much of psychology has it backward and that the objects of our waking joys are, as often as not, only symbolic of what we really need, not the real thing? Could it be that, in our dreams, the real thing can burst through this waking symbolism and appear for what it really is? In our dreams, we are so close to the heat of what we really feel that we can sleep no more in the slumber of sublimations and substitutions that we settle for in waking life. Our real needs are felt for what they are.</em></p>
+
+<p><br></p>
+
+<p><img src="../images/post-bcpov6shpoet-1.jpg" width="400" height="auto" alt="Leopard"/></p>
+
+<h2>SHAMANIC No. 3 (First Guard: Snow Leopard)</h2>
+
+<h3>by John T Kellnhauser</h3>
+
+<pre>
+
+Across the mountainpeak Ellesmeres
+
+where spring never arrives,
+
+the glacial years' collision of continents
+
+have carved ice cliffs
+
+none but the most magnificently furred
+
+can travel without falling.
+
+Quick rosettes - silver hoar
+
+grey between boulder shadows,
+
+the sun ignites the snow -
+
+painlight bursts in
+
+to crowd the eyes from their sockets.
+
+Some men go blind, looking.
+
+At night there is ever
+
+only shadow swirling,
+
+pale whites, unfocused penumbrance
+
+amid black and black grey.
+
+Certain things live
+
+to be only almost seen,
+
+to purr "I Exist"
+
+and leave a single clawprint's
+
+question mark
+
+on the snowcrags of the mind.
+
+</pre>
+
+<p><br></p>
+
+<p><em>Is the poet writing about consciousness states or about landscapes? Or is there a modality of cognition where the two are the same and where what is seen is realized as a metaphor for what is unseen, felt? Dreamstates, powerful yet furtive like snow leopards, leave their imprints upon the snow of our waking minds, but only their imprints. Working with dreams, we can hope for more than the occasional tracks that that other creature in us leaves across our lives, we can come face to face with him, we can become something that is at once him and ourselves. We are that purring bundle of warmth and life that inhabits the frozen landscape of our waking lives and, at the same time, we are that frozen landscape also. Somehow, it is very natural for things to be like this. This is the consolation that the snow leopard teaches us and, cold and desolate as our lives become, we can always know that something alive and warm thrives in us, purring "I Exist."</em></p>
+
+<p><br></p>
+
+<p><img src="../images/post-bcpov6shpoet-3.jpg" width="400" height="auto" alt="Factory"/></p>
+
+<h2>Dream of the Factory</h2>
+
+<h3>by Alan Steinberg</h3>
+
+<pre>
+
+The long hair of your dreams
+
+is tangled in the machinery
+
+of your life.
+
+Somewhere there is a switch
+
+that will turn off the whole assembly,
+
+but a metal fist holds you.
+
+  Look now, from the corners of your
+
+startled eyes - the spindles of thread
+
+are spinning on their shoots, pulling
+
+and twining the flax of your mind,
+
+the memories spun out in little snatches
+
+of color, the emptiness
+
+in long stretches of white or gray. Already
+
+you have lost the knowledge of words
+
+lost even the reflex of screaming.
+
+Now your legs would not support you,
+
+nor would your hands remember
+
+the direction of your face.
+
+</pre>
+
+<pre>
+
+Only when the shuttles of the great loom
+
+lurch into action
+
+are you released to consciousness
+
+upon the bed - the metallic grating
+
+still vibrating through your bones.
+
+You stare at the ceiling in the dark
+
+sweating
+
+What are they weaving there, in the big room?
+
+For a moment you think of silk gowns,
+
+of Persian carpets and flame-yellow shawls.
+
+But no, no - somewhere sack cloth
+
+is being jerked from bolts
+
+and stitched,
+
+and the brush of floating lint
+
+reminds you of life
+
+but only for a moment.
+
+</pre>
+
+<p><br></p>
+
+<p><em>Why is it that we are not, most of us, fully conscious in dreams without awakening? Why is it that perhaps 95% of the population are not lucid dreamers? Could it be because, if we were, we would interfere with the dream too much? Could it be that what we would weave for ourselves with mental interpretations is gunny sack cloth when compared to the Persian carpet that some other agency within us, or working through us, is destined to arrive at? What is being woven in dreams is not just our own lives but the destiny of the human race. What is being fabricated in our dreams is something larger and more intricately beautiful than any of us could ever possibly be aware that we are a part of. Our lives are so much more impoverished than our possibilities. But the dream keeps moving, generation by generation, to the surface. It knows its own time, and it knows its time will come. It is the living bud. Our theories and ideas are the dry scales that fall from it.</em></p>
+
+<hr/>
+
+<p><em>"Clouds" was taken from <strong>Selected Poems 1961-1974</strong> by Charles Tomlinson, &copy;Charles Tomlinson 1978. Reprinted by permission of Oxford University Press. David Dunn, the author of <strong>"untitled poem"</strong> has been published in various places. He keeps track of his dreams and teaches poetry workshops.  John T. Kellnhauser, author of the Snow Leopard poem, is a poet and zoologist. He wrote the 'Tips from a Dreamer" column in the last issue. Alan Steinberg's poem <strong>"Dream of the Factory"</strong> was taken with permission from UROBOROS, a literary review published by Allegany Mountain Press, 111 North Tenth Street, Olean, N.Y. 14760.</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbibyfox,
+        ns1:bcphbqvstim ;
+    ns1:itemId "bcpov6shpoet"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "What Poets Have to Tell Dreamers"^^xsd:string ;
+    ns1:profileImg "post-bcpov6shpoet-1.jpg"^^xsd:string ;
+    ns1:urlSlug "what-poets-have-to-tell-dreamers"^^xsd:string .
 
 ns1:bcpov6tqqf6 a ns1:Post ;
     ns1:dateCreated "1993-01-01T11:32:52"^^xsd:dateTime ;
@@ -4971,6 +5297,62 @@ ns1:bcphb2kqfhu a ns1:Post ;
     ns1:profileImg "33.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.4"^^xsd:string .
 
+ns1:bcphbhe6wex a ns1:Post ;
+    ns1:coverImg "1.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1982-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.1_Dream_Network_Bulletin_Vol.1_Issue_1.pdf" download="">Download issue 1.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.1_Dream_Network_Bulletin_Vol.1_Issue_1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
+    ns1:itemId "bcphbhe6wex"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1, issue 1"^^xsd:string ;
+    ns1:profileImg "1.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "1.1"^^xsd:string .
+
+ns1:bcphbhs662v a ns1:Post ;
+    ns1:coverImg "1.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1982-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.3_Dream_Network_Bulletin_Vol.1_Issue_3.pdf" download="">Download issue 1.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.3_Dream_Network_Bulletin_Vol.1_Issue_3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
+    ns1:itemId "bcphbhs662v"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1, issue 3"^^xsd:string ;
+    ns1:profileImg "1.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "1.3"^^xsd:string .
+
+ns1:bcphbibyfox a ns1:Post ;
+    ns1:coverImg "1.6-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1982-08-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.6_Dream_Network_Bulletin_Vol.1_No.6.pdf" download="">Download issue 1.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.6_Dream_Network_Bulletin_Vol.1_No.6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
+    ns1:itemId "bcphbibyfox"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1, issue 6"^^xsd:string ;
+    ns1:profileImg "1.6-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "1.6"^^xsd:string .
+
+ns1:bcphbjzjvrr a ns1:Post ;
+    ns1:coverImg "2.8-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-08-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.8-Dream-Network-Bulletin-Vol.2-No.8.pdf" download="">Download issue 2.8</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.8-Dream-Network-Bulletin-Vol.2-No.8.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
+    ns1:itemId "bcphbjzjvrr"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 2, issue 8"^^xsd:string ;
+    ns1:profileImg "2.8-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "2.8"^^xsd:string .
+
 ns1:bcphblsydwp a ns1:Post ;
     ns1:coverImg "4.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-03-01T11:32:52"^^xsd:dateTime ;
@@ -5026,20 +5408,6 @@ ns1:bcphbnlbw5k a ns1:Post ;
     ns1:name "Volume 7, issue 2"^^xsd:string ;
     ns1:profileImg "7.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.2"^^xsd:string .
-
-ns1:bcphbpumr2x a ns1:Post ;
-    ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf" download="">Download issue 11.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoash2jt ;
-    ns1:itemId "bcphbpumr2x"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 11, issue 2: Men's Dreams"^^xsd:string ;
-    ns1:profileImg "11.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "11.2"^^xsd:string .
 
 ns1:bcphbqp3hfp a ns1:Post ;
     ns1:coverImg "12.4-cover.jpg"^^xsd:string ;
@@ -5433,6 +5801,20 @@ ns1:bcphbpqyqpo a ns1:Post ;
     ns1:name "Volume 11, issue 1: Women's Dreams"^^xsd:string ;
     ns1:profileImg "11.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "11.1"^^xsd:string .
+
+ns1:bcphbpumr2x a ns1:Post ;
+    ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf" download="">Download issue 11.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoash2jt ;
+    ns1:itemId "bcphbpumr2x"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 11, issue 2: Men's Dreams"^^xsd:string ;
+    ns1:profileImg "11.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "11.2"^^xsd:string .
 
 ns1:bcphbq3atki a ns1:User ;
     ns1:description """<p>Website: <a href="http://camerawilltravel.com/">camerawilltravel.com</a></p>
@@ -6269,6 +6651,24 @@ ns1:bcphbqvbulk a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Kelly Bulkeley"^^xsd:string ;
     ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
+
+ns1:bcphbqvstim a ns1:User ;
+    ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.billstimson.com/">billstimson.com</a></p>
+
+<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
+
+<p>Dr. William R. Stimson is the founding editor of the Dream Network. </p>
+
+<p>Now living in Taiwan, Dr. Stimson teaches the Montague Ullman experiential dream group course at Tunghai University and at National Chi Nan University, leads free monthly all-day Ullman dream groups in Taipei and Taichung, and leads a weekly Wednesday afternoon dream group in the Counseling Center at Taiwan's National Chi Nan University.</p>
+
+<p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
+"""^^xsd:string ;
+    ns1:handle "billstimson"^^xsd:string ;
+    ns1:itemId "bcphbqvstim"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "William R. Stimson"^^xsd:string ;
+    ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
 
 ns1:bcphbq3arts a ns1:User ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>

@@ -16,3 +16,8 @@
   font-family: Lora, serif;
   line-height: 1.4em;
 }
+
+#post .item-card pre {
+  font-family: Lora, serif;
+  line-height: 0.8em;
+}

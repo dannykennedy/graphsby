@@ -1360,20 +1360,6 @@ ns1:bcphby5wc2q a ns1:Post ;
     ns1:profileImg "30.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "30.1"^^xsd:string .
 
-ns1:bcphbyjvotn a ns1:Post ;
-    ns1:coverImg "28.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2009-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.4_destiny.pdf" download="">Download issue 28.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.4_destiny.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqochapy2 ;
-    ns1:itemId "bcphbyjvotn"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 28, issue 4: Destiny"^^xsd:string ;
-    ns1:profileImg "28.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "28.4"^^xsd:string .
-
 ns1:bcphbyl3dut a ns1:Post ;
     ns1:coverImg "29.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2010-01-01T11:32:52"^^xsd:dateTime ;
@@ -1387,20 +1373,6 @@ ns1:bcphbyl3dut a ns1:Post ;
     ns1:name "Volume 29, issue 1: Healing"^^xsd:string ;
     ns1:profileImg "29.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.1"^^xsd:string .
-
-ns1:bcphbyoxe6n a ns1:Post ;
-    ns1:coverImg "29.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2010-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.2_back_to_the_future.pdf" download="">Download issue 29.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.2_back_to_the_future.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocknhzs ;
-    ns1:itemId "bcphbyoxe6n"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 29, issue 2: Back to the Future"^^xsd:string ;
-    ns1:profileImg "29.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "29.2"^^xsd:string .
 
 ns1:bcphbzaknqj a ns1:Post ;
     ns1:coverImg "30.2-3-cover.jpg"^^xsd:string ;
@@ -2345,9 +2317,7 @@ ns1:bcpov6master a ns1:Post ;
 
 <p><img src="../images/post-bcpov6master-3.jpg" width="400" height="auto" alt="Chirico exhibition ad"/></p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqvstim ;
-    ns1:hasTag ns1:bcphbhs662v,
-        ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbhs662v ;
     ns1:itemId "bcpov6master"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Dreams of a Master"^^xsd:string ;
@@ -2405,10 +2375,8 @@ ns1:bcpov6sarmed a ns1:Post ;
 
 <p><em>First published as 'Dreams as a Subversive Activity' in Dream Network Bulletin, Vol. 1 Issue 1. Reprinted as 'Armed With Our Dreams', in Dream Network Journal Volume 11 Issue 2.</em> </p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqvstim ;
     ns1:hasTag ns1:bcphbhe6wex,
-        ns1:bcphbpumr2x,
-        ns1:bcphbqvstim ;
+        ns1:bcphbpumr2x ;
     ns1:itemId "bcpov6sarmed"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dreams as a Subversive Activity"^^xsd:string ;
@@ -2529,9 +2497,7 @@ ns1:bcpov6shanth a ns1:Post ;
 
 <p>It remains to be seen what the actual facts about the Senoi are. But we can no longer deny that Kilton Stewart's Anthropology has taught us much about ourselves. It was a picture of our own future, like fiction often is; It immediately began to permeate our lives, as good art always does. The idea got out that a healed society was possible if only we would reown our own deepest dreams, the furthermost reaches of our own consciousness, the thoughtforms of our own bodies-our feelings. Maybe a few more of us now are finally ready to let go of our dead religions and our false sciences and embark, each one of us, on the Path of the great ones from Jesus to Einstein-that process of creative transformation of self and relationship that will revolutionize our world like it has never been revolutionized before. The Science of the future will become the science of the impossible as slowly we begin to take off our straitjackets and discover ourselves, each other, and the world for the first time.</p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqvstim ;
-    ns1:hasTag ns1:bcphbjzjvrr,
-        ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbjzjvrr ;
     ns1:itemId "bcpov6shanth"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Anthropology of the Dream People"^^xsd:string ;
@@ -2783,9 +2749,7 @@ but only for a moment.
 
 <p><em>"Clouds" was taken from <strong>Selected Poems 1961-1974</strong> by Charles Tomlinson, &copy;Charles Tomlinson 1978. Reprinted by permission of Oxford University Press. David Dunn, the author of <strong>"untitled poem"</strong> has been published in various places. He keeps track of his dreams and teaches poetry workshops.  John T. Kellnhauser, author of the Snow Leopard poem, is a poet and zoologist. He wrote the 'Tips from a Dreamer" column in the last issue. Alan Steinberg's poem <strong>"Dream of the Factory"</strong> was taken with permission from UROBOROS, a literary review published by Allegany Mountain Press, 111 North Tenth Street, Olean, N.Y. 14760.</em></p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqvstim ;
-    ns1:hasTag ns1:bcphbibyfox,
-        ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbibyfox ;
     ns1:itemId "bcpov6shpoet"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "What Poets Have to Tell Dreamers"^^xsd:string ;
@@ -4677,6 +4641,40 @@ ns1:bcpov6zmcat2 a ns1:Post ;
     ns1:name "Dream Categories: Part Two"^^xsd:string ;
     ns1:urlSlug "dream-categories-part-two"^^xsd:string .
 
+ns1:bcpov6zmossr a ns1:Post ;
+    ns1:dateCreated "2012-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.goodreads.com/book/show/13239379-dreaming-the-soul-back-home"></p>
+
+<p><img src="../images/post-bcpov6zmossr-0.jpg" width="200" height="auto" alt="Dreaming The Soul Back Home"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Dreaming The Soul Back Home: Shamanic Dreaming for Healing and Becoming Whole By <a href="../@robertmoss">Robert Moss</a> New World Library, June 15, 2012</i></div><!--/nopreview--></p>
+
+<p>We suffer pain or trauma or abuse.  We are compelled to make a painful life choice, such as leaving a partner or a job or a home, and part of us resists that choice and still clings to the old relationship or the old place. Sometimes the choice is not even ours and we experience a deep sense of loss. We fall into depression or addiction or make compromises with the world as we understand it, thus giving up on our big dreams of life and leaving a piece of us behind. </p>
+
+<p>We all know the pain of needing to let go, while continuing to hold on for dear life. We ebb and we flow, we gain and we lose, we love and we long for. Meanwhile our dreams remind us that we have left something behind, a part of our self, a part of our soul.</p>
+
+<p>Bestselling author and world-renowned dream explorer Robert Moss addresses this subject in his newest book, <em>Dreaming The Soul Back Home: Shamanic Dreaming for Healing and Becoming Whole</em>. Moss understands that these challenging life situations often create a loss of our vital life energy and identity, and he adroitly speaks to the healing affects that dreams have on recovering these lost aspects of our souls. </p>
+
+<p><em>Dreaming the Soul Back Home</em> is a practical tool and experiential guide in soul recovery and of all of Moss’s books, this is my favorite. “Dreams not only show us what the soul wants, they also show us where it has gone,” writes Moss. He teaches us about soul loss, what it is, how it happens, and how dreams come to us to assist in the healing process. He shares common presentations of dream imagery that we can all relate to when some aspect of soul loss has affected us. “We dream again and again of the old place, or Grandma’s house, or high school, or the house we shared with a former partner. These dreams may be telling us that we left part of our vital energy and identity in that phase of our lives. Or, we may dream of a younger same-sex companion and find we are dreaming of a younger aspect of ourselves that went missing at her age because of bad things that were happening… Again and again in dreams, our higher or Greater Self comes stalking us, giving us the chance to forge a connection that may bring more of soul or spirit into the body than was with us before.”</p>
+
+<p>Dreams, in their infinite wisdom and homeopathic nature help us to reunite with these lost parts of ourselves so that we may bring more of our spirit back into our body to live a fuller, more complete life. Infused with an indigenous quality in approach, this is a breakthrough book on a subject that deserves deep attention and care because we all experience this type of soul loss at some point in our lives. </p>
+
+<p><em>Dreaming the Soul Back Home</em> consists of 15 chapters, including Dreamers as Shamans, Understanding Soul Loss, Dream Roads to Wholeness, The Royal Road to Soul Recovery, House of Healing and Ancestral Healing and Spiritual Release. Numerous exercises are given throughout the book allowing the reader to work with his various techniques first-hand. In addition, Moss shares many examples of the ways in which soul speaks to us through dreams.</p>
+
+<p>This book is a must-have for anyone who is interested in dreamwork because it is so unique and insightful. I found myself fascinated by every chapter and I experienced epiphanies throughout my entire reading of Moss’s book. He shared new ways of working with dreams that I had not considered and I embraced the idea of becoming my own shaman so that I could help promote my own healing and wholeness. This book is an exquisite addition to the dreaming community and I recommend it to everyone who enjoys working with dreams for personal growth, development and healing.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvcors ;
+    ns1:hasTag ns1:bcphbqvcors,
+        ns1:bcphbqvmoss,
+        ns1:bcphbzlhdke ;
+    ns1:itemId "bcpov6zmossr"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreaming The Soul Back Home: Shamanic Dreaming for Healing and Becoming Whole By Robert Moss"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zmossr-0.jpg"^^xsd:string ;
+    ns1:urlSlug "dreaming-the-soul-back-home-robert-moss-book-review"^^xsd:string .
+
 ns1:bcpov6zmstar a ns1:Post ;
     ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zmstar-0.jpg" alt="Constellations" /></p>
@@ -5030,6 +5028,38 @@ ns1:bcpov6zphras a ns1:Post ;
     ns1:name "Awakening Personal Meanings with Symbol Phrases, Systems Effects, and More"^^xsd:string ;
     ns1:urlSlug "awakening-personal-meanings-with-symbol-phrases-systems-effects-and-more"^^xsd:string .
 
+ns1:bcpov6zpimmr a ns1:Post ;
+    ns1:dateCreated "2010-09-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="http://notesfromadreamer.com/"></p>
+
+<p><img src="../images/post-bcpov6zpimmr-0.jpg" width="300px" height="auto" alt="Notes from a Dreamer on Dreaming"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Notes from a Dreamer…on Dreaming, © 2010 <a href="../@bobbieannpimm">Bobbie Ann Pimm</a></i></div><!--/nopreview--></p>
+
+<p>It always fascinates me to hear other people’s stories about their work with dreams and Bobbie’s is no exception. <em>Notes from a Dreamer…on Dreaming</em> is a personal journey in dream interpretation towards self discovery and healing through dreamwork. </p>
+
+<p>Like many people, Bobbie has been in a process of self discovery for much of her life. Yet through all her years of personal development, there was something else that kept making itself known to her through her dreams, something that called for her attention which ultimately catapulted her into a deeper exploration of her own unconscious. </p>
+
+<p><em>Notes from a Dreamer…on Dreaming</em> reads like you’re having a very comfortable conversation with Bobbie about dreams and that personal feel makes for a very enjoyable and enlightening read. Bobbie uses many of her own dreams as examples to document her journey towards healing and also to share her style of dream interpretation giving the reader the sense that anyone can learn to interpret their own dreams.</p>
+
+<p>Throughout her book, Bobbie shares many useful tips in working with your dreams, including things like dream recall techniques, keeping a dream journal, the creative influence in dreams, how to work with symbols, archetypes, people, colors, and how to take action on behalf of a dream. The book is decorated with Bobbie’s personal artwork and poetry making it visually engaging as well as engaging. She also shares many dream resources that readers can immediately access to get involved with by listing websites dedicated to the study of dreams.</p>
+
+<p>Bobbie also includes a Symbol Dictionary with 76 common dream symbols to be used as a catalyst to get the reader started in working with their own imagery though not to be used as actual interpretations.</p>
+
+<p>I deeply appreciated Bobbie’s passionate encouragement to readers to get to know their own dreams and imagery. Bobbie’s love of the dreamtime is apparent in every chapter of her book as she continually honors dreams for much of her personal growth and healing which may not have otherwise been accessed in the profound way that only dreams can provide.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvcors ;
+    ns1:hasTag ns1:bcphbq3pimm,
+        ns1:bcphbqvcors,
+        ns1:bcphbyoxe6n ;
+    ns1:itemId "bcpov6zpimmr"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Notes from a Dreamer…on Dreaming: Book Review"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zpimmr-0.jpg"^^xsd:string ;
+    ns1:urlSlug "notes-from-a-dreamer-on-dreaming-pimm-book-review"^^xsd:string .
+
 ns1:bcpov6zprofe a ns1:Post ;
     ns1:dateCreated "1994-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>In my work as an accounting professor I am catching fascinating glimpses of an ever-present Counselor who has finally caught my attention by speaking to me in my dreams. </p>
@@ -5102,6 +5132,47 @@ ns1:bcpov6zprofe a ns1:Post ;
     ns1:name "Professor Uses Dreams as Guides in Working with Students"^^xsd:string ;
     ns1:profileImg "post-bcpov6zprofe-0.jpg"^^xsd:string ;
     ns1:urlSlug "professor-uses-dreams-as-guides-in-working-with-students"^^xsd:string .
+
+ns1:bcpov6zssong a ns1:Post ;
+    ns1:dateCreated "2009-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zssong-0.jpg" width="300" height="auto" alt="Bambi Corso"/></p>
+
+<p>I have always been a lover of dreams, and I have always known that working with them would guide me throughout my life. At a young age, dreams became vital for my well being.  There was something about them that fed me, something that deep inside I knew was absolutely necessary for my own development and evolution. Thus, dreams became a practice in commitment, mindfulness, and trust.</p>
+
+<p>As a child, there were three things that I was profoundly interested in. One of them was doctoring, and the others were reading and writing. In those days, I was fascinated with medicine, the idea of which was initiated by my mother who practiced holistic medicine and the power of the mind so we could heal ourselves. I was a very quiet child, so reading and writing were ideal forms of communication and therefore became my other big interests.</p>
+
+<p>In my late teens, and far from the memories of my childhood interests, I began a 27-year career in the corporate world of administration and later executive management. Though this type of livelihood was stable and I learned a tremendous amount about business, it was unfulfilling and devoid of passion. I watched my dreams carefully as they pointed to high levels of creativity, meaning, soul and purpose. These dreams seemed to keep me going and kept me hopeful that the pull of my future would eventually find me. I had read a quote by Oliver Wendell Holmes stating, “Most people go to their grave with their music still inside them”, and vowing to myself not to be one of them, began dreaming of searching for my song, my calling.</p>
+
+<p>Throughout my years in the corporate world, I was often visited by images of fire, injured or angry animals, destruction and the lack of having a voice. These dreams, though disturbing and upsetting, encouraged me to work on myself, to begin to heal the areas of my own personality that were far from being whole and complete. My vacations were spent going to spiritual retreats with the goal of learning something else about myself that I could transform. It was obvious to me that I had to dig deep in order to find my strength, my confidence, and my voice.</p>
+
+<p>As my life evolved, I was often visited by dreams of healing and the desire to make a difference. There was an overall sense of unseen forces at work in my life represented by images such as alchemy, guides, mysterious people or animals, finding treasures and themes of metaphysical elements at work. These dreams helped me to remember that I was not on my path alone, and that there was help coming from somewhere else.</p>
+
+<p>In 1998 I was given my first song in a dream. <em>“I start this process of cleaning up and recycling, and eventually all the remaining people start to help too, and now we are all working together toward the same goal of cleaning up the Land. As we are doing this, I start hearing an Indian song, one I’ve never heard before and it just repeats over and over as we pick up the trash. Everyone works an area at a time like we’re a human machine picking up the trash in a herd type fashion. I notice some other people now showing up, dark people, but I don’t think anything of it as I continue to clean. But the song continues and more and more people show up and now I realize that they are hairy and naked, like old ancestral primitives and they are holding staffs. Still, I continue cleaning, but now they have encircled us at the top of this mountain area. I suddenly realize that these are the people of the Land! They never say a word, but they acknowledge what we are doing by showing themselves to us, which is so rare and such an honor, a reverence takes place between us. I see the looks in their eyes as they stand here proud and strong which is hard to explain. They are still living on the Land and watching over it. They are grateful. I hear a voice say, “Social Knowledge Keeps Us Both”, like living together in harmony, honoring one another for our lives and our differences.”</em> The idea of cleaning up the Land, became more a representation of cleaning up the emotional and spiritual land of people I would eventually work with. </p>
+
+<p>Continuing to watch for indications of what I should do with my life, I dreamed that I myself would be doing dreamwork in a larger way when <em>“I am at a conference and Stephen asks me if I’ll introduce the next set of people, which I do, but then feel bad because I don’t know enough to say anything more than that about them, and I need to be better prepared.”</em> Based on this dream, the next night I attended a local Toastmasters meeting whose name was Rhetorical Link where two of the dream images were represented in physical form. The first was the name of the Toastmasters group represented as a family surname in the dream (Link), and the names Bob and Hope, which came up when the main presenter made the unsolicited comment that, “Well even Bob Hope says he still gets nervous every time he speaks.” I knew then and there that I was being guided to this place, and I spent the next two years learning the skill.</p>
+
+<p>The next clue came in 2001 when I dream, <em>“It’s fascinating, for “Sound” is traveling between the two Poles, in an energetic way. I can see the night sky behind the poles and so there is a sense of vastness. These little tiny particles of sound travel between the poles, and then bounce off each other. The particles are together like a swarm of bees and travel the same kind of way, it looks the same, and so all these particles fly through the air and then hit one Pole, and as they hit, it sounds like a shattering of breaking glass, but then I can also hear voices and maybe some music for a moment as the particles actually touch the Pole. As soon as they hit one Pole, they start moving to the other Pole, and the same thing happens. I am just blown away by what I am seeing and so fascinated!”</em> Years later, I acknowledge that these poles were the first introduction of the Law of Attraction, and that Like attracts Like which would play a huge role in my soon to be career. </p>
+
+<p>Then, one day after years of asking to be shown something more specific, a Law of Attraction Life Coaching opportunity presented itself and I knew intuitively that this was what I had been preparing for. As a Life Coach I could combine all my years of personal study and knowledge to create a healing business to empower people to transform their lives in a positive way.</p>
+
+<p>Looking back, I realize that everything has its time. What’s important is that we begin the gestation period by first planting the seeds and then watering them little by little to allow them to grow into full bloom. For me, it was never just one dream that moved me onto my path, but the unfolding of a dream series called my life, in story… one night at a time.</p>
+
+<p>I have since completed my Certification as a Law of Attraction Life Coach, and hold two certifications through the Pacifica Graduate Institute where I was trained by Dr. Stephen Aizenstat Ph.D. in his method of DreamTending. My Life Coaching business, <em>Living with Purpose… On Purpose</em> is a combination of life coaching, dreamwork, and a life’s worth of experience and spiritual practice. It is a direct result of following the guidance received in my dreams. I now inspire and guide people to do the same utilizing the Law of Attraction and the wisdom of their dreams which I also write articles about. Decades past my original interests, I now consider myself a healer of sorts, and get to enjoy the pleasures of reading and writing in a way that supports my calling.</p>
+
+<p>I believe that similar to James Hillmans <a href="https://en.wikipedia.org/wiki/James_Hillman/#The_Soul.27s_Code">“Acorn Theory”</a>, we are all born with a sense of who we are to become already built within us. The guidance system that helps to reveal these gifts is that of dreams and intuitions, showing us where we feel our desires and our emotional responses allowing us to choose which direction will best serve us. Dreams help us navigate the waters of identifying who we are and what we truly want to be through their ability to move us emotionally, mentally, spiritually, physically and symbolically. When listened to deeply and given proper attention, dreams offer a highly calibrated guidance system designed to help us stay on track, correcting our direction by suggesting adjustments in our thinking, actions, decisions and relationships so that we can live the life we desire, the life of our dreams. </p>
+
+<p>Email: Bambi@bambicorso.com</p>
+
+<p><a href="http://www.bambicorso.com">bambicorso.com</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvcors ;
+    ns1:hasTag ns1:bcphbqvcors,
+        ns1:bcphbyjvotn ;
+    ns1:itemId "bcpov6zssong"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Finding My Song through Dreamwork"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zssong-0.jpg"^^xsd:string ;
+    ns1:urlSlug "finding-my-song-through-dreamwork"^^xsd:string .
 
 ns1:bcpov6zwakin a ns1:Post ;
     ns1:dateCreated "2007-10-01T11:32:52"^^xsd:dateTime ;
@@ -5676,6 +5747,34 @@ ns1:bcphbygiw4g a ns1:Post ;
     ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.2-3"^^xsd:string .
 
+ns1:bcphbyjvotn a ns1:Post ;
+    ns1:coverImg "28.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2009-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.4_destiny.pdf" download="">Download issue 28.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.4_destiny.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
+    ns1:itemId "bcphbyjvotn"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 28, issue 4: Destiny"^^xsd:string ;
+    ns1:profileImg "28.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "28.4"^^xsd:string .
+
+ns1:bcphbyoxe6n a ns1:Post ;
+    ns1:coverImg "29.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2010-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.2_back_to_the_future.pdf" download="">Download issue 29.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.2_back_to_the_future.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocknhzs ;
+    ns1:itemId "bcphbyoxe6n"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 29, issue 2: Back to the Future"^^xsd:string ;
+    ns1:profileImg "29.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "29.2"^^xsd:string .
+
 ns1:bcphbyukqzw a ns1:Post ;
     ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
@@ -5731,20 +5830,6 @@ ns1:bcphbzhpgrg a ns1:Post ;
     ns1:name "Volume 31, issue 1: Calling Forth Angels"^^xsd:string ;
     ns1:profileImg "31.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.1"^^xsd:string .
-
-ns1:bcphbzlhdke a ns1:Post ;
-    ns1:coverImg "31.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2012-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf" download="">Download issue 31.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocpr3vh ;
-    ns1:itemId "bcphbzlhdke"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 31, issue 2: Calling Forth Angels II"^^xsd:string ;
-    ns1:profileImg "31.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "31.2"^^xsd:string .
 
 ns1:bcphbzrw57c a ns1:Post ;
     ns1:coverImg "31.4-cover.jpg"^^xsd:string ;
@@ -5944,25 +6029,6 @@ ns1:bcphbq3mild a ns1:User ;
     ns1:name "Mildred Rosario"^^xsd:string ;
     ns1:profileImg "author-mildred-rosario.jpg"^^xsd:string .
 
-ns1:bcphbq3pimm a ns1:User ;
-    ns1:description """<p>Website: <a href="http://notesfromadreamer.com">notesfromadreamer.com</a></p>
-
-<p>I am a dreamworker and author of Notes From a Dreamer … on Dreaming: A Personal Journey in Dream Interpretation. My current focus is on teaching others how to interpret and work with their own dreams. I have created several <a href="https://theazire.org/moodle/course/index.php?categoryid=11">online courses on dream interpretation</a>. I am also available to do workshops and one-on-one consultations via phone or Skype.</p>
-
-<p>My interest in dreams began in 1988, after I left my husband of 13 years.  At that time, two dreams kept recurring over and over again; dreams which I had since I was 12. I knew these dreams were trying to tell me something, but didn’t know just what. In 1994, I discovered the book, Our Dreaming Mind, by Dr. Robert L. Van de Castle, which helped me understand the process of dreaming.  With further reading and research, I began to slowly learn to decipher my dreams.</p>
-
-<p>I have been actively enlightening others online about dreams since 2001, when I created my original Notes From a Dreamer … on Dreaming website to share my experience of learning to interpret my own dreams. Then, in late September 2008, I connected with Dr. Robert Van de Castle at an online PsiberDreaming Conference put on by the <a href="http://asdreams.org/">International Association for the Study of Dreams (IASD)</a>.  A few short weeks, several lengthy phone calls and numerous emails later, I left New Jersey and moved to Charlottesville, VA to live and work with him until his passing in January 2014. Working closely with Dr. Van de Castle, we created and taught an online course for Atlantic University, Becoming a Teacher of Dreamwork/Dream Interpretation. We also presented together at several conferences and co-authored an article for Explore! journal, <a href="http://www.explorejournal.com/article/S1550-8307(10)00099-6/abstract">Dreams As a Multidimensional Expression of PSI</a>.</p>
-
-<p>I am an active member of the IASD for over 15 years and an elected member of the Board of Directors from 2014-2017. As such, I adhere to their <a href="http://www.asdreams.org/ethics-and-confidentiality/">ethical guidelines in dreamworking</a> which “supports an approach to dreamwork and dream sharing that respects the dreamer’s dignity and integrity, and which recognizes the dreamer as the decision-maker regarding the significance of the dream.” In other words, only the dreamer knows what their dream means. My goal in life is to help you learn to understand what yours are saying to you.</p>
-
-<p>I believe that our dreams are the key to becoming more aware of who we are, why we are who we are and who we are supposed to be. If you care to join me, I’d like to help you learn to interpret your dreams as I have learned to do.</p>
-"""^^xsd:string ;
-    ns1:handle "bobbieannpimm"^^xsd:string ;
-    ns1:itemId "bcphbq3pimm"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Bobbie Ann Pimm"^^xsd:string ;
-    ns1:profileImg "author-bobbie-ann.jpg"^^xsd:string .
-
 ns1:bcphbq3rcwi a ns1:User ;
     ns1:description """<p>Website: <a href="http://dreamgate.com/">dreamgate.com</a></p>
 
@@ -6034,6 +6100,20 @@ ns1:bcphbxplpmw a ns1:Post ;
     ns1:profileImg "26.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "26.4"^^xsd:string .
 
+ns1:bcphbzlhdke a ns1:Post ;
+    ns1:coverImg "31.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2012-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf" download="">Download issue 31.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocpr3vh ;
+    ns1:itemId "bcphbzlhdke"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 31, issue 2: Calling Forth Angels II"^^xsd:string ;
+    ns1:profileImg "31.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "31.2"^^xsd:string .
+
 ns1:bcphbq3jean a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
 
@@ -6046,6 +6126,25 @@ ns1:bcphbq3jean a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jean Campbell"^^xsd:string ;
     ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
+
+ns1:bcphbq3pimm a ns1:User ;
+    ns1:description """<p>Website: <a href="http://notesfromadreamer.com">notesfromadreamer.com</a></p>
+
+<p>I am a dreamworker and author of Notes From a Dreamer … on Dreaming: A Personal Journey in Dream Interpretation. My current focus is on teaching others how to interpret and work with their own dreams. I have created several <a href="https://theazire.org/moodle/course/index.php?categoryid=11">online courses on dream interpretation</a>. I am also available to do workshops and one-on-one consultations via phone or Skype.</p>
+
+<p>My interest in dreams began in 1988, after I left my husband of 13 years.  At that time, two dreams kept recurring over and over again; dreams which I had since I was 12. I knew these dreams were trying to tell me something, but didn’t know just what. In 1994, I discovered the book, Our Dreaming Mind, by Dr. Robert L. Van de Castle, which helped me understand the process of dreaming.  With further reading and research, I began to slowly learn to decipher my dreams.</p>
+
+<p>I have been actively enlightening others online about dreams since 2001, when I created my original Notes From a Dreamer … on Dreaming website to share my experience of learning to interpret my own dreams. Then, in late September 2008, I connected with Dr. Robert Van de Castle at an online PsiberDreaming Conference put on by the <a href="http://asdreams.org/">International Association for the Study of Dreams (IASD)</a>.  A few short weeks, several lengthy phone calls and numerous emails later, I left New Jersey and moved to Charlottesville, VA to live and work with him until his passing in January 2014. Working closely with Dr. Van de Castle, we created and taught an online course for Atlantic University, Becoming a Teacher of Dreamwork/Dream Interpretation. We also presented together at several conferences and co-authored an article for Explore! journal, <a href="http://www.explorejournal.com/article/S1550-8307(10)00099-6/abstract">Dreams As a Multidimensional Expression of PSI</a>.</p>
+
+<p>I am an active member of the IASD for over 15 years and an elected member of the Board of Directors from 2014-2017. As such, I adhere to their <a href="http://www.asdreams.org/ethics-and-confidentiality/">ethical guidelines in dreamworking</a> which “supports an approach to dreamwork and dream sharing that respects the dreamer’s dignity and integrity, and which recognizes the dreamer as the decision-maker regarding the significance of the dream.” In other words, only the dreamer knows what their dream means. My goal in life is to help you learn to understand what yours are saying to you.</p>
+
+<p>I believe that our dreams are the key to becoming more aware of who we are, why we are who we are and who we are supposed to be. If you care to join me, I’d like to help you learn to interpret your dreams as I have learned to do.</p>
+"""^^xsd:string ;
+    ns1:handle "bobbieannpimm"^^xsd:string ;
+    ns1:itemId "bcphbq3pimm"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Bobbie Ann Pimm"^^xsd:string ;
+    ns1:profileImg "author-bobbie-ann.jpg"^^xsd:string .
 
 ns1:bcphbzdzrug a ns1:Post ;
     ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
@@ -6555,6 +6654,39 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
 
+ns1:bcphbq3wagg a ns1:User ;
+    ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>
+
+<p>Robert Waggoner wrote the acclaimed book, <a href="https://www.lucidadvice.com/books/lucid-dreaming-gateway-to-the-inner-self/">Lucid Dreaming – Gateway to the Inner Self</a> (now in its tenth printing), and co-authored <a href="https://www.lucidadvice.com/books/lucid-dreaming-plain-and-simple/">Lucid Dreaming Plain and Simple</a> with Caroline McCready.  Both books are in Audible, Kindle and CD/Mp3.  His books have been translated into French, German, Chinese, Korean, Czech, Finnish and other languages.</p>
+
+<p>A past President of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a> (IASD), Waggoner serves at co-editor of the online magazine, <a href="https://www.dreaminglucid.com/">The Lucid Dreaming Experience</a>, (ISSN 2167-616X); the only ongoing publication devoted specifically to lucid dreaming. A lucid dreamer since 1975, he has logged more than 1,000 lucid dreams.</p>
+"""^^xsd:string ;
+    ns1:handle "robertwaggoner"^^xsd:string ;
+    ns1:itemId "bcphbq3wagg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Robert Waggoner"^^xsd:string ;
+    ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
+
+ns1:bcphbqvcors a ns1:User ;
+    ns1:coverImg "cover-author-bambi-corso.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://bambicorso.com/">bambicorso.com</a></p>
+
+<p>I am a Dream worker and a Law of Attraction Life Coach.</p>
+
+<p>I believe in possibilities; in the power of change; and know that every individual has the ability to chart a different path simply by choosing an authentic life based on deliberate choices.</p>
+
+<p>In my work, I use my training to help others open their minds to enhanced perspectives that support these changes, working to overcome limiting beliefs that may keep someone from manifesting the life they desire. I use my expertise in dreamwork to help support that mindset.</p>
+
+<p>I have studied the works of Dr. Wayne Dyer, Caroline Myss, Carl Jung, James Hillman, Neale Donald Walsch, Marion Woodman, Clarissa Pinkola Estés, Martín Prechtel, Gregg Levoy and Jack Canfield; Krishnamurti, Gandhi, Kahlil Gibran, A Course in Miracles, Tara Singh, and so many more. I became a certified DreamTender through DreamTending, a clinical training program created by Dr. Stephen Aizenstat, President of Pacifica Institute in Santa Barbara, CA. I’m a member of The International Association for the Study of Dreams (www.asdreams.org) and spent 9 years as a  review editor for The Dream Network Journal. I completed my Law of Attraction life coaching certification through The Quantum Success Coaching Academy’s Certification Program and also received my certification as a Tarotpy Practitioner through the Institute for Dreams and Tarotpy.  I am also a contributing author of the book, <a href="https://www.selfgrowth.com/greatcareerbook.html">101 Great Ways to Enhance Your Career</a>.</p>
+
+<p>Some of my passions are practicing yoga, meditation, healthy eating and overall fitness.  I love nature and animals and try to spend as much time as possible enjoying both.  I love to read, write, cook and practice random acts of kindness, and I love spending time with loved ones and making new friends.</p>
+"""^^xsd:string ;
+    ns1:handle "bambicorso"^^xsd:string ;
+    ns1:itemId "bcphbqvcors"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Bambi Corso"^^xsd:string ;
+    ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
+
 ns1:bcphbqvmoss a ns1:User ;
     ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>
 
@@ -6569,19 +6701,6 @@ ns1:bcphbqvmoss a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert Moss"^^xsd:string ;
     ns1:profileImg "author-moss.jpg"^^xsd:string .
-
-ns1:bcphbq3wagg a ns1:User ;
-    ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>
-
-<p>Robert Waggoner wrote the acclaimed book, <a href="https://www.lucidadvice.com/books/lucid-dreaming-gateway-to-the-inner-self/">Lucid Dreaming – Gateway to the Inner Self</a> (now in its tenth printing), and co-authored <a href="https://www.lucidadvice.com/books/lucid-dreaming-plain-and-simple/">Lucid Dreaming Plain and Simple</a> with Caroline McCready.  Both books are in Audible, Kindle and CD/Mp3.  His books have been translated into French, German, Chinese, Korean, Czech, Finnish and other languages.</p>
-
-<p>A past President of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a> (IASD), Waggoner serves at co-editor of the online magazine, <a href="https://www.dreaminglucid.com/">The Lucid Dreaming Experience</a>, (ISSN 2167-616X); the only ongoing publication devoted specifically to lucid dreaming. A lucid dreamer since 1975, he has logged more than 1,000 lucid dreams.</p>
-"""^^xsd:string ;
-    ns1:handle "robertwaggoner"^^xsd:string ;
-    ns1:itemId "bcphbq3wagg"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Robert Waggoner"^^xsd:string ;
-    ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
 
 ns1:bcpqn76e7n5 a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>
@@ -6651,24 +6770,6 @@ ns1:bcphbqvbulk a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Kelly Bulkeley"^^xsd:string ;
     ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
-
-ns1:bcphbqvstim a ns1:User ;
-    ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.billstimson.com/">billstimson.com</a></p>
-
-<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
-
-<p>Dr. William R. Stimson is the founding editor of the Dream Network. </p>
-
-<p>Now living in Taiwan, Dr. Stimson teaches the Montague Ullman experiential dream group course at Tunghai University and at National Chi Nan University, leads free monthly all-day Ullman dream groups in Taipei and Taichung, and leads a weekly Wednesday afternoon dream group in the Counseling Center at Taiwan's National Chi Nan University.</p>
-
-<p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
-"""^^xsd:string ;
-    ns1:handle "billstimson"^^xsd:string ;
-    ns1:itemId "bcphbqvstim"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "William R. Stimson"^^xsd:string ;
-    ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
 
 ns1:bcphbq3arts a ns1:User ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>

@@ -685,20 +685,6 @@ ns1:bcphboajs77 a ns1:Post ;
     ns1:profileImg "8.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.3"^^xsd:string .
 
-ns1:bcphboc7tt5 a ns1:Post ;
-    ns1:coverImg "8.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf" download="">Download issue 8.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoalnwed ;
-    ns1:itemId "bcphboc7tt5"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 8, issue 4"^^xsd:string ;
-    ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "8.4"^^xsd:string .
-
 ns1:bcphbohoqoq a ns1:Post ;
     ns1:coverImg "9.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
@@ -2350,6 +2336,75 @@ ns1:bcpov6pimag a ns1:Post ;
     ns1:name "Satisfy the Image"^^xsd:string ;
     ns1:profileImg "satisfy-the-image-sml.jpg"^^xsd:string ;
     ns1:urlSlug "satisfy-the-image"^^xsd:string .
+
+ns1:bcpov6reedi2 a ns1:Post ;
+    ns1:dateCreated "1997-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6reedi2-0.jpg" width="200" height="auto" alt="Henry Reed"/></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Henry Reed</i></div><!--/nopreview--></p>
+
+<p><strong>Linda:</strong> How did you become interested in dreams? </p>
+
+<p><strong>Henry:</strong> There were two things. One, as a psychology graduate student at UCLA in the '60s I was interested in multiple personalities, amnesia and fugue states. I was interested in how we knew who we are. </p>
+
+<p><strong>Linda:</strong> What's a "fugue state?" </p>
+
+<p><strong>Henry:</strong> It's like a multiple personality, but one shot at a time. A person becomes amnesiac of who they are, becomes someone else. Then one day they wake up and wonder what they've been doing. You might say it's like prolonged sleepwalking, except it could go on for months or years. My advisor told me I wasn't going to run across too many multiple personalities, I wasn't going to run into amnesia very often and fugue states were rare; how was I going to make a living in this publish-or-perish world? I should find something that happened more often. Then I realized we were amnesiac for our dreams. We'd have these experiences while we slept and in the morning we were none the wiser. The human potential movement was starting about then so it was easy to say, "Learn to remember your dreams, learn how to tap into potential." I started with how to remember dreams. Then it dawned on me that I didn't remember mine.</p>
+
+<p><strong>Linda:</strong> Oh, so you really thought there was a correlation between being a researcher and being a dreamer? </p>
+
+<p><strong>Henry:</strong> Well, there was for me. Before I started any experiments I started to record my dreams. I worked on that for more than six months. Based on what I'd learned, I taught a course in dreams. We kept records of recall and tried experiments in recall. That was my first project. </p>
+
+<p><strong>Linda:</strong> You said there were two factors that got you interested in dreams. </p>
+
+<p><strong>Henry:</strong> I had a friend who kept telling me about these incredible dreams he was having. They were often psychic. I never saw any reference in psychology to dreams except in terms of interpretation or analysis. My friend was inspiring me to look beyond them. While he was looking for a studio, he dreamt of one. Then he drove around town to try and find the studio. He found it. That incident struck a chord, as if dreams were somehow an internal gyroscope, an internal advisor. </p>
+
+<p><strong>Linda:</strong> I know you have a close relationship with A.R.E. (the Edgar Cayce organization). Was that always your metaphysical focus? <strong>Henry:</strong> At one time my friend had an interest in Cayce. It seemed to me that Cayce went into a fugue state in which he was wise; then he'd wake and be an ordinary guy. I took more of an interest in his process than his philosophy. </p>
+
+<p>For my dissertation my advisor thought it would be good if I ran an experiment myself. The female research assistant who had been running them said something like, "I don't know why you men do these kinds of experiments. You already know what you want, what you're trying to get, so we're just going through the rote." I sat there through the experiment and kind of felt the same way. </p>
+
+<p>I had received a lot of flack at the university about my ideas of full disclosure to the subjects about the hypotheses, that there should be dialogue between everybody, a cooperative venture. This was the ideal of humanistic research espoused by Sydney Gerard who wrote <em>The Transparent Self</em>. </p>
+
+<p>I got pulled into the A.R.E. primarily because they were trying to figure out a way to do research that was similar to the way I had been thinking: to invite the subjects in as co-learners with the experimenter. That model didn't exist anywhere else. </p>
+
+<p>Cayce had said that the ideals and purposes of the researcher had a lot more to do with what would be discovered than the nature of the experiment. When he'd get approached to do telepathy tests, he'd respond that you wouldn't learn much about telepathy if you focused on telepathy per se, because it tended to create a certain kind of self-consciousness in the person: am I being telepathic or am I not? He said that it would be better to create situations in which people could be helpful to one another and have no other way of doing it than through telepathy; to focus on the nature of the help that would be received or given. </p>
+
+<p><strong>Linda:</strong> Is your work inspired by Native American tradition or Shamanism? </p>
+
+<p><strong>Henry:</strong> I never used the word "Shamanism." Because of the impact dreams were having on me, I followed a Shamanic pattern unknowingly. I was always interested in what today we would call "channeling:" bringing something from one realm into another, creating a complete cycle. I was really interested in some other dimension of life and dreams were the doorway. </p>
+
+<p>My first recorded dream addressed the fact that I was alcoholic. It was explained to me that I was acting out my own healing by doing dream incubation work. </p>
+
+<p>I felt dreams were part of a complete feedback loop, receiving inspiration from whatever source, enacting the inspiration and giving it back to the source, so that more would come. Dreams are a source and have to be fed, with some activity or by honoring them. I even did a study whereby if a person did something on the basis of a dream, they were more likely to have a dream, and have a dream that was understandable. It's like two in a conversation: if you're talking to somebody and they're deadpan, you lose interest. But if they're animated, they talk back, get excited. </p>
+
+<p>I started drawing my dreams. Dream shields came out of a dream related to the Dream Helper Ceremony. For Dream Shields you take symbols from many dreams and put them together to represent the whole of you. It was as if each dream were a snapshot in a family photo album. You could look at each picture and ask, "Who is this person?" The composite would represent what you considered to be your path, your style or your identity. </p>
+
+<p><strong>Linda:</strong> What kind of dreamwork do you do? </p>
+
+<p><strong>Henry:</strong> When I work with people in counseling, dreams are never a priority for me, it's always the person. Most of the dreamwork that I have done has been in workshop settings, educational settings. Usually there's some challenge that I'm responding to. </p>
+
+<p>One of the challenges was to find the dreamwork equivalent of "you only own what you can give away". I'd have people tune in on a positive quality or dream image that seemed to represent that quality and have them work until they made sounds, improvised singing, movement and dance. They'd perform the "song and dance" of their dream symbol as a give-away, like they were emitting energy. Then I'd have people become qualities that were weak, hurting, in some kind of need. We did a lot of plays and ceremonies of blessing one another. People would enact their positive symbols with the idea that they would bring them more to life. Looking back now, this was another way I was trying to channel energy into everyday life. </p>
+
+<p>When I was first involved in writing, another challenge was, could I teach a person how to interpret their dreams though the printed word, where I wasn't going to be there physically? I used journal writing as a method. </p>
+
+<p>Most of my work has been dream informed: on the basis of a dream I'd get the idea to do this experiment or that experiment. So while I was working on developing a journal, I said to the A.R.E. people, you may have a dream about this experiment we're doing, and if you do, send it in. A lot of them did and a couple of them dreamt of a journal. They also showed a lot of excitement about dreamwork they could do at home and they wanted to know about other people's experiences. So the beginnings of <em>Sundance Community Dream Journal</em> was feeding them back a report. </p>
+
+<p>The work with shoe dreams is based on what I learned when I was publishing Sundance: You can get a lot of people involved helping with a project if you only keep feeding them back what they send you. Usually the communication's just one way, but if you feed it back, you incorporate their dreams; they feel a part of it and it grows. We couldn't live in a dream community, but through the vehicle of a journal we could have a community where we could learn about how to work with dreams, the implications.</p>
+
+<p>I used the idea with subscriptions. I had people put their subscription form under their pillows. It seemed like a dumb idea. It shouldn't even be possible because we dream about things we care about. It takes a lot of effort to direct your dreams, and this was towards an abstraction. Yet people dreamt about the journal and got real excited about it. </p>
+
+<p><strong>Linda:</strong> What are your goals now? </p>
+
+<p><strong>Henry:</strong> The major goal I've always had is for people to realize how creative and full of spirit they are, if they would just flow.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvreed ;
+    ns1:hasTag ns1:bcphboc7tt5,
+        ns1:bcphbqvreed ;
+    ns1:itemId "bcpov6reedi2"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "An Interview with Henry Reed: On the Dream Helper Ceremony, Intuitive Heart™ Dream Story, Dreams & Culture & More"^^xsd:string ;
+    ns1:profileImg "post-bcpov6reedi2-0.jpg"^^xsd:string ;
+    ns1:urlSlug "interview-with-henry-reed"^^xsd:string .
 
 ns1:bcpov6sarmed a ns1:Post ;
     ns1:dateCreated "1982-01-01T11:32:52"^^xsd:dateTime ;
@@ -5671,6 +5726,20 @@ ns1:bcphbnlbw5k a ns1:Post ;
     ns1:profileImg "7.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.2"^^xsd:string .
 
+ns1:bcphboc7tt5 a ns1:Post ;
+    ns1:coverImg "8.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf" download="">Download issue 8.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoalnwed ;
+    ns1:itemId "bcphboc7tt5"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 8, issue 4"^^xsd:string ;
+    ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "8.4"^^xsd:string .
+
 ns1:bcphbqp3hfp a ns1:Post ;
     ns1:coverImg "12.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1993-10-01T11:32:52"^^xsd:dateTime ;
@@ -6337,26 +6406,6 @@ ns1:bcphbq3pimm a ns1:User ;
     ns1:name "Bobbie Ann Pimm"^^xsd:string ;
     ns1:profileImg "author-bobbie-ann.jpg"^^xsd:string .
 
-ns1:bcphbqvreed a ns1:User ;
-    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
-
-<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
-
-<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
-
-<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
-
-<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-"""^^xsd:string ;
-    ns1:handle "henryreed"^^xsd:string ;
-    ns1:itemId "bcphbqvreed"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Henry Reed"^^xsd:string ;
-    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
-
 ns1:bcphbzdzrug a ns1:Post ;
     ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
@@ -6829,6 +6878,26 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:name "Volume 33"^^xsd:string ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
+
+ns1:bcphbqvreed a ns1:User ;
+    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
+
+<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
+
+<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
+
+<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
+
+<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"""^^xsd:string ;
+    ns1:handle "henryreed"^^xsd:string ;
+    ns1:itemId "bcphbqvreed"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Henry Reed"^^xsd:string ;
+    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>

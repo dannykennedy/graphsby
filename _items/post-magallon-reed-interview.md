@@ -2,7 +2,7 @@
 dateCreated: "1989-07-01T11:32:52"
 itemId: bcpov6reedi2
 layout: post
-name: "An Interview with Henry Reed: On the Dream Helper Ceremony, Intuitive Heart™ Dream Story, Dreams & Culture & More"
+name: "Interview with Henry Reed"
 tags:
   - hasTag: caseyflyer
   - hasAuthor: caseyflyer

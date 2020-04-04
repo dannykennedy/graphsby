@@ -2338,7 +2338,7 @@ ns1:bcpov6pimag a ns1:Post ;
     ns1:urlSlug "satisfy-the-image"^^xsd:string .
 
 ns1:bcpov6reedi2 a ns1:Post ;
-    ns1:dateCreated "1997-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6reedi2-0.jpg" width="200" height="auto" alt="Henry Reed"/></p>
 
 <p><!--nopreview--><div style="text-align:center"><i>Henry Reed</i></div><!--/nopreview--></p>
@@ -2397,12 +2397,14 @@ ns1:bcpov6reedi2 a ns1:Post ;
 
 <p><strong>Henry:</strong> The major goal I've always had is for people to realize how creative and full of spirit they are, if they would just flow.</p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqvreed ;
+    ns1:hasAuthor ns1:bcphbqflyer,
+        ns1:bcphbqvreed ;
     ns1:hasTag ns1:bcphboc7tt5,
+        ns1:bcphbqflyer,
         ns1:bcphbqvreed ;
     ns1:itemId "bcpov6reedi2"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
-    ns1:name "An Interview with Henry Reed: On the Dream Helper Ceremony, Intuitive Heart™ Dream Story, Dreams & Culture & More"^^xsd:string ;
+    ns1:name "Interview with Henry Reed"^^xsd:string ;
     ns1:profileImg "post-bcpov6reedi2-0.jpg"^^xsd:string ;
     ns1:urlSlug "interview-with-henry-reed"^^xsd:string .
 
@@ -6291,6 +6293,29 @@ ns1:bcphbq3rcwi a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Richard Wilkerson"^^xsd:string ;
     ns1:profileImg "author-richard-wilkerson.jpg"^^xsd:string .
+
+ns1:bcphbqflyer a ns1:User ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
+
+<p>Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams.</p>
+
+<p>Practicing under the discipline of the "Dream-Art Scientist" (a model based on the Jane Roberts' Seth material), she has mastered many dreaming skills and dreamwork techniques.</p>
+
+<p>Linda authored the ground-breaking book, <a href="https://web.archive.org/web/20050308133701/http://members.aol.com/DreamPsi/archive/mutualdreaming.html">Mutual Dreaming</a> (Pocket Books, 1997). She served as editor and publisher of the principal magazine in the dream field, Dream Network. Having written articles for such magazines as FATE, American Psychic Magazine and the OMNI newsletter, she most recently wrote "Dream Trek," a column in the Internet E-zine <a href="http://dreamgate.com/dream/electric-dreams/edreams-g01.htm">Electric Dreams</a>.</p>
+
+<p>Active in the dreamwork community since 1984, Linda was a founding board member and wrote the first mission statement of the multidisciplinary (and highly academic) <a href="https://www.asdreams.org/">Association For the Study of Dreams</a> (ASD). She has presented papers and hosted panels at several of ASD's annual conferences. In 2001, she helped design the conference web site, the Computer Café, and created the four picture targets for the Dream Telepathy Contest.</p>
+
+<p>With Fred Olsen, she co-founded the Bay Area Dreamworkers Group (BADG), to provide support for her dreamwork peers in the San Francisco area. There, she practiced dream sharing, perfected dreamwork techniques and uncovered the basic values of the Partnership Paradigm. After BADG presented her with an honorary "Doctoral Degree in Social Dreamology," Linda graduated from dreamworker to dreamplayer.</p>
+
+<p>The observer-participant brand of research has required that Linda dream along with the other members of her dreaming team. Searching for active participants in a sleepy field like dreams is not an easy task, whether on-line or off. To help find such dreamers for her half a hundred group dreaming projects and dream telepathy experiments, Linda served as coordinator of the Seth Dream Network and dipped into the lucid dream community before founding the <a href="https://web.archive.org/web/20050305230701/http://members.aol.com/lucidflier/project/fbnc.html">Fly-By-Night Club research group</a>.</p>
+
+<p>Linda's goal has been to encourage the emergence of the Super Self through dreams. Her research has lead her to experiment with such flying and floating variations as virtual reality games, scuba diving, ballooning, gliding, hang gliding and flying a Piper Tomahawk. She has found flying dreams to be both extremely practical (resolving nightmares) and highly inspirational (launching further extraordinary dreams). She believes flying dreams to be at the hub of dream understanding and appreciation.</p>
+"""^^xsd:string ;
+    ns1:handle "caseyflyer"^^xsd:string ;
+    ns1:itemId "bcphbqflyer"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Linda Magallón"^^xsd:string ;
+    ns1:profileImg "author-linda-magallon.jpg"^^xsd:string .
 
 ns1:bcphbqvmack a ns1:User ;
     ns1:coverImg "cover-author-christamackinnon.jpg"^^xsd:string ;

@@ -2408,6 +2408,43 @@ ns1:bcpov6reedi2 a ns1:Post ;
     ns1:profileImg "post-bcpov6reedi2-0.jpg"^^xsd:string ;
     ns1:urlSlug "interview-with-henry-reed"^^xsd:string .
 
+ns1:bcpov6rshoes a ns1:Post ;
+    ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6rshoes-0.jpg" width="200" height="auto" alt="Shoes"/></p>
+
+<blockquote>
+  <p><em>"I open my closet and a torrent of shoes pour out upon the floor."</em></p>
+</blockquote>
+
+<p>This dream initiated a research project on the meaning of shoes in dreams. When I placed a call for dreams of shoes in <em>Dream Network Bulletin</em>, 172 dreams were submitted. What type of footprints do shoes leave in dreams? </p>
+
+<p>The most frequent pattern was a dreamer noting shoes having special features. Dreamers found shoes made of volcanic ash, for example, or shoes made from living, walking turtles, shoes with wings, and high-heeled tennis shoes. </p>
+
+<p>The second most frequent pattern was the theme of being concerned about the appropriateness of the shoes being worn. One dreamer tried to walk through snow in high heels. Ronald Reagan sold another dreamer a pair of shoes the dreamer wasn't sure she really wanted. One dreamer complained that the shoes didn't fit appropriately, they were too tight. Another dreamer wore tennis shoes to a fancy ball. </p>
+
+<p>The third most frequent theme was that of losing one's shoes. One dreamer left a party and later discovered that she had left her shoes behind. Someone took another dreamer's shoes. One dreamer was standing in line at a complaint department to describe shoes that had been lost. Another dreamer was riding on a horse when his shoes fell off. </p>
+
+<p>There were many other frequent patterns. Many dreams expressed the theme of an abundance of shoes, such as the dream that. initiated this project. The theme of polishing or repairing shoes was also common. Many dreams involved shopping for shoes. Discovering old shoes was another favorite. </p>
+
+<p>Shoe stories in dreams seem to mirror the shoe situations encountered in life. Shoes with special features seem to be a notable exception. </p>
+
+<p>What do shoes mean to the dreamer? Respondants offered such explanations as understanding, role, adaptation and persona. More generally, we might suggest that shoes represent cognitive schemes, or mental abstractions, used as structures to contain and give shape to experience. They are used as an adaptive tool to help navigate through life situations. Carl Jung once remarked, "The shoe that fits one person pinches another; there is no recipe for living that suits in all cases." </p>
+
+<p>Many shoe dreams reflected a concern for individuality as well as appropriateness. In one dream, for example, the dreamer lamented that all the shoes in the store seemed mass produced and none fit her unique orientation. One dreamer offered this observation, which can be taken both literally and metaphorically: "It's hard to find a good looking pair of shoes that fit comfortably." </p>
+
+<p>Given this concern for functional and appropriate shoes that match the dreamer's individuality, it is surprising that in none of the dreams was there ever mention of making one's own shoes or having custom made shoes . Here is an aspect of shoes from real life that is missing in dreams. What can explain this discrepancy? Perhaps it is because the types of understanding symbolized by shoes aren't the sort we consciously create, but come from the subconscious mind. For example, in fairy tales, it is often the brownies that make shoes for a person while that person sleeps. </p>
+
+<p>One final note: Three dreamers noted that their shoe dreams came at a time of transition. Perhaps when we need to pay attention to our style of adaptation, we think of our shoes.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvreed ;
+    ns1:hasTag ns1:bcphboc7tt5,
+        ns1:bcphbqvreed ;
+    ns1:itemId "bcpov6rshoes"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Shoes of the dreamer"^^xsd:string ;
+    ns1:profileImg "post-bcpov6rshoes-0.jpg"^^xsd:string ;
+    ns1:urlSlug "shoes-of-the-dreamer"^^xsd:string .
+
 ns1:bcpov6sarmed a ns1:Post ;
     ns1:dateCreated "1982-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>What we're dealing with in dreamwork, in short, is counterconditioning. Constantly we're blasted by what's all around us with what we should think and feel. It's so easy to let a lot of our decisions be made by all that noise. Meanwhile we're being just as consistently informed from within by a different source. Our dreams tell us what we do think and what we do feel and what we do perceive. </p>
@@ -5728,20 +5765,6 @@ ns1:bcphbnlbw5k a ns1:Post ;
     ns1:profileImg "7.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.2"^^xsd:string .
 
-ns1:bcphboc7tt5 a ns1:Post ;
-    ns1:coverImg "8.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf" download="">Download issue 8.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoalnwed ;
-    ns1:itemId "bcphboc7tt5"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 8, issue 4"^^xsd:string ;
-    ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "8.4"^^xsd:string .
-
 ns1:bcphbqp3hfp a ns1:Post ;
     ns1:coverImg "12.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1993-10-01T11:32:52"^^xsd:dateTime ;
@@ -6092,6 +6115,20 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:name "Volume 32, issue 1: Group Dreaming"^^xsd:string ;
     ns1:profileImg "32.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
+
+ns1:bcphboc7tt5 a ns1:Post ;
+    ns1:coverImg "8.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf" download="">Download issue 8.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoalnwed ;
+    ns1:itemId "bcphboc7tt5"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 8, issue 4"^^xsd:string ;
+    ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "8.4"^^xsd:string .
 
 ns1:bcphbpfnwcb a ns1:Post ;
     ns1:coverImg "10.2-3-cover.jpg"^^xsd:string ;
@@ -6904,26 +6941,6 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
 
-ns1:bcphbqvreed a ns1:User ;
-    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
-
-<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
-
-<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
-
-<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
-
-<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-"""^^xsd:string ;
-    ns1:handle "henryreed"^^xsd:string ;
-    ns1:itemId "bcphbqvreed"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Henry Reed"^^xsd:string ;
-    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
-
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
 
@@ -7026,6 +7043,26 @@ ns1:bcpqoaivzve a ns1:Post ;
     ns1:name "Volume 7"^^xsd:string ;
     ns1:profileImg "volume-7.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-7"^^xsd:string .
+
+ns1:bcphbqvreed a ns1:User ;
+    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
+
+<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
+
+<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
+
+<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
+
+<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net.</p>
+
+<div class="media-item resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+"""^^xsd:string ;
+    ns1:handle "henryreed"^^xsd:string ;
+    ns1:itemId "bcphbqvreed"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Henry Reed"^^xsd:string ;
+    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
 ns1:bcphbq3krip a ns1:User ;
     ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>

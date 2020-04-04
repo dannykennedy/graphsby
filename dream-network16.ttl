@@ -2317,7 +2317,9 @@ ns1:bcpov6master a ns1:Post ;
 
 <p><img src="../images/post-bcpov6master-3.jpg" width="400" height="auto" alt="Chirico exhibition ad"/></p>
 """^^xsd:string ;
-    ns1:hasTag ns1:bcphbhs662v ;
+    ns1:hasAuthor ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbhs662v,
+        ns1:bcphbqvstim ;
     ns1:itemId "bcpov6master"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Dreams of a Master"^^xsd:string ;
@@ -2375,8 +2377,10 @@ ns1:bcpov6sarmed a ns1:Post ;
 
 <p><em>First published as 'Dreams as a Subversive Activity' in Dream Network Bulletin, Vol. 1 Issue 1. Reprinted as 'Armed With Our Dreams', in Dream Network Journal Volume 11 Issue 2.</em> </p>
 """^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvstim ;
     ns1:hasTag ns1:bcphbhe6wex,
-        ns1:bcphbpumr2x ;
+        ns1:bcphbpumr2x,
+        ns1:bcphbqvstim ;
     ns1:itemId "bcpov6sarmed"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dreams as a Subversive Activity"^^xsd:string ;
@@ -2497,7 +2501,9 @@ ns1:bcpov6shanth a ns1:Post ;
 
 <p>It remains to be seen what the actual facts about the Senoi are. But we can no longer deny that Kilton Stewart's Anthropology has taught us much about ourselves. It was a picture of our own future, like fiction often is; It immediately began to permeate our lives, as good art always does. The idea got out that a healed society was possible if only we would reown our own deepest dreams, the furthermost reaches of our own consciousness, the thoughtforms of our own bodies-our feelings. Maybe a few more of us now are finally ready to let go of our dead religions and our false sciences and embark, each one of us, on the Path of the great ones from Jesus to Einstein-that process of creative transformation of self and relationship that will revolutionize our world like it has never been revolutionized before. The Science of the future will become the science of the impossible as slowly we begin to take off our straitjackets and discover ourselves, each other, and the world for the first time.</p>
 """^^xsd:string ;
-    ns1:hasTag ns1:bcphbjzjvrr ;
+    ns1:hasAuthor ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbjzjvrr,
+        ns1:bcphbqvstim ;
     ns1:itemId "bcpov6shanth"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Anthropology of the Dream People"^^xsd:string ;
@@ -2749,7 +2755,9 @@ but only for a moment.
 
 <p><em>"Clouds" was taken from <strong>Selected Poems 1961-1974</strong> by Charles Tomlinson, &copy;Charles Tomlinson 1978. Reprinted by permission of Oxford University Press. David Dunn, the author of <strong>"untitled poem"</strong> has been published in various places. He keeps track of his dreams and teaches poetry workshops.  John T. Kellnhauser, author of the Snow Leopard poem, is a poet and zoologist. He wrote the 'Tips from a Dreamer" column in the last issue. Alan Steinberg's poem <strong>"Dream of the Factory"</strong> was taken with permission from UROBOROS, a literary review published by Allegany Mountain Press, 111 North Tenth Street, Olean, N.Y. 14760.</em></p>
 """^^xsd:string ;
-    ns1:hasTag ns1:bcphbibyfox ;
+    ns1:hasAuthor ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbibyfox,
+        ns1:bcphbqvstim ;
     ns1:itemId "bcpov6shpoet"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "What Poets Have to Tell Dreamers"^^xsd:string ;
@@ -5133,6 +5141,30 @@ ns1:bcpov6zprofe a ns1:Post ;
     ns1:profileImg "post-bcpov6zprofe-0.jpg"^^xsd:string ;
     ns1:urlSlug "professor-uses-dreams-as-guides-in-working-with-students"^^xsd:string .
 
+ns1:bcpov6zreedr a ns1:Post ;
+    ns1:dateCreated "2005-08-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.barnesandnoble.com/w/dream-medicine-henry-reed/1113546934"></p>
+
+<p><img src="../images/post-bcpov6zreedr-0.jpg" width="300px" height="auto" alt="Henry Reed, Dream Medicine"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i><a href="../@henryreed">Henry Reed</a>, Dream Medicine, Lulu Press, 2011</i></div><!--/nopreview--></p>
+
+<p>The first time I encountered the work of Henry Reed I was immediately impressed. That was many years ago and I have been awaiting the time when he would again publish another book on his dreamwork. Now, that time has come. Henry’s new book, <em>Dream Medicine</em>, an expansion of his earlier book <em>Getting Help From Your Dreams</em> (1985), is a very interesting journey through his introduction and research into dreamwork in the 1960’s, at the beginning of what has been called the dream movement. In detail, Henry describes how his interest in dreams began and how they moved him forward into areas of dreamwork that had not yet been explored. Paying mindful attention not only his own dreams, but the dreams of others, Henry has established new ways to work with dreams which have enhanced the work and taken it to even deeper levels. What impressed me about <em>Dream Medicine</em> is the way in which Henry’s passion for the work has motivated new and innovative ways to work with dreams, not only for ourselves, but also for others.</p>
+
+<p>This is not a book about dream interpretation, it is a book that encourages the dreamer to honor their dreams by being in a very different relationship to and with the images. Many chapters are devoted to a variety of ways in which to work with dreams, so, depending on what kind of involvement you find most appealing, you are sure to find new ways of working with your own dreams by using any one, or many, of these methods. I found the book to be insightful, fun, and easy to read, and although there is some repetition, I enjoyed it thoroughly. Henry adds a very personal touch to his book by adding in his own artwork to the pages which is a delightful way of continuing to add to the dimension of the dreamtime.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvcors ;
+    ns1:hasTag ns1:bcphbqvcors,
+        ns1:bcphbqvreed,
+        ns1:bcphbwpd2l7 ;
+    ns1:itemId "bcpov6zreedr"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: Henry Reed, Dream Medicine, Learning How To Get Help From Our Dreams"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zreedr-0.jpg"^^xsd:string ;
+    ns1:urlSlug "henry-reed-dream-medicine-book-review"^^xsd:string .
+
 ns1:bcpov6zssong a ns1:Post ;
     ns1:dateCreated "2009-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zssong-0.jpg" width="300" height="auto" alt="Bambi Corso"/></p>
@@ -5508,6 +5540,26 @@ ns1:bcphbqvckd7 a ns1:Post ;
     ns1:profileImg "13.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.1"^^xsd:string .
 
+ns1:bcphbqvreed a ns1:User ;
+    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
+
+<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
+
+<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
+
+<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
+
+<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"""^^xsd:string ;
+    ns1:handle "henryreed"^^xsd:string ;
+    ns1:itemId "bcphbqvreed"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Henry Reed"^^xsd:string ;
+    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
+
 ns1:bcphbqyogh7 a ns1:Post ;
     ns1:coverImg "13.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1994-04-01T11:32:52"^^xsd:dateTime ;
@@ -5689,20 +5741,6 @@ ns1:bcphbwfw4rc a ns1:Post ;
     ns1:name "Volume 23, issue 4: Dreaming as a Practice"^^xsd:string ;
     ns1:profileImg "23.4-24.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "23.4-24.1"^^xsd:string .
-
-ns1:bcphbwpd2l7 a ns1:Post ;
-    ns1:coverImg "24.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2005-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_24/24.3_reincarnation.pdf" download="">Download issue 24.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_24/24.3_reincarnation.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqob23yct ;
-    ns1:itemId "bcphbwpd2l7"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 24, issue 3: Dreams of Rebirth ~ Death ~ Rebirth"^^xsd:string ;
-    ns1:profileImg "24.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "24.3"^^xsd:string .
 
 ns1:bcphbxxscsf a ns1:Post ;
     ns1:coverImg "27.2-cover.jpg"^^xsd:string ;
@@ -6085,6 +6123,20 @@ ns1:bcphbte5ugv a ns1:Post ;
     ns1:name "Volume 17, issue 3: Exploring Dreams' Relationship to Mythology"^^xsd:string ;
     ns1:profileImg "17.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.3"^^xsd:string .
+
+ns1:bcphbwpd2l7 a ns1:Post ;
+    ns1:coverImg "24.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2005-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_24/24.3_reincarnation.pdf" download="">Download issue 24.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_24/24.3_reincarnation.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqob23yct ;
+    ns1:itemId "bcphbwpd2l7"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 24, issue 3: Dreams of Rebirth ~ Death ~ Rebirth"^^xsd:string ;
+    ns1:profileImg "24.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "24.3"^^xsd:string .
 
 ns1:bcphbxplpmw a ns1:Post ;
     ns1:coverImg "26.4-cover.jpg"^^xsd:string ;
@@ -6667,26 +6719,6 @@ ns1:bcphbq3wagg a ns1:User ;
     ns1:name "Robert Waggoner"^^xsd:string ;
     ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
 
-ns1:bcphbqvcors a ns1:User ;
-    ns1:coverImg "cover-author-bambi-corso.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://bambicorso.com/">bambicorso.com</a></p>
-
-<p>I am a Dream worker and a Law of Attraction Life Coach.</p>
-
-<p>I believe in possibilities; in the power of change; and know that every individual has the ability to chart a different path simply by choosing an authentic life based on deliberate choices.</p>
-
-<p>In my work, I use my training to help others open their minds to enhanced perspectives that support these changes, working to overcome limiting beliefs that may keep someone from manifesting the life they desire. I use my expertise in dreamwork to help support that mindset.</p>
-
-<p>I have studied the works of Dr. Wayne Dyer, Caroline Myss, Carl Jung, James Hillman, Neale Donald Walsch, Marion Woodman, Clarissa Pinkola Estés, Martín Prechtel, Gregg Levoy and Jack Canfield; Krishnamurti, Gandhi, Kahlil Gibran, A Course in Miracles, Tara Singh, and so many more. I became a certified DreamTender through DreamTending, a clinical training program created by Dr. Stephen Aizenstat, President of Pacifica Institute in Santa Barbara, CA. I’m a member of The International Association for the Study of Dreams (www.asdreams.org) and spent 9 years as a  review editor for The Dream Network Journal. I completed my Law of Attraction life coaching certification through The Quantum Success Coaching Academy’s Certification Program and also received my certification as a Tarotpy Practitioner through the Institute for Dreams and Tarotpy.  I am also a contributing author of the book, <a href="https://www.selfgrowth.com/greatcareerbook.html">101 Great Ways to Enhance Your Career</a>.</p>
-
-<p>Some of my passions are practicing yoga, meditation, healthy eating and overall fitness.  I love nature and animals and try to spend as much time as possible enjoying both.  I love to read, write, cook and practice random acts of kindness, and I love spending time with loved ones and making new friends.</p>
-"""^^xsd:string ;
-    ns1:handle "bambicorso"^^xsd:string ;
-    ns1:itemId "bcphbqvcors"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Bambi Corso"^^xsd:string ;
-    ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
-
 ns1:bcphbqvmoss a ns1:User ;
     ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>
 
@@ -6770,6 +6802,44 @@ ns1:bcphbqvbulk a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Kelly Bulkeley"^^xsd:string ;
     ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
+
+ns1:bcphbqvcors a ns1:User ;
+    ns1:coverImg "cover-author-bambi-corso.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://bambicorso.com/">bambicorso.com</a></p>
+
+<p>I am a Dream worker and a Law of Attraction Life Coach.</p>
+
+<p>I believe in possibilities; in the power of change; and know that every individual has the ability to chart a different path simply by choosing an authentic life based on deliberate choices.</p>
+
+<p>In my work, I use my training to help others open their minds to enhanced perspectives that support these changes, working to overcome limiting beliefs that may keep someone from manifesting the life they desire. I use my expertise in dreamwork to help support that mindset.</p>
+
+<p>I have studied the works of Dr. Wayne Dyer, Caroline Myss, Carl Jung, James Hillman, Neale Donald Walsch, Marion Woodman, Clarissa Pinkola Estés, Martín Prechtel, Gregg Levoy and Jack Canfield; Krishnamurti, Gandhi, Kahlil Gibran, A Course in Miracles, Tara Singh, and so many more. I became a certified DreamTender through DreamTending, a clinical training program created by Dr. Stephen Aizenstat, President of Pacifica Institute in Santa Barbara, CA. I’m a member of The International Association for the Study of Dreams (www.asdreams.org) and spent 9 years as a  review editor for The Dream Network Journal. I completed my Law of Attraction life coaching certification through The Quantum Success Coaching Academy’s Certification Program and also received my certification as a Tarotpy Practitioner through the Institute for Dreams and Tarotpy.  I am also a contributing author of the book, <a href="https://www.selfgrowth.com/greatcareerbook.html">101 Great Ways to Enhance Your Career</a>.</p>
+
+<p>Some of my passions are practicing yoga, meditation, healthy eating and overall fitness.  I love nature and animals and try to spend as much time as possible enjoying both.  I love to read, write, cook and practice random acts of kindness, and I love spending time with loved ones and making new friends.</p>
+"""^^xsd:string ;
+    ns1:handle "bambicorso"^^xsd:string ;
+    ns1:itemId "bcphbqvcors"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Bambi Corso"^^xsd:string ;
+    ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
+
+ns1:bcphbqvstim a ns1:User ;
+    ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.billstimson.com/">billstimson.com</a></p>
+
+<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
+
+<p>Dr. William R. Stimson is the founding editor of the Dream Network. </p>
+
+<p>Now living in Taiwan, Dr. Stimson teaches the Montague Ullman experiential dream group course at Tunghai University and at National Chi Nan University, leads free monthly all-day Ullman dream groups in Taipei and Taichung, and leads a weekly Wednesday afternoon dream group in the Counseling Center at Taiwan's National Chi Nan University.</p>
+
+<p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
+"""^^xsd:string ;
+    ns1:handle "billstimson"^^xsd:string ;
+    ns1:itemId "bcphbqvstim"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "William R. Stimson"^^xsd:string ;
+    ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
 
 ns1:bcphbq3arts a ns1:User ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>

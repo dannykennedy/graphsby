@@ -2311,6 +2311,79 @@ ns1:bcpov6master a ns1:Post ;
     ns1:name "The Dreams of a Master"^^xsd:string ;
     ns1:urlSlug "the-dreams-of-a-master"^^xsd:string .
 
+ns1:bcpov6mausef a ns1:Post ;
+    ns1:dateCreated "1982-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>I dreamt that most of my front teeth had fallen out. I held them in my hand and looked up into the mirror at my toothless mouth. Horrified beyond measure. it suddenly struck me, "Hold on! This might just be a dream."</p>
+
+<p>"If it is a dream," I reasoned with myself, "then I can fly because in dreams I can fly." Whereupon, remembering how I had done it in previous dreams, I looked down at the floor and, sure enough. with some kind of intentional energy I caused myself to lift up off the floor. I flew right out of that nightmare into a wonderful odyssey of different dreams and adventures that seemed to last throughout the night. I awoke in the morning wonderfully refreshed, feeling I had visited another reality. I had had my first major lucid dream. </p>
+
+<p>Ever since l read Patricia Garfield's <em>Creative Dreaming</em> years ago I had been trying unsuccessfully to dream lucidly. It happened a few nights after THE DREAM COMMUNITY OF NEW YORK had a preliminary meeting with Bill Surgio with regard to the lucid dream machine we are going to test out for him. This illustrates an interesting paradox of human nature. The individual functions at his creative best when part of a group. Individual dreamwork, which the best dreamwork must be, progresses most rapidly when one is working on a regular basis with a dream group. For this reason we have taken it upon ourselves to publicize existing dream groups as they come to our attention. If you know of any that are not listed below or if you are forming one yourself please let us know so we may include it in future issues of our newsletter.</p>
+
+<p><img src="../images/post-bcpov6master-3.jpg" width="400" height="auto" alt="Chirico exhibition ad"/></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbhe6wex,
+        ns1:bcphbqvstim ;
+    ns1:itemId "bcpov6mausef"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Are Dream Groups Really Useful?"^^xsd:string ;
+    ns1:urlSlug "are-dream-groups-really-useful"^^xsd:string .
+
+ns1:bcpov6mlight a ns1:Post ;
+    ns1:dateCreated "1982-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.goodreads.com/book/show/2197141.The_River_of_Light"></p>
+
+<p><img src="../images/post-bcpov6mlight-0.jpg" width="300px" height="auto" alt="The River of Light: Spirituality, Judaism, Consciousness"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>The River of Light by Lawrence Kushner. Published by Rossel Books, Chappaqua, N.Y., 1981</i></div><!--/nopreview--></p>
+
+<p>Even with its descriptive subtitle, <em>Spirituality, Judaism, and the Evolution of Consciousness</em>, Lawrence Kushner's book THE RIVER OF LIGHT would hardly find its way into the hands of someone looking for the latest good book on dreams. A friend recommended I read it because the first chapter was about dreaming. I found the whole book was. "The dreams we have dreamed are none other than the lives we live," Kushner writes in his simple, profoundly penetrating prose, "We made the dream. We wrote, are writing, and will rewrite again its lines. Shifting its selves and plots and scenery and sequences in accordance with our abilities to endure awareness." </p>
+
+<p>Our ability to endure awareness: that's it! We can only admit so much of reality into our conscious mind then the picture becomes too painfully at odds with the script that society or our parents or we ourselves have devised for us to survive by. That script is called deadness neurosis. It's our survival tactics that get in the way. The secret is that more than survival is possible. We can prevail, we can transform. We can become beings of light. Our dreams don't make sense to us because our lives make no sense. What comes up pure from within is distorted as it nears the surface of our consciousness. </p>
+
+<blockquote>
+  <p>"Unable to withstand the going up from our depths, enough to remain in its simple form, it cloaked itself in mystery, transformed intolerable desires into dense imagery and words, deleted the 'good parts', substituting them with parts that seemed 'good'. Now all we have left is the piously handed down scroll. filled with square black letters, the spaces between them, and of course, our own fragmented memories of a dream... Once a dream is told, it becomes something else. No sooner has it been recorded or told or even remembered then it ceases to be a dream. Now it is part of waking, it is torn from what shines beneath it and bore it, no longer part of the totality, only a story, perhaps. Waking consciousness closes out more than it lets in." </p>
+</blockquote>
+
+<p>One way waking consciousness has of closing things out is to compartmentalize. We learn new ways of perception from working with dreams but don't apply these to our waking life, which is only a lived dream; or to films and literature, which are merely externalized dreams. Kushner is a rabbi, not a psychotherapist. He obtains his material from the source that is most familiar to him. "Not long ago," he writes, "we dreamt the Bible. From deep within our several and collective unconsciousness, we brought it forth. Twisted, convoluted, and mysterious. But nevertheless true... By reading holy literature as if it were a dream, we gain access to a primary mode of our collective unconsciousness." If the Bible is an ancient product of the dreams we are all still dreaming, though imperfectly aware of, then it follows that the techniques of dreamworkers can properly be applied to it to yield a blueprint of our own psyche and an understanding of the processes by which we undergo transformation and renewal. The Old Testament abounds with short, clipped and seemingly disconnected passages. "There isn't much left to work with " Kushner observes, "like with a dream."</p>
+
+<p>The techniques Kushner employs are not unfamiliar. Yet he seems to draw them from a different, or perhaps earlier, tradition. For instance, here is how he presents what certain dreamworkers would call a "rewrite": </p>
+
+<blockquote>
+  <p>"This deliberate leaving of the text of the 'remembered dream', creating a story and returning to the next word, is called, in Hebrew, Midrash. Not the creation of a story from out of thin air, which is called 'fantasy'. Nor the elaboration of one word or event and returning to this same word or event, which is called 'commentary'. But the deliberate filling in of the gap between two words. Not to dissolve their individuality, but to fuse them into the even greater totality from which they have risen and of which they are only a part. This is called <em>Midrash.</em>"</p>
+</blockquote>
+
+<p>Kushner's aims, likewise, are as refreshingly stated as they are familiar: </p>
+
+<blockquote>
+  <p>"Health (to heal, to make whole) is the result of connecting the discordant and apparently unrelated pieces. And illness is pretending (or believing) that what is broken is really whole... Because we do not perceive our actions as responsible to previous events... our lives seem to be ruled by the caprice of distant, uncaring powers. Our joy is irrelevant. And our grief is unbearable. On the other hand, if we can create a story connecting one 'fragment' of our lives with another and thus join with <em>Midrash</em>-gossamer like webs those separate fragments of our existence, there is now a sentence where before there were only words. Meaning is literally in the connections. And meaninglessness obtains when the events in our lives seem to us unrelated, discordant, and fragmentary... If Scripture is like a dream, the <em>Midrash</em> is like therapy. It is the creative process whereby some of what is concealed is brought to the light of awareness... Unconscious thoughts, repressed and out of sight, exert more force than those that have risen to the surface. It is what we once saw, imagined, planned, and knew as a child but have now forgotten that can free us. Indeed it is from their hiddenness that they derive their immense power. The force of any secret to control human transactions is well known." </p>
+</blockquote>
+
+<p><em>The River of Light</em> abounds with the simplicity and insight that comes from working with dreams. To quote again from the book: </p>
+
+<blockquote>
+  <p>"By the time you're old enough to do what you've been waiting to be old enough to do, it has all changed into a world that you did not make or want... Ultimately, all we seek to learn is what we as children once knew. All genuine learning is this the self's disclosure to itself. How odd and yet how universal the misconception, on the part of all who would learn, that the knowledge they seek is outside them ... Go down through your layers, through your childhood and your dreams... For the layers run back through time but also run all the way down to the source..." </p>
+</blockquote>
+
+<p>How beautifully Kushner writes and how impossible to sum up his book except in his own words. </p>
+
+<blockquote>
+  <p>"The one who pays attention to the dreams, draws on them, and lives them out is blessed, even as the one who dreams is also dreamt. We each take our turn at living out the dream. Like some ageless wave, Scripture flows through us ... The Bible's image for the resolution of all paradox is the coming of the Messiah. The final transformation of consciousness itself ... The coming of the Messiah does not depend upon anything supernatural, but rather upon human growth and self-transformation... The world will only be transformed... when people realize that the Messiah is not someone wholly other than themselves. Knowledge of the self at the deepest level is, simultaneously, knowledge of God." </p>
+</blockquote>
+
+<p>When we work with our dreams or the dreams of others we are not dealing with anything different than the writers of the Old Testament dealt with. It is perhaps a reflection of our diminution of consciousness more than anything else that our own tradition appears as mysterious and impenetrable to us as the dreams we dream. Because of the state of mind we have fallen into these traditions must be worked with just as we work with dreams. "We are not simply custodians of a tradition", Kushner writes, "not just keepers of a museum. Our goal is also to break it open. Set it free." In this task Lawrence Kushner has succeeded remarkably well. <em>The River of Light</em> belongs on the bookshelf of anyone interested in dreams and in personal transfermation.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbhe6wex,
+        ns1:bcphbqvstim ;
+    ns1:itemId "bcpov6mlight"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "A Book of Dreams: Review of 'The River of Light' by Lawrence Kushner"^^xsd:string ;
+    ns1:profileImg "post-bcpov6mlight-0.jpg"^^xsd:string ;
+    ns1:urlSlug "are-dream-groups-really-useful"^^xsd:string .
+
 ns1:bcpov6pacmm a ns1:Post ;
     ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/relationship-dreams-rect.jpg"/><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf">View online</a></p></p>
@@ -5653,20 +5726,6 @@ ns1:bcphb2kqfhu a ns1:Post ;
     ns1:profileImg "33.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.4"^^xsd:string .
 
-ns1:bcphbhe6wex a ns1:Post ;
-    ns1:coverImg "1.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1982-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.1_Dream_Network_Bulletin_Vol.1_Issue_1.pdf" download="">Download issue 1.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.1_Dream_Network_Bulletin_Vol.1_Issue_1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn7zvpei ;
-    ns1:itemId "bcphbhe6wex"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 1, issue 1"^^xsd:string ;
-    ns1:profileImg "1.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "1.1"^^xsd:string .
-
 ns1:bcphbhs662v a ns1:Post ;
     ns1:coverImg "1.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1982-05-01T11:32:52"^^xsd:dateTime ;
@@ -6436,6 +6495,20 @@ ns1:bcphbzlhdke a ns1:Post ;
     ns1:profileImg "31.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.2"^^xsd:string .
 
+ns1:bcphbhe6wex a ns1:Post ;
+    ns1:coverImg "1.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1982-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.1_Dream_Network_Bulletin_Vol.1_Issue_1.pdf" download="">Download issue 1.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.1_Dream_Network_Bulletin_Vol.1_Issue_1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
+    ns1:itemId "bcphbhe6wex"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1, issue 1"^^xsd:string ;
+    ns1:profileImg "1.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "1.1"^^xsd:string .
+
 ns1:bcphbq3jean a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
 
@@ -7113,24 +7186,6 @@ ns1:bcphbqvcors a ns1:User ;
     ns1:name "Bambi Corso"^^xsd:string ;
     ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
 
-ns1:bcphbqvstim a ns1:User ;
-    ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.billstimson.com/">billstimson.com</a></p>
-
-<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
-
-<p>Dr. William R. Stimson is the founding editor of the Dream Network. </p>
-
-<p>Now living in Taiwan, Dr. Stimson teaches the Montague Ullman experiential dream group course at Tunghai University and at National Chi Nan University, leads free monthly all-day Ullman dream groups in Taipei and Taichung, and leads a weekly Wednesday afternoon dream group in the Counseling Center at Taiwan's National Chi Nan University.</p>
-
-<p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
-"""^^xsd:string ;
-    ns1:handle "billstimson"^^xsd:string ;
-    ns1:itemId "bcphbqvstim"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "William R. Stimson"^^xsd:string ;
-    ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
-
 ns1:bcphbq3arts a ns1:User ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
 
@@ -7151,6 +7206,24 @@ ns1:bcpqn7zvpei a ns1:Post ;
     ns1:name "Volume 1"^^xsd:string ;
     ns1:profileImg "volume-1.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-1"^^xsd:string .
+
+ns1:bcphbqvstim a ns1:User ;
+    ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.billstimson.com/">billstimson.com</a></p>
+
+<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
+
+<p>Dr. William R. Stimson is the founding editor of the Dream Network. </p>
+
+<p>Now living in Taiwan, Dr. Stimson teaches the Montague Ullman experiential dream group course at Tunghai University and at National Chi Nan University, leads free monthly all-day Ullman dream groups in Taipei and Taichung, and leads a weekly Wednesday afternoon dream group in the Counseling Center at Taiwan's National Chi Nan University.</p>
+
+<p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
+"""^^xsd:string ;
+    ns1:handle "billstimson"^^xsd:string ;
+    ns1:itemId "bcphbqvstim"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "William R. Stimson"^^xsd:string ;
+    ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
 
 ns1:bcpqn72unjj a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>

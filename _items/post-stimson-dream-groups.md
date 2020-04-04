@@ -9,7 +9,7 @@ tags:
   - hasTag: 1.1
 type: post
 urlSlug: "are-dream-groups-really-useful"
-profileImg: post-bcpov6mausef-1.jpg
+profileImg: post-bcpov6mausef-0.jpg
 ---
 
 I dreamt that most of my front teeth had fallen out. I held them in my hand and looked up into the mirror at my toothless mouth. Horrified beyond measure. it suddenly struck me, "Hold on! This might just be a dream."

@@ -2329,6 +2329,7 @@ ns1:bcpov6mausef a ns1:Post ;
     ns1:itemId "bcpov6mausef"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Are Dream Groups Really Useful?"^^xsd:string ;
+    ns1:profileImg "post-bcpov6mausef-0.jpg"^^xsd:string ;
     ns1:urlSlug "are-dream-groups-really-useful"^^xsd:string .
 
 ns1:bcpov6mlight a ns1:Post ;
@@ -2375,7 +2376,7 @@ ns1:bcpov6mlight a ns1:Post ;
   <p>"The one who pays attention to the dreams, draws on them, and lives them out is blessed, even as the one who dreams is also dreamt. We each take our turn at living out the dream. Like some ageless wave, Scripture flows through us ... The Bible's image for the resolution of all paradox is the coming of the Messiah. The final transformation of consciousness itself ... The coming of the Messiah does not depend upon anything supernatural, but rather upon human growth and self-transformation... The world will only be transformed... when people realize that the Messiah is not someone wholly other than themselves. Knowledge of the self at the deepest level is, simultaneously, knowledge of God." </p>
 </blockquote>
 
-<p>When we work with our dreams or the dreams of others we are not dealing with anything different than the writers of the Old Testament dealt with. It is perhaps a reflection of our diminution of consciousness more than anything else that our own tradition appears as mysterious and impenetrable to us as the dreams we dream. Because of the state of mind we have fallen into these traditions must be worked with just as we work with dreams. "We are not simply custodians of a tradition", Kushner writes, "not just keepers of a museum. Our goal is also to break it open. Set it free." In this task Lawrence Kushner has succeeded remarkably well. <em>The River of Light</em> belongs on the bookshelf of anyone interested in dreams and in personal transfermation.</p>
+<p>When we work with our dreams or the dreams of others we are not dealing with anything different than the writers of the Old Testament dealt with. It is perhaps a reflection of our diminution of consciousness more than anything else that our own tradition appears as mysterious and impenetrable to us as the dreams we dream. Because of the state of mind we have fallen into these traditions must be worked with just as we work with dreams. "We are not simply custodians of a tradition", Kushner writes, "not just keepers of a museum. Our goal is also to break it open. Set it free." In this task Lawrence Kushner has succeeded remarkably well. <em>The River of Light</em> belongs on the bookshelf of anyone interested in dreams and in personal transformation.</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqvstim ;
     ns1:hasTag ns1:bcphbhe6wex,

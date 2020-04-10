@@ -2437,7 +2437,7 @@ ns1:bcpov6mhilli a ns1:Post ;
 <p><strong>Roberta:</strong> So when we're talking about an autonomous complex loose in the collective psyche and how we might satisfy the Beast's hunger...it seems to boil down to the individual and to a recognition of shadow, leading to the rite of passage or the Initiatory stage of the Journey. More quotes from your book:</p>
 
 <blockquote>
-  <p>*"The Messiah, crazy in his desire to eliminate the enemy, easily becomes the Beast." *p. 31</p>
+  <p><em>"The Messiah, crazy in his desire to eliminate the enemy, easily becomes the Beast."</em> p. 31</p>
   
   <p><em>"In this dream, (at the end of the world) Beast and Messiah co-habit the same image."</em> p. 42</p>
   
@@ -2866,9 +2866,11 @@ The silence had been broken.
 
 <p><em>By Ayelet Berman-Cohen</em></p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqfmetz ;
+    ns1:hasAuthor ns1:bcphbqfmetz,
+        ns1:bcphbqsbonn ;
     ns1:hasTag ns1:bcphb2asab7,
-        ns1:bcphbqfmetz ;
+        ns1:bcphbqfmetz,
+        ns1:bcphbqsbonn ;
     ns1:itemId "bcpov6mtheat"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "How to Start a Dream Theatre"^^xsd:string ;
@@ -6914,6 +6916,28 @@ ns1:bcphbqflyer a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Linda Magallón"^^xsd:string ;
     ns1:profileImg "author-linda-magallon.jpg"^^xsd:string .
+
+ns1:bcphbqsbonn a ns1:User ;
+    ns1:coverImg "cover-author-gary-bonnell.jpg"^^xsd:string ;
+    ns1:description """<p>Websites: <a href="https://www.garybonnell.com/">garybonnell.com</a>, <a href="https://garybonnellmysticalstudies.com">garybonnellmysticalstudies.com</a></p>
+
+<p>My approach to assisting individuals and groups find their genius is based on the following understanding:</p>
+
+<p>​I know that by divine design, and through evolution, our mind is without limitation and is capable of clearly and accurately seeing into the future through each “now” moment. And that the now is available to us to the degree that we have released the confines of the past.</p>
+
+<p>I know that each human is a sovereign being capable of unlimited understanding and creative insights. We are gifted of tremendous feats of accomplishment through true collaboration with others.</p>
+
+<p>​Because our mind is not bound within our body, it is not governed by matter’s laws of physics and our mind influences matter at every level through the harmonics of our prevailing attitude toward life.</p>
+
+<p>​Releasing the unresolved issues from our past releases our unique gifts of intuitive reasoning. When we release our need to be right about past issues we naturally move our conscious awareness to ever expanding dimensions of knowing.</p>
+
+<p>​We are able to attract or manifest anything we determine is vital to our purposeful needs.</p>
+"""^^xsd:string ;
+    ns1:handle "garybonnell"^^xsd:string ;
+    ns1:itemId "bcphbqsbonn"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Gary Bonnell"^^xsd:string ;
+    ns1:profileImg "author-gary-bonell.jpg"^^xsd:string .
 
 ns1:bcphbqsuelo a ns1:User ;
     ns1:coverImg "cover-author-daniel-suelo.jpg"^^xsd:string ;

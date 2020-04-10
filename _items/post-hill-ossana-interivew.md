@@ -71,7 +71,7 @@ The other thing about feeding the Beast is that the passage through apocalypse i
 
 **Roberta:** So when we're talking about an autonomous complex loose in the collective psyche and how we might satisfy the Beast's hunger...it seems to boil down to the individual and to a recognition of shadow, leading to the rite of passage or the Initiatory stage of the Journey. More quotes from your book:
 
-> *"The Messiah, crazy in his desire to eliminate the enemy, easily becomes the Beast." *p. 31
+> *"The Messiah, crazy in his desire to eliminate the enemy, easily becomes the Beast."* p. 31
 > *"In this dream, (at the end of the world) Beast and Messiah co-habit the same image."* p. 42
 > *"It is in coming to terms with the reality of the Beast that our salvation lies."* p. 44
 > *"Sub-scending the madness of the 20th century means descending into the Underworld to be initiated there."* p. 45

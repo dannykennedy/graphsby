@@ -2387,6 +2387,72 @@ ns1:bcpov6mlight a ns1:Post ;
     ns1:profileImg "post-bcpov6mlight-0.jpg"^^xsd:string ;
     ns1:urlSlug "are-dream-groups-really-useful"^^xsd:string .
 
+ns1:bcpov6mobama a ns1:Post ;
+    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<blockquote>
+  <p><em>I have a book that has ten spiritual questions on the cover as its title. I am giving it to a friend who is deeply concerned with transformation. Then the door to the house opens, and President Obama enters, hesitantly, asking permission by his humble posture. He looks at the book and I see that he wants it.</em></p>
+  
+  <p><em>“Take it,” I say.</em> </p>
+  
+  <p><em>I understand in this moment that he is longing for an opportunity for consciousness, for a way deep into his soul.</em> </p>
+  
+  <p><em>Later, he comes to the door again. His longing is visible. Then he is standing on the roof of the ten story building across the street that is visible through a window in my house. He looks miniscule. A very small man at the top of the world. He may be the most important man or most powerful man in the world, but he is such a small man, looking down on the street, the world, with such a sad expression. What he sees makes him so sad. He feels the loss in the world and the loss of the consciousness he can’t access. He wants to access it. He wonders and I wonder—seeing him there, so isolated, so alone, so fragile—how to make a bridge to it.</em> </p>
+</blockquote>
+
+<p>If we believe that dreams are sent by Spirit to enlighten us, to teach and instruct us in how to live, this dream calls for empathy and deep compassion. </p>
+
+<p>How might we find non-conventional ways to support the President so that he can act in accordance with the soul promises he made and believed in? How might we help protect him from the exigencies, dangers, the insanity of these times, and from the old guard that always surrounds a president? </p>
+
+<p>How might we be alongside him so he can be alongside himself? How can we be alongside him so that he can govern, as I believe he wants to do, with absolute integrity? How can we, together, step out of the pattern of fear, conflict, violence, and on-going judgement that is overwhelming the country, while also finding the viable ways to justice, peace and restoration? </p>
+
+<p>How might we, together, read and live accordingly to the ten questions on the cover of the book? How do we incorporate the possible answers in our daily lives on behalf of the future and all beings? </p>
+
+<p>Here’s another question: What were the ten questions on the cover of the book that, if addressed, offer transformation?</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqfmetz ;
+    ns1:hasTag ns1:bcphbqfmetz,
+        ns1:bcphbz5vgog ;
+    ns1:itemId "bcpov6mobama"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "A Dream about President Obama"^^xsd:string ;
+    ns1:urlSlug "a-dream-about-president-obama"^^xsd:string .
+
+ns1:bcpov6mobnot a ns1:Post ;
+    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>I am or she is holding the photo and speaking to him, or he is the face in the photo, and I am or she is saying, “No, you will not kill.” He, as a revolutionary, or they, together, they will do what they must, what they have been doing, what has been necessary, but they are here in this country, this Spain of the Imagination and they will leave without killing. Killing will not be the last act. Killing is not sanctioned. I am, or she is, adamant. </p>
+
+<p>But now I am the Mother in a Spain of the Imagination and I am going to the Teacher. I open the door. I tell her that I am here on my knees. I fall to my knees and I am before her. One can only fall to the knees before someone one trusts implicitly. We are women in a Spain of the Imagination. We have dark hair, our faces are strong and clear, we wear black skirts and white blouses. But if we wore only black you would not be surprised. </p>
+
+<p>I tell her that I have come about my daughter. She is sixteen or she is eighteen. She is the Daughter. She will not kill. I will not allow it. It is not to protect the victim; it is to protect my daughter. She is a revolutionary as we all are, as we must be. But, I tell the teacher with whom I am now collaborating, who understands everything, that I will send the daughter away. She will go to another country. I cannot send her to the United States. It is not a country of such women as we are or we have become. It is not a country that forbids killing. </p>
+
+<p>That young man will go to another country too. That young man who is her partner, in the way the man was my partner earlier, when I held the photo or the portrait and knew that he must not and so would not kill. They will not kill. </p>
+
+<p>I speak this to the Teacher. I am or was on my knees and she was seated on a wooden chair by the windows in the classroom that is empty of children. I fall to my knees and then I rise up. It is possible that I am also the teacher. It is possible that there is only one person in this dream and it is myself and I am playing all the roles. No, I am not playing roles. I am everyone in the dream as I must be because it is a dream and that is how the dream teaches us as there are no others in a dream, there is only what we know or what is being told to us by the dream which is the one that, ultimately, knows what needs to be known. </p>
+
+<p>This is the dream. But it is a dream from a world of the imagination that birthed me when I was a young girl or a young woman and when killing (despite Guernica, despite World War II, despite Hiroshima and Nagasaki) was not killing a person but an act that created another world. In such dreams of language, killing was a word not an act. It was a word that led to another world. Killing was a word, an act that had to come to an end in a dream of life, of words come to life like <em>justice</em> or <em>freedom</em>. A dream of a world in which killing was not ever to have to kill a body that could not understand the horror of killing. To kill and not to kill were the same because they created the world we had to create so that the killing would be over.</p>
+
+<p>It was a world I recognized in an imaginary literature of Spain where I have never been. It was a world I was born into through the dreams I do not remember that have rhythms that might be flamenco and which I found again in the rhythms of the poetry and the literature of Latin America. A dream where the light is different than it is here because of the stone houses I have never seen and will never see, and the way the light fell on them in the curved and cobbled streets of the imagination. Dreams of dark forests, where the trees call the black shadows to them and whisper in a Spanish language that lives only in poetry at night. </p>
+
+<p>In these dreams that are not dreams so much as patterns in other worlds, the women knew what they had to know although their mothers wore veils and were silent and sequestered behind walls in cities called the Alameda or Alhambra, the Red. In the languages of these worlds, the men told the stories of what the women were not to know despite the red, despite the red and the black, despite the red roses, the white walls, the casement windows, the barred windows, or the windows without bars that dreamed of light that was brilliant and dark. </p>
+
+<p>The men who wrote the stories did not know what the women knew and were passing on to the daughters, the daughters who come to me now at this time in my life in my dream. The daughters who are straight and tall, who are revolutionaries in black skirts, who have red lips and carry red roses and will not kill. The women who will not kill, so killing is forbidden. That is how strong they are. </p>
+
+<p>The women say, “This is what we taught you then in the dreams that came to you when you were young, the dreams that you have forgotten that came to you in your childhood, the dreams that formed you and surface now at this time in your life when you are asking what is to be done, what is to be done, what is to be done?” </p>
+
+<p>Dreams, like this one, of the photo of the man who, at the end of what he is to do, is not to kill. The photo is not of the man who is to be killed. The photo of the man with the white face or the dark face with a beard is a photo of a man, who ultimately, because he is the revolutionary, the one who brings justice like the sunlight or the rain, will not kill. The woman says so and so it is so. That is what the dream says. And it says that all of this, the story, the strength, the strength not to kill, the strength that ends killing is in language, in the rhythm of the words, and this is what we have forgotten. Earth, rhythm, language, light, they were to have come together in a poetry from which the future might have arisen if we had listened and learned to speak that language, its rhythms and images, to speak it’s absolute poetry. </p>
+
+<p>But then we forgot or yielded to the trance, to the relentless noise from which our cities dull as old metal and gray egg cartons arise in the fluorescent lights of super markets and endless parking lots and deluded malls which have no music to them and so are not the languages that we had been given to heal the world. </p>
+
+<p>And because of this, because it may not be too late, the dream comes, the dream in another language, the dream in which the woman says, adamantly, “The man, my lover, the woman, my daughter, we will not kill. At the end of the dream, at the end of the dreams, we will not kill.”</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqfmetz ;
+    ns1:hasTag ns1:bcphbqfmetz,
+        ns1:bcphbz5vgog ;
+    ns1:itemId "bcpov6mobnot"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreaming Another Language: She Will Not Kill"^^xsd:string ;
+    ns1:urlSlug "dreaming-another-language-she-will-not-kill"^^xsd:string .
+
 ns1:bcpov6pacmm a ns1:Post ;
     ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/relationship-dreams-rect.jpg"/><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf">View online</a></p></p>
@@ -6122,20 +6188,6 @@ ns1:bcphbz2bump a ns1:Post ;
     ns1:profileImg "32.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.2-3"^^xsd:string .
 
-ns1:bcphbz5vgog a ns1:Post ;
-    ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf" download="">Download issue 32.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocs2uhp ;
-    ns1:itemId "bcphbz5vgog"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 32, issue 4: Important People in our Dreams"^^xsd:string ;
-    ns1:profileImg "32.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "32.4"^^xsd:string .
-
 ns1:bcphbzhpgrg a ns1:Post ;
     ns1:coverImg "31.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2012-01-01T11:32:52"^^xsd:dateTime ;
@@ -6544,6 +6596,20 @@ ns1:bcphbq3pimm a ns1:User ;
     ns1:name "Bobbie Ann Pimm"^^xsd:string ;
     ns1:profileImg "author-bobbie-ann.jpg"^^xsd:string .
 
+ns1:bcphbz5vgog a ns1:Post ;
+    ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf" download="">Download issue 32.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocs2uhp ;
+    ns1:itemId "bcphbz5vgog"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 32, issue 4: Important People in our Dreams"^^xsd:string ;
+    ns1:profileImg "32.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "32.4"^^xsd:string .
+
 ns1:bcphbzdzrug a ns1:Post ;
     ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
@@ -6821,6 +6887,30 @@ ns1:bcphbqbynum a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Edward Bruce Bynum, Ph.D., ABPP"^^xsd:string ;
     ns1:profileImg "author-edward-bynum.jpg"^^xsd:string .
+
+ns1:bcphbqfmetz a ns1:User ;
+    ns1:coverImg "cover-author-deena-metzger.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://deenametzger.net/">deenametzger.net</a></p>
+
+<p>A poet, novelist, essayist, storyteller, teacher, healer and medicine woman who has taught and counseled for over fifty years, in the process of which she has developed therapies (Healing Stories) which creatively address life threatening diseases, spiritual and emotional crises, as well as community, political and environmental disintegration.</p>
+
+<p>Deena has spent a lifetime investigating Story as a form of knowing and healing. As a writer, she asks: Who do we have to become to find the forms and sacred language with which to meet these times?</p>
+
+<p>She conducts training groups on the spiritual, creative, political and ethical aspects of healing and peacemaking, individual, community and global, drawing deeply on alliance with spirit, indigenous teachings and the many wisdom traditions. One focus is on uniting Western medical ways with indigenous medicine traditions.</p>
+
+<blockquote>
+  <p>“To follow Story is to understand the path of healing. Each of our stories is a universe. Each one of us is living a story. To discover its shape and essence is essential to soul making.”</p>
+</blockquote>
+
+<p>With writer/healer Michael Ortiz Hill, she has introduced the concept of Daré, meaning Council, to North America. The Topanga Daré relies on Council, alliance with Spirit and the natural world, ancestor work, indigenous and wisdom traditions and teachings, music healing, dream telling, divination, kinship, and story telling to achieve personal transformation, community healing and social change.</p>
+
+<p>She is the author of many books, including the novels;  <em>A Rain of Night Birds</em>, (2017), <em>La Negra y Blanca</em> (2012 PEN Oakland Josephine Miles Award for Excellence in Literature), <em>Feral</em>; <em>Ruin and Beauty: New and Selected Poems</em>; <em>From Grief Into Vision: A Council; Doors: A Fiction for Jazz Horn</em>; <em>Entering the Ghost River: Meditations on the Theory and Practice of Healing</em>; <em>The Other Hand; What Dinah Thought</em>; <em>Tree: Essays and Pieces</em>; <em>The Woman Who Slept With Men to Take the War Out of Them</em>; and <em>Writing For Your Life</em>.</p>
+"""^^xsd:string ;
+    ns1:handle "deenametzger"^^xsd:string ;
+    ns1:itemId "bcphbqfmetz"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Deena Metzger"^^xsd:string ;
+    ns1:profileImg "author-deena-metzger.jpg"^^xsd:string .
 
 ns1:bcphbqvlach a ns1:User ;
     ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>

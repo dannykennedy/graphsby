@@ -884,20 +884,6 @@ ns1:bcphbr7xrtd a ns1:Post ;
     ns1:profileImg "15.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "15.4"^^xsd:string .
 
-ns1:bcphbrfqwml a ns1:Post ;
-    ns1:coverImg "14.1-2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1995-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_14/14.1-2-Dream-Network-Vol-14-Nos-1-&-2.pdf" download="">Download issue 14.1-2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_14/14.1-2-Dream-Network-Vol-14-Nos-1-&-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoa3iell ;
-    ns1:itemId "bcphbrfqwml"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 14, issue 1: Dreaming Humanity's Path: Protecting the Children & Warning Dreams"^^xsd:string ;
-    ns1:profileImg "14.1-2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "14.1-2"^^xsd:string .
-
 ns1:bcphbrnlz5j a ns1:Post ;
     ns1:coverImg "14.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1995-07-01T11:32:52"^^xsd:dateTime ;
@@ -2318,6 +2304,239 @@ ns1:bcpov6mausef a ns1:Post ;
     ns1:profileImg "post-bcpov6mausef-0.jpg"^^xsd:string ;
     ns1:urlSlug "are-dream-groups-really-useful"^^xsd:string .
 
+ns1:bcpov6meleph a ns1:Post ;
+    ns1:dateCreated "2012-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<blockquote>
+  <p><em>I dream that a conventional appearing middle class woman is calmly and confidently shooting two young lovers with a rifle. She shoots the young woman point blank and then turns the rifle on the young man who stands there horrified as he is shot to death. She is standing in the shadow of the roof of one of those concessions that lined the Boardwalk of Coney Island near where I lived as a child. I can’t see into the room, but by its dimensions this might have been an amusement gallery, the kind with the fortuneteller doll in a glass case in the center who will hand you a paper fortune for a penny or a nickel.</em> </p>
+  
+  <p><em>Having killed the lovers, she turns her rifle toward me, where I am watching from about a hundred yards away across the Boardwalk. She wants to silence me, to prevent me from writing about the extraordinary intelligence—and the plight—of the Elephant People. In the dream, my essays are being reprinted and becoming influential. I manage to escape her by fleeing to the Boardwalk entrance ramps where I meet Ron Kovic, the Vietnam veteran antiwar activist whose own story is told in “Born on the Fourth of July.” We greet one another, having been in the anti-war movement at the same time.</em> </p>
+  
+  <p><em>Suddenly, I am with him in a small room. He is not in his wheelchair but is standing. I am standing with him and we are embracing each other as comrades. He has healed almost all of his wounds in the course of these years. And he is still Ron Kovic standing up for what he believes.</em></p>
+</blockquote>
+
+<p><img src="../images/post-bcpov6meleph-1.jpg" width=500 height="auto"/></p>
+
+<p>I write down the dream and then learn that there was a showing of “Born on the Fourth of July” at the Museum of Modern Art on July 5th, 2012. Alexander Reed Kelley wrote about the event in Truthdig, on July 19th <a href="https://www.truthdig.com/articles/speaking-truth-on-the-fifth-of-july/">http://www.truthdig.com/report/item/speaking<em>truth</em>on<em>the</em>fifth_ of<em>july</em>20120819/</a>. There is a scene in “Born on the Fourth of July” where Kovic, played by Tom Cruise, and a small group of veterans enter the 1972 Republican National Convention in Miami Beach, Florida: </p>
+
+<blockquote>
+  <p>“My name is Ron Kovic. I am a Vietnam veteran,” Kovic says as he attempts to stand up from his wheelchair. “I am here to say that this war is wrong, that this society lied to me. It lied to my brothers. It deceived the people of this country, tricked them into going 13,000 miles to fight a war against a poor peasant people…” </p>
+</blockquote>
+
+<p>After the film, speaking to the audience, Kovic said: </p>
+
+<blockquote>
+  <p>“There’s a chill in the air. People are intimidated. … Protest is supposed to be part of our constitutional right and our freedom of assembly, the freedom to question authority and the freedom to redress our grievances, which we saw during the Occupy movement… Since 9/11, those who protest are almost made to feel as if they’re the enemy. …They’re afraid of being called traitors and being called un-American,” as Kovic himself has been called continuously, since speaking out against the wars, while sitting in his wheelchair, bearing wounds he sustained while attempting to defend his nation. “I think one of the most American things you can do is to speak your mind, to gather on a street corner and express yourself.” </p>
+</blockquote>
+
+<p>As in the dream, it is easy to pick off individuals one at a time, but perhaps the gathering of minds is a different matter. </p>
+
+<p>Kelley’s article hits home. I was preparing to lead a writing retreat among the ancient stones and megaliths of Ireland, and had just read of the defeat of the Druids by the Romans.<sup>1</sup> </p>
+
+<blockquote>
+  <p>The power of the Druids was so feared by the Romans that in 60 CE, their legions… made the crossing to the island of the dreamers and began the destruction of the sacred groves… With great effort the Roman governor, Suetonius Paulinus, rallied his men to attack this “band of females and fanatics… The next step… was to demolish the groves consecrated to their savage cults. </p>
+</blockquote>
+
+<p>How long these wars against the innocents have been going on! </p>
+
+<p>The conventional woman in my dream has no difficulty killing the innocents; it is what she does, just as the militarists have been engaged in endless war for millennia. It is how things have been and it is what must be undone. We know that consciousness is real and so we can change and reintegrate ourselves into the ecology of creation. Why else would spirit have sent this dream at this time? </p>
+
+<p>The woman aims at me with her rifle because I stand with the Elephant People. Let us not imagine for a moment that the aerial war against the wolves, the hunting by helicopter of elephants and rhinos, the conscription of dolphin into suicide missions, the devastation of the forests, the sacred groves, the mountains, the waters, air and land, the contamination of Mars with plutonium, the requisitioning of aboriginal lands and their resources everywhere, are not the same as the horrific acts of war we have witnessed and are living through in this and the last centuries against all the different peoples of this earth. </p>
+
+<p>In the dream, I meet the violence and probably save my life by making an alliance with an elder anti-war activist. After a long common history, we still stand together. </p>
+
+<p>Why this dream at this time, I asked and then looked for Ron’s recent activities, not even knowing if he is alive. Then I found the article about the talk he had just given. </p>
+
+<p>In the dream, anti-war is anti-war. A No Enemy Way. At Daré, on Sunday, the 19th, a woman told a story of an old ghost in the attic of a church who asked for help cleaning up a mess. She knew it was his mess that he needed to clean. He had caused her family injury. She resented having to help. But when a ghost wants help in cleaning up the past… </p>
+
+<p>I remember a line from a play I saw many years ago. The identity of a former Nazi officer living incognito among French resistance members is uncovered. Their intention is to kill him in retribution. “Hate the deed, but not the man,” he pleas for his own life. </p>
+
+<p>The No-Enemy way is committed to undoing war without engaging in war. We will have to be so very clever, determined and dedicated to clean up the grand mess. We will have to do it together. Many of the peoples on the planet, like the Wolf People, the Elephant People, the Tree People, cannot defend themselves just as indigenous people have ultimately been unable to defend themselves against the warmongers over the years. And yet the planet must not die. </p>
+
+<p>I met Ron Kovic in my dream last night. He stood up and I stood up next to him. Today, Day 119 before 2012, a dream calls me to stand up with / for the young lovers of the world, the Elephant People, and ‘the others,’ that is, for ourselves. ∞</p>
+
+<p><sup>1</sup>The Secret History of Dreaming, Robert Moss, p.22 </p>
+
+<p>~ ~ ∞ ~ ∞ ~ ∞ ~ ~ </p>
+
+<p>Deena Metzger is a poet, novelist, essayist, playwright and storyteller. She is also a village healer. Story is her Medicine. Her latest novels are <em>Feral</em> and <em>La Negra y Blanca</em>, both published by Hand to Hand, 2011 Other books include <em>Skin: Shadows/Silence</em>, <em>A Love Letter in the Form of a Novel</em>, <em>What Dinah Thought</em> and <em>The Woman Who Slept With Men to Take the War Out of Them</em> that is in the volume <em>Tree: Essays and Pieces</em>, that features the celebrated Warrior Poster on its cover. Tree testifies to a woman’s triumph over breast cancer. It is an example of her many formal and spiritual explorations imagining a literature responsive to the complexities and necessities of our time, especially the value of actively respecting the numerous voices that constitute an ecology of mind attuned to a sacred universe. All of Deena’s work is informed by dreams. As a spiritual practitioner, Deena is devoted to the Pathless Path and the No Enemy Way. </p>
+
+<p><a href="http://deenametzger.net/">www.deenametzger.net </a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqfmetz ;
+    ns1:hasTag ns1:bcphbqfmetz,
+        ns1:bcphbz5vgog ;
+    ns1:itemId "bcpov6meleph"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Plight of the Elephant People"^^xsd:string ;
+    ns1:urlSlug "a-dream-about-president-obama"^^xsd:string .
+
+ns1:bcpov6mhilli a ns1:Post ;
+    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6mhilli-0.jpg" width="400" height="auto" alt="Deena Metzger &amp; Michael Ortiz Hill"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i>Deena Metzger &amp; Michael Ortiz Hill</i></div><!--/nopreview--></p>
+
+<p><br/></p>
+
+<blockquote>
+  <p><strong>Apokalypsis:</strong> (from the Greek) literally "revelation" or "a tearing away of the veil, of that which conceals" (kalyptein)</p>
+  
+  <p><strong>Enantiodromia:</strong> The qualities or personas, carried to their extremes, tend to become their opposite.</p>
+</blockquote>
+
+<p><em>Editorial preface: When Michael and I were setting up this interview, I mentioned the shocking similarity of the dreams Michael built his book, 'Dreaming the End of the World' around and those received on this end as a result of our call for visionary dreams -resulting in this year's theme, Dreaming Humanity's Path. Similarity sufficient to cause trembling! This phenomenon, for me, confirms the essential message/story Psyche is communicating to the human community in these times.</em></p>
+
+<p><strong>Roberta Ossana:</strong> Before we go into the heart of the crucial dreams and messages that you communicate in your book about them, will you share a little about yourself, your interest in dreams/especially dreams of apocalypse, and how the book came about?</p>
+
+<p><strong>Michael Ortiz Hill:</strong> My background and education have definitely not been traditional. My mother is an artist and Mexican; her family goes back 250 years in Santa Fe, New Mexico My father was a Buddhist/Jungian intellectual. They met in the artist community in Santa Fe back in the 40's... so, I grew up in a certain ferment around artistic and psychic concerns. The beginning of my education was in my father's library, for sure! I was raised Catholic and learned the Buddha Dharma from my father when I was 15.</p>
+
+<p>My own practice has been largely Buddhist. When I was a teenager, I was homeless for three years and I regard that period as the real ground of my education: on one hand it was three years sleeping under freeway bridges, rummaging through garbage cans; on the other hand, I sat in on classes at the university, spending a great deal of time reading in university libraries. Carl Jung and Joseph Campbell were certainly my mentors. When I was homeless, a great deal of what I did was get an education. It was very deep, very rigorous and actually very devastating...  as one can imagine. What I call the apocalyptic rite of passage was first enacted in my life when I was on the street.</p>
+
+<p>I rather reconstructed myself when I was in my twenties. Got a job working with dying people and began to piece myself together. I trained as a registered nurse and entered into a quasi-monastic Buddhist practice for 6 1/2 years, sitting zazen at the bedside of my patients during graveyard shift. So my work now is what I call curandeeismo, a Spanish word meaning that I do healing, both in the context of the hospital and doing ritual work with my wife, Deena Metzger. Dreams play a big part in all of this. I work very strongly with dreams with my patients/clients, also with the Tarot and doing ritual work. My training the last three years has been in Ifa, which is West African (Yoruba) religious tradition. That's my life in a nutshell.</p>
+
+<p><img src="../images/post-bcpov6mhilli-1.jpg" width="400" height="auto" alt="Deena Metzger &amp; Michael Ortiz Hill"/></p>
+
+<p>The dreams that I've collected for the book are about the end of the world, about apocalypse. Because I'm from New Mexico, originally and because of the circumstances of my background, I literally grew up under the shadow of the bomb. My father was born and raised at Alamogordo, which is where they blew up the first bomb... outside of town, there. And my mother's town, Santa Fe is very much in the shadow of Los Alamos.</p>
+
+<p>My mother tells a remarkable story about when she was a teenager in the early forties, walking on the ridge near my grandfather's ranch with a nephew and pointing to the lights of Los Alamos—not having a clue what they were doing over there—and telling him that that was Santa Claus preparing Christmas for everybody!</p>
+
+<p>So, I grew up within the mythology of the bomb, within the duck and cover generation. The terrors of the cold war were always an over-arching presence. I'm of a generation—the post Hiroshima generation—that truly did not believe we would live to be 20 years old. I grew up in an atmosphere that took apocalypse as a given.</p>
+
+<p><strong>Roberta:</strong> An extraordinary history, Michael. Thank you. It seems to me that the dreams and your narrative in the book, are re-telling or reframing the archetypal motifs of the Creation Story and Hero's Journey, in contemporary terms. Does this ring true for you?</p>
+
+<p><strong>Michael:</strong> That's a very good point because one of the startling things is, if you look at the roots of what is called apocalypse in Western culture... if you look, for instance, to the roots of the Gospel and the revelations of St. John about apocalypse in the Old Testament, you go back to the old Babylonian stories of Marduk and the slaying of the primordial dragon, Tiamat. An ordered Universe, the sky and the stars, comes from the body of the slain dragon.</p>
+
+<p>So, the story of apocalypse, at its root, is really the story of creation...not the story of the end of the world. It's the story of the end of one world and the beginning of another. So, you're absolutely right about that. </p>
+
+<p><strong>Roberta:</strong> That's how this time seems, like an updating of the Creation story and being on the threshold of creation. Let's hope! It can't get too much more chaotic.</p>
+
+<p>There are some quotes from your book that orchestrate these archetypal stories—and which also outline the three stages of the Hero's Journey—which I would like to frame this interview around, if I may:</p>
+
+<h2>DEPARTURE</h2>
+
+<blockquote>
+  <p><em>"This dream—the (collective) Dream at the End of the World—is the awakening of the Beast."</em> p.23</p>
+  
+  <p><em>"The Beast is an autonomous complex loose in the collective psyche..."</em> p.33</p>
+  
+  <p><em>"The Beast is very often associated with the realm under the ground."</em> p.25</p>
+  
+  <p><em>"Very often the Beast's violence is located specifically in its hunger."</em> p.25</p>
+</blockquote>
+
+<p><strong>Roberta:</strong> What are some alternative, constructive suggestions you might make... what can be done to satisfy the hunger of the beast?</p>
+
+<p><strong>Michael:</strong> There are two things that come to mind. One, I suppose has to do with my reflections on the beast the last few months. My wife and I have been talking about the vortex—our shorthand for this acceleration of time we're experiencing. Deena and I have been talking about this autonomous complex, this vortex, that we're drawn into and toward—where things just seem to speed up and speed up and speed up—and more and more is demanded of us and we try to keep pace with it and things literally start disintegrating around us. The feeling is that when you find all of your peers and most everything you see around you being drawn toward this acceleration, then there is more going on than a personal situation.</p>
+
+<p>When I was his student years ago, Llama Sogyul Rimpoche used to talk about the Kali Yuga. Kali, is of course, the devouring mother from Tibetan and North Indian mythology. The Kali Yuga being the apocalyptic age, he used to speak of it in terms of a time of things accelerating and therefore disintegrating. So, in terms of the hunger of the Beast, there is way in which we are feeding our lives, our very selves, to this particular vortex. Lately, I've been struggling to re-imagine the vortex as a relentless demand to seize the present moment, carpe diem, to serve the sacredness of what is immediately present.</p>
+
+<p>The other thing about feeding the Beast is that the passage through apocalypse is hopefully a passage to a much smaller and humbler way of seeing things. There's a big attraction to thinking apocalyptically...in enormous categories. There's a shift, it seems to me, between the Beast (with a capital B) and the animals. There's the little kangaroo rat that you see the track of in the desert. That's the shift to me, in terms of archetypically feeding the Beast. How do you "feed"—that is to say acknowledge and nurture—the world it lives in? The real question is, What is the Transition We Have to Make? so that we're weaned from these heroic, titanic battles between Messiah and Beast and come back to seeing the little particulars that surround us.</p>
+
+<h2>INITIATION</h2>
+
+<p><strong>Roberta:</strong> So when we're talking about an autonomous complex loose in the collective psyche and how we might satisfy the Beast's hunger...it seems to boil down to the individual and to a recognition of shadow, leading to the rite of passage or the Initiatory stage of the Journey. More quotes from your book:</p>
+
+<blockquote>
+  <p>*"The Messiah, crazy in his desire to eliminate the enemy, easily becomes the Beast." *p. 31</p>
+  
+  <p><em>"In this dream, (at the end of the world) Beast and Messiah co-habit the same image."</em> p. 42</p>
+  
+  <p><em>"It is in coming to terms with the reality of the Beast that our salvation lies."</em> p. 44</p>
+  
+  <p><em>"Sub-scending the madness of the 20th century means descending into the Underworld to be initiated there."</em> p. 45</p>
+  
+  <p><em>"The dream of apocalypse depends on descending into the Beast's lair with tenderness of heart..."</em> p. 44</p>
+  
+  <p><em>"Rather than enacting apocalypse in the world unconsciously, we deliberately enter the apocalypse of the psyche for the sake of the world."</em> p.53</p>
+  
+  <p><em>"We are far more likely to participate in the world's destruction by clinging to the fiction of our innocence than if we have a conscious and living relationship with the darker aspects of our own nature."</em> p. 53</p>
+  
+  <p><em>"...apocalyptic initiation may well require destruction; one's 'world falling apart' can be intrinsic to the way of transformation."</em> p. 85</p>
+  
+  <p><em>"The recognition of apocalypse begins with looking into the face of what is falling apart and finding it unbearable..."</em> p. 85</p>
+  
+  <p><em>"...the project of preserving the fiction of normality in an apocalyptic time is itself the opium of the masses."</em> p. 85</p>
+  
+  <p><em>"These dreams speak of the end of denial, both of what is going on and of our complicity in it."</em> p. 99</p>
+</blockquote>
+
+<p><strong>Roberta:</strong> In these quotes, Beast and the Jungian concept of Shadow—or that which is not yet conscious—are relative, almost synonymous, are they not?</p>
+
+<p><strong>Michael:</strong> Yes, I think so, although when I speak of the Beast I'm talking about Shadow in a collective way... though obviously it's very personal, very intimately personal. When we speak of what we don't even want to know about ourselves, that's about as intimate as you can get.</p>
+
+<p><strong>Roberta:</strong> If Shadow has become a collective, autonomous complex, how do we each begin to do the work of withdrawing (shadow) projections? Of befriending the Beast?</p>
+
+<p><strong>Michael:</strong> There's an initiation in looking the Beast in the eye and our transformation is literally in the arms of the Beast, so to speak. There's a recognition of the sacred here. What happens in the apocalyptic battle is that there's a raging between the Messiah and the Beast that feeds this energy and that is precisely what we have to withdraw from. It's not about fighting the Beast, it's about recognizing: Ah...I See! It's not the enemy "out there" that's trying to destroy the world. I myself am also participating.</p>
+
+<p><strong>Roberta:</strong> Therein lies the paradox and the beauty in comprehending these realities. While the Beast is becoming visible—e.g. while we have collectively projected our shadow-side out into the world via wholesaling/marketing violence, via—as you speak about so eloquently in your book—the ravages that we're visiting upon Nature...the Beast has become so BIG! Yet each of us can only do our part, our own work. Can you, having been through the rites of passage many times yourself, offer courage and encouragement to people who have yet to make that passage?</p>
+
+<p><strong>Michael:</strong> Courage is a wonderful word, I think, because—as I understand the root of the word—courage is about coure, heart. How do we have heart?</p>
+
+<p>Somebody was asking me what apocalypse actually was, psychologically and as I got to the core of it, I believe it's the image of heartbreak. I think our terrors of apocalypse are terrors of heartbreak, of things falling apart. Psychological apocalypse is the experience of the lament or the rage or the compassion of living in the world at this time. And it is heart breaking, it is terrifying in many respects. That part of it can't be diminished, can't be pretended away.</p>
+
+<p>One classicist I quote in the book, L. R. Farnell, says that the quality that Hades holds—Hades being the God at the bottom of the underworld—in his primordial self is tenderness and melancholy.</p>
+
+<p>My own experience in making this passage—for all the drama of going down, which can indeed be very excruciating at times—the bottom line of the experience is this quality of tenderness and melancholy. I work a great deal around the Greek myth of Hades and the Eleusinian mysteries and I always ask, "What will it require to change the hell of the Twentieth Century into a Hades of initiation, rather than look at this time as a period or place of damnation? What if we look at the particulars of living in this time as a rite of initiation?"</p>
+
+<p>Initiation always serves the life energy and the life energy is the vitality within us and that is reliable. To move in that direction, to recover a portion of one's vitality, is a profound act.</p>
+
+<p>Unfortunately, American culture is a fundamentalist culture in many respects. It proliferates fundamentalisms and about 80% of what passes as ethics in this country is about identifying an enemy and throwing one's life force into fighting it! It's better than not being ethically committed, I suppose but there's very little imaginative space for what might be an ethics of reconciliation. When I work on the dream level, the question is, "How does one apply an ethics of reconciliation? How does one reconcile oneself with these aspects that are hugely troublesome, disruptive and confusing?" One can rely on the ego psychology that fights them to the bitter end but we all know that, in itself, drives us crazy.</p>
+
+<p><img src="../images/post-bcpov6mhilli-2.jpg" width="400" height="auto" alt="The sky will collapse and the earth will burst into flames, therefore cultivate compassion." Tantric scripture"/></p>
+
+<h2>RETURN</h2>
+
+<blockquote>
+  <p><em>"These dreams show that the Beast may well be presenting to us one of the many faces of God."</em> p. 145</p>
+  
+  <p><em>"One cannot behold the birth of light out of darkness without having been first rendered naked."</em> p.131</p>
+  
+  <p><em>"The light is revealed when one no longer knows who one is—when one is a mystery to oneself."</em> p. 131</p>
+  
+  <p><em>"The compassionate one is the archetype at the core of religion itself, in the original sense of the word: religiare, in Latin, 're-binding'."</em> p. 132</p>
+  
+  <p><em>"In two of these dreams, the act of re-binding is storytelling."</em> p. 133</p>
+  
+  <p><em>"The compassionate one is born the moment that self-preservation is no longer one's reason for being."</em> p. 131</p>
+  
+  <p><em>Therefore, Cultivate Compassion!</em> Title, chapter 13</p>
+</blockquote>
+
+<p><strong>Roberta:</strong> Here, in the midst of apocalypse—as we approach the threshold of the new forms/the new creation story—how do we dream, Now, the beginning of the world?</p>
+
+<p><strong>Michael:</strong> I'm going to answer on two tracks here, one which may seem a bit elliptical. One thing I noticed in apocalyptic dreams of the Compassionate One is that he or she only appears after the apocalypse. It's fascinating! The Compassionate One in apocalyptic dreams is not the one who saves the world. The one who saves the world has a very different character. Before apocalypse, there's a trickster character, who is like an animal that will do anything to survive. One who is trying, in trickster fashion, to sabotage the machinery that would generate apocalypse. So this is one figure in the psyche, the one who will save the world.</p>
+
+<p>The Compassionate One comes after the world has been rendered to ash. I speak of that act of binding together, of storytelling. One woman dreamt of the feet of the wounded children while she led them out of the devastation to a greener world. There's a difference here between the view of before the apocalypse and after the apocalypse. Before and after the apocalypse are two different ways of speaking about where we're at now; two different windows in which to look at the present time. So, we're asked to carry a duplex sensibility, two contradictory images of where we're at now, two contradictory forms of activity.</p>
+
+<p>Again, we have to come to the willingness to let our hearts break. To let the simple shape of the human being emerge: uninflated, tender and with an acceptance of the limitations of being human, with all our flaws. Striving for perfection is...it's simply a distraction. We're not perfectible beings and our beauty is not in our perfectibility. I believe that heartbreak and the willingness to live lives that have a human shape, lives that are responsible is the way we wake up from the dream at the end of the world.</p>
+
+<p>Because the bomb is no longer the primary image, there is an archetypal shift in the apocalyptic psyche. Now we're imaging apocalypse as the unraveling of nature—which of course was happening all along—the bomb was just eclipsing it. Greek myth talks about the Furies, the ones who torment, harass and cause miasma—bad blood or poison blood—to those who violate the Earth, the Mother.</p>
+
+<p>My feeling is that we're moving into a more horizontal mode. We're not looking up to the sky, to the bomb coming down anymore. We are beginning to recognize that our human lives are being shaped by the presence of other beings that are not human. They surround us, they shape us. How do we live in a way that honors that humans exist within a mosaic of communities? It is said that between 30 and 50 million species live on this planet, each of which is a community in and of itself. So, one can enter into that reality—this thin film of life called the biosphere that envelopes this planet and that vibrates as we walk in the midst of it. It has always beckoned to our hearts to listen. Right now, nothing is more crucial than learning the art of listening.</p>
+
+<p><strong>Roberta:</strong> Oh, thank you for sharing your thoughts and your time, Michael.</p>
+
+<h2>The Oceans Above, The Sky Below: A Dream</h2>
+
+<p><em>I have been to a huge party in some kind of military compound, or military headquarters—either Air Force or NASA—and one of the officers wants to show me something. I sensed that this man was not only lonely but also alone, in that he knew something that nobody else knew. Some sort of secret mission. He wanted to show me what it was.</em></p>
+
+<p><em>He takes me into a room that has what looks like an aircraft trainer in it, with seats for a pilot and passenger. He straps me into the passenger seat, makes sure I have a helmet securely strapped on, shows me how to "sight" in something like a rifle sight. (What am I going to be "sighting?") then he gets up into the pilot's seat, presses a button on the stick and we're immediately catapulted into outer space! It happens so fast that it fairly takes my breath away. We hover there for a few minutes, then we're suddenly back in the training room. He mentally tells me to go get something (what?) and come back to do this again. I wander through the halls but don't know which door to go into to get whatever it is I'm supposed to get. Finally, I go into a room full of officers who are just standing around and talking. I ask the one who seems to outrank the others where is this Colonel that I'm supposed to assist. He looks at me with disdain. The others turn around to stare at me as though they thought "Who do you think you are, to be assisting Colonel what's-his-name in such a secret project?" The officer studies me for a minute and then says "Oh, yes, you must be Maria" indicating that he knows this Colonel has need of me. He leads me through the hall toward the training room.</em></p>
+
+<p><em>I say, "Yes, we lifted off a while ago and I must admit I was scared pea-green at first but then I began to enjoy it." He smirks and says: "Yes, I guess there are some people who enjoy doing something different." I wonder what he means by this. Suddenly, before we get to the training room, I see we are in this huge room. It is round, like a transparent bubble. There are windows all around, from floor to domed ceiling and the ceiling is also transparent, like a domed skylight. There is something like a ballet bar against the right side of the wall. Suddenly, the entire bubble-room tilts sharply to the right and everything and everybody starts sliding and falling against the opposite wall. Some of them are yelling, all wondering what in the world is going on.</em></p>
+
+<p><em>The officer who was leading me is the most nonplused by it all. I say to him: "Well, there's something different going on right now and we're all experiencing it." I'm frightened, wondering what it is and what all these people think about it and what's going to happen to Planet Earth. Suddenly, in a flash, I know that the Earth's poles are shifting and what was "up" is now going "down" and vice-versa. It's like the oceans will be above and the sky will be below...a complete REVERSAL of what once was and it would probably mean the extinction of life as we now know it. Not "life" per se but "life as we now know it."</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3ossa,
+        ns1:bcphbqfhill ;
+    ns1:hasTag ns1:bcphbq3ossa,
+        ns1:bcphbqfhill,
+        ns1:bcphbrfqwml ;
+    ns1:itemId "bcpov6mhilli"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Apocalypse as a Rite of Passage - the Coexistence of Beauty & Beast in Psyche, in Culture: an Interview with Michael Ortiz Hill"^^xsd:string ;
+    ns1:profileImg "post-bcpov6mhilli-0.jpg"^^xsd:string ;
+    ns1:urlSlug "an-interview-with-michael-ortiz-hill"^^xsd:string .
+
 ns1:bcpov6mlight a ns1:Post ;
     ns1:dateCreated "1982-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="https://www.goodreads.com/book/show/2197141.The_River_of_Light"></p>
@@ -2443,7 +2662,7 @@ ns1:bcpov6mtheat a ns1:Post ;
     ns1:dateCreated "2014-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Theater director Steven Kent and I had not expected to be working together again on a creative project related to dreams at this time in our lives. In advance of producing <em>Dreams Against the State</em> in 1981, he and I had recreated the Eleusinian Mysteries in Greece in 1980 for the first time in 1500 years. I had written the play and Steve was the dramaturge and director. The first production of the play was performed in fifty different venues: private homes, community centers, churches, etc. This deliberate variation on performance space was designed to emphasize the real life danger to dreams and dreaming in our culture and the need for individuals and communities to provide sanctuary for dreams. </p>
 
-<p>Thirty-two years later, in January 2014, we were coteaching a class on <em>How to Start a Dream Theater</em> at La Verne University where Steven is a faculty member of the Theater Arts Department. This project is, perhaps, the closed parenthesis of a creative partnership devoted to theater, ritual, transformation and the inner life. </p>
+<p>Thirty-two years later, in January 2014, we were co-teaching a class on <em>How to Start a Dream Theater</em> at La Verne University where Steven is a faculty member of the Theater Arts Department. This project is, perhaps, the closed parenthesis of a creative partnership devoted to theater, ritual, transformation and the inner life. </p>
 
 <p>The creative premise of the class was that the students comprise a theater troupe that visits communities to perform their dreams, and at the same time, are themselves a community whose dreams are explored and reflected upon, theatrically, by the theater troupe. We were imaging being called into a community to enact the dreams in order to help resolve conflicts or disagreements in creative ways.</p>
 
@@ -2489,7 +2708,7 @@ ns1:bcpov6mtheat a ns1:Post ;
 
 <p>Elenna Rubin Goodman, a community builder, had come to the class from Oakland California. The class served her deep desire “ to bring together community, sacred space and the ritual embodiment of dreams/dream theater.” And we were grateful that we could serve both the students and others seeking new ways of serving community that include validating inner life experience. </p>
 
-<p>Three texts informed the class: <em>Black Elk Speaks</em>, by John Neihardt, <em>Healing Dreams: Exploring the Dreams That Can Transform Your Life</em> by Marc Ian Barasch, and <em>The Practice of Dream Healine: Bringing Ancient Greek Mysteries into Modern Medicine</em> by Edward Tick and Stephen Larsen. Each text speaks to the ways dream inform and heal culture as well as bringing wisdom and insight to individuals for their lives. So many of the dreams that the students brought into our circle were unexpectedly revealed to be vehicles for connection, community and cultural restoration. Entering and living within a dreaming culture is an essential antidote to totalitarian and fundamentalist thought. This is iterated by Paco Mitchell in the Winter Solstice 2013 issue of Dream Network Journal, an essay that we shared in class: “…dreams are such bastions of freedom.” </p>
+<p>Three texts informed the class: <em>Black Elk Speaks</em>, by John Neihardt, <em>Healing Dreams: Exploring the Dreams That Can Transform Your Life</em> by Marc Ian Barasch, and <em>The Practice of Dream Healing: Bringing Ancient Greek Mysteries into Modern Medicine</em> by Edward Tick and Stephen Larsen. Each text speaks to the ways dream inform and heal culture as well as bringing wisdom and insight to individuals for their lives. So many of the dreams that the students brought into our circle were unexpectedly revealed to be vehicles for connection, community and cultural restoration. Entering and living within a dreaming culture is an essential antidote to totalitarian and fundamentalist thought. This is iterated by Paco Mitchell in the Winter Solstice 2013 issue of Dream Network Journal, an essay that we shared in class: “…dreams are such bastions of freedom.” </p>
 
 <p>The class was not <em>about</em> creating a dream theater; rather, our intention was to facsimilate the experience of dream theater troupes and dreaming communities. We had started out suggesting that the students imagine that they were a dream troupe or a dreaming community; within days the imagined manifested. We learned swiftly that understanding self through exploring and performing dreams is also a means to establishing communal identity while emphasizing the wild freedom and uniqueness at the core of the creative process. Some of the students may go on to use dreams in their creative work. All of them, I am certain—whether as physicians or private eyes, (two examples of the students’ present vocational goals)—will use dreams as part of their future work in the world. </p>
 
@@ -6081,6 +6300,20 @@ ns1:bcphbqyogh7 a ns1:Post ;
     ns1:profileImg "13.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.2"^^xsd:string .
 
+ns1:bcphbrfqwml a ns1:Post ;
+    ns1:coverImg "14.1-2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1995-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_14/14.1-2-Dream-Network-Vol-14-Nos-1-&-2.pdf" download="">Download issue 14.1-2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_14/14.1-2-Dream-Network-Vol-14-Nos-1-&-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoa3iell ;
+    ns1:itemId "bcphbrfqwml"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 14, issue 1: Dreaming Humanity's Path: Protecting the Children & Warning Dreams"^^xsd:string ;
+    ns1:profileImg "14.1-2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "14.1-2"^^xsd:string .
+
 ns1:bcphbrptpuy a ns1:Post ;
     ns1:coverImg "14.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1995-10-01T11:32:52"^^xsd:dateTime ;
@@ -6591,6 +6824,18 @@ ns1:bcphbq3rcwi a ns1:User ;
     ns1:name "Richard Wilkerson"^^xsd:string ;
     ns1:profileImg "author-richard-wilkerson.jpg"^^xsd:string .
 
+ns1:bcphbqfhill a ns1:User ;
+    ns1:coverImg "cover-author-deena-metzger.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.michaelortizhill.com/">michaelortizhill.com</a></p>
+
+<p>Michael Ortiz Hill is a registered nurse, a Buddhist practitioner, and an initiated medicine man with tribal people of Zimbabwe. The core of his spiritual practice has been the refinement and activity of compassion. He is the author of <em>Dreaming the End of the World: Apocalypse as a Rite of Passage</em>; <em>Twin from Another Tribe: The Story of Two Shamanic Healers in Africa and North America</em>; and <em>The Village of the Water Spirits: The Dreams of African-Americans</em> (both books with Mandaza Kandemwa). He is also the author of <em>Conspiracies of Kindness: The Craft of Compassion at the Bedside of the Ill</em> and does workshops and lectures on <em>The Craft of Compassion</em>. He lives in Topanga, California with his wife <a href="../@deenametzger">Deena Metzger</a>.</p>
+"""^^xsd:string ;
+    ns1:handle "michaelortizhill"^^xsd:string ;
+    ns1:itemId "bcphbqfhill"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Michael Ortiz Hill"^^xsd:string ;
+    ns1:profileImg "author-michael-ortiz-hill.jpg"^^xsd:string .
+
 ns1:bcphbqflyer a ns1:User ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
 
@@ -6741,20 +6986,6 @@ ns1:bcphbq3pimm a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bobbie Ann Pimm"^^xsd:string ;
     ns1:profileImg "author-bobbie-ann.jpg"^^xsd:string .
-
-ns1:bcphbz5vgog a ns1:Post ;
-    ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf" download="">Download issue 32.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocs2uhp ;
-    ns1:itemId "bcphbz5vgog"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 32, issue 4: Important People in our Dreams"^^xsd:string ;
-    ns1:profileImg "32.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "32.4"^^xsd:string .
 
 ns1:bcphbzdzrug a ns1:Post ;
     ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
@@ -7069,6 +7300,20 @@ ns1:bcphbqwatts a ns1:User ;
     ns1:name "Rosemary Watts-Dreyer"^^xsd:string ;
     ns1:profileImg "author-rosemary-watts.jpg"^^xsd:string .
 
+ns1:bcphbz5vgog a ns1:Post ;
+    ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf" download="">Download issue 32.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocs2uhp ;
+    ns1:itemId "bcphbz5vgog"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 32, issue 4: Important People in our Dreams"^^xsd:string ;
+    ns1:profileImg "32.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "32.4"^^xsd:string .
+
 ns1:bcpov6pspec a ns1:Post ;
     ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Some of these publications were published by the Dream Network, others have been kindly offered to this site so you can download and enjoy them. All are fabulous!</p>
@@ -7229,41 +7474,6 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
 
-ns1:bcphbq3ossa a ns1:User ;
-    ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
-
-<p>The event that marked my starting point appeared in the form of a technicolor, stereophonic sound, full length movie-like dream which was the first of its kind in my experience. Its power and beauty were such that I recorded it, not knowing why at the time.</p>
-
-<p>Many other dreams followed, compelling enough that I started journaling regularly and began reading what related literature I could find. But it wasn't until that particular dream took the form of an actual event several years later that I got deeply involved.</p>
-
-<p>This dream occurred during summer 1975 and in it,</p>
-
-<p><em>I find myself in a community center (which in waking life housed the office in which I was working). In every room of this building are people participating in an amazing variety of artistic activities: dancers, singers, musicians, artists...</em></p>
-
-<p>The energy in the dream and afterward was exhilarating!</p>
-
-<p>In the Autumn of l980, the mayor of my community, in his weekly column in the local newspaper, cast an open invitation for "someone" in the community to coordinate an event. I considered accepting that invitation by calling together a group of colleagues to brainstorm ideas and as that process was unfolding, ideas and images were being put forth from members of the group which formed in my mind's eye a clear memory of the above-mentioned dream. To the group I exclaimed "My God, this reminds me of a dream I had five years ago!" One person responded immediately: "Then we've got to do it!"</p>
-
-<p>The program was scheduled, very well attended... and I found myself presiding over a virtual re-enactment of the dream in full detail. It was the ever-sought-after experience of Being at the intersection between the dreamworld and daytime 'reality.' The occasion for this event was the 35th anniversary of the United Nations.</p>
-
-<p>By the way, the photo (above) was taken during that event:</p>
-
-<p>A Dream Come True! Can you tell?</p>
-
-<p><em>"To live mythically is to seek guidance from your dreams, imagination, and other reflections of your inner being, as well as from the most inspiring people, practices, and institutions of your society.</em></p>
-
-<p><em>To live mythically is also to cultivate an ever-deepening relationship with the universe and its great mysteries."</em></p>
-
-<p>David Feinstein &amp; Stanley Krippner, Personal Mythology</p>
-
-<p>(Jeremy Tarcher, LA CA 1988 ) p. 1</p>
-"""^^xsd:string ;
-    ns1:handle "robertaossana"^^xsd:string ;
-    ns1:itemId "bcphbq3ossa"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Roberta Ossana"^^xsd:string ;
-    ns1:profileImg "roberta_ossana.png"^^xsd:string .
-
 ns1:bcphbq3wagg a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>
 
@@ -7276,30 +7486,6 @@ ns1:bcphbq3wagg a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert Waggoner"^^xsd:string ;
     ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
-
-ns1:bcphbqfmetz a ns1:User ;
-    ns1:coverImg "cover-author-deena-metzger.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://deenametzger.net/">deenametzger.net</a></p>
-
-<p>A poet, novelist, essayist, storyteller, teacher, healer and medicine woman who has taught and counseled for over fifty years, in the process of which she has developed therapies (Healing Stories) which creatively address life threatening diseases, spiritual and emotional crises, as well as community, political and environmental disintegration.</p>
-
-<p>Deena has spent a lifetime investigating Story as a form of knowing and healing. As a writer, she asks: Who do we have to become to find the forms and sacred language with which to meet these times?</p>
-
-<p>She conducts training groups on the spiritual, creative, political and ethical aspects of healing and peacemaking, individual, community and global, drawing deeply on alliance with spirit, indigenous teachings and the many wisdom traditions. One focus is on uniting Western medical ways with indigenous medicine traditions.</p>
-
-<blockquote>
-  <p>“To follow Story is to understand the path of healing. Each of our stories is a universe. Each one of us is living a story. To discover its shape and essence is essential to soul making.”</p>
-</blockquote>
-
-<p>With writer/healer Michael Ortiz Hill, she has introduced the concept of Daré, meaning Council, to North America. The Topanga Daré relies on Council, alliance with Spirit and the natural world, ancestor work, indigenous and wisdom traditions and teachings, music healing, dream telling, divination, kinship, and story telling to achieve personal transformation, community healing and social change.</p>
-
-<p>She is the author of many books, including the novels;  <em>A Rain of Night Birds</em>, (2017), <em>La Negra y Blanca</em> (2012 PEN Oakland Josephine Miles Award for Excellence in Literature), <em>Feral</em>; <em>Ruin and Beauty: New and Selected Poems</em>; <em>From Grief Into Vision: A Council; Doors: A Fiction for Jazz Horn</em>; <em>Entering the Ghost River: Meditations on the Theory and Practice of Healing</em>; <em>The Other Hand; What Dinah Thought</em>; <em>Tree: Essays and Pieces</em>; <em>The Woman Who Slept With Men to Take the War Out of Them</em>; and <em>Writing For Your Life</em>.</p>
-"""^^xsd:string ;
-    ns1:handle "deenametzger"^^xsd:string ;
-    ns1:itemId "bcphbqfmetz"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Deena Metzger"^^xsd:string ;
-    ns1:profileImg "author-deena-metzger.jpg"^^xsd:string .
 
 ns1:bcphbqvmoss a ns1:User ;
     ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>
@@ -7392,6 +7578,69 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dr. Stanley Krippner"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
+
+ns1:bcphbq3ossa a ns1:User ;
+    ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
+
+<p>The event that marked my starting point appeared in the form of a technicolor, stereophonic sound, full length movie-like dream which was the first of its kind in my experience. Its power and beauty were such that I recorded it, not knowing why at the time.</p>
+
+<p>Many other dreams followed, compelling enough that I started journaling regularly and began reading what related literature I could find. But it wasn't until that particular dream took the form of an actual event several years later that I got deeply involved.</p>
+
+<p>This dream occurred during summer 1975 and in it,</p>
+
+<p><em>I find myself in a community center (which in waking life housed the office in which I was working). In every room of this building are people participating in an amazing variety of artistic activities: dancers, singers, musicians, artists...</em></p>
+
+<p>The energy in the dream and afterward was exhilarating!</p>
+
+<p>In the Autumn of l980, the mayor of my community, in his weekly column in the local newspaper, cast an open invitation for "someone" in the community to coordinate an event. I considered accepting that invitation by calling together a group of colleagues to brainstorm ideas and as that process was unfolding, ideas and images were being put forth from members of the group which formed in my mind's eye a clear memory of the above-mentioned dream. To the group I exclaimed "My God, this reminds me of a dream I had five years ago!" One person responded immediately: "Then we've got to do it!"</p>
+
+<p>The program was scheduled, very well attended... and I found myself presiding over a virtual re-enactment of the dream in full detail. It was the ever-sought-after experience of Being at the intersection between the dreamworld and daytime 'reality.' The occasion for this event was the 35th anniversary of the United Nations.</p>
+
+<p>By the way, the photo (above) was taken during that event:</p>
+
+<p>A Dream Come True! Can you tell?</p>
+
+<p><em>"To live mythically is to seek guidance from your dreams, imagination, and other reflections of your inner being, as well as from the most inspiring people, practices, and institutions of your society.</em></p>
+
+<p><em>To live mythically is also to cultivate an ever-deepening relationship with the universe and its great mysteries."</em></p>
+
+<p>David Feinstein &amp; Stanley Krippner, Personal Mythology</p>
+
+<p>(Jeremy Tarcher, LA CA 1988 ) p. 1</p>
+"""^^xsd:string ;
+    ns1:handle "robertaossana"^^xsd:string ;
+    ns1:itemId "bcphbq3ossa"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Roberta Ossana"^^xsd:string ;
+    ns1:profileImg "roberta_ossana.png"^^xsd:string .
+
+ns1:bcphbqfmetz a ns1:User ;
+    ns1:coverImg "cover-author-deena-metzger.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://deenametzger.net/">deenametzger.net</a></p>
+
+<p>BLOG -- Ruin and Beauty <a href="https://deenametzger.wordpress.com/">www.deenametzger.wordpress.com</a> </p>
+
+<p>BLOG -- To Consider 2012 <a href="https://toconsider2012.wordpress.com/">www.toconsider2012.wordpress.com</a></p>
+
+<p>A poet, novelist, essayist, storyteller, teacher, healer and medicine woman who has taught and counseled for over fifty years, in the process of which she has developed therapies (Healing Stories) which creatively address life threatening diseases, spiritual and emotional crises, as well as community, political and environmental disintegration.</p>
+
+<p>Deena has spent a lifetime investigating Story as a form of knowing and healing. As a writer, she asks: Who do we have to become to find the forms and sacred language with which to meet these times?</p>
+
+<p>She conducts training groups on the spiritual, creative, political and ethical aspects of healing and peacemaking, individual, community and global, drawing deeply on alliance with spirit, indigenous teachings and the many wisdom traditions. One focus is on uniting Western medical ways with indigenous medicine traditions.</p>
+
+<blockquote>
+  <p>“To follow Story is to understand the path of healing. Each of our stories is a universe. Each one of us is living a story. To discover its shape and essence is essential to soul making.”</p>
+</blockquote>
+
+<p>With writer/healer Michael Ortiz Hill, she has introduced the concept of Daré, meaning Council, to North America. The Topanga Daré relies on Council, alliance with Spirit and the natural world, ancestor work, indigenous and wisdom traditions and teachings, music healing, dream telling, divination, kinship, and story telling to achieve personal transformation, community healing and social change.</p>
+
+<p>She is the author of many books, including the novels;  <em>A Rain of Night Birds</em>, (2017), <em>La Negra y Blanca</em> (2012 PEN Oakland Josephine Miles Award for Excellence in Literature), <em>Feral</em>; <em>Ruin and Beauty: New and Selected Poems</em>; <em>From Grief Into Vision: A Council; Doors: A Fiction for Jazz Horn</em>; <em>Entering the Ghost River: Meditations on the Theory and Practice of Healing</em>; <em>The Other Hand; What Dinah Thought</em>; <em>Tree: Essays and Pieces</em>; <em>The Woman Who Slept With Men to Take the War Out of Them</em>; and <em>Writing For Your Life</em>.</p>
+"""^^xsd:string ;
+    ns1:handle "deenametzger"^^xsd:string ;
+    ns1:itemId "bcphbqfmetz"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Deena Metzger"^^xsd:string ;
+    ns1:profileImg "author-deena-metzger.jpg"^^xsd:string .
 
 ns1:bcphbqvbulk a ns1:User ;
     ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;

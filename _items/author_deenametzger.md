@@ -12,6 +12,8 @@ coverImg: cover-author-deena-metzger.jpg
 ---
 
 Website: [deenametzger.net](http://deenametzger.net/)
+BLOG -- Ruin and Beauty [www.deenametzger.wordpress.com](https://deenametzger.wordpress.com/) 
+BLOG -- To Consider 2012 [www.toconsider2012.wordpress.com](https://toconsider2012.wordpress.com/)
 
 A poet, novelist, essayist, storyteller, teacher, healer and medicine woman who has taught and counseled for over fifty years, in the process of which she has developed therapies (Healing Stories) which creatively address life threatening diseases, spiritual and emotional crises, as well as community, political and environmental disintegration.
 

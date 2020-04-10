@@ -643,20 +643,6 @@ ns1:bcphbnxwzvo a ns1:Post ;
     ns1:profileImg "7.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.6"^^xsd:string .
 
-ns1:bcphbo4ff76 a ns1:Post ;
-    ns1:coverImg "10.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1991-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.1-Dream-Network-Journal_Volume-10_No-1.pdf" download="">Download issue 10.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.1-Dream-Network-Journal_Volume-10_No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaqcodk ;
-    ns1:itemId "bcphbo4ff76"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 10, issue 1: Healing the Child Within "^^xsd:string ;
-    ns1:profileImg "10.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "10.1"^^xsd:string .
-
 ns1:bcphboajs77 a ns1:Post ;
     ns1:coverImg "8.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1989-05-01T11:32:52"^^xsd:dateTime ;
@@ -1346,20 +1332,6 @@ ns1:bcphbzaknqj a ns1:Post ;
     ns1:profileImg "30.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "30.2-3"^^xsd:string .
 
-ns1:bcphbzoxivb a ns1:Post ;
-    ns1:coverImg "31.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2012-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.3_politics.pdf" download="">Download issue 31.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.3_politics.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocpr3vh ;
-    ns1:itemId "bcphbzoxivb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 31, issue 3: Dreaming Politics"^^xsd:string ;
-    ns1:profileImg "31.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "31.3"^^xsd:string .
-
 ns1:bcpov6glight a ns1:Post ;
     ns1:dateCreated "1999-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6glight-0.jpg" width="600" height="auto" alt="Symbolic Sound Forms from the Akashic Records"/></p>
@@ -1443,7 +1415,7 @@ ns1:bcpov6kbchil a ns1:Post ;
 </ol>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqvbulk ;
-    ns1:hasTag ns1:bcphbpfnwcb,
+    ns1:hasTag ns1:bcphbo4ff76,
         ns1:bcphbqvbulk ;
     ns1:itemId "bcpov6kbchil"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -2411,7 +2383,7 @@ ns1:bcpov6meleph a ns1:Post ;
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqfmetz ;
     ns1:hasTag ns1:bcphbqfmetz,
-        ns1:bcphbz5vgog ;
+        ns1:bcphbzoxivb ;
     ns1:itemId "bcpov6meleph"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Plight of the Elephant People"^^xsd:string ;
@@ -6375,6 +6347,34 @@ ns1:bcphbnlbw5k a ns1:Post ;
     ns1:profileImg "7.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.2"^^xsd:string .
 
+ns1:bcphbo4ff76 a ns1:Post ;
+    ns1:coverImg "10.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1991-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.1-Dream-Network-Journal_Volume-10_No-1.pdf" download="">Download issue 10.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.1-Dream-Network-Journal_Volume-10_No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaqcodk ;
+    ns1:itemId "bcphbo4ff76"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 10, issue 1: Healing the Child Within "^^xsd:string ;
+    ns1:profileImg "10.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "10.1"^^xsd:string .
+
+ns1:bcphbpfnwcb a ns1:Post ;
+    ns1:coverImg "10.2-3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1991-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.2-3-Dream-Network-Journal_Volume-10_No-2-3.pdf" download="">Download issue 10.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.2-3-Dream-Network-Journal_Volume-10_No-2-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaqcodk ;
+    ns1:itemId "bcphbpfnwcb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 10, issue 2: Healing our Souls, Healing the Earth"^^xsd:string ;
+    ns1:profileImg "10.2-3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "10.2-3"^^xsd:string .
+
 ns1:bcphbqp3hfp a ns1:Post ;
     ns1:coverImg "12.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1993-10-01T11:32:52"^^xsd:dateTime ;
@@ -6670,6 +6670,20 @@ ns1:bcphbzhpgrg a ns1:Post ;
     ns1:profileImg "31.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.1"^^xsd:string .
 
+ns1:bcphbzoxivb a ns1:Post ;
+    ns1:coverImg "31.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2012-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.3_politics.pdf" download="">Download issue 31.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.3_politics.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocpr3vh ;
+    ns1:itemId "bcphbzoxivb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 31, issue 3: Dreaming Politics"^^xsd:string ;
+    ns1:profileImg "31.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "31.3"^^xsd:string .
+
 ns1:bcphbzrw57c a ns1:Post ;
     ns1:coverImg "31.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2012-10-01T11:32:52"^^xsd:dateTime ;
@@ -6711,20 +6725,6 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:name "Volume 8, issue 4"^^xsd:string ;
     ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.4"^^xsd:string .
-
-ns1:bcphbpfnwcb a ns1:Post ;
-    ns1:coverImg "10.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1991-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.2-3-Dream-Network-Journal_Volume-10_No-2-3.pdf" download="">Download issue 10.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.2-3-Dream-Network-Journal_Volume-10_No-2-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaqcodk ;
-    ns1:itemId "bcphbpfnwcb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 10, issue 2: Healing our Souls, Healing the Earth"^^xsd:string ;
-    ns1:profileImg "10.2-3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "10.2-3"^^xsd:string .
 
 ns1:bcphbpqyqpo a ns1:Post ;
     ns1:coverImg "11.1-cover.jpg"^^xsd:string ;
@@ -7140,6 +7140,20 @@ ns1:bcphbq3pimm a ns1:User ;
     ns1:name "Bobbie Ann Pimm"^^xsd:string ;
     ns1:profileImg "author-bobbie-ann.jpg"^^xsd:string .
 
+ns1:bcphbz5vgog a ns1:Post ;
+    ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf" download="">Download issue 32.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocs2uhp ;
+    ns1:itemId "bcphbz5vgog"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 32, issue 4: Important People in our Dreams"^^xsd:string ;
+    ns1:profileImg "32.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "32.4"^^xsd:string .
+
 ns1:bcphbzdzrug a ns1:Post ;
     ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
@@ -7452,20 +7466,6 @@ ns1:bcphbqwatts a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Rosemary Watts-Dreyer"^^xsd:string ;
     ns1:profileImg "author-rosemary-watts.jpg"^^xsd:string .
-
-ns1:bcphbz5vgog a ns1:Post ;
-    ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf" download="">Download issue 32.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.4_important_people_in_dreams.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocs2uhp ;
-    ns1:itemId "bcphbz5vgog"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 32, issue 4: Important People in our Dreams"^^xsd:string ;
-    ns1:profileImg "32.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "32.4"^^xsd:string .
 
 ns1:bcpov6pspec a ns1:Post ;
     ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;

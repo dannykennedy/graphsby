@@ -6,7 +6,7 @@ name: "The Plight of the Elephant People"
 tags:
   - hasTag: deenametzger
   - hasAuthor: deenametzger
-  - hasTag: 32.4
+  - hasTag: 31.3
   - hasTextType: dream
 type: post
 urlSlug: "a-dream-about-president-obama"

@@ -6,7 +6,7 @@ name: "Teaching Dreamwork to Children: Helping Them Face a Complex World"
 tags:
   - hasTag: kellybulkeley
   - hasAuthor: kellybulkeley
-  - hasTag: 10.2-3
+  - hasTag: 10.1
 type: post
 urlSlug: "teaching-dreamwork-to-children"
 ---

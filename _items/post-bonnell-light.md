@@ -6,6 +6,8 @@ name: "Light at the End of the Tunnel - The Twelve Days of Light: An Interview w
 tags:
   - hasTag: garybonnell
   - hasAuthor: garybonnell
+  - hasTag: robertaossana
+  - hasAuthor: robertaossana
   - hasTag: 18.4
 type: post
 urlSlug: "interview-with-gary-bonnell"

@@ -255,13 +255,15 @@ for pyyam in file_objects:
 			ORDER BY DESC(?name)
 			"""
 
-		# q = graph.query(query_string)
-		# print("result: ", end="")
-		# print(str(len(q)))
 
-		# for row in q:
-		# 	print("name")
-		# 	print (str(row[0]))
+
+		q = graph.query(query_string)
+		print("result: ", end="")
+		print(str(len(q)))
+
+		for row in q:
+			print("type")
+			print (str(row[7]))
 	else:
 		# Find all items that have tagged the current page
 		query_string = """
@@ -400,16 +402,6 @@ for pyyam in file_objects:
 	if "dateCreated" in pyyam.keys():
 		dateOfPost = pyyam["dateCreated"]
 		pyyam["dateString"] = formatDate(dateOfPost, "month")
-
-
-
-	
-	print("tagged itemszzzzzzzzzzzzzzzzzzz")
-	print(str(Literal('bcpov6zbotdm/book-review-the-dreamers-book-of-the-dead-by-robert-moss')))
-	# print(tagged_items)
-
-	
-
 
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":

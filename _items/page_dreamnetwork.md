@@ -13,7 +13,7 @@ profileImg: dnj-text.jpg
 
 The (draft) Dream Network archive is finally here! The entire 1982-2015 collection, to peruse at your leisure. Thank you so much again for your help.
 
-Below, you can download each volume as a .zip file, or download each issue individually from the list of images. If you'd like to look up an individual author or article, here's a (not-quite-complete) [list of Dream Network articles](https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing) in spreadsheet form.
+Below, you can download each volume as a .zip file, or download each issue individually from the list of images. If you'd like to look up an individual author or article, there's a growing [authors page](../@dreamnetwork~authors) here, and a (not-quite-complete) [list of Dream Network articles](https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing) in spreadsheet form.
 
 Feel free to send the PDFs to your friends, but rather than publishing them online please just link to the archive site once it's public. We also ask you not to publish the articles in the journals, unless you have the permission of the author (or you are the author, in which case, the rights are yours!)
 

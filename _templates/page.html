@@ -49,7 +49,8 @@
                     {% if posts %} {% for post in posts %}
 
                     <div id="{{post.itemId}}" class="card item-card thumb-card" onclick="window.location.href = '{{site_url + '/' + post.card_link}}'">
-                        <div class="inner-card">
+                        <div class="inner-card {{post.card_type}}card">
+                            {% if post.card_type == "Post" %}
                             <div class="card-header">
                                 <div class="card-user-info">
 
@@ -113,6 +114,7 @@
                                     </div>
                                 </div>
                             </div>
+                            {% endif %}
                             <div class="card-body">
                                 <h3 class="card-title">
                                     <a href="{{site_url + '/' + post.card_link}}"
@@ -123,6 +125,7 @@
                                     <img
                                         src="{{'../images/' + post.profileImg}}"
                                         alt="profile image"
+                                        class="{{post.card_type}}-profile-img"
                                     />
                                 {% endif %}
                                 <div class="card-body-text">

@@ -252,7 +252,7 @@ for pyyam in file_objects:
 			OPTIONAL {{ ?item dnj:description ?description }}
 			OPTIONAL {{ ?item dnj:dateCreated ?dateCreated }}
 			}}
-			ORDER BY DESC(?name)
+			ORDER BY ASC(?name)
 			"""
 
 
@@ -340,14 +340,16 @@ for pyyam in file_objects:
 		card_type = row[7]
 		string_identifier = row[6]
 		item_id = row[3]
-		card_link = "@" + string_identifier if card_type == 'User' else item_id + "/" + string_identifier
+		card_link = ""
+		card_type_literal = ""
+		if card_type == userClass:
+			card_link = "@" + string_identifier
+			card_type_literal = "User"
+		else:
+			card_link = item_id + "/" + string_identifier
+			card_type_literal = "Post"
 
-		print("card-link ++++++++++++")
-		print(card_link)
-		print("card-type ++++++++++++")
-		print(card_type)
-
-		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link})
+		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link, "card_type": card_type_literal})
 
 
 	full_html = ""

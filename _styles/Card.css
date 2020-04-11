@@ -2,12 +2,25 @@
 
 .inner-card {
   display: grid;
-  grid-template-rows: 40px 1fr auto;
   transition: 0.2s;
   height: 100%;
   width: 100%;
   align-self: center;
   justify-self: center;
+}
+
+.Postcard {
+  grid-template-rows: 40px 1fr auto;
+}
+
+.Usercard {
+  grid-template-rows: 1fr auto;
+}
+
+.User-profile-img {
+  max-width: 200px;
+  height: auto;
+  border-radius: 50%;
 }
 
 .card-body blockquote {

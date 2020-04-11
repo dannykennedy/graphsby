@@ -48,11 +48,11 @@
                 <div id="page-items">
                     {% if posts %} {% for post in posts %}
 
-                    <div id="{{post.itemId}}" class="card item-card" onclick="window.location.href = '{{site_url + '/' + post.itemId}}'">
+                    <div id="{{post.itemId}}" class="card item-card thumb-card" onclick="window.location.href = '{{site_url + '/' + post.itemId}}'">
                         <div class="inner-card">
                             <div class="card-header">
                                 <div class="card-user-info">
-                                    
+
                                     <div class="card-avatar tooltip">
                                         {% if post.authors %} {% for author in post.authors %}
                                         <div

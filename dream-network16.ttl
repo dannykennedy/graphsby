@@ -772,8 +772,10 @@ ns1:bcphbq3ferr a ns1:User ;
     ns1:name "Brenda Ferrimani"^^xsd:string ;
     ns1:profileImg "author-brendaferrimani.jpg"^^xsd:string .
 
-ns1:bcphbq3xdna ns1:description """<p>Dream network authors</p>
+ns1:bcphbq3xdna a ns1:Page ;
+    ns1:description """<p>Dream network authors</p>
 """^^xsd:string ;
+    ns1:handle "dreamnetworkauthors"^^xsd:string ;
     ns1:itemId "bcphbq3xdna"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dream Network Authors"^^xsd:string ;
@@ -6194,9 +6196,6 @@ ns1:urlSlug a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
     rdfs:domain ns1:Post ;
     rdfs:range xsd:string .
 
-ns1:Page a <http://www.w3.org/2002/07/owl#Class> ;
-    rdfs:subClassOf ns1:Actor .
-
 ns1:Person a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
 
@@ -6718,6 +6717,9 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:name "Volume 32, issue 1: Group Dreaming"^^xsd:string ;
     ns1:profileImg "32.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
+
+ns1:Page a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf ns1:Actor .
 
 ns1:bcphboc7tt5 a ns1:Post ;
     ns1:coverImg "8.4-cover.jpg"^^xsd:string ;

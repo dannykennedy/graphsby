@@ -1,6 +1,6 @@
 ---
 layout: page
-type: querypage
+type: page
 itemId: bcphbq3xdna
 handle: dreamnetworkauthors
 name: "Dream Network Authors"

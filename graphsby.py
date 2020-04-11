@@ -236,7 +236,7 @@ for pyyam in file_objects:
 	# TEST - AUTHOR PAGE
 	####################
 	query_string = ""
-	if "handle" in pyyam.keys() and pyyam["handle"] == "dreamnetworkauthors":
+	if "handle" in pyyam.keys() and pyyam["handle"] == "dreamnetwork~authors":
 
 		# Find all dream network authors
 		query_string = """

@@ -772,6 +772,13 @@ ns1:bcphbq3ferr a ns1:User ;
     ns1:name "Brenda Ferrimani"^^xsd:string ;
     ns1:profileImg "author-brendaferrimani.jpg"^^xsd:string .
 
+ns1:bcphbq3xdna ns1:description """<p>Dream network authors</p>
+"""^^xsd:string ;
+    ns1:itemId "bcphbq3xdna"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dream Network Authors"^^xsd:string ;
+    ns1:profileImg "dnj-text.jpg"^^xsd:string .
+
 ns1:bcphbq3xymn a ns1:Post ;
     ns1:coverImg "13.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1994-07-01T11:32:52"^^xsd:dateTime ;

@@ -4,6 +4,8 @@ type: page
 itemId: bcphbq3xdnj
 handle: dreamnetwork
 name: "Dream Network"
+tags:
+  - hasPage: "hi"
 shortDescription: "Welcome to the Dream Network"
 tags:
 profileImg: dnj-text.jpg

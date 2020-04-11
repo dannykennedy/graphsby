@@ -15,6 +15,7 @@ from html5lib_truncation import truncate_html
 sys.path.insert(1, './modules')
 from copytree import copytree
 from formatDate import formatDate
+from truncatePost import truncatePost
 from get_yaml_var import get_yaml_var
 from load_file_to_object import load_file_to_object
 from map_class_to_css_tag import map_class_to_css_tag
@@ -451,25 +452,7 @@ for pyyam in file_objects:
 
 		post_description = row[2]
 		# Truncate
-		truncated_desc = truncate_html(post_description, POST_SNIPPET_LENGTH, end="...", break_words=True)
-		# Remove lists
-		truncated_desc = re.sub("(<ol.*?ol>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
-		truncated_desc = re.sub("(<ul.*?ul>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
-		truncated_desc = re.sub("(<li.*?li>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
-		# Remove hr
-		truncated_desc = re.sub("(<hr>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
-		# Remove images
-		truncated_desc = re.sub("(<img.*?>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
-		# Remove iframes
-		truncated_desc = re.sub("(<div class=\"media-item resp-container\">.*</div>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
-		# Remove empty <p> tags
-		truncated_desc = re.sub("(<p></p>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
-		# Remove break tags
-		truncated_desc = re.sub("(<br/?>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
-		# Remove pre tags
-		truncated_desc = re.sub("(<pre>[^\<]*<\/pre>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
-		# Remove captions
-		truncated_desc = re.sub('<!--nopreview-->.*<!--/nopreview-->', "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)
+		truncated_desc = truncatePost(post_description, POST_SNIPPET_LENGTH)
 
 		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5]})
 

@@ -12,7 +12,9 @@ urlSlug: "psi-the-shared-dreamscape-and-the-family-unconscious"
 profileImg: post-bcpov6zfamil-0.jpg
 ---
 
+<a href="http://www.dalegottlieb.com/" target="_blank">
 <img src="../images/post-bcpov6zfamil-0.jpg" alt="Family sleeping in bed" width="500" height="auto"/>
+</a>
 
 <br>
 Family-related feelings and family consciousness are some of the most powerful influences on the psychological patterns of individuals. The influence of family patterns is extraordinarily powerful in its depth and intensity. Because of this, we frequently dream about the members of our families. It is quite common and normal to have dreams in which family members are prominently involved. The vast majority of these dreams are the usual dreams in which a parent or sibling is doing something that we generally recognize as their normal behavior. Sometimes, however, they are doing something unusual or even paradoxical in our dreams. Very often, extremely strong feelings and images occur which show us the emotions we feel toward these special people in our lives. The dream, with its strange contours and story-line, is the perfect field on which to portray "raw" emotions, and consequently, the dream can really be a pulse taken on the heartbeat of family life.
@@ -33,7 +35,9 @@ We noted the simple fact that families are often living in the same place, inclu
 
 In one family, we worked with the following recurring dream of a 15 year old girl. She dreamed that she "escaped" from her parents' house and jumped into their car. As she drove away, the father would run toward her but never manage to quite catch her. The closer he got, the faster the car went. Finally the girl fully escaped him only to run headlong into a telephone pole and kill herself. In this family's therapy sessions, the themes of autonomy and separation with a great deal of anxiety occurred repeatedly. The daughter fought continually with her parents over her own intense involvement with a young man of whom the family did not approve. She felt rebellious and dominated by her parents, in particular her father. However, when she stayed away from home too long, she began to experience somatic problems and wanted to "lose" herself in male companionship. 
 
+<a href="http://www.dalegottlieb.com/" target="_blank">
 <img src="../images/post-bcpov6zfamil-1.jpg" alt="Couple dancing" width="500" height="auto"/>
+</a>
 
 Another dream by the girl's 12 year old sister revealed a similar theme. The younger girl dreamed that a large "awful" man ran around screaming at her mother, her older sister, and herself. Finally, the man stepped on all three but did not kill them. The dream recurred several times. The family that provided this dream series was composed of a father who had a manic-depressive psychosis, an extremely religious, compulsive mother, and two teenage girls. All three women in the family had psychosomatic problems, such as stomach cramps, persistent gas pains, migraines, and frequent depression.
 

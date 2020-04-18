@@ -1,5 +1,5 @@
 ---
-dateCreated: "1987-11-01T11:32:52"
+dateCreated: "1987-07-01T11:32:52"
 itemId: bcpov6trowi2
 layout: post
 name: "Dream Wizard: An Interview of DNB Editor Bob Trowbridge"
@@ -10,7 +10,7 @@ tags:
   - hasAuthor: jillgregory
   - hasTag: 6.2
 type: post
-urlSlug: "viewing-the-interviewer-featuring-jill-gregory"
+urlSlug: "dream-wizard-an-interview-with-bob-trowbridge"
 profileImg: post-bcpov6trowi2-0.jpg
 ---
 

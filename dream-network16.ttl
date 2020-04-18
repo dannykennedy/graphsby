@@ -1443,6 +1443,49 @@ ns1:bcpov6gregi2 a ns1:Post ;
     ns1:profileImg "post-bcpov6gregi2-0.jpg"^^xsd:string ;
     ns1:urlSlug "viewing-the-interviewer-featuring-jill-gregory"^^xsd:string .
 
+ns1:bcpov6gresci a ns1:Post ;
+    ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Jane Roberts' Seth material advocates a participant/observer mode of dream research which requires that a dreamworker be adept at <em>in-dream</em> skills. Being a dream-art scientist requires the development of specific talents. To become aware that one is dreaming, to lucid dream, is a prerequisite. </p>
+
+<blockquote>
+  <p><em>"... A practitioner of this ancient art learns first of all how to become conscious in normal terms, while in the sleep state. Then he becomes sensitive to the different subjective alterations that occur when dreams begin, happen, and end."</em> </p>
+</blockquote>
+
+<p>Lucidity includes the experience of hypnogogia, imageJess dreams, out-of-body and initial wakening states, mental and auditory dream periods, and other dream states which have yet to find commonly accepted names. </p>
+
+<blockquote>
+  <p><em>"He familiarizes himself with the symbolism of his own dreams..."</em></p>
+</blockquote>
+
+<p>Sethian lucid dreamers don't have to wait until waking to understand a dream symbol, they can ask while in the dream state. "Who are you?" "What do you represent?" "What message have you for me?" </p>
+
+<blockquote>
+  <p><em>"...and sees how these do or do not correlate with the exterior symbols that appear in the waking life he shares with others."</em></p>
+</blockquote>
+
+<p>Dream dictionaries become inappropriate to the Sethian who realizes that the meaning of her own dream symbols are primarily personal in nature, and furthermore, that they change over time. </p>
+
+<blockquote>
+  <p><em>"There are inner meeting places, then, interior 'places' that serve as points of inner commerce and communication... Our dream-art scientist learns to recognize such points of correlation."</em> </p>
+</blockquote>
+
+<p>Secondarily, symbols can serve as correlating elements between dreamers, providing evidence for mutual dreaming and shared life issues. </p>
+
+<blockquote>
+  <p><em>"...he or she then begins to recognize the fact of involvement with many different levels and kinds of reality and activity. He must learn to isolate these, separate one from the other, and then try to understand the laws that govern them."</em></p>
+</blockquote>
+
+<p>Is there a level of dreaming in which, for example, it is not possible to go through walls because one's body sense is too dense, too close to the waking state? </p>
+
+<p>(Quotes from <em>The Unknown Reality</em>, Vol. 1., by Jane Roberts, Prentice-Hall, NJ, 1977.)</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqflyer ;
+    ns1:hasTag ns1:bcphbqflyer ;
+    ns1:itemId "bcpov6gresci"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Dream-Art Scientist"^^xsd:string ;
+    ns1:urlSlug "dream-art-scientist"^^xsd:string .
+
 ns1:bcpov6kbchil a ns1:Post ;
     ns1:dateCreated "1990-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Many dreamworkers have described the positive values of teaching children about their dreams. Patricia Garfield, Ann Sayre Wiseman, Jill Gregory and others have written on how children can learn in their dreams about their emotions, their fears, their wishes, and their artistic potentials<sup>1</sup>. Yet introducing dreamwork to children has still more values than these: dreamwork can teach children <em>how</em> to think in especially creative, sophisticated ways. Today's children face a future of over-increasing complexity, a future filled with both exciting hopes and frightening dangers. They will need tremendous powers of sensitivity, understanding, and creativity if they are to realize those hopes and overcome those dangers. Teaching dreamwork to children can make a big contribution toward providing them with precisely these powers of thought. </p>
@@ -3599,7 +3642,7 @@ ns1:bcpov6tqqf6 a ns1:Post ;
     ns1:urlSlug "the-art-of-dream-sharing"^^xsd:string .
 
 ns1:bcpov6trowi2 a ns1:Post ;
-    ns1:dateCreated "1987-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6trowi2-0.jpg" width="200" height="auto" alt="Bob Trowbridge"/></p>
 
 <p><!--nopreview--><div style="text-align:center"><i>Bob Trowbridge</i></div><!--/nopreview--></p>
@@ -3653,7 +3696,7 @@ ns1:bcpov6trowi2 a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dream Wizard: An Interview of DNB Editor Bob Trowbridge"^^xsd:string ;
     ns1:profileImg "post-bcpov6trowi2-0.jpg"^^xsd:string ;
-    ns1:urlSlug "viewing-the-interviewer-featuring-jill-gregory"^^xsd:string .
+    ns1:urlSlug "dream-wizard-an-interview-with-bob-trowbridge"^^xsd:string .
 
 ns1:bcpov6wbyg5 a ns1:Post ;
     ns1:dateCreated "1977-06-01T11:32:52"^^xsd:dateTime ;
@@ -7154,7 +7197,7 @@ ns1:bcphbqftrow a ns1:User ;
 
 <p>Bob was editor of the Dream Network Bulletin alongside Linda Magallón from 1987-1989. He graduated from San Francisco Theological Seminary in 1968 and was ordained as a Presbyterian minister. His ongoing spiritual seeking led him to leave the ministery. Since that time he has studied many spiritual systems and is a perpetual spiritual seeker. </p>
 
-<p>Bob has been a teacher, speaker, workshop leader and spiritual counselor for over 44 years He is a writer and editor. His book, <em>The Hidden Meaning of Illness: Disease as a Symbol and Metaphor</em>, was published by A.R.E. Press in 1996. He has written for Venture Inward, Magical Blend,Body,Mind &amp; Spirit, and many other publications. </p>
+<p>Bob has been a teacher, speaker, workshop leader and spiritual counselor for over 44 years He is a writer and editor. His book, <em>The Hidden Meaning of Illness: Disease as a Symbol and Metaphor</em>, was published by A.R.E. Press in 1996. He has written for Venture Inward, Magical Blend, Body, Mind &amp; Spirit, and many other publications. </p>
 
 <p>Bob is available for speaking and workshops. Call or write for topics. </p>
 """^^xsd:string ;
@@ -7867,29 +7910,6 @@ ns1:bcphbqfgreg a ns1:User ;
     ns1:name "Jill Gregory"^^xsd:string ;
     ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
 
-ns1:bcphbqflyer a ns1:User ;
-    ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
-
-<p>Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams. She was editor of the Dream Network Bulletin alongside Bob Trowbridge from 1987-1989. </p>
-
-<p>Practicing under the discipline of the "Dream-Art Scientist" (a model based on the Jane Roberts' Seth material), she has mastered many dreaming skills and dreamwork techniques.</p>
-
-<p>Linda authored the ground-breaking book, <a href="https://web.archive.org/web/20050308133701/http://members.aol.com/DreamPsi/archive/mutualdreaming.html">Mutual Dreaming</a> (Pocket Books, 1997). She served as editor and publisher of the principal magazine in the dream field, Dream Network. Having written articles for such magazines as FATE, American Psychic Magazine and the OMNI newsletter, she most recently wrote "Dream Trek," a column in the Internet E-zine <a href="http://dreamgate.com/dream/electric-dreams/edreams-g01.htm">Electric Dreams</a>.</p>
-
-<p>Active in the dreamwork community since 1984, Linda was a founding board member and wrote the first mission statement of the multidisciplinary (and highly academic) <a href="https://www.asdreams.org/">Association For the Study of Dreams</a> (ASD). She has presented papers and hosted panels at several of ASD's annual conferences. In 2001, she helped design the conference web site, the Computer Café, and created the four picture targets for the Dream Telepathy Contest.</p>
-
-<p>With Fred Olsen, she co-founded the Bay Area Dreamworkers Group (BADG), to provide support for her dreamwork peers in the San Francisco area. There, she practiced dream sharing, perfected dreamwork techniques and uncovered the basic values of the Partnership Paradigm. After BADG presented her with an honorary "Doctoral Degree in Social Dreamology," Linda graduated from dreamworker to dreamplayer.</p>
-
-<p>The observer-participant brand of research has required that Linda dream along with the other members of her dreaming team. Searching for active participants in a sleepy field like dreams is not an easy task, whether on-line or off. To help find such dreamers for her half a hundred group dreaming projects and dream telepathy experiments, Linda served as coordinator of the Seth Dream Network and dipped into the lucid dream community before founding the <a href="https://web.archive.org/web/20050305230701/http://members.aol.com/lucidflier/project/fbnc.html">Fly-By-Night Club research group</a>.</p>
-
-<p>Linda's goal has been to encourage the emergence of the Super Self through dreams. Her research has lead her to experiment with such flying and floating variations as virtual reality games, scuba diving, ballooning, gliding, hang gliding and flying a Piper Tomahawk. She has found flying dreams to be both extremely practical (resolving nightmares) and highly inspirational (launching further extraordinary dreams). She believes flying dreams to be at the hub of dream understanding and appreciation.</p>
-"""^^xsd:string ;
-    ns1:handle "caseyflyer"^^xsd:string ;
-    ns1:itemId "bcphbqflyer"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Linda Magallón"^^xsd:string ;
-    ns1:profileImg "author-linda-magallon.jpg"^^xsd:string .
-
 ns1:bcphbqvmoss a ns1:User ;
     ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>
 
@@ -7981,6 +8001,29 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dr. Stanley Krippner"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
+
+ns1:bcphbqflyer a ns1:User ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
+
+<p>Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams. She was editor of the Dream Network Bulletin alongside <a href="../@bobtrowbridge">Bob Trowbridge</a> from 1987-1989. </p>
+
+<p>Practicing under the discipline of the "Dream-Art Scientist" (a model based on the Jane Roberts' Seth material), she has mastered many dreaming skills and dreamwork techniques.</p>
+
+<p>Linda authored the ground-breaking book, <a href="https://web.archive.org/web/20050308133701/http://members.aol.com/DreamPsi/archive/mutualdreaming.html">Mutual Dreaming</a> (Pocket Books, 1997). She served as editor and publisher of the principal magazine in the dream field, Dream Network. Having written articles for such magazines as FATE, American Psychic Magazine and the OMNI newsletter, she most recently wrote "Dream Trek," a column in the Internet E-zine <a href="http://dreamgate.com/dream/electric-dreams/edreams-g01.htm">Electric Dreams</a>.</p>
+
+<p>Active in the dreamwork community since 1984, Linda was a founding board member and wrote the first mission statement of the multidisciplinary (and highly academic) <a href="https://www.asdreams.org/">Association For the Study of Dreams</a> (ASD). She has presented papers and hosted panels at several of ASD's annual conferences. In 2001, she helped design the conference web site, the Computer Café, and created the four picture targets for the Dream Telepathy Contest.</p>
+
+<p>With Fred Olsen, she co-founded the Bay Area Dreamworkers Group (BADG), to provide support for her dreamwork peers in the San Francisco area. There, she practiced dream sharing, perfected dreamwork techniques and uncovered the basic values of the Partnership Paradigm. After BADG presented her with an honorary "Doctoral Degree in Social Dreamology," Linda graduated from dreamworker to dreamplayer.</p>
+
+<p>The observer-participant brand of research has required that Linda dream along with the other members of her dreaming team. Searching for active participants in a sleepy field like dreams is not an easy task, whether on-line or off. To help find such dreamers for her half a hundred group dreaming projects and dream telepathy experiments, Linda served as coordinator of the Seth Dream Network and dipped into the lucid dream community before founding the <a href="https://web.archive.org/web/20050305230701/http://members.aol.com/lucidflier/project/fbnc.html">Fly-By-Night Club research group</a>.</p>
+
+<p>Linda's goal has been to encourage the emergence of the Super Self through dreams. Her research has lead her to experiment with such flying and floating variations as virtual reality games, scuba diving, ballooning, gliding, hang gliding and flying a Piper Tomahawk. She has found flying dreams to be both extremely practical (resolving nightmares) and highly inspirational (launching further extraordinary dreams). She believes flying dreams to be at the hub of dream understanding and appreciation.</p>
+"""^^xsd:string ;
+    ns1:handle "caseyflyer"^^xsd:string ;
+    ns1:itemId "bcphbqflyer"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Linda Magallón"^^xsd:string ;
+    ns1:profileImg "author-linda-magallon.jpg"^^xsd:string .
 
 ns1:bcphbqfmetz a ns1:User ;
     ns1:coverImg "cover-author-deena-metzger.jpg"^^xsd:string ;
@@ -8149,7 +8192,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
 <li><p>The original Network: <a href="../@billstimson">Bill Stimson</a> - Dream Network Bulletin founder and editor, NYC (1982- ~1984), Sally Shute (Lucidity &amp; Beyond), Chris Mathews and Doug Cohen (Fusion), Suzanne Keyes (Dream Craft)</p></li>
 <li><p>Chris Hudson - editor, NYC (1984 - 1985)</p></li>
 <li><p><a href="https://www.parapsych.org/articles/37/209/in_memoriam_robert_van_de_castle.aspx">Robert Van De Castle</a> (now departed) &amp; <a href="../@henryreed">Henry Reed</a> (1985-1987)</p></li>
-<li><p><a href="http://www.bobtrowbridge.com/">Bob Trowbridge</a>, Linda Magallón &amp; Jill Gregory, San Jose (1987 - 1989)</p></li>
+<li><p><a href="../@bobtrowbridge">Bob Trowbridge</a> and <a href="../@caseyflyer">Linda Magallón</a>, San Jose (1987 - 1989)</p></li>
 </ul>
 
 <p>This history, and many other things on this site may be imperfect... please <a href="mailto:dannykennedy@email.com">email us</a> with feedback!</p>

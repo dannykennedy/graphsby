@@ -12,7 +12,7 @@ profileImg: author-linda-magallon.jpg
 
 Website: [members.aol.com/caseyflyer](https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html)
 
-Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams. She was editor of the Dream Network Bulletin alongside Bob Trowbridge from 1987-1989. 
+Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams. She was editor of the Dream Network Bulletin alongside [Bob Trowbridge](../@bobtrowbridge) from 1987-1989. 
 
 Practicing under the discipline of the "Dream-Art Scientist" (a model based on the Jane Roberts' Seth material), she has mastered many dreaming skills and dreamwork techniques.
 

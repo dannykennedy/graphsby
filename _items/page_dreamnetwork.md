@@ -24,7 +24,7 @@ Feel free to send the PDFs to your friends, but rather than publishing them onli
 - The original Network: [Bill Stimson](../@billstimson) - Dream Network Bulletin founder and editor, NYC (1982- ~1984), Sally Shute (Lucidity & Beyond), Chris Mathews and Doug Cohen (Fusion), Suzanne Keyes (Dream Craft)
 - Chris Hudson - editor, NYC (1984 - 1985)
 - [Robert Van De Castle](https://www.parapsych.org/articles/37/209/in_memoriam_robert_van_de_castle.aspx) (now departed) & [Henry Reed](../@henryreed) (1985-1987)
-- [Bob Trowbridge](http://www.bobtrowbridge.com/), Linda Magallón & Jill Gregory, San Jose (1987 - 1989)
+- [Bob Trowbridge](../@bobtrowbridge) and [Linda Magallón](../@caseyflyer), San Jose (1987 - 1989)
 
 This history, and many other things on this site may be imperfect... please <a href="mailto:dannykennedy@email.com">email us</a> with feedback!
 

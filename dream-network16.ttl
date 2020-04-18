@@ -559,20 +559,6 @@ ns1:bcphbnagfeb a ns1:Post ;
     ns1:profileImg "6.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.3"^^xsd:string .
 
-ns1:bcphbndh32i a ns1:Post ;
-    ns1:coverImg "6.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1987-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.4-Dream-Network-Bulletin_Volume-6-Number-4.pdf" download="">Download issue 6.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.4-Dream-Network-Bulletin_Volume-6-Number-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaf5sto ;
-    ns1:itemId "bcphbndh32i"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 6, issue 4"^^xsd:string ;
-    ns1:profileImg "6.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "6.4"^^xsd:string .
-
 ns1:bcphbnhzqtk a ns1:Post ;
     ns1:coverImg "7.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1988-01-01T11:32:52"^^xsd:dateTime ;
@@ -1387,6 +1373,75 @@ ns1:bcpov6glight a ns1:Post ;
     ns1:name "Light at the End of the Tunnel - The Twelve Days of Light: An Interview with Gary Bonnell"^^xsd:string ;
     ns1:profileImg "post-bcpov6glight-0.jpg"^^xsd:string ;
     ns1:urlSlug "interview-with-gary-bonnell"^^xsd:string .
+
+ns1:bcpov6gregi2 a ns1:Post ;
+    ns1:dateCreated "1987-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6gregi2-0.jpg" width="200" height="auto" alt="Jill Gregory"/></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Jill Gregory</i></div><!--/nopreview--></p>
+
+<p><strong>Linda:</strong> Jill, what excites you the most about dreams? </p>
+
+<p><strong>Jill:</strong> What interests me is their potential for transforming how we experience life; what we believe and think, how we feel and what we do with our lives. Dreaming gives us an alternate world to explore which functions according to related and yet different laws. </p>
+
+<p><strong>Linda:</strong> When did you first become involved in dreams? </p>
+
+<p><strong>Jill:</strong> My involvement with dreams began with a nightmare I had when I was four years old. In waking life, while he was driving, my father always used to run a car wheel off the shoulder of the road and it would terrify me. I thought we would go off into the marsh. In the dream I'm in the car with my parents. My father's driving, my mother's in the front seat and I'm in the back seat. In the dream that's what happens. We go off into the marsh and the car starts sinking. I wake up as the mud is going into my nose, ears and eyes. After my parents and I had responded to the dream the best that we knew how, I was still gripped with terror when I reentered my bedroom to return to sleep. I knew that we had not resolved the dream. I vowed that I would find out the connection between waking and dream reality.</p>
+
+<p>This launched countless experiments testing theories that I had encountered. Many years of frustration and ignorant effort finally gave way to a breakthrough which occurred during a dream joumaling and analysis assignment for class while I was studying philosophy and creative writing. I connected a few dreams to issues in my waking life and began to get some progress in my dreamwork. From that point on I studied everything I could get my hands on and tried to apply what I learned to my dreamlife. That took me through Gestalt, defining symbols, finding puns and making associations to symbols, noticing compensation, archetypes and mandala imagery. I attended seminars and did dream reenactment, took workshops and expressed my dreams artistically. </p>
+
+<p>It was in Ken Keizer's Gestalt group, when I was 27 years old, that I finally worked on my four year old dream. I discovered that the child felt helpless, was afraid of dying and afraid of going to hell. Being "saved" didn't help because I still lost out on life. My four year old self didn't trust her parents or God. When I finally allowed myself to die, I found that it was okay and the energy from that dream was released. </p>
+
+<p><strong>Linda:</strong> At what point did you become interested in lucid dreaming? </p>
+
+<p><strong>Jill:</strong> About 10 years ago. I had been working with Senoi methods of within-the-dream dreamwork without actual lucidity. I had also been refining my recall, not only to increase the number of dreams I could remember a night, but also to improve my ability to observe the dream scene, to bring back exact shades of colors, numbers of individuals, and estimates of distance and size. With more dreams and details from each dream I was spending two to three hours just recording. I was ready for a new goal for my dream life. </p>
+
+<p>I had no idea lucid dreaming was possible until I read Ann Faraday's book, <em>Dream Power</em>. I got very excited, expecting it would start happening right away, but it didn't. It took three months until I had my first lucid dream. That dream forecast how rich, wonderful and nurturing the discovery of lucid dreaming was going to prove in my dream life and in my waking life. </p>
+
+<p><strong>Linda:</strong> It impresses me that you could go out and find an academic curriculum that would allow you to write a thesis with such an extensive bibliography on lucid dreaming for your B.A. </p>
+
+<p><strong>Jill:</strong> It was tough. I had to pull a few strings to obtain a thesis advisor who would let me do it the way I wanted. Since there were no lucid dreamers on the staff of the psychology department at Dominican College at the time, I was very fortunate that Bob Shukraft, head of the department, agreed to advise me and trusted my judgment. I spent two years of energy and attention putting together the thesis, entitled, "Becoming a Lucid Dreamer." </p>
+
+<p><strong>Linda:</strong> Was it then that you started to become more aware of the larger dream community? </p>
+
+<p><strong>Jill:</strong> Somehow my confidence, probably through dreaming and a lot of other things, was raised enough that I went to the 1985 ASD conference as a panel presenter at the lucid dreaming symposium. Fred Olsen and I met at the conference and through him I apprenticed in reentry and reimaging and attended the first meeting of the San Francisco Bay Area Professional Dreamworkers' Group. </p>
+
+<p>That group gave me the idea that a career in dreams was possible and that, with the support of the network, I could do it. So I opened the Novato Center for Dreams (NCD) in January of this past year and launched an official professional dreamwork career including interviewing for <em>Dream Network Bulletin.</em> </p>
+
+<p><strong>Linda:</strong> What services does your Center offer? </p>
+
+<p><strong>Jill:</strong> The Center serves as a resource for a wide range of people, from those who have just begun to ask questions about dreams to those training for a dreamwork career or preparing to launch a dream center. I offer classes, workshops and lectures on how to develop dreamskills. We cover areas such as recall, types of dreams, journaling,dream-sharing, interpretive and non-interpretive methods of dreamwork/dreamplay, incubation and lucidity, healing dreams and flying dreams. I lead dream sharing groups. As an outreach I offer private tutoring by phone as well as in person. The Center's browsing library has over 110 books on dreams and information on dream events and resources. I display and sell dream based art and distribute my packets of "Tips for Dreamers." </p>
+
+<p><strong>Linda:</strong> What are your goals for the Center? </p>
+
+<p><strong>Jill:</strong> My overall goals involve promoting awareness and appreciation of dreams, dispelling erroneous myths and educating dreamers. The hard thing, I'm finding, is the marketing. Basically I think it's a lack of startup capital combined with a lack of practice doing it. But I think when this becomes more mainstream it won't be as much of a problem, because I think what we're doing is something that has a lot of interest and support. It's just pitifully underpublicized and that's tragic. I want to change that. </p>
+
+<p><strong>Linda:</strong> How would you characterize your style of dreamwork?</p>
+
+<p><strong>Jill:</strong> Well, the worn out word "eclectic" comes to mind. I like the experiences of group style dreamwork, such as acting out the whole dream and getting group feedback. But I care most about developing individualized dreamwork methods and teaching those to people because when a person wakes up, generally there is no group available. I'm very interested in developing dreamwork methods, pulling potent elements from different methods and bringing them together in a quick and flexible layout. The main thing in terms of feeling good about yourself as a dreamer is having a bulging repertoire of dreamwork methods that you can tap into as you see fit. </p>
+
+<p>I see myself as a coach for dreamers. I ask, what is happening in your dream life right now? What has happened before? What would you like to have happen in the future? Then I present a variety of dreamwork methods-to me that's very important. I can suggest 50 techniques and 50 great goals, but often, by doing that, they'll come up with goal 51 and technique 51 that are really tailored for them. So I encourage dreamers to come up with their version of what they really want. </p>
+
+<p><strong>Linda:</strong> What are your views about the dreamwork field in general? </p>
+
+<p><strong>Jill:</strong> I see it as a vulnerable new movement which will strengthen because it bears valuable gifts and because everyone has a dreamlife of one sort or another. I think it's very important right now in the dream movement for researchers and avid dreamers and dream workers to be open-minded about dreams. It's a typical human fallacy to try to reduce things to fit into various frameworks. We need to really be open because we don't know. We are a very young field despite the fact that we're a very old field, because we haven't examined millions of dream journals from age two or three on, of various cross sections from different cultures and historical periods. We don't have that data base. Therefore we really don't know. So go with what feels right for you as the dreamer and don't Jet whatever is currently being discussed - this new theory; that new theory - try to set it. Stay with your own dreams and what feels right for you.</p>
+
+<p><strong>Linda:</strong> Any last advice for dreamers or dreamworkers? </p>
+
+<p><strong>Jill:</strong> If there's anything that I have to offer it's that dream skills can be learned just like you take lessons to learn how to swim or play a violin. I believe that we all have incredible and quite highly developed dream lives in toddlerhood and before we're even born. It gets knocked out of us by the socialization process. </p>
+
+<p>By doing dreamwork, we're not bringing in something artificial to mess up our lives. The mess was getting cut off from our dreams in the first place. We're just going back to something that was natural. Dreams are a natural healing function that is one of the gifts of being human. We're lucky we've got them. I wouldn't want to live without my dreams.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqfgreg,
+        ns1:bcphbqflyer ;
+    ns1:hasTag ns1:bcphbndh32i,
+        ns1:bcphbqfgreg,
+        ns1:bcphbqflyer ;
+    ns1:itemId "bcpov6gregi2"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Viewing the Interviewer, featuring Jill Gregory"^^xsd:string ;
+    ns1:profileImg "post-bcpov6gregi2-0.jpg"^^xsd:string ;
+    ns1:urlSlug "viewing-the-interviewer-featuring-jill-gregory"^^xsd:string .
 
 ns1:bcpov6kbchil a ns1:Post ;
     ns1:dateCreated "1990-11-01T11:32:52"^^xsd:dateTime ;
@@ -2270,6 +2325,87 @@ ns1:bcpov6krudhp a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Whispers and Murmurs: Perspectives on 'Dreaming Humanity's Path'"^^xsd:string ;
     ns1:urlSlug "whispers-and-murmurs-perspectives-on-dreaming-humanitys-path"^^xsd:string .
+
+ns1:bcpov6magai2 a ns1:Post ;
+    ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><strong>Jill:</strong> Linda, would you describe for me what it is that you do with dreams? </p>
+
+<p><strong>Linda:</strong> I do dreamwork with individuals, teach and give presentations at bookstores, community college, conferences and at the Dream House in San Francisco, and write articles and columns for dream-related publications. I have been involved in several networking activities such as the "Bay Area Professional Dreamworkers Group" (which Fred Olsen and I co-founded); the "Seth Dream Network" (for which I served as coordinator); the "Association for the Study of Dreams (as membership chairperson); and as a co-chairperson for the "Dream Educators' Network". Also, for the past three years, I have facilitated an international lucid group dreaming experiment called "The Lucidity Project". </p>
+
+<p><img src="../images/post-bcpov6magai2-0.jpg" width="200" height="auto" alt="Linda Magallon"/></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Linda Magallón</i></div><!--/nopreview--></p>
+
+<p><strong>Jill:</strong> Do you find time to keep your dream journals and to do your own dreamwork? </p>
+
+<p><strong>Linda:</strong> Oh, yes, definitely! A dreamworker is first of all a dreamer. I must admit a bias. I find it very difficult to understand dreamworkers who do not keep journals or pay attention to their own dreams. </p>
+
+<p><strong>Jill:</strong> What methods of dreamwork do you use? </p>
+
+<p><strong>Linda:</strong> Being an eclectic, I like to experiment with many different methods: first with myself, then with my family and finally with the public. My three favorites are Fred Olsen's Waking Dream Re-Entry and Relmaging method which is a Jungian active imagination technique; Gayle Delaney's Dream Definition Analysis method which clarifies personal symbols; and Fritz Perls' Gestalt method which incorporates dialoguing with dream symbols and characters. </p>
+
+<p><strong>Jill:</strong> Have you always recalled your dreams? </p>
+
+<p><strong>Linda:</strong> I can remember that as a child I had nightmares which often ended with Mafioso types clutching at my ankles as I tried to fly away. However, my first love was not dreams but rather imagination because I could control the scenario. This lasted until March 8, 1982, when I had my first lucid dream. That life-changing dream lead me into dreamwork. </p>
+
+<p><strong>Jill:</strong> It sounds as though you moved very quickly from a strong interest in dreams to active involvement with the dreamworker community. </p>
+
+<p><strong>Linda:</strong> From the onset I was really very interested in the way in which dreams fit into the context of society. So I very purposely sought out other dreamers and dreamworkers. For example, after I read the book, <em>Dreams Beyond Dreaming</em>, I wrote the author, Jean Campbell. When she wrote back, we began correspondence that culminated in friendship. </p>
+
+<p><strong>Jill:</strong> You mentioned that as a child you preferred fantasizing over dreaming because of the element of control. And now you are an avid and frequent lucid dreamer who enjoys varying degrees of control within the dream state. How would you respond to someone who is concerned about the effects or applications of control within a dream? </p>
+
+<p><img src="../images/post-bcpov6magai2-1.jpg" width="200" height="auto" alt="Linda Magallon"/></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Linda Magallón</i></div><!--/nopreview--></p>
+
+<p><strong>Linda:</strong> Lucidity brings you to the point of being aware that you are dreaming. That is a point of decision. You could choose to be very manipulative or completely passive. What you choose to do can be quite revealing when you compare it with how you usually act in the waking state. </p>
+
+<p>To me the dream is powerful, wise and self-regulating. I don't have to worry about over-controlling my dream because when I start doing that, my dream characters turn around and give me a bad time. the trick is to befriend the dream, to develop a cooperative relationship. </p>
+
+<p>I have many different types of dreams other than lucid dreams which give me the opportunity to dwell in the dream in a more passive role. All kinds of dreams can bring me knowledge and guidance. </p>
+
+<p>One other thing that I would say is that it is my belief that some people use their dreams primarily as a pressure valve. If I am taking care of business in the waking state, I don't have to rely upon dreams to straighten me out. This frees me up to look at dreams in other ways, to approach them like creative compositions, neat little movies or explorations of consciousness. These other ways are therapeutic and beneficial as well because I awaken from them with my self-esteem lifted and my spirits high.</p>
+
+<p><strong>Jill:</strong> Linda, in addition to regarding you as a resource on dream lucidity, I also regard you as a resource on dream telepathy. Would you tell me how you know when a dream is telepathic and whether or not you do dreamwork with a telepathic dream? </p>
+
+<p><strong>Linda:</strong> I do a fair amount of checking with other people for correlations and that is the usual way that I discover that a particular dream is telepathic. Of course, it's easier if I have incubated a telepathic dream. Those times when a symbol just seems to drop in from out of nowhere are the times when I suspect that I am borrowing symbolic shorthand from someone else, especially if I identify that person in my dream.</p>
+
+<p>A telepathic dream, like any other, can be viewed as meaningful metaphor for the dreamer. The dreamer is ultimately responsible for his or her own dream. If the dream is telepathic, the dreamer can ask "Why did I attract that information? Why am I picking that up?" </p>
+
+<p><strong>Jill:</strong> Before you became immersed in the dream profession, did you hold positions in other fields? </p>
+
+<p><strong>Linda:</strong> Oh, yes. I hold a Masters in Business Administration and have taught in public schools from the elementary to the college level. I've worked in business, social service agencies, government and in career counseling. </p>
+
+<p><strong>Jill:</strong> How does this background affect you now as a dreamworker?</p>
+
+<p><strong>Linda:</strong> The wide variety of careers that I have had enables me to deal with the whole spectrum of the dream community, from the avid dreamers to the academicians and clinicians. </p>
+
+<p><strong>Jill:</strong> One of my concerns is how the dream community can minimize factionalism between these two groups. What would you recommend? </p>
+
+<p><strong>Linda:</strong> In my view, dreamwork is as multi-layered as the dreams themselves. The best benefit for the dream community is to acknowledge and encourage the entire range of dreamwork from clinical research to personal application. </p>
+
+<p><strong>Jill:</strong> That reminds me of your idea of the dreamwork community as having "a lot of stars". </p>
+
+<p><strong>Linda:</strong> Exactly. Since most dreamworkers have survived in a vacuum, they have had to be very self sufficient. They are strongly individual. Of course, all of this diversity means that there is more flavoring to the pot. The trick is to pull together enough to make what could be called a movement out of it. My hunch is that if the dream movement can piggy-back on the self-help movement, it will take off. </p>
+
+<p>One of the issues facing dreamworkers today is how to be considered legitimate. Those of us who do not have degrees after our names, want validity without necessarily coming under rigid structure and rules. Those of us who do have degrees, want to be considered legitimate by the scientific and psychological communities and by the sources for research funding. I think that one of the solutions to this quest for legitimacy is simply for dream information and dreamwork to be made widely available to the public. <em>Dream Network Bulletin</em> can help. </p>
+
+<p><strong>Jill:</strong> Linda, what are the goals for <em>Dream Network Bulletin</em> under your editorship? </p>
+
+<p><strong>Linda:</strong> First off, I would like to say that I intend to keep the basic format the same. I give a lot of credit to the former editors, the people who work behind the scenes (like co-editor Bob Trowbridge) and to the subscribers for putting together an excellent periodical that serves as a forum for the entire dreamwork community. </p>
+
+<p>My goals for the Bulletin are to build up the readership base; to encourage the academicians to submit hardcore informative articles in readable English; and to add more artwork, interviews and humor to the menu. I would also like to see some pro/con articles and more letters to the editor. Contributions are welcome. Everyone is invited to dream up new ideas for <em>DNB</em>.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqfgreg,
+        ns1:bcphbqflyer ;
+    ns1:hasTag ns1:bcphbmvxewa,
+        ns1:bcphbqfgreg,
+        ns1:bcphbqflyer ;
+    ns1:itemId "bcpov6magai2"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Interview with DNB Publisher Linda Magallón"^^xsd:string ;
+    ns1:profileImg "post-bcpov6magai2-1.jpg"^^xsd:string ;
+    ns1:urlSlug "interview-with-dnb-publisher-linda-magallon"^^xsd:string .
 
 ns1:bcpov6master a ns1:Post ;
     ns1:dateCreated "1982-05-01T11:32:52"^^xsd:dateTime ;
@@ -6333,19 +6469,19 @@ ns1:bcphbm5mept a ns1:Post ;
     ns1:profileImg "6.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.2"^^xsd:string .
 
-ns1:bcphbmvxewa a ns1:Post ;
-    ns1:coverImg "5.6-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf" download="">Download issue 5.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf">View online</a></p>
+ns1:bcphbndh32i a ns1:Post ;
+    ns1:coverImg "6.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1987-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.4-Dream-Network-Bulletin_Volume-6-Number-4.pdf" download="">Download issue 6.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.4-Dream-Network-Bulletin_Volume-6-Number-4.pdf">View online</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoact7dh ;
-    ns1:itemId "bcphbmvxewa"^^xsd:string ;
+        ns1:bcpqoaf5sto ;
+    ns1:itemId "bcphbndh32i"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 5, issue 6"^^xsd:string ;
-    ns1:profileImg "5.6-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "5.6"^^xsd:string .
+    ns1:name "Volume 6, issue 4"^^xsd:string ;
+    ns1:profileImg "6.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "6.4"^^xsd:string .
 
 ns1:bcphbnlbw5k a ns1:Post ;
     ns1:coverImg "7.2-cover.jpg"^^xsd:string ;
@@ -6729,6 +6865,20 @@ ns1:bcphbzxidqa a ns1:Post ;
 ns1:Page a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Actor .
 
+ns1:bcphbmvxewa a ns1:Post ;
+    ns1:coverImg "5.6-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf" download="">Download issue 5.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
+    ns1:itemId "bcphbmvxewa"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 5, issue 6"^^xsd:string ;
+    ns1:profileImg "5.6-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "5.6"^^xsd:string .
+
 ns1:bcphboc7tt5 a ns1:Post ;
     ns1:coverImg "8.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
@@ -6941,29 +7091,6 @@ ns1:bcphbqfhill a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Michael Ortiz Hill"^^xsd:string ;
     ns1:profileImg "author-michael-ortiz-hill.jpg"^^xsd:string .
-
-ns1:bcphbqflyer a ns1:User ;
-    ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
-
-<p>Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams.</p>
-
-<p>Practicing under the discipline of the "Dream-Art Scientist" (a model based on the Jane Roberts' Seth material), she has mastered many dreaming skills and dreamwork techniques.</p>
-
-<p>Linda authored the ground-breaking book, <a href="https://web.archive.org/web/20050308133701/http://members.aol.com/DreamPsi/archive/mutualdreaming.html">Mutual Dreaming</a> (Pocket Books, 1997). She served as editor and publisher of the principal magazine in the dream field, Dream Network. Having written articles for such magazines as FATE, American Psychic Magazine and the OMNI newsletter, she most recently wrote "Dream Trek," a column in the Internet E-zine <a href="http://dreamgate.com/dream/electric-dreams/edreams-g01.htm">Electric Dreams</a>.</p>
-
-<p>Active in the dreamwork community since 1984, Linda was a founding board member and wrote the first mission statement of the multidisciplinary (and highly academic) <a href="https://www.asdreams.org/">Association For the Study of Dreams</a> (ASD). She has presented papers and hosted panels at several of ASD's annual conferences. In 2001, she helped design the conference web site, the Computer Café, and created the four picture targets for the Dream Telepathy Contest.</p>
-
-<p>With Fred Olsen, she co-founded the Bay Area Dreamworkers Group (BADG), to provide support for her dreamwork peers in the San Francisco area. There, she practiced dream sharing, perfected dreamwork techniques and uncovered the basic values of the Partnership Paradigm. After BADG presented her with an honorary "Doctoral Degree in Social Dreamology," Linda graduated from dreamworker to dreamplayer.</p>
-
-<p>The observer-participant brand of research has required that Linda dream along with the other members of her dreaming team. Searching for active participants in a sleepy field like dreams is not an easy task, whether on-line or off. To help find such dreamers for her half a hundred group dreaming projects and dream telepathy experiments, Linda served as coordinator of the Seth Dream Network and dipped into the lucid dream community before founding the <a href="https://web.archive.org/web/20050305230701/http://members.aol.com/lucidflier/project/fbnc.html">Fly-By-Night Club research group</a>.</p>
-
-<p>Linda's goal has been to encourage the emergence of the Super Self through dreams. Her research has lead her to experiment with such flying and floating variations as virtual reality games, scuba diving, ballooning, gliding, hang gliding and flying a Piper Tomahawk. She has found flying dreams to be both extremely practical (resolving nightmares) and highly inspirational (launching further extraordinary dreams). She believes flying dreams to be at the hub of dream understanding and appreciation.</p>
-"""^^xsd:string ;
-    ns1:handle "caseyflyer"^^xsd:string ;
-    ns1:itemId "bcphbqflyer"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Linda Magallón"^^xsd:string ;
-    ns1:profileImg "author-linda-magallon.jpg"^^xsd:string .
 
 ns1:bcphbqsbonn a ns1:User ;
     ns1:coverImg "cover-author-gary-bonnell.jpg"^^xsd:string ;
@@ -7449,6 +7576,17 @@ ns1:bcphbqbynum a ns1:User ;
     ns1:name "Edward Bruce Bynum, Ph.D., ABPP"^^xsd:string ;
     ns1:profileImg "author-edward-bynum.jpg"^^xsd:string .
 
+ns1:bcphbqfgreg a ns1:User ;
+    ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>
+
+<p>Jill Gregory is a dream networker and educator who founded the Novato Center for Dreams in 1987.  A charter member of the Bay Area Dreamworkers Group, she has served in leadership positions since 1987. </p>
+"""^^xsd:string ;
+    ns1:handle "jillgregory"^^xsd:string ;
+    ns1:itemId "bcphbqfgreg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jill Gregory"^^xsd:string ;
+    ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
+
 ns1:bcphbqvlach a ns1:User ;
     ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>
 
@@ -7656,6 +7794,29 @@ ns1:bcphbq3wagg a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert Waggoner"^^xsd:string ;
     ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
+
+ns1:bcphbqflyer a ns1:User ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
+
+<p>Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams.</p>
+
+<p>Practicing under the discipline of the "Dream-Art Scientist" (a model based on the Jane Roberts' Seth material), she has mastered many dreaming skills and dreamwork techniques.</p>
+
+<p>Linda authored the ground-breaking book, <a href="https://web.archive.org/web/20050308133701/http://members.aol.com/DreamPsi/archive/mutualdreaming.html">Mutual Dreaming</a> (Pocket Books, 1997). She served as editor and publisher of the principal magazine in the dream field, Dream Network. Having written articles for such magazines as FATE, American Psychic Magazine and the OMNI newsletter, she most recently wrote "Dream Trek," a column in the Internet E-zine <a href="http://dreamgate.com/dream/electric-dreams/edreams-g01.htm">Electric Dreams</a>.</p>
+
+<p>Active in the dreamwork community since 1984, Linda was a founding board member and wrote the first mission statement of the multidisciplinary (and highly academic) <a href="https://www.asdreams.org/">Association For the Study of Dreams</a> (ASD). She has presented papers and hosted panels at several of ASD's annual conferences. In 2001, she helped design the conference web site, the Computer Café, and created the four picture targets for the Dream Telepathy Contest.</p>
+
+<p>With Fred Olsen, she co-founded the Bay Area Dreamworkers Group (BADG), to provide support for her dreamwork peers in the San Francisco area. There, she practiced dream sharing, perfected dreamwork techniques and uncovered the basic values of the Partnership Paradigm. After BADG presented her with an honorary "Doctoral Degree in Social Dreamology," Linda graduated from dreamworker to dreamplayer.</p>
+
+<p>The observer-participant brand of research has required that Linda dream along with the other members of her dreaming team. Searching for active participants in a sleepy field like dreams is not an easy task, whether on-line or off. To help find such dreamers for her half a hundred group dreaming projects and dream telepathy experiments, Linda served as coordinator of the Seth Dream Network and dipped into the lucid dream community before founding the <a href="https://web.archive.org/web/20050305230701/http://members.aol.com/lucidflier/project/fbnc.html">Fly-By-Night Club research group</a>.</p>
+
+<p>Linda's goal has been to encourage the emergence of the Super Self through dreams. Her research has lead her to experiment with such flying and floating variations as virtual reality games, scuba diving, ballooning, gliding, hang gliding and flying a Piper Tomahawk. She has found flying dreams to be both extremely practical (resolving nightmares) and highly inspirational (launching further extraordinary dreams). She believes flying dreams to be at the hub of dream understanding and appreciation.</p>
+"""^^xsd:string ;
+    ns1:handle "caseyflyer"^^xsd:string ;
+    ns1:itemId "bcphbqflyer"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Linda Magallón"^^xsd:string ;
+    ns1:profileImg "author-linda-magallon.jpg"^^xsd:string .
 
 ns1:bcphbqvmoss a ns1:User ;
     ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>

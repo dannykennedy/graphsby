@@ -6,7 +6,7 @@ name: "The Dream-Art Scientist"
 tags:
   - hasTag: caseyflyer
   - hasAuthor: caseyflyer
-  - hasTag: 8.4-6
+  - hasTag: 8.4
 type: post
 urlSlug: "dream-art-scientist"
 ---

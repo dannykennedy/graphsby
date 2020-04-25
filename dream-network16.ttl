@@ -8183,7 +8183,7 @@ ns1:bcphbq3huds a ns1:User ;
     ns1:itemId "bcphbq3huds"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Chris Hudson"^^xsd:string ;
-    ns1:profileImg "dnj-text.jpg"^^xsd:string .
+    ns1:profileImg "author-chrishudson.png"^^xsd:string .
 
 ns1:bcphbq3krip a ns1:User ;
     ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>

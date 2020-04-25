@@ -21,8 +21,8 @@ Feel free to send the PDFs to your friends, but rather than publishing them onli
 
 **Thank you also to all the amazing authors and advisors** of the Dream Network, and all the editors prior to Roberta:
 
-- The original Network: [Bill Stimson](../@billstimson) - Dream Network Bulletin founder and editor, NYC (1982- ~1984), Sally Shute (Lucidity & Beyond), Chris Mathews and Doug Cohen (Fusion), Suzanne Keyes (Dream Craft)
-- Chris Hudson - editor, NYC (1984 - 1985)
+- The original Network: [Bill Stimson](../@billstimson) - Dream Network Bulletin founder and editor, NYC (1982-1983), Sally Shute (Lucidity & Beyond), Chris Mathews and Doug Cohen (Fusion), Suzanne Keyes (Dream Craft)
+- [Chris Hudson](../@chrishudson) - editor, NYC (1983-1985)
 - [Robert Van De Castle](https://www.parapsych.org/articles/37/209/in_memoriam_robert_van_de_castle.aspx) (now departed) & [Henry Reed](../@henryreed) (1985-1987)
 - [Bob Trowbridge](../@bobtrowbridge) and [Linda Magallón](../@caseyflyer), San Jose (1987 - 1989)
 

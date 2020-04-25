@@ -700,6 +700,17 @@ ns1:bcphbq3ferr a ns1:User ;
     ns1:name "Brenda Ferrimani"^^xsd:string ;
     ns1:profileImg "author-brendaferrimani.jpg"^^xsd:string .
 
+ns1:bcphbq3gott a ns1:User ;
+    ns1:description """<p>Dale Gottlieb was born in Brooklyn, New York. She grew up going to the Brooklyn Museum of Art on Saturday mornings. Her work is still inspired by the African art collection. The appeal of primitive art continued to influence her work, with her exploration of Visionary and Outsider artists. Her work, like theirs, appears naïve yet deals with complex emotions and issues concerning humanity. Working in different venues and mediums, her individual sense of color and narrative approach are the connective tissue in the three arenas she pursues—books, paintings and rugs. She received her BFA from the School of Art and Design at Alfred University. Her work has been shown internationally and throughout the United States. She has written and/or illustrated twenty-eight books for children and her editorial illustration has been published in various periodicals, newspapers and books including The New York Times, The Atlantic Monthly, Sports Illustrated, Esquire, Ms. And others. She currently lives in Bellingham, WA.</p>
+
+<p>Dale Gottlieb was the Dream Network Bulletin's illustrator from 1983-85.</p>
+"""^^xsd:string ;
+    ns1:handle "dalegottlieb"^^xsd:string ;
+    ns1:itemId "bcphbq3gott"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dale Gottlieb"^^xsd:string ;
+    ns1:profileImg "author-dalegottlieb.jpg"^^xsd:string .
+
 ns1:bcphbq3xdna a ns1:Page ;
     ns1:description """<p>Here's an (alphabetical) list of all the authors whose Dream Network posts we've published so far. If you don't see someone you'd like to see, let us know! Email Dan at dannykennedy@email.com .</p>
 """^^xsd:string ;
@@ -2363,7 +2374,7 @@ ns1:bcpov6krudnb a ns1:Post ;
 
 <p>As the group, led by Bill, adopted and worked with my dream, I felt a powerful insight that I was about to embark on a new project in my life, one that would involve a spontaneous exploration of my unconscious that would be witnessed and shared by others. </p>
 
-<p>I felt strangely moved and sensitized, and wrote Bill a letter the next day, which he published in his two year old project, The <em>Dream Network Bulletin</em>. Bill began the <em>DNB</em> about the same time that he started The Manhattan Dream Community the winter of '81. He was looking for a way to connect people to one another through the sharing of dreams in groups and everyday experience. His motivations were personal. He was looking for a way to connect with himself, and also for a way to help others connect with each other. For two years, through exhausting bouts of poverty, late night organizing and letter writing, he established a network of individuals interested in dreams throughout the US, Canada, Europe and even the Soviet Union. Soviet parapsychologists met clandestinely and shared their insights through DNB, as did Roman Catholic nuns, psychoanalysts, "shamanistic" dreamers, lucid dreamers, and other varied people. He always printed their names and addresses and hoped that interested people would contact one another, especially to form dream groups. Often they did, and articles, letters, and experiments in group dreaming came into being. </p>
+<p>I felt strangely moved and sensitized, and wrote Bill a <a href="../bcpov6krusep/separation-is-the-problem">letter</a> the next day, which he published in his two year old project, The <em>Dream Network Bulletin</em>. Bill began the <em>DNB</em> about the same time that he started The Manhattan Dream Community the winter of '81. He was looking for a way to connect people to one another through the sharing of dreams in groups and everyday experience. His motivations were personal. He was looking for a way to connect with himself, and also for a way to help others connect with each other. For two years, through exhausting bouts of poverty, late night organizing and letter writing, he established a network of individuals interested in dreams throughout the US, Canada, Europe and even the Soviet Union. Soviet parapsychologists met clandestinely and shared their insights through DNB, as did Roman Catholic nuns, psychoanalysts, "shamanistic" dreamers, lucid dreamers, and other varied people. He always printed their names and addresses and hoped that interested people would contact one another, especially to form dream groups. Often they did, and articles, letters, and experiments in group dreaming came into being. </p>
 
 <p>I met with the <em>Brooklyn Dream Community</em> for several months and also kept in touch with Bill and his work. One day he suggested I attend a Dream Leadership Training Workshop with him at Monte Ullman's home north of New York. I called Monte only to find that the workshop was filled. "Does anyone ever drop out?," I asked him. "Extremely rarely," was the reply. "Well if anyone does, please put me at the top of your list!" </p>
 

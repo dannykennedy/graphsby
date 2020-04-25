@@ -277,20 +277,6 @@ ns1:bcphbkea673 a ns1:Post ;
     ns1:profileImg "2.10-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.10"^^xsd:string .
 
-ns1:bcphbklgsln a ns1:Post ;
-    ns1:coverImg "2.11-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.11-Dream-Network-Bulletin-Vol.2-No.11.pdf" download="">Download issue 2.11</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.11-Dream-Network-Bulletin-Vol.2-No.11.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn72unjj ;
-    ns1:itemId "bcphbklgsln"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 2, issue 11"^^xsd:string ;
-    ns1:profileImg "2.11-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "2.11"^^xsd:string .
-
 ns1:bcphbl3kedf a ns1:Post ;
     ns1:coverImg "4.5-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-09-01T11:32:52"^^xsd:dateTime ;
@@ -388,20 +374,6 @@ ns1:bcphblqvj7h a ns1:Post ;
     ns1:name "Volume 4, issue 1"^^xsd:string ;
     ns1:profileImg "4.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.1"^^xsd:string .
-
-ns1:bcphblwwuy6 a ns1:Post ;
-    ns1:coverImg "4.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1985-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.3-The-Dream-Network-Vol.4-Issue-3.pdf" download="">Download issue 4.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.3-The-Dream-Network-Vol.4-Issue-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn77nhwr ;
-    ns1:itemId "bcphblwwuy6"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 4, issue 3"^^xsd:string ;
-    ns1:profileImg "4.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "4.3"^^xsd:string .
 
 ns1:bcphblyrd2y a ns1:Post ;
     ns1:coverImg "4.4-cover.jpg"^^xsd:string ;
@@ -640,20 +612,6 @@ ns1:bcphboajs77 a ns1:Post ;
     ns1:name "Volume 8, issue 3"^^xsd:string ;
     ns1:profileImg "8.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.3"^^xsd:string .
-
-ns1:bcphbohoqoq a ns1:Post ;
-    ns1:coverImg "9.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.1-Dream-Network-Journal_Volume-9_No-1.pdf" download="">Download issue 9.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.1-Dream-Network-Journal_Volume-9_No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoanijcm ;
-    ns1:itemId "bcphbohoqoq"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 9, issue 1: Making Dreams Real"^^xsd:string ;
-    ns1:profileImg "9.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "9.1"^^xsd:string .
 
 ns1:bcphbolab5r a ns1:Post ;
     ns1:coverImg "9.2-cover.jpg"^^xsd:string ;
@@ -2367,6 +2325,154 @@ ns1:bcpov6krudhp a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Whispers and Murmurs: Perspectives on 'Dreaming Humanity's Path'"^^xsd:string ;
     ns1:urlSlug "whispers-and-murmurs-perspectives-on-dreaming-humanitys-path"^^xsd:string .
+
+ns1:bcpov6krusep a ns1:Post ;
+    ns1:dateCreated "1985-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6krudnb-0.png" width="300" height="auto" alt="Illustration by Dale Gottlieb"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i>Illustration by <a href="http://www.dalegottlieb.com/">Dale Gottlieb</a></i></div><!--/nopreview--></p>
+
+<p><br/></p>
+
+<p>During the summer of '83 I was working in a dirty, crowded pottery studio in downtown Manhattan, trying to get my small business organized. My wife Dale and I had moved to Brooklyn the year before in order to help her rapidly growing illustration career. I missed the home we had built and still owned in New Hampshire where I was more used to the "laid back" attitude of country life. I also missed our 5 year old meditation group where we had frequently shared dreams. In short, I felt disconnected and miserable. </p>
+
+<p>One day, while glazing some teapots and listening to the radio, I heard about the "Self Help Clearinghouse," a service that people could call for information about meditation groups, self-help groups, and other activities. I called that day and asked if there were any dream groups in Manhattan. But I got the number of the <em>Brooklyn Dream Community</em> instead. I met Tom Cowan the director, and a week later found myself in a group of 15 strangers at his apartment in Brooklyn, where I volunteered to share a recent dream. Bill Stimson was leading the group that night, using Montague Ullman's method of group adoption of the dream in a protective environment. Here is the dream I shared: </p>
+
+<blockquote>
+  <p><em>"I am teaching a baby - a gorgeous infant - how to swim underwater. I begin by teaching him how to hold his breath, then we work our way to progressively more difficult things. He is fat and happy, learns fast, and loves the water. I am astonished at how well he swims underwater. There are other people watching us from the beach - I sense there may be some disapproval of my actions but I ignore their fears. I don't think the baby is my child but am unsure."</em></p>
+</blockquote>
+
+<p>As the group, led by Bill, adopted and worked with my dream, I felt a powerful insight that I was about to embark on a new project in my life, one that would involve a spontaneous exploration of my unconscious that would be witnessed and shared by others. </p>
+
+<p>I felt strangely moved and sensitized, and wrote Bill a letter the next day, which he published in his two year old project, The <em>Dream Network Bulletin</em>. Bill began the <em>DNB</em> about the same time that he started The Manhattan Dream Community the winter of '81. He was looking for a way to connect people to one another through the sharing of dreams in groups and everyday experience. His motivations were personal. He was looking for a way to connect with himself, and also for a way to help others connect with each other. For two years, through exhausting bouts of poverty, late night organizing and letter writing, he established a network of individuals interested in dreams throughout the US, Canada, Europe and even the Soviet Union. Soviet parapsychologists met clandestinely and shared their insights through DNB, as did Roman Catholic nuns, psychoanalysts, "shamanistic" dreamers, lucid dreamers, and other varied people. He always printed their names and addresses and hoped that interested people would contact one another, especially to form dream groups. Often they did, and articles, letters, and experiments in group dreaming came into being. </p>
+
+<p>I met with the <em>Brooklyn Dream Community</em> for several months and also kept in touch with Bill and his work. One day he suggested I attend a Dream Leadership Training Workshop with him at Monte Ullman's home north of New York. I called Monte only to find that the workshop was filled. "Does anyone ever drop out?," I asked him. "Extremely rarely," was the reply. "Well if anyone does, please put me at the top of your list!" </p>
+
+<p>That night I had the following dream (excerpted from my journal): </p>
+
+<blockquote>
+  <p><em>"Dale and I are driving Bill Stimson to Monte's workshop... Monte and his wife are very gracious. We all sit down. I'm aware that Dale and I will only be staying a couple of minutes. I say to the group, 'It's nice to have a home so full of light'... there suddenly seems to be room for Dale and I to attend, because someone cancelled. We decide to stay."</em> </p>
+</blockquote>
+
+<p>The very next morning, Monte called to say that a woman had dropped out and there would be room for me if I wanted to attend. At this point, I felt I had no choice! I drove Bill up and back each day of the workshop, talking over dreams, plans, and goals for the future. At one point Bill asked, "Why don't you take over the <em>Bulletin</em>?" Touched by his offer, but not feeling ready for such a venture, I was hesitant. I really felt I didn't want it, but I began to have powerful dreams encouraging me to accept it. Here is an excerpt from one of several such dreams:</p>
+
+<blockquote>
+  <p><em>" ...I sense Yoda's presence. The beauty of being joined through his eyes to an ancient, permanently connected Unconscious Mind that I usually deny. I think of Bill Stimson and how we are so alike in strange but similar ways, that the DNB is his "baby" - that to give it up would be hard for him... I feel a vision of the sharing of dreams realigning our perceptions to take in another, "unseparate" sense of other people, especially the ones we care about. I feel love reawakened. I feel joined to others in a sweet, "sexy", primal intelligence that does not "think" about love but "feels" about love, and reveals loving faces in my mind so gently that I can hardly bear it. I feel at one with these people and my self."</em> </p>
+</blockquote>
+
+<p>I awoke crying, overwhelmed by the connective power in dream work, and in sharing dreams, so strongly that I felt I had no choice but to accept editorship. </p>
+
+<p>So, for over a year and a half I have buried myself in writing letters, developing a new graphic look for the <em>DNB</em> with computerized typesetting and Dale's beautiful drawings, have enlarged it to 20 pages and 6 issues a year... other people have generously volunteered to help with editing, paste-up, computerizing the subscriptions and a dozen day to day details. As a result, the <em>DNB</em> has more subscribers and more exchanges of dreamwork ideas and experiences. And I still have dreams about the importance of this network.</p>
+
+<p>However, after 8 issues I've become overwhelmed by the worry and work, and am passing on the editorial torch to Bob Van de Castle and Henry Reed, who in the past have offered to help out. The editorial staff and advisory board (as well as the general tone and format) will remain basically the same. I hope Henry and Bob will put their own fire into it... financial needs especially have pulled me in another direction and I have to devote time and energy to my new woodworking job in Claremont, New Hampshire.</p>
+
+<p><img src="../images/post-bcpov6krudnb-1.png" width="100%" height="auto" alt="Illustration"/></p>
+
+<p>I laid awake several nights over this decision and finally received some clarity from some dreams. In one, I was a construction worker at the woodshop where I now work, with a small group of other men. My right arm was covered with silver bracelets which the other men regarded as odd. But I felt a deep sense of belonging and peace. When I awoke I also knew the silver meant prosperity. </p>
+
+<p>Although the DNB has always (usually just barely) paid for itself, there has never been money left over to pay editors and so forth. But a lot of attention and time are required to keep the thing rolling. Perhaps a shared editorship will make it less of a time-consumer. Many of you are aware of Henry's involvement with <em>The Sundance Community Dream Journal</em> and Bob's long involvement with dream study through The University of Virginia at Charlottesville. Both men have been active in dreamwork longer than I have and are also more experienced. Their success will be your success; DNB is ripe for another growth burst. </p>
+
+<p>I never intended to take the Network on permanently, but it truly has been "my baby" for a while, and not easy to give up. I hope to write occasionally on these pages and help out where I can. <em>You</em> can help with letters, articles, resubscriptions and any feedback.</p>
+
+<p><img src="../images/post-bcpov6krudnb-2.png" width="100%" height="auto" alt="Illustration by Dale Gottlieb"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i>Illustration by <a href="http://www.dalegottlieb.com/">Dale Gottlieb</a></i></div><!--/nopreview--></p>
+
+<p><br/></p>
+
+<p>One of my abiding interests in dreams is their relationship to the "Inner Voice" or "that of God in every man" (as the Quakers phrase it). This is because I came into dreamwork from meditation and prayer as well as being a 5 year student of an attitudinal healing workbook called <em>A Course in Miracles</em>. Edgar Cayce remains still today one of the clearest voices for the connection between dreams and God. My prayers led me into dream study because for me it was the clearest way to understand my feelings. It is possible to meditate very hard for years and still not know how one feels. Specifically, dreams made me aware of feelings toward members of my family. Subsequent healings have occurred between me and my father, mother, brother and sister... all attributable indirectly to feelings I came upon through dreams. All the members of my family send me dreams or discuss them over the phone and when we see one another. The family can be the best dream group! </p>
+
+<p>When I was cutting wood with my older brother Pete last winter at his home in northern Maine, we got up around 5 a.m. It was dark and we sat groggily around the stove discussing our dreams. He later said it was one of the best visits he ever had with me. He knew nothing of "technique" but as a voracious reader his whole life his awareness of metaphor was sharp. I can hardly wait to discuss a dream my sister Anne sent me. It turns out that we have a mutually occurring scary dream that I'm certain has a common history that we can explore together. I know it will bring us closer. </p>
+
+<p>The most important attitude I have learned while nursing the DNB is that dreams can be trusted to bear the truth. They will not maliciously fabricate metaphors that are meaningless or random. There is a message and the message has meaning. Generally my eyes are closed to myself and my life is like an iceberg. I am dumbly convinced that the 10% that I can see above the surface is all there is. Until I run aground on the other 90% under water!</p>
+
+<p>There can be a danger to excessive dreamwork if it is an attempt to escape from waking life. If this happens, the dream images will point one back to life responsibilities and grounding activities. At least this was true with me. The more common problem is the <em>lack</em> of attention to inner life. </p>
+
+<p>The personal healings within my family through dreamwork were accompanied by a gradual dissolving of distressing feelings of separation from other people and society in general. Feeling "separate" is one of the severest of social diseases of our time, one that can be helped through group study of the workings of the personal unconscious. Once last year when I was feeling disconnected from others I had a dream filled with images of family and friends, alive and deceased, that was so vivid I awoke literally shaking with joy. The only other place I have experienced such rapture was when I have surrendered my will up in prayer and felt wordless connection to all life... healed, safe, forgiven and whole. </p>
+
+<p>Another element in dreamwork is the accompanying force for change. When I resist the nightly messages it is because I'm <em>afraid</em> to change, I want to hang on to my little neurotic securities. My ego does not go happily into sleep. I drag it there. In the hypnogogic stage before early sleep, conscious thought is released as another level of the mind steps forth. In my way of looking at things, that's where God speaks to me. My problem is that every night my timid definition of God is shattered once again. "How could a loving God give me such awful images?" "Why can't God be straightforward instead of metaphorical and speak verbally instead of in images?" I don't know. I only know that... [TO BE CONTINUED... MISSING PAGE NEEDS RESCANNING!] </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3huds ;
+    ns1:hasTag ns1:bcphblwwuy6,
+        ns1:bcphbq3huds ;
+    ns1:itemId "bcpov6krusep"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Dream Network Bulletin"^^xsd:string ;
+    ns1:urlSlug "the-dream-network-bulletin"^^xsd:string .
+
+ns1:bcpov6kruten a ns1:Post ;
+    ns1:dateCreated "1983-12-01T11:32:52"^^xsd:dateTime,
+        "1990-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>According to a front page article in the July 1988 <em>New York Times</em>, an estimated 12 to 15 million North Americans are members of self-help organizations. This number has doubled in the last 10 years and includes roughly 500,000 separate organizations. The article, by Patricia Leigh Brown, goes on to define a self-help group as: "one in which people who face a common concern or condition come together voluntarily for emotional support and practical assistance. They generally meet without professional supervision, though they may draw upon professional expertise". Brown quotes numerous sources describing the "worldwide phenomenon" of these groups, which are partly inspired by the Alcoholics Anonymous movement begun in the 1930s. </p>
+
+<p>Dream groups are a growing part of this awakening giant of mutual aid. People who believe dreams are meaningful need a safe place to share and understand their dreams. There are a large number of people who believe that dreams have only neurological or biological meaning, as well as an even larger number who aren't sure or don't care. I personally am convinced that all my dreams have meaning and I want to understand what that meaning is. What concerns me is how to get together with people who feel similarly, because my dreams are complex, need a social context to reveal themselves, and I frequently can't see beyond my own nose, while someone else can. </p>
+
+<p>The following are ten of many good reasons why I encourage people to form or join dream groups, based on my own belief &amp; experience:  </p>
+
+<h3>Kindred Spirits:</h3>
+
+<p>I need to be in a group that values dreams and believes as I do, that dreams are meaningful and have practical healing value on many levels.  </p>
+
+<h3>Inexpensive:</h3>
+
+<p>These groups are either free or relatively inexpensive, especially compared to therapy.  </p>
+
+<h3>Not therapy:</h3>
+
+<p>With the emphasis on helping the dreamer with his or her dream, there is no focus on interpersonal relationships in the group, as in group therapy.  </p>
+
+<h3>No ideological pressures:</h3>
+
+<p>In therapy, the training or bias of the therapist (often unspoken) will flavor the attitude toward dream work.  </p>
+
+<h3>More attention to the dream:</h3>
+
+<p>In therapy, there is a 50 minute hour, much of which is allotted to discussing the emotional life of the client; time is too precious to 'waste' all of it over discussion of dream material. </p>
+
+<h3>No hierarchy:</h3>
+
+<p>The group is egalitarian; the facilitator doesn't have to be a clinically trained therapist who is "doing" therapy and responsible for the emotional needs of any individual or the group. The facilitator also shares dreams.</p>
+
+<h3>Dreamer controlled process:</h3>
+
+<p>The dreamer controls the level of disclosure and is under no pressure to reveal more than s/he is comfortable with in the group. The dreamer is assisted in coming to an interpretation for him or herself.  </p>
+
+<h3>Socializing:</h3>
+
+<p>Dream groups are an exceptional way to meet people and make friends, as opposed to the "problematic" nature of seeking psychotherapy or analysis. (Try inviting your therapist to dinner, and see what happens!)  </p>
+
+<h3>Generalize-ability:</h3>
+
+<p>The skills learned in dream groups may be used and taught to spouses, friends, children. No formal training is necessary to become more fluent in the language of dreams.  </p>
+
+<h3>Pleasurable:</h3>
+
+<p>We spend so much of our time wearing the persona of our different roles in our relationships at work, home, and socializing, that it's pleasurable to "strip down" and share more of our deeper selves in a safe environment with others. There's something intangible that happens in that environment; sharing &amp; helping are brave, human acts that cause us to feel more connected to others and feel better inside. </p>
+
+<p>There are a host of other therapy related issues that are avoided in the setting of the non-therapist facilitated dream group, but in my mind there is one that stands out: self-empowerment. You can easily start your own group if there are none available locally or you don't like the "feel" of what's available in your area. Especially beware of therapist-led groups in which the leader insists one "has to be a therapist to do this": That is a tip-off that it's going to be dreamwork and therapy. There are many therapists who have successfully removed their therapists' hat and led such groups; but in general, experts don't like to be co-opted. Professional therapists serve functions that cannot be fulfilled by dream groups and vice-versa. I'm in therapy and find it very rewarding, but in my dream group, I feel I get the best help with my dreams.</p>
+"""^^xsd:string,
+        """<p>[Letter to the editor] </p>
+
+<p>The crucial aspect of dreamwork to me is its personal, humane approach. Our dreams help us to understand ourselves and relate to others, they enrich our lives from the inside out. There's a lot of extraneous psychobabble that can be discarded. No Ph.D. is required to understand that dream messages usually explain our feelings about our day to day lives. These can be felt and shared. </p>
+
+<p>What excites me about my dream group is the personal sharing that results from the careful exchange of dreams. My own help me reach into myself and out to others. They encourage me to feel included in the Universal Mind. My intellect tends to say, "This part of me, that part of me," but in my dreams, all "parts" are aspects of a psychic family. In the same way, individuals are "parts," but only intellectually. Actually we are on the same evolutionary path toward the recollection of our natural wholeness. </p>
+
+<p>Dreams are things we share in common - they are "safe" because the message is veiled in symbology. Sharing a dream message about feeling scared is easier than saying "I feel scared" to a group in a room. Dreams also seem to "happen" to us, even though we usually create them.</p>
+
+<p>I have a vision of a network of dream hotlines, where listeners could receive calls from people who wanted to understand their dream message. It could be a one to one interview method, anonymous unless the caller wanted to join the larger network. Then they would pay dues and be entitled to newsletters and meetings. They could become listeners themselves. </p>
+
+<p>The most serious problem facing people is the separation we feel from our selves and one another. This manifests in the social attitude of "every man for himself" and damaging competitiveness. We all long for community and family. If we look deeply into our dreams, this common thread becomes evident. It cuts through all the red tape in relationships.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3huds ;
+    ns1:hasTag ns1:bcphbklgsln,
+        ns1:bcphbohoqoq,
+        ns1:bcphbq3huds ;
+    ns1:itemId "bcpov6kruten"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Separation is the Problem"^^xsd:string,
+        "Ten Reasons to Get Help from a Dream Group"^^xsd:string ;
+    ns1:urlSlug "separation-is-the-problem"^^xsd:string,
+        "ten-reasons-to-get-help-from-a-dream-group"^^xsd:string .
 
 ns1:bcpov6magai2 a ns1:Post ;
     ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
@@ -6540,6 +6646,20 @@ ns1:bcphbjzjvrr a ns1:Post ;
     ns1:profileImg "2.8-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.8"^^xsd:string .
 
+ns1:bcphbklgsln a ns1:Post ;
+    ns1:coverImg "2.11-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.11-Dream-Network-Bulletin-Vol.2-No.11.pdf" download="">Download issue 2.11</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.11-Dream-Network-Bulletin-Vol.2-No.11.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
+    ns1:itemId "bcphbklgsln"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 2, issue 11"^^xsd:string ;
+    ns1:profileImg "2.11-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "2.11"^^xsd:string .
+
 ns1:bcphblsydwp a ns1:Post ;
     ns1:coverImg "4.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-03-01T11:32:52"^^xsd:dateTime ;
@@ -6553,6 +6673,20 @@ ns1:bcphblsydwp a ns1:Post ;
     ns1:name "Volume 4, issue 2"^^xsd:string ;
     ns1:profileImg "4.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.2"^^xsd:string .
+
+ns1:bcphblwwuy6 a ns1:Post ;
+    ns1:coverImg "4.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1985-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.3-The-Dream-Network-Vol.4-Issue-3.pdf" download="">Download issue 4.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.3-The-Dream-Network-Vol.4-Issue-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn77nhwr ;
+    ns1:itemId "bcphblwwuy6"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 4, issue 3"^^xsd:string ;
+    ns1:profileImg "4.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "4.3"^^xsd:string .
 
 ns1:bcphbndh32i a ns1:Post ;
     ns1:coverImg "6.4-cover.jpg"^^xsd:string ;
@@ -6595,6 +6729,20 @@ ns1:bcphbo4ff76 a ns1:Post ;
     ns1:name "Volume 10, issue 1: Healing the Child Within "^^xsd:string ;
     ns1:profileImg "10.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "10.1"^^xsd:string .
+
+ns1:bcphbohoqoq a ns1:Post ;
+    ns1:coverImg "9.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.1-Dream-Network-Journal_Volume-9_No-1.pdf" download="">Download issue 9.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.1-Dream-Network-Journal_Volume-9_No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoanijcm ;
+    ns1:itemId "bcphbohoqoq"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 9, issue 1: Making Dreams Real"^^xsd:string ;
+    ns1:profileImg "9.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "9.1"^^xsd:string .
 
 ns1:bcphbpfnwcb a ns1:Post ;
     ns1:coverImg "10.2-3-cover.jpg"^^xsd:string ;
@@ -7619,6 +7767,17 @@ ns1:bcphbq3gong a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert P. Gongloff"^^xsd:string ;
     ns1:profileImg "author-robert-gongloff.jpg"^^xsd:string .
+
+ns1:bcphbq3huds a ns1:User ;
+    ns1:description """<p>Chris Hudson was the second editor of the <em>Dream Network Bulletin</em> in New York from 1983-85. His wife, Dale Gottlieb, was the Bulletin's illustrator.</p>
+
+<p>Chris and Dale currently live in Washington, and have two sons, Blake and Hill.</p>
+"""^^xsd:string ;
+    ns1:handle "chrishudson"^^xsd:string ;
+    ns1:itemId "bcphbq3huds"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Chris Hudson"^^xsd:string ;
+    ns1:profileImg "dnj-text.jpg"^^xsd:string .
 
 ns1:bcphbq3king a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.dreamtimesguide.com/">www.dreamtimesguide.com</a></p>

@@ -1,6 +1,6 @@
 ---
 dateCreated: "1985-05-01T11:32:52"
-itemId: bcpov6krusep
+itemId: bcpov6krudnb
 layout: post
 name: "The Dream Network Bulletin"
 tags:
@@ -9,6 +9,7 @@ tags:
   - hasTag: 4.3
 type: post
 urlSlug: "the-dream-network-bulletin"
+profileImg: post-bcpov6krudnb-0.png
 ---
 
 <img src="../images/post-bcpov6krudnb-0.png" width="300" height="auto" alt="Illustration by Dale Gottlieb"/>

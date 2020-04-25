@@ -12,7 +12,7 @@ urlSlug: "3.2-cover-art-dale-gottlieb"
 profileImg: image-bcpov6kru32c-0.png
 ---
 
-![Two dogs](../image-bcpov6kru32c-0.png)
+![Two dogs](../images/image-bcpov6kru32c-0.png)
 
 
 

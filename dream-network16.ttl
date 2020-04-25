@@ -333,20 +333,6 @@ ns1:bcphbllkqg7 a ns1:Post ;
     ns1:profileImg "3.5-rect.jpg"^^xsd:string ;
     ns1:urlSlug "3.5"^^xsd:string .
 
-ns1:bcphblnikds a ns1:Post ;
-    ns1:coverImg "3.6-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf" download="">Download issue 3.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn76e7n5 ;
-    ns1:itemId "bcphblnikds"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 3, issue 6"^^xsd:string ;
-    ns1:profileImg "3.6-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "3.6"^^xsd:string .
-
 ns1:bcphblyrd2y a ns1:Post ;
     ns1:coverImg "4.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-07-01T11:32:52"^^xsd:dateTime ;
@@ -2217,29 +2203,42 @@ ns1:bcpov6kru32c a ns1:Post ;
     ns1:profileImg "image-bcpov6kru32c-0.png"^^xsd:string ;
     ns1:urlSlug "3.2-cover-art-dale-gottlieb"^^xsd:string .
 
+ns1:bcpov6kru36c a ns1:Post ;
+    ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/image-dalegottlieb-3.6-cover.png" alt="3.6 cover" /></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3gott ;
+    ns1:hasTag ns1:bcphblnikds,
+        ns1:bcphbq3gott ;
+    ns1:itemId "bcpov6kru36c"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Cover art for Volume 3, Issue 6"^^xsd:string ;
+    ns1:profileImg "image-dalegottlieb-3.6-cover.png"^^xsd:string ;
+    ns1:urlSlug "3.6-cover-art-dale-gottlieb"^^xsd:string .
+
 ns1:bcpov6kru41c a ns1:Post ;
     ns1:dateCreated "1985-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/image-dalegottlieb-4.1-cover.png" alt="Two dogs" /></p>
+    ns1:description """<p><img src="../images/image-dalegottlieb-4.1-cover.png" alt="4.1 cover" /></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3gott ;
     ns1:hasTag ns1:bcphblqvj7h,
         ns1:bcphbq3gott ;
     ns1:itemId "bcpov6kru41c"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
-    ns1:name "Cover art for Volume 3, Issue 2"^^xsd:string ;
+    ns1:name "Cover art for Volume 4, Issue 1"^^xsd:string ;
     ns1:profileImg "image-dalegottlieb-4.1-cover.png"^^xsd:string ;
     ns1:urlSlug "4.1-cover-art-dale-gottlieb"^^xsd:string .
 
 ns1:bcpov6kru43c a ns1:Post ;
     ns1:dateCreated "1985-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/image-dalegottlieb-4.3-cover.png" alt="Two dogs" /></p>
+    ns1:description """<p><img src="../images/image-dalegottlieb-4.3-cover.png" alt="4.3 cover" /></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3gott ;
     ns1:hasTag ns1:bcphblwwuy6,
         ns1:bcphbq3gott ;
     ns1:itemId "bcpov6kru43c"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
-    ns1:name "Cover art for Volume 3, Issue 2"^^xsd:string ;
+    ns1:name "Cover art for Volume 4, Issue 3"^^xsd:string ;
     ns1:profileImg "image-dalegottlieb-4.3-cover.png"^^xsd:string ;
     ns1:urlSlug "4.3-cover-art-dale-gottlieb"^^xsd:string .
 
@@ -6711,6 +6710,20 @@ ns1:bcphblcllan a ns1:Post ;
     ns1:profileImg "3.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "3.2"^^xsd:string .
 
+ns1:bcphblnikds a ns1:Post ;
+    ns1:coverImg "3.6-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf" download="">Download issue 3.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn76e7n5 ;
+    ns1:itemId "bcphblnikds"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 3, issue 6"^^xsd:string ;
+    ns1:profileImg "3.6-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "3.6"^^xsd:string .
+
 ns1:bcphblqvj7h a ns1:Post ;
     ns1:coverImg "4.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-01-01T11:32:52"^^xsd:dateTime ;
@@ -8114,20 +8127,6 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
 
-ns1:bcphbq3gott a ns1:User ;
-    ns1:coverImg "cover-img-dale-gottlieb.png"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.dalegottlieb.com/">dalegottlieb.com</a></p>
-
-<p>Dale Gottlieb was born in Brooklyn, New York. She grew up going to the Brooklyn Museum of Art on Saturday mornings. Her work is still inspired by the African art collection. The appeal of primitive art continued to influence her work, with her exploration of Visionary and Outsider artists. Her work, like theirs, appears naïve yet deals with complex emotions and issues concerning humanity. Working in different venues and mediums, her individual sense of color and narrative approach are the connective tissue in the three arenas she pursues—books, paintings and rugs. She received her BFA from the School of Art and Design at Alfred University. Her work has been shown internationally and throughout the United States. She has written and/or illustrated twenty-eight books for children and her editorial illustration has been published in various periodicals, newspapers and books including The New York Times, The Atlantic Monthly, Sports Illustrated, Esquire, Ms. And others. She currently lives in Bellingham, WA.</p>
-
-<p>Dale Gottlieb was the Dream Network Bulletin's illustrator from 1983-85.</p>
-"""^^xsd:string ;
-    ns1:handle "dalegottlieb"^^xsd:string ;
-    ns1:itemId "bcphbq3gott"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dale Gottlieb"^^xsd:string ;
-    ns1:profileImg "author-dalegottlieb.jpg"^^xsd:string .
-
 ns1:bcphbq3wagg a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>
 
@@ -8226,6 +8225,20 @@ ns1:bcphbqvreed a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Henry Reed"^^xsd:string ;
     ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
+
+ns1:bcphbq3gott a ns1:User ;
+    ns1:coverImg "cover-img-dale-gottlieb.png"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.dalegottlieb.com/">dalegottlieb.com</a></p>
+
+<p>Dale Gottlieb was born in Brooklyn, New York. She grew up going to the Brooklyn Museum of Art on Saturday mornings. Her work is still inspired by the African art collection. The appeal of primitive art continued to influence her work, with her exploration of Visionary and Outsider artists. Her work, like theirs, appears naïve yet deals with complex emotions and issues concerning humanity. Working in different venues and mediums, her individual sense of color and narrative approach are the connective tissue in the three arenas she pursues—books, paintings and rugs. She received her BFA from the School of Art and Design at Alfred University. Her work has been shown internationally and throughout the United States. She has written and/or illustrated twenty-eight books for children and her editorial illustration has been published in various periodicals, newspapers and books including The New York Times, The Atlantic Monthly, Sports Illustrated, Esquire, Ms. And others. She currently lives in Bellingham, WA.</p>
+
+<p>Dale Gottlieb was the Dream Network Bulletin's illustrator from 1983-85.</p>
+"""^^xsd:string ;
+    ns1:handle "dalegottlieb"^^xsd:string ;
+    ns1:itemId "bcphbq3gott"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dale Gottlieb"^^xsd:string ;
+    ns1:profileImg "author-dalegottlieb.jpg"^^xsd:string .
 
 ns1:bcphbq3huds a ns1:User ;
     ns1:description """<p>Chris Hudson was the second editor of the <em>Dream Network Bulletin</em> in New York from 1983-85. His wife, <a href="../@dalegottlieb">Dale Gottlieb</a>, was the Bulletin's illustrator.</p>

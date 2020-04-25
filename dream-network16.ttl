@@ -1,7 +1,5 @@
 @prefix ns1: <https://www.dannykennedy.co/dnj-ontology#> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 ns1:Image a <http://www.w3.org/2002/07/owl#Class> ;
@@ -7128,7 +7126,9 @@ ns1:bcphbq3mcle a ns1:User ;
     ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
 
 ns1:bcphbq3mild a ns1:User ;
-    ns1:description """<p></p>
+    ns1:description """<p>I joined Dream Network Journal in the early '90s and enjoyed it until it stopped publishing. Everything was then lost to a fire and I thought I would never again have access to these great magazines.</p>
+
+<p>Thanks to Daniel and Inoshi who compiled the collection, I am again able to enjoy and relive wonderful memories of this great work. I can't thank them enough for the joy and wonderful memories they allowed me to relive again. Thank you.</p>
 """^^xsd:string ;
     ns1:handle "mildredrosario"^^xsd:string ;
     ns1:itemId "bcphbq3mild"^^xsd:string ;

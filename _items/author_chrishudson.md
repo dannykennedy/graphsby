@@ -7,7 +7,7 @@ name: "Chris Hudson"
 shortDescription: ""
 tags:
 date: 2015-03-24
-profileImg: author-chrishudson.png
+profileImg: author-chrishudson.jpg
 ---
 Chris Hudson was the second editor of the *Dream Network Bulletin* in New York from 1983-85. His wife, [Dale Gottlieb](../@dalegottlieb), was the Bulletin's illustrator.
 

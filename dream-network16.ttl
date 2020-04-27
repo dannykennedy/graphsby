@@ -8446,7 +8446,7 @@ ns1:Post a <http://www.w3.org/2002/07/owl#Class> ;
 ns1:bcphbq3xdnj a ns1:Page ;
     ns1:description """<p>The (draft) Dream Network archive is finally here! The entire 1982-2015 collection, to peruse at your leisure. Thank you so much again for your help.</p>
 
-<p>Below, you can download each volume as a .zip file, or download each issue individually from the list of images. If you'd like to look up an individual author or article, there's a growing <a href="../@dreamnetwork~authors">authors page</a> here, and a (not-quite-complete) <a href="https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing">list of Dream Network articles</a> in spreadsheet form.</p>
+<p>Below, you can download each volume as a .zip file, or download each issue individually from the list of images. If you'd like to look up an individual author or article, there's a growing <a href="../@dreamnetwork~contributors">authors page</a> here, and a (not-quite-complete) <a href="https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing">list of Dream Network articles</a> in spreadsheet form.</p>
 
 <p>Feel free to send the PDFs to your friends, but rather than publishing them online please just link to the archive site once it's public. We also ask you not to publish the articles in the journals, unless you have the permission of the author (or you are the author, in which case, the rights are yours!)</p>
 

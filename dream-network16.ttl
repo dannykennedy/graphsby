@@ -237,20 +237,6 @@ ns1:bcphbjv6pkd a ns1:Post ;
     ns1:profileImg "2.7-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.7"^^xsd:string .
 
-ns1:bcphbk2qeun a ns1:Post ;
-    ns1:coverImg "2.12-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-12-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.12-Dream-Craft-Volume-2-No-12.pdf" download="">Download issue 2.12</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.12-Dream-Craft-Volume-2-No-12.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn72unjj ;
-    ns1:itemId "bcphbk2qeun"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 2, issue 12"^^xsd:string ;
-    ns1:profileImg "2.12-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "2.12"^^xsd:string .
-
 ns1:bcphbk6b6uk a ns1:Post ;
     ns1:coverImg "3.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1984-01-01T11:32:52"^^xsd:dateTime ;
@@ -3320,6 +3306,34 @@ ns1:bcpov6reedi2 a ns1:Post ;
     ns1:name "Interview with Henry Reed"^^xsd:string ;
     ns1:profileImg "post-bcpov6reedi2-0.jpg"^^xsd:string ;
     ns1:urlSlug "interview-with-henry-reed"^^xsd:string .
+
+ns1:bcpov6rsguid a ns1:Post ;
+    ns1:dateCreated "1983-12-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>It is commonplace today to hear it said that we can solicit guidance from our dreams - that we can pose questions or problems to our dreams and receive answers or solutions. No doubt many subscribers to DNB have had experiences that lend support to this notion. On the other hand, scientific research on dreams has hardly demonstrated that dreams have any meaning worth interpreting, much less that they may be solicited as oracles. What a gap in world views! </p>
+
+<p>It could be useful to bring scientific inquiry as a tool to help would-be dream solicitors evaluate and perfect their guidance systems. For example, Carl Jung, who paid tribute to the tremendous wisdom expressed in dreams, nevertheless, cautioned that apparent examples of controlling dream content were too often self-deceptive perceptions of the dream's truly autonomous intent. An attitude of scientific research may help us avoid self-deception, but that research approach must be compatible with our objectives, less it become irrelevant. </p>
+
+<p>Research related to obtaining guidance from dreams has generally taken one of two forms. The first involves attempting to control dream content, where a person is given some specific theme to try to dream about ("You will dream about trees!"). The second involves attempting to solve puzzles in dreams ("Complete this series: OTTFFS!"). The simplifications these types of experiments introduce may well eliminate the ingredients necessary to effectively persuade the intentions of the dreams. Themes that are easy to define and identify are necessary in experiments, yet it it probably much more difficult to dream about what you are instructed to than to dream about what you really care to. Having a known answer to check against the dream's answer makes experimental evaluation easier, but what is the point of spending precious dream time on puzzles? </p>
+
+<p>Several years ago, the A.R.E. commissioned me to create an experimental situation to investigate Edgar Cayce's claim that it is possible to solicit guidance from dreams. For this project, I deviated from the usual types of experiments in that I asked the dreamers to define for themselves the problem theme to dream about, problems for which no known answers already existed. This project was carried out through the mail, and required that I develop in writing a detailed outline of the step-by-step procedures the dreamers were to follow at home in seeking guidance from their dreams. The result was a workbook that emphasized journal writing as the main medium of focussing the person's efforts and of working with dream interpretation. The workbook specified a period of 28 days of working on the problem at hand, going through weekly cycles of problem definition, writing petitions for dream guidance, dream interpretation, and formulating trial solutions for testing and evaluation. The workbook thus required a level of commitment on the dreamer's part to solving the chosen problem that Cayce had said would be necessary to obtain valid guidance from dreams. </p>
+
+<p>The results of this project, conducted with over 500 people, were very encouraging. Dream recall, rather than the quality of the "solutions" obtained, was what was measured numerically, so there was no "hard data" to evaluate the dream guidance. Yet the self-reports prepared by the participants contained many convincing stories of problem resolution. Over the years since, in fact, I received so many requests for additional copies of that workbook that I finally revised the workbook, now titled, DREAM REALIZATIONS, for sale to the general public as a creative problem-solving tool. </p>
+
+<p>The A.R.E. then asked me to design another research project, this time concerning the evaluation of psychic readings. The format was to follow a suggestion made by Cayce, that if you were going to consult a psychic concerning a troubling question, then you should consult at least two, and that you should also meditate, consult your dreams and alternative sources of guidance, and then correlate the results. There were 124 participants in the project. Each one submitted four personal questions that they wanted answered. Their questions were then given to a group of psychics selected by the A.R.E. on the basis of their reputation and on the results of a sample test reading. Each participant's set of questions was answered by two psychics identified only by number. Their questions were also addressed through other sources of guidance: an astrology reading was provided, a numerology reading, a counseling session, and several hours of group discussion~ personality inventories were administered at the beginning of the session and results explained and discussed with the participants. In addition, each participant was given an opportunity to solicit dream guidance for one of their questions, using a condensed, ''one-night stand" version of my revised DREAM REALIZATIONS workbook. The participant's job was ·to then complete a workbook requiring a structured and concrete evaluation of the information provided by the two psychics and to compare their answers with the information obtained from the other sources. They also had to perform a series of numerical ratings concerning these comparisons. </p>
+
+<p>The amount of information generated for statistical analysis was substantial, and will take another year to evaluate. However, one little piece of that data speaks to our question about soliciting guidance from dreams. In one of the rating tasks, participants were asked to make a judgment concerning the relative help they had received from the various sources of guidance. They were to distribute 100 "tokens" to these various sources of guidance according to how much help on their questions they felt that source had provided. We were expecting that, overall, the psychics would receive most of the "credit," and generally speaking, that is what happened. The only other source of guidance that received nearly as high a rating was the dream guidance. Of the 124 participants, only 60 of them remembered their dreams, and of these, 50 felt they were able to compare their dream information with their psychic readings. Of these 50 persons, 30 felt that the psychic readings were superior to their dream guidance. However, the other 20 participants felt that their own dream guidance was as good or better than either one or both of their psychic readings. That is, for every three people who felt that their psychic readings were the most helpful, there were two people who felt that their experience with "Dream Realization" was the most helpful in answering their question. We didn't expect dreams to "win", but we were surprised that they scored so well against the psychic readings. Remember, this finding is a preliminary result. As we analyze the data in more detail, we will be able to learn, for example, whether the relative effectiveness of dream guidance compared to psychic guidance varies as a function of the type of question being asked. </p>
+
+<p>This project has indirectly suggested an intriguing, new way to research the question of whether dreams can be solicited for guidance. Suppose you have a question or problem you can't resolve - where are you going to get the best information: from your dreams? from a book? from a counselor? from a psychic? If dreams prove to be a good source <em>relatively</em> speaking, then even if it is still difficult to prove the dream's <em>absolute</em> value, we'll know nevertheless that we're onto something. </p>
+
+<p>Copyright 1983 Henry Reed, Ph.D. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvreed ;
+    ns1:hasTag ns1:bcphbk2qeun,
+        ns1:bcphbqvreed ;
+    ns1:itemId "bcpov6rsguid"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Soliciting Guidance from Dreams and from Psychics"^^xsd:string ;
+    ns1:urlSlug "guidance-from-dreams-and-psychics"^^xsd:string .
 
 ns1:bcpov6rshoes a ns1:Post ;
     ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
@@ -7119,6 +7133,20 @@ ns1:bcphbjzjvrr a ns1:Post ;
     ns1:profileImg "2.8-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.8"^^xsd:string .
 
+ns1:bcphbk2qeun a ns1:Post ;
+    ns1:coverImg "2.12-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-12-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.12-Dream-Craft-Volume-2-No-12.pdf" download="">Download issue 2.12</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.12-Dream-Craft-Volume-2-No-12.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
+    ns1:itemId "bcphbk2qeun"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 2, issue 12"^^xsd:string ;
+    ns1:profileImg "2.12-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "2.12"^^xsd:string .
+
 ns1:bcphbklgsln a ns1:Post ;
     ns1:coverImg "2.11-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-11-01T11:32:52"^^xsd:dateTime ;
@@ -8660,26 +8688,6 @@ ns1:bcpqoaivzve a ns1:Post ;
     ns1:profileImg "volume-7.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-7"^^xsd:string .
 
-ns1:bcphbqvreed a ns1:User ;
-    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
-
-<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
-
-<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
-
-<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
-
-<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net.</p>
-
-<div class="media-item resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-"""^^xsd:string ;
-    ns1:handle "henryreed"^^xsd:string ;
-    ns1:itemId "bcphbqvreed"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Henry Reed"^^xsd:string ;
-    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
-
 ns1:bcphbq3gott a ns1:User ;
     ns1:coverImg "cover-img-dale-gottlieb.png"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.dalegottlieb.com/">dalegottlieb.com</a></p>
@@ -8804,6 +8812,26 @@ ns1:bcphbqvcors a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bambi Corso"^^xsd:string ;
     ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
+
+ns1:bcphbqvreed a ns1:User ;
+    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
+
+<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
+
+<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
+
+<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
+
+<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net.</p>
+
+<div class="media-item resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+"""^^xsd:string ;
+    ns1:handle "henryreed"^^xsd:string ;
+    ns1:itemId "bcphbqvreed"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Henry Reed"^^xsd:string ;
+    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
 ns1:bcphbq3arts a ns1:User ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>

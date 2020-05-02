@@ -29,7 +29,7 @@ def load_file_to_object(filepath):
 				lines.append(line)
 
 	yaml_document = "".join(yaml_lines)
-	pyyam = yaml.load(yaml_document);
+	pyyam = yaml.load(yaml_document, Loader=yaml.FullLoader);
 
 	htmlstring = markdown2.markdown("\n".join(line for line in lines))
 

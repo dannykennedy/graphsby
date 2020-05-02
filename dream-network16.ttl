@@ -711,15 +711,6 @@ ns1:bcphbqdrrm2 a ns1:Post ;
     ns1:profileImg "12.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "12.1"^^xsd:string .
 
-ns1:bcphbqflull a ns1:User ;
-    ns1:description """<p>Archive of Montague Ullman's writings on dreams: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
-"""^^xsd:string ;
-    ns1:handle "montagueullman"^^xsd:string ;
-    ns1:itemId "bcphbqflull"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Montague Ullman"^^xsd:string ;
-    ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
-
 ns1:bcphbqi5hzh a ns1:Post ;
     ns1:coverImg "12.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1993-04-01T11:32:52"^^xsd:dateTime ;
@@ -3964,6 +3955,236 @@ ns1:bcpov6zchaot a ns1:Post ;
     ns1:profileImg "post-bcpov6zchaot-0.jpg"^^xsd:string ;
     ns1:urlSlug "chaotic-attractors-in-myth-stories-told-by-the-kariri-xuco-indians"^^xsd:string .
 
+ns1:bcpov6zfabod a ns1:Post ;
+    ns1:dateCreated "2006-07-22T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><em>*Presented at the twenty-third Annual Meeting of the International Association for the Study of Dreams, July 22, 2006</em></p>
+
+<p>I am going to begin with a parable.</p>
+
+<p>In the current era dreams have come to us as a psychiatric heritage. Mention the word "dream" and two names come to mind, Freud and Jung. In the unique home Freud built for our dream life, the energy source came in the form of the personal unconscious and was located in the basement. Jung came along a bit later and built a quite different style home with a dual energy system in the form of both a personal and a genetically determined collective unconscious. Besides, it was not hidden in the basement but was built into the very obvious facade of the house. These two geniuses took us quite far in explaining the healing potential of the dream. Freud's instinctual theory has been extensively remodeled over time in the direction of a more adaptational model. Jung's home for the dream is still pretty much the way he built it. Both homes provided shelter to people who were in need of it.</p>
+
+<p>Two problems emerged from this architectural parable of our dreams. Both homes were available only to those who mastered the two very different metapsychological keys to the front door. Thus did our dream life become institutionalized. Mastery of design (theory) and maintenance (technique) were essential for those who sought to live there. What was necessary but strange about this was that it became more like a hospital setting rather than a normal home. Dreaming is a universal feature of our existence serving a natural healing function and as such should be universally available. The fact that dreams deal with our emotional life does not relieve us from our individual responsibility to make the best possible use of them. Of course if our emotional life gets too askew we need more than our dreams to regain our balance. By way of analogy, babies came into the world before there were obstetricians. Midwives often sufficed. If there is danger to the mother it's good to have an obstetrician nearby. We are all midwives to the dreamer in group dream work.</p>
+
+<p>The professionalization of our dream life left the public to flounder in its ignorance until fairly recently. In the recent decades professionals and laity joined together to stimulate the public's interest in and knowledge about dreams and how to work with them. The message was that everyone had the energy source to manage their own dream house. Not enough such homes have been built but compared to the situation that existed for most of the last century, there has been a relative real estate boom. Many years ago a book appeared, "Mr. Dowling Builds His Dream House." That's something every human being on this planet can do and perhaps someday will. Only in the last thirty years has a concerted effort been made to return dreams to the people who dream. There are two lessons to be learned from this. Dreams are as helpful to us to the same extent as any other bodily system. The second is that analytic theory is a limited container for our dreams.</p>
+
+<p>Dreaming is characteristic of all mammals. Just as each of our bodily systems serve as maintenance and repair, so do dreams. Their task is to deal with the changing scene in the way we live out our lives. Awake we have a range of authentic and unauthentic emotional responses. Asleep and dreaming we each have an incorruptible core of being that confronts us with who we are rather than who we think we are. It ferrets out the truth as current emotional residues surface in their link to our past (when relevant) in an effort to alert us to predicaments that vary from the mundane to the momentous, from joy to tragedy.</p>
+
+<p>We are better off for discovering the truth about ourselves in any of the four dimensions of our life. In the biological dimension dreams remind us of bodily needs. On occasion, organ pathology appears in a dream before waking awareness. In the psychological dimensions, where most of the subject matter of our dreams comes from, we explore our vices and our virtues. In the social dimension there is both negative and positive fallout from the various "isms" that are swept into our unconscious like sexism, racism, ageism and I might add dreamism, a derogatory attitude toward dreams, prejudging them from the point of view of the waking state as silly, unimportant, or meaningless.</p>
+
+<p>There is a fourth dimension that has no generally agreed upon designation, e.g. transpersonal, cosmic, spiritual. This has to do with the many unanswered questions about our place in a universe not of our own creation. Religion has attempted to fill in this gap but has not had a good track record in uniting us as the single species that we are.</p>
+
+<p>Despite the advances in our psychological study of dreams and the current experimental and observational studies, there are many unanswered questions about the nature of dreaming consciousness. Here are a few of them.</p>
+
+<p><em>Where does the inexorable honesty of our dreams come from? It is as if we have a magic camera with an ethical aperture that opens wider while dreaming than in the waking state.</em></p>
+
+<p><em>What is the source of the creativity that shapes very original imagistic metaphors in our dreams that embed our true feelings and do so in a way that is oblivious of time, space and causality?</em></p>
+
+<p><em>What is it that so instantaneously links our remote past memories in their relevance to the current source of feelings that instigated the dream, something we can't do consciously?</em></p>
+
+<p><em>Where do the occasional "big" dreams come from that Jung referred to with imagery that evoke feelings far beyond our ordinary range?</em></p>
+
+<p><em>Why do paranormal events such as telepathy occur more often in dreams than in waking life?</em></p>
+
+<p><em>Why are we more acutely aware of all four dimensions of our life while dreaming than awake?</em></p>
+
+<p>In seeking answers to these questions I have sought help beyond my own field of psychiatry. The last ten years of the twentieth century was known as the "decade of consciousness." Quantum physicists, in concert with many other disciplines, began to focus on "the hard problem" (Chalmers, 1995), namely, the connection of consciousness to its underlying neurophysiological substrate. With only few exceptions, however (Wolf, 1994; Walker, 2000; Eccles, 1953), the focus was exclusively on waking consciousness. Quantum theory was so successful in the light it shed on all its applications to the world of matter, perhaps it could bring us closer to an understanding of the relationship of mind to matter. The problem was that no one understood the strange features that came with it. These included its indeterminism, the wave-particle duality, the jump an electron makes in going from one orbit to another without being in between, the measurement problem where all aspects of the experiment including the observer influence on the end result, and finally the reality of the impossible, namely non-locality, where a signal goes faster than light.</p>
+
+<p>There was something about these puzzling features of quantum theory that suggested an analogy to the nature of dreaming consciousness. My comments will be limited to complementarity, the contextual linkage of the observer and the observed, non-locality and interconnectedness.</p>
+
+<h2>Complementarity</h2>
+
+<p>Bohr (1961) sounded a clarion call when he wrote of the relevance of the general concept of complementarity to quantum mechanics and how it might apply to disciplines other than physics, including the life sciences and the mind itself.</p>
+
+<blockquote>
+  <p><em>The use of apparently contrasting attributes referring to equally important aspects of the human mind present indeed a remarkable analogy to the situation in atomic physics, where complementary phenomena for their definition require different elementary concepts. (p. 77)</em></p>
+</blockquote>
+
+<p>We do not know what an electron is when it is not being measured. What we do know is that it has a dual nature depending on how we go about measuring it. Under one set of circumstances it becomes manifest as a particle. Under another set of circumstances it appears as a wave. This hidden unity of opposites is known as complementarity. It is also an apt term to describe the dual nature of consciousness. Awake we are in the particle mode facing a world of discrete objects. Asleep and dreaming we are coping with the internal resonant wave-like feelings seeking to embed themselves in symbolic imagery. Both states, while experienced in qualitatively different ways, are derivative of a unity. They are complementary. Both are necessary for a complete description of the individual. To the extent that one is in focus the other is not.</p>
+
+<p>More specifically, the two different forms of consciousness reflect the unique and paradoxical predicament we are in. We are one with the material fabric of the world and at the same time capable of observing that world, reflecting on it and interacting with it. Awake we function in a world characterized by its discreteness and patterning. Asleep and dreaming we shift to a more diffuse imagistic portrayal of residual feeling tones. Awake, the feeling tones that later surface in dreaming consciousness are dimly felt in a manner akin to a Greek chorus. The latter registers the background dissonance between a particular conscious response to a given experience and the seeming unawareness of its actual felt impact. Asleep and dreaming there is a figure-ground reversal highlighting the feelings involved while the waking ego is assigned to a more reactive role.</p>
+
+<h2>The Observer and the Observed</h2>
+
+<p>Quantum mechanics has brought to the fore the interrelatedness of the observer to the phenomena under observation. This is known as the "measurement problem" and is still a very mysterious aspect of quantum theory. We become, as Wheeler has noted, participatory observers in the world around us. The quantum features of an experiment are determined by all the aspects of the experiment including input from the observer in determining the end-result. There is something quite analogous to this when we are dreaming. Awake our observing egos, taking our discreteness as a given, interact in ways that are at times coherent with the underlying reality of our situation and at times are not. By this I mean we are either emotionally engaged or not. Asleep and dreaming there is a radical shift in the observer role. The reality that now comes into view is spontaneous and unsummoned. We remain an observer but are now observing a scenario not of our own conscious making. It is as if the dreamer experiences herself at the onset of a dream as a member of an audience in a theater witnessing a drama about to ensue as the curtain goes up. She has no awareness that she herself has written the drama about to unfold, cast the characters, arranged the props, and reacts to what is going on on the stage as a novel experience.</p>
+
+<p>There is, in effect, an actual merging of the observer and the observed as the dream context unfolds. Freed of temporal and spatial constraints, having a causality of its own, the feeling residues of the waking context come into full view in a metaphorical narrative. By changing our focus asleep we change the "measurement" arrangement and arrive at different views of a unitary entity.</p>
+
+<h2>Non-Locality</h2>
+
+<p>The term non-locality refers to the instantaneous transfer of a signal from one place to another through no known physical means. Non-locality at the quantum level has been subject to experimental proof but still remains a baffling mystery. Non-locality at the macro-level, as cited in dreams, has been supported by the experimental work in parapsychology and also remains a quite mysterious happening. Whether we are catching glimpses of one mystery or two different ones remains to be determined.</p>
+
+<blockquote>
+  <p><em>My own interest in telepathy began in the course of psychoanalytic practice when a patient of mine would report a dream containing striking and non-inferential information of concordant events in my own life. This eventually led to experimentally controlled studies using the REM sleep-monitoring technique resulting in statistically significant findings with regard to both the occurrence of telepathic and precognitive dreaming (Ullman, Krippner, Vaughan, 2002).</em></p>
+</blockquote>
+
+<p>We do strange things with time and space in our dreams as we impress them into metaphorical service. In the case of time the instantaneous condensation of past and present might be looked upon as a kind of subjective non-locality. The paranormal dream, on the other hand, suggests the possibility of an objective non-locality by spanning across space in the telepathic dream and across time in the precognitive dream. The information picked up is literally or symbolically depicted in the dream. At an anecdotal level Louisa E. Rhine (1961) noted that dreaming seems to favor the occurrence of telepathy over waking consciousness.</p>
+
+<h2>Interconnectedness</h2>
+
+<p>Here there are three strands that seem to fit together, if only by analogy. The first is the assumption that quantum connectedness applies to the universe as a whole. This view has gained support with the experimental proof of the general acceptance of non-locality as a basic feature of quantum mechanics.</p>
+
+<p>The second is the view of Barlow (1980) who wrote:</p>
+
+<blockquote>
+  <p><em>"Consciousness is not a property of a brain in isolation but is a property of a brain that is and has been in communication with other brains.... I shall suggest that consciousness ... is Nature's method of making humans behave cooperatively."</em> (p. 82)</p>
+</blockquote>
+
+<p>This implies and I believe correctly that consciousness, awake or dreaming, is contextual in nature and that we lose sight of this in our assumption that it is our unique gift to do with as we want. Awake the capacity to love is the most coherent way of relating to a given context. When that capacity is impaired, efforts at healing are set in motion in a way similar to the efforts at repair when a bodily system is damaged in any way. It is in this sense also that dreaming consciousness as a natural healing system exposes impediments to connectedness and explores the coping resources available. Just as we are not in control of our own natural healing potential in response to trauma, infection or other sources of impairment, dreaming is an unconscious effort at healing in the realm of feelings, biologically enforced and spontaneously set in motion. Dreams shed light on unresolved tensions and in so doing pave the way to a truer sense of connection to one's past and to others in the present. Awake we are the beneficiaries of a biological adaptive mechanism that arose in connection with sleep. Once dream content became oriented to social existence in the human sense, the value of that content found its way into waking life. A prime example is the way preliterate societies have made use of their dreams (Eggan, 1949).</p>
+
+<h2>Towards a New Abode</h2>
+
+<p>What kind of a home is needed for that very special entity known as the dream? As the parable continues, the needs of that occupant are briefly summarized.</p>
+
+<ol>
+
+<li>The dream needs an abode that is safe, warm and supportive regardless of the emotional weather outside where we encounter the occasional "slings and arrows of outrageous fortune."
+
+</li>
+
+<li>Like all our organ systems, it is a functional system operating in its own way. In this sense it is part of an extended family that at times visits this house because of functional needs such as the need to urinate. In a recent dream of mine I was building my own water supply system. I caught on and managed to get to the bathroom in time. There are times when a particular organ gets into trouble and it may move into the dreamer's house until recognized and the needed help arrives.
+
+</li>
+
+<li>In this new house there has to be sufficient space to accommodate the special furnishings of the dreamer. These include the following:
+
+Creativity: Dreaming, in a sense, is a very personal art form. Our waking life is full of dead metaphors. "Full" is used metaphorically as its concrete meaning has to do with volume. "Dead" is used as a metaphor as its ordinary reference is to actual death (Lakoff and Johnson, 1980). Dreams, as the major occupant of the house, spend a good part of the night churning out brand new metaphors.
+
+<p>
+
+<b><i>Memory:</i></b> The dream has the key that opens up our remote memory bank and links relevant memory to its role in the dream. Waking consciousness does not have the key. The dream connects us to the personal past and orients us to the social future.
+
+</p>
+
+<p>
+
+<b><i>Imagination:</i></b> This is a remarkable aspect of the dream that is called upon for the manufacture of metaphors. It is the source of their uniqueness.
+
+</p>
+
+<p>
+
+<b><i>Honesty:</i></b>This is the most important tool the dreamer has. It is concerned with house maintenance and repairs. It does this by ferreting out flaws in the structure. Honesty connects. Dishonesty disconnects. Life is full of traps for the unwary that lead at times to expediency instead of authenticity.<sup>1</sup>
+
+</p>
+
+</li>
+
+<li>The dream has an extended family who also inhabit the abode and contribute toward its maintenance. They come from different regions already noted -- the biological, the psychological, the social and the fourth or cosmic dimension.
+
+</li>
+
+</ol>
+
+<p>The parable ends here.</p>
+
+<p>The new abode owes its origins to the work of a distinguished theoretical physicist, the late David Bohm. I want to say in advance I cannot, in this presentation, do justice to the range and depth of his argument in setting forth a new theory of the nature and origin of matter. Nor can I ask him to shoulder any responsibility to the way I have applied it to the origin of our dreams. In my personal meetings and in his writings, he has never, as far as I know, referred to dreams or dreaming.</p>
+
+<p>My interest in the possible relevance of quantum theory to dreaming was awakened in 1974 when I had the good fortune of attending a week long dialogue between David Bohm and Krishnamurti. Twenty-three years before this meeting Bohm wrote what was and still is a classic text on quantum theory. There was an interesting sequel to this book. He wrote it to deepen his own understanding of quantum mechanics but instead it left him with the feeling that a major shift in perspective was needed to go beyond the mysterious gaps in the then and still current Copenhagen indeterministic view of quantum theory. His scientific curiosity was also fueled by his sensitivity to and deep concern with the level of fragmentation that exists among the peoples of this earth and the precarious state we have arrived at in our current efforts of civilizing ourselves. Encouraged by Einstein and Pauli, Bohm began to move in two directions at the same time. He developed an algebra to resolve the anomalies of quantum theory and a metaphysics that addressed the origin of matter and ultimately the source of the generalized fragmentation (Bohm, 1980). Bohm posed the need for a new order to supersede quantum theory just as the latter superseded, but included, the Newtonian order.</p>
+
+<p>Bohm set forth a fundamental order, the implicate order, an order of wholeness that included all that exists and does so in a state of interconnectedness. It is structured holographically, the entirety manifest at every point. Bohm preferred the term holomovement to emphasize that it is a generative order in flux. This order of what he refers to as enfolded wholeness is not only the source but also the maintenance of all that exists. All matter unfolds out of the implicate order to form the explicate or unfolded order in a continuous equilibrium of enfoldment and unfoldment.</p>
+
+<p>The contents of the implicate order no longer exist as discrete elements. They retain their individuality but not in the form experienced in waking life. They exist in a form that reflects their intimate contact with the whole. An analogy would be of a flowing stream where all the fundamental elements of the stream are in contact with all others. There is a continuous and sustaining exchange between these two orders. All matter in this sense is regarded by Bohm as temporary abstractions from the implicate order. He cites as an example of this what is known as a standing wave. In a flowing body of water interacting eddies may throw up a wave that appears to be stationary but exists only as long as the eddies support it. In a sense we are all standing waves existing as apparent entities that sooner or later fall back into the underlying matrix, the implicate order from which we came.</p>
+
+<p>What now follows is an exploration of the possible relevance of Bohm's work to a deeper understanding of the nature of dreaming.</p>
+
+<p>In the beginning there was Freud. Whether you agree with his metapsychology or not, he realized the importance of an unconscious domain that made itself felt mainly through our dreams. Then came Jung along with a broad interest in other fields such as psychic phenomena and quantum physics. He enlarged the unconscious to include inherited archetypes. We now had a collective unconscious in addition to a personal one. The unconscious was safely ensconced in the new profession of psychoanalysis.</p>
+
+<p>Then came Bohm who worked out an overarching metaphysics that addressed the basic issue of wholeness and fragmentation. What I am focussing on from the point of view of dreaming is that in the implicate order all matter, inorganic, organic, sentient, exist in their interconnectivity. If we were to consider the implicate order as a Universal Unconscious, what would it contribute to our understanding of the nature of dreaming? Broadening the unconscious in this way extends dreaming to a much wider range of content than we usually consider. Dreams point outward<sup>2</sup> as well as inward. This would include events usually considered outside the range of our dreams such as the cataclysms of nature as well as telepathic and precognitive dreams. In short, Bohm's implicate order, considered as a Universal Unconscious, links us more authentically not only to ourselves but to all forms of matter.</p>
+
+<p>Just as we described standing waves as formed and maintained by an invisible energy source giving it the appearance of permanence, so are we. We are all standing waves existing as temporary entities that sooner or later fall back into the underlying matrix, the implicate order from which we came. Just as standing waves can be buffeted about in the ocean by outside forces that may impinge upon it, we are buffeted about by social and material forces that impact us. Depending on the nature of those forces they can deepen or limit that sense of connectivity with others and with our environment that is our heritage from the implicate order. To the extent we honor that gift of connectivity to others and to our environment we end up as either saints or sinners or somewhere in between. At one extreme is that rare occurrence of cosmic consciousness where the individual feels profoundly connected to all that exists if for only a fleeting moment. It is as if the individual catches a glimpse of the implicate order while in the explicate order.</p>
+
+<p>Bohm's approach to wholeness in the framework of the implicate and explicate orders suggests a more felicitous appreciation of the role our dreams play in our life. Dreaming consciousness is situated between the two orders. As such it could be considered as a relay-station with input from both orders. The contributions from the implicate order would include the capacity to open up our remote memory bank, the freedom from space and time, contiguity based on feelings rather than the logic of waking life, the wide range of imagination and memory, a prevailing quality of truthfulness and finally the creative energy of the implicate order (Bohm refers to it as generativity) prepare this remarkable brew for the dreamer.</p>
+
+<p>The dream acts as a relay station receiving input from both orders. What does it need from the explicate order? Dream content itself is triggered by recent residual feelings that have been stirred up and not yet resolved. Those feelings include what Freud referred to as the day residue. I prefer to include a larger time span which I refer to as enduring emotional residues that evolved over days or even weeks before the dream. What the dream needs from the implicate order are the remote memory sources of the current issues and the creative dynamic that characterizes the holomovement. The feeling tones then find their way into the dream.</p>
+
+<p>As a relay station between the two orders dreaming enriches both Bohmian orders. It makes its own unique contribution to the implicate order, just as any other experience does and it makes its contribution to the explicate order by infusing it with a bit more honesty and authenticity. The dream presents a fresh supply of authentic feelings, the true source of our connective tissue. Inauthentic feelings maintain disconnection. Authentic feelings do not let our ego get in the way. They serve to save ourselves from ourselves when we need to.</p>
+
+<p>Dreaming consciousness thus integrates input from the implicate order making it available to the explicate order. In its unfoldment from the implicate order it may be regarded as explicate to that order. As it, in turn, unfolds its message to the explicate order it may be regarded as implicate to that order. This form of consciousness has its own unique language made up of feelings embedded in metaphorical imagery and arranged in narrative form. In its development differs from the logical causality of waking life in that it evolves by feelings generated by the successive transformations of the metaphorical imagery. This projectory follows a dialectic path much as a playwright hints at the theme in the first act followed by a second act which develops the source of the tensions initiated, followed by a third act, conveying the way the tensions have been resolved. For the dreamer the extent to which the tensions are resolved are, of course, dependent on the inner resources available at the time they are occurring.</p>
+
+<p>The dream is a creature of the night and may or may not readily find its place in the explicate order. If interested, we find that place in our own way. It's in the order of a dream, if remembered, for the dream to be socialized to fully communicate what it has to say. The form this socialization has taken, and properly so, is the experiential dream group. Such groups have been organized in various ways. My own groups are atheoretic, following the dream as the only guide necessary to fully disclose the dreamer's predicament at the time it occurred. Eschewing a priori theoretical formulations the members of the group, including the leader, are all midwives creating the conditions for the safe delivery of the dreamer's own personal creation -- the dream. Self-disclosure is the analogy to labor pains prior to the end result justifies the means. The baby's first cry gets a new life going; the dreamer's "aha" has the same effect. The dream has found its rightful place in the world.</p>
+
+<p>We do have to learn a new language to reap these benefits but that is not so bad. We all learned the language of metaphors in grade school when we committed our first poem to memory. The poet rearranges words to express feelings. The dreamer rearranges imagery to tell a story.</p>
+
+<p>I began with a parable and I'm going to end with one. The dreamer who lives in this new abode gets up in the morning, leaves his new abode and goes to work with his dream safely ensconced in his briefcase. His workplace is a very unusual building. It's a building in progress. It is a skyscraper<sup>3</sup> with no roof leaving room for a limitless supply of additional "stories." The interior is also unusual. There are no private offices for CEO's, managers, etc. There are only large rooms which can accommodate a small group. The chairs are arranged in a circle. One briefcase is opened and dream work begins in a process controlled by the dreamer.</p>
+
+<p>Four banners are draped over the facade of the building.</p>
+
+<p>The first was designed by Sigmund Freud. It reads:</p>
+
+<blockquote>
+  <p><em>"The dream is the royal road to knowledge of the unconscious attributes of the mind."</em></p>
+</blockquote>
+
+<p>The second was designed by Carl Gustav Jung. It reads:</p>
+
+<blockquote>
+  <p><em>"So flower-like in its candor and veracity that it puts us to shame for the deceitfulness of our lives."</em></p>
+</blockquote>
+
+<p>The third is from the abstract impressionist artist Robert Motherwell. It reads:</p>
+
+<blockquote>
+  <p><em>"Oppression in art, as in life, is when the conclusion to be reached is predetermined by inner or outer a priori notions of how art ought to be."</em></p>
+</blockquote>
+
+<p>The fourth is a somewhat changed rendering from a well-known call to arms by Karl Marx in the nineteenth century. It reads:</p>
+
+<blockquote>
+  <p><em>"Dreamers of the world unite! You have nothing to lose but your theories."</em></p>
+</blockquote>
+
+<h2>Bibliography</h2>
+
+<ul>
+<li><p>Barlow, H.B. Nature's joke: A conjecture on the biological role of consciousness. In B.D. Josephson, and V.S. Ramachandran (eds.), "Consciousness and the Physical World, Pergamon Press, New York, 1980, pp. 81-94.</p>
+
+<p> </p></li>
+<li><p>Bohm, D. Wholeness and the Implicate Order, Routledge &amp; Kegan Paul, London, 1980.</p>
+
+<p> </p></li>
+<li><p>Bohr, N. Atomic Physics and Human Knowledge, New York: Science Editions, Inc., 1961.</p>
+
+<p> </p></li>
+<li><p>Chalmers, D. Facing up to the Problem of Consciousness, Journal of Consciousness Studies, Vol. 2, No. 3, 1980, pp. 200-219. Eccles, J.C. The Neurophysiological Basis of Mind, Oxford: Clarendon Press, Chapter VIII, 1953.</p>
+
+<p> </p></li>
+<li><p>Eggan, D. The Manifest Content of Dreams. A Challenge to Social Science, 54: 4, 469-485, 1958.</p>
+
+<p> </p></li>
+<li><p>Lakoff, G. And Johnson, M. Metaphors We Live By, University of Chicago Press, 1980.</p>
+
+<p> </p></li>
+<li><p>Rhine, L.E. Hidden Channels of the Mind, Time Life Books, Alexandria, VA, 1961.</p>
+
+<p> </p></li>
+<li><p>Ullman, M., Krippner, S., Vaughan, A., Dream Telepathy, Experiments in National Extrasensory Perception, Hampton Roads, Charlottesville, NH, 2002.</p>
+
+<p> </p></li>
+<li><p>Walker, E.H. The Physics of Consciousness, Perseus Books, Cambridge, Massachusetts, 2000.</p>
+
+<p> </p></li>
+<li><p>Wolf, F.A. The Dreaming Universe, Simon &amp; Schuster, New York, N.Y., 1994.</p></li>
+</ul>
+
+<h2>Footnotes</h2>
+
+<p><sup>1</sup> Inauthentic feelings, such as neurotic guilt, which is a defensive maneuver to mitigate a situation. Genuine guilt, on the other hand, results in regret and remorse.</p>
+
+<p><sup>2</sup> My colleague Judy Gardiner has been exploring the environmental aspects of dream content.</p>
+
+<p><sup>3</sup> The skyscraper image was suggested by Judy Gardiner.</p>
+
+<hr/>
+
+<p><em>Copyright © 2006 Montague Ullman, All Rights Reserved.</em> </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqflull ;
+    ns1:hasTag ns1:bcphbqflull ;
+    ns1:itemId "bcpov6zfabod"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Dream: In Search of a New Abode"^^xsd:string ;
+    ns1:urlSlug "the-dream-in-search-of-a-new-abode"^^xsd:string .
+
 ns1:bcpov6zfacet a ns1:Post ;
     ns1:dateCreated "1994-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>For many centuries, Western investigators had little respect or regard for native healing systems. In recent years, however, such prominent psychotherapists as Jeanne Achterberg (1985), E.F. Torrey (1986), and J.D. Frank (Frank &amp; Frank, 1991) have found many native healing systems to be extremely sophisticated and to contain elements that can be instructive for Western practitioners, e.g., the use of imagination and altered states of consciousness for health and personal growth.</p>
@@ -4349,6 +4570,158 @@ ns1:bcpov6zfcybr a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dreaming Online: The Global Cyberspace Dreamsharing Community"^^xsd:string ;
     ns1:urlSlug "dreaming-online-the-global-cyberspace-dreamsharing-community"^^xsd:string .
+
+ns1:bcpov6zfdepr a ns1:Post ;
+    ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>(Date unknown, after 1996)</p>
+
+<blockquote>
+  <p><em>Oppression in art, as in life, is when the conclusion to be reached is predetermined by inner or outer a priori motives of how life or art ought to be.</em> -Robert Motherwell</p>
+</blockquote>
+
+<p>Civilization has posed a difficult task for the dreamer. Born into a society where dreams are of little or no social importance, the dreamer is left with few ways to satisfy a very natural curiosity to learn what the dream is saying. The result is a kind of emotional ecological loss to society, one in which so valuable a resource has gone unappreciated. Some day someone like Rachel Carson may come along to alert us to the price we are paying for this neglect. The repair will depend on the honesty with which we can face up to the general historical developments that have led up to this state of affairs and the current sociocultural forces that perpetuate it.</p>
+
+<p>I won't say much about the general factors. They are well known to us all. Setting ourselves apart from nature our efforts have been devoted to a mastery over nature, including our own human nature. In savaging nature, we ourselves have become an endangered species, if not physically, then in terms of our obvious failure to nurture and cherish every human being that lands on this planet. Instead of facilitating a spirit of connectedness, without which we cannot endure as a species, our rugged individualism has left the devil to take the hindmost. Nationalism, having outlived its usefulness, now stands in the way of repairing the fragmentation the human species has been subjected to down through the ages. Our dreams and the concern they show for the state of our connectedness to others and to ourselves can make no claim of importance in this outworn scheme of things. They await a new day.</p>
+
+<p>As individuals we cannot easily resolve any of these general issues in the near future. We can, however, do more with regard to the specific issues that make it difficult to open the closet door. There are a number of hidden assumptions that perpetuate this difficulty. For the most part they derive from the lingering influence of a mystique that has grown up about dreams as a consequence of the foothold that classical psychoanalysis established in this country in the thirties. With that came an ideology that cast the dream in a light that all but made it forbidden territory to the ordinary mortal. To undo this inhibitory impact we have to see it for what it is and take what steps we can to bring forth a new and more felicitous vision of the gift our dreaming psyche offers so freely.</p>
+
+<p>Jung took the first step in this direction. The respect he showed to the dream freed it from its regressive prison, got rid of its jailor in the form of the censor, and made for its freer existence beyond the limiting domain of wish fulfillment. It is Jung's vision of the dream rather than Freud's that attracts the attention of the current generation of dream explorers. Erich Fromm accorded the language of the dream its full due. In a clear break with the way the dream was enmeshed in the Oedipus myth and other facets of Freudian theory, he viewed the imaging mode of the dream as a unique and distinctively human attribute that creatively reflected the psychological forces that impinge on our lives. Although paving the way toward a broader usage of the dream outside the framework of therapy, the steps necessary to implement that usage was a task for a later generation of dream workers.</p>
+
+<p>In sum, the mystique of dreams in the mind of the public included the regressive view of the dream, the dream as the container of a cauldron of id impulses that threaten to erupt unless properly censored, the predominant role of wish fulfillment and sexuality, and finally, the need for someone psychoanalytically trained to interpret the resulting symbolism along tracks laid out by psychoanalytic theory. There have been major revisionist theories in psychoanalysis over the years that have moved away from the overarching role Freud attributed to instinctual drives and childhood wishes. These new approaches continued, however, to foster the cult of the expert and perpetuated the idea that formal therapy provided the only safe and effective way for the dreamer to engage with the dream. To challenge the premises underlying this mystique was to court danger. While theory may be helpful to a clinician as a way of highlighting trends in the developing life history of the patient, it can often be misused when it comes to dreams.</p>
+
+<p>Viewing the metaphorical imagery in the framework of a particular theoretical orientation tends to foster an a priori approach to the imagery, the very thing Motherwell warns about.</p>
+
+<p>The thrust of my professional endeavors for over three decades has been to do what I can to dismantle this mystique. In concert with a number of other workers I have addressed the general public concerning my conviction that access to dreams should be made available to all and I have suggested ways of approaching the task. The mystique I referred to is blind to the basic premise of this approach, namely, that dreaming is a universal phenomenon and should be universally accessible. It does not take into account the natural curiosity we all have about our dreams, a curiosity that betrays our intuitive sense that our dreams have something of importance to say to us. There is an active resistance by many therapists to what they correctly see as an attempt to deprofessionalize dream work. Having established a beachhead in the minds of the public that it requires an expert to decipher the symbolism of dreams, they have thus far been reluctant to forgo their privileged position.</p>
+
+<p>If we were to project a utopian vision in which society were to give full cognizance to the healing potential of our dreams, what steps are within our power now to move toward that ideal? A first step would be to bring dream work into the educational system, beginning at the grade school level and making it an intrinsic part of the educational process at all levels. A few adventurous souls have experimented with this in the lower grades with encouraging results. I have had some experience with it at the high school level and, despite the special problems adolescents have about revealing their inner selves to their peers, I felt dream work was feasible and could be particularly helpful during this critical phase of development. Richard Jones pioneered a productive approach to dream work at the college level. In his book, The Dream Poet, he describes his experience of integrating what he refers to as "dream reflection" into a course on literature. As the students became familiar with the unique and expressive metaphors they were creating in their dreams, they not only responded more deeply to the classics they were reading, but their own writing became more original and more powerful than what might have been expected from their grade level (second year students). Similar work has been taken up at a number of different colleges. Edward Storm, a professor of computer science, brought dream work into a beginning course in computer science as a way of introducing students to the nonlinear analog attributes of dream thought. Important as these efforts are, they were nowhere on a scale commensurate with the educational potential that would accrue from an integration of dream work into the college curriculum.</p>
+
+<p>It is time for the dreamers of the world to unite and break the theoretical chains that bind them to the cult of the expert and makes them passive participants in maintaining the mystique. What are dreamers being exhorted to do? First and foremost is to assume some responsibility to change the situation. This will involve both a program of education and of action.</p>
+
+<p>Basic dream work should and can be taught outside of any particular theoretical frame of reference. I stress what I consider to be the three important phenomenological features of dreaming consciousness, namely, the relevance of its content to current issues in our lives, the retrieval of information from the past that is emotionally linked to these current concerns and finally, the profoundly honest way our feelings come through in the imagistic narrative we compose.</p>
+
+<p>The dream presents a dreamer with the opportunity to move into the "becoming" aspect of his or her life. This entails certain unknowns and will often challenge a pre-existing emotional status quo. A dream, arising out of an unconscious domain, is now a challenge to the dreamer in the waking state. We are dealing with a raw product created primarily to meet the needs of the sleeping organism. A fish pulled out of the sea has to be cooked. A dream surfacing in the waking state has to be worked on for its message to be brought to life. For this the dreamer needs help in the form of a supportive and stimulating social context. That help is needed in the translation of the pictorial language and needs support in the owning of its content. Few of us can be as consistently honest with ourselves in the waking state as we are when we confront the imagery of the dream. Dream work flourishes in a group arrangement where everyone, including the leader, participates in every aspect of the process, including the sharing of dreams. A flat, nonhierarchical structure results. This, in conjunction with the fact that the dreamer is respected as the guardian of his or her unconscious and is the sole determinant of the level of self-disclosure, generates the sense of trust essential to the pursuit of so intimate and private an experience.</p>
+
+<p>One way to approach understanding dreaming consciousness is to consider the way it differs from waking consciousness in both the language or form of the mode of communication and the nature of the content being communicated. The form is strikingly different from our waking thoughts. We move into a concrete sensory mode predominantly but not exclusively visual, and endow the imagery with the metaphorical power to reflect the subjective aspects of current concerns. We spend a good part of our sleeping time manufacturing visual metaphors that tell us how we really feel about ourselves, about others and about the immediate predicament we find ourselves in. If we are able to spark across the metaphorical gap and retrieve this content while awake, we become more truly in touch with ourselves. Our nighttime images are perceived as real at the moment. Their metaphorical power comes to light only when we take the time to explore their reference to our life. The waking discovery of the relevant life experience completes the metaphor.</p>
+
+<p>Let us look more closely at the language of the dream. Once we free a dream from any extrinsic and superimposed theoretical considerations we are free to examine that imagistic language in its pristine state. When we go to sleep we shift from discursive speech to what I have referred to as metaphorical imagery in motion. We adopt the persona of the poet in a way that reflects the idiosyncratic emotional currents and express them not in words but in images that are uniquely our own. Regardless of how uncreative we may consider ourselves to be in our waking lives, the poet in each of us comes to life when we are asleep and dreaming. Unlike the poet who rearranges words in the search for the apt metaphor, we pictorially rearrange bits and pieces of our past experience and cultural heritage. We create visual metaphors that speak so precisely and so eloquently to whatever it is that we are feeling at the time.</p>
+
+<p>The dream, in effect, is an aesthetic response to our predicament. I do not mean to imply that a dream is a work of art despite the fact that many dream images may be intrinsically beautiful and could become a work of art were they to be transformed into one or another enduring medium of expression. A work of art involves a good deal of energy and effort, sometimes extending over periods of time before it comes together in any final form. By way of contrast, the final product, the dream, appears spontaneously. No self-consciously directed energies are involved. It appears as part of a natural rhythm that occurs during sleep, a rhythm rooted in evolutionary processes. Once the dream is made to reveal its secret, its own internal logic becomes obvious. Then, and only then, can we appreciate how directly and precisely apropos it is as a carrier of immediate felt concerns.</p>
+
+<p>In using the term secret, I do not wish to imply that a dream always has a secret to reveal. Sometimes it is quite transparent. There are many instance when solutions to problems and inventive ideas appear in a dream and are grasped immediately. More often than not the dreamer, on awakening, has only a limited access to his or her own creation, and sometimes none at all.. The greater our sense of metaphor, the more we might be able to connect with the imagery. The difficulty does not lie in the metaphorical language per se but, rather, in what that language is saying. Awake, we are not always as prone to the same level of honesty as we are while dreaming. As actors in the social scene, our unconscious defenses take over in the interest of maintaining our social persona. While awake, expediency often replaces candor in our efforts to protect a self-image. We have ways of not seeing what we don't wish to see. While dreaming we see what is really there to be seen.</p>
+
+<p>The REM or rapid eye-movement stage of sleep and the associated episodes of dreaming are anything but a phylogenetic atrophic remnant like the appendix. By exposing predicaments arising defensively out of expediency or simply out of ignorance, this unique form of consciousness sounds a clear moral tone. Were we to take seriously the need to learn how to close the gap between image and reality we could benefit from the truth being exposed. Dreams are an ally in the effort to extend our range of moral freedom in the choices we are called upon to make.</p>
+
+<p>Here I have to turn to moral philosophy for help. The point of view I have found most congenial in sorting out the issues involved is that of Mary Midgley. If I read her correctly, she buttresses common sense (it is in our nature to want to be more moral than otherwise) with Darwin's theory of evolution. She rejects any fatalistic view of human nature and links freedom to morality but not in any idealistic sense. Moral choice is contextual and linked to the specific circumstances and constraints in which that choice arises. The important point is that the choice is always there whether we know it or not. The constraints arise out of our individual life history and endure to the extent they are reinforced by existing social and institutional arrangements.</p>
+
+<p>I am, in effect, postulating that we all possess an incorruptible core of being that makes its presence felt while dreaming, more dependably than while awake. I have referred to it as an ethical aperture, likening it to the aperture of a camera which opens more widely in the dark (asleep and dreaming). The aperture itself cannot ensure a good picture, but if properly set it allows for the best possible picture to emerge given the circumstances under which the picture is taken. Analogously our dream enables us to discern more clearly the circumstances involved and degree of freedom we have in making a moral choice. The dream aperture automatically sets itself to provide the information needed to ferret out the most moral choice available. It is up to us to develop the picture and do the work necessary to become conscious of that choice. The dream itself cannot make us do it. Our dreams are not enforcers.</p>
+
+<p>Dreams have a range that takes into account the fact that the individual is a point of concentration of a complicated array of social forces, many of which operate outside of awareness. Just as personal referents in the dream reflect issues unique to the dreamer, social referents reflect issues that remain unsolved in a given society. Racism, sexism, ageism and other isms are still with us. Swept under the rug, they find their way into our dreams.</p>
+
+<p>In the following example a blatantly sexist childhood casts a long shadow:</p>
+
+<p>A woman in her late thirties is about to embark on a new relationship. She feels some hesitancy and has a dream that displays some of the roots of her ambivalence. At one point in the dream she sees her father sitting on a swing with four female relatives, all in their heyday, dressed almost like cancan girls. What emerged from the dream work were two powerful memories that surfaced from her childhood to influence her approach to a new relationship. One was that of the male, derived from the image of her father, as privileged to flirt and play around with other women. The other was that of the female victimized by the profligate male, as her mother was. These are images that she is still struggling with. In a larger sense they relate to the residues of sexism. The privileged male and the victimized female are still available social stereotypes.</p>
+
+<p>In the next example the dreamer identifies with the victims of racism in her own struggle against sexism. A very experienced and competent manager, her voice is rarely heard by the men above her.</p>
+
+<p>Irma is a 50 year old white woman who presented a dream, the key features of which were that she was with a group of children and an African-American mother on a bus in which she tried out one of the seats in the back. A little boy was speaking to a man. His black mother was angry because she didn't want her black boy speaking with a white man who would be a bad influence.</p>
+
+<p>Irma's thoughts centered around her identification with the strong black mother. Her recent relevant day residues arose out of events at her work place. She is in a middle management position. "Those above me have all the arrogance of 'the old boys club'".</p>
+
+<p>Women were second class citizens in her childhood home, controlled by a very dominant father whose strict religious teachings drew a very sharp line between right and wrong. That line was more favorable to her brothers than to her.</p>
+
+<blockquote>
+  <p>In my workplace I felt like the underdog. If I `speak up' maybe I will eventually learn that a strong voice will not always be perceived by men as aggressive. Being born 'black' I had to have the ability to contain myself and still struggle to maintain my self respect and respect for my ideas. I have felt an affinity to black women all my life.</p>
+</blockquote>
+
+<p>The deeply felt mesh of the personal and the social was laid bare by the image of her taking a seat in the back of the bus. A current issue at work led back to her life long struggle to free her intelligence and spirit from the limiting structure of her family life as set down by her father. Her growing self-confidence enabled her to take a step that not only upset a given status quo, but led to her resignation and a successful venture on her own.</p>
+
+<p>The identification of the social referents in their specific relevance to a recent issue at work makes the connection between the social and the personal explicit and reciprocal. The connection becomes reciprocal when insight into the social scene sets in motion the hope of coping with her own disenfranchisement. In her ruminations about the dream in the week after she presented it, she felt the plight of the African-American woman on the bus was a "parable for my entire life experience, oppressed as it was by the strict regime my father and his religious beliefs imposed on me."</p>
+
+<p>Irma's final comment was about her identification with the black woman.</p>
+
+<blockquote>
+  <p>I like the idea that came up that I was born a black woman. It goes beyond the events of the past week. It goes back to my relationship with my father.</p>
+</blockquote>
+
+<p>To the extent we remain unaware of the power of such internalized prejudices, our moral freedom is compromised. Any threat to moral freedom is ultimately a threat to enduring and collaborative ties among the constituents of a given order. We are members of a species that has survived thus far by virtue of our social attributes. If those attributes continue to deteriorate and we fail to reverse the moral morass growing so alarmingly at a community, national and international level, we are in for a difficult time in ever unifying the human species.</p>
+
+<p>Our dreams thus serve a dual purpose. Their personal referents speak to the emotional baggage we carry around from our childhood. The social referents speak to the way certain social arrangements and institutions constrain our lives. One of the pitfalls common to industrial societies is the tendency to reduce human beings to objects, the personal attributes of which are useful in the marketplace. In the wake of recent examples of corporate psychopathy, workers thrown out of work come to the sudden realization they are no more than disposable objects.</p>
+
+<p>In the following example, this "objectifying" trend is played out in the sexual life of a young woman:</p>
+
+<p>When a woman dreams of a reference to her sexual organs as a head of lettuce encased in the empty shell of a cantaloupe sitting on the shelf of a supermarket she is saying something about her own personal sexual problem (frigidity) and, at the same time, making a statement about an aspect of social life. The personal referents arouse our interest, but the social referents are generally not pursued to any great degree. Briefly, the personal referents are:</p>
+
+<ol>
+<li><p>Sexual organs are seen as separate from her functioning self.</p></li>
+<li><p>Sexual organs are seen as objects.</p></li>
+<li><p>The object is made of completely closed leaves encased in a shell.</p></li>
+<li><p>The objects can be bought and sold.</p></li>
+<li><p>There is an anonymity to objects on the shelf of a supermarket.</p></li>
+</ol>
+
+<p>The real-life situation to which this symbolism alludes may be noted as follows:</p>
+
+<ol>
+<li><p>Involvement in a situation of incipient sexual activity that occurred apart from her own will and intent and at the instigation of her husband.</p></li>
+<li><p>Reactions of irritation, guilt, and constraint.</p></li>
+<li><p>A resolution through pseudo-acquiescence and preparatory sexual activity involving the use of a diaphragm.</p></li>
+</ol>
+
+<p>The social referents may be similarly noted:</p>
+
+<ol>
+<li><p>We live in a society where the capacities of people are sometimes treated as objects divorced from the person: labor, brains, beauty, talent, sex.</p></li>
+<li><p>These separated capacities are bought and sold.</p></li>
+<li><p>The exchange value and laws of the marketplace tend to make the transaction automatic and impersonal.</p></li>
+<li><p>There exists in the nature of the external referents a detachment or separation of the individual from the commodity she is called upon to use. Her real relation to the commodity is determined by its manifest elements — the object exists as something apart from herself which may or may not be purchased.</p></li>
+</ol>
+
+<p>Our own humanity thrives best in an atmosphere of affectionate and cooperative ties to others. Dreams provide us with an opportunity to explore, understand and change whatever may be in the way of establishing such ties. In this respect I believe our dreaming consciousness goes beyond a concern for the individual and arises out of a more basic concern, namely, the survival of the species. One of the unfortunate byproducts of the historical evolution of human society is the enormous fragmentation that has occurred among members of the human species and the terrible tensions that have been associated with this fragmentation. We need only mention, as examples, religious, racial, sexual and economic class distinctions, in addition to accidents of geographical separation and differentials in cultural evolution.</p>
+
+<p>While as individuals we may concern ourselves very little with the integrity of our connections with others, pursue an unsavory way of life, run roughshod over others and still live to a ripe old age, it is becoming more and more unlikely that we will survive as a species unless we can get our act together and learn how to surmount the historical fragmentation that has occurred. Dreams can provide us with one more tool in the struggle to repair and maintain that sense of species-connectedness so essential for our survival.</p>
+
+<p>What is needed at present is a drastic revision of our view of the importance of our dream life. Dreams are very low in the list of social priorities. We do not introduce dream work into the family or educational system. As adults we are left to our own devices to satisfy our natural curiosity about our dreams. The only socially sanctioned arrangement for dream work is the therapeutic situation where we pay someone to help us with our dreams. All of us are dreamers and not all of us need therapy. Where can the rest of us go? Dream dictionaries? They are more often misleading than helpful.</p>
+
+<p>The knowledge and skills necessary for effective and safe dream work can be identified and taught to anyone with sufficient interest. There is a growing awareness that this is so and that the time has come to open the door to the lay public. Were dream work to be socially upgraded and the proper arrangements made for extending it into the community we would not only provide the individual with a vehicle for personal growth but we might also catch a glimpse of the underside of our own social order and its emotional impact on each of our lives.</p>
+
+<p>Cultural anthropologists have looked at dreams as mirroring aspects of primitive societies. We have hardly begun to scrutinize the influence of our own social order on our dreams. Were we to do so, I believe that interesting relationships would emerge. In preliterate societies today, for example, there is a niche for dreams as an important intermediary between cultural, religious, and historical influences on everyday life. In antiquity, notably classical Greece, this interest in dreams was also noted. In both instances, there was a certain symmetry between the personal and the social that served a unifying, cohesive function. The situation began to change in ancient Rome as monotheism took over. The link was finally severed in western Europe in the middle ages with the occurrence of two historical developments, the invention of the printing press and the consolidation of the power of the Church. The first made dream books, mostly oriented to mantic practices and divination, available to the laity. The second resulted in disparaging even to the point of proscribing the circulation of such books. In the eyes of the Church, mystical visions and dreams were linked.</p>
+
+<p>Both could be the work of either divine or satanic influences. Since the laity could fall prey to the latter, it was felt that dreams and visions should remain under the domain of the Church as the only power that could vouch for authentic divine influences. This concern with the vulnerability of the laity to demonic influences ultimately led to the persecution of witches.</p>
+
+<p>The Industrial Revolution marginalized dreams. It was the last blow to any hope that our dream life would find its own natural haven in society. Objective mastery of the external world far outstripped any realistic social investment in the subjective mastery of ourselves. Dreams had no significant social valence. With Freud the universal phenomenon of dreaming found a limited place for itself in a profession dedicated to the art of psychological healing. The public was left to shift for itself with regard to their dreams. Universal accessibility to something so insistently a part of everyone's life has remained a mirage for all but a handful of oneirophiles. In the laboratory we have learned how to deprive people of dreams by keeping them awake from the onset to the end of the successive stages of the dreaming cycle. Without giving it a second thought, we have managed to live out our lives in a dream-deprived society.</p>
+
+<p>The closing decades of the last century witnessed the appearance of a truly new phenomenon, namely, people gravitating toward dream groups led both by professionals, including a scattering of psychoanalytically trained therapists, and laity. While at this point these groups are only barely visible dots on the landscape, there is every indication that this movement will grow. That growth will depend on how safe and effective these groups turn out to be. Currently, there are more people seeking such groups than there are groups to accommodate them.</p>
+
+<p>Every member of our species is a dreamer. If dream work had a higher social valence than it now enjoys, might it, in the way it addresses the micro-level of individual relatedness, make a contribution toward remedying relatedness within the family and the community? Once dreaming consciousness is more generally recognized as constructively complementary to waking consciousness, and were that complementarity ever to gain a foothold in the public domain, it just might open up one more pathway to a more humane social order. There have been and still are societies that have integrated dream work into their culture.</p>
+
+<p>In sum, our dreams, when consciously pursued, are a kind of emotional connective tissue bonding us as social animals. If we take the trouble to permit those nocturnal visitations to find their place in our waking world, they can provide us with a starting point in the continuing struggle to transcend our limitations. The nature of our interdependence is such that, as personal connections evolve more solidly, there are effects that reverberate upward toward ever larger social units. Dreams can point us in the right direction. They reveal our strengths, acknowledge our weaknesses, expose our deceits, and liberate our creativity. They deserve far greater attention than they now receive. As a psychiatrist, my concern is with personal truth. One road I have taken in pursuit of this has been to attempt to demystify dreams in a way that would make the personal honesty embedded in the metaphorical images of our dreams available to all. There should be universal access to the benefits that can accrue from them.</p>
+
+<p>For too long the public has been taken in by the prevailing mystique that serious dream work had best be limited to the clinical domain. Our dreaming psyche arises out of an incorruptible core that, in contrast to our waking ego, has never lost sight of the fact that we are members of a single species. Our ability to endure as a species may depend on taking that fact more seriously than we have in the past. Dreams reveal the state of connectedness of the individual to his or her past, to others, and to the supports and constraints of the social order. Is it too much to hope that, as we move into a postindustrial society, the intrinsic honesty of dreams can be harnessed to this effort?</p>
+
+<p>We are in need of a politics of connectedness. The growing interest in the healing potential of our dream life holds out the hope we may eventually reach the goal of matching our biological unity as a species with a cultural reality of communion and brotherhood. My point is not that dreams will save us from ultimate disaster but they can, if taken seriously, be one among many countervailing efforts.</p>
+
+<h2>Bibliography</h2>
+
+<p>Fromm, E. (1951). The Forgotten Language. New York: Rinehart &amp; Co., Inc.</p>
+
+<p>Jones, R. (1979). The Dream Poet. Boston: G.K. Hall &amp; Co. Jung, C.G. (1933). Modern Man in Search of a Soul. New York: Harcourt, Brace &amp; World, Inc.</p>
+
+<p>Midgley, M. (1994). The Ethical Primate: Human Freedom and Morality. London and New York: Rutledge.</p>
+
+<p>Storm, E. (1988). "Dreaming and learning: The dream in a college classroom." In M. Ullman and Claire Limmer (Eds.), The Variety of Dream Experience. New York: Continuum.</p>
+
+<p>Ullman, M. (1996). Appreciating Dreams: A Group Approach. Thousand Oaks, California: Sage Publications.</p>
+
+<hr/>
+
+<p><em>Copyright © 2006 Montague Ullman, All Rights Reserved.</em> </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqflull ;
+    ns1:hasTag ns1:bcphbqflull ;
+    ns1:itemId "bcpov6zfdepr"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Significance of Dreams in a Dream Deprived Society"^^xsd:string ;
+    ns1:urlSlug "the-significance-of-dreams-in-a-dream-deprived-society"^^xsd:string .
 
 ns1:bcpov6zfdont a ns1:Post ;
     ns1:dateCreated "2012-01-01T11:32:52"^^xsd:dateTime ;
@@ -5404,6 +5777,59 @@ ns1:bcpov6zfsra a ns1:Post ;
     ns1:name "Coat of Many Colors"^^xsd:string ;
     ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
     ns1:urlSlug "coat-of-many-colors"^^xsd:string .
+
+ns1:bcpov6zftran a ns1:Post ;
+    ns1:dateCreated "1974-10-14T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><em>Published in <strong>Ullman on Dreams</strong>, Vol. 19, No. 2, May 1975,  pp. 8-10, The American Academy of Psychoanalysis</em></p>
+
+<p><em>Paper delivered at a Conference of Scientists with J. Krishnamurti at Brockwood Park, October 14, 1974.</em></p>
+
+<p>I felt drawn to this theme as a consequence of three significant failures in my own life, which originally I thought were due to my own failings but were related to what I now think are the limitations of science, limitations that each of us in our own way are trying to talk about.</p>
+
+<p>We start out in this world as more or less undifferentiated globs of protoplasm and our task appears to be to evolve into a human being having a place in a complex technological society. If we shift to a metaphorical mode we are up to our collective necks in deep water. To save ourselves from going under we reach out for support with only our right hand to grasp at what we think are a succession of solid structures. This is the master hand, the hand that enables us to master nature, to see the world as object and deal with the world objectively. This is the hand of science as science has come to be practiced. There is an awareness of the existence of a left hand and, on occasion, it flails about in the water. It is not seen as equal in strength and power to the right hand; rather it is seen in a somewhat negative light. It is labelled the "sinister" hand and is simply regarded as not being the right hand. Using only the right hand we do achieve a differentiated state, but one that never quite gets us out of the water, so that we continue to struggle atomistically against the forces tending to pull us under. Using both hands together in complementary fashion, however, would not only get us to that state of differentiation, but would also enable us to tackle the really important question of coming together on dry land in order to get on with the business of exploring and enjoying the universe. End of metaphor.</p>
+
+<p>The use of both hands in getting us out of the water can still be called science, I suppose, but it would be quite a bit different from the science we now know. It would move from its preoccupation with nature as object to be mastered to a concern with what it is that has been mastered; and conversely, what it is that has been omitted, i.e., the sensuous aspects of man and nature and the price paid for this one-sidedness in human terms.</p>
+
+<p>There have been various ways of noting this duality apart from the right brain, left brain dichotomy implied in the metaphor - the way of science vs. the way of mysticism, the categorizing vs. the contextual mode of information processing. Others speak of objective knowledge vs. sensuous knowledge, or the active mode vs. the receptive mode. The terminology I find most congenial is borrowed from the formulations of Andras Angyal, a psychiatrist who should be better known than he is. Angyal characterized the two essential trends in the human organism as the striving for autonomy, i.e., the self-organizing, self-enhancing, self-determining tendencies, and the striving for harmony, by which he meant the need to relate to and feel a part of a larger whole. The methods of objective science appear to have evolved in connection with the former, whereas our capacity for love and our aesthetic expression seem more related to the latter. My point is that science has paid too little attention to man's homonomous needs and there are too few psychoanalysts around to pick up the pieces.</p>
+
+<p>The three areas of failure I referred to earlier are areas where the scientific method should presumably work, but where in my experience it falls somewhat short of the mark. In each instance my feeling is that the failure is traceable not to the flaws of the scientific method, but to the lack of an effective complementary approach.</p>
+
+<p>Failure number one is the general field of psychiatry. I am a psychiatrist by profession. A significant transformation occurred in my life when I allowed myself the realization that psychiatry was not a part-time affair, that its practice was more of an art than a science and, as such, it demanded a total commitment and that the level at which one pursued it could not be divorced from the life style of its practitioners. I will not go into the evidence in support of this except to call your attention to several beginning trends in this direction, i.e., Laing's effort to provide a total environment at Kingsley Hall, Jones in his evolution of the therapeutic community at Dingleton Hospital and now, in the States among the young, a movement known as radical therapy.</p>
+
+<p>Failure number two has to do with the longest, unsuccessful courtship in history - the near century old effort on the part of a handful of serious scientists and scholars of all kinds, interested in psychic phenomena, to woo the interest and acceptance of the scientific establishment so that the romance could be legitimized and ultimately consummated. While still in college I discovered that men like William Crookes, William James, Charles Richet, Oliver Lodge and Henri Bergson, to name a few, took a serious interest in what was then called psychical research. At that same time, add the fact that in the course of experimenting over a period of two years with some fellow students I came upon what I felt were rather remarkable and genuine paranormal phenomena, and you have what, for a young person, were the makings of a terrible dilemma. The result, of course, was that I felt impelled to build a special psychic closet in which to house this particular skeleton. Only in recent years, in response to a changing scientific ambience, have I gently opened the door. Someday it may be possible to transform the skeleton to a fullbodied creature, able to walk out of the closet by himself.</p>
+
+<p>The final failure was linked to, perhaps, the most profound transformation of my professional life. It was my realization that Freud's theory of dreams was wrong. Lest this sound both immodest and disrespectful, let me hasten to add that his was a magnificent theory, richly presented, and it did call attention to the therapeutically useful features of dreams. Freud, in my opinion, in his determination to build a scientific psychology, approached dreams through the wrong mode. It was like trying to pick up a mixture of water and solids with a sieve. Much is lost in the process. Unfortunately, the very magnificence of Freud's work cast a long, paralyzing shadow on the subject for well over fifty years, although Jung and others did sense a little of the nature of the essence that was escaping Freud's container. Without going into details of an alternate theory of dreaming, let me emphasize that I regard dreams as creative and aesthetic experiences that depict in the form of visual metaphors the present state of our connections and disconnections with the world about us.</p>
+
+<p>For some time I had been toying with the idea that what we experienced as a dream had an antecedent history in an event that was beyond time and space ordering, and came upon us in something approaching an instantaneous happening at critical moments in the transformation of one form of consciousness to another. The onset of the dreaming phase is one such critical modal point. The black dot at the left in the accompanying figure represents this event. It may be regarded as a kind of black hole of the psyche containing an enormously condensed information mass. Since this falls completely outside the realm of our ordinary information processing capacities, it is experienced as ineffable. We are forced to let it expand, as it were, or unfold and then deal with it in bits and pieces, ordered as best we can in time and space. These are the visual images that make up the dream as depicted by the various shapes in the figure. The information is still highly condensed, less so than formerly, and is spread out before us. A second transformation occurs when we reach the waking state. Here we try to transform this private experience into a public mode. This requires a further unfolding of the information contained in the images and the translation of this information into a public medium of exchange, namely language. Here is where we get into trouble because the information goes beyond what can be conveyed in a discursive mode. Much of the information is more readily felt than described. Moreover, the engagement with the information at a feeling level is an experiment in growth. That black hole contains within it our personal expanding universe and we do both ourselves and the universe an injustice when we try to reduce it to a play of instincts. Comments by David Bohm have both provided me with a language fitting to this process, namely, the successive transformation of implicate into explicate, as well as the more important sense of support from another domain, the world of physics, for what is simply an intuitive surmise on my part. What is implicate at one stage becomes explicate in the next stage through a process of unfolding, and what is explicate at this stage becomes implicate for the next stage.</p>
+
+<p><img src="../images/post-bcpov6zftran-0.jpg" alt="Implicate to explicate diagram" /></p>
+
+<p> </p>
+
+<p>If we use dreams simply as illustrative of a broader range of phenomena, unattended to or inadequately attended to by the present focus of scientific inquiry, then four general features of these phenomena emerge:</p>
+
+<ol>
+<li><p>They are more readily appreciated than interpreted. Psychiatrists should have courses in dream appreciation rather than dream interpretation.</p></li>
+<li><p>They share with all aesthetic experiences the quality of transcending space and time.</p></li>
+<li><p>Their specific domain is the connective tissue between people, the underlying matrix of human existence, the sense of contact or contactlessness between people.</p></li>
+<li><p>They are all in one way or another the creative embodiment of unpremeditated responses to novelty. Dreams provide us with perhaps our most familiar experience with this in the way our dreams capture appropriate, socially derived images to express subjective events.</p></li>
+</ol>
+
+<p>What is the agency that provides this unending source of unerringly apt visual metaphors? I don't think we honestly know the answer to this question, but I do know how easy it is to gloss over our ignorance by attributing the whole works to some reified, internal demon, variously known as Primary Process, our Unconscious, or simply, our Id. Perhaps a prior question would be, what is the nature of the process involved in the selection and organization of the visual images with which we build the content of our dream consciousness? If we look at the process simply, i.e., without an allegiance to deeply embedded theoretical biases, we seem to be involved in a rather intriguing process. We seem to be able to bring together a selected array of bits and pieces of past social data that have become known to us over the course of our personal life history, and then to rearrange the data in a spatial and temporal ordering, bearing no relationship to their original time-space frame of reference, but one which enables them, through the personal transformation we have wrought, to rather precisely, dramatically and effectively express the particular interplay of feelings mobilized by a current unresolved life situation. Social reality makes a significant contribution to our dreams. It provides us with the very special kinds of building blocks it takes to capture and express one or another aspect of our subjective life. When you stop to think about it, it takes a rather high level of creative and organizational ability to tap our own internal computer for the appropriate bits with which to solve the puzzle and then to rearrange them in a way that makes sense as a kind of emotional template, highlighting a problematic aspect of our immediate experience. Having gone this far, we are almost forced to admit that the powers displayed by our dreaming selves far exceed the scope of our waking faculties. The comparison is, of course, unfair, since each is supreme in its own domain. One is not better than the other; each is a powerful way of grasping different aspects of our existence. Our problem is that we have paid more attention to the one than to the other. This view of our dream suggests that we are capable of looking quite deeply into the face of reality and of seeing mirrored in that face the most subtle and poignant features of our constant struggle to transcend our own personal, limited, self-contained, autonomous self so as to better be able to connect with and be part of a larger unity. Just as someone once remarked, our eyes may be regarded as the means nature created in order to see itself, in the same way our dreams may be viewed as an instrument created by society to see itself and its distortions reflected in one of its own creations. We cannot understand the level and range of creativity displayed in this manner as having its source in the individual alone. It has to be understood as a function of the individual and society. The dream comes about because, in the interest of reaching out toward this sense of unity, each of us has turned our psyche to an exquisitely sensitive pitch with a capacity to store and use what we have seen, heard and learned intuitively of the world about us, and function as a vehicle for expressing everything from passion to prejudice. The world endlessly nourishes and replenishes these creative juices, although for some of us they come out only at night, and for all of us they are far more discerningly honest at night.</p>
+
+<p>The homonomous approach to knowledge, if identified and worked with, provides the self with enormously powerful tools with which to effect change and transformation. Any system, including a given personality system, becomes more than it conceives itself to be when, in fact, it is shown to be more on the exposure and identification of these connecting channels to a larger reality.</p>
+
+<hr/>
+
+<p><em>Copyright © 2006 Montague Ullman, All Rights Reserved.</em> </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqflull ;
+    ns1:hasTag ns1:bcphbqflull ;
+    ns1:itemId "bcpov6zftran"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Transformation Process In Dreams"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zftran-0.jpg"^^xsd:string ;
+    ns1:urlSlug "the-transformation-process-in-dreams"^^xsd:string .
 
 ns1:bcpov6zfwake a ns1:Post ;
     ns1:dateCreated "2007-10-01T11:32:52"^^xsd:dateTime ;
@@ -8161,6 +8587,23 @@ ns1:bcphbqfgreg a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jill Gregory"^^xsd:string ;
     ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
+
+ns1:bcphbqflull a ns1:User ;
+    ns1:description """<p>Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
+
+<p>More information on Montague Ullman and selected writings on Judy Gardiner's website, <a href="http://www.cosmicdreaming.com/meetdrullman.html">cosmicdreaming.com</a></p>
+
+<p>Montague Ullman (1916 – 2008) was a renowned psychiatrist, psychoanalyst and parapsychologist who founded the Dream Laboratory at the Maimonides Medical Center in Brooklyn, New York and for over three decades promoted public interest in dreams and dream sharing groups. He published around 20 articles in the Dream Network, several of which were first published here. </p>
+
+<p>These writings are reproduced with the permission of <a href="http://www.cosmicdreaming.com/abouttheauthor.html">Judy Gardiner</a>, Literary Executor, Estate of Montague Ullman. </p>
+
+<p><em>The following papers are under different copyrights. Their content may not be copied or e-mailed to multiple sites or posted to listservers without the copyright holder's express written permission. However, users may print, download or email articles for individual use.</em></p>
+"""^^xsd:string ;
+    ns1:handle "montagueullman"^^xsd:string ;
+    ns1:itemId "bcphbqflull"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Montague Ullman"^^xsd:string ;
+    ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
 
 ns1:bcphbqvmoss a ns1:User ;
     ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>

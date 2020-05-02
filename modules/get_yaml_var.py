@@ -14,7 +14,7 @@ def get_yaml_var(var, filepath):
 			yaml_lines.append(line)
 
 	yaml_document = "".join(yaml_lines)
-	pyyam = yaml.load(yaml_document)
+	pyyam = yaml.load(yaml_document, Loader=yaml.FullLoader)
 
 	f.close()
 	

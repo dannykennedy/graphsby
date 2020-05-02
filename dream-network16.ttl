@@ -4572,7 +4572,7 @@ ns1:bcpov6zfcybr a ns1:Post ;
     ns1:urlSlug "dreaming-online-the-global-cyberspace-dreamsharing-community"^^xsd:string .
 
 ns1:bcpov6zfdepr a ns1:Post ;
-    ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1997-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>(Date unknown, after 1996)</p>
 
 <blockquote>
@@ -4714,7 +4714,7 @@ ns1:bcpov6zfdepr a ns1:Post ;
 
 <hr/>
 
-<p><em>Copyright © 2006 Montague Ullman, All Rights Reserved.</em> </p>
+<p><em>Copyright © 1997 Montague Ullman, All Rights Reserved.</em> </p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqflull ;
     ns1:hasTag ns1:bcphbqflull ;
@@ -5821,7 +5821,7 @@ ns1:bcpov6zftran a ns1:Post ;
 
 <hr/>
 
-<p><em>Copyright © 2006 Montague Ullman, All Rights Reserved.</em> </p>
+<p><em>Copyright © 1975 Montague Ullman, All Rights Reserved.</em> </p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqflull ;
     ns1:hasTag ns1:bcphbqflull ;
@@ -8595,7 +8595,7 @@ ns1:bcphbqflull a ns1:User ;
 
 <p>Montague Ullman (1916 – 2008) was a renowned psychiatrist, psychoanalyst and parapsychologist who founded the Dream Laboratory at the Maimonides Medical Center in Brooklyn, New York and for over three decades promoted public interest in dreams and dream sharing groups. He published around 20 articles in the Dream Network, several of which were first published here. </p>
 
-<p>These writings are reproduced with the permission of <a href="http://www.cosmicdreaming.com/abouttheauthor.html">Judy Gardiner</a>, Literary Executor, Estate of Montague Ullman. </p>
+<p>These writings are reproduced with the permission of <a href="http://www.cosmicdreaming.com/abouttheauthor.html">Judy Gardiner</a>, Literary Executor, Estate of Montague Ullman. Profile image by Judy Gardiner - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=17845039">commons.wikimedia.org</a></p>
 
 <p><em>The following papers are under different copyrights. Their content may not be copied or e-mailed to multiple sites or posted to listservers without the copyright holder's express written permission. However, users may print, download or email articles for individual use.</em></p>
 """^^xsd:string ;

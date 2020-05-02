@@ -37,7 +37,7 @@ The homonomous approach to knowledge, if identified and worked with, provides th
 
 <hr/>
 
-*Copyright © 2006 Montague Ullman, All Rights Reserved.* 
+*Copyright © 1975 Montague Ullman, All Rights Reserved.* 
 
 
 

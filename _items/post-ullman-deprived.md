@@ -1,5 +1,5 @@
 ---
-dateCreated: '2007-01-01T11:32:52'
+dateCreated: '1997-01-01T11:32:52'
 itemId: bcpov6zfdepr
 layout: post
 name: "The Significance of Dreams in a Dream Deprived Society"
@@ -140,7 +140,7 @@ Ullman, M. (1996). Appreciating Dreams: A Group Approach. Thousand Oaks, Califo
 
 <hr/>
 
-*Copyright © 2006 Montague Ullman, All Rights Reserved.* 
+*Copyright © 1997 Montague Ullman, All Rights Reserved.* 
 
 
 

@@ -3478,6 +3478,8 @@ ns1:bcpov6rswoun a ns1:Post ;
   <p><strong><em>1/25/93</strong> LIW dances joyously on top of the purple mountain, arms outstretched to the sky. The brilliant moon stands as silent witness to her supplications as the stars wink in appreciation. The baby, ashen in color and barely breathing, lies prostrate on the ground in a coffin-like pit. The amethyst in her forehead barely flickers and her skin is bluish-gray. I am worried that she is close to death, but the Lady explains that she is just awaiting rebirth. I watch in horror as LIW dumps mounds of dirt on top of the baby. Thin blades of light stab at the air from beneath the soil and a roaring fire explodes from the slivers of light. The fire burns itself out, leaving the little pit looking whitewashed. The baby is nowhere in sight. A tiny amethyst stone is all that remains of her. A bolt of lightning crashes down from the heavens, striking the purple stone. A liquid begins to sizzle and bubble around the crystal. From this liquid, white smoke appears forming a solid cloud over the pit. The smoke clears to reveal a very small frozen infant.</em></p>
 </blockquote>
 
+<p><br></p>
+
 <p>I was seeing Anna twice a week for individual sessions and meeting with my dream group weekly, while working with my analyst three times a year during four day retreats. Amazingly enough, I managed to maintain a successful private practice and continued to meditate daily. However, I found it almost impossible to socialize with people and found myself living a sort of hermit lifestyle. Other than going to work, taking care of household chores, and visiting with my family on special occasions, I rarely left my home. Most of my friends eventually drifted away. </p>
 
 <p>The visions continued as I grew increasingly ambivalent about the intensifying connection I felt with Anna. Even though she was very good about letting me know how to get in touch with her whenever she was out of town, the closer I felt to her, the more frightened I became that she would abandon me. I remember calling her multiple times one day, first canceling all my appointments and then calling back to reschedule. I marveled at the patience and compassion she showed me during all the years I worked with her. I know now that I owe her my life.</p>
@@ -3501,6 +3503,8 @@ ns1:bcpov6rswoun a ns1:Post ;
   
   <p><em>I crawl up on top of the casket, weeping and crying out to him. Miraculously, I find myself once again outside amidst the maze of white curtains. The winds continue to howl as the mists gather all around me. Voices echo everywhere; shadowy forms float past me. Grandfather’s golden visage appears in the sky, and he speaks to me. “This is the land of the seen and the unseen, the known and the unknown, the land of reality and unreality, of death, rebirth and reincarnation. I will be with you always.” From underneath one of the curtains crawls a little boy, pulling a red-headed little girl in a white gown. A strange light surrounds them.</em></p>
 </blockquote>
+
+<p><br></p>
 
 <p><strong>2/16/93</strong></p>
 
@@ -7974,7 +7978,7 @@ ns1:bcphbq3joyf a ns1:User ;
 
 ns1:bcphbq3mart a ns1:User ;
     ns1:coverImg "cover-author-kathy-martone.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://dreamagik.com/bio.htm">dreamagik.com</a></p>
+    ns1:description """<p><a href="https://www.facebook.com/Kathy-Martone-EdD-2166828393535523/">Facebook page</a></p>
 
 <p>Dr. Martone is a Jungian Psychologist and healer in private practice since 1986. She has served as company psychologist for a large corporation and has previously taught at Colorado Free University, Iliff School of Theology, Naropa University and Jungian Ministries International. Steeped in the ancient traditions of Tibetan Buddhism and Celtic Spirituality, Dr. Kathy Martone is a warm and compassionate healer who has crafted a deep intuitive wisdom out of her many and varied life experiences. She has written a book entitled <a href="http://dreamagik.com/book-SW.htm">Sacred Wounds</a> that chronicles a woman's spiritual and emotional journey through the dark memories of incest. </p>
 """^^xsd:string ;

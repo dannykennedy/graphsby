@@ -8983,17 +8983,23 @@ ns1:bcphbqvbulk a ns1:User ;
 
 ns1:bcphbqvcors a ns1:User ;
     ns1:coverImg "cover-author-bambi-corso.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://bambicorso.com/">bambicorso.com</a></p>
+    ns1:description """<p>Author, DreamTracker, Law of Attraction Certified Coach </p>
 
-<p>I am a Dream worker and a Law of Attraction Life Coach.</p>
+<p>Bambi’s passion and exploration of dreamwork spans over forty years having journaled over eight thousand of her own dreams. She says that working with her dreams for so many years has given her tremendous insight into every aspect of her life; physical, mental, emotional and spiritual. Knowing the immense guidance and wisdom available through dreamwork, she has dedicated her life to teaching others to work with and understand their dreams to help bring consciousness and awareness to the ways in which we are informed by the dreamtime to live a more passionate, purposeful and authentic life. She is an avid lover and animals and nature and advocates for their wellbeing, survival and conservancy. </p>
 
-<p>I believe in possibilities; in the power of change; and know that every individual has the ability to chart a different path simply by choosing an authentic life based on deliberate choices.</p>
+<p>Bambi holds two certifications in Dream Tending, taught by Dr. Stephen Aizenstat of Pacifica Graduate Institute. She serves on the Southern California IASD Regional Committee and has been a member of the International Association for the Study of Dreams for twenty years. Bambi was a review editor for The Dream Network Magazine for nine years and is and certified as a Law of Attraction Certified Coach through The Quantum Success Coaching Academy and a Tarotpy Practitioner through the Institute of Dreams and Tarotpy®. She is also a contributing author for the book, 101 Great Ways to Enhance your Career.</p>
 
-<p>In my work, I use my training to help others open their minds to enhanced perspectives that support these changes, working to overcome limiting beliefs that may keep someone from manifesting the life they desire. I use my expertise in dreamwork to help support that mindset.</p>
+<p>Please visit her website at <a href="https://bambicorso.com/">www.BambiCorso.com</a>. </p>
 
-<p>I have studied the works of Dr. Wayne Dyer, Caroline Myss, Carl Jung, James Hillman, Neale Donald Walsch, Marion Woodman, Clarissa Pinkola Estés, Martín Prechtel, Gregg Levoy and Jack Canfield; Krishnamurti, Gandhi, Kahlil Gibran, A Course in Miracles, Tara Singh, and so many more. I became a certified DreamTender through DreamTending, a clinical training program created by Dr. Stephen Aizenstat, President of Pacifica Institute in Santa Barbara, CA. I’m a member of The International Association for the Study of Dreams (www.asdreams.org) and spent 9 years as a  review editor for The Dream Network Journal. I completed my Law of Attraction life coaching certification through The Quantum Success Coaching Academy’s Certification Program and also received my certification as a Tarotpy Practitioner through the Institute for Dreams and Tarotpy.  I am also a contributing author of the book, <a href="https://www.selfgrowth.com/greatcareerbook.html">101 Great Ways to Enhance Your Career</a>.</p>
+<p>You can also follow Bambi here:</p>
 
-<p>Some of my passions are practicing yoga, meditation, healthy eating and overall fitness.  I love nature and animals and try to spend as much time as possible enjoying both.  I love to read, write, cook and practice random acts of kindness, and I love spending time with loved ones and making new friends.</p>
+<p><a href="http://www.twitter.com/bambicorso">http://www.twitter.com/bambicorso</a></p>
+
+<p><a href="http://www.facebook.com/bambicorsosfanpage">http://www.facebook.com/bambicorsosfanpage</a></p>
+
+<p><a href="http://www.youtube.com/bambicorso">http://www.youtube.com/bambicorso</a></p>
+
+<p><a href="http://www.linkedin.com/in/bambicorso">http://www.linkedin.com/in/bambicorso</a></p>
 """^^xsd:string ;
     ns1:handle "bambicorso"^^xsd:string ;
     ns1:itemId "bcphbqvcors"^^xsd:string ;

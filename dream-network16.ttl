@@ -907,20 +907,6 @@ ns1:bcphbuj7fdh a ns1:Post ;
     ns1:profileImg "19.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "19.3"^^xsd:string .
 
-ns1:bcphbumhc4e a ns1:Post ;
-    ns1:coverImg "19.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2000-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.4-Dream-Network-Vol-19-No-4.pdf" download="">Download issue 19.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.4-Dream-Network-Vol-19-No-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobmu4ep ;
-    ns1:itemId "bcphbumhc4e"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 19, issue 4: Shamanism & Dreams I"^^xsd:string ;
-    ns1:profileImg "19.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "19.4"^^xsd:string .
-
 ns1:bcphbupdomk a ns1:Post ;
     ns1:coverImg "20.1-2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2001-01-01T11:32:52"^^xsd:dateTime ;
@@ -948,20 +934,6 @@ ns1:bcphbusgyjg a ns1:Post ;
     ns1:name "Volume 20, issue 3: Dream Inspired Poetry"^^xsd:string ;
     ns1:profileImg "20.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "20.3"^^xsd:string .
-
-ns1:bcphbuzcgu3 a ns1:Post ;
-    ns1:coverImg "20.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf" download="">Download issue 20.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobpf6pi ;
-    ns1:itemId "bcphbuzcgu3"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 20, issue 4: Dreams and 9.11"^^xsd:string ;
-    ns1:profileImg "20.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "20.4"^^xsd:string .
 
 ns1:bcphbv6y2vp a ns1:Post ;
     ns1:coverImg "23.2-cover.jpg"^^xsd:string ;
@@ -3293,6 +3265,52 @@ ns1:bcpov6reedi2 a ns1:Post ;
     ns1:profileImg "post-bcpov6reedi2-0.jpg"^^xsd:string ;
     ns1:urlSlug "interview-with-henry-reed"^^xsd:string .
 
+ns1:bcpov6rs24hr a ns1:Post ;
+    ns1:dateCreated "2000-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.goodreads.com/book/show/104132.Dreaming_While_Awake"></p>
+
+<p><img src="../images/post-bcpov6rs24hr-0.jpg" alt="Dreaming While Awake: Techniques For 24-Hour Lucid Dreaming by Arnold Mindell" width="300" height="auto"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://www.goodreads.com/book/show/104132.Dreaming_While_Awake">Dreaming While Awake: Techniques For 24-Hour Lucid Dreaming</a> by Arnold Mindell, 2000, Hampton Roads Publishing Company, 288 pp.</i></div><!--/nopreview--></p>
+
+<blockquote>
+  <p><em>"Dreaming is the mystical source of reality. This book is devoted to perceiving, living and orienting you to the power of Dreaming. My goal is not to notice the Dreaming only occasionally, but to develop a constant awareness of Dreaming with the new method I call 24-Hour Lucid Dreaming."</em></p>
+</blockquote>
+
+<p>I have long known that Arnold Mindell has some unique and very important insights into dreams, having noticed his books on the Dreambody approach, synthesizing dreams with bodywork. As a graduate of MIT and the Jung Institute in Switzerland, Mindell founded a new school of therapy called Process Oriented Psychology. But this book is a true groundbreaker, a shamanic surprise, surpassing all expectations. </p>
+
+<p>This book is inspired by the concept of the Dreaming, as it is understood by Australian Aborigines. Mindell begins by examining Aboriginal Dreaming and its connections with quantum physics, psychology, and Buddhism. For the Aboriginal elders, the Dreaming is the basis of all life, and is clearly larger than what we think is going on in rapid eye movement sleep. Mindell does a great job of explaining this view to western readers, using the metaphor of the light and dark sides of the moon. While most of us go through life focused only on the bright side of the moon, we need to have an understanding of the dark side, the Dreaming reality, in order to have a wholistic grasp of deeper reality. Further, Mindell states, </p>
+
+<blockquote>
+  <p><em>"...it seems to me that ignoring the Dreaming is an undiagnosed global epidemic. People everywhere suffer from a chronic form of mild depression because they are taught to focus on everyday reality and forget about the Dreaming background."</em></p>
+</blockquote>
+
+<p>While the Aboriginal peoples have long noted this tendency we have to "ignore the Dreaming" in statements such as "White man got no Dreaming, him go 'nother way. White man, him go different." Mindell, on the other hand, shows in this book that we each can develop an awareness of the Dreaming. In fact, for many he would maintain it is essential for a full and complete life. "Without Dreaming, you are living only half your life and seeing only half the world." Much of this book discusses what is would mean to develop that awareness, with many specific exercises to enable the reader develop that ability. </p>
+
+<p>In the effort to expand our awareness of the Dreaming, Mindell also expands the meaning of "lucid dreaming." This expanded definition has many implications for anyone exploring dreams. He states, "Because you are Dreaming all day long, I wish to expand the idea of lucid dreaming to mean being awake during Dreaming not only at night but also during the day." He traces the history of the western concept of lucid dreaming through Rudolf Steiner, Alan Worsley, Stephen La Berge and Jane Gackenback, and shows how that understanding is too limited and fragmented for his purposes. He then shows how his work, along with insights from Australian Aborigines and Eastern perspectives, such as that of the Dalai Lama, point of a larger, deeper wholistic definition of lucid dreaming. Thus he urges the reader to develop an awareness he calls 24-hour Lucid Dreaming.</p>
+
+<p>Mindell draws in a neat little diagram where The Dreaming is the basis of life, the root of it all. Arising from that level, we come to Dreamland, the place where dreams occur. And then, arising from that, we come to consensus reality, the place where you and I live our everyday lives. He points out that most of the study of dreamwork focuses on the relation between what goes on in Dreamland and daily consensus reality. In this book, we focus our attention on lucidly noticing experiences occurring between Dreamtime and Dreamland. This is subtle work, often examining vague feelings and intuitions that can barely be verbalized. Mindell does a good job of not only verbalizing some of these usually vague and invisible parts of reality, but also showing how such work can have profound ramifications in our daily lives.</p>
+
+<p>The bulk of this book goes into specifics about how one might develop such a deeper awareness of the Dreaming in various areas of our lives. Mindell examines addictions &amp; relationships, time travel, lucid healing &amp; preventive medicine, and Dreaming as world work. Each of these discussions include innovative exercises, instructive stories and diagrams and ideas for further exploration. If there is a downside to this book, it may be that the reader is introduced to so many possibilities that one becomes disillusioned or frustrated. There is no way that any author can cover each area approached here comprehensively. </p>
+
+<p>I recommend this book very highly for the inspiring perspective and wealth of insights, as well as specific exercises geared to developing a deeper awareness of the Dreaming. I suspect that readers will be able to take the ideas in this book in many different directions. As Mindell states: </p>
+
+<blockquote>
+  <p><em>"My goal is to make the Dreaming roots of reality so accessible, so visceral, that your conscious mind will give you back your right to dream."</em></p>
+</blockquote>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3mcle ;
+    ns1:hasTag ns1:bcphbq3amin,
+        ns1:bcphbq3mcle,
+        ns1:bcphbumhc4e ;
+    ns1:itemId "bcpov6rs24hr"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: Dreaming While Awake: Techniques For 24-Hour Lucid Dreaming by Arnold Mindell"^^xsd:string ;
+    ns1:profileImg "post-bcpov6rs24hr-0.jpg"^^xsd:string ;
+    ns1:urlSlug "book-review-dreaming-while-awake-arnold-mindell"^^xsd:string .
+
 ns1:bcpov6rsguid a ns1:Post ;
     ns1:dateCreated "1983-12-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>It is commonplace today to hear it said that we can solicit guidance from our dreams - that we can pose questions or problems to our dreams and receive answers or solutions. No doubt many subscribers to DNB have had experiences that lend support to this notion. On the other hand, scientific research on dreams has hardly demonstrated that dreams have any meaning worth interpreting, much less that they may be solicited as oracles. What a gap in world views! </p>
@@ -3425,6 +3443,92 @@ ns1:bcpov6rsoths a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Messages from the 'Other Side'"^^xsd:string ;
     ns1:urlSlug "messages-from-the-other-side"^^xsd:string .
+
+ns1:bcpov6rsreci a ns1:Post ;
+    ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>The following notes are meant for those interested in processing their own feelings around the USA Attack, public discussions around attack, revenge, war and extreme conflict situations of all sorts. </p>
+
+<ol type="I">
+
+  <li>How to begin with the Present Situation</li>
+
+  <li>How to Approach Authorities</li>
+
+  <li>The Larger Goal</li>
+
+  <li>The Nature of the Terrorist</li>
+
+  <li>The Nature of the Victim</li>
+
+  <li>How to Bring it all Together</li>
+
+</ol>
+
+<h2>I. How to Begin with the Present Situation (Grief, Anger, Retaliation)</h2>
+
+<p>Any dispute or attack may be painful and difficult, but also an opportunity for your community to become a more enriching place for all. It is a chance for you to become a more whole person. Let this problem be an opportunity to realize that conflict is a central, unsolved issue in all cultures. </p>
+
+<p>Whether you must deal with conflict in yourself alone, with others, or face professional dispute work with participants in extreme states of consciousness, remember that any discussion or expressions of feelings about past pain and injury are not only due to past events; they are experiences people have in the present. Now, we are hurting, now we may be retaliating at ourselves or others. Remember that it takes time to grieve and to feel sadness. Thoughts of revenge can be an edge to feeling pain, just as depression can be an edge to anger. </p>
+
+<p>Whatever happens, remember your long time dream of a good life for all, keep this global view while dealing with any given momentary situation. Recognize that anyone who is angry — including yourself— is potentially dangerous. Tread gently. Be careful and don’t forget the outer aggressors are always a mirror image of what you might possibly look like, either now or at another point in your life. </p>
+
+<p>The situation outside is not new; your whole life has been filled with ‘terrorist attacks’ against you, and attacks you have leveled at others. Learn collaboration insights and make processing conflict a habit from now on. </p>
+
+<p>If possible, find the most insightful leader within yourself who is a martial artist, someone who will use her full awareness to follow and not repress issues so that they become terrorist attacks. This is an ‘inner’ someone who can feel all sides; yet not be in conflict herself with herself. </p>
+
+<p>Before going to step II, recall that the world is both inner and outer work. Remember a time when you were repressed by someone and felt pushed into the role of the angry terrorist as a result. Also, please recall how you have done the same to others, how you repressed or would not hear them, and how —as a result —they became upset with you. If you can recall instances in which you became a ‘terrorist’ and caused others to be terrorists, you are prepared for the next step. If you cannot recall such instances, anything you do will not be based upon solid footing, and is less likely to be helpful. </p>
+
+<h2>How to Approach ‘Authorities’</h2>
+
+<p>Remember you are an authority simply because you consciously went through the previous experiences, a-f. Others may not realize that when they discuss the world situation, they are talking about themselves. </p>
+
+<p>Outer people in authority—such as city and world ‘leaders’— may not have had any awareness training. Tell them in a heartfelt manner that what we’re going to do is both elegant and insightful, both rapid and sustainable—but it will include sensing more than their momentary feelings. The feeling skill to use with people in authority which works best is an appreciation for their dilemma. They’re caught in the crossfire of public life. They must satisfy both those who want revenge and those interested in love. </p>
+
+<p>Whatever you suggest, insist that it is only an addition to what they are already planning, not as a reversal or overthrow of their methods. Remember, mainstream thinking is the way you think when you react without much awareness. So have compassion in all that you do. Now let’s go to the next step. </p>
+
+<h2>III. The Larger Goal</h2>
+
+<p>Deep in your heart, deep in the quietness of the night, your grandest visions include hope for the future of humanity and the planet earth. Formulate those grand visions now. After thinking of these visions, consider how you can model them in all that you do. Imagine right now using your vision, and see yourself modeling it. A vision works only with a model. </p>
+
+<p>If necessary, amplify your vision with the following ‘addition.’ Nature moves us; our job is to make these movements conscious and useful. Dreams and emotions, love and anger happen. Our job is to guide these feelings so that they enrich our own and everybody else’s life, the life of all sentient beings. This ‘addition’ to your vision implies that life itself is a sacred event, even though it sometimes seems impossible. Life is not just a problem, but a kind of spiritual fighting ring, a temple requiring your utmost ability and wisdom. Nothing less than the grandest part of you is needed in an ultimate situation. The present moment is an opportunity, not only a threatening catastrophe. With this view, we can now go to the next step.</p>
+
+<h2>IV. The Nature of the ‘Terrorist’</h2>
+
+<p>The biggest problem for most of us will be to comprehend the nature of the energy and motivations of the terrorist. When you or I or anyone else becomes an angry terrorist wanting to hurt or retaliate without feeling for those who are being hurt, we are revealing something all of us human beings have experienced at one time or another. The point is that the terrorist is not unknown to you. She or he is who you become in injured states of consciousness. </p>
+
+<p>A central aspect of the terrorist is the ‘freedom fighter,’ someone who wants a newer, better, and just world for herself and her own. Another aspect of the terrorist is the spiritual seeker who has found a goal that is greater than life itself, something that makes even her own life, or its sacrifice, insignificant. That is why threats of imprisonment or counter attack, never deter terrorists. Still another aspect of terrorism is terror itself. The terrorist has transformed fear into fury. Fear, terror, and anger are very close. Terror is often due to the fear of being hurt by an omnipotent aggressor. Anger comes from the sweet feeling of revenge mixed with the ecstatic power of aggression, which feels to the aggressor as the opposite to victimhood. </p>
+
+<p>In a way, the terrorist has inadvertently become a mirror image of the thing she or he hates the most. She or he is a product of hopelessness, created in part by everybody else’s misunderstanding of who she or he is and what she or he stands for. Now let’s go to the next step. </p>
+
+<h2>V. The Nature of the ‘Victim’</h2>
+
+<p>The ‘victim’ (or in the case of Sept. 11, 2001 attack on the U.S, the one with more overt political, social or military power) is the ‘aggressor’ in the mind of the terrorist. The ‘victim’ is the ‘innocent’ one who has been attacked, and who identifies as being a victim. Now what we are going to say must be understood with compassion. The victim is the one who uses and remains in her victimhood to ease the guilt of being unconscious of her role in creating or at least collaborating in creating terrorism. The victim is in one way, partly responsible for the attack. She did not notice, she ignored or was unwilling or unable to face the terrorist, to hear her unhappiness, even when the signals of discontent were still mild or at least moderate and non destructive. </p>
+
+<p>Consistent ignoring, repressing, dominating, and feeling you are better than someone else creates a false sense of peace, then come more rules, laws, police, military, and finally more war. This is not a criticism of the so-called victim, it’s really a compassionate embracing and understanding of unconsciousness followed by a supportive nudge to wake up. Nothing ever happens out of the clear blue sky. The clouds were thick for days, months, decades, and in some cases centuries while everyone pretended it was a sunny day. </p>
+
+<p>Insights about the roles of the terrorist and victim can usually occur only with hindsight. In dealing with a victim (or a terrorist), we need at first to accept that she identifies herself as the innocent bystander. Then we must be ready to understand the victim’s deadly intent; retaliate and destroy the terrorist. Only after having had compassion with this one-sidedness, can we go to the next step. It is our experience that as long as you feel spiritually superior to the ‘victim’s’ (or the terrorist’s) aggressiveness, you should not try to help. Instead, realize that you too need help. You too are waging a kind of war and add to, but do not solve the problem. When you are ready, please go to the next step. </p>
+
+<h2>VI. How to Bring It All Together</h2>
+
+<p>If you’re not able to directly influence the military or negotiate at the peace tables, be a mayor or a president, you can still speak up in your group, your house of worship, on email, in local papers and with your neighbor next door. Know that war is everywhere, not just on a given battlefield. Terror is anytime you think about it. Your inner and outer work are all forms of ‘Worldwork’ touching a global field which influences a few or many individuals not only directly, but everyone indirectly through the quantum waves of non-locality. </p>
+
+<p>After finding your inward center, a source of quietness in the midst of movement, try the following. Using your knowledge of the terrorist and victim, speak for, feel for, and act out each side, one at a time. If you do it alone, it’s inner work. When done with others, this is group work. Do it on TV. It’s Worldwork. As the terrorist, speak of your hatred, speak of history. Speak of the things you stand for which are more important than your personal life. Don’t just act or play this out. This is not only roleplay. Let it be authentic, a deep and penetrating dance moving your body. Be a shaman and experience shape shifting into the nature of the forces of this universe. Feel the terrorist’s body and notice how the words coming from her/his mouth come from the marrow of your bones. Go deeply and way beyond anything you’ve ever done before. Use your awareness and let your feelings go to infinity. When this feels done, switch sides. </p>
+
+<p>Speak as the tortured ‘victim.’ Vehemently warn about your imminent retaliation. Describe all the personal and social privileges you know about, speak of your desire for peaceful, quiet, and loving relationships. Now go deeper. If you’re playing the US, get to the essence of New York. Not just the empire state building, but the lantern held proudly by that democratic spirit called the Statue of Liberty. Remember yourself as a dream of that home, an open door for those who have been oppressed. After admitting that you have not always been able to live that dream, remember your grandest vision and striving for democracy. Look into the roots of your heart and speak for 250 million people about the glimmer of hope that holds them together, a filament of light making them sometimes an unconscious monster but potentially an open heart, ready to accept anything, even those who have attacked her. If you could say this with honesty, to yourself, to others, to the papers and the TV, you have gone beyond the USA to the roots of democracy. Now it is time to go on. </p>
+
+<p>If you do this with others, amazing and unpredictable things may happen among participants. Carry on this conversation for a maximum of two hours, then let go and say goodbye to all the spirits on your inner or outer stages. Go home and think it over. As many things happen in silence as they do in public. There is much more to do. There’s a song to be sung about freedom and life, a dance and theater needing to recapitulate the essence of this world drama and the dream like realities unfolding before our amazed eyes. There are more dreams to dream on, the future to work with. Thank you for trying. We recognize this is too general to be used as such, but hopefully broad enough to inspire your engagement. ✡ </p>
+
+<p>(See Arny’s <a href="https://www.goodreads.com/book/show/1145867.Sitting_in_the_Fire">Sitting in the Fire</a> for more in-depth information.)</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3amin,
+        ns1:bcphbq3amym ;
+    ns1:hasTag ns1:bcphbq3amin,
+        ns1:bcphbq3amym,
+        ns1:bcphbuzcgu3 ;
+    ns1:itemId "bcpov6rsreci"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Short Recipe for Resolving Conflict Crises"^^xsd:string ;
+    ns1:urlSlug "short-recipe-for-resolving-conflict-crises"^^xsd:string .
 
 ns1:bcpov6rswoun a ns1:Post ;
     ns1:dateCreated "2005-04-01T11:32:52"^^xsd:dateTime ;
@@ -7561,6 +7665,34 @@ ns1:bcphbugth7l a ns1:Post ;
     ns1:profileImg "19.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "19.2"^^xsd:string .
 
+ns1:bcphbumhc4e a ns1:Post ;
+    ns1:coverImg "19.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2000-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.4-Dream-Network-Vol-19-No-4.pdf" download="">Download issue 19.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.4-Dream-Network-Vol-19-No-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobmu4ep ;
+    ns1:itemId "bcphbumhc4e"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 19, issue 4: Shamanism & Dreams I"^^xsd:string ;
+    ns1:profileImg "19.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "19.4"^^xsd:string .
+
+ns1:bcphbuzcgu3 a ns1:Post ;
+    ns1:coverImg "20.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf" download="">Download issue 20.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobpf6pi ;
+    ns1:itemId "bcphbuzcgu3"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 20, issue 4: Dreams and 9.11"^^xsd:string ;
+    ns1:profileImg "20.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "20.4"^^xsd:string .
+
 ns1:bcphbv3fbuv a ns1:Post ;
     ns1:coverImg "23.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2004-01-01T11:32:52"^^xsd:dateTime ;
@@ -7887,6 +8019,20 @@ ns1:bcphbq3alma a ns1:User ;
     ns1:name "Alma Verbunt"^^xsd:string ;
     ns1:profileImg "author-alma-verbunt.jpg"^^xsd:string .
 
+ns1:bcphbq3amym a ns1:User ;
+    ns1:coverImg "cover-author-amy-mindell.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.aamindell.net/">aamindell.net</a></p>
+
+<p>Dr. Amy Mindell is in private therapeutic practice in Portland, Oregon and teaches in many countries in the world. She helped developed process work in the areas of coma, creativity, dance, and facilitator styles.</p>
+
+<p>She holds a M.A. and Ph.D. in psychology and is a diplomate of the Process Oriented Psychology Center of Zurich. She has written many books such as <em>Metaskills: The Spiritual Art of Therapy</em>, <em>The Dreaming Source of Creativity</em>, <em>Alternative to Therapy</em> and her newest book, <em>Your Unique Facilitator Style</em>, as well as papers in professional journals. (Her studies of the feeling skills in therapy, or “metaskills”, are at the core of much of her work.). Amy is also an artist, puppet-maker, singer-songwriter, and dancer. Her most recent musical CD is called, First Bloom. </p>
+"""^^xsd:string ;
+    ns1:handle "amymindell"^^xsd:string ;
+    ns1:itemId "bcphbq3amym"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dr. Amy Mindell"^^xsd:string ;
+    ns1:profileImg "author-amy-mindell.jpg"^^xsd:string .
+
 ns1:bcphbq3atki a ns1:User ;
     ns1:description """<p>Website: <a href="http://camerawilltravel.com/">camerawilltravel.com</a></p>
 
@@ -8004,19 +8150,6 @@ ns1:bcphbq3mast a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Linda Mastrangelo"^^xsd:string ;
     ns1:profileImg "author-linda-mastrangelo.jpg"^^xsd:string .
-
-ns1:bcphbq3mcle a ns1:User ;
-    ns1:description """<p>Website: <a href="https://www.changingworld.com/about-us">changingworld.com</a></p>
-
-<p>Once upon a time, there were no humans on the planet.  You may be too young to remember, but it seems the earth did just fine in those days.  The earth gave birth to an incredible, rich diversity of life, and yet maintained a delicate, sustainable balance between it all.  Even in the early days of human life, it seemed that we could be part of this magical balance as we found our niche and explored our possibilities.  Sure, we made mistakes in those days, but we could usually learn from those mistakes and try to do better in the next generation.</p>
-
-<p>But recently the humans seem to be acting like the worst kind of invasive species, spreading all over the planet, dominating, killing and destroying everything in sight.  The delicate balance of life has been seriously disrupted by humans.  What is happening here?  Will the humans finally win their war against nature and thus destroy all chance for balance to be restored?   What will it take for humans to change our ways, to strive again for some kind of balance?</p>
-"""^^xsd:string ;
-    ns1:handle "dickmcleester"^^xsd:string ;
-    ns1:itemId "bcphbq3mcle"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dick McLeester"^^xsd:string ;
-    ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
 
 ns1:bcphbq3mild a ns1:User ;
     ns1:description """<p>I joined Dream Network Journal in the early '90s and enjoyed it until it stopped publishing. Everything was then lost to a fire and I thought I would never again have access to these great magazines.</p>
@@ -8260,6 +8393,20 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:name "Volume 8, issue 4"^^xsd:string ;
     ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.4"^^xsd:string .
+
+ns1:bcphbq3amin a ns1:User ;
+    ns1:coverImg "cover-author-arnold-mindell.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.aamindell.net/">aamindell.net</a></p>
+
+<p>Dr. Arnold Mindell, or Arny, is also in private practice in Portland, Oregon, and teaches with his wife <a href="../@amymindell">Amy Mindell</a> around the world. He is known for his development of the “Dreambody” and “Process Work” (<a href="https://en.wikipedia.org/wiki/Process-oriented_psychology">process oriented psychology</a>).</p>
+
+<p>He is the author of 23 books in over 35 languages, including <em>Dreambody</em>, <em>The Shaman’s Body</em>, <em>Quantum Mind</em>, <em>Quantum Mind and Healing</em>, and <em>The Deep Democracy of Open Forums</em>. He is also known in the areas of diversity work and conflict management for his <em>Sitting in the Fire</em> and for his integration of psychology, ecology and physics, for his work on dreams, bodywork, relationships, and for interventions in near death situations. His latest works, <em>ProcessMind</em>, A User’s Guide to The Mind of God and Dance of the Ancient One, bring psychology, physics and spiritual traditions closer to one another. You can follow Arny on <a href="https://www.facebook.com/Arnold.Mindell/">Facebook</a>.</p>
+"""^^xsd:string ;
+    ns1:handle "arnoldmindell"^^xsd:string ;
+    ns1:itemId "bcphbq3amin"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dr. Arnold Mindell"^^xsd:string ;
+    ns1:profileImg "author-arnold-mindell.jpg"^^xsd:string .
 
 ns1:bcphbq3jean a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
@@ -8533,6 +8680,19 @@ ns1:bcphbq3king a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Marlene King"^^xsd:string ;
     ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
+
+ns1:bcphbq3mcle a ns1:User ;
+    ns1:description """<p>Website: <a href="https://www.changingworld.com/about-us">changingworld.com</a></p>
+
+<p>Once upon a time, there were no humans on the planet.  You may be too young to remember, but it seems the earth did just fine in those days.  The earth gave birth to an incredible, rich diversity of life, and yet maintained a delicate, sustainable balance between it all.  Even in the early days of human life, it seemed that we could be part of this magical balance as we found our niche and explored our possibilities.  Sure, we made mistakes in those days, but we could usually learn from those mistakes and try to do better in the next generation.</p>
+
+<p>But recently the humans seem to be acting like the worst kind of invasive species, spreading all over the planet, dominating, killing and destroying everything in sight.  The delicate balance of life has been seriously disrupted by humans.  What is happening here?  Will the humans finally win their war against nature and thus destroy all chance for balance to be restored?   What will it take for humans to change our ways, to strive again for some kind of balance?</p>
+"""^^xsd:string ;
+    ns1:handle "dickmcleester"^^xsd:string ;
+    ns1:itemId "bcphbq3mcle"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dick McLeester"^^xsd:string ;
+    ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
 
 ns1:bcphbq3ryan a ns1:User ;
     ns1:coverImg "cover-chris-ryan.jpg"^^xsd:string ;
@@ -8987,7 +9147,7 @@ ns1:bcphbqvcors a ns1:User ;
 
 <p>Bambi’s passion and exploration of dreamwork spans over forty years having journaled over eight thousand of her own dreams. She says that working with her dreams for so many years has given her tremendous insight into every aspect of her life; physical, mental, emotional and spiritual. Knowing the immense guidance and wisdom available through dreamwork, she has dedicated her life to teaching others to work with and understand their dreams to help bring consciousness and awareness to the ways in which we are informed by the dreamtime to live a more passionate, purposeful and authentic life. She is an avid lover and animals and nature and advocates for their wellbeing, survival and conservancy. </p>
 
-<p>Bambi holds two certifications in Dream Tending, taught by Dr. Stephen Aizenstat of Pacifica Graduate Institute. She serves on the Southern California IASD Regional Committee and has been a member of the International Association for the Study of Dreams for twenty years. Bambi was a review editor for The Dream Network Magazine for nine years and is and certified as a Law of Attraction Certified Coach through The Quantum Success Coaching Academy and a Tarotpy Practitioner through the Institute of Dreams and Tarotpy®. She is also a contributing author for the book, <em>101 Great Ways to Enhance your Career</em>.</p>
+<p>Bambi holds two certifications in Dream Tending, taught by Dr. Stephen Aizenstat of Pacifica Graduate Institute. She serves on the Southern California IASD Regional Committee and has been a member of the International Association for the Study of Dreams for twenty years. Bambi was a review editor for The Dream Network Magazine for nine years and is and certified as a Law of Attraction Certified Coach through The Quantum Success Coaching Academy and a Tarotpy Practitioner through the Institute of Dreams and Tarotpy®. She is also a contributing author for the book, <em>101 Great Ways to Enhance your Career.</em></p>
 
 <p>Please visit her website at <a href="https://bambicorso.com/">www.BambiCorso.com</a>. </p>
 

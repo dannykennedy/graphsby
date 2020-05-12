@@ -4120,6 +4120,53 @@ ns1:bcpov6wbyg5 a ns1:Post ;
     ns1:profileImg "welcome-to-the-magic-theater-sml.jpg"^^xsd:string ;
     ns1:urlSlug "welcome-to-the-magic-theater"^^xsd:string .
 
+ns1:bcpov6zbincu a ns1:Post ;
+    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zbpion-0.jpg" alt="Castle in the sky" width="400" height="auto"/></p>
+
+<p></a></p>
+
+<p>I have been searching for a new career. As various offers have come my way, I incubate a dream to see if this is the correct job opportunity for me to pursue. </p>
+
+<p>On one occasion, I dreamt that:</p>
+
+<blockquote>
+  <p><em>I saw a set of dice about to be tossed. They had rhinestones or diamonds where the black dots should be.</em></p>
+</blockquote>
+
+<p>I interpreted this to mean that the job was a gamble, or a toss of the die. It could be lucrative, but it was a definite risk. I did not pursue this job offer. </p>
+
+<p>On another occasion, I dreamt that:</p>
+
+<blockquote>
+  <p><em>My husband and I were both working for the company that had offered me a position. We had to sign up to volunteer work at a marathon. My husband was more enthusiastic about volunteering than I was.</em></p>
+</blockquote>
+
+<p>I interpreted this to mean that the job would be a long haul with very little income. I chose to pass on the offer. </p>
+
+<p>During this past June I came upon an opportunity to run my own business. The more I explored the concept, the more excited I became. It seemed that I had at last found the correct occupation that would make use of my talents. The dream I had to clarify the pursuit of this occupation was as follows.</p>
+
+<blockquote>
+  <p><em>I see a very handsome young man walking toward me in the hall of the college that I attend in the dream. I wish that I could somehow meet him and have lunch with him because I am powerfully attracted to him. Obviously he feels that same way when he sees me because he turns around in the hall and approaches me. We carry on a conversation. I tell him I'm a senior and he indicates that he is a freshman transfer student. He should be a sophomore, but he lost credits when he transferred. I wonder if I'll be teased about him being younger than I am. Later on, he shows up at the dorm room I share with a learning disabilities teacher. He and I kiss passionately, and I'm hooked!</em></p>
+  
+  <p><em>We are now in a bed making love and I'm wondering why me breasts aren't as aroused as they usually are during passionate love-making. This is my first sense that maybe this relationship isn't all that it's supposed to be... Even though I'm extremely aroused and passionately involved.</em> </p>
+  
+  <p><em>The scene changes. We're in a car and he stops to buy some drugs. The police pull us over. The like him because of his easy manner and good looks. He is let off the hook with a warning. Meanwhile, the whole time we're in the car, I'm still passionately aroused and desperately want a climax but never achieve one.</em></p>
+</blockquote>
+
+<p><br></p>
+
+<p>I interpreted this dream to mean that though the job was seductive and I was passionately exploring this as an occupation, it had the possibility of some real problems for me in the future (actually drugs could easily be hidden and transported in this business). It also indicated that I would be left without fulfilment, the climax I so desperately wanted in the dream. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqpionk ;
+    ns1:hasTag ns1:bcphbqpionk,
+        ns1:bcphbtj7a2e ;
+    ns1:itemId "bcpov6zbincu"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Incubating for a New Career"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zbpion-0.jpg"^^xsd:string ;
+    ns1:urlSlug "incubating-dreams-for-a-new-career"^^xsd:string .
+
 ns1:bcpov6zbotdm a ns1:Post ;
     ns1:dateCreated "2005-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="https://www.amazon.com/Dreamers-Book-Dead-Travelers-Guide/dp/1594770379"></p>
@@ -7637,20 +7684,6 @@ ns1:bcphbs4b6on a ns1:Post ;
     ns1:profileImg "17.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.1"^^xsd:string .
 
-ns1:bcphbtj7a2e a ns1:Post ;
-    ns1:coverImg "17.4-18.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&-18-No-1.pdf" download="">Download issue 17.4-18.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&-18-No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobdubou ;
-    ns1:itemId "bcphbtj7a2e"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 17, issue 4: Creative Dreamwork in the Central Corridor"^^xsd:string ;
-    ns1:profileImg "17.4-18.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "17.4-18.1"^^xsd:string .
-
 ns1:bcphbugth7l a ns1:Post ;
     ns1:coverImg "19.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
@@ -8220,6 +8253,15 @@ ns1:bcphbqftrow a ns1:User ;
     ns1:name "Bob Trowbridge"^^xsd:string ;
     ns1:profileImg "author-bob-trowbridge.jpg"^^xsd:string .
 
+ns1:bcphbqpionk a ns1:User ;
+    ns1:description """<p>Patricia Pionke is a long time reader of and occasional contributor to the Dream Network Journal. </p>
+"""^^xsd:string ;
+    ns1:handle "patriciapionke"^^xsd:string ;
+    ns1:itemId "bcphbqpionk"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Patricia Pionke"^^xsd:string ;
+    ns1:profileImg "dnj-text.jpg"^^xsd:string .
+
 ns1:bcphbqsbonn a ns1:User ;
     ns1:coverImg "cover-author-gary-bonnell.jpg"^^xsd:string ;
     ns1:description """<p>Websites: <a href="https://www.garybonnell.com/">garybonnell.com</a>, <a href="https://garybonnellmysticalstudies.com">garybonnellmysticalstudies.com</a></p>
@@ -8309,6 +8351,20 @@ ns1:bcphbte5ugv a ns1:Post ;
     ns1:name "Volume 17, issue 3: Exploring Dreams' Relationship to Mythology"^^xsd:string ;
     ns1:profileImg "17.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.3"^^xsd:string .
+
+ns1:bcphbtj7a2e a ns1:Post ;
+    ns1:coverImg "17.4-18.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&-18-No-1.pdf" download="">Download issue 17.4-18.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&-18-No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobdubou ;
+    ns1:itemId "bcphbtj7a2e"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 17, issue 4: Creative Dreamwork in the Central Corridor"^^xsd:string ;
+    ns1:profileImg "17.4-18.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "17.4-18.1"^^xsd:string .
 
 ns1:bcphbwpd2l7 a ns1:Post ;
     ns1:coverImg "24.3-cover.jpg"^^xsd:string ;

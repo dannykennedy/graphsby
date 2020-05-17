@@ -2952,6 +2952,81 @@ ns1:bcpov6mobnot a ns1:Post ;
     ns1:name "Dreaming Another Language: She Will Not Kill"^^xsd:string ;
     ns1:urlSlug "dreaming-another-language-she-will-not-kill"^^xsd:string .
 
+ns1:bcpov6modart a ns1:Post ;
+    ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.goodreads.com/book/show/5027066-the-dreaming-way"></p>
+
+<p><img src="../images/post-bcpov6modart-0.jpg" width="200" height="auto" alt="The Dreaming Way Book"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>The Art of Dreaming, Published 2001 by Conari Press, 220 pp.</i></div><!--/nopreview--></p>
+
+<p>Whether you are a seasoned dream worker or relatively new to exploring the dreamscape, Jill Mellick has something of value to offer in her book <em>The Art of Dreaming</em>. An intelligent writer who has worked closely with renowned Jungian analyst Marion Woodman, Jill Mellick respects her readers’ intelligence and innate capacity to draw their own conclusions regarding dreams. Rather than presenting trite, narrowing definitions of dream material, Dr. Mellick suggests quick and surprisingly simple ways to delve deeper into dream images and open them to larger meaning, helping ground them in the context of waking life. Using creative tools such as word play, mask making, mapping, clay, drama and dance, <em>The Art of Dreaming</em> is as practical as it is poetic. Mellick shows dreamers how to work in their own way and that dreamwork does not need to be tedious or overly analytical. </p>
+
+<p>Sections include Expressive Dream Work in 5 minutes, Expressive Dream Work in 10-15 minutes, Expressive Dream Work with Nightmares, Expressive Dream Work with Recurring Dreams and Series, as well as The Care and Feeding of Dream Figures and Animals. There is also an extremely helpful set of guidelines for establishing a working dream group as well as a glistening and thoughtful bibliography. For anyone looking to delve more deeply into the mysteries of the unconscious, this book provides inspiring techniques to further tend the images of the soul as they appear in our dreams. ℘</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvbird ;
+    ns1:hasTag ns1:bcphbqvbird,
+        ns1:bcphbwfw4rc ;
+    ns1:itemId "bcpov6modart"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Art of Dreaming: Tools for Creative Dream Work by Jill Mellick"^^xsd:string ;
+    ns1:profileImg "post-bcpov6modart-0.jpg"^^xsd:string ;
+    ns1:urlSlug "the-art-of-dreaming-book-review"^^xsd:string .
+
+ns1:bcpov6modway a ns1:Post ;
+    ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.goodreads.com/book/show/5027066-the-dreaming-way"></p>
+
+<p><img src="../images/post-bcpov6modway-0.jpg" width="200" height="auto" alt="The Dreaming Way Book"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>The Dreaming Way, Published 2000 by Spring Journal Inc, 174 pp.</i></div><!--/nopreview--></p>
+
+<p>At once tender and powerful, <em>The Dreaming Way</em> chronicles a two-year relationship between artist and dreamer Susan Snow and her therapist Patricia Reis. Dreams and their accompanying artwork are presented together with commentary by each woman, allowing the sometimes gentle and sometimes fierce dreamscape to unfold. As readers, we become co-journeyers in this process, meeting all the places where memory and dreaming intersect. All of the initial awe, power and mystery of the dream are preserved for the reader, and we are allowed to be the proverbial fly on the wall during these amazing sessions. </p>
+
+<p>Following the presentation of the session material, there is commentary on both the artistic, the creative process Susan followed and also a reflection by Reis on the teachings drawn from the dreamwork. A retrospective conversation with Annie G. Rogers follows, further unveiling the magnificence of this empathic, healing collaboration. <em>The Dreaming Way</em> is a testament to the power of a safe therapeutic container and to the possibility of recovery offered to victims of trauma when voice is risked and the thread of creativity and dream is followed within it. Whether you are an artist, dreamer or therapist, you will find something of value in this unique and precious offering.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvbird ;
+    ns1:hasTag ns1:bcphbqvbird,
+        ns1:bcphbwfw4rc ;
+    ns1:itemId "bcpov6modway"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Dreaming Way: Dreamwork and Art for Remembering and Recovery by Patricia Reis and Susan Snow"^^xsd:string ;
+    ns1:profileImg "post-bcpov6modway-0.jpg"^^xsd:string ;
+    ns1:urlSlug "the-dreaming-way-book-review"^^xsd:string .
+
+ns1:bcpov6mossr2 a ns1:Post ;
+    ns1:dateCreated "2005-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.goodreads.com/en/book/show/236065.Dreamways_of_the_Iroquois"></p>
+
+<p><img src="../images/post-bcpov6mossr2-0.jpg" width="200" height="auto" alt="Dreamways of the Iriquois Book"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Dreamways of the Iriquois, Published 2004 by Destiny Books, 288 pp.</i></div><!--/nopreview--></p>
+
+<p>Some books I tend to fall right into. The author is immediately credible, my heart is engaged. The message is genuine. In reviewing these books, I almost don’t have to read every word; I just do because I am enriched by the author’s contribution. I savor and value every word. With Moss’ latest contribution to the dream literature, <em>Dreamways of the Iroquois</em>, I wanted to feel that way. I wanted to believe in his work, his writings, his message and his vision and hopes, his true and deep belief in the possibility and potential of dreaming, but his ego kept getting in the way. I kept reading, hoping the information would be new, that depth would creep in, and that the writing would begin to click the way it does in a good book. I continued to hope that the author’s egocentricity would fall away and allow the messages from the dreamtime to speak on their own behalf. Despite his best efforts, Moss failed to accomplish these tasks. I believe that this failure clouded the message of this book. This is quite a sad thing indeed. Who else but Moss would conduct a workshop and use his own dreams to illustrate the technique he is trying to teach?! </p>
+
+<p>Perhaps I am cynical, though. Had I encountered Island Woman or had the amazing visitations and dreams, both sleeping and waking, that Moss did; if those synchronicities had occurred in my life; and if I began dreaming in an ancient language that turned out to be Iroquois, I might feel chosen and special too. I might well have been puffed with self importance. Yet these pathways do exist, and I applaud his efforts and diligence in transmitting this information, these vital dreamways to other worlds and other times, so that they are not irretrievably lost. Whether he chose the Iroquois path, that of the Santeria, or of the Kogi or other indigenous peoples, Moss has traveled and learned a lot. </p>
+
+<p>The book is an odd mixture in four parts. Part one consists of Moss’s personal story of leaving his success-filled life and the spontaneous dreaming that seemed to spring from the land itself. Mythistory comprises part 2, dreamed, not channeled, information from various time travels and shamanic journeys, retelling the creation myth, the stories of Sky Woman, Hiawatha and the battling light and dark Twins. Moss states that he has lived and dreamed these stories, but omits what that means exactly. As with most of this book, we take it on faith, believing in the power and truth of dreams. Part 3 delivers the wisdom of Island Woman in her own voice. She reminds us that we have souls and how desperately important that is in today’s often apathetic world. She tells us that dreams require action and that we can travel forward or back in time in our dreams. We are reminded that we have power animals and of the potential for power to be used in service to either the dark or the light. Part 4 brings the ancient dreamways to our daily lives, Moss’s Shaman at the breakfast table, so to speak. In this section of the book, he outlines what he terms <em>Lightning Dreamwork</em>, a quick and easy way to extract essence from a dream. Soul loss, dreaming for others, dream journals, dream theater, creating dream talismans and dream poetry are all discussed. We are shown ways to bring the images and messages contained in our dreams into full use, as medicine for us individually and as a troubled culture. </p>
+
+<p>If you love dreams and dreaming, if you already or are ready to believe in their power, potential, and possibility to transport you across time and space, to be precognitive, to demonstrate pathways to healing and other worlds; if you have ever wanted to shed the corporate shuffle and live from your heart, and if you can compassionately forgive and read through an author’s egoist inflation, then this book is certainly for you. Moss’s desire to “help rebirth a dreaming culture” is important. His passion for using dreams for healing both personally and collectively is an intent worth holding and nurturing. As global consciousness is brought to higher levels and we choose to listen and learn from our dreams, we must remember that they are a divine language that we share, not only between human beings, but with the animal and natural worlds as well.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvbird,
+        ns1:bcphbqvcors ;
+    ns1:hasTag ns1:bcphbqvbird,
+        ns1:bcphbqvcors,
+        ns1:bcphbwmlvfh ;
+    ns1:itemId "bcpov6mossr2"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreamways of the Iriquois: Honoring the Secret Wishes of the Soul by Robert Moss"^^xsd:string ;
+    ns1:profileImg "post-bcpov6mossr2-0.jpg"^^xsd:string ;
+    ns1:urlSlug "dreamways-of-the-iriquois-book-review"^^xsd:string .
+
 ns1:bcpov6msapoc a ns1:Post ;
     ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<blockquote>
@@ -7144,6 +7219,31 @@ ns1:bcpov6zreedr a ns1:Post ;
     ns1:profileImg "post-bcpov6zreedr-0.jpg"^^xsd:string ;
     ns1:urlSlug "henry-reed-dream-medicine-book-review"^^xsd:string .
 
+ns1:bcpov6zruizr a ns1:Post ;
+    ns1:dateCreated "2005-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.goodreads.com/book/show/81939.The_Mastery_of_Love"></p>
+
+<p><img src="../images/post-bcpov6zruizr-0.jpg" width="200" height="auto" alt="The Mastery of Love Book"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>The Mastery of Love, first published January 1st 1999, 240 pp.</i></div><!--/nopreview--></p>
+
+<p>Based on the Toltec tradition of the guidance of the fundamental three masteries, Don Miguel Ruiz guides us through the third of these which is the Mastery of Love. If we can master love, we master life itself. One anonymous reviewer on Amazon.com called this book “a courageous exploration of what it takes to experience being human in all its fullness,” and I completely agree. It cuts to the chase with simple easy language and clear and concise reasoning. This is not so much a book about dreams as it is a book about self love. </p>
+
+<p>If you are not well versed in the notions of boundaries, projections and expectations, personal accountability, core shame and family of origin issues, and you’d rather not spend thousands of dollars and hundreds of hours in therapy unraveling it all, then this easy to comprehend audio CD is a delightful alternative. It will show you how impossible it is to find love in another when you are unable to locate it internally. You come to understand how you began as a perfect being and how your emotional life developed from that point of perfection. It quickly becomes obvious that there is a choice to follow a path of suffering and pain in an endless, recurring cycle (the dream of hell), or to make a conscious choice to break that cycle, master the dream and live in happiness. The how and why of broken hopes and relationships, the simplicity of cause and effect become instantly clear with a first listening of the audio book, and somehow even more so with repeated play.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvbird,
+        ns1:bcphbqvcors ;
+    ns1:hasTag ns1:bcphbqvbird,
+        ns1:bcphbqvcors,
+        ns1:bcphbwmlvfh ;
+    ns1:itemId "bcpov6zruizr"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Mastery of Love: A Practical Guide to the Art of Relationships, By Don Miguel Ruiz"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zruizr-0.jpg"^^xsd:string ;
+    ns1:urlSlug "the-mastery-of-love-book-review"^^xsd:string .
+
 ns1:bcpov6zssong a ns1:Post ;
     ns1:dateCreated "2009-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zssong-0.jpg" width="300" height="auto" alt="Bambi Corso"/></p>
@@ -7781,34 +7881,6 @@ ns1:bcphbw4yscz a ns1:Post ;
     ns1:name "Volume 25, issue 2: A Tribute to Monte Ullman"^^xsd:string ;
     ns1:profileImg "25.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "25.2"^^xsd:string .
-
-ns1:bcphbwfw4rc a ns1:Post ;
-    ns1:coverImg "23.4-24.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf" download="">Download issue 23.4-24.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobxze6k ;
-    ns1:itemId "bcphbwfw4rc"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 23, issue 4: Dreaming as a Practice"^^xsd:string ;
-    ns1:profileImg "23.4-24.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "23.4-24.1"^^xsd:string .
-
-ns1:bcphbwmlvfh a ns1:Post ;
-    ns1:coverImg "24.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2005-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_24/24.2_facing_fear.pdf" download="">Download issue 24.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_24/24.2_facing_fear.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqob23yct ;
-    ns1:itemId "bcphbwmlvfh"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 24, issue 2: Facing & Embracing Fear"^^xsd:string ;
-    ns1:profileImg "24.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "24.2"^^xsd:string .
 
 ns1:bcphbxxscsf a ns1:Post ;
     ns1:coverImg "27.2-cover.jpg"^^xsd:string ;
@@ -8495,6 +8567,34 @@ ns1:bcphbq3pimm a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bobbie Ann Pimm"^^xsd:string ;
     ns1:profileImg "author-bobbie-ann.jpg"^^xsd:string .
+
+ns1:bcphbwfw4rc a ns1:Post ;
+    ns1:coverImg "23.4-24.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf" download="">Download issue 23.4-24.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobxze6k ;
+    ns1:itemId "bcphbwfw4rc"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 23, issue 4: Dreaming as a Practice"^^xsd:string ;
+    ns1:profileImg "23.4-24.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "23.4-24.1"^^xsd:string .
+
+ns1:bcphbwmlvfh a ns1:Post ;
+    ns1:coverImg "24.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2005-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_24/24.2_facing_fear.pdf" download="">Download issue 24.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_24/24.2_facing_fear.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqob23yct ;
+    ns1:itemId "bcphbwmlvfh"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 24, issue 2: Facing & Embracing Fear"^^xsd:string ;
+    ns1:profileImg "24.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "24.2"^^xsd:string .
 
 ns1:bcphbz5vgog a ns1:Post ;
     ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
@@ -9185,6 +9285,26 @@ ns1:bcphbqfmetz a ns1:User ;
     ns1:name "Deena Metzger"^^xsd:string ;
     ns1:profileImg "author-deena-metzger.jpg"^^xsd:string .
 
+ns1:bcphbqvbird a ns1:User ;
+    ns1:coverImg "cover-author-kim-birdsong.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://tendingdreams.com/">tendingdreams.com</a></p>
+
+<p>Kim Birdsong was born and adopted in Naples, Italy, and has lived most of her life on the Monterey Peninsula. She was a review editor for the Dream Network Journal for many years. </p>
+
+<p>Her background includes a master’s degree in Transpersonal Psychology and a graduate certificate in Women’s Spiritual Development. Kim spent 10 years working with trauma survivors, combining her training in trauma care with her specialized knowledge of DreamTending, ritual and the use of art in healing. For three years, she hosted her own radio show, “Spirit Matters.” She served as  Client Services Manager for the Monterey County Rape Crisis Center for eight years.</p>
+
+<blockquote>
+  <p><em>“It is my belief that a curious, compassionate outlook and a creative response have the power to bring about true and lasting healing, both personally and collectively.”</em></p>
+</blockquote>
+
+<p>Kim offers individual and group sessions in DreamTending, Dr. Stephen Aizenstat's method of working with dreams, and is also a photographer and collage artist. </p>
+"""^^xsd:string ;
+    ns1:handle "kimbirdsong"^^xsd:string ;
+    ns1:itemId "bcphbqvbird"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Kim Birdsong"^^xsd:string ;
+    ns1:profileImg "author-kim-birdsong.jpg"^^xsd:string .
+
 ns1:bcphbqvbulk a ns1:User ;
     ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://kellybulkeley.org/">kellybulkeley.org</a></p>
@@ -9196,32 +9316,6 @@ ns1:bcphbqvbulk a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Kelly Bulkeley"^^xsd:string ;
     ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
-
-ns1:bcphbqvcors a ns1:User ;
-    ns1:coverImg "cover-author-bambi-corso.jpg"^^xsd:string ;
-    ns1:description """<p>Author, DreamTracker, Law of Attraction Certified Coach </p>
-
-<p>Bambi’s passion and exploration of dreamwork spans over forty years having journaled over eight thousand of her own dreams. She says that working with her dreams for so many years has given her tremendous insight into every aspect of her life; physical, mental, emotional and spiritual. Knowing the immense guidance and wisdom available through dreamwork, she has dedicated her life to teaching others to work with and understand their dreams to help bring consciousness and awareness to the ways in which we are informed by the dreamtime to live a more passionate, purposeful and authentic life. She is an avid lover and animals and nature and advocates for their wellbeing, survival and conservancy. </p>
-
-<p>Bambi holds two certifications in Dream Tending, taught by Dr. Stephen Aizenstat of Pacifica Graduate Institute. She serves on the Southern California IASD Regional Committee and has been a member of the International Association for the Study of Dreams for twenty years. Bambi was a review editor for The Dream Network Magazine for nine years and is and certified as a Law of Attraction Certified Coach through The Quantum Success Coaching Academy and a Tarotpy Practitioner through the Institute of Dreams and Tarotpy®. She is also a contributing author for the book, <em>101 Great Ways to Enhance your Career.</em></p>
-
-<p>Please visit her website at <a href="https://bambicorso.com/">www.BambiCorso.com</a>. </p>
-
-<p>You can also follow Bambi here:</p>
-
-<p><a href="http://www.twitter.com/bambicorso">http://www.twitter.com/bambicorso</a></p>
-
-<p><a href="http://www.facebook.com/bambicorsosfanpage">http://www.facebook.com/bambicorsosfanpage</a></p>
-
-<p><a href="http://www.youtube.com/bambicorso">http://www.youtube.com/bambicorso</a></p>
-
-<p><a href="http://www.linkedin.com/in/bambicorso">http://www.linkedin.com/in/bambicorso</a></p>
-"""^^xsd:string ;
-    ns1:handle "bambicorso"^^xsd:string ;
-    ns1:itemId "bcphbqvcors"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Bambi Corso"^^xsd:string ;
-    ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
 
 ns1:bcphbqvreed a ns1:User ;
     ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
@@ -9298,6 +9392,32 @@ ns1:bcpqn7zvpei a ns1:Post ;
     ns1:name "Volume 1"^^xsd:string ;
     ns1:profileImg "volume-1.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-1"^^xsd:string .
+
+ns1:bcphbqvcors a ns1:User ;
+    ns1:coverImg "cover-author-bambi-corso.jpg"^^xsd:string ;
+    ns1:description """<p>Author, DreamTracker, Law of Attraction Certified Coach </p>
+
+<p>Bambi’s passion and exploration of dreamwork spans over forty years having journaled over eight thousand of her own dreams. She says that working with her dreams for so many years has given her tremendous insight into every aspect of her life; physical, mental, emotional and spiritual. Knowing the immense guidance and wisdom available through dreamwork, she has dedicated her life to teaching others to work with and understand their dreams to help bring consciousness and awareness to the ways in which we are informed by the dreamtime to live a more passionate, purposeful and authentic life. She is an avid lover and animals and nature and advocates for their wellbeing, survival and conservancy. </p>
+
+<p>Bambi holds two certifications in Dream Tending, taught by Dr. Stephen Aizenstat of Pacifica Graduate Institute. She serves on the Southern California IASD Regional Committee and has been a member of the International Association for the Study of Dreams for twenty years. Bambi was a review editor for The Dream Network Magazine for nine years and is and certified as a Law of Attraction Certified Coach through The Quantum Success Coaching Academy and a Tarotpy Practitioner through the Institute of Dreams and Tarotpy®. She is also a contributing author for the book, <em>101 Great Ways to Enhance your Career.</em></p>
+
+<p>Please visit her website at <a href="https://bambicorso.com/">www.BambiCorso.com</a>. </p>
+
+<p>You can also follow Bambi here:</p>
+
+<p><a href="http://www.twitter.com/bambicorso">http://www.twitter.com/bambicorso</a></p>
+
+<p><a href="http://www.facebook.com/bambicorsosfanpage">http://www.facebook.com/bambicorsosfanpage</a></p>
+
+<p><a href="http://www.youtube.com/bambicorso">http://www.youtube.com/bambicorso</a></p>
+
+<p><a href="http://www.linkedin.com/in/bambicorso">http://www.linkedin.com/in/bambicorso</a></p>
+"""^^xsd:string ;
+    ns1:handle "bambicorso"^^xsd:string ;
+    ns1:itemId "bcphbqvcors"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Bambi Corso"^^xsd:string ;
+    ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
 
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;

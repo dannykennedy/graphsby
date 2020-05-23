@@ -57,7 +57,7 @@ Dreams and visions were, functionally, the place of sacred energy exchange and i
 
 <img src="../images/post-bcpov6zditna-0.jpg" width="300">
 
-Tribes such as the Iroquois, Sioux, and Mojave were respected as very powerful dreamers and visionaries. Most of the important daily decision making was premised on dream wisdom and guidance. By midlife, many people could not distinguish between wisdom and experiences gained from the waking world or the dream world (Margolin, 1981, p.l17). There existed a seamless union of the two hemispheres of experience. An early explorer and Jesuit priest, Father Jean de Brebeuf, describes (albeit in a condescending manner) the central importance of dreams in the lives of the Hurons: 
+Tribes such as the Iroquois, Sioux, and Mojave were respected as very powerful dreamers and visionaries. Most of the important daily decision making was premised on dream wisdom and guidance. By midlife, many people could not distinguish between wisdom and experiences gained from the waking world or the dream world (Margolin, 1981, p.117). There existed a seamless union of the two hemispheres of experience. An early explorer and Jesuit priest, Father Jean de Brebeuf, describes (albeit in a condescending manner) the central importance of dreams in the lives of the Hurons: 
 
 > The dream is the oracle that these poor Peoples consult and listen to, the Prophet which predicts to them future events, the Cassandra which warns them of misfortunes that threaten them, the usual Physician in their sickness, the Esculapius and Galen of the whole Country-the most absolute master they have. If a Captain speaks one way and a dream another, the Captain might shout his head off in vain - the dream is first obeyed... The dream often presides in their councils; traffic, fishing, and hunting are undertaken usually under its sanction... They hold nothing so precious that they would not readily deprive themselves of it for the sake of a dream... It prescribes their feasts, their dances, their songs, their games - in a word, the dream does everything and is in truth the principal God of the Hurons (Vogel, 1982, p.21). 
 
@@ -93,7 +93,7 @@ The powers for healing, prophesy, spirit travel, and sacred education which Nati
 
 > This capacity of the Native mind to sustain the mythological presence of the transparent world, to integrate sacred time and geography with ordinary time and space, gives rise to a unique view of self in relation to all things and others, including those who dwell in the sacred or 'spirit' world, or as the Australian Natives call it, the "dreaming" (Amiotte, 1982, p.27).
 
-The individual dreamer offered important dreams back to the community where they could serve the common good and renew the mythic ground. Failure to bring important dreams back to the community might result in various forms of what we would call psychogenic illness, or even death. It was recognized that the structure and power of dream reality was much larger than our limited conscious reality, and that a large dream of common import, if kept inside the individual, could cause serious harm. The dream:myth cycle was so vital that "a song or myth was not considered known until it had been properly dreamed" (Margolin, 1981, p.l16). Conversely, a dream might reveal a song or mythic insight which would have to be ritually enacted, shaped, and dreamed on by the community. Jung has advised modem Westerners to "dream the myth onward", knowing that myths, like any living thing, are subject to disintegration and decay if not properly tended and inspirited. Native cultures understood their responsibility for tending myths through dream cryings and vision quests. In turn, the myths (the important, collective dreams) nourished and informed the individual's dreams and infused the dreamer with sacred energies - *orenda*. This was the state of dream consciousness in this country, Turtle Island, when the first white colonizers reached its shores.
+The individual dreamer offered important dreams back to the community where they could serve the common good and renew the mythic ground. Failure to bring important dreams back to the community might result in various forms of what we would call psychogenic illness, or even death. It was recognized that the structure and power of dream reality was much larger than our limited conscious reality, and that a large dream of common import, if kept inside the individual, could cause serious harm. The dream:myth cycle was so vital that "a song or myth was not considered known until it had been properly dreamed" (Margolin, 1981, p.116). Conversely, a dream might reveal a song or mythic insight which would have to be ritually enacted, shaped, and dreamed on by the community. Jung has advised modem Westerners to "dream the myth onward", knowing that myths, like any living thing, are subject to disintegration and decay if not properly tended and inspirited. Native cultures understood their responsibility for tending myths through dream cryings and vision quests. In turn, the myths (the important, collective dreams) nourished and informed the individual's dreams and infused the dreamer with sacred energies - *orenda*. This was the state of dream consciousness in this country, Turtle Island, when the first white colonizers reached its shores.
 
 ## The Unbroken Male 
 
@@ -146,6 +146,7 @@ On December 16, 1982 a group of Hopi Elders addressed the U.N. General Assembly 
 ## Healing the Broken Hoop from Within 
 
 > Atomic power is nothing compared to the power of the dream in each of us that is seeking emergence. *-David Spangler* 
+<br>
 
 > What is this dark and evil power 
 > come across the ocean to crush the wigwam? 
@@ -155,7 +156,7 @@ On December 16, 1982 a group of Hopi Elders addressed the U.N. General Assembly 
 > from this karma we're collecting so cheap? 
 > How will we ever free ourselves? 
 > Look way down deep... 
-> *-Dennis Pearne "Whispers of the Spirit" *
+> *-Dennis Pearne "Whispers of the Spirit"*
 
 In cultivating our dreamworlds, we turn away from our social masks and our official daytime stories about ourselves and our times. In. turning away from our pretences and shallowness, we generally encounter elements and images of our dark, unknown selves. The tension of opposites which Jung refers to is our ability to recognize and integrate our own darkness, evil, inferiority, and woundedness. This acceptance moves us toward humility, compassion, and forgiveness.on a personal and planetary level. Jung has said that in the projection of our shadow upon the world, we turn the world into a replica of our unseen face. Traditionally, we have projected our shadow selves onto other people, races, cultures, and countries. This is the psychological basis for our ontologically invalidating our enemies: the 'enemy' is our unknown, feared, and hated self. In our emptying our enemies of divine energy and human qualities, we deplete ourselves spiritually and psychically. In killing our enemies we kill the redemptive potential of our own wholeness. Once we have projected 'enemies', it follows that we must destroy them before they can destroy or contaminate our righteous and limited ego-perceptions.<sup>4</sup> 
 
@@ -173,14 +174,14 @@ The recovery of our dreamworlds puts us in attunement with sacred, unbroken ener
 
 The roots of dreams go deep - beyond our rational understanding or belief systems. World attitudes, like individual attitudes, change only through arational experience: conversion, illumination, revelation, grace. While it is vitally important to initiate and cultivate rational discourse and policy making concerning the nuclear threat, I believe it is equally important for each of us to tap into primal levels of life-desire if we are to reaffirm and revision our future on this planet. We must look 'way down deep' - make ecstatic contact with our oldest and wisest selves - if we hope to free ourselves from the dark momentum of our times and restore the broken hoop to wholeness.
 
-## FOOTNOTES 
+## Footnotes 
 
 1. This culture transcends national boundaries and represents a reality frame or mode of consciousness which is characterized by estrangement from and hostility towards the natural world. Starhawk describes this consciousness: "Its roots lie in the Bronze Age shift from matrifocal, Earthcentered cultures, whose religions centered around the Goddess and the gods embodied in nature, to patriarchal, urban cultures of conquest, whose gods inspired and supported war" (1982, p.174). 
 2. This sickness of distancing or disconnection constellates an aesthetic of I-it. This generates an attitude of ontological invalidation and psychic and physical violence toward the natural world and natural law. 
 3. Dream and spirit worlds were not 'metaphors' nor 'prescientific' and therefore inadequate understandings of the physical or psychological world; rather, they were ontologically real and vital beyond our current imaginings. 
 4. Shadow projection is, paradoxically, our most dangerous enemy. We see a frightening example of this problem on a national scale in Reagan's recent replacement of the Arms Control and Disarmament Director with an outspoken critic of detente. This led to fear and demoralization within the relatively conservative agency. According to one Foreign Relations Committee member: "Ken (Adelman) sees the Russians as the personification of evil itself, and it's very hard, if you have that view, to negotiate with them" (Denver Post, January 16, 1983, p.19a).
 
-## REFERENCES
+## References
 
 * Amiotte, A. Our Other Selves: The Lakota Dream Experience. Parabola, 1982, VII (2), 26-32.
 * Black Elk, The sacred pipe (Recorded and edited by Joseph Epes Brown). New York: Penguin Books, Ltd., 1971.

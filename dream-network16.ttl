@@ -433,20 +433,6 @@ ns1:bcphbn5gpez a ns1:Post ;
     ns1:profileImg "8.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.2"^^xsd:string .
 
-ns1:bcphbnagfeb a ns1:Post ;
-    ns1:coverImg "6.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1987-09-02T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.3-Dream-Network-Bulletin_Volume-6-Number-3.pdf" download="">Download issue 6.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.3-Dream-Network-Bulletin_Volume-6-Number-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaf5sto ;
-    ns1:itemId "bcphbnagfeb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 6, issue 3"^^xsd:string ;
-    ns1:profileImg "6.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "6.3"^^xsd:string .
-
 ns1:bcphbnhzqtk a ns1:Post ;
     ns1:coverImg "7.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1988-01-01T11:32:52"^^xsd:dateTime ;
@@ -3240,6 +3226,100 @@ ns1:bcpov6pimag a ns1:Post ;
     ns1:name "Satisfy the Image"^^xsd:string ;
     ns1:profileImg "satisfy-the-image-sml.jpg"^^xsd:string ;
     ns1:urlSlug "satisfy-the-image"^^xsd:string .
+
+ns1:bcpov6rcodpc a ns1:Post ;
+    ns1:dateCreated "1987-09-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6rcodpc-0.jpg" alt="Cloud alarm clock" width="300" height="auto"/></p>
+
+<p>Is a new social awareness about dreams emerging? Not just a few individuals here and there arriving at new heights of dream accomplishment: rather, a growing importance for groups of people who know what it means to safely share their dreams and help one another learn from them. And beyond a few groups, what would it look like for dreams to get real appreciation and respect from the entire society? Can you see it? No? Not even in small ways? </p>
+
+<p>Were this to happen, I think an amazing power would be unleashed that far surpasses what any individual dreamer can generate on their own. For our society, this would be a huge change from where we have been with dreams for some time. And yet I want to hold out that bold vision, as distant as it may seem at present. I want to encourage everyone to spend some time periodically fantasizing about what a difference society's appreciation might make. </p>
+
+<p>One source of inspiration for that vision is looking at other cultures for whom dreams have been in that special spotlight. One can see how many Native American tribes, Australian Aborigines and other indigenous peoples held the dreams in a central place in their collective lives. Some of the strongest inspiration in this vein can be found in fiction, such as the inspiring <em>Kin of Ata</em>, by Dorothy Bryant or Kilton Stewart's writing on the Senoi (<em>The Mystique of Dreams</em> considers this writing to be false as anthropology, yet I continue to find it inspiring and useful as fiction). </p>
+
+<p>These cultures, of course, are very different than our own. All of them lived much closer to nature. Most of them would be called primitive by our culture, usually with a derogatory tone. Yet perhaps we have been too quick to judge. I would at least suggest that we consider what we may have lost along the way, both in the ability to hold the dream in a central place of ho nor and in the ability to live in harmony with nature. Is this really the necessary cost of the civilization that we have developed? What kinds of changes would be needed to regain these abilities? </p>
+
+<p>Perhaps we can look at this particular vision in more depth in future columns, but I would also like to hear about the kind of vision that inspires and moves you. As dreamers, many of you understand the power of a strong vision and the importance of developing depth and clarity. I want to encourage you to be as bold as you can with your dream possibilities visions. In fact, be outrageous! After all, do the dreams themselves hold back? </p>
+
+<p>I realize that many readers may consider this suggestion to be merely an idle exercise in fantasy, or else a certain recipe for frustration. However, I think there are ways to ground our boldest visions in reality and avoid either danger.</p>
+
+<p>My first formula is simple (although it may seem difficult at first): High ideals, low expectations. In other words, develop really outrageous visions of what you would like, but do not expect them to develop soon, easily or maybe not at all. It is a paradox. but if you can hold that direction it can take you a long way. </p>
+
+<p>Here is another formula: Take one of those high ideals and ground it in a simple first step that might move you In that direction. Try it out and see what happens. Another way to think of it is to envision the big picture, the long journey, then break it down into smaller sized pieces. What is the first step on the journey that you might take? If that is still too big, what would a smaller step be? If it comes easily, what would be more of a challenge next? As things move along, does your original vision change? </p>
+
+<p>Final formula: Look at what is already happening that might be moving things in the direction of your vision and work with that. Ride on that energy, as well as encouraging it along. Use your intuition about what might be about to happen and go with the current when it is headed In your direction. Of course you may want to challenge and confront other events that run against the grain of your vision as well. </p>
+
+<p>What does all this mean in concrete specifics? I see a culture that is both hungry for what dreams can offer and at the same time very cut off from them. Where individuals break through the anti-dream biases of our culture to not only connect with their own dreams, but to take leadership in helping others to do so, this is inspiring! My bold vision of a dream-positive culture Is served by those people sharing information and support, and finding ways to encourage new leadership to emerge. </p>
+
+<p>I feel the networking happening in several ways. One is through publications such as this one, other journals and the many books that have come out on dreams. Secondly, I see it at international dream conferences which are now occurring on an annual basis. Both of these are big accomplishments. </p>
+
+<p>Third, there is networking that takes place on a local and regional level. This is most obvious in a few areas where formal networks have developed, such as the Metro DC Dream Community, The San Francisco Bay Area Professional Dreamworkers Support Group and the Montreal Centre for the Study of Dreams. I suspect many other areas have less formal networks going. </p>
+
+<p>These local networking efforts can serve a variety of functions. Simply sharing information and support is perhaps the most common. They can also be a way to reach out to new people and keep dreams in the public eye more effectively. They provide the nucleus for dream related conferences, festivals and other projects. </p>
+
+<p>While it may be very valuable to network with those whose involvement with dreams is similar to yours, there can also be huge benefits in connecting with those who work in very different ways. For instance, a person who gives workshops on the grassroots community level may develop a contact with a teacher in a local college who uses dreams. Or a therapist may find a scientist In the area. While there are big differences here, these people may have a lot to offer one another as allies. And by identifying common interests and ways they can help one another out, as well as appreciating differences, all can benefit. </p>
+
+<p>Local networking should be of particular interest to those who may not always be able to travel to larger international conferences. Further, over time these local/regional networks might be established in many areas, so as one traveled or moved about, they could simply plug in to the local network for sharing and support. While some networks will logically focus on one town, others will do better to start out with a regional focus, perhaps breaking down into smaller areas as they grow. At present my primary interest is to network within the New England region at large. Networks have functioned in New York City and Boston. Can these be revived? </p>
+
+<p>What is the most likely local/regional network in your area, what is already going on. and what is the best next step? I'd love to hear about both successes and failed attempts. as we can learn from both. </p>
+
+<p>Two more quick questions: Has anyone tried using movies and films about dreams to reach out and educate people? If you have, how did it work? If you were to try this, what would you recommend? I would like to pull together a filmography, including instructional films about dreams and dreamwork as well as popular films that have something to offer. In the latter category I think of "The Last Wave," ''The Lathe of Heaven," "Brazil," and even "Nightmare on Elm Street." What comes to your mind? </p>
+
+<p>If you have any dream films to suggest, send me the title, director/author, very brief review and where it can be obtained/cost if that is important. Review copies on VHS are welcome and will be given strong review consideration. If you need your copy back , write with details before sending. </p>
+
+<p>Finally, who can suggest a good source of pens with a light in them? Something that would work well for writing dreams down, perhaps low cost, good quality, that could be made available for dream workshop participants. Getting dreams recorded does not take much, but this can be a good tool and I'd love to know a good source. </p>
+
+<p>Do keep those cards and letters coming. A few have already rolled in and you will start seeing the results in my next column. Let's all join in to make this a real participatory space!</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3mcle ;
+    ns1:hasTag ns1:bcphbnagfeb,
+        ns1:bcphbq3mcle ;
+    ns1:itemId "bcpov6rcodpc"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "New Dreamtime: Envisioning a Dream-Positive Culture"^^xsd:string ;
+    ns1:profileImg "post-bcpov6rcodpc-0.jpg"^^xsd:string ;
+    ns1:urlSlug "envisioning-a-dream-positive-culture"^^xsd:string .
+
+ns1:bcpov6rcommi a ns1:Post ;
+    ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://en.wikipedia.org/wiki/The_Committee_of_Sleep"></p>
+
+<p><img src="../images/post-bcpov6rcommi-0.jpg" alt="The Committee of Sleep by Deirdre Barrett" width="300" height="auto"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://en.wikipedia.org/wiki/The_Committee_of_Sleep">The Committee of Sleep: How Artists, Scientists, and Athletes Use Dreams for Creative Problem Solving &amp; How You Can Too</a> by Deirdre Barrett, 2001, Crown Publishers, 211 pp.</i></div><!--/nopreview--></p>
+
+<p>In this excellent book, Deirdre Barrett details the most important dream-inspired discoveries and creative works of art, music, film, science and medicine that are known. She looks back over the historical record, as well as offering many first-hand interviews with dozens of contemporary people. While simply recounting and verifying these stories alone would make for a great book, the author goes beyond that to discuss many other fascinating topics along the way. </p>
+
+<p>She starts out with the uses of dreams in painting, sculpture, filmmaking, theater and literature. The uses of dreams in these disciplines reproduce dreams most closely, since their mediums are a natural fit with the imagery and story lines in dreams. Many artists have proclaimed dreams as their source of inspiration. For painting, she examines the dream experiences of William Blake and Salvador Dali, including a detailed description of Dali’s “slumber with a key” technique for catching artistic inspiration from hypnagogic dream imagery. She also discusses the process of a dream being turned into art, including dreams that at first simply seem to be nightmarish or problematic, and are only turned into artistic inspiration with time and work. </p>
+
+<p>When examining film, she looks at the work of Ingmar Bergman, Federico Fellini, Akira Kurosawa, Robert Altman and John Sayles. Along the way, we see how some filmmakers and painters use lucid dreaming to seek out artistic inspiration, and ponder how the proliferation of movies may be altering the nature of dreaming. </p>
+
+<p>In examining dream inspiration in literature, the book looks at Mary Wollstonecraft Shelly, Robert Louis Stevenson, Stephen King and many others. She quotes extensively from Naomi Epel’s excellent book, Writers Dreaming. She also gets her book title from the John Steinbeck quote, “It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.” Using the metaphor of the committee of sleep for dreams is powerful, but I suspect some will find it overdone and at times annoying. </p>
+
+<p>In the chapter on dream inspiration in music, we learn how the tune for Paul McCartney’s song Yesterday arrived in a dream. At first Paul thought he must have heard it from someone else, and since it arrived in a dream, it took some time to claim it as his own. And originally, it had no words, so he played with it under the name of “Scrambled Eggs.” The final version became the inspiration for the string sound of the Sgt. Pepper’s Lonely Hearts Club Band album, and has been played six million times on American radio, more than any other song. </p>
+
+<p>Billy Joel states that “all the music I have composed has come from a dream” and Joseph Shabalala, founder of Ladysmith Black Mambazo reports that he has dreamed music every single night of his life, always sung by a choir of children. This sparks discussion about the wide range of musicians who have gotten inspiration from dreams, some frequently, others as rare occurrences, some from hearing the music and others who were inspired by a visual dream. </p>
+
+<p>In her sections of scientific discoveries and inventions, we look at the famous discovery of the molecular structure of Benzene, and the invention of the sewing machine, along with many others. Along the way, the author examines some “urban legends” of discoveries made in dreams which further investigation reveals were not actually dream inspired. These include the discovery of the structure of DNA or the structure of the Atom. Clearly, these faulty stories give ammunition to those who dismiss altogether the idea of dream creativity. But as she shows in this book, most of the classic stories do check out. </p>
+
+<p>These chapters also include a good guide to ways that people can incubate a dream, focusing on a particular problem or issue one would like their dreams to address. She examines a wide range of ways that dreams have inspired discoveries and breakthroughs, even in a scientific culture where dream inspiration is not always highly thought of. </p>
+
+<p>In her chapter on dreams &amp; the body, she shows how dreams can offer medical diagnosis and treatment that was not consciously known, often in a symbolic form. Although not much research has been done in this area, she reports on what has been done. Further, she shows how many athletes have been able to practice and enhance their performance in dreams. A final chapter on Dreams in nonwestern cultures examines how an entire written alphabet was inspired by a dream and adopted in the African country of Liberia, when they had only used an oral tradition prior to that time. She also shows the part that Gandhi’s dreams of resistance played in the transformation of India into an independent state. Examples such as these and many others lead to discussion of cultures who honor dreams and listen to them more closely than our own. What might our culture learn from them? </p>
+
+<p>In our culture, dreams are seen as mostly personal and psychological, best viewed in therapy, as mediated by a professional therapist, if they are given any attention at all. As the author points out, many other books deal with the psychological aspects of dreams. This book will go a long way in giving dreams respectability outside of that narrow box. The discussion of how these dreams have been translated into creative expressions and Nobel-prize winning discoveries can be inspiring. The discussion of how to listen to dreams, how to increase lucid dreaming or incubate a dream, may encourage many readers to adopt these practices. </p>
+
+<p>In the end, the author concludes that dreams are neither consistently wise or consistently useless, but that dreaming is a different mode of thought, and its true power may lie in how dream inspiration can compliment waking thought. Further, she points out that we live in a dream-neglecting culture and may have much to learn by listening to those from dream-honoring cultures. This is an important book which I hope will be read by many.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3mcle ;
+    ns1:hasTag ns1:bcphbq3mcle,
+        ns1:bcphbuzcgu3 ;
+    ns1:itemId "bcpov6rcommi"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: The Committee of Sleep by Deirdre Barrett"^^xsd:string ;
+    ns1:profileImg "post-bcpov6rcommi-0.jpg"^^xsd:string ;
+    ns1:urlSlug "book-review-the-committee-of-sleep-deirdre-barrett"^^xsd:string .
 
 ns1:bcpov6reedi2 a ns1:Post ;
     ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
@@ -7909,6 +7989,20 @@ ns1:bcphblsydwp a ns1:Post ;
     ns1:profileImg "4.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.2"^^xsd:string .
 
+ns1:bcphbnagfeb a ns1:Post ;
+    ns1:coverImg "6.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1987-09-02T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.3-Dream-Network-Bulletin_Volume-6-Number-3.pdf" download="">Download issue 6.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.3-Dream-Network-Bulletin_Volume-6-Number-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaf5sto ;
+    ns1:itemId "bcphbnagfeb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 6, issue 3"^^xsd:string ;
+    ns1:profileImg "6.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "6.3"^^xsd:string .
+
 ns1:bcphbndh32i a ns1:Post ;
     ns1:coverImg "6.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1987-11-01T11:32:52"^^xsd:dateTime ;
@@ -8118,20 +8212,6 @@ ns1:bcphbumhc4e a ns1:Post ;
     ns1:name "Volume 19, issue 4: Shamanism & Dreams I"^^xsd:string ;
     ns1:profileImg "19.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "19.4"^^xsd:string .
-
-ns1:bcphbuzcgu3 a ns1:Post ;
-    ns1:coverImg "20.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf" download="">Download issue 20.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobpf6pi ;
-    ns1:itemId "bcphbuzcgu3"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 20, issue 4: Dreams and 9.11"^^xsd:string ;
-    ns1:profileImg "20.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "20.4"^^xsd:string .
 
 ns1:bcphbv3fbuv a ns1:Post ;
     ns1:coverImg "23.1-cover.jpg"^^xsd:string ;
@@ -8754,6 +8834,20 @@ ns1:bcphbtj7a2e a ns1:Post ;
     ns1:profileImg "17.4-18.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.4-18.1"^^xsd:string .
 
+ns1:bcphbuzcgu3 a ns1:Post ;
+    ns1:coverImg "20.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf" download="">Download issue 20.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobpf6pi ;
+    ns1:itemId "bcphbuzcgu3"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 20, issue 4: Dreams and 9.11"^^xsd:string ;
+    ns1:profileImg "20.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "20.4"^^xsd:string .
+
 ns1:bcphbwpd2l7 a ns1:Post ;
     ns1:coverImg "24.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2005-07-01T11:32:52"^^xsd:dateTime ;
@@ -9139,19 +9233,6 @@ ns1:bcphbq3king a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Marlene King"^^xsd:string ;
     ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
-
-ns1:bcphbq3mcle a ns1:User ;
-    ns1:description """<p>Website: <a href="https://www.changingworld.com/about-us">changingworld.com</a></p>
-
-<p>Once upon a time, there were no humans on the planet.  You may be too young to remember, but it seems the earth did just fine in those days.  The earth gave birth to an incredible, rich diversity of life, and yet maintained a delicate, sustainable balance between it all.  Even in the early days of human life, it seemed that we could be part of this magical balance as we found our niche and explored our possibilities.  Sure, we made mistakes in those days, but we could usually learn from those mistakes and try to do better in the next generation.</p>
-
-<p>But recently the humans seem to be acting like the worst kind of invasive species, spreading all over the planet, dominating, killing and destroying everything in sight.  The delicate balance of life has been seriously disrupted by humans.  What is happening here?  Will the humans finally win their war against nature and thus destroy all chance for balance to be restored?   What will it take for humans to change our ways, to strive again for some kind of balance?</p>
-"""^^xsd:string ;
-    ns1:handle "dickmcleester"^^xsd:string ;
-    ns1:itemId "bcphbq3mcle"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dick McLeester"^^xsd:string ;
-    ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
 
 ns1:bcphbq3ryan a ns1:User ;
     ns1:coverImg "cover-chris-ryan.jpg"^^xsd:string ;
@@ -9549,6 +9630,20 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dr. Stanley Krippner"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
+
+ns1:bcphbq3mcle a ns1:User ;
+    ns1:coverImg "cover-author-dickmcleester.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://www.changingworld.com/about-us">changingworld.com</a></p>
+
+<p>Once upon a time, there were no humans on the planet.  You may be too young to remember, but it seems the earth did just fine in those days.  The earth gave birth to an incredible, rich diversity of life, and yet maintained a delicate, sustainable balance between it all.  Even in the early days of human life, it seemed that we could be part of this magical balance as we found our niche and explored our possibilities.  Sure, we made mistakes in those days, but we could usually learn from those mistakes and try to do better in the next generation.</p>
+
+<p>But recently the humans seem to be acting like the worst kind of invasive species, spreading all over the planet, dominating, killing and destroying everything in sight.  The delicate balance of life has been seriously disrupted by humans.  What is happening here?  Will the humans finally win their war against nature and thus destroy all chance for balance to be restored?   What will it take for humans to change our ways, to strive again for some kind of balance?</p>
+"""^^xsd:string ;
+    ns1:handle "dickmcleester"^^xsd:string ;
+    ns1:itemId "bcphbq3mcle"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dick McLeester"^^xsd:string ;
+    ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
 
 ns1:bcphbqflyer a ns1:User ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>

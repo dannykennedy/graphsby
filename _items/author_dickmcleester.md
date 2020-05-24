@@ -4,10 +4,10 @@ type: user
 itemId: bcphbq3mcle
 handle: dickmcleester
 name: "Dick McLeester"
-shortDescription: "Dick McLeester!"
 tags:
 date: 2015-03-24
 profileImg: author-dickmcleester.jpg
+coverImg: cover-author-dickmcleester.jpg
 ---
 
 Website: [changingworld.com](https://www.changingworld.com/about-us)

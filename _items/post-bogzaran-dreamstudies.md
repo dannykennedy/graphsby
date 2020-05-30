@@ -1,12 +1,12 @@
 ---
-dateCreated: '1983-07-01T11:32:52'
+dateCreated: '2003-04-01T11:32:52'
 itemId: bcpov6zfacad
 layout: post
 name: "Holistic Dream Studies in Academia"
 tags:
 - hasTag: faribabogzaran
 - hasAuthor: faribabogzaran
-- hasTag: 2.7
+- hasTag: 22.2
 type: post
 urlSlug: holistic-dream-studies-in-academia
 ---

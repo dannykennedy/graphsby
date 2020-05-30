@@ -4921,7 +4921,7 @@ Creativity: Dreaming, in a sense, is a very personal art form. Our waking life i
     ns1:urlSlug "the-dream-in-search-of-a-new-abode"^^xsd:string .
 
 ns1:bcpov6zfacad a ns1:Post ;
-    ns1:dateCreated "1983-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>A hundred years from now our future ‘ancestors’ will look back to appraise, hopefully with compassion, what we have contributed to the evolution of human consciousness. By then, dreams will be such an integral aspect of life that this time in the history of the dream movement will be seen as the crucial step in the development of a global dream awareness. Every new discovery made in the field of dream education and research is a stepping stone creating a path which opens to the vast dimensions and potential of our dreaming mind which leads to the advancement of our human consciousness. </p>
 
 <p>For this particular issue of Dream Network, I was asked to share my involvement in the dream movement, in particular how I came to establish the Dream Study Program at John F. Kennedy University in California. The program is a pioneering graduate program that explores a holistic approach to understanding and working with dreams. It examines the importance of dreams in science, psychology, mythology, shamanism and art and has three concentrations: Education, Consulting and Art. The growing program includes graduate students from various disciplines who are all interested in incorporating dreams into their various professional fields. </p>
@@ -4955,8 +4955,8 @@ ns1:bcpov6zfacad a ns1:Post ;
 <p>As students of dream studies graduate, we will see more courses taught at colleges and high schools and we will see the creation of more dream centers all over the world. These centers will help bring about a world where: dreaming is discussed regularly at the breakfast table with our families and friends; the wisdom of the ancient cultures, who have for un-known centuries utilized dreams for spiritual guidance and healing, is acknowledged; dreams are used regularly for problem-solving in many fields. Working with dreams is changing our culture by educating us to think metaphorically, by helping us learn to work through our inner conflicts and bring the gift of creativity into our everyday lives. Dream awareness brings hope for our future and gives us a chance to live in a harmonious world. ℘</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3bogz ;
-    ns1:hasTag ns1:bcphbjv6pkd,
-        ns1:bcphbq3bogz ;
+    ns1:hasTag ns1:bcphbq3bogz,
+        ns1:bcphbvjopd2 ;
     ns1:itemId "bcpov6zfacad"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Holistic Dream Studies in Academia"^^xsd:string ;
@@ -7955,6 +7955,20 @@ ns1:bcphbjpp3z2 a ns1:Post ;
     ns1:profileImg "2.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.6"^^xsd:string .
 
+ns1:bcphbjv6pkd a ns1:Post ;
+    ns1:coverImg "2.7-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.7-Dream-Craft-Volume-2-No-7.pdf" download="">Download issue 2.7</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.7-Dream-Craft-Volume-2-No-7.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
+    ns1:itemId "bcphbjv6pkd"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 2, issue 7"^^xsd:string ;
+    ns1:profileImg "2.7-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "2.7"^^xsd:string .
+
 ns1:bcphbjzjvrr a ns1:Post ;
     ns1:coverImg "2.8-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-08-01T11:32:52"^^xsd:dateTime ;
@@ -8305,20 +8319,6 @@ ns1:bcphbvecgmx a ns1:Post ;
     ns1:profileImg "21.4-22.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "21.4-22.1"^^xsd:string .
 
-ns1:bcphbvjopd2 a ns1:Post ;
-    ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf" download="">Download issue 22.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobu7vuq ;
-    ns1:itemId "bcphbvjopd2"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 22, issue 2: Peace"^^xsd:string ;
-    ns1:profileImg "22.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "22.2"^^xsd:string .
-
 ns1:bcphbw4yscz a ns1:Post ;
     ns1:coverImg "25.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2006-04-01T11:32:52"^^xsd:dateTime ;
@@ -8491,20 +8491,6 @@ ns1:bcphb2asab7 a ns1:Post ;
     ns1:profileImg "33.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.1"^^xsd:string .
 
-ns1:bcphbjv6pkd a ns1:Post ;
-    ns1:coverImg "2.7-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.7-Dream-Craft-Volume-2-No-7.pdf" download="">Download issue 2.7</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.7-Dream-Craft-Volume-2-No-7.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn72unjj ;
-    ns1:itemId "bcphbjv6pkd"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 2, issue 7"^^xsd:string ;
-    ns1:profileImg "2.7-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "2.7"^^xsd:string .
-
 ns1:bcphblwwuy6 a ns1:Post ;
     ns1:coverImg "4.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-05-01T11:32:52"^^xsd:dateTime ;
@@ -8647,7 +8633,9 @@ ns1:bcphbq3bogz a ns1:User ;
     ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com/</a></p>
 
-<p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founder of the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with Stephen LaBerge at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: Extraordinary Dreams (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and Integral Dreaming (2012) with Daniel Deslauriers, both published by SUNY Press. She teaches lucid dreaming at CIIS and gives lectures internationally. Using her art-based research, she co-founded Lucid Art Foundation (1998) with the surrealist painter Gordon Onslow Ford. She established an artist residency program for the foundation where artists work and live in the heart of nature. Fariba has lived adjunct to wilderness for the past thirty years and is active in earth's preservation.</p>
+<p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founder of the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with Stephen LaBerge at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: <em>Extraordinary Dreams</em> (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and <em>Integral Dreaming</em> (2012) with Daniel Deslauriers, both published by SUNY Press. </p>
+
+<p>She teaches lucid dreaming at CIIS and gives lectures internationally. Using her art-based research, she co-founded Lucid Art Foundation (1998) with the surrealist painter Gordon Onslow Ford. She established an artist residency program for the foundation where artists work and live in the heart of nature. Fariba has lived adjunct to wilderness for the past thirty years and is active in earth's preservation.</p>
 """^^xsd:string ;
     ns1:handle "faribabogzaran"^^xsd:string ;
     ns1:itemId "bcphbq3bogz"^^xsd:string ;
@@ -8937,6 +8925,20 @@ ns1:bcphbuzcgu3 a ns1:Post ;
     ns1:name "Volume 20, issue 4: Dreams and 9.11"^^xsd:string ;
     ns1:profileImg "20.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "20.4"^^xsd:string .
+
+ns1:bcphbvjopd2 a ns1:Post ;
+    ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf" download="">Download issue 22.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobu7vuq ;
+    ns1:itemId "bcphbvjopd2"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 22, issue 2: Peace"^^xsd:string ;
+    ns1:profileImg "22.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "22.2"^^xsd:string .
 
 ns1:bcphbwpd2l7 a ns1:Post ;
     ns1:coverImg "24.3-cover.jpg"^^xsd:string ;

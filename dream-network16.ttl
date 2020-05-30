@@ -3587,7 +3587,7 @@ ns1:bcpov6rsppm1 a ns1:Post ;
 
 <p>Jean Gebser has described the historical unfolding of four major "structures of consciousness" which he termed the Archaic, the Magical, the Mythic, and the Rational - the latter being the current era where consciousness is dominated by the rational, self-reflecting, individual ego. We will follow Ken Wilber's astute synthesis of Gebser with Freud, Jung, Piaget, Joseph Campbell, Erich Neumann, Ernst Cassirer, L.L.Whyte, and Julian Jaynes in surveying these four major "epochs" in the growth of consciousness and examining how the creating of guiding myths had become an increasingly personal matter... in the next issue. </p>
 
-<p>References:</p>
+<h3>References:</h3>
 
 <p>Campbell, R.N., Madsen, R., Sullivan, WM. Swidler, A., &amp; Tipton, S.M. (1985). <em>Habits of the Heart: Individualism and Commitment in American Life.</em> Berkeley: University of California Press.</p>
 
@@ -3639,9 +3639,9 @@ ns1:bcpov6rsppm2 a ns1:Post ;
 
 <p>Some three million years ago, humanlike creatures were making tools and walking on two legs. Ken Wilber portrays humanity's earliest eras as involving no sense of self separate from the experience of the body; the first stages of human evolution were "dominated by physical nature and animal body". The earliest humans were immersed in the subconscious realms of their biological existence in what anthropologists have termed a <em>participation mystique</em>. They did not experience themselves as separate from their surroundings. Self and world were "basically undifferentiated, embedded, fused and confused". Wilber speculates that out of this primitive unity, with no capacity for verbal representation or true mental reflection yet developed, there could be no experience of anxiety (fear of that which is not present), no real comprehension of death, and thus no existential fears.</p>
 
-<p>Sagan has wondered if "the Garden of Eden is not so different from Earth as it appeared to our ancestors of some three or four million years ago, during a legendary golden age when the genus <em>Homo</em> was perfectly interwoven with the other beasts and vegetables. These {Eden myths} all correspond reasonably well to the historical and archaeological evidence". Neumann noted that this period, which is represented mythologically as the uroboros (a serpent biting its own tail), "corresponds to the psychological stage in man's prehistory when the individual and the group, ego and unconscious, man and the world, were so indissolubly bound up with one another that the law of participation mystique, of unconscious identity, prevailed between them". </p>
+<p>Sagan has wondered if "the Garden of Eden is not so different from Earth as it appeared to our ancestors of some three or four million years ago, during a legendary golden age when the genus <em>Homo</em> was perfectly interwoven with the other beasts and vegetables. These [Eden myths] all correspond reasonably well to the historical and archaeological evidence". Neumann noted that this period, which is represented mythologically as the uroboros (a serpent biting its own tail), "corresponds to the psychological stage in man's prehistory when the individual and the group, ego and unconscious, man and the world, were so indissolubly bound up with one another that the law of participation mystique, of unconscious identity, prevailed between them". </p>
 
-<p>The Archaic Epoch roughly parallels the infantile "sensorimotor period" hypothesized by Piaget. During this period of their development, children are unable to differentiate between themselves and anything else in the world. They do not distinguish between inner and outer, between stimuli that come from their own bodies, such as hunger, and those that come from the outside, such as light. If we may speak of cultural myths at all during this period, we would call this the dreamlike era of a <em>unified, primordiaL bodymyth</em>. Consciousness was fully identified with the life of the body - the two were isomorphic. Instinctual impulses and conditioned responses functioned without competition from "higher" mental processes in motivating these protohumans. Reality was structured primarily around the pleasures, the pains, and the perceptions emerging from one's biological self. Thoughts regarding the aspects of life that concern mythology, such as identity and purpose, were direct and concrete. The life of the body was the life of myth. As Freud once noted, the ego is "first and foremost a body-ego".</p>
+<p>The Archaic Epoch roughly parallels the infantile "sensorimotor period" hypothesized by Piaget. During this period of their development, children are unable to differentiate between themselves and anything else in the world. They do not distinguish between inner and outer, between stimuli that come from their own bodies, such as hunger, and those that come from the outside, such as light. If we may speak of cultural myths at all during this period, we would call this the dreamlike era of a <em>unified, primordial bodymyth</em>. Consciousness was fully identified with the life of the body - the two were isomorphic. Instinctual impulses and conditioned responses functioned without competition from "higher" mental processes in motivating these protohumans. Reality was structured primarily around the pleasures, the pains, and the perceptions emerging from one's biological self. Thoughts regarding the aspects of life that concern mythology, such as identity and purpose, were direct and concrete. The life of the body was the life of myth. As Freud once noted, the ego is "first and foremost a body-ego".</p>
 
 <h2>The Magical Epoch</h2>
 
@@ -3683,7 +3683,7 @@ ns1:bcpov6rsppm2 a ns1:Post ;
 
 <p>Neumann, E. (1973). <em>The Origins and History of Consciousness.</em> Princeton, NJ: Princeton University Press. </p>
 
-<p>Kegan, R. (1982). <em>The Evolving Self: Problem aud process in human development.</em> Cambridge, MA: Harvard University Press. </p>
+<p>Kegan, R. (1982). <em>The Evolving Self: Problem and process in human development.</em> Cambridge, MA: Harvard University Press. </p>
 
 <p>Freud, S. (1923). <em>The Ego and the Id</em>, In J. Strachey (Trans.), The Standard Edition of the Complete Psychological Works of Sigmund Freud (Vol. 19). London: Hogarth Press. </p>
 
@@ -3702,6 +3702,76 @@ ns1:bcpov6rsppm2 a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "How Myth Got Personal: Part Two"^^xsd:string ;
     ns1:urlSlug "how-myth-got-personal-part-two"^^xsd:string .
+
+ns1:bcpov6rsppm3 a ns1:Post ;
+    ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><!--nopreview--><h2>The Rational Epoch</h2><!--/nopreview--></p>
+
+<p>Wilber describes the next stage of evolution in terms of a "final differentiation and crystallization of the mind out of the body". In the earlier stages, responsibility for one's fate was lodged primarily in the external world and its objects, which Gebser interprets as "a sure sign of egolessness." Now the separate ego, the sense of a personal self that is the core of the modern individual's identity, had emerged from its previous embeddedness in nature. Based upon a provocative analysis of the historical record, the psychologist Julian Jaynes concluded that prior to the second millennium B.C., humanity had not yet developed the self-reflecting ego that characterizes modern consciousness. Surveying the use of linguistic metaphors, Jaynes speculated that only between the second and first millennia B.C. in the Western World had an "I" developed that could form inner narratives and consider alternative actions. This shift corresponds to the writing of the New Testament, where the relationship with God had become personal rather than to the Old Testament, where God's covenant was with the people of Israel. Whether or not Jaynes' dates and thesis regarding the implications of his source documents are correct, the development of an independent sense of self operating as a self-reflecting agent has been one of the crowning achievements of evolution. </p>
+
+<p>L.L. Whyte noted that as individuals became more self-conscious, their decisions were increasingly dominated and controlled by the particular form of their own thought processes rather than "primarily by instinctive responses to external stimuli and by mimicry of the forms of a stable social tradition". Instinctive and traditional reactions to the outer world were no longer the only available guides for behavior and the internal structures we are calling "personal myths" increasingly became the basis of decision-making. Wilber suggests that close examination of the collective mythologies at the beginning of the "egoic" period unequivocally reveals that an entirely different form of myth began to appear - the "Hero Myth." He notes "the true hero myths do not emerge before this period because there were no egos before this period" (p. 184). Joseph Campbell observed that the principle "represented by the freely willing, historically effective hero not only gained but held the field and has retained it to the present. Moreover, this victory of the principle of free will, together with its moral corollary of individual responsibility, establishes the first distinguishing characteristic of specifically Occidental myth" (p. 24). </p>
+
+<p>A distinction between the mythic-magical qualities of primitive thought and the mythic nature of all thought should be emphasized here. While thought in the <em>Mythic Epoch</em> was more advanced than the "primary process thinking" of earlier eras, the logical qualities that allow one's assumptions to be tested through deductive reasoning had not yet been developed. Thus for the primitive, all experience had to be interpreted in terms of the dominating myth; the culture's mythology created the lived reality. The cognitive abilities required to challenge its appropriateness had not been developed. </p>
+
+<p>As consciousness evolved, however, so did the ability to reflect, to step out of the myth and consider the way the myth structures experience. While stepping out of a particular myth is neither easy nor instinctive, the capacity to do so marks the birth of psychological freedom. This monumental and far-reaching development, which led to the evolution of modern science, makes it conceivable that a people can speed the process by which they free themselves from the inadequacies of their mythic inheritance, a particularly critical matter in a rapidly changing world. </p>
+
+<p>Piaget's stage of "formal operational thought," which develops during adolescence, is parallel to the type of thinking that emerged in the Rational Epoch. With the advent oft his period both in psychological development and in the historical epoch, reasoning about reasoning became possible. The mind becomes capable of turning back upon itself and reflecting on what it perceives. With the maturation of the ego, self-awareness reached the point that individuals were capable of making decisions with some measure of objectivity. The four stages of cognitive development portrayed to this point have a pyramidal relationship[ to one another. Advanced cultural and personal myths rest upon earlier myths that came to terms with the life of the body and the separation of self from the environment. The essential tenets of each subsequent stage must be integrated into previous stages and each emerging stage may disrupt mythic explanations worked out in earlier stages. </p>
+
+<h2>THE DAWNING ERA OF A POST-CARTESIAN MYTHOLOGY</h2>
+
+<p>Unlike the pre-Cartesian mythologies of earlier periods, the Western individual's identity was not founded upon the schism produced by the Cartesian mind-body split that came to dominate Newtonian thought (Berman, 1984). The functions once served by classical mythology were neglected and belittled as instinct was devalued in favor of rationality and community was devalued in favor of individualism. The inability of the newly emergent ego to integrate its activities with the prior realms of instinct, emotion and "body-self" is, in Wilber's eyes, the culture's essential dilemma. He points out that "Even [Erich] Neumann, arch-champion of the Hero Myth, dearly recognized that the clearly thrust went way too far and 'with this, the great reevaluation of the feminine begins, its conversion into the negative, thereafter carried to extremes in the patriarchal religions of the West"' (Wilber, 1981 p.189). </p>
+
+<p>Preoccupation with the self as an entity separate from both body and reference group, necessary for the development of rational thought and individuality, became exaggerated. These separations, which were painstakingly achieved, are not easily transcended. The conquering hero of the contemporary era has ripped himself away from Mother Nature, spearheaded by a belligerent personal ego and supported by increasingly sophisticated technology. Wilber explains the dilemma in terms of the relationship of humanity to its biological nature, the mythical "Great Mother": </p>
+
+<blockquote>
+  <p>The ego, in the necessary course of its emergence, had to break free of the Great Mother or biological nature embeddedness. That is all well and good-the ego, in fact, did manage to break free of its attachment and subservience and establish itself as an independent, wilful and constellated center of consciousness, a feat represented in the Hero Myths. But in its zeal to assert its independence, it not 'only transcended the Great Mother, which was desirable; it repressed the Great Mother, which was disastrous. And there the ego - the Western ego - demonstrated not just an awakened assertiveness, but a blind arrogance... no longer harmony with the Heavens... but a technological assault on Nature. It is one thing to gain a freedom from the fluctuations of nature, emotions, instincts and environment - it is quite another to alienate them. (pp. 187-188)</p>
+</blockquote>
+
+<p>The personal costs of this emphasis on individuality have been tallied in terms of anxiety, uncertainty and a lack of rootedness, commitment and community. The forces of history, however, seem to be pushing toward an integration of the dualism, toward an era of what might be termed a "post Cartesian mythology," where the individual ego and the primordial nature from which it emerged will be re-united at a higher level of integration. Such holistic thinking involved the "dialectical operations" that Riegel has proposed as the final stage of cognitive development, following Piaget's "formal operation thought". </p>
+
+<p>New guiding myths that transcend the emphasis on individualism which characterized the present era are unfolding. Moving from the prerational, pre-personal, pre-Cartesian myths of Wilber's Mythic Epoch and past the self-centered, Cartesian thought structures of the Rational Epoch, the myths that are now beginning to appear possess a distinctly post-Cartesian or post-personal or trans-personal character. That is, while individuality remains a prominent feature in these guiding myths, they reincorporate community values which transcend the personal ego and they achieve a re-attunement with nature and the life of the spirit. Sampson has emphasized the distinction between a one-sided self-contained individualism and an ensembled individualism that completes the circle by promoting community values. </p>
+
+<p>The influences forging such a post-personal mythology range from our discontented isolation as individual egos to the stringent demands of the global crisis. Wilber believes that we can identify people who are already living according to the mythology of the coming era. He emphasizes that he described the first four epochs in the evolution of consciousness in terms of the average person's experiences and level of awareness. But he also notes that there are individuals whose lives reflect "the growing tip of human consciousness," the most advanced level of their time. The individuality that has become widespread in our culture was first restricted to sanctioned leaders. Wilber speaks of the first ones to live out the next major structure of consciousness as the shamans, the sages, and the saints who serve as prototypes of the advancing higher levels of consciousness. If Wilber is correct, then the self-actualizing subjects studied by Abraham Maslow may be examples of what is to come. They tended to evidence greater creativity, autonomy and ability to resolve polarities than their fellows, had more democratic (as contrasted with authoritarian) character structures and were more able to transcend thee go boundaries of a narrow sense of self. In addition,, certain universal values, such as truth, beauty and justice were stronger in their personal motivational schemes. </p>
+
+<p>Such qualities may prove to be vital features of the expanded mythic visions we are collectively challenged to pursue. Rollo May (in press) believes that three new myths are necessary for our survival: the <em>"green myth"</em>, which would show our proper relation with nature; <em>women's liberation</em>, which would insure the rights and draw upon the talents of all people; and <em>planetism</em>, which would show the world as a place that transcends political boundaries. All three of these themes can be seen as correctives pushing to change the direction of the contemporary hero's journey. </p>
+
+<p>The emphasis of our work has been on developing a system that teaches people to turn inward and bring greater awareness to the submerged mythology that lives through their thoughts, feelings and behavior (Feinstein and Krippner 1988). In the process, individuals increase their capacity to stretch their personal myths beyond the limitations of their culture's mythology and beyond confining beliefs and images that are rooted in their unique history. Gaining a measure of autonomy from the limiting images of culture and other early influences increases one's sense of psychological freedom and strengthens one's ability to cope within a rapidly changing world. Because personal and cultural myths evolve in tandem, beginning to understand the mythic processes that operate within their own psyches also strengthens in people the capacity to more mindfully and effectively participate in the inescapable collective mythological changes that are shaping the future of their world.</p>
+
+<h3>References</h3>
+
+<p>Bellah, R.M., Madsen, R., Sullivan, WM., Swidler, A., &amp; Tipton, S.M. (1985). <em>Habits of the Heart: Individualism and Commitment in American Life.</em> Berkeley: U of California Press. </p>
+
+<p>Berman, M. (1984). <em>The Reenchantment of the World.</em> New York: Bantam. </p>
+
+<p>Campbell, J. (1964). <em>The Masks of God (vol. 3: Occidental Mythology).</em> New York: Viking. </p>
+
+<p>Feinstein, D., and Krippner, S. (1988) <em>Personal Mythology: The psychology of your evolving self.</em> Los Angeles: Tarcher.</p>
+
+<p>Jaynes, J. (1976) <em>The Origin of Consciousness in the Breakdown of the Bicameral Mind.</em> Boston: Houghton Mifflin. </p>
+
+<p>Maslow, A.H. (1968). <em>Motivation and Personality</em> (2nd edition). Princeton, NJ: Van Nostrand. </p>
+
+<p>Piaget, J. (1971). <em>Biology and Knowledge: An essay on the relation between organic regulations and cognitive process.</em> Chicago: U of Chicago Press. </p>
+
+<p>Riegel, K.R. (1973). <em>Dialectical Operations: The final period of cognitive development.</em> Human Development; 16, 346-370.</p>
+
+<p>Sampson, E.E. (1988). <em>The debate on individualism.</em> American Psychologist, 43, 15-22. </p>
+
+<p>Whyte, L.L. (1950). <em>The Next Development In Man.</em> New York: Mentor </p>
+
+<p>Wilber, K. (1981). <em>Up from Eden: A transpersonal view of human evolution.</em> Garden City, NY: Anchor/Doubleday</p>
+
+<hr>
+
+<p><em>This article by Dr. Feinstein is adapted from an earlier paper published in the Humanistic Psychologist, 18 (2), 1990, and is reprinted with his permission.</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqfeins ;
+    ns1:hasTag ns1:bcphbpqyqpo,
+        ns1:bcphbqfeins ;
+    ns1:itemId "bcpov6rsppm3"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "How Myth Got Personal: Part Three"^^xsd:string ;
+    ns1:urlSlug "how-myth-got-personal-part-three"^^xsd:string .
 
 ns1:bcpov6rsreci a ns1:Post ;
     ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
@@ -8858,20 +8928,6 @@ ns1:bcphbpfnwcb a ns1:Post ;
     ns1:profileImg "10.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "10.2-3"^^xsd:string .
 
-ns1:bcphbpqyqpo a ns1:Post ;
-    ns1:coverImg "11.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf" download="">Download issue 11.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoash2jt ;
-    ns1:itemId "bcphbpqyqpo"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 11, issue 1: Women's Dreams"^^xsd:string ;
-    ns1:profileImg "11.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "11.1"^^xsd:string .
-
 ns1:bcphbpumr2x a ns1:Post ;
     ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
@@ -9348,6 +9404,20 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:name "Volume 8, issue 4"^^xsd:string ;
     ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.4"^^xsd:string .
+
+ns1:bcphbpqyqpo a ns1:Post ;
+    ns1:coverImg "11.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf" download="">Download issue 11.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.1-Dream-Network-Vol-11-No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoash2jt ;
+    ns1:itemId "bcphbpqyqpo"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 11, issue 1: Women's Dreams"^^xsd:string ;
+    ns1:profileImg "11.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "11.1"^^xsd:string .
 
 ns1:bcphbq3amin a ns1:User ;
     ns1:coverImg "cover-author-arnold-mindell.jpg"^^xsd:string ;
@@ -9957,20 +10027,6 @@ ns1:bcphbq3wagg a ns1:User ;
     ns1:name "Robert Waggoner"^^xsd:string ;
     ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
 
-ns1:bcphbqfeins a ns1:User ;
-    ns1:coverImg "cover-author-davidfeinstein.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://edenenergymedicine.com/about-us/david-feinstein/">edenenergymedicine.com</a></p>
-
-<p>David Feinstein, Ph.D., is a clinical psychologist and a pioneer in developing innovative therapeutic approaches, leading to nine national awards for his books on consciousness and healing. He and his wife, Donna Eden, have built the world’s largest and most vibrant organization teaching energy medicine. Their latest award-winning book, <em><a href="https://edenenergymedicine.com/product/the-energies-of-love-soft-cover-book/">The Energies of Love</a></em>, achieved best-seller status on the NY Times Relationship List. David has served on the facultiesauth of The Johns Hopkins University School of Medicine, Antioch College, and the California School of Professional Psychology.</p>
-
-<p>David received the 2002 “Outstanding Contribution” Award from the Association for Comprehensive Energy Psychology (and again in 2012), the U.S. Book News Award for the Best Psychology/Mental Health Book of 2007, the 2015 “Outstanding Leadership” Award from the Canadian Association for Integrative and Energy Therapies, and the Infinity Foundation’s 2013 “Spirit Award” (with Donna) for their contribution to “the evolution of consciousness” and its “impact on society.” A licensed psychologist (Oregon), he has contributed more than 100 articles to the professional literature.</p>
-"""^^xsd:string ;
-    ns1:handle "davidfeinstein"^^xsd:string ;
-    ns1:itemId "bcphbqfeins"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "David Feinstein"^^xsd:string ;
-    ns1:profileImg "author-davidfeinstein.jpg"^^xsd:string .
-
 ns1:bcphbqfgreg a ns1:User ;
     ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>
 
@@ -10092,6 +10148,20 @@ ns1:bcphbq3mcle a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dick McLeester"^^xsd:string ;
     ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
+
+ns1:bcphbqfeins a ns1:User ;
+    ns1:coverImg "cover-author-davidfeinstein.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://edenenergymedicine.com/about-us/david-feinstein/">edenenergymedicine.com</a></p>
+
+<p>David Feinstein, Ph.D., is a clinical psychologist and a pioneer in developing innovative therapeutic approaches, leading to nine national awards for his books on consciousness and healing. He and his wife, Donna Eden, have built the world’s largest and most vibrant organization teaching energy medicine. Their latest award-winning book, <em><a href="https://edenenergymedicine.com/product/the-energies-of-love-soft-cover-book/">The Energies of Love</a></em>, achieved best-seller status on the NY Times Relationship List. David has served on the facultiesauth of The Johns Hopkins University School of Medicine, Antioch College, and the California School of Professional Psychology.</p>
+
+<p>David received the 2002 “Outstanding Contribution” Award from the Association for Comprehensive Energy Psychology (and again in 2012), the U.S. Book News Award for the Best Psychology/Mental Health Book of 2007, the 2015 “Outstanding Leadership” Award from the Canadian Association for Integrative and Energy Therapies, and the Infinity Foundation’s 2013 “Spirit Award” (with Donna) for their contribution to “the evolution of consciousness” and its “impact on society.” A licensed psychologist (Oregon), he has contributed more than 100 articles to the professional literature.</p>
+"""^^xsd:string ;
+    ns1:handle "davidfeinstein"^^xsd:string ;
+    ns1:itemId "bcphbqfeins"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "David Feinstein"^^xsd:string ;
+    ns1:profileImg "author-davidfeinstein.jpg"^^xsd:string .
 
 ns1:bcphbqflyer a ns1:User ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>

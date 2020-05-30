@@ -43,7 +43,8 @@ Biologist Lewis Thomas noted that "our most powerful story, equivalent in its wa
 
 Jean Gebser has described the historical unfolding of four major "structures of consciousness" which he termed the Archaic, the Magical, the Mythic, and the Rational - the latter being the current era where consciousness is dominated by the rational, self-reflecting, individual ego. We will follow Ken Wilber's astute synthesis of Gebser with Freud, Jung, Piaget, Joseph Campbell, Erich Neumann, Ernst Cassirer, L.L.Whyte, and Julian Jaynes in surveying these four major "epochs" in the growth of consciousness and examining how the creating of guiding myths had become an increasingly personal matter... in the next issue. 
 
-References:
+###References:
+
 Campbell, R.N., Madsen, R., Sullivan, WM. Swidler, A., & Tipton, S.M. (1985). *Habits of the Heart: Individualism and Commitment in American Life.* Berkeley: University of California Press.
 Campbell, Joseph (1968). *The Hero with a Thousand Faces.* Princeton: Princeton U Press. pg. 4.
 Campbell, Joseph (1983). *Historical Atlas of World Mythology* (Vol. I) San Francisco: Harper & Row.

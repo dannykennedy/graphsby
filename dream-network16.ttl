@@ -1411,6 +1411,42 @@ ns1:bcpov6kbheal a ns1:Post ;
     ns1:name "Dreaming to Heal the Earth"^^xsd:string ;
     ns1:urlSlug "dreaming-to-heal-the-earth"^^xsd:string .
 
+ns1:bcpov6kbhelp a ns1:Post ;
+    ns1:dateCreated "1990-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://books.google.com.au/books/about/Nightmare_Help.html?id=Y_dEAAAAYAAJ&amp;source=kp_cover&amp;redir_esc=y"></p>
+
+<p><img src="../images/post-bcpov6kbhelp-0.jpg" alt="Nightmare Help, A Guide for Parents and Teachers by Ann Sayre Wiseman" width="300" height="auto"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://books.google.com.au/books/about/Nightmare_Help.html?id=Y_dEAAAAYAAJ&amp;source=kp_cover&amp;redir_esc=y">Nightmare Help, A Guide for Parents and Teachers by Ann Sayre Wiseman</a> (Ten Speed Press, 1989, 128 pp.)</i></div><!--/nopreview--></p>
+
+<p>Every parent knows that all children have nightmares - sleep researcher Dr. Ernest Hartmann notes in his book <em>The Nightmare</em> that young children suffer nightmares more frequently than any other age group. Few parents know, however, what to do when the nightmares come. They try to soothe their panic-stricken child by saying, "It's OK, dear, it was just a dream", but that always sounds hollow: the dream may have been just imagination, but the feelings, the fears, are real. </p>
+
+<p>Anne Sayre Wiseman's <em>Nightmare Help</em> offers a very helpful guide to transforming those fears into opportunities for learning and growth. Wiseman is a grassroots therapist with extensive experience in working with dreams. This book evolved out of workshops she gave at grammar schools in the Boston area, where she helped children from ages 5 to 13 learn to understand their nightmares. <em>Nightmare Help</em> is refreshingly clear of mystifying, technical jargon, as Wiseman intends the book for children as much as for parents/adults. Its large format, friendly style, and numerous drawings (which young readers are encouraged to color) all contribute to this aim. </p>
+
+<p>In the children's section of the book Wiseman says that "dreams can be helpers - and if you dare to look at them, they will teach you about yourself". She then explains that nightmares are special dreams that tell us we're feeling scared, hurt, alone, or angry: "Nightmares are designed to wake you up. Nightmares make you really sit up and listen." Children may want to run away from the scary monsters in their nightmares, but Wiseman tells children that she can show them how to stop being so afraid of those monsters. </p>
+
+<p>Wiseman first has children use colored pens and paper to draw a picture of their nightmare. Drawing a picture allows the child to express the nightmare in a safe way by creating some distance: the nightmare is brought back to mind, but now it's put out there, on the paper. This process gives the child a positive sense of control; it's precisely the experience of utter helplessness and lack of control that is so terrifying in the nightmare. Once the child has drawn the nightmare he or she feels the security necessary to begin exploring the emotions the dream has brought forth. </p>
+
+<p>At this point, Wiseman suggests questions that parents and teachers can ask to guide the child in trying to understand the nightmare. For example, she would ask "How could you feel safe looking at that monster?; Try drawing some helpers to be with you in the picture; Ask what the monster is doing in your dream; Is there anything the monster wants? Draw it in the picture and see what the monster thinks of it". </p>
+
+<p>The bulk of <em>Nightmare Help</em> consists of examples from Wiseman's workshops, and it is here that we see the real value of her work. As she presents the nightmares, the children's drawings, and their own attempts to come to terms with the dreams we begin to see how involved the children become in the process. Their nightmares are matters of the utmost importance to them, and it ends up taking very little prompting from Wiseman for the children to struggle with the troubling feelings raised by the dreams. With her help the children find that what had been terrifying has become an opportunity to learn about themselves. </p>
+
+<p>The process she describes is not a form of dream analysis; no special expertise is required, and there is no dogged sleuthing after hidden symbols. Wiseman's goal is to encourage children to develop a relationship with their dreams. She wants to empower children, to help them understand their own feelings and to learn to live with them. Learning to deal with the fears of their nightmares is a good way for children to begin dealing with the scarier parts of the adult world, Wiseman says. In this respect she is working to revive an age-old tradition of using dreams in education. </p>
+
+<p>Anthropologists have discovered that many other cultures teach their children about the meaning of dreams as a way of teaching them about the world. When adults show that they take their children's dreams seriously, children learn both to take their own scary feelings seriously and to trust the adults whose help they need so much. Parents today would do well to remember this the next time they are tempted to say "It's OK, dear, it's only a dream..."</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvbulk ;
+    ns1:hasTag ns1:bcphbolab5r,
+        ns1:bcphbq3asay,
+        ns1:bcphbqvbulk ;
+    ns1:itemId "bcpov6kbhelp"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: Nightmare Help, A Guide for Parents and Teachers by Ann Sayre Wiseman"^^xsd:string ;
+    ns1:profileImg "post-bcpov6kbhelp-0.jpg"^^xsd:string ;
+    ns1:urlSlug "nightmare-help-review"^^xsd:string .
+
 ns1:bcpov6kbirth a ns1:Post ;
     ns1:dateCreated "1988-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>The study of history shows that revolutionary developments in human thought spring from surprisingly quiet beginnings, and that the people making the pioneering discoveries rarely recognize the future significance of their work. History also suggests that the full implications of their discoveries become most powerful and most influential on the rest of society only when these people reach, and then cross, a certain threshold; when they begin to share their ideas together, to try and integrate their different findings, and to join with each other in common ventures. </p>
@@ -8494,20 +8530,6 @@ ns1:bcphbohoqoq a ns1:Post ;
     ns1:profileImg "9.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "9.1"^^xsd:string .
 
-ns1:bcphbolab5r a ns1:Post ;
-    ns1:coverImg "9.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1990-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.2-Dream-Network-Journal-Vol-9-No-2.pdf" download="">Download issue 9.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.2-Dream-Network-Journal-Vol-9-No-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoanijcm ;
-    ns1:itemId "bcphbolab5r"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 9, issue 2: Dreams, Passages & The Family"^^xsd:string ;
-    ns1:profileImg "9.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "9.2"^^xsd:string .
-
 ns1:bcphbpntuo4 a ns1:Post ;
     ns1:coverImg "10.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1991-10-01T11:32:52"^^xsd:dateTime ;
@@ -8913,6 +8935,20 @@ ns1:bcphbo4ff76 a ns1:Post ;
     ns1:name "Volume 10, issue 1: Healing the Child Within "^^xsd:string ;
     ns1:profileImg "10.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "10.1"^^xsd:string .
+
+ns1:bcphbolab5r a ns1:Post ;
+    ns1:coverImg "9.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1990-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.2-Dream-Network-Journal-Vol-9-No-2.pdf" download="">Download issue 9.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.2-Dream-Network-Journal-Vol-9-No-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoanijcm ;
+    ns1:itemId "bcphbolab5r"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 9, issue 2: Dreams, Passages & The Family"^^xsd:string ;
+    ns1:profileImg "9.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "9.2"^^xsd:string .
 
 ns1:bcphbpfnwcb a ns1:Post ;
     ns1:coverImg "10.2-3-cover.jpg"^^xsd:string ;
@@ -9631,41 +9667,6 @@ ns1:bcpqocs2uhp a ns1:Post ;
 ns1:Actor a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
 
-ns1:bcphbq3asay a ns1:User ;
-    ns1:description """<p>Ann used Milton Erickson's common-sense and self hypnosis approach to dreams. She used art, dreams, and closed eye visioning in workshop intensives here and abroad. She taught at Lesley College Arts Institute, where she helped develop the Expressive Therapies Program, trained teachers, and earned her Master’s degree. Ann kept dream journals for fifty years, published two books on dreams, and was an ASD member and presenter for over 20 years, offering workshops and slide talks at IASD (almost every year), and at California’s Esalen Institute, The Cambridge center for Adult Education, and organizations here and abroad. She derived much inspiration from the work of Patricia Garfield, Freud, Jung, Milton Erickson, Gibran, the I Ching, the Dalai Lama, and others.</p>
-
-<p>This adaptation of her Introduction to her last book, Satisfy the Image, summarizes her work: </p>
-
-<p>Autodrama on the Paper Stage is a concrete mapping method that works for dreams and all kinds of life problems. You create your own symbols to represent the people and things in your story and set them on a sheet of paper we call the stage. Instead of telling the story in words, we use colored paper or found objects to represent characters and significant objects—it’s very simple. As you answer questions about the scene, you begin to understand the problem and manipulate the characters in search of resolution. </p>
-
-<p>As a mini psychodrama, it shrinks the stage to a sheet of paper, eliminates other players, and offers a quick, direct approach. Working alone or with a guide, the dreamer plays all the roles, speaks and hears the dialogue, harvests projections, and negotiates a resolution. </p>
-
-<p>The method came to me in a dream where I saw myself as a tiny human attached to the earth’s globe by gravity. Up in the universal darkness, a giant megaphone shouted “FIND THE IMAGE AND SATISFY IT.” Immediately I understood that the way to resolution was through the image, and the way to the image was through your feelings. </p>
-
-<p>Since the age of three, I drew, painted, designed textiles, perfected and taught various crafts. When I had kids, I made bread sculpture, rag tapestries, furniture, and toys, and then turned it into how-to books. In the 1970’s, as Program Director for the Boston Children’s Museum Visitor Center, I developed how-to workshops so visitors could make paper, build looms and kites, and invent musical instruments from junk. I also conducted workshops for the New Hampshire elementary school system: sixty to ninety teachers came once a week for five-hour sessions on “Methods and Materials” and “Creative Enrichment.” We called it “Kindergarten for creatively deprived adults,” who were then very excited to take the ideas and methods back to their classes. </p>
-
-<p>From there it was a short step to Expressive Therapy, a field just being defined at Lesley College. In addition to teaching there, I designed and completed my own Masters program based on work I did with teachers all over the country and in India. </p>
-
-<p>Dreams were an arrow leading straight to the unconscious. Like parables, they provide perspective on truths too close to see. Visual methods make problem solving exciting because they require you to think outside the box and use all kinds of intelligence and sources of wisdom. Impatient with the time required by conventional dream work, I asked students to “show me your dream. Show me your problem. Create images. Make characters from torn tissue papers or find an object to represent people and things. Set the stage and tell the story on a sheet of paper.” </p>
-
-<p>In half an hour, everyone in a class could create a scene and begin to work using ten simple questions. I just walked around the room helping to move things as needed. And there was the magic of working in groups. People borrowed from each other, saw what others were doing, heard the first solutions, and were inspired to take risks or reach out. Originality was rampant. Everyone left the room with new information, and often with a new resolution. </p>
-
-<p>A Harvard student who took a workshop said, “This work you do is more interesting than all my psychology courses. I’d like my professor to see.” I did a workshop there, but the professor asked what books I was using, what theory? </p>
-
-<p>“No books, no theory—just common sense and the wisdom of the dream, the power of peoples’ images. We simply ‘satisfy the image.’” </p>
-
-<p>“Well, that isn’t going to make much sense to Academe is it?” he says. </p>
-
-<p>“No. I guess not. It is not a theory; it is an experience.” </p>
-
-<p>So you are the system. You are the method. It’s the doing that heals, creates change, and enlightens. When you experience it, you know it. It is the “Aha!” method. </p>
-"""^^xsd:string ;
-    ns1:handle "annsayrewiseman"^^xsd:string ;
-    ns1:itemId "bcphbq3asay"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Ann Sayre Wiseman"^^xsd:string ;
-    ns1:profileImg "author-ann-sayre-wiseman.jpg"^^xsd:string .
-
 ns1:bcphbq3dues a ns1:User ;
     ns1:description """<p>Websites: <a href="http://www.yourguidingdreams.com/">yourguidingdreams.com</a>, <a href="https://www.livingdreams.life/">livingdreams.life</a></p>
 
@@ -9967,6 +9968,41 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
 
+ns1:bcphbq3asay a ns1:User ;
+    ns1:description """<p>Ann used Milton Erickson's common-sense and self hypnosis approach to dreams. She used art, dreams, and closed eye visioning in workshop intensives here and abroad. She taught at Lesley College Arts Institute, where she helped develop the Expressive Therapies Program, trained teachers, and earned her Master’s degree. Ann kept dream journals for fifty years, published two books on dreams, and was an ASD member and presenter for over 20 years, offering workshops and slide talks at IASD (almost every year), and at California’s Esalen Institute, The Cambridge center for Adult Education, and organizations here and abroad. She derived much inspiration from the work of Patricia Garfield, Freud, Jung, Milton Erickson, Gibran, the I Ching, the Dalai Lama, and others.</p>
+
+<p>This adaptation of her Introduction to her last book, Satisfy the Image, summarizes her work: </p>
+
+<p>Autodrama on the Paper Stage is a concrete mapping method that works for dreams and all kinds of life problems. You create your own symbols to represent the people and things in your story and set them on a sheet of paper we call the stage. Instead of telling the story in words, we use colored paper or found objects to represent characters and significant objects—it’s very simple. As you answer questions about the scene, you begin to understand the problem and manipulate the characters in search of resolution. </p>
+
+<p>As a mini psychodrama, it shrinks the stage to a sheet of paper, eliminates other players, and offers a quick, direct approach. Working alone or with a guide, the dreamer plays all the roles, speaks and hears the dialogue, harvests projections, and negotiates a resolution. </p>
+
+<p>The method came to me in a dream where I saw myself as a tiny human attached to the earth’s globe by gravity. Up in the universal darkness, a giant megaphone shouted “FIND THE IMAGE AND SATISFY IT.” Immediately I understood that the way to resolution was through the image, and the way to the image was through your feelings. </p>
+
+<p>Since the age of three, I drew, painted, designed textiles, perfected and taught various crafts. When I had kids, I made bread sculpture, rag tapestries, furniture, and toys, and then turned it into how-to books. In the 1970’s, as Program Director for the Boston Children’s Museum Visitor Center, I developed how-to workshops so visitors could make paper, build looms and kites, and invent musical instruments from junk. I also conducted workshops for the New Hampshire elementary school system: sixty to ninety teachers came once a week for five-hour sessions on “Methods and Materials” and “Creative Enrichment.” We called it “Kindergarten for creatively deprived adults,” who were then very excited to take the ideas and methods back to their classes. </p>
+
+<p>From there it was a short step to Expressive Therapy, a field just being defined at Lesley College. In addition to teaching there, I designed and completed my own Masters program based on work I did with teachers all over the country and in India. </p>
+
+<p>Dreams were an arrow leading straight to the unconscious. Like parables, they provide perspective on truths too close to see. Visual methods make problem solving exciting because they require you to think outside the box and use all kinds of intelligence and sources of wisdom. Impatient with the time required by conventional dream work, I asked students to “show me your dream. Show me your problem. Create images. Make characters from torn tissue papers or find an object to represent people and things. Set the stage and tell the story on a sheet of paper.” </p>
+
+<p>In half an hour, everyone in a class could create a scene and begin to work using ten simple questions. I just walked around the room helping to move things as needed. And there was the magic of working in groups. People borrowed from each other, saw what others were doing, heard the first solutions, and were inspired to take risks or reach out. Originality was rampant. Everyone left the room with new information, and often with a new resolution. </p>
+
+<p>A Harvard student who took a workshop said, “This work you do is more interesting than all my psychology courses. I’d like my professor to see.” I did a workshop there, but the professor asked what books I was using, what theory? </p>
+
+<p>“No books, no theory—just common sense and the wisdom of the dream, the power of peoples’ images. We simply ‘satisfy the image.’” </p>
+
+<p>“Well, that isn’t going to make much sense to Academe is it?” he says. </p>
+
+<p>“No. I guess not. It is not a theory; it is an experience.” </p>
+
+<p>So you are the system. You are the method. It’s the doing that heals, creates change, and enlightens. When you experience it, you know it. It is the “Aha!” method. </p>
+"""^^xsd:string ;
+    ns1:handle "annsayrewiseman"^^xsd:string ;
+    ns1:itemId "bcphbq3asay"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Ann Sayre Wiseman"^^xsd:string ;
+    ns1:profileImg "author-ann-sayre-wiseman.jpg"^^xsd:string .
+
 ns1:bcphbq3jean a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
 
@@ -10234,18 +10270,6 @@ ns1:bcphbqvbird a ns1:User ;
     ns1:name "Kim Birdsong"^^xsd:string ;
     ns1:profileImg "author-kim-birdsong.jpg"^^xsd:string .
 
-ns1:bcphbqvbulk a ns1:User ;
-    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://kellybulkeley.org/">kellybulkeley.org</a></p>
-
-<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion.  He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal <a href="https://www.apa.org/pubs/journals/drm/">Dreaming</a>, and a former President of the International Association for the Study of Dreams.  He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School.  He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018).  He lives in Portland, Oregon.</p>
-"""^^xsd:string ;
-    ns1:handle "kellybulkeley"^^xsd:string ;
-    ns1:itemId "bcphbqvbulk"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Kelly Bulkeley"^^xsd:string ;
-    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
-
 ns1:bcphbqvreed a ns1:User ;
     ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
@@ -10328,6 +10352,18 @@ ns1:bcphbq3ossa a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Roberta Ossana"^^xsd:string ;
     ns1:profileImg "roberta_ossana.png"^^xsd:string .
+
+ns1:bcphbqvbulk a ns1:User ;
+    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://kellybulkeley.org/">kellybulkeley.org</a></p>
+
+<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion.  He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal <a href="https://www.apa.org/pubs/journals/drm/">Dreaming</a>, and a former President of the International Association for the Study of Dreams.  He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School.  He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018).  He lives in Portland, Oregon.</p>
+"""^^xsd:string ;
+    ns1:handle "kellybulkeley"^^xsd:string ;
+    ns1:itemId "bcphbqvbulk"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Kelly Bulkeley"^^xsd:string ;
+    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
 
 ns1:bcpqn7zvpei a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>

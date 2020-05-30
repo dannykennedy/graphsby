@@ -10,7 +10,7 @@ profileImg: author-fariba-bogzaran.jpg
 coverImg: cover-author-fariba-bogzaran.jpg
 ---
 
-Website: [faribabogzaran.com/](https://faribabogzaran.com/)
+Website: [faribabogzaran.com](https://faribabogzaran.com/)
 
 Fariba Bogzaran, PhD 1994, is artist/scientist, and founder of the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with Stephen LaBerge at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: *Extraordinary Dreams* (2002) with [Stanley Krippner](../@stanleykrippner) and *Integral Dreaming* (2012) with Daniel Deslauriers, both published by SUNY Press. 
 

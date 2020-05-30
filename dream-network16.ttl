@@ -6241,6 +6241,34 @@ ns1:bcpov6zfmanw a ns1:Post ;
     ns1:name "Met a Man Who Wasn’t There"^^xsd:string ;
     ns1:urlSlug "man-who-wasnt-there"^^xsd:string .
 
+ns1:bcpov6zfnetw a ns1:Post ;
+    ns1:dateCreated "1991-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Our primary role as dream networkers and educators is simply to make room for the dream in everyday life. The dream is the 'teacher' and primary source of knowledge and information. The dreamer is the one who learns to 'respond' to the dream. The dream-worker is the learner par excellence of the dream. Our role is to constantly open ourselves to the new, the fresh and the challenging lessons that the dream brings to us that challenges our pre-ordered conceptions of what is. We are 'blind-guides' who serve the dreamer's path and by serving we are led with the dreamer to the heart of the dream and to the light that illuminates the dreamer's path. As we soften our biases we come to experience a richer and wider realm of experience.</p>
+
+<p>As we walk this path with dreamers who are also exposed to the web and fabric of life in its deepest reservoir of meaning. If we allow ourselves to be open, then we find ourselves participating in an increasingly wide network of inquiry and relationships.</p>
+
+<p>As dream networkers and educators we must see that our work reaches into every avenue of life. Our models of interaction and creation must reach into the heart of society's myths, structures and beliefs if they are to have relevance. Our methods of relating to dreams must also expand and grow as new understanding unfolds in the society around us.</p>
+
+<p>There is a quiet revolution taking place in higher education from teacher centered learning (pedagogy) to learner centered learning (andragogy). In business a quiet transformation is taking place in organizations that are inverting the organizational chart—the employer is manager; employees engage in setting policy, benefits and often share equally in the profit; the customer is leader. The CEO is growing more concerned with doing the right things in contrast to doing "things" right. Vision, according to Naisbit in <em>Reinventing the Corporation</em>, is the link between dream and action. It is important that this kind of transformational value consciousness be reflected in evolution of the dream network if it is to have any social relevance in the world.</p>
+
+<p>In an evolving dream network the emphasis will be more on results and relationships than on structure, method, process and form. We will recognize that our intra-psychic relationships are most transformational when we perceive ourselves in winning partnerships with our dream characters. Likewise, we will realize the increased value of dream sharing with those around us as a way to deepen the level of understanding and intimacy in all our relationships.</p>
+
+<p>We will encourage dream partnerships to deepen our relationships with others and with ourselves. Our role as dream workers will be to facilitate increased dream literacy and to nurture the space that allows the dream to be expressed in everyday life.</p>
+
+<p>Dream groups can serve a variety of purposes. Some provide short term opportunities to learn particular approaches to dream work or to learn about particular information about dreams and dreaming. Some dream groups serve primarily as a way for peers to share and work with their dreams. Other groups provide for more in depth work on dreams with the help of an experienced guide. Another level is for serious dreamers to develop their dream partnership skills for working with other dreamers.</p>
+
+<p>Dream institutes and centers can emerge as networking points in a wide scale communications network committed to the vision of 'making room for the dream' in society at large. Here dreamers can find support for discovering and refining their own proficiency in working with their own dreams and the dreams of others. New discoveries can be explored, tested and shared with other dream sharing groups and individuals.</p>
+
+<p>In <em>Reinventing the Corporation</em>, Naisbit says that the basic skills required for the new era consists of thinking, learning and creating. We must go beyond these three linear skills in order to function in a non-linear world defined by diversity, fluidity, complexity and high risk. To do this we must learn new and powerful ways to access, explore and express the inner wisdom of our dreaming mind. We can acquire new skills for transforming: our beliefs, outworn values and institutions—so that they can be responsive to the complex, costly conditions facing us. This is our greatest challenge, the building or a network of dreamers who are empowered to act congruently and responsively in a rapidly transforming world.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3olse ;
+    ns1:hasTag ns1:bcphbo4ff76,
+        ns1:bcphbq3olse ;
+    ns1:itemId "bcpov6zfnetw"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Uncovering the Network"^^xsd:string ;
+    ns1:urlSlug "uncovering-the-network"^^xsd:string .
+
 ns1:bcpov6zfoldd a ns1:Post ;
     ns1:dateCreated "2015-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>It was time to dig those old dream journals out of the basement. Yes, they were all there stored in plastic storage containers, thirty-three years worth. The early journals were 9½ by 6 inch spiral notebooks. That spiral format had many advantages. Those notebooks could be opened and laid flat and were easy to write in even when lying in bed. And, the day’s events could be recorded on the left side with the resulting dreams of the next morning beginning on the right. They also came in all different colored covers adding a bit of fascination to them. Years later, larger format spirals replaced the small ones only to be replaced still later by three ring binders. </p>
@@ -8157,20 +8185,6 @@ ns1:bcphbnlbw5k a ns1:Post ;
     ns1:profileImg "7.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.2"^^xsd:string .
 
-ns1:bcphbo4ff76 a ns1:Post ;
-    ns1:coverImg "10.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1991-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.1-Dream-Network-Journal_Volume-10_No-1.pdf" download="">Download issue 10.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.1-Dream-Network-Journal_Volume-10_No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaqcodk ;
-    ns1:itemId "bcphbo4ff76"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 10, issue 1: Healing the Child Within "^^xsd:string ;
-    ns1:profileImg "10.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "10.1"^^xsd:string .
-
 ns1:bcphbohoqoq a ns1:Post ;
     ns1:coverImg "9.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
@@ -8577,6 +8591,20 @@ ns1:bcphbmvxewa a ns1:Post ;
     ns1:profileImg "5.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "5.6"^^xsd:string .
 
+ns1:bcphbo4ff76 a ns1:Post ;
+    ns1:coverImg "10.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1991-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.1-Dream-Network-Journal_Volume-10_No-1.pdf" download="">Download issue 10.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.1-Dream-Network-Journal_Volume-10_No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaqcodk ;
+    ns1:itemId "bcphbo4ff76"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 10, issue 1: Healing the Child Within "^^xsd:string ;
+    ns1:profileImg "10.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "10.1"^^xsd:string .
+
 ns1:bcphbpqyqpo a ns1:Post ;
     ns1:coverImg "11.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
@@ -8761,6 +8789,24 @@ ns1:bcphbq3mild a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Mildred Rosario"^^xsd:string ;
     ns1:profileImg "author-mildred-rosario.jpg"^^xsd:string .
+
+ns1:bcphbq3olse a ns1:User ;
+    ns1:coverImg "cover-author-fredolsen.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.inner-image.net/fred-olsen.php">inner-image.net</a></p>
+
+<p>Fred C. Olsen, M.Div. began his professional career in the Fall of 1965 following graduation from Seattle Pacific University with a B.S. in Mathematics. In 1967, Fred accepted a position with RCA International Service Corporation on a traveling team of technicians and engineers which was gearing up to calibrate satellite tracking stations for the NASA STADAN (Space Tracking and Data Acquisition Network), based at Goddard Space Flight Center in Greenbelt, Maryland.</p>
+
+<p>In this position, Fred traveled regularly to many countries, where he was able to gain a unique view of a world in ferment during the late 1960s and early 1070s. At NASA, Fred's focus was on identifying the "highest" information that reflected the state of the system. An example was a measure of the ratio of signal to noise and the data quality associated with a range of readings of the ratio of signal to noise.</p>
+
+<p>Olsen's concept of the "inner image" is the "highest information" source in the human psyche, both personally and collectively, what happens when the image changes. More importantly, this is the process by which the image forms and transforms in the human psyche. Jung's concept of the "transcendent function" sheds light on this problem.  The place at which the opposites meet in a balanced tension and equal relationship, is the place where transformation is possible.  If the conscious "ego" dominates, then we are back in the previous dilemma.  If the "ego" succumbs to the authority of the image, transformation is also sublimated and avoided.</p>
+
+<p>Olsen's Inner Image Method lays out the process that has evolved over the last few decades of exploration and refinement of this approach.</p>
+"""^^xsd:string ;
+    ns1:handle "fredolsen"^^xsd:string ;
+    ns1:itemId "bcphbq3olse"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Fred Olsen"^^xsd:string ;
+    ns1:profileImg "author-fredolsen.jpg"^^xsd:string .
 
 ns1:bcphbq3rcwi a ns1:User ;
     ns1:description """<p>Website: <a href="http://dreamgate.com/">dreamgate.com</a></p>
@@ -9631,7 +9677,7 @@ ns1:bcphbq3jean a ns1:User ;
 
 ns1:bcphbq3bogz a ns1:User ;
     ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com/</a></p>
+    ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com</a></p>
 
 <p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founder of the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with Stephen LaBerge at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: <em>Extraordinary Dreams</em> (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and <em>Integral Dreaming</em> (2012) with Daniel Deslauriers, both published by SUNY Press. </p>
 

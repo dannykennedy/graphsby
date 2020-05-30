@@ -1,5 +1,5 @@
 ---
-dateCreated: "1990-01-01T11:32:52"
+dateCreated: "1990-01-03T11:32:52"
 itemId: bcpov6rsppm3
 layout: post
 name: "How Myth Got Personal: Part Three"
@@ -21,7 +21,7 @@ A distinction between the mythic-magical qualities of primitive thought and the 
 
 As consciousness evolved, however, so did the ability to reflect, to step out of the myth and consider the way the myth structures experience. While stepping out of a particular myth is neither easy nor instinctive, the capacity to do so marks the birth of psychological freedom. This monumental and far-reaching development, which led to the evolution of modern science, makes it conceivable that a people can speed the process by which they free themselves from the inadequacies of their mythic inheritance, a particularly critical matter in a rapidly changing world. 
 
-Piaget's stage of "formal operational thought," which develops during adolescence, is parallel to the type of thinking that emerged in the Rational Epoch. With the advent oft his period both in psychological development and in the historical epoch, reasoning about reasoning became possible. The mind becomes capable of turning back upon itself and reflecting on what it perceives. With the maturation of the ego, self-awareness reached the point that individuals were capable of making decisions with some measure of objectivity. The four stages of cognitive development portrayed to this point have a pyramidal relationship[ to one another. Advanced cultural and personal myths rest upon earlier myths that came to terms with the life of the body and the separation of self from the environment. The essential tenets of each subsequent stage must be integrated into previous stages and each emerging stage may disrupt mythic explanations worked out in earlier stages. 
+Piaget's stage of "formal operational thought," which develops during adolescence, is parallel to the type of thinking that emerged in the Rational Epoch. With the advent oft his period both in psychological development and in the historical epoch, reasoning about reasoning became possible. The mind becomes capable of turning back upon itself and reflecting on what it perceives. With the maturation of the ego, self-awareness reached the point that individuals were capable of making decisions with some measure of objectivity. The four stages of cognitive development portrayed to this point have a pyramidal relationship to one another. Advanced cultural and personal myths rest upon earlier myths that came to terms with the life of the body and the separation of self from the environment. The essential tenets of each subsequent stage must be integrated into previous stages and each emerging stage may disrupt mythic explanations worked out in earlier stages. 
 
 ## THE DAWNING ERA OF A POST-CARTESIAN MYTHOLOGY 
 

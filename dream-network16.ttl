@@ -3632,7 +3632,7 @@ ns1:bcpov6rsppm1 a ns1:Post ;
     ns1:urlSlug "how-myth-got-personal-part-one"^^xsd:string .
 
 ns1:bcpov6rsppm2 a ns1:Post ;
-    ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1990-01-02T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><em>Part one of this three part series (V 10 Nos. 2&amp;3, p. 29) provided the foundation for exploring the four epochs through which we have evolved over time on our collective mythic journey. Here, we will look at three of these four mythological 'Epochs'. Part three (in the next issue) will conclude this study.</em></p>
 
 <h2>The Archaic Epoch</h2>
@@ -3704,7 +3704,7 @@ ns1:bcpov6rsppm2 a ns1:Post ;
     ns1:urlSlug "how-myth-got-personal-part-two"^^xsd:string .
 
 ns1:bcpov6rsppm3 a ns1:Post ;
-    ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1990-01-03T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><!--nopreview--><h2>The Rational Epoch</h2><!--/nopreview--></p>
 
 <p>Wilber describes the next stage of evolution in terms of a "final differentiation and crystallization of the mind out of the body". In the earlier stages, responsibility for one's fate was lodged primarily in the external world and its objects, which Gebser interprets as "a sure sign of egolessness." Now the separate ego, the sense of a personal self that is the core of the modern individual's identity, had emerged from its previous embeddedness in nature. Based upon a provocative analysis of the historical record, the psychologist Julian Jaynes concluded that prior to the second millennium B.C., humanity had not yet developed the self-reflecting ego that characterizes modern consciousness. Surveying the use of linguistic metaphors, Jaynes speculated that only between the second and first millennia B.C. in the Western World had an "I" developed that could form inner narratives and consider alternative actions. This shift corresponds to the writing of the New Testament, where the relationship with God had become personal rather than to the Old Testament, where God's covenant was with the people of Israel. Whether or not Jaynes' dates and thesis regarding the implications of his source documents are correct, the development of an independent sense of self operating as a self-reflecting agent has been one of the crowning achievements of evolution. </p>
@@ -3715,7 +3715,7 @@ ns1:bcpov6rsppm3 a ns1:Post ;
 
 <p>As consciousness evolved, however, so did the ability to reflect, to step out of the myth and consider the way the myth structures experience. While stepping out of a particular myth is neither easy nor instinctive, the capacity to do so marks the birth of psychological freedom. This monumental and far-reaching development, which led to the evolution of modern science, makes it conceivable that a people can speed the process by which they free themselves from the inadequacies of their mythic inheritance, a particularly critical matter in a rapidly changing world. </p>
 
-<p>Piaget's stage of "formal operational thought," which develops during adolescence, is parallel to the type of thinking that emerged in the Rational Epoch. With the advent oft his period both in psychological development and in the historical epoch, reasoning about reasoning became possible. The mind becomes capable of turning back upon itself and reflecting on what it perceives. With the maturation of the ego, self-awareness reached the point that individuals were capable of making decisions with some measure of objectivity. The four stages of cognitive development portrayed to this point have a pyramidal relationship[ to one another. Advanced cultural and personal myths rest upon earlier myths that came to terms with the life of the body and the separation of self from the environment. The essential tenets of each subsequent stage must be integrated into previous stages and each emerging stage may disrupt mythic explanations worked out in earlier stages. </p>
+<p>Piaget's stage of "formal operational thought," which develops during adolescence, is parallel to the type of thinking that emerged in the Rational Epoch. With the advent oft his period both in psychological development and in the historical epoch, reasoning about reasoning became possible. The mind becomes capable of turning back upon itself and reflecting on what it perceives. With the maturation of the ego, self-awareness reached the point that individuals were capable of making decisions with some measure of objectivity. The four stages of cognitive development portrayed to this point have a pyramidal relationship to one another. Advanced cultural and personal myths rest upon earlier myths that came to terms with the life of the body and the separation of self from the environment. The essential tenets of each subsequent stage must be integrated into previous stages and each emerging stage may disrupt mythic explanations worked out in earlier stages. </p>
 
 <h2>THE DAWNING ERA OF A POST-CARTESIAN MYTHOLOGY</h2>
 

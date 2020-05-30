@@ -13,7 +13,7 @@ urlSlug: "the-secret-of-dream-work"
 
 The secret of dream work is that you don't need dreams to do the kind of work we do on them. These same techniques, once mastered by long and diligent work with dreams, can be applied to waking life with radical results. 
 
-## Free association
+<!--nopreview--><h2>Free association</h2><!--/nopreview-->
 
 Lie down and get into a relaxed state. Let your mind wander along any one of its innumerable habitual channels of association. The important thing is to let go of all conscious control and direction. Let what arises arise, and then let it move on to the next thing spontaneously, automatically. But each time you become aware that you are in the middle of a thought, focus on it; not on the thought itself, which is as shopworn and stale as our conscious minds themselves, but on the images behind the thought. In the pictures our minds have collected, there is a vast reservoir of information that has never been adequately processed because our consciousness was too narrow and constricted at the time by conditioning to perceive the seemingly infinite dimensions of feeling tones present. When these pictures themselves, the images upon which our thoughts are based, are revisited in this way at a later time - especially after we have worked extensively with dreams- we bring to them the much wider dimensions of consciousness we have become capable of in the interim. We can enter directly into the consciousness of those who touched our lives long ago. We can revisit the consciousness of the person we were then. When we can do that, it becomes apparent that we are not the same person now. We feel and understand who we are in a transformed way. 
 

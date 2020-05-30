@@ -55,20 +55,6 @@ ns1:bcphbhxekxp a ns1:Post ;
     ns1:profileImg "1.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.4"^^xsd:string .
 
-ns1:bcphbi4awjx a ns1:Post ;
-    ns1:coverImg "2.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-01-02T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.1-Dream-Craft-Volume-2-No-1.pdf" download="">Download issue 2.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.1-Dream-Craft-Volume-2-No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn72unjj ;
-    ns1:itemId "bcphbi4awjx"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 2, issue 1"^^xsd:string ;
-    ns1:profileImg "2.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "2.1"^^xsd:string .
-
 ns1:bcphbibydox a ns1:Post ;
     ns1:coverImg "1.7-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1982-09-01T11:32:52"^^xsd:dateTime ;
@@ -306,20 +292,6 @@ ns1:bcphbmaewem a ns1:Post ;
     ns1:name "Volume 4, issue 6"^^xsd:string ;
     ns1:profileImg "4.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.6"^^xsd:string .
-
-ns1:bcphbmepnkg a ns1:Post ;
-    ns1:coverImg "5.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1986-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.1-Dream-Network-Bulletin_Volume-5-Number-1.pdf" download="">Download issue 5.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.1-Dream-Network-Bulletin_Volume-5-Number-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoact7dh ;
-    ns1:itemId "bcphbmepnkg"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 5, issue 1"^^xsd:string ;
-    ns1:profileImg "5.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "5.1"^^xsd:string .
 
 ns1:bcphbmgxd6x a ns1:Post ;
     ns1:coverImg "5.2-cover.jpg"^^xsd:string ;
@@ -5127,6 +5099,45 @@ ns1:bcpov6zfacet a ns1:Post ;
     ns1:name "A 10 Facet Model of Dreaming for Use in Cross-Cultural Studies"^^xsd:string ;
     ns1:urlSlug "a-ten-facet-model-of-dreaming-for-use-in-cross-cultural-studies"^^xsd:string .
 
+ns1:bcpov6zfaion a ns1:Post ;
+    ns1:dateCreated "1986-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zfaion-0.jpg" alt="Awakening" width="100%" height="auto"/></p>
+
+<p>On a bright April morning in 1975, I had the following dream: Across the room from where I sat frustrated by my inability to create, a group of women taught arts and crafts at large tables. I arose from my lonely corner to leave in a spirit of failure and despair. As I walked away, a voice boomed out "At least there is AION!" I awoke to the new day in Zurich, Switzerland with the letters A-I-O-N emblazoned on my mind. I walked to the morning lecture at the Jung Institute - puzzled. What is AION?</p>
+
+<p>At noon I joined a friend for lunch in his room near the Institute. As I related my dream, I looked to the bookshelf to my right. Squarely before my eyes stood the title AION: The Phenomenology of The Self (Vol. 9.,11 The Collected Works of C. G. Jung). This and other synchronistic events and dreams confirmed my calling to work on the frontiers of inner space. </p>
+
+<p>Whereas many Jungians explored the depths of symbols, archetypes, complexes and myths, I was drawn to Jung's idea of active imagination and the transcendent function. </p>
+
+<h2>Waking Dream Re-entry</h2>
+
+<p>Waking dream re-entry is a particular approach to active imagination in which the dreamer re-enters the dream space while fully awake. Effective questions assist the dreamer to act consciously within the waking dream. </p>
+
+<blockquote>
+  <p>Stampeded by My First Love: A dreamer shared a recurring nightmare, still vivid after forty years. "I was standing on a path in a meadow where horses were grazing. The horses stampeded. I fell on the path and awoke in terror as their hooves crashed down on my face. </p>
+</blockquote>
+
+<p>When asked: "Can you see yourself in the dream?" she responded, "Yes." "How old are you?" "Four!" she responded in surprise. "What was happening when you were four?" "Oh! That was when my parents divorced. They sent me to my grandparents' horse ranch." "What is important to you about horses?" "They are my first love. Ah! I see." </p>
+
+<p>Can you see yourself in the dream now?" "Yes." "What do you see?" "I see the horses coming. I fall. I wake up as the hooves come down on my face." "Now, go back, only this time stay in the dream. If you could do anything differently, what would you do?" "If I could reach up and grab a mane, I might save myself." "Go there now. Do you see it?" "Yes. The horses are bearing down. I reach up and grab the mane of a big chestnut. I pull myself up on his back. Wow!" "What is happening now?" "I feel his power beneath me. I feel on top of things." "What do you want to do?" "I want to ride off... Oh! I didn't realize how angry I felt toward my parents for leaving me." </p>
+
+<h2>Instant Re-play and The Inner Image</h2>
+
+<p>Instant re-play allows the dreamer, who has wandered up a blind alley, to return to the point of choice and pursue a course of action from a new emotional standpoint. The ability to explore various emotional choices to their natural end, in the waking dream, provides the dreamer clear pictures of the obstacles and consequences of paths that might otherwise prove costly in waking life. </p>
+
+<p>From Jung's definition of the inner image, as a "condensed expression of the psychic situation as a whole", it follows that as the psychic situation changes so does the inner image; and as the inner image changes, so does the psychic situation. The goal is to participate consciously in the movement of the psyche as it spontaneously reflects its responses to our actions and choices within the waking dream. </p>
+
+<p>By discovering ways that the psyche moves us toward healing and reconciliation, we learn how to accelerate the healing relationship between the dreamer, the dreamed, and the world.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3olse ;
+    ns1:hasTag ns1:bcphbmepnkg,
+        ns1:bcphbq3olse ;
+    ns1:itemId "bcpov6zfaion"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "At Least There Is an AION"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zfaion-0.jpg"^^xsd:string ;
+    ns1:urlSlug "at-least-there-is-an-aion"^^xsd:string .
+
 ns1:bcpov6zfamil a ns1:Post ;
     ns1:dateCreated "1985-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="http://www.dalegottlieb.com/" target="_blank"></p>
@@ -6572,6 +6583,32 @@ ns1:bcpov6zfredb a ns1:Post ;
     ns1:profileImg "post-bcpov6zfredb-0.jpg"^^xsd:string ;
     ns1:urlSlug "reading-the-red-book-review"^^xsd:string .
 
+ns1:bcpov6zfseaf a ns1:Post ;
+    ns1:dateCreated "1983-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>During a recent trip to San Francisco I had the opportunity to attend the play "A Woman Dreams in a Seafood Restaurant" at the Habitat Center with two other dreamworkers, Sally Shute and Donna Levreault.</p>
+
+<p>A mood is set as the waitress sets the table. The customer enters, hurried, depressed and withdrawn. The waitress displays an overbearing presence and clearly patronizing attitude as she repeatedly serves food that is unedible and must be returned to the kitchen. </p>
+
+<p>As the woman's frustration grows, each trip to the kitchen triggers a deeper drift into a dream-like torpor emphasized by effective lighting and sound effects.</p>
+
+<p>The disgusting food, the shadow personalities of the woman and the the birth of darkness are portrayed by various dream characters. The first and most colorful is a lobster chef who forces the woman to eat a lobster which has been served in lieu of her rejected food. The second figure is a dark figure of a machine having all the disgusting qualities necessary to turn even the audience's stomach with its snorting and disgusting eating habits. This second figure joins the woman for dinner. </p>
+
+<p>As the play moves along the disgust gathers momentum until a grey mythical god delivers the waitress to the scene out of swaddling clothes. Soon the waitres s gives birth to black bat-like figures which the machine promptly gobbles down with disgusting relish. And so it goes. After the dream ends and the bill is presented in which the woman must pay an exorbitant fee - she leaves in confusion. </p>
+
+<p>Below the colorful persona and art lies a deep portrayal of hopelessness and disgust of life in isolation amidst the shadow of technology. There is no observable indication of any healing elements in the dream or of possible transformation except in the direction of darkness. </p>
+
+<p>This mode of theater has some obvious potential in the use of effects and costumes to portray dream states. The particular play "A Woman Dreams in a Seafood Restaurant" leaves the viewer confused and with a sense of disjointed incompleteness, not unlike waking from a disgusting dream that requires a considerable amount of dreamwork. One is tempted to want to re-enter the dream and re-enact it.</p>
+
+<p>Like the times in which we live there is a sense of hopelessness and the dream is left unfinished. In the midst of this theater in which we all play the dream worker's task is clear. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3olse ;
+    ns1:hasTag ns1:bcphbi4awjx,
+        ns1:bcphbq3olse ;
+    ns1:itemId "bcpov6zfseaf"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Theatre Review: Mark Knego's 'A Woman Dreams in a Seafood Restaurant'"^^xsd:string ;
+    ns1:urlSlug "a-woman-dreams-in-a-seafood-restaurant"^^xsd:string .
+
 ns1:bcpov6zfsing a ns1:Post ;
     ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><br><br></p>
@@ -7989,6 +8026,20 @@ ns1:bcphbhs662v a ns1:Post ;
     ns1:profileImg "1.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.3"^^xsd:string .
 
+ns1:bcphbi4awjx a ns1:Post ;
+    ns1:coverImg "2.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-01-02T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.1-Dream-Craft-Volume-2-No-1.pdf" download="">Download issue 2.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.1-Dream-Craft-Volume-2-No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
+    ns1:itemId "bcphbi4awjx"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 2, issue 1"^^xsd:string ;
+    ns1:profileImg "2.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "2.1"^^xsd:string .
+
 ns1:bcphbibyfox a ns1:Post ;
     ns1:coverImg "1.6-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1982-08-01T11:32:52"^^xsd:dateTime ;
@@ -8142,6 +8193,20 @@ ns1:bcphblsydwp a ns1:Post ;
     ns1:name "Volume 4, issue 2"^^xsd:string ;
     ns1:profileImg "4.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.2"^^xsd:string .
+
+ns1:bcphbmepnkg a ns1:Post ;
+    ns1:coverImg "5.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1986-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.1-Dream-Network-Bulletin_Volume-5-Number-1.pdf" download="">Download issue 5.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.1-Dream-Network-Bulletin_Volume-5-Number-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
+    ns1:itemId "bcphbmepnkg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 5, issue 1"^^xsd:string ;
+    ns1:profileImg "5.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "5.1"^^xsd:string .
 
 ns1:bcphbnagfeb a ns1:Post ;
     ns1:coverImg "6.3-cover.jpg"^^xsd:string ;
@@ -8789,24 +8854,6 @@ ns1:bcphbq3mild a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Mildred Rosario"^^xsd:string ;
     ns1:profileImg "author-mildred-rosario.jpg"^^xsd:string .
-
-ns1:bcphbq3olse a ns1:User ;
-    ns1:coverImg "cover-author-fredolsen.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.inner-image.net/fred-olsen.php">inner-image.net</a></p>
-
-<p>Fred C. Olsen, M.Div. began his professional career in the Fall of 1965 following graduation from Seattle Pacific University with a B.S. in Mathematics. In 1967, Fred accepted a position with RCA International Service Corporation on a traveling team of technicians and engineers which was gearing up to calibrate satellite tracking stations for the NASA STADAN (Space Tracking and Data Acquisition Network), based at Goddard Space Flight Center in Greenbelt, Maryland.</p>
-
-<p>In this position, Fred traveled regularly to many countries, where he was able to gain a unique view of a world in ferment during the late 1960s and early 1070s. At NASA, Fred's focus was on identifying the "highest" information that reflected the state of the system. An example was a measure of the ratio of signal to noise and the data quality associated with a range of readings of the ratio of signal to noise.</p>
-
-<p>Olsen's concept of the "inner image" is the "highest information" source in the human psyche, both personally and collectively, what happens when the image changes. More importantly, this is the process by which the image forms and transforms in the human psyche. Jung's concept of the "transcendent function" sheds light on this problem.  The place at which the opposites meet in a balanced tension and equal relationship, is the place where transformation is possible.  If the conscious "ego" dominates, then we are back in the previous dilemma.  If the "ego" succumbs to the authority of the image, transformation is also sublimated and avoided.</p>
-
-<p>Olsen's Inner Image Method lays out the process that has evolved over the last few decades of exploration and refinement of this approach.</p>
-"""^^xsd:string ;
-    ns1:handle "fredolsen"^^xsd:string ;
-    ns1:itemId "bcphbq3olse"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Fred Olsen"^^xsd:string ;
-    ns1:profileImg "author-fredolsen.jpg"^^xsd:string .
 
 ns1:bcphbq3rcwi a ns1:User ;
     ns1:description """<p>Website: <a href="http://dreamgate.com/">dreamgate.com</a></p>
@@ -9688,6 +9735,26 @@ ns1:bcphbq3bogz a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Fariba Bogzaran"^^xsd:string ;
     ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
+
+ns1:bcphbq3olse a ns1:User ;
+    ns1:coverImg "cover-author-fredolsen.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.inner-image.net/fred-olsen.php">inner-image.net</a></p>
+
+<p>Fred C. Olsen, M.Div. is a teacher, counselor, and consultant who moved from a career in the space program to explore the frontiers of inner space. </p>
+
+<p>He began his professional career in the Fall of 1965 following graduation from Seattle Pacific University with a B.S. in Mathematics. In 1967, Fred accepted a position with RCA International Service Corporation on a traveling team of technicians and engineers which was gearing up to calibrate satellite tracking stations for the NASA STADAN (Space Tracking and Data Acquisition Network), based at Goddard Space Flight Center in Greenbelt, Maryland.</p>
+
+<p>In this position, Fred traveled regularly to many countries, where he was able to gain a unique view of a world in ferment during the late 1960s and early 1070s. At NASA, Fred's focus was on identifying the "highest" information that reflected the state of the system. An example was a measure of the ratio of signal to noise and the data quality associated with a range of readings of the ratio of signal to noise.</p>
+
+<p>Olsen's concept of the "inner image" is the "highest information" source in the human psyche, both personally and collectively, what happens when the image changes. More importantly, this is the process by which the image forms and transforms in the human psyche. Jung's concept of the "transcendent function" sheds light on this problem.  The place at which the opposites meet in a balanced tension and equal relationship, is the place where transformation is possible.  If the conscious "ego" dominates, then we are back in the previous dilemma.  If the "ego" succumbs to the authority of the image, transformation is also sublimated and avoided.</p>
+
+<p>Olsen's Inner Image Method lays out the process that has evolved over the last few decades of exploration and refinement of this approach.</p>
+"""^^xsd:string ;
+    ns1:handle "fredolsen"^^xsd:string ;
+    ns1:itemId "bcphbq3olse"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Fred Olsen"^^xsd:string ;
+    ns1:profileImg "author-fredolsen.jpg"^^xsd:string .
 
 ns1:bcphbq3wagg a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>

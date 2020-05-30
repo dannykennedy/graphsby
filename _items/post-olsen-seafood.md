@@ -1,5 +1,5 @@
 ---
-dateCreated: '1991-01-01T11:32:52'
+dateCreated: '1983-10-01T11:32:52'
 itemId: bcpov6zfseaf
 layout: post
 name: "Theatre Review: Mark Knego's 'A Woman Dreams in a Seafood Restaurant'"
@@ -25,7 +25,7 @@ Below the colorful persona and art lies a deep portrayal of hopelessness and dis
 
 This mode of theater has some obvious potential in the use of effects and costumes to portray dream states. The particular play "A Woman Dreams in a Seafood Restaurant" leaves the viewer confused and with a sense of disjointed incompleteness, not unlike waking from a disgusting dream that requires a considerable amount of dreamwork. One is tempted to want to re-enter the dream and re-enact it.
 
-Like the times 
+Like the times in which we live there is a sense of hopelessness and the dream is left unfinished. In the midst of this theater in which we all play the dream worker's task is clear. 
 
 
 

@@ -15,7 +15,7 @@ urlSlug: "how-myth-got-personal-part-one"
 
 **ABSTRACT** 
 
-> Treating myth-making as the vehicle through which consciousness is given form, this paper traces historical evidence indicating that mythology, consciousness, and culture have evolved in concert. No longer are myths conveyed by a single storyteller around a campfire. Each person in ancient times was wedded to the mythology of the tribe, but modern cultures do not have a single unifying mythology. Today, numerous competing myths and fragments of myths vie for people's attention and allegiance. Our senses are bombarded by diverse mythic images that are simultaneously flashed around the world. These developments allow and, in fact, force people to think for themselves in ways that were unimaginable in the past. Mythmaking, and the spiritual concerns that have always been the province of mythology, have increasingly become the responsibility of the individual. Developments leading to this "personalizing" of mythology, and their implications, are discussed.
+*Treating myth-making as the vehicle through which consciousness is given form, this paper traces historical evidence indicating that mythology, consciousness, and culture have evolved in concert. No longer are myths conveyed by a single storyteller around a campfire. Each person in ancient times was wedded to the mythology of the tribe, but modern cultures do not have a single unifying mythology. Today, numerous competing myths and fragments of myths vie for people's attention and allegiance. Our senses are bombarded by diverse mythic images that are simultaneously flashed around the world. These developments allow and, in fact, force people to think for themselves in ways that were unimaginable in the past. Mythmaking, and the spiritual concerns that have always been the province of mythology, have increasingly become the responsibility of the individual. Developments leading to this "personalizing" of mythology, and their implications, are discussed.*
 
 ## PART ONE
 
@@ -60,7 +60,9 @@ Thomas, L. (1974). *The Lives of a Cell.* New York: Bantam. pg. 142
 Wheelwright, P. (1942). *Poetry, Myth, and Reality.* In A. Tate (Ed.), *The Language of Poetry*, Princeton, NJ: Princeton U Press. pg.10 
 Wilber; Ken. (1981). *Up from Eden: A transpersonal view of human evolution.* Garden City, NY: Anchor/ Doubleday. 
 
-*This article by Dr. Feinstein is adapted from an earlier paper published in the Humanistic Psychologist, 18(2), 1990, and is reprinted with his permission.*
+<hr>
+
+*This article by Dr. Feinstein is adapted from an earlier paper published in the Humanistic Psychologist, 18 (2), 1990, and is reprinted with his permission.*
 
 
 

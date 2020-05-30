@@ -6579,16 +6579,6 @@ How the Universe is alive and we are all making music!<br>
     ns1:profileImg "post-bcpov6zfsing-0.jpg"^^xsd:string ;
     ns1:urlSlug "the-trees-are-singing"^^xsd:string .
 
-ns1:bcpov6zfsra a ns1:Post ;
-    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/coat-of-many-colors-rect.jpg"/><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpov6zfsra"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Coat of Many Colors"^^xsd:string ;
-    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
-    ns1:urlSlug "coat-of-many-colors"^^xsd:string .
-
 ns1:bcpov6zftran a ns1:Post ;
     ns1:dateCreated "1974-10-14T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><em>Published in <strong>Ullman on Dreams</strong>, Vol. 19, No. 2, May 1975,  pp. 8-10, The American Academy of Psychoanalysis</em></p>
@@ -6715,6 +6705,64 @@ ns1:bcpov6zfwhat a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "What IS a dream?"^^xsd:string ;
     ns1:urlSlug "what-is-a-dream"^^xsd:string .
+
+ns1:bcpov6zincep a ns1:Post ;
+    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zincep-0.jpg" alt="Inception movie poster" width="200" height="auto"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i>Inception</i>, 2010, directed by Christopher Nolan</div><!--/nopreview--></p>
+
+<p>I am certain many viewers walked out of Inception with great delight at the concept. Its creative expression is brilliant. However, as someone who has been teaching Extraordinary Dreams such as lucid dreaming, dreams within dreams, mutual dreaming, for a very long time, I left the movie with some questions. </p>
+
+<p>Although the movie draws attention to extraordinary experiences in dreams, I wonder about the message this film is conveying. Of course the movie is Science Fiction, but beyond every novel or any science fiction, there is scientific and narrative truth. In a recent interview, Chris Nolan stated that he did not do much research into dreaming and that the script is based primarily on his own experiences. His personal experience has provided him with enough qualitative material to convey states of consciousness that some people access easily while others manage to attain only through effort, incubation or invocation. </p>
+
+<p>Whether the knowledge is gained from within or outside, the incorporation of his personal experience with dreams and literature in the movie is brilliant and the visuals are stunning... although the thriller content of chasing and killing were far from being original or interesting. Haven’t we all had those “recurring dreams”? Can we be thrilled with something else? </p>
+
+<p>Maybe I am numbed by the state of the world conflict, but somehow taking a subject so incredible and inoculating it with another chasing theme is not an exciting dream-movie to me. Yes, the incorporation was fabulous... but such nightmares are no longer subconscious material. I was hoping that as the characters went (as they called it) “deeper,” that their subconscious would illuminate something different than that with which we are already surrounded. Perhaps there could have been a profound solution of how to go beyond our psychic warfare? Violence is no longer deep in the subconscious. Violence is what we deal with on a daily basis. We should not forget that at this moment violence is in our backyard, it is not in someone else's. It is not in the world of imagination, it is here. We just have to tune into world news on a daily basis. </p>
+
+<p>The thrill for me as an audience was the anticipation of waiting to see if they could arrive at a place within consciousness where the seed of wisdom lies, beyond the reptilian brain of fight or flight. I suppose that was my dream: that they would reach a transformative state that not only elevated the characters to greater lucidity but also awakened the audience to new levels of consciousness. </p>
+
+<p>In the movie, the last level they reached within the main character’s subconscious, was powerful psychological work and offered the kind of choice-making that lucid dreaming practices have been promoting for years. There was hope that we’d see emotional resolutions. Rather, the movie illustrated that such practices can cause delusions and thus the danger of not being able to distinguish the dream state from reality. This is a clear example of how great phenomena such as lucid dreaming can be taken out of context. </p>
+
+<p>What I appreciated about the movie was the incredible creativity in visual animations, clever plot of dreams within dreams, perceptual play and the fact that, as an audience, we were captured in the layers of the repetitive dream within dreams to the extent of forgetting where the line is: the distinction between waking and dream reality? </p>
+
+<p>The main actor (DiCaprio) performed beautifully, as do many of our dream characters. We are often caught in those dreams and we believe in them. The actress (Ellen Page) was truly the lucid one who practiced non-attachment to the emotional illusions and made the choices that kept the nightmare from turning into further tragedy. </p>
+
+<p>Of course all of us in the field of dream studies will likely watch this movie over and over again. It provides a great topic for discussion about dreams, extraordinary experiences in dreams and waking reality. But I ask again, can we not create a larger vision, using higher states of consciousness to move beyond conflict, greed and violence? Perhaps as humans, we have no example of “what it is like” to be and live in such a state of consciousness. Is that why we keep repeating our old dreams? </p>
+
+<p>Since Nolan is deeply interested in dreams, I hope, in his next film, that he continues to face the psychological shadow and move even deeper into the spaces of the Soul/Mind where he can allow the natural wisdom phenomena to reveal itself. Perhaps then we will see not only the resolution of the inner conflicts but the display of a workable solution for a world desperately in need of harmony. ∞</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3bogz ;
+    ns1:hasTag ns1:bcphbq3bogz,
+        ns1:bcphbyukqzw ;
+    ns1:itemId "bcpov6zincep"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Inception: Movie Review"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zincep-0.jpg"^^xsd:string ;
+    ns1:urlSlug "inception-movie-review"^^xsd:string .
+
+ns1:bcpov6zinwwd a ns1:Post ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zinwwd-1.jpg" alt="Art by Fariba Bogzaran" width="500" height="auto"/></p>
+
+<p>A good understanding of our dreams will lead us to a better understanding of ourselves. Recently a group of friends and I got together in Stevens Point, Wisconsin, and started a dream group. The group is based on sharing out recent dreams and trying to help each other to better understand the meanings of the dreams. The goal of the group is to be more aware of ourselves through our dreams and to advance in self-realization. </p>
+
+<p>A long time ago, I began to work with my dreams by setting my alarm clock to awaken me in the night at a time when, according to to the information about the REM cycle, I might be most likely to remember a dream. I had pen and notebook ready at hand for recording. Just about every time I awakened with the clock, I would write down some clues which would help me recall my dreams in the morning and record them in more detail. </p>
+
+<p>Now I am habituated to remembering my dreams and I can tell when I am going into the waking state. I know that I can spend up to 10 minutes in this state, so I now rehearse the dreams in my memory, and fix the images in my mind. After waking up, I usually spend perhaps half an hour in bed thinking about the night of sleep and and dreams. The dreams that I first noted down in the middle of the night, I fill in with more detail as I write all the dreams I have been able recall. Working with the dreams begins right away as I write them down and think about them. Working with my dreams, remembering them and writing them down I have discovered that I have had precognitive dreams, lucid dreams, and dreams that led to the feeling of <em>deja vu</em> when awake. </p>
+
+<p>Sometimes I make a sketch of a particularly important dream image. It is very helpful to sketch a dream right after waking - I try to capture the colors with colored pencils. Some dreams are so moving that just recording them in a journal is not enough - so I write them as poems. Sharing dreams with a close friend usually gives me some different perceptions of my dreams and of myself. It is almost like therapy, because a close friend is aware of my personal life and can often give me some insights. Working through my dreams makes me realize more about myself. This understanding has led me to some unexpected insights into my life!</p>
+
+<p><img src="../images/post-bcpov6zinwwd-0.jpg" alt="Art by Fariba Bogzaran" width="500" height="auto"/></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3bogz ;
+    ns1:hasTag ns1:bcphbq3bogz,
+        ns1:bcpov6zfsra ;
+    ns1:itemId "bcpov6zinwwd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Working with Dreams"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zinwwd-1.jpg"^^xsd:string ;
+    ns1:urlSlug "working-with-dreams"^^xsd:string .
 
 ns1:bcpov6zlucse a ns1:Post ;
     ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
@@ -8390,20 +8438,6 @@ ns1:bcphbyoxe6n a ns1:Post ;
     ns1:profileImg "29.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.2"^^xsd:string .
 
-ns1:bcphbyukqzw a ns1:Post ;
-    ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf" download="">Download issue 29.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocknhzs ;
-    ns1:itemId "bcphbyukqzw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
-    ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "29.3"^^xsd:string .
-
 ns1:bcphbz2bump a ns1:Post ;
     ns1:coverImg "32.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2013-04-01T11:32:52"^^xsd:dateTime ;
@@ -8473,6 +8507,16 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:name "Volume 32, issue 1: Group Dreaming"^^xsd:string ;
     ns1:profileImg "32.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
+
+ns1:bcpov6zfsra a ns1:Post ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/coat-of-many-colors-rect.jpg"/><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p></p>
+"""^^xsd:string ;
+    ns1:itemId "bcpov6zfsra"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Coat of Many Colors"^^xsd:string ;
+    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "coat-of-many-colors"^^xsd:string .
 
 ns1:Page a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Actor .
@@ -8628,20 +8672,6 @@ ns1:bcphbq3bayl a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Janice Baylis"^^xsd:string ;
     ns1:profileImg "author-janicebaylis.jpg"^^xsd:string .
-
-ns1:bcphbq3bogz a ns1:User ;
-    ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com/</a></p>
-
-<p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founder of the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with Stephen LaBerge at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: <em>Extraordinary Dreams</em> (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and <em>Integral Dreaming</em> (2012) with Daniel Deslauriers, both published by SUNY Press. </p>
-
-<p>She teaches lucid dreaming at CIIS and gives lectures internationally. Using her art-based research, she co-founded Lucid Art Foundation (1998) with the surrealist painter Gordon Onslow Ford. She established an artist residency program for the foundation where artists work and live in the heart of nature. Fariba has lived adjunct to wilderness for the past thirty years and is active in earth's preservation.</p>
-"""^^xsd:string ;
-    ns1:handle "faribabogzaran"^^xsd:string ;
-    ns1:itemId "bcphbq3bogz"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Fariba Bogzaran"^^xsd:string ;
-    ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
 
 ns1:bcphbq3curt a ns1:User ;
     ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of The Seven Story Tower: A Mythic Journey through Space and Time, and Stone Prayers, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.</p>
@@ -8981,6 +9011,20 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:name "Volume 28, issue 1: Chaos & Apocalypse"^^xsd:string ;
     ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.1"^^xsd:string .
+
+ns1:bcphbyukqzw a ns1:Post ;
+    ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf" download="">Download issue 29.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocknhzs ;
+    ns1:itemId "bcphbyukqzw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
+    ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "29.3"^^xsd:string .
 
 ns1:bcphbzlhdke a ns1:Post ;
     ns1:coverImg "31.2-cover.jpg"^^xsd:string ;
@@ -9584,6 +9628,20 @@ ns1:bcphbq3jean a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jean Campbell"^^xsd:string ;
     ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
+
+ns1:bcphbq3bogz a ns1:User ;
+    ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com/</a></p>
+
+<p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founder of the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with Stephen LaBerge at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: <em>Extraordinary Dreams</em> (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and <em>Integral Dreaming</em> (2012) with Daniel Deslauriers, both published by SUNY Press. </p>
+
+<p>She teaches lucid dreaming at CIIS and gives lectures internationally. Using her art-based research, she co-founded Lucid Art Foundation (1998) with the surrealist painter Gordon Onslow Ford. She established an artist residency program for the foundation where artists work and live in the heart of nature. Fariba has lived adjunct to wilderness for the past thirty years and is active in earth's preservation.</p>
+"""^^xsd:string ;
+    ns1:handle "faribabogzaran"^^xsd:string ;
+    ns1:itemId "bcphbq3bogz"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Fariba Bogzaran"^^xsd:string ;
+    ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
 
 ns1:bcphbq3wagg a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>

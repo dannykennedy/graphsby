@@ -165,7 +165,6 @@ print("Building graph edges")
 for pyyam in file_objects:
 	if 'tags' in pyyam.keys() and pyyam['tags'] is not None:
 		for tag in pyyam['tags']:
-
 			tag_key = list(tag.keys())[0]
 			tag_value = list(tag.values())[0]
 

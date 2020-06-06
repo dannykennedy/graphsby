@@ -237,20 +237,6 @@ ns1:bcphblfujy2 a ns1:Post ;
     ns1:profileImg "3.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "3.3"^^xsd:string .
 
-ns1:bcphbliwn3u a ns1:Post ;
-    ns1:coverImg "3.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1984-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.4-The-Dream-Network_Volume-3_No-4.pdf" download="">Download issue 3.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.4-The-Dream-Network_Volume-3_No-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn76e7n5 ;
-    ns1:itemId "bcphbliwn3u"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 3, issue 4"^^xsd:string ;
-    ns1:profileImg "3.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "3.4"^^xsd:string .
-
 ns1:bcphbllkqg7 a ns1:Post ;
     ns1:coverImg "3.5-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1984-09-01T11:32:52"^^xsd:dateTime ;
@@ -278,20 +264,6 @@ ns1:bcphblyrd2y a ns1:Post ;
     ns1:name "Volume 4, issue 4"^^xsd:string ;
     ns1:profileImg "4.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.4"^^xsd:string .
-
-ns1:bcphbmaewem a ns1:Post ;
-    ns1:coverImg "4.6-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1985-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.6-Dream-Network-Bulletin_Volume-4-Number-6.pdf" download="">Download issue 4.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.6-Dream-Network-Bulletin_Volume-4-Number-6.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn77nhwr ;
-    ns1:itemId "bcphbmaewem"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 4, issue 6"^^xsd:string ;
-    ns1:profileImg "4.6-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "4.6"^^xsd:string .
 
 ns1:bcphbmgxd6x a ns1:Post ;
     ns1:coverImg "5.2-cover.jpg"^^xsd:string ;
@@ -1207,6 +1179,490 @@ ns1:bcpov6gresci a ns1:Post ;
     ns1:name "The Dream-Art Scientist"^^xsd:string ;
     ns1:urlSlug "dream-art-scientist"^^xsd:string .
 
+ns1:bcpov6kanimd a ns1:Post ;
+    ns1:dateCreated "1985-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6kanimd-0.jpg" width="300px" height="auto"/></p>
+
+<p>Because we are the evolutionary product of an ancestry stretching back millions of years to an origin in the animal kingdom, many traces of our animal heritage can be found in our physiological and psychological functioning. There is a whole menagerie of animals who emerge during our nocturnal dreaming safaris to the dark continent of our sleeping mind. </p>
+
+<p>What significance should be given to these jungle or domesticated denizens who appear in our dreams? Here are some speculations that have been advanced by various dream theorists: In "The Interpretation of Dreams", Freud proposes that </p>
+
+<blockquote>
+  <p><em>"wild beasts... represent passionate impulses of which the dreamer is afraid, whether they are his own or those of other people" (1961, p. 410).</em></p>
+</blockquote>
+
+<p>Ernest Jones, a follower of Freud, says: </p>
+
+<blockquote>
+  <p><em>"Analytical experience has shown that the occurrence of animals in a dream regularly indicates a sexual theme, usually an incest one" (1959' p. 70).</em> </p>
+</blockquote>
+
+<p>Hadfield (1954) suggests that crab, spider and vampire images represent the visceral objectifications of the bodily feelings associated with orgasm. The crab portrays the changes in visceral and abdominal muscles which produce a gripping sensation; the relaxed feelings following orgasm are represented by the sprawling legs and soft underbelly of the spider image; the washed-out feeling of fatigue, as though the blood had been sucked dry, is externalized by a vampire figure. </p>
+
+<p>Jelliffe and Brink noted "the astonishing revelation in psycho-neurotic dreams of the use of animal material" (1917, p. 253). Stekel claims "The danger of approaching insanity expresses itself in dreams of... a sudden attack by a wild beast" (1943, p. 421). Gutheil states "Very often the unconscious is represented by sinister animals" (1960, p.l63). He also proposes that being bitten by an animal may be a symbol of "pangs of conscience". Despert, in discussing the dreams of preschool children, comments "animals as motives are almost always sadistic and often totally destructive, regardless of size, etc. They bite and devour the child or chase him" (1949' p. 141). According to Fodor (1951), being swallowed by a voracious ani mal is a portrayal of our intense fear of birth. </p>
+
+<p>For Jung (1916), animal figures: </p>
+
+<blockquote>
+  <p><em>"in so far as they do not symbolize merely the libido in general, have a tendency to represent father and mother, father by a bull, mother by a cow".</em></p>
+</blockquote>
+
+<p>Freud refers to dreams in which </p>
+
+<blockquote>
+  <p><em>"a dreaded father is represented by a beast of prey or dog or wild horse" (1961, p. 41).</em></p>
+</blockquote>
+
+<p>In a paragraph describing how many specific animals such as snakes, fish and cats are used as genital symbols, Freud states "Small animals and vermin represent small children - for instance, undesired brothers and sisters" (1961, p. 357). Just as Shakespeare used animal analogy as a technique for character 'portrayal (Yoder, 1947), animal figures can be employed to represent various aspects of the dreamer's character. Thus Boss writes "In subjective interpretation a dream tortoise would signify the tortoise-like and armored character of the dreamer himself" (1958, p. 49).</p>
+
+<p><img src="../images/post-bcpov6kanimd-1.jpg" width="300px" height="auto"/></p>
+
+<p>It's obvious that many theoretical views regarding the significance of animal figures in dreams have been advanced. I found these references when I was preparing a book chapter entitled "Animal Figures in Fantasy and Dreams" (1983). That chapter also contains a review of all the research studies where the frequency or type of animal figures in dreams were given. In one study that I carried out, I examined 2,000 dreams of female college students and 2,000 dreams of male college students to discover how often animal figures appeared and which animals were most common. </p>
+
+<p>There were 149 female and 151 male dreams containing at least one animal figure. This represents a frequency of 7.5% for each sex. The ten most common animals for adults were:</p>
+
+<table style="min-width: 50%; margin: auto">
+
+<thead>
+
+  <tr>
+
+    <th>Animal type</th>
+
+    <th>Females</th>
+
+    <th>Males</th>
+
+    <th>Both</th>
+
+  </tr>
+
+</thead>
+
+<tbody>
+
+  <tr>
+
+    <td>Dog</td>
+
+    <td>42</td>
+
+    <td>24</td>
+
+    <td>66</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Horse</td>
+
+    <td>38</td>
+
+    <td>21</td>
+
+    <td>59</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Cat</td>
+
+    <td>17</td>
+
+    <td>10</td>
+
+    <td>27</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Bird</td>
+
+    <td>9</td>
+
+    <td>18</td>
+
+    <td>27</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Snake</td>
+
+    <td>8</td>
+
+    <td>16</td>
+
+    <td>24</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Fish</td>
+
+    <td>11</td>
+
+    <td>10</td>
+
+    <td>21</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Insect</td>
+
+    <td>12</td>
+
+    <td>8</td>
+
+    <td>20</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Water Animal</td>
+
+    <td>6</td>
+
+    <td>10</td>
+
+    <td>16</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Fowl</td>
+
+    <td>5</td>
+
+    <td>9</td>
+
+    <td>14</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Rodent</td>
+
+    <td>8</td>
+
+    <td>2</td>
+
+    <td>10</td>
+
+  </tr>
+
+</tbody>
+
+</table>
+
+<p>If this table is examined, you can see that women were more likely to have mammals in their dreams while men reported more non mammals. Of the total of 194 animal figures in women's dreams, 128 were mammals, 54 were non mammals and 12 were generic animals. Of the total of 203 animal figures in men's dream, 98 were mammals, 92 were non mammals, and 13 were generic animals. </p>
+
+<p>Mammals are biologically and conceptually more similar to humans. Women report more mammals and they also report more human characters than men do in their dreams (Hall and Van de Castle, 1966). In my chapter, I present some evidence to suggest that a higher level of animal phylogenetic (evolutionary) development may be associated with a higher level of social and emotional maturity.</p>
+
+<p><img src="../images/post-bcpov6kanimd-2.jpg" width="300px" height="auto"/></p>
+
+<p>I also examined the animal figures in the dreams of 721 children aged 4 - 16 years old. There were 383 girls and 358 boys. My chapter presents frequencies of each animal figure at each year level for girls and boys separately. Animal figures were present in 39.4% of dreams from the four and five year olders and the percentage figure steadily dropped for each subsequent two year age grouping (35.5, 33.6, 29.8, 21.9, 13.7). The latter figure covers a three year grouping from ages 14 - 16. Animal figures appeared in 29.0% of the combined girls' dreams and 29.6% of the combined boys' dreams. </p>
+
+<p>To make a table comparable to that provided for college students, the ten most common animal figures in the combined children's' dreams will be presented (including monsters, where the dream description made it clear that it was an animal or something like a wolfman rather than a human monster):</p>
+
+<table style="min-width: 50%; margin: auto">
+
+<thead>
+
+  <tr>
+
+    <th>Animal type</th>
+
+    <th>Girls</th>
+
+    <th>Boys</th>
+
+    <th>Both</th>
+
+  </tr>
+
+</thead>
+
+<tbody>
+
+  <tr>
+
+    <td>Dog</td>
+
+    <td>15</td>
+
+    <td>15</td>
+
+    <td>30</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Horse</td>
+
+    <td>22</td>
+
+    <td>6</td>
+
+    <td>28</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Cat</td>
+
+    <td>9</td>
+
+    <td>6</td>
+
+    <td>15</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Snake</td>
+
+    <td>6</td>
+
+    <td>9</td>
+
+    <td>15</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Bear</td>
+
+    <td>7</td>
+
+    <td>7</td>
+
+    <td>14</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Monster</td>
+
+    <td>5</td>
+
+    <td>8</td>
+
+    <td>13</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Lion</td>
+
+    <td>5</td>
+
+    <td>8</td>
+
+    <td>13</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Bird</td>
+
+    <td>6</td>
+
+    <td>6</td>
+
+    <td>12</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Spider</td>
+
+    <td>2</td>
+
+    <td>7</td>
+
+    <td>9</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Gorilla</td>
+
+    <td>4</td>
+
+    <td>5</td>
+
+    <td>9</td>
+
+  </tr>
+
+</tbody>
+
+</table>
+
+<p>The girls reported more mammal figures than boys. Of the total of 128 animal figures in girls' dreams, 91 were mammals and 25 were non-mammals. The others were generic and monsters. Of the total of 130 animal figures in boys' dreams, 73 were mammals and 46 were non-mammals.</p>
+
+<p><img src="../images/post-bcpov6kanimd-3.jpg" width="300px" height="auto"/></p>
+
+<p>It can be seen that some types of animal figures are more prevalent in children's dreams. The combination of snakes, bears, monsters, lions, spiders, gorillas, tigers and insects accounted for 34% of the animals in children's dreams, but this same grouping of animals appeared in only 17% of college students' dreams. Children dream more frequently of wild, threatening animals while college students dream more often of pets or domesticated animals. </p>
+
+<p>To obtain a better understanding of the meaning of animal dreams, I performed a contingency analysis, to discover what other elements are present in the dreams where animal figures are represented. I examined 901 dreams (453 from women, 454 from men) of college students in which all the characters were human and compared them to 150 dreams (75 from women, 75 from men) where at least one animal character was present. The presence of animal figures in dreams has a significant effect upon other features of the dream. Dreams with animal figures are more likely to be short, take place in an outdoor setting which is unfamiliar or distorted, have a great deal of activity, often of a violent nature, or be associated with some misfortune. The dreamer experiences apprehension, becomes more sensitized to various parts of his/her body, and exerts some effort to overcome a challenging problem encountered in his/her dream. As the number of animals in the dream increases, all of the features described above become more intensified. </p>
+
+<p>For those dreams where only humans appeared, there are 28 aggressive acts for every 100 characters present, but in dreams where animal figure predominate, there are 56 aggressive acts for every character. If a dreamer is going to have another character initiate some interactional pattern with him/her, there is a 44% chance that friendliness will be received if the other character is a human but only a 4% chance if that character is an animal. In my chapter, I also look at what types of animals are present in 246 dreams from two groups of Australian Aborigines; 118 dreams from natives on South Pacific islands; 190 dreams from North American Indians; and 448 Peruvian dreams. Fish or other forms of aquatic animals were the most frequent type of animal figures for those groups living near water but were almost totally absent in the dreams of inland dwelling groups (Central Australia and Hopi Indians). Snakes were reported fairly often (27 times) by Australian Aborigines and Hopis but never by South Pacific islanders. Kangaroos, wallabies, crocodiles, and stingrays were exclusive to Australian dreams; the only cats were in Truk Island dreams; and the only exotic jungle animals (lion, tiger, elephant) were found in the dreams of Peruvian students. Thus, in preliterate societies, the animals dreamed about are those the dreamer has encountered in daily living, frequently in a hunting or fishing context, while members of a literate society have an almost limitless number of animals available to them for portraying the animal characteristic needed for a particular dream scenario (sly as a fox, strong as an ox, free as a bird, etc.). The particular types of animals we employ in our dreams will clearly be a function of what culturally shared or personally learned associations we have developed regarding particular animal species. </p>
+
+<p>You might find it a useful exercise to examine your dream journal for the types of animal figures that have appeared in your dreams and note what types of feelings, events, and outcomes were associated with these dreams.</p>
+
+<h2>Samples of animals in dreams</h2>
+
+<p><img src="../images/post-bcpov6kanimd-5.jpg" width="300px" height="auto"/></p>
+
+<blockquote>
+  <p><em>I am the captain of my ship. There is a big hurricane. Water comes up on the poop deck. The bottom of the boat is white and the sides are colored. Then there is a white whale that comes from the South Pole. There are liferafts and a red, white and blue flag. (Five year old boy)</em></p>
+</blockquote>
+
+<p><img src="../images/post-bcpov6kanimd-6.jpg" width="300px" height="auto"/></p>
+
+<blockquote>
+  <p><em>My wife and I have a lion cub as a pet in our home. The lion is very friendly until one day it bites me and I can see distinct teeth marks on my forearm. I can't move my arm or tell anyone. I am unable to call for help in any way. (24 year old worried college student)</em></p>
+</blockquote>
+
+<p><img src="../images/post-bcpov6kanimd-7.jpg" width="300px" height="auto"/></p>
+
+<blockquote>
+  <p><em>I see an animal that looks like a big wolf-hound. It pays no attention to me. I don't know why, but suddenly I start to run and in an instant the dog is chasing me. All at once it falls into a seemingly bottomless pit. As I look down, the dog seems to spin in a circle but instead of going down it is slowly coming closer and closer to me when I wake up. (22 year old male college student)</em></p>
+</blockquote>
+
+<p><img src="../images/post-bcpov6kanimd-8.jpg" width="300px" height="auto"/></p>
+
+<blockquote>
+  <p><em>The telephone rings, I answer it, leaving my grandmother alone in the room in her favorite chair. I return to the room again. I find a mouse sitting in her chair. The mouse indicates that it is my grandmother. I am frightened. (Female college student)</em></p>
+</blockquote>
+
+<p><img src="../images/post-bcpov6kanimd-9.jpg" width="300px" height="auto"/></p>
+
+<blockquote>
+  <p><em>My friend Steve is hunting wild pigs with a Boy Scout knife and a wild pig turns into a cowboy. The cowboy says, "I'm going to eat you up." I say, "Eat me up, then." He comes at me with a knife and sticks in my arm real hard, but it doesn't open up my arm because it is too hard. I say to the cowboy, "I'm too hard, I'm on your side." (Four year old boy)</em></p>
+</blockquote>
+
+<p><img src="../images/post-bcpov6kanimd-10.jpg" width="300px" height="auto"/></p>
+
+<blockquote>
+  <p><em>My friend Steve is hunting wild pigs with a Boy Scout knife and a wild pig turns into a cowboy. The cowboy says, "I'm going to eat you up." I say, "Eat me up, then." He comes at me with a knife and sticks in my arm real hard, but it doesn't open up my arm because it is too hard. I say to the cowboy, "I'm too hard, I'm on your side." (Four year old boy)</em></p>
+</blockquote>
+
+<p><img src="../images/post-bcpov6kanimd-11.jpg" width="300px" height="auto"/></p>
+
+<blockquote>
+  <p><em>I am riding a horse along a steep mountain trail overhanging a high cliff. The horse is galloping and can't make a turn and goes over the cliff. On the way down I realize to myself, "I'm a dead cookie." I am very disappointed at the fact that I won't achieve any of my ambitions. (20 year old male college student)</em></p>
+</blockquote>
+
+<p><img src="../images/post-bcpov6kanimd-11.jpg" width="300px" height="auto"/></p>
+
+<blockquote>
+  <p><em>I'm supposed to go to a dance. I'm wearing a red and white dress. My mom is wearing a purple dress. I get new shoes - black - they are funny looking. When I get out of the shoe store, I see my Aunt's house is next door to the store. We are driving to New York City for the dance. I see a freak cow with people coming out of it. (Twelve year old girl)</em></p>
+</blockquote>
+
+<p><img src="../images/post-bcpov6kanimd-12.jpg" width="300px" height="auto"/></p>
+
+<blockquote>
+  <p><em>I am sitting down in a movie theater, facing ahead when a woman seated behind me places a black spider, like a tarantula, on my shoulder. I scream. No one else seems to notice. I beg her to take it off me. She says she wants me to look at it. I say I have seen one before and I don't want to look. She insists. I wake up perspiring, and begin to look for the spider. (Woman, three months pregnant)</em></p>
+</blockquote>
+
+<hr>
+
+<p><img src="../images/post-bcpov6kanimd-4.jpg" width="500px" height="auto"/></p>
+
+<h3>References</h3>
+
+<p>Boss, M. (1958). The Analysis of Dreams. New York: Philosophical Library. </p>
+
+<p>Despert, J. L. (1949). "Dreams in Children of Preschool Age." The Psychoanalytic Study of the Child, 34:141-80. </p>
+
+<p>Fodor, N. (1951). Nightmares of cannibalism. American Journal of Psychotherapy, 5, 226-35. </p>
+
+<p>Freud, S. (1961). The Interpretation of Dreams. New York: Wiley. </p>
+
+<p>Guthei I, E. A. (1960). The Handbook of Dream Analysis. New York: Grove Press. </p>
+
+<p>Hadfield, J. A. (1954). Dreams and Nightmares. Baltimore: Penguin. </p>
+
+<p>Jelliffe, S. E., &amp; Brink, L. (1917). "The Role of Animals In the Unconscious with Some Remarks on Theriomorphic Symbolism as Seen in Ovid." Psychoanalytical Review 4:253-71. </p>
+
+<p>Jones, E. (1959). On the Nightmare. New York: Grove Press. </p>
+
+<p>Jung, C. (1916). Psychology of the Unconscious. New York: Moffat, Yard. </p>
+
+<p>Stekel, W. (1943). The Interpretation of Dreams. New York: Liveright. </p>
+
+<p>Van de Castle, R. L. (1983). Animal figures in fantasy and dreams. In A. H. Katcher and A. B. Beck (Eds). New Perspections on Our Lives with Companion Animals. Philadelphia: University of Pennsylvania Press. </p>
+
+<p>Yoder, A. (1947). Animal Analogy in Shakespeare's Character Portrayal. New York: King's (Columbia University Press).</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3vand ;
+    ns1:hasTag ns1:bcphbmaewem,
+        ns1:bcphbq3vand ;
+    ns1:itemId "bcpov6kanimd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Animal Figures in Dreams"^^xsd:string ;
+    ns1:profileImg "post-bcpov6kanimd-4.jpg"^^xsd:string ;
+    ns1:urlSlug "animal-figures-in-dreams"^^xsd:string .
+
+ns1:bcpov6karita a ns1:Post ;
+    ns1:dateCreated "2008-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6karita-0.jpg" width="300px" height="auto"/></p>
+
+<p>The Beatles released their classic album <em>Sergeant Pepper’s Lonely Hearts Band</em> in 1967. The cover features the song “Lovely Rita Meter Maid” which describes an initial encounter between the singer and a meter maid who is taking his number. Although initially annoyed, he realizes that “it would be better to love her”. In waking reality, Rita has been “taking the number” of the collective dream community and moving about through the streets and byways of our global community to encourage drivers to be mindful of their dreams and evaluate whether they had been parked and inactive for too long a period of time before taking action and getting moving. Anyone lucky enough to have Rita personally “take your number” has definitely come to love her and she has become a legendary, beloved figure among the global dream community for the last quarter century. </p>
+
+<p>I first met Rita in 1983 at a dream retreat workshop held in Batesville, a small community located a few miles outside of Charlottesville, Virginia. Henry Reed and I were conducting this workshop and, besides Rita, another dream appreciator who also participated was Carol Warner. At the conclusion of the workshop, we wanted to gather all of the participants together to take a group photo, but Rita declined because she was extremely sensitive about her personal appearance as the result of having been the victim of a tragic accident in an aerospace lab where she was working that resulted in her undergoing extensive skin grafts over a period of many years. That NDE led to a complete redirection of her energy and becoming a spokesperson for the power of dreams. During the subsequent years, she has maintained a close relationship with Ed Butler, her lab colleague whose precognitive dreams enabled him to instantaneously appear at her side and save her life after her other lab partner had abandoned her and fled from the dangerous situation. </p>
+
+<p>At the conclusion of our Batesville workshop, I encouraged Rita to attend the forthcoming first ASD conference to be held a few month later in San Francisco. and she went to it. It was clear that dreams were an important personal topic for her and she was hoping to meet other individuals who also shared her excitement about the unlimited possibilities of dreams for unlocking human potential. I hosted the subsequent ASD conference at the University of Virginia in Charlottesville the following year. I drafted her to serve as Secretary for our various board meetings and she quickly became an absolutely indispensable component of our organization. In addition to having served as Secretary at that Virginia conference, she has also served as a Conference Host, Chair of the Board, Vice President, President, and Executive Officer of ASD. In addition to being the “connective tissue” for the body of that organization’s activities, she has also served as the organizer for the world’s longest continuing dream group, the Metro DC Dream Community, that she founded in Vienna, Virginia in 1983. Rita has never charged a fee for attending these meetings that she hosts. There is a line in the <em>Lovely Rita</em> song that asks “... where would I be without you?” That’s a good question to ponder for all of us, as the answer might well be ”nowhere”, if she hadn’t continued her rounds of monitoring whether the dream scene was stagnating and inactive or was showing tangible movement. When the singer entices Rita to have tea with him, she turns out to be the one who winds up paying the bill. I’ll let the reader develop that metaphor in their own way. </p>
+
+<p>Rita’s attendance at all our ASD events and board meetings has been exemplary and no one else comes close to having earned as many gold stars for attendance and participation as she has. Rita has also been an advocate for attempting to bring dreams to other settings besides those of the annual conference and has been extremely active in serving as the coordinator for regional dream events held at many locations throughout the country. She has also twice organized weekend programs presented at the Smithsonian Institute in Washington DC to bring public awareness of dreams to that prestigious setting. She attended the international ASD meetings that were held in Ottawa, London, Leiden and Copenhagen. She quickly established family bonds with all these attendees in foreign countries, and once she has met someone, Rita displays an uncanny ability to later remember their names, names of their family members and the town that they lived in. She is one of those remarkable people who seem to display a “photographic memory” for faces, names and places. Many have entrusted their personal dramas to Rita and people turn to Rita much as they would to Dear Abby’s well known advice column. </p>
+
+<p>I have very many special memories of when Rita and I traveled together to Moscow to attend the “Dreaming in Russia” conference organized by Robbie Bosnak. It was an extraordinary time in history because when we arrived in August, 1991, the former Soviet government was collapsing. We were stunned that we were greeted by the sight of Soviet tanks in the streets and armed soldiers who were standing at guard throughout the city. The plan was to have 50 Russian and 50 American dream representatives share their respective views about how dreams were researched and utilized in our respective cultures. While there, we had no contact with the outside world for several days during the emergency period that was declared. These unusual circumstances offered a wonderful opportunity to interact at much deeper levels with our Russian dreaming cohorts and discover, among many other surprises, how much spiritual emphasis was given to efforts to understand the source of dream imagery. Rita has always been a firm proponent for considering dreams as a vehicle to discover “the interconnection of everything, including angels and all beings, lower or higher.. All parts of creation in this flowing, unfolding universe and perhaps beyond.” She and Rosemary Guiley came up with the idea for a dream activism group following the 9/11 tragedy. A reminder is sent once a month for the purpose of dreaming “the awakened heart.” As Rita explains it, “... this focused intent isn’t just about having good dreams, for all dreams come in service of wholeness and healing, but rather about having dreams that move us to concrete action within the parts of the world in which we reside, waking us up to our personal soul purposes or callings that can improve our world through our works, large or small.” The request made to the group once a month is to “Please join, wherever you live on this planet, aligning spirit, soul and psyche searching for dreams that will awaken our hearts and move us to actions.” </p>
+
+<p>In addition to playing a central role in several online dream groups, Rita has also been active in the annual Cyber Dreaming Conference which has been taking place in early Fall for the last seven years. Approximately 150 dreamers from around the world participate in this two-week event which provides non-stop possibilities for sharing questions and observations about dreams in response to papers written by well known experts in many topics related to psychic dreaming. Rita has teamed up with me for several years to conduct our annual Dream Telepathy contest at our annual ASD conference. She helps to facilitate all aspects of the contest while it is ongoing at the conference, and also writes up an interesting detailed report about many of the impressive dreams which were submitted and their close correspondence to the pictures which served as the target material. Rita herself possesses impressive psychic skills as a dreamer and her “hits” frequently receive prizes for the skills that she demonstrates during the Cyber dreaming contests and are also acknowledged by members of her dream groups. </p>
+
+<p>I felt especially honored when Rita served as the moderator for an address I gave on the topic of Angel Figures in Dreams at one of our ASD conferences. This experience was particularly meaningful to me personally because, of all of the people that I have encountered during my span of 80 years, Rita is certainly the most angelic being that I have ever been privileged to encounter. She exudes warmth, kindness, love, support, understanding, acceptance, and a long list of other positive attributes. Rita is an exceptionally advanced spiritual person who seems to be nourished by an intense inner light that enables her to manifest all of these qualities so steadily and effortlessly. </p>
+
+<p>Her generosity of Spirit is pervasive and extends to every single member of the global community. I don’t know of anyone who has ever dealt with Rita Reincarnation Experiment Website: www.reincarnationexperiment.org The Soul Genome Book at discount on Amazon.com. in any encounter who did not feel the presence of an extraordinary amount of love and compassion. These maternal qualities also expand out to her extended family, including her nine grandchildren. She embodies the archetypal imagery associated with “The Earth Mother” and seems to represent a very wise clan mother who reaches out to and nourishes every member of her dream clan. </p>
+
+<p>I was recently reading some comments that Rita had prepared for Amazon.com for one of the books she had reviewed, <em>She Who Dreams: A Journey Into Healing Through Dreamwork</em> by Wanda Easter Burch. Rita wrote: </p>
+
+<blockquote>
+  <p><em>“This is a deeply inspiring story of a woman’s brave battle with breast cancer... these stormy seasons of her soul are tempered with an in indomitable will to be healed at all levels of her being. Experiencing surgery and then chemotherapy with its dreadful side effects never stops her from turning to her dreams for help and healing. She recounts dreams, her ways of sharing and working with them and using the wisdom she reaps from them. Tested to her depths, she emerges as a beacon to others, a Wounded Healer whose example offers the greatest hope of all to those of us who face life challenges. Her illness may have stolen her breast, but it didn’t harm the caring heart beating beneath it, nor her sharp mind, nor her glowing spirit... all of which are put to use as she rewrites her life contract and now walks on a new path as a Dream Guide and Dream Bringer to others.”</em> </p>
+</blockquote>
+
+<p>These words used by Rita to describe Wanda’s challenges and how she triumphed through dreams seem to correspond extremely well with the journey that Rita herself traveled after her traumatic encounters when her own body was engulfed in flames in 1959. ∞</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3vand ;
+    ns1:hasTag ns1:bcphbq3vand,
+        ns1:bcphbxxscsf ;
+    ns1:itemId "bcpov6karita"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Lovely Rita"^^xsd:string ;
+    ns1:profileImg "post-bcpov6karita-0.jpg"^^xsd:string ;
+    ns1:urlSlug "lovely-rita"^^xsd:string .
+
 ns1:bcpov6kbchil a ns1:Post ;
     ns1:dateCreated "1990-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Many dreamworkers have described the positive values of teaching children about their dreams. Patricia Garfield, Ann Sayre Wiseman, Jill Gregory and others have written on how children can learn in their dreams about their emotions, their fears, their wishes, and their artistic potentials<sup>1</sup>. Yet introducing dreamwork to children has still more values than these: dreamwork can teach children <em>how</em> to think in especially creative, sophisticated ways. Today's children face a future of over-increasing complexity, a future filled with both exciting hopes and frightening dangers. They will need tremendous powers of sensitivity, understanding, and creativity if they are to realize those hopes and overcome those dangers. Teaching dreamwork to children can make a big contribution toward providing them with precisely these powers of thought. </p>
@@ -1841,6 +2297,32 @@ ns1:bcpov6kheart a ns1:Post ;
     ns1:name "Dreaming Our Way To The Heart of the World"^^xsd:string ;
     ns1:profileImg "post-bcpov6kheart-0.jpg"^^xsd:string ;
     ns1:urlSlug "dreaming-our-way-to-the-heart-of-the-world"^^xsd:string .
+
+ns1:bcpov6kiasd1 a ns1:Post ;
+    ns1:dateCreated "1984-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>This historic meeting took place on June 16 and 17, 1984 at the Metropolitan Club in San Francisco, California. Approximately 125 persons from all areas of the country and from such widespread geographical locations as Ecuador, Belgium and Japan attended. </p>
+
+<p>On the evening prior to the convention, Gayle Delaney and her husband, Steve Walsh, served as hosts for an informal reception at their home. After the Saturday morning program opened with a welcome by Dr. Gayle Delaney in her role as the President of the ASD, presenters gave papers on dreams and insight, the importance of dreams in psychotherapy, definition dream analysis, lucid dreams, dreams and synchronicity, and dreamwork in educational settings. The day's events ended with the keynote presentation of 160 slides by Dr. Van de Castle. </p>
+
+<p>On Sunday, the papers dealt with archetypal dream work, innovations in community dream work, dreams in the Christian tradition, dream reflections and creative writing, the perceptanalytic dream system, dreams and the shamanistic tradition and anthropological studies of the dream. The final presentation was by Dr. Henry Reed on dream realization. </p>
+
+<p>The long lunch breaks and Saturday supper time provided an opportunity for participants to exchange viewpoints about the papers or personal experiences with dreams. Near the conclusion of the convention, audience input was invited regarding reactions to the convention and suggestions were requested about the format for next years convention. Before closing, Gayle thanked her large crew of volunteers, the conventioneers thanked Gayle, and gave her a standing ovation in appreciation of her diligent efforts to get the convention organized. </p>
+
+<p>Then Melodie sang a beautiful a capella dream song and the group silently held hands in a circle. Participants reluctantly left amid promises to renew the many newly discovered friendships they had developed when the next ASD convention gathered in Charlottesville, Virginia. </p>
+
+<p>The next ASD conference will be held June 19-23, 1985 at the University of Virginia at Charlottesville, Virginia. Participants will be housed in inexpensive, air-conditioned dorm suites on the beautiful West Lawn of the original grounds designed by Thomas Jefferson. Plans are being developed to include a wide range of research, clinical and theoretical papers as well as discussion panels during the daytime program. The evening programs will offer opportunities for small group meetings to share in educational and brief experiential workshops. Large scale dream induction and telepathic studies involving all interested persons are also being planned. Books on dreams and other educational materials such as tv tapes will be available and there will be a display of dream-inspired creative products (art, sculpture, etc.). </p>
+
+<p>There will be pre-convention one and two day experiential workshops offered by a variety of leaders such as Henry Reed, Bob Van de Castle, Gayle Delaney, Stephron Williams, and Monte Ullman. There will be a welcoming party on Wednesday evening before the convention officially opens on Thursday morning. It would be helpful in estimating projected attendance if persons who think they might attend would drop a postcard indicating their interest or intent to the arrangements chairman:</p>
+
+<p><strong><em>Dr. Robert Van de Castle, 6 East, Blue Ridge Hospital, Charlottesville, VA 22901</em></strong></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3vand ;
+    ns1:hasTag ns1:bcphbliwn3u,
+        ns1:bcphbq3vand ;
+    ns1:itemId "bcpov6kiasd1"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "First International Conference of the Association for the Study of Dreams"^^xsd:string ;
+    ns1:urlSlug "first-international-iasd-conference"^^xsd:string .
 
 ns1:bcpov6kindia a ns1:Post ;
     ns1:dateCreated "1988-05-01T11:32:52"^^xsd:dateTime ;
@@ -8477,6 +8959,20 @@ ns1:bcphblcllan a ns1:Post ;
     ns1:profileImg "3.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "3.2"^^xsd:string .
 
+ns1:bcphbliwn3u a ns1:Post ;
+    ns1:coverImg "3.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1984-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.4-The-Dream-Network_Volume-3_No-4.pdf" download="">Download issue 3.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.4-The-Dream-Network_Volume-3_No-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn76e7n5 ;
+    ns1:itemId "bcphbliwn3u"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 3, issue 4"^^xsd:string ;
+    ns1:profileImg "3.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "3.4"^^xsd:string .
+
 ns1:bcphblnikds a ns1:Post ;
     ns1:coverImg "3.6-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
@@ -8518,6 +9014,20 @@ ns1:bcphblsydwp a ns1:Post ;
     ns1:name "Volume 4, issue 2"^^xsd:string ;
     ns1:profileImg "4.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.2"^^xsd:string .
+
+ns1:bcphbmaewem a ns1:Post ;
+    ns1:coverImg "4.6-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1985-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.6-Dream-Network-Bulletin_Volume-4-Number-6.pdf" download="">Download issue 4.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.6-Dream-Network-Bulletin_Volume-4-Number-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn77nhwr ;
+    ns1:itemId "bcphbmaewem"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 4, issue 6"^^xsd:string ;
+    ns1:profileImg "4.6-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "4.6"^^xsd:string .
 
 ns1:bcphbmepnkg a ns1:Post ;
     ns1:coverImg "5.1-cover.jpg"^^xsd:string ;
@@ -8798,21 +9308,6 @@ ns1:bcphbxjsuyu a ns1:Post ;
     ns1:name "Volume 26, issue 1: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
     ns1:profileImg "26.1-2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "26.1-2"^^xsd:string .
-
-ns1:bcphbxxscsf a ns1:Post ;
-    ns1:coverImg "27.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2008-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><div><p>Paying Tribute to Two Exceptional Women Working Vigilantly for Dreams and for Peace: Rita Dwyer &amp; <a href='../@jeancampbell'>Jean Campbell</a></p></div><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf" download="">Download issue 27.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf">View online</a></p></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3jean,
-        ns1:bcphbq3xdnj,
-        ns1:bcpqocezqpx ;
-    ns1:itemId "bcphbxxscsf"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 27, issue 2: Women for Peace"^^xsd:string ;
-    ns1:profileImg "27.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "27.2"^^xsd:string .
 
 ns1:bcphbygiw4g a ns1:Post ;
     ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
@@ -9458,6 +9953,21 @@ ns1:bcphbxplpmw a ns1:Post ;
     ns1:profileImg "26.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "26.4"^^xsd:string .
 
+ns1:bcphbxxscsf a ns1:Post ;
+    ns1:coverImg "27.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2008-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><div><p>Paying Tribute to Two Exceptional Women Working Vigilantly for Dreams and for Peace: Rita Dwyer &amp; <a href='../@jeancampbell'>Jean Campbell</a></p></div><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf" download="">Download issue 27.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf">View online</a></p></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3jean,
+        ns1:bcphbq3xdnj,
+        ns1:bcpqocezqpx ;
+    ns1:itemId "bcphbxxscsf"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 27, issue 2: Women for Peace"^^xsd:string ;
+    ns1:profileImg "27.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "27.2"^^xsd:string .
+
 ns1:bcphbycqos5 a ns1:Post ;
     ns1:coverImg "28.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
@@ -9559,11 +10069,11 @@ ns1:bcphbq3amin a ns1:User ;
 ns1:bcphbq3pimm a ns1:User ;
     ns1:description """<p>Website: <a href="http://notesfromadreamer.com">notesfromadreamer.com</a></p>
 
-<p>I am a dreamworker and author of Notes From a Dreamer … on Dreaming: A Personal Journey in Dream Interpretation. My current focus is on teaching others how to interpret and work with their own dreams. I have created several <a href="https://theazire.org/moodle/course/index.php?categoryid=11">online courses on dream interpretation</a>. I am also available to do workshops and one-on-one consultations via phone or Skype.</p>
+<p>I am a dreamworker and author of Notes From a Dreamer… on Dreaming: A Personal Journey in Dream Interpretation. My current focus is on teaching others how to interpret and work with their own dreams. I have created several <a href="https://theazire.org/moodle/course/index.php?categoryid=11">online courses on dream interpretation</a>. I am also available to do workshops and one-on-one consultations via phone or Skype.</p>
 
-<p>My interest in dreams began in 1988, after I left my husband of 13 years.  At that time, two dreams kept recurring over and over again; dreams which I had since I was 12. I knew these dreams were trying to tell me something, but didn’t know just what. In 1994, I discovered the book, Our Dreaming Mind, by Dr. Robert L. Van de Castle, which helped me understand the process of dreaming.  With further reading and research, I began to slowly learn to decipher my dreams.</p>
+<p>My interest in dreams began in 1988, after I left my husband of 13 years.  At that time, two dreams kept recurring over and over again; dreams which I had since I was 12. I knew these dreams were trying to tell me something, but didn’t know just what. In 1994, I discovered the book, Our Dreaming Mind, by <a href="../@bobvandecastle">Dr. Robert L. Van de Castle</a>, which helped me understand the process of dreaming.  With further reading and research, I began to slowly learn to decipher my dreams.</p>
 
-<p>I have been actively enlightening others online about dreams since 2001, when I created my original Notes From a Dreamer … on Dreaming website to share my experience of learning to interpret my own dreams. Then, in late September 2008, I connected with Dr. Robert Van de Castle at an online PsiberDreaming Conference put on by the <a href="http://asdreams.org/">International Association for the Study of Dreams (IASD)</a>.  A few short weeks, several lengthy phone calls and numerous emails later, I left New Jersey and moved to Charlottesville, VA to live and work with him until his passing in January 2014. Working closely with Dr. Van de Castle, we created and taught an online course for Atlantic University, Becoming a Teacher of Dreamwork/Dream Interpretation. We also presented together at several conferences and co-authored an article for Explore! journal, <a href="http://www.explorejournal.com/article/S1550-8307(10)00099-6/abstract">Dreams As a Multidimensional Expression of PSI</a>.</p>
+<p>I have been actively enlightening others online about dreams since 2001, when I created my original Notes From a Dreamer… on Dreaming website to share my experience of learning to interpret my own dreams. Then, in late September 2008, I connected with Dr. Robert Van de Castle at an online PsiberDreaming Conference put on by the <a href="http://asdreams.org/">International Association for the Study of Dreams (IASD)</a>. A few short weeks, several lengthy phone calls and numerous emails later, I left New Jersey and moved to Charlottesville, VA to live and work with him until his passing in January 2014. Working closely with Dr. Van de Castle, we created and taught an online course for Atlantic University, Becoming a Teacher of Dreamwork/Dream Interpretation. We also presented together at several conferences and co-authored an article for Explore! journal, <a href="http://www.explorejournal.com/article/S1550-8307(10)00099-6/abstract">Dreams As a Multidimensional Expression of PSI</a>.</p>
 
 <p>I am an active member of the IASD for over 15 years and an elected member of the Board of Directors from 2014-2017. As such, I adhere to their <a href="http://www.asdreams.org/ethics-and-confidentiality/">ethical guidelines in dreamworking</a> which “supports an approach to dreamwork and dream sharing that respects the dreamer’s dignity and integrity, and which recognizes the dreamer as the decision-maker regarding the significance of the dream.” In other words, only the dreamer knows what their dream means. My goal in life is to help you learn to understand what yours are saying to you.</p>
 
@@ -10123,6 +10633,28 @@ ns1:bcphbq3olse a ns1:User ;
     ns1:name "Fred Olsen"^^xsd:string ;
     ns1:profileImg "author-fredolsen.jpg"^^xsd:string .
 
+ns1:bcphbq3vand a ns1:User ;
+    ns1:coverImg "cover-author-bobvandecastle.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html">ourdreamingmind.com</a></p>
+
+<p>Robert L. Van de Castle made his transition from this world on Wednesday, January 29, 2014.</p>
+
+<p>Dr. Van de Castle's life work was devoted to dreams and dream research. He received his B.A in General Psychology at Syracuse University in 1951, his M.A. in Clinical Psychology at University of Missouri in 1953, and his PhD in Clinical Psychology from University of North Carolina in 1959. He was a Professor Emeritus at University of Virginia Health Sciences Center (retired 1993) where he was the Professor of Behavioral Medicine and Psychiatry (1986-1992), Director of the Clinical Psychology Internship Project (1980-1992) and Director of the Sleep and Dream Laboratory (1967-1985).</p>
+
+<p>He is the author of the book, Our Dreaming Mind, which was described as a "landmark" by <a href="../@montagueullman">Monte Ullman</a>, a "masterpiece" by <a href="../@henryreed">Henry Reed</a>, and "a sweeping compilation unsurpassed in the literature for its scope" by <a href="../@stanleykrippner">Stan Krippner</a>. With Calvin Hall, he co-authored The Content Analysis of Dreams, which became a standard reference book and a "how-to-do-it" manual for investigators wishing to examine dream content in a quantitative fashion that could be statistically evaluated.</p>
+
+<p>In addition, he always felt that trying to familiarize the public with the fascinating realm of dreams was important. He discussed dreams on such national TV shows as Phil Donahue, Barbara Walters, David Letterman, Tom Snyder, and Mike Douglas. He also presented at two programs involving dreams hosted by Rita Dwyer at the Smithsonian Institution, spoke on the Voice of America radio show, and his articles appeared in prominent newspapers such as The Washington Post, USA Today, and Chicago Tribune and in a wide variety of popular magazines, such as Psychology Today and Ladies Home Journal. He also presented talks and workshops on dreams in Belgium, Canada, Latvia, Mexico and Russia, and attended and presented papers at most of the IASD conferences throughout the years, including those in Holland and Denmark.</p>
+
+<p>He was most proud of his efforts to develop the IASD as an organization that represents a "rainbow coalition" of dreamers from around the world. He was honored to present at the first annual international ASD conference in San Francisco in 1984 and then become the next ASD president. He introduced active participation in dream workshops, the infamous Dream Ball, a Dream Telepathy contest, and sessions on lucid dreaming. He was the recipient of IASD’s first Lifetime Achievement Award. In addition, he was a Past President of the Parapsychological Association (1970). Most recently, he was on the Advisory Board of DreamsCloud, the world's foremost dream related website.</p>
+
+<p>He is survived by his sons, Drake Cameron Van de Castle and Keith Dawson Van de Castle; daughter, Parker Mary York and daughter-in-law, Teresa Spigle Van de Castle. He is also survived by his sister, Mary Elizabeth Hinton; his loving partner of five plus years, <a href="../@bobbieannpimm">Bobbie Ann Pimm</a>, and three grandchildren.</p>
+"""^^xsd:string ;
+    ns1:handle "bobvandecastle"^^xsd:string ;
+    ns1:itemId "bcphbq3vand"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Robert Van de Castle"^^xsd:string ;
+    ns1:profileImg "author-bobvandecastle.jpg"^^xsd:string .
+
 ns1:bcphbq3wagg a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>
 
@@ -10542,7 +11074,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
 <ul>
 <li><p>The original Network: <a href="../@billstimson">Bill Stimson</a> - Dream Network Bulletin founder and editor, NYC (1982-1983), Sally Shute (Lucidity &amp; Beyond), Chris Mathews and Doug Cohen (Fusion), Suzanne Keyes (Dream Craft)</p></li>
 <li><p><a href="../@chrishudson">Chris Hudson</a> - editor, NYC (1983-1985)</p></li>
-<li><p><a href="https://www.parapsych.org/articles/37/209/in_memoriam_robert_van_de_castle.aspx">Robert Van De Castle</a> (now departed) &amp; <a href="../@henryreed">Henry Reed</a> (1985-1987)</p></li>
+<li><p><a href="../@bobvandecastle">Robert Van De Castle</a> (now departed) &amp; <a href="../@henryreed">Henry Reed</a> (1985-1987)</p></li>
 <li><p><a href="../@bobtrowbridge">Bob Trowbridge</a> and <a href="../@caseyflyer">Linda Magallón</a>, San Jose (1987 - 1989)</p></li>
 </ul>
 

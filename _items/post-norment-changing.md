@@ -6,7 +6,7 @@ name: "Changing Confining Thoughts and Beliefs Through Dreamwork"
 tags:
   - hasTag: rachelnorment
   - hasAuthor: rachelnorment
-  - hasTag: 32.4
+  - hasTag: 27.4
 type: post
 urlSlug: "changing-confining-thoughts-and-beliefs-through-dreamwork"
 profileImg: post-bcpov6kaconf-0.jpg

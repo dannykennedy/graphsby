@@ -10066,7 +10066,7 @@ ns1:bcphbxplpmw a ns1:Post ;
 ns1:bcphbxxscsf a ns1:Post ;
     ns1:coverImg "27.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2008-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><div><p>Paying Tribute to Two Exceptional Women Working Vigilantly for Dreams and for Peace: Rita Dwyer &amp; <a href='../@jeancampbell'>Jean Campbell</a></p></div><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf" download="">Download issue 27.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf">View online</a></p></p>
+    ns1:description """<p><div><p>Paying Tribute to Two Exceptional Women Working Vigilantly for Dreams and for Peace: <a href='../@ritadwyer'>Rita Dwyer</a> &amp; <a href='../@jeancampbell'>Jean Campbell</a></p></div><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf" download="">Download issue 27.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.2_women_for_peace.pdf">View online</a></p></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3jean,

@@ -1,14 +1,14 @@
 ---
 layout: page
 type: user
-itemId: bcphbq3norm
-handle: rachelnorment
-name: "Rachel Norment"
+itemId: bcphbqschul
+handle: jeanneschul
+name: "Jeanne Schul"
 shortDescription: ""
 tags:
 date: 2015-03-24
-profileImg: author-rachelnorment.jpg
-coverImg: cover-author-rachelnorment.jpg
+profileImg: author-jeanneschul.jpg
+coverImg: cover-author-jeanneschul.jpg
 ---
 Website: [thresholdjourneys](https://thresholdjourneys.squarespace.com)
 

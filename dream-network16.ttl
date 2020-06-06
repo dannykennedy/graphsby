@@ -865,20 +865,6 @@ ns1:bcphbwv4jtr a ns1:Post ;
     ns1:profileImg "24.4-25.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "24.4-25.1"^^xsd:string .
 
-ns1:bcphbxal53y a ns1:Post ;
-    ns1:coverImg "25.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2006-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf" download="">Download issue 25.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqob4y4gj ;
-    ns1:itemId "bcphbxal53y"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 25, issue 3: Back to Basics"^^xsd:string ;
-    ns1:profileImg "25.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "25.3"^^xsd:string .
-
 ns1:bcphbxfpj5j a ns1:Post ;
     ns1:coverImg "25.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2006-10-01T11:32:52"^^xsd:dateTime ;
@@ -1024,6 +1010,145 @@ ns1:bcpov6glight a ns1:Post ;
     ns1:profileImg "post-bcpov6glight-0.jpg"^^xsd:string ;
     ns1:urlSlug "interview-with-gary-bonnell"^^xsd:string .
 
+ns1:bcpov6great1 a ns1:Post ;
+    ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6great2-0.jpg" width="500px" height="auto"/></p>
+
+<p><em>Jeanne Schul Elkins interviews Barry Williams at the Journey into Wholeness conference. (Part II of this interview appears in Volume 25 No. 3)</em></p>
+
+<p><em>Barry Williams, M.Div., Psy.D., a Jungian analyst in private practice in Taos NM and Evanston IL, has had extensive experience in wilderness pursuits and experiential education, including eight years teaching with Outward Bound. He has a major interest in ritual forms that express the psyche’s participation in the archetypal wholeness which nature represents. He has been one of the leaders of the Temagami Vision Quest in Canada for 14 years.</em></p>
+
+<p><strong>Jeanne Elkins:</strong> Barry, one of the things you do is dream gathering. Could you talk about that? </p>
+
+<p><strong>Barry Williams:</strong> Well, Jean, the idea of dream gathering came to me from something I’d seen done at an international conference. People would gather early in the morning to share dreams and sit in a spiral. What we’ve brought here is the idea that if we pay attention to the dreaming process of the community, that we’re creating a container that contains the unconscious. It ritually contains the unconscious process of the community even though we’re just doing a fragment, perhaps one-tenth of the people participating, each day. This is holographic. It suggests the whole. There is a perception ritually that this material has a place to go, and thus is not running amuck through projections in the community. It is as if the unconscious in the community feels that it is being heard. When the gathering of the dreams is without any commentary, or with only a sentence of commentary to locate the meaning of the dream, the community has the experience of being listened to deeply. I act as the ritual elder figure, the one figure who is receiving, holding and understanding this material, even if I don’t in fact understand the dream. Ritually it’s the experience of being understood. It’s part of what we’re trying to accomplish in the whole conference: a complete ceremonial cycle. To assure psyche is being listened to deeply. </p>
+
+<p><strong>JE:</strong> Could you talk a little bit about that position you hold as ritual elder? </p>
+
+<p><strong>BW:</strong> I’m more of a ceremonial leader in a way, though I am not leading anything, exactly. There is a sense that someone has a foot in both worlds: in the waking, conference, relating, interpersonal world, and also a foot firmly in the dreaming unconscious, wild, natural world. A ritual elder is a bridging figure, someone who bridges between the gods and the mortal world, and someone who can travel back and forth between them. So listening to the dream, the message from the other world, and speaking to the dreamer in the same moment, connects the worlds together. </p>
+
+<p><strong>JE:</strong> You also hold that space and talk about a safe container, and it’s felt by those of us in the room. Can you help us understand about how you create that safe container? </p>
+
+<p><strong>BW:</strong> That’s a mystery, really. The idea is that I cannot do anything. My biggest contribution to a community like this is to try to create a container that is strong and safe enough so that the archetypal energies can constellate within the group. If the container is held correctly, there can be the possibility of some transformation, of healing, or of people getting across thresholds in their lives. The dreams can emerge in an ever greater way, perhaps. The container is built on trust and understanding and the community feels it. The more we establish trust, the more the community feels it and the stronger the container. The stronger the container, the more trust, until we can be a community that’s sharing its deepest truth. That’s an extraordinary event. </p>
+
+<p><strong>JE:</strong> Can you help us identify archetypal energy in our dream work? Sometimes you give feedback to the dreamer that you need to either pay attention to your dream or die. What are the red flags? Should we as the dreamers see the red flag ourselves? </p>
+
+<p><strong>BW:</strong> What I often say about dreams is that they exist on multiple levels at once. There’s the very personal, the historical, familial, the social, cultural, and what we’re calling archetypal: the realm of the gods. In the dream groups, what I’m striving for is not to have a therapeutic result, but that the healing potential in these groups will come from paying attention— not exclusively—to the archetypal ground of the dream. My feeling in this kind of work and dream-focused community is that we can have lived a moment of the experience of the ‘Great Mind.’ This is what I often call the mind of Nature itself (referred to in many ways in dreaming: the mind of the dream, the dreammaker, the Self, God). I prefer to call it the Mind of Nature, because it is that which is completely natural in its totality which is communicating through or to us—that is rising to consciousness. I like to pay attention to trying to get us to have the lived moment of the experience of that mind which is pure meaning, because it’s really the totality of things as it tries to come into the human realm. If we do not pay attention to it, we cannot live. When I use dramatic language like, “get this, or it will kill you,” it’s not that dreams can kill, but if we do not hear this voice, we cannot live. By living, of course, I mean we’re not living our complete lives. </p>
+
+<p><strong>JE:</strong> Often in dreams, animals manifest. Yesterday in the dream group work, the images of snakes and eggs showed up. Can you help us understand where we should go when we have animals appearing in our dreams? </p>
+
+<p><strong>BW:</strong> I think that the biggest mistake people can make, and often do make these days, is running to their animal symbol dictionary. I often counsel people to throw these dictionaries out. The best thing you can do to amplify the meaning of something is to understand what it is that this thing does. If we want to know about snakes, we need to think about snakes. What are snakes? How do they live? Where do they come from? What do they eat? What do they do in the seasons? etc. An indigenous person looks at an animal and knows everything about it: knows how it is, what it looks like, what it does every day of the year. The second thing to do is to understand any personal encounters. Maybe this person was bitten by a snake in childhood or had a traumatic encounter, or their mother was afraid of snakes. That would be crucial to know. Only then go to the cultural stories, and only then try to understand about meaning conceptually. If you read in the symbol dictionary that snake has qualities of this and that, then you’re starting to think about it. The snake or the animal in the dream, like the dream itself, has to have a kind of living presence in the discussion. </p>
+
+<p><strong>JE:</strong> So you’re approaching it from a much more intuitive level than an analytical level? </p>
+
+<p><strong>BW:</strong> Yes. That’s one of my favorite topics, thank you. My thoughts about dreams are not so much that we bring our considerable intellectual tools to a dream to use them to amplify what we’re seeing or what we know. The idea is not to bring it out of its realm like an animal out of the wild into the zoo, but also to allow ourselves to be drawn into its reality. That’s why I’m talking about the living presence of the meaning field of the dream. This field is not intellectually experienced. It’s almost like we’re the problem the dream is trying to solve. Of course that’s just the opposite from the way most people think about it: that the dream is presenting us this cryptic puzzle that we need to dissect and understand. You can do that, certainly, but usually that understanding only goes so deep. We waste the opportunity of a dream remembered if we only use it to try and understand our own lives, really, because there’s that other quality to it: that the dream is a living being, virtually. </p>
+
+<p><strong>JE:</strong> So when you’re working on a dream, are you seeing it as images? Is it a being? Is it an image? </p>
+
+<p><strong>BW:</strong> What I‘m looking for when I work on a dream is a subjective experience within me. I cannot teach a methodology about dream interpretation, I can only teach an attitude towards it, out of which would come a certain kind of methodology. If you teach a methodology, then you’re just getting a kind of cookie cutter assembly line. If you have the proper attitude, then the approach to the dream is quite different. What I look for in myself is an experience of an unfolding, that the meaning of it begins to rise up like the mist. It goes from static to alive. It’s possible this is my own ‘way,’ but it’s something that I can just feel. I feel it in every cell, the rightness and the meaningfulness of it. This is dangerously close to imposing my interpretation on the dream, but I try not to do that. I try to bring it out and let it be alive between us. When it’s alive between us, then we can watch and comment and not impose an interpretation. When you can feel that it’s alive and functioning— that you’re in the story, the dream has gripped hold of you—then the story comes alive in its meaningfulness. Meaning is always related to the energies of the Self. </p>
+
+<p><strong>JE:</strong> A lot of people dream about sex. One of the agendas that came up in the group dreamwork was a statement you made: Often in dreams, sex isn’t about sex, it’s about the life-force. Can you help us understand that? (mutual laughter) </p>
+
+<p><strong>BW:</strong> What else do you say? Sex of course is a frequent motif in dreams, but in my experience, it’s rarely anything to do with sex, sexuality, or with genital sexuality. What is the purpose of genital sexuality? In human beings, of course, it is for the purpose of life. From the psyche’s point of view, that’s essentially the intention. New life, of course, is not a child. It’s the energies of two opposites brought together to make the whole that generates new life. This happens between individuals, and it also happens within the individual. When we’re dreaming of that the classic <em>conjunctio</em>, it is for the purpose of all possible kinds of new life and soul emergence. The classic example, of course, is a man dreams of a very seductive woman who is not his wife. In the dream he thinks, “I can’t do this, because this isn’t my wife.” This is all very well and good in outer life, but what is he neglecting to connect with in his inner life? There’s this thought that it’s not okay to do this because we have this thing called monogamy. From the psyche’s point of view, there’s an energy that needs to be addressed or that is addressing him, and it’s nothing to do with sex. It’s to do with the life-force itself. That is what really wants to be activated, to be expressed, to find a channel, to find a union, and wants to result in creation. </p>
+
+<p><strong>JE:</strong> Along those lines, money is another issue that shows up. Your statement was, “Money is not about dollars.” </p>
+
+<p><strong>BW:</strong> Money is never about dollars in dreams. The dream doesn’t care how well off we are in life, it only cares about how much energy, how much “where-with-all” we have. Money dreams are more often images of the life force, libido, flow, fire, of spirit. Can we be a player in life? It’s not about consuming and purchasing and paying the bills. It’s about what we have available to us. The psychic world is about reciprocity and not about capitalism. Can we pay our way? Do we have enough? Are we impoverished? In other words, do we have enough to make the world happen around us and pay our way reciprocally with the other world? </p>
+
+<p><strong>JE:</strong> You often use the expression that the dreams are dreaming us. That’s thick. </p>
+
+<p><strong>BW:</strong> That’s a hard one. Well, Many, many people have the experience—at least occasionally, or once in their lives—of being the one who is moved. Sometimes in meditation, people will have the experience of being breathed. I have a friend who is a runner who says that something is running him. It really is the presence of the Self. One of the great notions in working with the unconscious is the experience of what Jung calls the relativization of the ego. The ego, the individual, suddenly experiences that s/he is not the master in her/his own house. You’re living in someone else’s house and that you are the moved to the mover. You would never say, “I created this dream,” or “This is my dream.” I/you/ego could not have created any dream in a million years. It’s impossible. It’s this great mind—or all of nature, the gods themselves—who are thinking and creating in this way. This is the way the Self thinks. We are the creation of this thought process. Most people think that you do something and then you dream about it. Sometimes it appears that way chronologically, but it’s probably the other way around. What we’re doing is what we’ve already dreamed or what is dreaming us. What we call our waking reality is the infinite variables of life coming together like the weather—virtually—in a single moment of what we’re calling reality, which is totally over-determined by the unconscious process. So in that way we are dreamed into being. </p>
+
+<p><strong>JE:</strong> You often warn us that when we are about to tell a dream, we are going to be telling everyone what we know least about ourselves. </p>
+
+<p><strong>BW:</strong> Well, dreams emerge from the unconscious. I always love the anecdote about Jung when he says apparently in some frustration, “You have to remember that what’s unconscious is unconscious.” In other words, it’s unknown. There’s only a small bit of the personal unconscious that we can actually make conscious. The rest is unconscious. It’s unknowable. When a person has a dream, it’s the unknown that is emerging toward consciousness. A nice point about dreaming is that by the time you’re dreaming of something, it’s well on its way to consciousness. It’s when you’re not dreaming of it that it’s running you unconsciously. If you’re dreaming about it, it’s on its way towards consciousness and that’s when you can bring it out and learn a little bit. So if a person tells a dream in a group, by definition he or she is saying what they don’t know about themselves. Thus it’s a very fragile offering and needs to be respected as such. That’s why I caution people that it’s not hunting season—it’s not open season on the dreamer. They’re not fair game for your projections, because it’s a very delicate, fragile, vulnerable place in which they’ve put themselves. They’re offering something that’s unique and beautiful which deserves and needs to be deeply respected. </p>
+
+<p><strong>JE:</strong> Barry, can you talk a bit about your process of working with dreams in your professional practice? BW. Rather than me being the guide of the process, I’m letting the unconscious, the dreams, largely be the guide in terms of what we discuss. All the great motifs will be there. Over a long period of time, if the person can be related to this magnificent fabric of meaning that contains their personal lives—and at the same time displays all of the wonders of heaven, as it were—then this lends tremendous dignity and depth. That’s where the healing can come from. Jung was very clear on that. So in other words, when the archetypal worlds manifest through the dreams—and I believe that’s the way a person can connect with it—then the emotional result around that is healing. It’s the emotion that one experiences in the body that infuses the person, the whole selfhood of the person, with the transpersonal energies of the archetypal world. When that happens, each in its unique way, then lives can be changed. </p>
+
+<p><strong>JE:</strong> Can you talk to us about those dreams that are so visceral that we wake up feeling physically the person we were carrying or where our hand just was… a kind of belief that it really did happen? </p>
+
+<p><strong>BW:</strong> It really did just happen. (laughter) </p>
+
+<p><strong>BW:</strong> Those are the dreams that we’re drawn into deeply. The attempt of the dreamer upon waking is often to get away from that. “Let me separate from that reality.” But the point is that the dream had you.... it was having you, as if it put you to sleep to have you. In some of those moments, you’re completely enmeshed in the reality of that world and it’s hard to return or to move out into ordinary consciousness again, because the energy of the meaning of the dream, for whatever reason, is extremely strong at that point. It’s really got you. It’s hooked you. These are special dreams. They are the ones that leave trails behind them in your life and are to be respected and given full attention. </p>
+
+<p><strong>JE:</strong> Where does one go with those dreams other than to an analyst? </p>
+
+<p><strong>BW:</strong> It’s a great question. To an analyst, of course. The analyst is not only the one who can try to help you understand these things, but then also becomes a kind of initiating elder. When great dreams announce the journey you’re undertaking, you need to have a guide, because it’s an initiatory journey. Initiation is an archetypal pattern that always requires a death through an ordeal and a rebirth of some sort. Of course lots of people analytically think, “Give me the rebirth. Give me the new life. I can’t wait,” and they forget that there’s a death required, which is often, if not always, excruciating. Death is death. It’s hard to let go of an old pattern, an old identity, an old history, the old drama, the old story, the old way of being, or the old vocabulary. It is very humbling because you can see how the psyche is trying, in the absence of a cultural initiation pattern, to initiate the dreaming person. </p>
+
+<p><strong>JE:</strong> Do you see a pattern with time of life, with people who come to see you when these kinds of dreams erupt? </p>
+
+<p><strong>BW:</strong> One of my favorite things in the last couple of years is to work with some young men and women who have gone to northern Hudson Bay on expeditions to encounter the Grandfather of the North. This is the place in many traditions where dreams come from and a great place of wisdom. I sit with them on their last campsite and listen to their dreams. This is a lost age group. They’re leaving adolescence and trying to emerge into young adulthood. The educational system and the government, the family and the culture—everybody is saying something—but what is the real pathway to the authentic life? A lot of people lose their way at this point. They decide to do something that seems okay, but it might not be well supported from the unconscious, and they will burn out at some point. I liken it to this: in the Pueblo world of the southwest, when the masked gods or the dancers enter the plaza (because these are archetypal figures... they’re not human beings any more) the ritual leader of the ceremony lays down a pathway on the ground for them, often of corn pollen or cornmeal, to walk on. I think youngsters’ dreams are like that. These are like the pollen pathways for them. If they can hear them, the dreams will open the pathway into their lives. </p>
+
+<p><strong>JE:</strong> There seems to be a lack of any form of initiation at any change of life in our culture. I’m wondering if dreams... </p>
+
+<p><strong>BW:</strong> The answer if yes! Absolutely. Absent a cultural container for these rights of passage, it’s up to the psyche, really, to do it. Good ritual is about aligning the individual psyche with Nature and the Nature’s way. When these are aligned, then you’re doing something, often culturally... as it was in the beginning. The way it was in the beginning is the pure way of the psyche. If we no longer have this, and what’s worse, if we’ve lost our access to it, the psyche will still be going ahead with its attempts at alignment. It can feel crazy-making. If a person were part of a group that had done an initiatory process at an age-appropriate time, it would be a tremendous experience. When they’re doing it by themselves in the midst of a social environment that doesn’t support it, it can be quite difficult. You can see vestiges of rituals gone terribly awry in the acting out behavior of adolescents, gangs and so forth. The point is, in the classic initiatory pattern the ordeal is for the purpose of moving out of the old place and getting into a place where you can be connected to what we’ll call the archetypal realm. If we don’t do that in our lives, if we have lost the connection to the source-place of that realm, then we don’t know how to live. We get lost. In the Plains culture, a person without a vision is not a human being. They’re just people living their lives, but they’re not a real human being. </p>
+
+<p><strong>JE:</strong> Do we have permission to not necessarily understand our dreams as long as we sit with it or go back to it? </p>
+
+<p><strong>BW:</strong> At the very least, pay attention. Acknowledge that the dream world does exist, that it is communicating with you. Write your dreams down You can draw them, paint them, sculpt them, dance them, do active imagination with them, sit with them, meditate on them. Just let them infuse you—even if you don’t understand them—because it’s usually not something you can get with your mind, in so many words anyway. At the very least, live with the knowledge that this process is going on. One of the techniques I use is to imagine we’re camped by a great river and it’s flowing by all the time, day and night, day after day, year after year, millennia upon millennia. From time to time we go down and dip our cup into it and drink from it, or use it to cook our meals, or bathe in it, or take and use the water for our crops. It’s only from time to time we go to the river; meanwhile it is powerfully flowing by... all the time. ℘</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqschul ;
+    ns1:hasTag ns1:bcphbqschul,
+        ns1:bcphbwfw4rc ;
+    ns1:itemId "bcpov6great1"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Frequently Asked Questions About Dreams: An Interview with Barry Williams, Part I"^^xsd:string ;
+    ns1:profileImg "post-bcpov6great2-0.jpg"^^xsd:string ;
+    ns1:urlSlug "interview-with-barry-williams-part-I"^^xsd:string .
+
+ns1:bcpov6great2 a ns1:Post ;
+    ns1:dateCreated "2006-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6great2-0.jpg" width="500px" height="auto"/></p>
+
+<p><em>Jeanne Schul Elkins interviews Barry Williams at the Journey into Wholeness conference. (Part I of this interview appeared in Volume 24 No. 1)</em></p>
+
+<p><strong>Jeanne:</strong> Can you give us some insight into the spiritual practice in which you participate and maybe an idea of how you deal with your own dreams?</p>
+
+<p><strong>Barry:</strong> I’ve kept a dream journal since 1970 and I don’t think I got into analysis until much later than that. Just the mere writing down of dreams is its own discipline, because then that world is being noticed, held, recorded, reflected on. There’s a great phrase: “The face you turn towards the unconscious is the face that it turns towards you.” So, if you’re turning towards it with respect, curiosity, in an invocational way, it will respond. It’s like any relationship; if you don’t call the person up, you won’t get to know them. They won’t pick up the phone. Or if you call and don’t say anything, they’ll just hang up. So it’s in the writing it down. I write down my dreams, of course, when I have them. I keep journals, a bookshelf full of them, and will really reflect on them. In my own life, I’ve had an interesting situation in my family some years ago that the medical world didn’t seem to be able to address. I really felt I had to put my money where my mouth was; dreams really help us through this. In fact, the dreams were more than helpful in finding the meaning and the purpose of the great dream of the birth of this child. In fact, it gave me my life. Had that not happened and had I not followed the dream—the inner understanding of this—I would have missed its meaning, as if the whole experience was the great dream. Even before the child was born, we had any number of very, very powerful dreams, which we were only able to decipher many years later, but that fell into a very visible pattern once we got it. So if I had not been true to myself and to my discipline, so to speak, I would have missed what was trying to, like a great dream, come into being. </p>
+
+<p><strong>Jeanne:</strong> Could you talk about the issue of voices in our dreams? What’s going on when we hear a very distinct voice in our dreams as we awaken? </p>
+
+<p><strong>Barry:</strong> Well, the dream thinks in images. We can’t think about a dream easily because the dream thinks in a different paradigm. So if a dream is thinking in images, then as something comes closer to consciousness, it might be personified, that something that is unimaginable takes on an imaginal quality as, say, snake, deer, horse, dog, monkey, human, in a kind of progression; and as it moves closer to consciousness, it becomes more and more personified. So a voice would be a message that—in order to be received—has to be put into, not a personified image, but a voiced image, as it were. So the meaning takes on a voice, and literally becomes the message. Not all dreams are images, of course. You can have dreams of kinesthetic senses. Sometimes people have tastes. In one of the most beautiful dreams I ever heard, the dreamer woke up with a taste of honey. Imagine. All of nature goes into this dream. Where does honey come from? It’s the transformed pollen. What is pollen? Pollen is the great, secret, growing world. It’s like the distilled essence of all of life was on the tongue of the dreamer. And, so, that’s hardly an image. It was a literal taste. Sometimes it’s a sound, sometimes a smell, sometimes a touch, sometimes, a voice.</p>
+
+<p><strong>Jeanne:</strong> Considering typology, an idea that really strikes me is the concept that we connect with the Divine or the Self through our interior function. In some dreams, I wake up and feel sensations sometimes as terrifyingly real. I often wonder why I don’t hear other people talking about feeling or smelling or experiencing the dream’s embrace as though it actually just happened. </p>
+
+<p><strong>Barry:</strong> Well, what’s unconscious is unconscious. So, that’s an example of the dream coming through your least differentiated awareness. Even though you’re a dancer and you use your body and have quite a kinesthetic feel for life, apparently. Nevertheless, the dream comes through your inferior function, in the example you just gave. And so it would give you that sense of distance and incomprehension. But an immediacy, like: “Woo, this is what I really don’t know” and probably has a purposefulness in that. It gets your attention. You would never say, “Oh, I get that. It’s my usual mode.” You say, “Oh my God, this is so distant from me. How do I possibly understand it?” And that’s how you have to go work on it. It’s the portal to the unconscious world. </p>
+
+<p><strong>Jeanne:</strong> I understand it intellectually, but it is my experience that intuition is not supported by the world in which we live and is often discounted; as in, “It’s just a dream.” I’m confused about how we can go about living into the dream. </p>
+
+<p><strong>Barry:</strong> One of the great problems for people is (and almost everyone asks this): “What do I do with this dream?” My advice is always, “We’re doing it.” It’s by talking about it. It’s by deepening into it. It’s by feeling it, letting it work us. That’s the process. We always think we want or we should bring the dream out into our lives and change our behavior and make ourselves a better person because of it. I don’t know if that’s wrong, or even misguided, but I’m never sure that that’s very helpful. Because there’s an inner process that’s going on and it’s our job to relate to that—to relate our lives to the inner process—not to bring the inner process out to make ourselves better people necessarily. Of course, so saying, you can always think of examples of dreams that give you a heads up. “You’re living in the wrong way.” Or “Pay attention to this or that.” Or “You don’t realize how much you love your child.” You can have a kind of Scrooge on Christmas morning experience through that and you sort of get it all in one night. In general, it’s the deep process that you’re trying to relate to. Again, not that we should bring that out into our waking world to have it, but to <em>allow ourselves to be had by it</em>, so that we’re aligning and attuning to it in some way. </p>
+
+<p><strong>Jeanne:</strong> The way that I came to dreamwork was literally waking up with horrific nightmares that were screaming for my attention. When I was completely electrified in the middle of the night, my response was to dive out of bed, retreat to my study, curl up with my journal, and write it down. My thirty years of journaling truly served me well. I needed to do something with all of those images. I couldn’t just make them go away. They were very visceral. I was feeling the dream in every part of my body. I think it’s that kind of urgency that, for some of us, makes dreaming suddenly significant. </p>
+
+<p><strong>Barry:</strong> The word “suddenly” is very important. In fairy tales, often there will be a situation in which everything is just fine. There is the mother and the two wonderful daughters. Everybody loves everybody and the world loves them. “Suddenly” there is a knock at the door. There is the inbreaking of the conscious situation that needs to unfold itself in the life that these people need to pay attention to. Even the use of the word is like that knock on the door. “Suddenly” you need to pay attention to this in a big way. The dreams have this tremendous energy, tremendous valiancy to them, and you cannot do anything except open that door. What good does it do you to hide? Right? </p>
+
+<p><strong>Jeanne:</strong> Yes. It’s not possible. </p>
+
+<p><strong>Barry:</strong> But it’s unthinkable to open the door. It’s way too much. And so there you are. You’re caught in this kind of existential moment of: “Damned if you do. Damned if you don’t.” But, in fact, you’re probably damned if you don’t and blessed if you do. In the fairy tales, almost always, when that in-breaking happens, it’s: “Suddenly” something happens. It’s the use of that word. It’s not “and then something happens.” This can be in the nature of a calling, too. Naturally, we get the word vocation from <em>vocare</em>, meaning to call. Many dreams that happen in the way you are describing are a kind of calling. It’s calling you to your life, really. Not away from your life, but calling you to your life, to your deep life: to be who you most inwardly are. That can be wrenching, if you’re not being very close to who you inwardly are. However, that’s the initiatory function. Classic vocational dreams can be quite dramatic: getting knocked off your horse on the way to Damascus and everything in between. It’s when the Self or God is calling to you. You can hear it as a voice. You can experience it as a traumatic dream. Ideally, our vocation in life is our calling from the Self. Again, it’s the image of alignment with that path wherever it should take you: down to purgatory or hell ala Dante. Still, that’s the path to life led through hell: to go deeply into what it is that is happening to you, as a result of who you are and what you’ve experienced and the psychological patterns that are dreaming you or having you, that want you — in a way — in a manner of speaking.</p>
+
+<p><strong>Jeanne:</strong> I‘ve certainly had dreams in which images or ideas or words showed up that I didn’t have a handle on, that seemed to hold a much bigger presence. Once, I dreamed of being at the Oracle of Delphi. I bowed to the Oracle and asked: “What is my path?” And the voice echoed back: “She who dances us into being.” </p>
+
+<p><strong>Barry:</strong> And what’s your experience of that? </p>
+
+<p><strong>Jeanne:</strong> It scares the hell out of me. </p>
+
+<p><strong>Barry:</strong> So there’s some awe? </p>
+
+<p><strong>Jeanne:</strong> A great deal of awe. It’s shocking, actually. </p>
+
+<p><strong>Barry:</strong> What is shocking about it? </p>
+
+<p><strong>Jeanne:</strong> I think it’s the closeness to divine presence or energy. </p>
+
+<p><strong>Barry:</strong> The Great Life. The great reality of that world encounters you. One of the great religious experiences is of being addressed by “Otherness.” Not that we go out and seek it and knock at its door and pull at its hem, but that it turns towards us and addresses us. How do you contain that in the seemingly small life of one’s own ego identity? But that’s the task. So there’s that awe and even terror, but the dawning realization, hopefully over time if you can contain this, of the great life; that your life somehow is attended by and connected to these energies. It’s a short step into some theological considerations here. The theology of God or the gods reaching out to the mortal world and that God or the gods are completed by the human experience or reflect or are the reflective part of the godhead; and, so, to experience the reality of that—the reality of the psyche in which this is happening from an inward place—is the meaning of life. We can’t live life without making that connection. Another way to talk about that, of course, is alchemically. It’s another paradigm to use. There are many paradigms. Some of the great experiences are of that world reaching out to us, whether it’s the divine realm or the Anima or Animus figure reaching out to the dreamer. It wants connection with you. Another way to put that is: Imagine that there is a process going on in us that wants to hammer us into gold or wants to transform us into gold, so that it can turn itself into hammered gold. That’s the image I was having. It wants to take us from the untransformed and undifferentiated to the most highly transformed and differentiated. It’s constantly attempting to enact itself in us if we will but listen. Sometimes, like with you, it breaks right through, powerfully, terrifyingly, and demands our attention. Its purpose, ultimately, is to make gold. We can’t do that all at once. It’s a lifetime process, really only complete with our last breath. But if we do not do it, we are not living our lives. It’s how we began initially: “If you don’t pay attention, it will kill you;” meaning if you don’t pay attention to the process that wants you to participate with it, you will not live your authentic life. You can only know what your authentic life is, not from achieving the highest success in your field, but by truly living out your vocation, that which is calling you. Hopefully, there is a wonderful parallel of success in real life, however you measure that, with a deep sense of fulfillment. One is always respectful of Jung’s last dream where the gold was in amongst the roots of the great tree.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqschul ;
+    ns1:hasTag ns1:bcphbqschul,
+        ns1:bcphbxal53y ;
+    ns1:itemId "bcpov6great2"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dancing the Great Dream: An Interview with Barry Williams, Part II"^^xsd:string ;
+    ns1:urlSlug "interview-with-barry-williams-part-II"^^xsd:string .
+
 ns1:bcpov6gregi2 a ns1:Post ;
     ns1:dateCreated "1987-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6gregi2-0.jpg" width="200" height="auto" alt="Jill Gregory"/></p>
@@ -1136,6 +1261,61 @@ ns1:bcpov6gresci a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Dream-Art Scientist"^^xsd:string ;
     ns1:urlSlug "dream-art-scientist"^^xsd:string .
+
+ns1:bcpov6grtend a ns1:Post ;
+    ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6grtend-0.jpg" width="500px" height="auto"/></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Jeanne Schul Elkins &amp; Julia Dawn Elkins</i></div><!--/nopreview--></p>
+
+<p>I grew up in a household that valued intuitive, non-linear thinking. My father, Roy Henry Schul, raised me on a heavy diet of colorful stories that depicted every phase of his life, including tales about the activities of souls who were no longer living. My mother, Thelma Jane McCollum Schul, continuously shared accounts of her psychic abilities. We lived in a two hundred year old farmhouse on a rambling dairy farm in Upstate New York with my five siblings and plenty of animals and plants of every description. </p>
+
+<p>One of Dad's favorite stories was about his grandfather, who had come from the old country with a stash of money that he kept hidden away. He was particularly fond of his fourteen year-old granddaughter, Margaret, who used to read the Bible to him when he came to visit. Soon after his death, Margaret sat at her grandfather's piano practicing, after the rest of the family had gone out to tend to evening chores. As she played, her grandfather appeared to her and attempted to tell her something. She was shocked and frightened by the sight of him. "I never moved so fast in my life", she reported of her reaction. "When I got to my family, I was as white as a ghost, myself." My father, Margaret's younger brother, couldn't believe she fled from her own grandfather, dead or alive. He always insisted, "Grandpa was probably trying to tell her where he hid his money, so she could enjoy it. She was always his favorite!" </p>
+
+<p>My Dad didn't draw sharp lines between life and death. He certainly wasn't threatened by the prospect of contact with those who had left this life, which was often evident in his stories. So, I guess I shouldn't have been shocked by his expectations, following my mother's sudden death; they had enjoyed more than forty years of marriage. As we sat having a cup of tea the night after Mom's death he confided to me, "Your mother never came to see me last night. Maybe she'll come tonight to say good-bye!" I, however, did not share my Dad's desire to be visited by Mom that night. In fact, I found the idea very unnerving! </p>
+
+<p>Nine months later, when Dad was visiting me in the deep South, he complained that Mom had never come back to let him know she was okay. He went on to share how deeply he missed her. Then, he shared this dream with me: </p>
+
+<blockquote>
+  <p><em>"I was in heaven and was looking around everywhere for your mother. Then, I saw her. She was so beautiful and so young. She was eighteen years old. She was standing at a distance with her daughter, Mary Jane, who was also eighteen. Another young woman with them spotted me and began to walk in my direction. I immediately recognized her as Twyla, Thelma's niece. Twyla looked like a perfectly healthy eighteen year old, as well. She called me by name and asked, 'Roy, what are you doing here?' I explained, 'I came to see if Thelma was okay.' She insisted, 'You can't be here. It's not your time. You can see that Thelma is doing fine. Now you'll have to leave.' Then, I woke up."</em></p>
+</blockquote>
+
+<p>"Daddy, don't you see?" I urged. "Mom did come to you in your dream, or rather, you went to her. She let you know she is perfectly okay now." I shouldn't have been surprised that my Dad didn't make the connection. He wanted something more concrete. </p>
+
+<p>I often feel the same way on my spiritual journey. I want to connect with the Divine on a real, human level. Perhaps that's the product of all our years on the farm; we long to be touched by the Divine on a sensory level that we can actually touch, hear, see, smell and taste. </p>
+
+<p>In his dream, my mother was at the peek of physical perfection, no longer suffering from chronic illness at seventy-nine years old. She was reunited with her first-born child, Mary Jane, who had died tragically at the age of three (fifty-five years prior to my mother's death). In the dream, Janie, as my mother affectionately called her, had grown into a beautiful, young woman, something my mother had longed all her life. Mom was in the company of her favorite niece, who had also preceded her in death. So, my father's dream answered his need to know that my mother was healthy and surrounded by the family members she had so desperately missed while on Earth. </p>
+
+<p>The prospect of being eighteen again probably looked very attractive to my father, who was suffering from the many complications of long-term diabetes. At eighteen, he had joined the U.S. Army during World War II and was stationed in Italy. He often showed my younger siblings and I the photographs of him in uniform and would entertain us with funny stories about his antics. We would always comment on how incredibly strong and powerful he looked back then. Perhaps my father's dream also offered him a very pleasant picture of his potential future. </p>
+
+<p>Two years later, when my Dad died, I felt quite sure he was more than ready to be reunited with my mother. Still, I knew I would miss him deeply. When it was my turn to say good-bye, I cradled his large clasped hands in mine and asked to receive his gift of story telling. I wanted that magical essence of my Dad to be carried on into the next generation and beyond. </p>
+
+<p>My father's dream tending and story telling have deeply informed my life, more than any degree or formal educational pursuit. Five years after his death, I took my family to Germany to visit the homeland of my great-grandfather. After a couple of weeks of touring, we celebrated Father's Day with my husband and our three daughters. Then, we returned to the home of very dear friends that evening near Hamburg, which felt very comforting after so many nights in hotel rooms. That night, on Father's Day, I had a dream. </p>
+
+<blockquote>
+  <p><em>My parents call me on the phone. In the dream, everything was as it used to be. Mom catches me up on all the news. Then, she hands the phone to my father. Dad then gave me a report on the weather and the state of the crops.</em> During this dream, however, <em>I know that I am receiving 'a call from heaven'.</em> </p>
+</blockquote>
+
+<p>My Mom had lost her ability to speak fluently during the last year of her life, due to a massive stroke. I had greatly missed our long phone conversations. In my dream, she was back to her old talkative self, full of tales about the extended family and very interested in my life and children. I felt reassured of her continuing love and support of my life's journey. During my father's last couple of years, he wasn't well enough to continue his weather predictions, nor did he have the energy to care for the animals and plants that drew him into farming. In my dream, he was again filled with joy and his characteristic zest for life. I even heard his musical laughter ringing out, which always amused and delighted me as a child. It was his merriment that I so hungered for in his absence. This dream addressed my need for contact with both of my parents on a very real, sensory level. I distinctly heard each of their voices clearly, as I so often had in the countless phone calls we had exchanged during my adulthood. I awoke with tears streaming down my cheeks from the pure pleasure of hearing their voices once again and sensing that they were well and happy together in their next life. </p>
+
+<p>Like my father before me, I went to breakfast with a story to tell that morning. I told everyone about the present I had received: a phone call from my parents in heaven on Father's Day! My friends and family were mildly interested, but my youngest daughter, then nine, was completely fascinated. Julia and I discussed the synchronicity of my dream occurring in the same way I used to always call my parents on holidays. This time, however, they called me from the afterlife. </p>
+
+<p>Julia has always begged for just one more bedtime story. She has heard all of her Grandpa's stories retold countless times. She was the first person I ever told about my prayerful request of my Dad's storytelling abilities at his death. So, it's no wonder that Julia finds an easy connection to dreams and storytelling. She and I have told each other our dreams before going to sleep and upon waking for most of her life. Dream telling often replaces storytelling in our nightly ritual. </p>
+
+<p>Now, as the next generation of dream tenders and storytellers, twelve-year-old, Julia Dawn Elkins, writes in her journal about dream life this way: </p>
+
+<p>"I believe dreams are connecting with the future and clinging to the past, all at the same time! I face my reality and my hopes all in one fell swoop! In the blink of an eye, my dream may change and unveil some secret about myself which leads to an emotional journey through self and soul." </p>
+
+<p>The evolution of the dream movement lies in the mindset of the next generation. This is imparted in the way we nurture our children. If we—as parents, teachers, therapists, and clergy—value the intuitive, non-linear thinking process that is a natural aspect of childhood, we cultivate the rich soil of their souls in which their hopes and dreams can grow and unfold.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqschul ;
+    ns1:hasTag ns1:bcphbqschul,
+        ns1:bcphbvjopd2 ;
+    ns1:itemId "bcpov6grtend"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dream Tending & Story Telling: An Inter-Generational Process"^^xsd:string ;
+    ns1:profileImg "post-bcpov6grtend-0.jpg"^^xsd:string ;
+    ns1:urlSlug "dream-tending-and-story-telling-an-inter-generational-process"^^xsd:string .
 
 ns1:bcpov6kaconf a ns1:Post ;
     ns1:dateCreated "2008-10-01T11:32:52"^^xsd:dateTime ;
@@ -9804,6 +9984,20 @@ ns1:bcphbx7d7cu a ns1:Post ;
     ns1:profileImg "27.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "27.4"^^xsd:string .
 
+ns1:bcphbxal53y a ns1:Post ;
+    ns1:coverImg "25.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2006-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf" download="">Download issue 25.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqob4y4gj ;
+    ns1:itemId "bcphbxal53y"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 25, issue 3: Back to Basics"^^xsd:string ;
+    ns1:profileImg "25.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "25.3"^^xsd:string .
+
 ns1:bcphbxjsuyu a ns1:Post ;
     ns1:coverImg "26.1-2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
@@ -10596,20 +10790,6 @@ ns1:bcphbq3pimm a ns1:User ;
     ns1:name "Bobbie Ann Pimm"^^xsd:string ;
     ns1:profileImg "author-bobbie-ann.jpg"^^xsd:string .
 
-ns1:bcphbwfw4rc a ns1:Post ;
-    ns1:coverImg "23.4-24.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf" download="">Download issue 23.4-24.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobxze6k ;
-    ns1:itemId "bcphbwfw4rc"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 23, issue 4: Dreaming as a Practice"^^xsd:string ;
-    ns1:profileImg "23.4-24.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "23.4-24.1"^^xsd:string .
-
 ns1:bcphbwmlvfh a ns1:Post ;
     ns1:coverImg "24.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2005-04-01T11:32:52"^^xsd:dateTime ;
@@ -10939,19 +11119,19 @@ ns1:bcphbqwatts a ns1:User ;
     ns1:name "Rosemary Watts-Dreyer"^^xsd:string ;
     ns1:profileImg "author-rosemary-watts.jpg"^^xsd:string .
 
-ns1:bcphbvjopd2 a ns1:Post ;
-    ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf" download="">Download issue 22.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf">View online</a></p>
+ns1:bcphbwfw4rc a ns1:Post ;
+    ns1:coverImg "23.4-24.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf" download="">Download issue 23.4-24.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf">View online</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobu7vuq ;
-    ns1:itemId "bcphbvjopd2"^^xsd:string ;
+        ns1:bcpqobxze6k ;
+    ns1:itemId "bcphbwfw4rc"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 22, issue 2: Peace"^^xsd:string ;
-    ns1:profileImg "22.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "22.2"^^xsd:string .
+    ns1:name "Volume 23, issue 4: Dreaming as a Practice"^^xsd:string ;
+    ns1:profileImg "23.4-24.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "23.4-24.1"^^xsd:string .
 
 ns1:bcphbz5vgog a ns1:Post ;
     ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
@@ -11175,6 +11355,20 @@ ns1:bcphbq3jean a ns1:User ;
     ns1:name "Jean Campbell"^^xsd:string ;
     ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
 
+ns1:bcphbvjopd2 a ns1:Post ;
+    ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf" download="">Download issue 22.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_22/22.2_evolution_II.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobu7vuq ;
+    ns1:itemId "bcphbvjopd2"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 22, issue 2: Peace"^^xsd:string ;
+    ns1:profileImg "22.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "22.2"^^xsd:string .
+
 ns1:bcphbq3norm a ns1:User ;
     ns1:coverImg "cover-author-rachelnorment.jpg"^^xsd:string ;
     ns1:description """<p>Book: <a href="https://www.balboapress.com/en/bookstore/bookdetails/474760-dream-explorations">Dream Explorations: A Journey in Self-Knowledge and Self-Realization</a></p>
@@ -11256,6 +11450,20 @@ ns1:bcphbqfgreg a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jill Gregory"^^xsd:string ;
     ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
+
+ns1:bcphbqschul a ns1:User ;
+    ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://thresholdjourneys.squarespace.com">thresholdjourneys</a></p>
+
+<p>Jeanne’s career path has been that of “teacher.” She has taught learners of all ages, focusing on the integration of soma, soul, and psyche. Whether she is teaching dance, dreamwork, body therapy, or hatha yoga, she is passionate about assisting her students in realizing their sense of wholeness. </p>
+
+<p>Jeanne is Associate Chair at Pacifica Graduate Institute in the department of Depth Psychology with a specialization in Somatic Studies. She is the Artistic Director Emeritus of the dance company at Berry College, where she taught and coordinated the dance minor program for 24 years. She earned her doctorate in Depth Psychology at Pacifica Graduate Institute, her M.A. in Dance at Texas Woman’s University, a B.A. in English and Dance from SUNY Brockport, spent a year studying British Literature at Nottingham University, and is a Registered Somatic Movement Therapist with ISMETA.</p>
+"""^^xsd:string ;
+    ns1:handle "jeanneschul"^^xsd:string ;
+    ns1:itemId "bcphbqschul"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jeanne Schul"^^xsd:string ;
+    ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
 
 ns1:bcphbqvmoss a ns1:User ;
     ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>

@@ -5,6 +5,7 @@ layout: post
 name: "Lovely Rita"
 tags:
   - hasTag: bobvandecastle
+  - hasTag: ritadwyer
   - hasAuthor: bobvandecastle
   - hasTag: 27.2
 type: post

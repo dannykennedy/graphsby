@@ -682,6 +682,7 @@ issues = [
         "imgName": "25.2",
         "pdfName": "25.2_monte_ullman.pdf",
         "title": "A Tribute to Monte Ullman",
+        "tags": ["montagueullman"],
         "date": "2006-04-01T11:32:52"
     },
     {
@@ -700,6 +701,7 @@ issues = [
         "imgName": "26.1-2",
         "pdfName": "26.1-26.2_krippner.pdf",
         "title": "A Tribute to Stanley Krippner, PhD",
+        "tags": ["stanleykrippner"],
         "date": "2007-01-01T11:32:52"
     },
     {
@@ -725,7 +727,7 @@ issues = [
         "pdfName": "27.2_women_for_peace.pdf",
         "title": "Women for Peace",
         "date": "2008-04-01T11:32:52",
-        "tags": ["jeancampbell"],
+        "tags": ["jeancampbell, ritadwyer"],
         "description": "<p>Paying Tribute to Two Exceptional Women Working Vigilantly for Dreams and for Peace: Rita Dwyer & <a href='../@jeancampbell'>Jean Campbell</a></p>"
     },
     {

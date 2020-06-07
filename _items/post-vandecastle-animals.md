@@ -235,10 +235,6 @@ You might find it a useful exercise to examine your dream journal for the types 
 
 <img src="../images/post-bcpov6kanimd-10.jpg" width="300px" height="auto"/>
 
-> *My friend Steve is hunting wild pigs with a Boy Scout knife and a wild pig turns into a cowboy. The cowboy says, "I'm going to eat you up." I say, "Eat me up, then." He comes at me with a knife and sticks in my arm real hard, but it doesn't open up my arm because it is too hard. I say to the cowboy, "I'm too hard, I'm on your side." (Four year old boy)*
-
-<img src="../images/post-bcpov6kanimd-11.jpg" width="300px" height="auto"/>
-
 > *I am riding a horse along a steep mountain trail overhanging a high cliff. The horse is galloping and can't make a turn and goes over the cliff. On the way down I realize to myself, "I'm a dead cookie." I am very disappointed at the fact that I won't achieve any of my ambitions. (20 year old male college student)*
 
 <img src="../images/post-bcpov6kanimd-11.jpg" width="300px" height="auto"/>

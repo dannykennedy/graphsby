@@ -77,7 +77,7 @@ If we delve deeply enough into ourselves, we come to a common stream with other 
 
 **JS:** Now that we have access to the Red Book, it affords us all the opportunity to witness Jung’s visual explorations of his dreams and his approach to Active Imagination. Thank you, Dr. Harris, for sharing your personal experience with dreams, as well as your expertise. I look forward to further conversations with you on this topic. ∞ 
 
-<img src="../images/post-bcpov6gresof-1.jpg" width="200px" height="auto"/>
+<img src="../images/post-bcpov6gresof-1.jpg" width="100px" height="auto"/>
 
 <hr/>
 

@@ -1,6 +1,6 @@
 ---
-dateCreated: "2004-10-01T11:32:52"
-itemId: bcpov6grroth
+dateCreated: "2004-04-01T11:32:52"
+itemId: bcpov6grddan
 layout: post
 name: "Dream Dancing"
 tags:
@@ -9,9 +9,9 @@ tags:
  - hasTag: 23.2
 type: post
 urlSlug: "gabrielle-roth-interview-dance-it-is-holy"
-profileImg: post-bcpov6grroth-0.jpg
+profileImg: post-bcpov6grroth-2.jpg
 ---
-<img src="../images/post-bcpov6grroth-0.jpg" width="400px" height="auto"/><!--nopreview--><div style="text-align:center"><i>Gabrielle Roth</i></div><!--/nopreview-->
+<img src="../images/post-bcpov6grroth-3.jpg" width="200px" height="auto"/>
 
 Dancing is my form of self-expression. I love to have wide open spaces to fill up with my moving body, and music with which to dance that touches my soul. Having taught hundreds and hundreds of children in schools and studios across the country, I can say with great authority that I am not alone in appreciating the pleasure of this physical sensation. Encouraging children to move freely and expressively enables them to maintain the body-mind-spirit connection that is a natural part of childhood exploration and development. 
 
@@ -27,7 +27,7 @@ As leader of the Dream Dance Activity, I structure the process carefully to give
 
 ## Dream Telling 
 
-The process begins by selecting a partner with whom one will take turns. The first partner verbally shares her dream material, while her partner witnesses her dream telling. Witnessing involves active listening, without interrupting the dream teller with verbal responses or non-verbal signals of approval or disapproval. This enables the person telling her dream to get into a flowof-consciousness description of her dream. 
+The process begins by selecting a partner with whom one will take turns. The first partner verbally shares her dream material, while her partner witnesses her dream telling. Witnessing involves active listening, without interrupting the dream teller with verbal responses or non-verbal signals of approval or disapproval. This enables the person telling her dream to get into a flow-of-consciousness description of her dream. 
 
 ## Dream Dancing 
 
@@ -55,6 +55,8 @@ The Dream Dance is not simply an exercise I reserve for students. I find it to b
 
 ## The Victim and The Perpetrator 
 
+<img src="../images/post-bcpov6grroth-1.jpg" width="400px" height="auto"/>
+
 In my dream telling, I begin with an anxiety-producing nightmare: 
 
 > *This woman tells these people she is protecting them from something evil and takes large sums of money from them. However, there is no real threat. I see her go to her car, pop the trunk and inside, there is a barrel. She takes the locked-down lid off and a very wealthy woman very slowly unfolds her body and emerges. People everywhere are being released. Then, the lie of the danger is told to all.* 
@@ -81,9 +83,13 @@ The second dream that I explore in the dream dance portrays a very different ima
 
 This dream character is a Goddess, strong and receptive. Dancing this dream feels delightful! The arm movements open from the heart. My lower body is powerful and grounded. I breathe deeply as I explore this dream image. I look upward as my gestures extend away from my center toward the sky. I also release my body into gravity, sliding toward the floor. The snake brings the connection with the dark, hidden places of the earth. Rolling and pressing against the floor, I connect with this snake energy. 
 
+<img src="../images/post-bcpov6grroth-2.jpg" width="400px" height="auto"/>
+
 ## Conclusion 
 
-This dream dance experience did not end for me when my class was over. Instead, it highlights my need to further explore these dreams. I dance these dream images in the studio alone. I write about them. I draw the barrel and the Goddess. I narrate the dream dance for witnesses. I process the dreams with a Jungian analyst. I research the Snake Goddess. I compile visual art images that portray both the barrel nightmare and the sunlit dream. My in-class exploration of this dream dance exercise has sparked the dance that I am currently creating for my dance company. In the process of describing recurring nightmare images and dancing those postures and places that haunt my dreams, I realized I had a dance that needed to unfold. After exploring these dreams further, I knew that I would entitle the dance, ‘Out of the Nightmare, Into the Light.’ The title provides a road map of the dance for me. I begin with the first anxiety-producing dream, take the audience through a full range of nightmare scenarios of oppression, and then move into the light of the Goddess, still grounded by the presence of the snake. The dance is not yet finished, but the process is exhilarating! ℘ Jeanne Schul Elkins is a Dance Specialist at Berry College in Rome, Georgia. She presents workshops in Dream Dancing at Journey Into Wholeness conferences, the EastWest Somatics Institute, and National Dance Association conventions.
+This dream dance experience did not end for me when my class was over. Instead, it highlights my need to further explore these dreams. I dance these dream images in the studio alone. I write about them. I draw the barrel and the Goddess. I narrate the dream dance for witnesses. I process the dreams with a Jungian analyst. I research the Snake Goddess. I compile visual art images that portray both the barrel nightmare and the sunlit dream. 
+
+My in-class exploration of this dream dance exercise has sparked the dance that I am currently creating for my dance company. In the process of describing recurring nightmare images and dancing those postures and places that haunt my dreams, I realized I had a dance that needed to unfold. After exploring these dreams further, I knew that I would entitle the dance, ‘Out of the Nightmare, Into the Light.’ The title provides a road map of the dance for me. I begin with the first anxiety-producing dream, take the audience through a full range of nightmare scenarios of oppression, and then move into the light of the Goddess, still grounded by the presence of the snake. The dance is not yet finished, but the process is exhilarating! 
 
 
 

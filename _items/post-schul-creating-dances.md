@@ -1,6 +1,6 @@
 ---
 dateCreated: "2004-01-01T11:32:52"
-itemId: bcpov6grcdan
+itemId: post
 layout: post
 name: "When Last I Dreamed: Creating Dances from Dreams"
 tags:
@@ -90,6 +90,8 @@ As I recreated the snake dream, I opened the scene with a beautiful young woman 
 ## Conclusion 
 
 This choreography was my creative response to delving into the realm of my own dreams, knowing that there was nowhere to hide. ‘When Last I Dreamed’ evolved in collaboration with my student dancers. Without their willingness to take dreams seriously, I could never have taken the risks involved in telling the world what I least understand about myself! 
+
+<img src="../images/post-bcpov6grcdan-6.jpg" width="400px" height="auto"/> 
 
 <hr/>
 *All photographs submitted for this article are of the Berry College Dance Troupe, for which Jeanne Schul Elkins is Artistic Director. Cover & article photos were taken by Chris Love, a middle grades math and science teacher at the Berry College Middle School. He enjoys amateur photography and digital artistry. His wife and daughter are a constant supporter of his dreams and aspirations.*

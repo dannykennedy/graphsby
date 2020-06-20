@@ -893,6 +893,133 @@ ns1:bcphbzaknqj a ns1:Post ;
     ns1:profileImg "30.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "30.2-3"^^xsd:string .
 
+ns1:bcpov6ghaiku a ns1:Post ;
+    ns1:dateCreated "2004-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6ghaiku-0.jpg" width="200px" height="auto"/></p>
+
+<p>Haiku originated in thirteenth century Japan. From its inception, the goal of haiku has been to create a connection with the natural world. That deep relationship to nature has lead many to describe haiku as a spiritual path. Usually, each haiku establishes a sense of season in collaboration with another image to stir the feelings and the imagination of the reader. </p>
+
+<p>Like dreamwork, haiku is a vehicle for spiritual insight. It frames the experience of one insightful moment in a single breath. The world of the senses unites with the world of nature in haiku, as an offering from the heart. </p>
+
+<p>The language of haiku is condensed, distilling a powerful experience into just three lines. As in dreamwork, haiku is written in the present tense. The flow of consciousness in haiku and dreams is not necessarily logical or linear. The intelligence that governs both is that of intuition. </p>
+
+<p>As the most concentrated, shortest form of poetry, the focus of haiku is on images. Like dreamwork, haiku imagery has many layers and is multi-sensory. The symbolic value of the image enables the haiku poet to share a moment that was deeply touching with brevity. </p>
+
+<p>Just as you can invite dream imagery to play in your conscious mind all day, haiku can be explored in a similar manner. If you approach each haiku in a relaxed state by dropping into your own breath and releasing distractions, you can open your heart and engage your active imagination. Experiment with reading a poem silently first, then out loud a couple of times. This approach enables you to cross the threshold of consciousness and to embrace the images as they appear in your mind’s eye. Try not to analyze the poem. Just let the first two lines create their impression, while the third sometimes offers an insight or a surprise. Then, if you choose, you can take that haiku with you and mull over the images throughout the day. Enjoy the journey!</p>
+
+<div style="text-align: center">
+
+<img src="../images/post-bcpov6ghaiku-1.jpg" width="200px" height="auto"/>
+
+ocean lullaby<br>rhythmically to and fro -<br>dance with me, my love<br><br>
+
+
+
+<img src="../images/post-bcpov6ghaiku-2.jpg" width="200px" height="auto"/>
+
+ocean breezes blow<br>sleeping man anchors his kite -<br>awaken to life<br><br>
+
+
+
+<img src="../images/post-bcpov6ghaiku-3.jpg" width="200px" height="auto"/>
+
+ocean pilgrimage<br>amongst the shells and seaweed -<br>wisdom pursues you<br><br>
+
+
+
+first Mother’s Day gift -<br>tiny reaching fingers grasp<br>luminescent breast<br><br>
+
+
+
+Gulf of Mexico<br>surf’s monologue—ebb and flow<br>a kind of silence<br><br>
+
+
+
+lone stork — frozen stance<br>suspended timeless moment<br>whom do you await<br><br>
+
+
+
+pelicans silhouetted<br>against the sunset -<br>in V-formation<br><br>
+
+
+
+bronze sun worshipper<br>glimmering with fragrant oils -<br>your lover, the sun<br><br>
+
+
+
+tide rolling toward shore<br>cresting, crashing, colliding -<br>souls dissolve in foam<br><br>
+
+
+
+<img src="../images/post-bcpov6ghaiku-4.jpg" width="200px" height="auto"/>
+
+sunrise beach comber<br>fistful of buried treasures -<br>which direction home<br><br>
+
+
+
+adolescent dream<br>swallowed by enormous fish -<br>who will rescue me<br><br>
+
+
+
+wide eyes peer at me<br>rising out of surface sand<br>awaken morning<br><br>
+
+
+
+conch shell oracle<br>raised anxiously to my ear -<br>awaiting answer<br><br>
+
+
+
+lost in books’ pages -<br>summer’s sweet forgetfulness<br>ah, timeless moments<br><br>
+
+
+
+blonde curly headed boy<br>diving deep into the sea -<br>what treasures you find<br><br>
+
+
+
+hammock suspended<br>August’s heat lulls occupant -<br>dreams are having you<br><br>
+
+
+
+rainy summer night -<br>overwhelmed, the woman sighs<br>do not survive, thrive<br><br>
+
+
+
+black widow nightmare -<br>slow sensuous seduction<br>sucked into vortex<br><br>
+
+
+
+birthday visitor -<br>snake peers in upstairs window<br>what gift do you bring<br><br>
+
+
+
+summer fantasies -<br>boughs of rocking willow tree<br>manifest for me<br><br>
+
+</div>
+
+<hr/>
+
+<p><em>Photography by Randy Elkins</em> </p>
+
+<h3>References:</h3>
+
+<p>Forges-Ryan, S. &amp; Ryan, E. (2002). Take a deep breath: the haiku way to inner peace. Kodansha International: Tokyo. </p>
+
+<p>Hardy, J. (Ed.) (2002). Haiku: poetry ancient &amp; modern. Boston, MA: Tuttle Publishing. </p>
+
+<p>Higginson, W. with Harter, P. (1985). The haiku handbook: how to write, share, and teach haiku. Tokyo: Kodansha International.</p>
+
+<p>Strand, C. (1997). Seeds from a birch tree: writing haiku and the spiritual journey. NY: Hyperion.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqschul ;
+    ns1:hasTag ns1:bcphbqschul,
+        ns1:bcphbvvhigo ;
+    ns1:itemId "bcpov6ghaiku"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Haiku"^^xsd:string ;
+    ns1:profileImg "post-bcpov6ghaiku-0.jpg"^^xsd:string ;
+    ns1:urlSlug "haiku"^^xsd:string .
+
 ns1:bcpov6glight a ns1:Post ;
     ns1:dateCreated "1999-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6glight-0.jpg" width="600" height="auto" alt="Symbolic Sound Forms from the Akashic Records"/></p>
@@ -939,107 +1066,6 @@ ns1:bcpov6glight a ns1:Post ;
     ns1:name "Light at the End of the Tunnel - The Twelve Days of Light: An Interview with Gary Bonnell"^^xsd:string ;
     ns1:profileImg "post-bcpov6glight-0.jpg"^^xsd:string ;
     ns1:urlSlug "interview-with-gary-bonnell"^^xsd:string .
-
-ns1:bcpov6grcdan a ns1:Post ;
-    ns1:dateCreated "2004-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/post-bcpov6grcdan-0.jpg" width="500px" height="auto"/><!--nopreview--><div style="text-align:center"><i>Berry College Dance Troupe, directed by Jeanne Schul Elkins. Photo: Chris Love</i></div><!--/nopreview--></p>
-
-<p>Dance has the power to manifest the unconscious visibly through the physical shapes the dancers make and the movement patterns that they trace through space. The imagery that the dance stirs up in the mind’s eye engages the audience’s imagination. “Dreams never lie,’” C.G. Jung assures us. Gabrielle Roth asserts, “The body never lies.” Therefore, a dream dance has the potential to express a very primal truth. </p>
-
-<p>I teach dance at a small, private liberal arts college where I am Artistic Director of the Berry College Dance Troupe. We present an annual dance concert for which I develop original dances. For the 2002 concert entitled, ‘Wishes, Lies, and Dreams,’ I created a dream dance as a way of working with the dream material that was bubbling up to consciousness for me. </p>
-
-<p>For years, I have recorded every dream that awakened me from sleep. These dreams were often intensely gripping nightmares that demanded my immediate attention. I have also done stream-of-consciousness journaling in which much of my dream material arises. </p>
-
-<h2>When Last I Dreamed</h2>
-
-<p>When I began working on this dream dance, my students found this way of honoring dreams fascinating. I brought in passages from Jung and John Sanford to give them a deeper perspective on how I was transforming the dreams into choreography. Before I began teaching a dance phrase, I would read the dream to them that we were about to enact. I wanted the dancers to understand the motivation behind the movement. Sometimes the dream would speak to one of the dancers personally and he/she would literally jump at the chance to portray the protagonist. </p>
-
-<p>‘When Last I Dreamed’ provided the opportunity to embody my dreams. It recreated the visions I had seen in my sleep. Although I did a great deal of research into dream symbolism, my goal was to delve into the feeling state that came up in the dream, rather than analyzing the meaning of the dream. I also explored active imagination as a way of finishing a dream or to further develop dream material. </p>
-
-<h2>Opening</h2>
-
-<p><img src="../images/post-bcpov6grcdan-1.jpg" width="300px" height="auto"/></p>
-
-<p>‘When Last I Dreamed’ opened in relative stillness. The audience was invited into the dreamscape, which included the outline of a two-story Tudor style home with twin dormers, a huge birdcage, and a pedestal. The two male dancers and six female dancers were costumed in fluid silk pants and short-sleeved shirts in pale tones, reminiscent of pajamas. </p>
-
-<h2>Angels</h2>
-
-<p>The first dream sequence re-enacted Jacob’s classic dream from the Old Testament, wherein a ladder connecting heaven and earth appeared, with angels flowing up and down the rungs. In this angelic dance, the female dancers entered sequentially and began turning. The Dervish-like spinning invoked a sense of relinquishing control, of surrendering to the Divine. Next, pairs and single dancers ‘took flight,’ in the form of running leaps, as well as male-assisted lifts. So, the opening dream sequence created a sense of Divine presence in the dream dance. </p>
-
-<h2>Man with a Gun</h2>
-
-<p><img src="../images/post-bcpov6grcdan-2.jpg" width="300px" height="auto"/></p>
-
-<p>The next section of the dance depicted scenes from nightmares. My first disturbing dream reported: </p>
-
-<blockquote>
-  <p><em>I am at the home of my childhood, even though I am a young mother. I am facing our green front door, surrounded by ivy wallpaper. I can see a man that I recognize on the other side of the door, a man with whom I was once very much in love. Now, however, the sight of this man holding a gun outside my front door is extremely threatening. I panic as I realize that my parents have never locked their doors, in fact, none of their doors or windows lock. I feel extremely vulnerable. My heart is pounding. I know that there is no way of keeping this man at bay. Somehow, I muster the courage to shove the front door open and he falls into an abyss with his gun falling after him.</em> </p>
-</blockquote>
-
-<p>This dark dream unfolded as a dance phrase in which a young woman seemed to be panicking and running from room to room inside the Tudor house. A large man with a gun crept up to the house and paced back and forth in front of the window. He peered inside at her. The female recognized him, but only responded to him as a threat to her security. The tension mounted, as harsh music grew more intense, until she finally fainted and he ran off stage. </p>
-
-<h2>Two Women</h2>
-
-<p>The second section of the dark dreams involved two female dancers who performed a frantic dance to discordant music. Their movements were harsh, angular, and staccato. Their arm gestures slashed out into space. They fell to the floor. Their bodies exploded open. They contracted violently closed. It was a dance of possession. It brought up images of the medieval Tarantella, in which women reportedly danced out of control until they passed out or died. </p>
-
-<h2>Falling</h2>
-
-<p>After we had been building the dance for several weeks, I asked all the dancers, “What dreams do you have that we are not portraying?” “Falling dreams!” was the resounding response. So, we immediately began to recreate their dream experiences. Three of the tiniest dancers agreed to be the fallers. They each mounted the pedestal and one after another fell backwards into the arms of the other dancers, who then eased each to the floor. This added interest to the dance and the collaboration gave everyone a sense of ownership in the creative process. Then our 6’ 6” former collegiate baseball player shared his idea: “I always dream that I’m falling face first. I’d like to try doing that.” Everyone froze! He outweighed most of our dancers by over one hundred pounds! Still, everyone agreed to let him have his turn falling, very aware of how much force would have to be absorbed to keep him safe. When it was his turn, he didn’t just fall passively into their arms; he sprung off the pedestal like he was diving into a swimming pool! The studio echoed with the slapping sound of twelve hands breaking his fall. Although it was a very stressful scene, it stayed in the choreography. Every run of the show, his fall brought gasps, as members of the audience revisited their worst falling dreams. </p>
-
-<h2>Birdcage</h2>
-
-<p><img src="../images/post-bcpov6grcdan-3.jpg" width="300px" height="auto"/></p>
-
-<p>The next dreamscape involved a human-sized Victorian birdcage. This metaphor grew out of dream imagery in which I reported: </p>
-
-<blockquote>
-  <p><em>I feel like I’m suffocating, gasping for air or caged as a wild animal, having always known sweet freedom. In other dream imagery a beautiful bird often appeared in a gilded cage.</em> </p>
-</blockquote>
-
-<p>My research suggested that birds often symbolize the soul, as a creature of both the earth and the sky. The image of a cage suggested the restriction of an instinctive aspect of the self. A caged bird reportedly served as a metaphor for frustrated spiritual ambitions. </p>
-
-<p>To depict the essence of the caged bird, a stark white light illuminated the cage. A single female dancer gripped the bars with both hands and peered out. As the dissident music built to a climax, she kicked and swung her legs about the limited space, but froze all activity to watch another female dancer ‘fly’ past the cage as two men lifted her. </p>
-
-<h2>The Dream Lover’s Dance</h2>
-
-<p>The caged dancer remained confined, as four other female dancers joined her on stage, along with a tall male. The man relaxed on the pedestal and watched as his Anima or dream lover dance unfolded. The four women on stage moved sensuously, with gestures that communicated longing and desire. The caged dancer joined their dance in her confined space; her arms reached out of the bars, beseechingly. When this dream concluded, all of the characters exited the stage, including she who had been contained in the birdcage. </p>
-
-<h2>Snake Goddess</h2>
-
-<p><img src="../images/post-bcpov6grcdan-4.jpg" width="300px" height="auto"/></p>
-
-<p>The snake dance grew out of a specific dream I had: </p>
-
-<blockquote>
-  <p><em>‘There are snakes everywhere, venomous snakes. I witness this scene, but do not physically interact. My beautiful middle daughter and her father are rallying these snakes into the center of the space between the two of them. In pairs, the snakes merge and wrap around each other and rise upward. However, they begin devouring one another instead. As the energy changes, the young woman becomes less cautious in the way she is handling the snakes. Just as she drops two snakes on the ground and they escape between her feet and legs, I speak. “Do not allow those snakes to run between your legs. They could bite your ankle or slide up your leg.” Just then, she grips another snake close to the tail and lifts it toward herself. The snake slings itself against her torso and ascends her body, biting her neck as it slides under her hair. ”I am bitten,” she announces simply, releasing her grasp on the snake.’</em> </p>
-</blockquote>
-
-<p>There were many ways to work with this dream. I chose to focus on the transformative symbol of the snake, with its ability to shed its skin and start life anew in another manifestation. I was also aware of the medical symbol inherent in the entwined rising snakes as I continued my research. Death in dreams reportedly symbolized another form of transformation, from one life experience to the next. So, I worked with this dream dance phrase by focusing all the transformative energy on the central female. She undergoes metamorphosis into the Snake Goddess of early Cretan culture. </p>
-
-<p>As I recreated the snake dream, I opened the scene with a beautiful young woman dancing into center stage with a 6-foot snake wrapped around her shoulders like a shawl. Her undulating solo portrayed snake-like sensuality. She commanded the stage with her powerful presence and took on the persona of the Snake Goddess. Then, pairs of women entered from opposite sides of the stage, each with a snake held between her hands. After encircling the Snake Goddess, each draped her snake on the outstretched arms of the Goddess and exited, as another pair of dancers entered holding their snakes. This continued until the Snake Goddess was laden with snakes undulating all over her upper torso. At this point, two men advanced toward her, presenting a throne upon which she sat, balancing all of her snakes, and they carried her offstage. </p>
-
-<h2>Ending</h2>
-
-<p><img src="../images/post-bcpov6grcdan-5.jpg" width="300px" height="auto"/> </p>
-
-<p>‘When Last I Danced’ concluded by revisiting the still point imagery with which it began. Dancers were joined in pairs and trios, mirroring one another or mutually supporting the other in shapes that challenged their balance and level of trust. Each image that emerged out of their bodies blending and entwining offered a gateway to the audience’s own fantasies, with a final group sculpture depicting diversity within wholeness. </p>
-
-<h2>Conclusion</h2>
-
-<p>This choreography was my creative response to delving into the realm of my own dreams, knowing that there was nowhere to hide. ‘When Last I Dreamed’ evolved in collaboration with my student dancers. Without their willingness to take dreams seriously, I could never have taken the risks involved in telling the world what I least understand about myself! </p>
-
-<hr/>
-
-<p><em>All photographs submitted for this article are of the Berry College Dance Troupe, for which Jeanne Schul Elkins is Artistic Director. Cover &amp; article photos were taken by Chris Love, a middle grades math and science teacher at the Berry College Middle School. He enjoys amateur photography and digital artistry. His wife and daughter are a constant supporter of his dreams and aspirations.</em></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqschul ;
-    ns1:hasTag ns1:bcphbqschul,
-        ns1:bcphbv3fbuv ;
-    ns1:itemId "bcpov6grcdan"^^xsd:string ;
-    ns1:layout "post"^^xsd:string ;
-    ns1:name "When Last I Dreamed: Creating Dances from Dreams"^^xsd:string ;
-    ns1:profileImg "post-bcpov6grcdan-0.jpg"^^xsd:string ;
-    ns1:urlSlug "creating-dances-from-dreams"^^xsd:string .
 
 ns1:bcpov6grddan a ns1:Post ;
     ns1:dateCreated "2004-04-01T11:32:52"^^xsd:dateTime ;
@@ -9884,6 +9910,109 @@ ns1:name a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
     rdfs:domain ns1:Item ;
     rdfs:range xsd:string .
 
+ns1:post a ns1:Post ;
+    ns1:dateCreated "2004-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6grcdan-0.jpg" width="500px" height="auto"/><!--nopreview--><div style="text-align:center"><i>Berry College Dance Troupe, directed by Jeanne Schul Elkins. Photo: Chris Love</i></div><!--/nopreview--></p>
+
+<p>Dance has the power to manifest the unconscious visibly through the physical shapes the dancers make and the movement patterns that they trace through space. The imagery that the dance stirs up in the mind’s eye engages the audience’s imagination. “Dreams never lie,’” C.G. Jung assures us. Gabrielle Roth asserts, “The body never lies.” Therefore, a dream dance has the potential to express a very primal truth. </p>
+
+<p>I teach dance at a small, private liberal arts college where I am Artistic Director of the Berry College Dance Troupe. We present an annual dance concert for which I develop original dances. For the 2002 concert entitled, ‘Wishes, Lies, and Dreams,’ I created a dream dance as a way of working with the dream material that was bubbling up to consciousness for me. </p>
+
+<p>For years, I have recorded every dream that awakened me from sleep. These dreams were often intensely gripping nightmares that demanded my immediate attention. I have also done stream-of-consciousness journaling in which much of my dream material arises. </p>
+
+<h2>When Last I Dreamed</h2>
+
+<p>When I began working on this dream dance, my students found this way of honoring dreams fascinating. I brought in passages from Jung and John Sanford to give them a deeper perspective on how I was transforming the dreams into choreography. Before I began teaching a dance phrase, I would read the dream to them that we were about to enact. I wanted the dancers to understand the motivation behind the movement. Sometimes the dream would speak to one of the dancers personally and he/she would literally jump at the chance to portray the protagonist. </p>
+
+<p>‘When Last I Dreamed’ provided the opportunity to embody my dreams. It recreated the visions I had seen in my sleep. Although I did a great deal of research into dream symbolism, my goal was to delve into the feeling state that came up in the dream, rather than analyzing the meaning of the dream. I also explored active imagination as a way of finishing a dream or to further develop dream material. </p>
+
+<h2>Opening</h2>
+
+<p><img src="../images/post-bcpov6grcdan-1.jpg" width="300px" height="auto"/></p>
+
+<p>‘When Last I Dreamed’ opened in relative stillness. The audience was invited into the dreamscape, which included the outline of a two-story Tudor style home with twin dormers, a huge birdcage, and a pedestal. The two male dancers and six female dancers were costumed in fluid silk pants and short-sleeved shirts in pale tones, reminiscent of pajamas. </p>
+
+<h2>Angels</h2>
+
+<p>The first dream sequence re-enacted Jacob’s classic dream from the Old Testament, wherein a ladder connecting heaven and earth appeared, with angels flowing up and down the rungs. In this angelic dance, the female dancers entered sequentially and began turning. The Dervish-like spinning invoked a sense of relinquishing control, of surrendering to the Divine. Next, pairs and single dancers ‘took flight,’ in the form of running leaps, as well as male-assisted lifts. So, the opening dream sequence created a sense of Divine presence in the dream dance. </p>
+
+<h2>Man with a Gun</h2>
+
+<p><img src="../images/post-bcpov6grcdan-2.jpg" width="300px" height="auto"/></p>
+
+<p>The next section of the dance depicted scenes from nightmares. My first disturbing dream reported: </p>
+
+<blockquote>
+  <p><em>I am at the home of my childhood, even though I am a young mother. I am facing our green front door, surrounded by ivy wallpaper. I can see a man that I recognize on the other side of the door, a man with whom I was once very much in love. Now, however, the sight of this man holding a gun outside my front door is extremely threatening. I panic as I realize that my parents have never locked their doors, in fact, none of their doors or windows lock. I feel extremely vulnerable. My heart is pounding. I know that there is no way of keeping this man at bay. Somehow, I muster the courage to shove the front door open and he falls into an abyss with his gun falling after him.</em> </p>
+</blockquote>
+
+<p>This dark dream unfolded as a dance phrase in which a young woman seemed to be panicking and running from room to room inside the Tudor house. A large man with a gun crept up to the house and paced back and forth in front of the window. He peered inside at her. The female recognized him, but only responded to him as a threat to her security. The tension mounted, as harsh music grew more intense, until she finally fainted and he ran off stage. </p>
+
+<h2>Two Women</h2>
+
+<p>The second section of the dark dreams involved two female dancers who performed a frantic dance to discordant music. Their movements were harsh, angular, and staccato. Their arm gestures slashed out into space. They fell to the floor. Their bodies exploded open. They contracted violently closed. It was a dance of possession. It brought up images of the medieval Tarantella, in which women reportedly danced out of control until they passed out or died. </p>
+
+<h2>Falling</h2>
+
+<p>After we had been building the dance for several weeks, I asked all the dancers, “What dreams do you have that we are not portraying?” “Falling dreams!” was the resounding response. So, we immediately began to recreate their dream experiences. Three of the tiniest dancers agreed to be the fallers. They each mounted the pedestal and one after another fell backwards into the arms of the other dancers, who then eased each to the floor. This added interest to the dance and the collaboration gave everyone a sense of ownership in the creative process. Then our 6’ 6” former collegiate baseball player shared his idea: “I always dream that I’m falling face first. I’d like to try doing that.” Everyone froze! He outweighed most of our dancers by over one hundred pounds! Still, everyone agreed to let him have his turn falling, very aware of how much force would have to be absorbed to keep him safe. When it was his turn, he didn’t just fall passively into their arms; he sprung off the pedestal like he was diving into a swimming pool! The studio echoed with the slapping sound of twelve hands breaking his fall. Although it was a very stressful scene, it stayed in the choreography. Every run of the show, his fall brought gasps, as members of the audience revisited their worst falling dreams. </p>
+
+<h2>Birdcage</h2>
+
+<p><img src="../images/post-bcpov6grcdan-3.jpg" width="300px" height="auto"/></p>
+
+<p>The next dreamscape involved a human-sized Victorian birdcage. This metaphor grew out of dream imagery in which I reported: </p>
+
+<blockquote>
+  <p><em>I feel like I’m suffocating, gasping for air or caged as a wild animal, having always known sweet freedom. In other dream imagery a beautiful bird often appeared in a gilded cage.</em> </p>
+</blockquote>
+
+<p>My research suggested that birds often symbolize the soul, as a creature of both the earth and the sky. The image of a cage suggested the restriction of an instinctive aspect of the self. A caged bird reportedly served as a metaphor for frustrated spiritual ambitions. </p>
+
+<p>To depict the essence of the caged bird, a stark white light illuminated the cage. A single female dancer gripped the bars with both hands and peered out. As the dissident music built to a climax, she kicked and swung her legs about the limited space, but froze all activity to watch another female dancer ‘fly’ past the cage as two men lifted her. </p>
+
+<h2>The Dream Lover’s Dance</h2>
+
+<p>The caged dancer remained confined, as four other female dancers joined her on stage, along with a tall male. The man relaxed on the pedestal and watched as his Anima or dream lover dance unfolded. The four women on stage moved sensuously, with gestures that communicated longing and desire. The caged dancer joined their dance in her confined space; her arms reached out of the bars, beseechingly. When this dream concluded, all of the characters exited the stage, including she who had been contained in the birdcage. </p>
+
+<h2>Snake Goddess</h2>
+
+<p><img src="../images/post-bcpov6grcdan-4.jpg" width="300px" height="auto"/></p>
+
+<p>The snake dance grew out of a specific dream I had: </p>
+
+<blockquote>
+  <p><em>‘There are snakes everywhere, venomous snakes. I witness this scene, but do not physically interact. My beautiful middle daughter and her father are rallying these snakes into the center of the space between the two of them. In pairs, the snakes merge and wrap around each other and rise upward. However, they begin devouring one another instead. As the energy changes, the young woman becomes less cautious in the way she is handling the snakes. Just as she drops two snakes on the ground and they escape between her feet and legs, I speak. “Do not allow those snakes to run between your legs. They could bite your ankle or slide up your leg.” Just then, she grips another snake close to the tail and lifts it toward herself. The snake slings itself against her torso and ascends her body, biting her neck as it slides under her hair. ”I am bitten,” she announces simply, releasing her grasp on the snake.’</em> </p>
+</blockquote>
+
+<p>There were many ways to work with this dream. I chose to focus on the transformative symbol of the snake, with its ability to shed its skin and start life anew in another manifestation. I was also aware of the medical symbol inherent in the entwined rising snakes as I continued my research. Death in dreams reportedly symbolized another form of transformation, from one life experience to the next. So, I worked with this dream dance phrase by focusing all the transformative energy on the central female. She undergoes metamorphosis into the Snake Goddess of early Cretan culture. </p>
+
+<p>As I recreated the snake dream, I opened the scene with a beautiful young woman dancing into center stage with a 6-foot snake wrapped around her shoulders like a shawl. Her undulating solo portrayed snake-like sensuality. She commanded the stage with her powerful presence and took on the persona of the Snake Goddess. Then, pairs of women entered from opposite sides of the stage, each with a snake held between her hands. After encircling the Snake Goddess, each draped her snake on the outstretched arms of the Goddess and exited, as another pair of dancers entered holding their snakes. This continued until the Snake Goddess was laden with snakes undulating all over her upper torso. At this point, two men advanced toward her, presenting a throne upon which she sat, balancing all of her snakes, and they carried her offstage. </p>
+
+<h2>Ending</h2>
+
+<p><img src="../images/post-bcpov6grcdan-5.jpg" width="300px" height="auto"/> </p>
+
+<p>‘When Last I Danced’ concluded by revisiting the still point imagery with which it began. Dancers were joined in pairs and trios, mirroring one another or mutually supporting the other in shapes that challenged their balance and level of trust. Each image that emerged out of their bodies blending and entwining offered a gateway to the audience’s own fantasies, with a final group sculpture depicting diversity within wholeness. </p>
+
+<h2>Conclusion</h2>
+
+<p>This choreography was my creative response to delving into the realm of my own dreams, knowing that there was nowhere to hide. ‘When Last I Dreamed’ evolved in collaboration with my student dancers. Without their willingness to take dreams seriously, I could never have taken the risks involved in telling the world what I least understand about myself! </p>
+
+<p><img src="../images/post-bcpov6grcdan-6.jpg" width="400px" height="auto"/> </p>
+
+<hr/>
+
+<p><em>All photographs submitted for this article are of the Berry College Dance Troupe, for which Jeanne Schul Elkins is Artistic Director. Cover &amp; article photos were taken by Chris Love, a middle grades math and science teacher at the Berry College Middle School. He enjoys amateur photography and digital artistry. His wife and daughter are a constant supporter of his dreams and aspirations.</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqschul ;
+    ns1:hasTag ns1:bcphbqschul,
+        ns1:bcphbv3fbuv ;
+    ns1:itemId "post"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "When Last I Dreamed: Creating Dances from Dreams"^^xsd:string ;
+    ns1:profileImg "post-bcpov6grcdan-0.jpg"^^xsd:string ;
+    ns1:urlSlug "creating-dances-from-dreams"^^xsd:string .
+
 ns1:profileImg a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
     rdfs:domain ns1:Item ;
     rdfs:range xsd:string .
@@ -10412,20 +10541,6 @@ ns1:bcphbvecgmx a ns1:Post ;
     ns1:name "Volume 21, issue 4: Evolution of the Dream Movement"^^xsd:string ;
     ns1:profileImg "21.4-22.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "21.4-22.1"^^xsd:string .
-
-ns1:bcphbvvhigo a ns1:Post ;
-    ns1:coverImg "22.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2003-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_22/22.4_et.pdf" download="">Download issue 22.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_22/22.4_et.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobu7vuq ;
-    ns1:itemId "bcphbvvhigo"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 22, issue 4: Dreaming of Extraterrestrials"^^xsd:string ;
-    ns1:profileImg "22.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "22.4"^^xsd:string .
 
 ns1:bcphbw4yscz a ns1:Post ;
     ns1:coverImg "25.2-cover.jpg"^^xsd:string ;
@@ -11128,6 +11243,20 @@ ns1:bcphbv3fbuv a ns1:Post ;
     ns1:name "Volume 23, issue 1: Dancing the Dream Awake"^^xsd:string ;
     ns1:profileImg "23.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "23.1"^^xsd:string .
+
+ns1:bcphbvvhigo a ns1:Post ;
+    ns1:coverImg "22.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2003-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_22/22.4_et.pdf" download="">Download issue 22.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_22/22.4_et.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobu7vuq ;
+    ns1:itemId "bcphbvvhigo"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 22, issue 4: Dreaming of Extraterrestrials"^^xsd:string ;
+    ns1:profileImg "22.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "22.4"^^xsd:string .
 
 ns1:bcphbwpd2l7 a ns1:Post ;
     ns1:coverImg "24.3-cover.jpg"^^xsd:string ;

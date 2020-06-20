@@ -1141,6 +1141,23 @@ ns1:bcpov6gii281 a ns1:Post ;
     ns1:profileImg "28.1_cover.jpg"^^xsd:string ;
     ns1:urlSlug "ornabenshoshan-dnj-28-1_cover"^^xsd:string .
 
+ns1:bcpov6gii292 a ns1:Post ;
+    ns1:dateCreated "2010-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/29.2_cover.jpg" width="auto" height="auto"/></p>
+
+<p><em>Touch drawing by Deborah Koff-Chapin</em></p>
+
+<p>This drawing was featured on the cover of Volume 29, #2 of the Dream Network Journal.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqskoff ;
+    ns1:hasTag ns1:bcphbqskoff,
+        ns1:bcphbyoxe6n ;
+    ns1:itemId "bcpov6gii292"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Touch Drawing"^^xsd:string ;
+    ns1:profileImg "29.2_cover.jpg"^^xsd:string ;
+    ns1:urlSlug "deborahkoffchapin-dnj-29-2_cover"^^xsd:string .
+
 ns1:bcpov6gii302 a ns1:Post ;
     ns1:dateCreated "2011-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/30.2_cover.jpg" width="auto" height="auto"/></p>
@@ -1159,6 +1176,23 @@ ns1:bcpov6gii302 a ns1:Post ;
     ns1:name "Boat of Plenty"^^xsd:string ;
     ns1:profileImg "30.2_cover.jpg"^^xsd:string ;
     ns1:urlSlug "ornabenshoshan-dnj-30-2_cover"^^xsd:string .
+
+ns1:bcpov6gii312 a ns1:Post ;
+    ns1:dateCreated "2012-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/31.2_cover.jpg" width="auto" height="auto"/></p>
+
+<p><em>Touch drawing by Deborah Koff-Chapin</em></p>
+
+<p>This drawing was featured on the cover of Volume 31, #2 of the Dream Network Journal.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqskoff ;
+    ns1:hasTag ns1:bcphbqskoff,
+        ns1:bcphbzlhdke ;
+    ns1:itemId "bcpov6gii312"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Touch Drawing"^^xsd:string ;
+    ns1:profileImg "31.2_cover.jpg"^^xsd:string ;
+    ns1:urlSlug "deborahkoffchapin-dnj-31-2_cover"^^xsd:string .
 
 ns1:bcpov6gii314 a ns1:Post ;
     ns1:dateCreated "2012-10-01T11:32:52"^^xsd:dateTime ;
@@ -1195,6 +1229,30 @@ ns1:bcpov6gii332 a ns1:Post ;
     ns1:name "The Magnificent Audience"^^xsd:string ;
     ns1:profileImg "33.2_cover.jpg"^^xsd:string ;
     ns1:urlSlug "ornabenshoshan-dnj-33-2_cover"^^xsd:string .
+
+ns1:bcpov6gii334 a ns1:Post ;
+    ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/33.4_cover.jpg" width="auto" height="auto"/></p>
+
+<p><em>Touch drawing by Deborah Koff-Chapin</em></p>
+
+<p>This drawing was featured on the cover of Volume 33, #4 of the Dream Network Journal. It also appeared on Vol. 9 #1, the first issue under <a href="../@robertaossana">Roberta Ossana's</a> stewardship.  </p>
+
+<blockquote>
+  <p><em>The symbolism of the egg holds varied meanings in many cultures: Soul, New Beginnings, and Fertility. For our purpose here, I see the image conveying the protection of the sacred and here, twenty five years later and with the help of many hands, the egg remains protected. Coming full circle. Since I last wrote you in this column, there have been serious and painstaking attempts to locate a successor to carry on the vision and mission of DNJ; those efforts to date have been unsuccessful.</em></p>
+  
+  <p><em>One woman with whom you may be familiar, Victoria Vlach, whose article, Gold in Dreams appears in this issue, was the perfect candidate. Unfortunately for her, the opportunity came at the wrong time. This is the last issue of Dream Network Journal in its current form. These are hard words for me to write. I feel hope in the new beginnings symbol of the egg and the many hands. Who knows what the future might hold? In this context, Russ Lockhart recently said: “I now believe it is time for DNJ to ‘go dark’ for 2015 as a necessary state for rebirth if that is in the future. Letting go of DNJ, letting it die, is likely what is necessary for any future rebirth of DNJ.” I say: So Be It. Amen.</em> -Roberta Ossana</p>
+</blockquote>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqskoff ;
+    ns1:hasTag ns1:bcphb2kqfhu,
+        ns1:bcphbohoqoq,
+        ns1:bcphbqskoff ;
+    ns1:itemId "bcpov6gii334"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Touch Drawing"^^xsd:string ;
+    ns1:profileImg "33.4_cover.jpg"^^xsd:string ;
+    ns1:urlSlug "deborahkoffchapin-dnj-33-4_cover"^^xsd:string .
 
 ns1:bcpov6glight a ns1:Post ;
     ns1:dateCreated "1999-07-01T11:32:52"^^xsd:dateTime ;
@@ -10214,20 +10272,6 @@ ns1:bcphb2huxmr a ns1:Post ;
     ns1:profileImg "33.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.3"^^xsd:string .
 
-ns1:bcphb2kqfhu a ns1:Post ;
-    ns1:coverImg "33.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2015-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf" download="">Download issue 33.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocvint5 ;
-    ns1:itemId "bcphb2kqfhu"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 33, issue 4: Finding Gold in Old Dreams"^^xsd:string ;
-    ns1:profileImg "33.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "33.4"^^xsd:string .
-
 ns1:bcphbi4awjx a ns1:Post ;
     ns1:coverImg "2.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-01-02T11:32:52"^^xsd:dateTime ;
@@ -10493,20 +10537,6 @@ ns1:bcphbnodjs2 a ns1:Post ;
     ns1:name "Volume 7, issue 3"^^xsd:string ;
     ns1:profileImg "7.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.3"^^xsd:string .
-
-ns1:bcphbohoqoq a ns1:Post ;
-    ns1:coverImg "9.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.1-Dream-Network-Journal_Volume-9_No-1.pdf" download="">Download issue 9.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.1-Dream-Network-Journal_Volume-9_No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoanijcm ;
-    ns1:itemId "bcphbohoqoq"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 9, issue 1: Making Dreams Real"^^xsd:string ;
-    ns1:profileImg "9.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "9.1"^^xsd:string .
 
 ns1:bcphbpntuo4 a ns1:Post ;
     ns1:coverImg "10.4-cover.jpg"^^xsd:string ;
@@ -10804,20 +10834,6 @@ ns1:bcphbyjvotn a ns1:Post ;
     ns1:profileImg "28.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.4"^^xsd:string .
 
-ns1:bcphbyoxe6n a ns1:Post ;
-    ns1:coverImg "29.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2010-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.2_back_to_the_future.pdf" download="">Download issue 29.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.2_back_to_the_future.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocknhzs ;
-    ns1:itemId "bcphbyoxe6n"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 29, issue 2: Back to the Future"^^xsd:string ;
-    ns1:profileImg "29.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "29.2"^^xsd:string .
-
 ns1:bcphbz2bump a ns1:Post ;
     ns1:coverImg "32.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2013-04-01T11:32:52"^^xsd:dateTime ;
@@ -10929,6 +10945,20 @@ ns1:bcphb2eggje a ns1:Post ;
     ns1:profileImg "33.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.2"^^xsd:string .
 
+ns1:bcphb2kqfhu a ns1:Post ;
+    ns1:coverImg "33.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2015-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf" download="">Download issue 33.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocvint5 ;
+    ns1:itemId "bcphb2kqfhu"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 33, issue 4: Finding Gold in Old Dreams"^^xsd:string ;
+    ns1:profileImg "33.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "33.4"^^xsd:string .
+
 ns1:bcphbhs662v a ns1:Post ;
     ns1:coverImg "1.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1982-05-01T11:32:52"^^xsd:dateTime ;
@@ -10998,6 +11028,20 @@ ns1:bcphbo4ff76 a ns1:Post ;
     ns1:name "Volume 10, issue 1: Healing the Child Within "^^xsd:string ;
     ns1:profileImg "10.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "10.1"^^xsd:string .
+
+ns1:bcphbohoqoq a ns1:Post ;
+    ns1:coverImg "9.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.1-Dream-Network-Journal_Volume-9_No-1.pdf" download="">Download issue 9.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.1-Dream-Network-Journal_Volume-9_No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoanijcm ;
+    ns1:itemId "bcphbohoqoq"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 9, issue 1: Making Dreams Real"^^xsd:string ;
+    ns1:profileImg "9.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "9.1"^^xsd:string .
 
 ns1:bcphbolab5r a ns1:Post ;
     ns1:coverImg "9.2-cover.jpg"^^xsd:string ;
@@ -11478,6 +11522,20 @@ ns1:bcphbxz53sl a ns1:Post ;
     ns1:profileImg "27.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "27.3"^^xsd:string .
 
+ns1:bcphbyoxe6n a ns1:Post ;
+    ns1:coverImg "29.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2010-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.2_back_to_the_future.pdf" download="">Download issue 29.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.2_back_to_the_future.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocknhzs ;
+    ns1:itemId "bcphbyoxe6n"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 29, issue 2: Back to the Future"^^xsd:string ;
+    ns1:profileImg "29.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "29.2"^^xsd:string .
+
 ns1:bcphbyukqzw a ns1:Post ;
     ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
@@ -11491,20 +11549,6 @@ ns1:bcphbyukqzw a ns1:Post ;
     ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
     ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.3"^^xsd:string .
-
-ns1:bcphbzlhdke a ns1:Post ;
-    ns1:coverImg "31.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2012-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf" download="">Download issue 31.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocpr3vh ;
-    ns1:itemId "bcphbzlhdke"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 31, issue 2: Calling Forth Angels II"^^xsd:string ;
-    ns1:profileImg "31.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "31.2"^^xsd:string .
 
 ns1:bcphbzrw57c a ns1:Post ;
     ns1:coverImg "31.4-cover.jpg"^^xsd:string ;
@@ -11650,6 +11694,20 @@ ns1:bcphbzdzrug a ns1:Post ;
     ns1:name "Volume 30, issue 4: Music in our Dreams"^^xsd:string ;
     ns1:profileImg "30.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "30.4"^^xsd:string .
+
+ns1:bcphbzlhdke a ns1:Post ;
+    ns1:coverImg "31.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2012-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf" download="">Download issue 31.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.2_angels_II.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocpr3vh ;
+    ns1:itemId "bcphbzlhdke"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 31, issue 2: Calling Forth Angels II"^^xsd:string ;
+    ns1:profileImg "31.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "31.2"^^xsd:string .
 
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>
@@ -12295,6 +12353,18 @@ ns1:bcphbqfgreg a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jill Gregory"^^xsd:string ;
     ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
+
+ns1:bcphbqskoff a ns1:User ;
+    ns1:coverImg "cover-author-deborahkoffchapin.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://touchdrawing.com/">touchdrawing.com</a></p>
+
+<p>On my last day in art school in 1974, I had a creative awakening. In a moment of playful exploration, I moved my fingertips on a paper towel instead of wiping the inked plate. Lifting the towel, I saw childlike scrawls on the underside, created by the pressure of my touch. I laughed ecstatically with this discovery! This was a precious gift; a direct mode of expression that fulfilled my longing for a more natural way to draw. I sensed it was emerging for more than my own personal use. With this realization came responsibility. Somehow, I would share this process with the world.</p>
+"""^^xsd:string ;
+    ns1:handle "deborahkoffchapin"^^xsd:string ;
+    ns1:itemId "bcphbqskoff"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Deborah Koff-Chapin"^^xsd:string ;
+    ns1:profileImg "author-deborahkoffchapin.jpg"^^xsd:string .
 
 ns1:bcphbqvmoss a ns1:User ;
     ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>

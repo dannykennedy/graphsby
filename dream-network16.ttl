@@ -894,7 +894,7 @@ ns1:bcphbzaknqj a ns1:Post ;
     ns1:urlSlug "30.2-3"^^xsd:string .
 
 ns1:bcpov6ghaiku a ns1:Post ;
-    ns1:dateCreated "2004-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2003-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6ghaiku-0.jpg" width="200px" height="auto"/></p>
 
 <p>Haiku originated in thirteenth century Japan. From its inception, the goal of haiku has been to create a connection with the natural world. That deep relationship to nature has lead many to describe haiku as a spiritual path. Usually, each haiku establishes a sense of season in collaboration with another image to stir the feelings and the imagination of the reader. </p>

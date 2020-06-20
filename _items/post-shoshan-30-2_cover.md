@@ -16,3 +16,5 @@ profileImg: 30.2_cover.jpg
 *“Boat of Plenty” by Orna Ben-Shoshan*
 
 This painting was featured on the cover of Volume 30, #2 of the Dream Network Journal.
+
+This is the plane where the blue print is created, protected and nurtured. It will then be duplicated in numerous replicas within the physical dimension.

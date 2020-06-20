@@ -880,12 +880,18 @@ ns1:bcphbyl3dut a ns1:Post ;
     ns1:urlSlug "29.1"^^xsd:string .
 
 ns1:bcpov6g282-3 a ns1:Post ;
-    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2008-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/28.2-3_cover.jpg" width="auto" height="auto"/></p>
 
 <p><em>“Prophet’s Dance” by Orna Ben-Shoshan</em></p>
 
 <p>This painting was featured on the cover of Volume 28, #2-3 of the Dream Network Journal.</p>
+
+<p>In Biblical times, prophets would engage themselves in ecstatic rituals and open themselves to absorb divine messages (prophecies). In order to be enthused by the spirit of prophecy, all external garments are shed away, all the inhibitions and restrictions put away, and the prophet’s spirit exposes itself open and receptive.</p>
+
+<p>The painting “Prophets’ Dance” illustrates such ritual. The figures shed away their gowns to find out that their bodies are light and lucent – all external overlays melt away, and their core essence is revealed. A circle made of stones symbolizes their concealed zone, and hints that they are immersed in their internal world while dancing.</p>
+
+<p>Have you ever experienced such a state in your life? Was it at a time of complete openness to someone or something that you truly desired to contain? Indeed, being mentally uncovered and so vulnerable is a risky business for most people. But remember, that the gentle rays of light cannot penetrate heavy curtains.</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqsorna ;
     ns1:hasTag ns1:bcphbqsorna,
@@ -1119,7 +1125,7 @@ ns1:bcpov6ghelev a ns1:Post ;
     ns1:urlSlug "seeing-parallel-worlds"^^xsd:string .
 
 ns1:bcpov6gii281 a ns1:Post ;
-    ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "1998-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/28.1_cover.jpg" width="auto" height="auto"/></p>
 
 <p><em>“Back to Basics” by Orna Ben-Shoshan</em></p>
@@ -1142,6 +1148,8 @@ ns1:bcpov6gii302 a ns1:Post ;
 <p><em>“Boat of Plenty” by Orna Ben-Shoshan</em></p>
 
 <p>This painting was featured on the cover of Volume 30, #2 of the Dream Network Journal.</p>
+
+<p>This is the plane where the blue print is created, protected and nurtured. It will then be duplicated in numerous replicas within the physical dimension.</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqsorna ;
     ns1:hasTag ns1:bcphbqsorna,
@@ -1156,16 +1164,18 @@ ns1:bcpov6gii314 a ns1:Post ;
     ns1:dateCreated "2012-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/31.4_cover.jpg" width="auto" height="auto"/></p>
 
-<p><em>“Astral Inception” by Orna Ben-Shoshan</em></p>
+<p><em>“Astral Injection” by Orna Ben-Shoshan</em></p>
 
 <p>This painting was featured on the cover of Volume 31, #4 of the Dream Network Journal.</p>
+
+<p>What happens to you a moment before you wake up? The soul returns from distant dream realms, getting ready to re-enter your physical body. Guardian angels escort the soul and ensure its safe arrival.</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqsorna ;
     ns1:hasTag ns1:bcphbqsorna,
         ns1:bcphbzrw57c ;
     ns1:itemId "bcpov6gii314"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
-    ns1:name "Astral Inception"^^xsd:string ;
+    ns1:name "Astral Injection"^^xsd:string ;
     ns1:profileImg "31.4_cover.jpg"^^xsd:string ;
     ns1:urlSlug "ornabenshoshan-dnj-31-4_cover"^^xsd:string .
 
@@ -1173,7 +1183,7 @@ ns1:bcpov6gii332 a ns1:Post ;
     ns1:dateCreated "2014-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/33.2_cover.jpg" width="auto" height="auto"/></p>
 
-<p><em>“Enlighted Guests” by Orna Ben-Shoshan</em></p>
+<p><em>"The Magnificent Audience" (detail) by Orna Ben-Shoshan</em></p>
 
 <p>This painting was featured on the cover of Volume 33, #2 of the Dream Network Journal.</p>
 """^^xsd:string ;
@@ -1182,7 +1192,7 @@ ns1:bcpov6gii332 a ns1:Post ;
         ns1:bcphbqsorna ;
     ns1:itemId "bcpov6gii332"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
-    ns1:name "Enlighted Guests"^^xsd:string ;
+    ns1:name "The Magnificent Audience"^^xsd:string ;
     ns1:profileImg "33.2_cover.jpg"^^xsd:string ;
     ns1:urlSlug "ornabenshoshan-dnj-33-2_cover"^^xsd:string .
 

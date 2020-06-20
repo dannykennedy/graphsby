@@ -2,7 +2,7 @@
 dateCreated: "1990-01-01T11:32:52"
 itemId: bcpov6gii334
 layout: post
-name: "Touch Drawing"
+name: ""
 tags:
  - hasTag: deborahkoffchapin
  - hasAuthor: deborahkoffchapin

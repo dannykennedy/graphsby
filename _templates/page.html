@@ -116,11 +116,13 @@
                             </div>
                             {% endif %}
                             <div class="card-body">
+                                {% if post.name %}
                                 <h3 class="card-title">
                                     <a href="{{site_url + '/' + post.card_link}}"
                                         >{{post.name}}</a
                                     >
                                 </h3>
+                                {% endif %}
                                 {% if post.profileImg %}
                                     <img
                                         src="{{'../images/' + post.profileImg}}"

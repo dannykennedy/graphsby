@@ -879,19 +879,22 @@ ns1:bcphbyl3dut a ns1:Post ;
     ns1:profileImg "29.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.1"^^xsd:string .
 
-ns1:bcphbzaknqj a ns1:Post ;
-    ns1:coverImg "30.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2011-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.2-30.3_money.pdf" download="">Download issue 30.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.2-30.3_money.pdf">View online</a></p>
+ns1:bcpov6g282-3 a ns1:Post ;
+    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/28.2-3_cover.jpg" width="auto" height="auto"/></p>
+
+<p><em>“Prophet’s Dance” by Orna Ben-Shoshan</em></p>
+
+<p>This painting was featured on the cover of Volume 28, #2-3 of the Dream Network Journal.</p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocndszw ;
-    ns1:itemId "bcphbzaknqj"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 30, issue 2: Money in Dreams: What does it Synbolize?"^^xsd:string ;
-    ns1:profileImg "30.2-3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "30.2-3"^^xsd:string .
+    ns1:hasAuthor ns1:bcphbqsorna ;
+    ns1:hasTag ns1:bcphbqsorna,
+        ns1:bcphbygiw4g ;
+    ns1:itemId "bcpov6g282-3"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Prophet's Dance"^^xsd:string ;
+    ns1:profileImg "28.2-3_cover.jpg"^^xsd:string ;
+    ns1:urlSlug "ornabenshoshan-dnj-28-2_cover"^^xsd:string .
 
 ns1:bcpov6ghaiku a ns1:Post ;
     ns1:dateCreated "2003-10-01T11:32:52"^^xsd:dateTime ;
@@ -1019,6 +1022,169 @@ summer fantasies -<br>boughs of rocking willow tree<br>manifest for me<br><br>
     ns1:name "Haiku"^^xsd:string ;
     ns1:profileImg "post-bcpov6ghaiku-0.jpg"^^xsd:string ;
     ns1:urlSlug "haiku"^^xsd:string .
+
+ns1:bcpov6ghelev a ns1:Post ;
+    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6ghelev-0.jpg" width="300px" height="auto"/></p>
+
+<p>Can life exist in other forms besides the one we live in? Can we access such realms? Can anyone see them? </p>
+
+<p>The art world, especially the surreal, visionary and fantasy genres, suggest a glimpse into the vast range of possibilities that exist beyond normal human perception. </p>
+
+<h2>Worlds Far Out</h2>
+
+<p>The ongoing desire to discover an alternate fantastic reality, which is perfect and free of the limitations of time-space, begins in many people’s childhood. As children, we were often curious about who we are, and what this life is all about. In many cases, the death of a person we knew raised many questions about the after-life. The gnosis about existence of realms beyond is imprinted in the human collective experience. There is a vague memory in every individual’s mind regarding other dimensions of existence. </p>
+
+<p>Where did we come from and what is the purpose of this life? This question is often asked by humans of all ages. Did we come to this world from another realm? Can life exist in other forms besides the one we live in? Can we access such realms? Can anyone see them? In the second half of the 20th century, modern science developed new tools to explain the existence of life in more than one dimension. According to the “String Theory,” the universe is spread in ten different dimensions consisting of varying energy vibrations and the universal energy field is composed of “membranes” and other esoteric shapes. </p>
+
+<h2>The Realm of Matter</h2>
+
+<p>All that exists, seen or unseen, is an infinite field of being composed of one dimensional strings that vibrate in an infinite spectrum of frequencies. The infinite energy field contains all that there is, it is the source where all forms of life exist. At the lowest range of this wide ray of frequencies, there is a “thickening” of energy fields. The lowest frequencies which crystallize into matter, are known to us as the “physical” world (dimension), which is measurable and can be recognized by our 5 senses. All other forms of life, which vibrate in higher frequencies that are beyond human perception, create the parallel realities of other realms. Scientists assume that parallel realities were created by the “missing” 80% of the mass released after the “Big Bang.” This mass was transformed into energy fields that compose the other dimensions. Different theories suggest that we exist in the 3rd dimension (out of 10). This is the most condensed energy field which enables the formation of matter. Other dimensions contain different forms of life, with different levels of consciousness in different frequencies. All the physical attributes known to us as our physical world— such as electro-magnetic fields, gravitation, and nuclear energy—are singular manifestations of the universal energy. </p>
+
+<h2>The Kabbalistic Outlook</h2>
+
+<p>According to the mystical Kabbalah, which investigates universal secrets and the essence of life, we can learn that the reality we are aware of represents a tiny section of the whole. The Kabbalah indicates that the larger part of existence—the dimensions that we cannot perceive with our human limitations—is indeed the reality itself and our physical life is just an illusion. The Kabbalistic “Ten Sefirot”—or Ten Spheres—is a clear manifestation of the ten dimensions of the universe. The nine higher spheres existed before our physical world was formed. The highest sphere is “Keter” (Crown), a dimension of eternal light, the source of everything created, a dimension with no limitations. The following eight spheres are stemmed out of the highest sphere and actualize their previous sphere as their energetic consistency becomes more and more condensed. The energetic volume of every sphere is one tenth of its previous sphere. The world in which we live is the sphere named “Malchut,” (kingdom), the realm of matter. </p>
+
+<h2>The Scientific Perspective</h2>
+
+<p>The theory of parallel dimensions was first contemplated by scientists at Princeton University. A recent research by Prof. David Dutch of Oxford University has proven the theory of parallel worlds. He claims that we can only see a minimal portion of the large reality. Our world is only one of many possible hidden realities, only one single form of existence out of infinite dimensions that exist at the same time. According to quantum physics, there is more than one universe, and we can interact with alternate dimensions of being. </p>
+
+<p>Parallel realities may exist by different physical laws of time and space. Their transpirings can be manifestations of another set of possibilities that are alternative to the occurrences we witness in our own reality. They may be happening just a few millimeters away from us, but we cannot be aware of them because their energetic frequencies are unperceived by us. </p>
+
+<h2>Accessing Alternate Dimensions</h2>
+
+<p>The human soul, which is an integral part of the immense universal energy field, has a subconscious connection with different forms of being. As humans, we are “trapped” in a physical body that limits our large vision of the universe. Consciously, we can only be aware of aspects that can be absorbed by our five senses. People who develop their sixth sense can access knowledge which is beyond the physical existence. </p>
+
+<p>According to modern physics, the passage between our dimension and parallel realities is in the form of “black holes” or “worm tunnels” that exist in some mysterious locations in the universe. Mankind has vague memories (or traces of memories) of other existing dimensions, and there is an ongoing quest to overcome the limitations of the mind and access the larger picture. </p>
+
+<h2>Humans are able to connect with alternate realities in some conditions</h2>
+
+<p>As our souls leave our bodies during sleep, they can access higher realms and get recharged and reset. According to the Kabbalah, the sleep process is considered as some form of death, when the soul departs from the body. Practicing Jews have a special morning prayer to thank God for returning the soul back into the body upon awakening. </p>
+
+<p>In deep trance meditation, people can silence their ever active minds and connect with the eternal universal love energy. Psychics and metaphysical practitioners whose sixth sense is developed can access knowledge through deep trance as well. At death, the spirit leaves the physical body and moves on to a higher level of consciousness, which is limitless. In fact, this is the ultimate transformation into another dimension—a total change of form. For most people, reading fantasy literature or watching science fiction movies may open their imagination to ideas and possibilities which are beyond “normal” existence. </p>
+
+<h2>Where Can You See Parallel Worlds?</h2>
+
+<p>Art is the answer. Surreal art is characterized by images that come directly from the subconscious mind. As known in metaphysics, the subconscious mind is the medium through which our souls are connected to universal wisdom. Universal wisdom is an infinite pool that contains all information and endless possibilities, as in the Akashic Records. </p>
+
+<p>The art world—especially the surreal, visionary and fantasy genres— suggests a glimpse into the vast range of possibilities that exist beyond normal, human perception. Some surrealist artists are, in fact, clairvoyants who absorb images from alternate forms of reality. According to social perception, they “capture” visuals through channeling. </p>
+
+<h2>The Artistic Simulation</h2>
+
+<p>Look at Salvador Dali’s paintings <em>“The Dream”</em> and <em>“The Temptation of St. Anthony.”</em> What if his vivid surreal imagination describes an alternate reality where such scenes take place? Rene Magritte’s painting <em>“The Human Condition”</em> is a clear illustration where one plane (the image on the canvas) merges with another (the actual landscape in the back). Magritte’s famous <em>“Chateau des Pyrenees”</em> depicts a huge rock floating over the ocean, with a castle built on top. </p>
+
+<p>Well – everybody knows that a huge boulder cannot float in the air but can this scene possibly be in a dimension that has a different set of physical laws? </p>
+
+<p>Remedios Varo, a Mexican surrealist, is a terrific example of a clairvoyant artist. Her paintings depict a series of fantasy scenes that seem to be taken from alternate worlds. Look at her painting <em>“The Alchemist”</em> and see reality extending from one dimension to another. </p>
+
+<h2>Dreams and Alternate Realities</h2>
+
+<p>The mystical Kabbala sees the dreaming process as the separation of the soul from the body during sleep. The only thread that keeps the soul linked to the body is the mental aspect of a human. </p>
+
+<p>As the soul is free from physical restrictions during sleep, it can visit realms that are far out of the earthly dimension to which we are bound during the waking hours. Dreams are experiences that the soul collects during its visit in the “worlds beyond”. Since there are endless realms that exist simultaneously with our physical reality, the spirit, which is an energy body, is drawn there. Dreams do open the gate to alternate realities. </p>
+
+<p>In many cases, the conscious mind cannot comprehend these experiences; therefore, it is not able to remember them when waking up. You may see it as if the mind is “speechless” about where the soul has visited in the dream. </p>
+
+<p>I consider myself a member of this group of artists. I am a self-taught visionary artist. My paintings originate from a mysterious, far-out world and reveal colorful esoteric occurrences, in which creatures and objects interact in unpredictable ways. The metaphysical atmosphere in my creations draw the viewer into a journey through alternative realities. As a life-long student of Kabbalah and mysticism, I have always been fascinated with the gateway points—the borders between different dimensions. My artwork reflects a wide range of potentials, as I explore the different aspects of transformation from one form of existence to another. </p>
+
+<p>Here are a few examples that illustrate my inductions: </p>
+
+<p>In my painting <em>“Shedding Heavy Traces”</em>, two figures are carrying a person whose upper body emerges from an open carrier. The person is on his way “out” of this world, on the verge of leaving this realm of existence (death) and progressing into another dimension. His lower body has already disappeared into what can be interpreted as “nothingness.” On his departure he drops away heavy packages that symbolize the material load he had to carry throughout his life in the physical realm. The painting “Four Twin Souls” depicts four figures, that exist in one dimension who are being spiritually fed by their clone entities that live in another dimension. </p>
+
+<p><img src="../images/post-bcpov6ghelev-1.jpg" width="200px" height="auto"/></p>
+
+<p>My painting <em>“Departure”</em> shows a woman carrying a pod, approaching a staircase through which she will embark on her travel into another dimension. The angel at the top of the staircase unveils the passage to her. </p>
+
+<p><img src="../images/post-bcpov6ghelev-2.jpg" width="200px" height="auto"/></p>
+
+<p><em>“The Elevator”</em> shows two figures carried in a wooden box over a hallucinated plane. Their faces are covered so that they can’t see the journey’s track. A winged figure carries the cargo through air. This is a scene that deals with metaphysical transformation – as the passengers in the box are being moved from one level of consciousness to the other. Traveling through air, diffusing from one plane into another, riding a floating structure, opening a door to the void, climbing a staircase, or dissolving landscapes - there are many possible ways shown by art as a means to pass into alternate dimensions. If you are curious about the worlds beyond, this is the place to see them. </p>
+
+<p>As the human memories of parallel life forms fade when a soul is reincarnated into a new physical body, glimpses of memory may appear in our minds time and again for a fraction of a second. Capture these visions! These moments of enlightenment come to remind us that our earthly life is just one of infinite possibilities in the mighty universe that created us.</p>
+
+<hr/>
+
+<p>Remedios Varo – The Alchemist - <a href="https://web.archive.org/web/20081120212656/http://www.fantasyarts.net/varopaint.html">fantasyarts.net</a></p>
+
+<p>Salvador Dali: <a href="https://web.archive.org/web/20091016054030/http://www.cise.ufl.edu/~fishwick/ac/2008/Dali_Temptation_of_St_Anthony.jpg">http://www.cise.ufl.edu/~fishwick/ac/2008/Dali<em>Temptation</em>of<em>St</em>Anthony.jpg</a> </p>
+
+<p>Magritte: <a href="https://web.archive.org/web/20071011002104/http://www.oomu.org/images/miyazaki/magritte/magrittechateau.jpg">oomu.org</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqsorna ;
+    ns1:hasTag ns1:bcphbqsorna,
+        ns1:bcphbygiw4g ;
+    ns1:itemId "bcpov6ghelev"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Celestial Elevator: Where & How Can We See Parallel Worlds?"^^xsd:string ;
+    ns1:profileImg "post-bcpov6ghelev-0.jpg"^^xsd:string ;
+    ns1:urlSlug "seeing-parallel-worlds"^^xsd:string .
+
+ns1:bcpov6gii281 a ns1:Post ;
+    ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/28.1_cover.jpg" width="auto" height="auto"/></p>
+
+<p><em>“Back to Basics” by Orna Ben-Shoshan</em></p>
+
+<p>This painting was featured on the cover of Volume 28, #1 of the Dream Network Journal.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqsorna ;
+    ns1:hasTag ns1:bcphbqsorna,
+        ns1:bcphbycqos5 ;
+    ns1:itemId "bcpov6gii281"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Back to Basics"^^xsd:string ;
+    ns1:profileImg "28.1_cover.jpg"^^xsd:string ;
+    ns1:urlSlug "ornabenshoshan-dnj-28-1_cover"^^xsd:string .
+
+ns1:bcpov6gii302 a ns1:Post ;
+    ns1:dateCreated "2011-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/30.2_cover.jpg" width="auto" height="auto"/></p>
+
+<p><em>“Boat of Plenty” by Orna Ben-Shoshan</em></p>
+
+<p>This painting was featured on the cover of Volume 30, #2 of the Dream Network Journal.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqsorna ;
+    ns1:hasTag ns1:bcphbqsorna,
+        ns1:bcphbzaknqj ;
+    ns1:itemId "bcpov6gii302"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Boat of Plenty"^^xsd:string ;
+    ns1:profileImg "30.2_cover.jpg"^^xsd:string ;
+    ns1:urlSlug "ornabenshoshan-dnj-30-2_cover"^^xsd:string .
+
+ns1:bcpov6gii314 a ns1:Post ;
+    ns1:dateCreated "2012-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/31.4_cover.jpg" width="auto" height="auto"/></p>
+
+<p><em>“Astral Inception” by Orna Ben-Shoshan</em></p>
+
+<p>This painting was featured on the cover of Volume 31, #4 of the Dream Network Journal.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqsorna ;
+    ns1:hasTag ns1:bcphbqsorna,
+        ns1:bcphbzrw57c ;
+    ns1:itemId "bcpov6gii314"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Astral Inception"^^xsd:string ;
+    ns1:profileImg "31.4_cover.jpg"^^xsd:string ;
+    ns1:urlSlug "ornabenshoshan-dnj-31-4_cover"^^xsd:string .
+
+ns1:bcpov6gii332 a ns1:Post ;
+    ns1:dateCreated "2014-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/33.2_cover.jpg" width="auto" height="auto"/></p>
+
+<p><em>“Enlighted Guests” by Orna Ben-Shoshan</em></p>
+
+<p>This painting was featured on the cover of Volume 33, #2 of the Dream Network Journal.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqsorna ;
+    ns1:hasTag ns1:bcphb2eggje,
+        ns1:bcphbqsorna ;
+    ns1:itemId "bcpov6gii332"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Enlighted Guests"^^xsd:string ;
+    ns1:profileImg "33.2_cover.jpg"^^xsd:string ;
+    ns1:urlSlug "ornabenshoshan-dnj-33-2_cover"^^xsd:string .
 
 ns1:bcpov6glight a ns1:Post ;
     ns1:dateCreated "1999-07-01T11:32:52"^^xsd:dateTime ;
@@ -10024,20 +10190,6 @@ ns1:urlSlug a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
 ns1:Person a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
 
-ns1:bcphb2eggje a ns1:Post ;
-    ns1:coverImg "33.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2014-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.2_popourri.pdf" download="">Download issue 33.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.2_popourri.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocvint5 ;
-    ns1:itemId "bcphb2eggje"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 33, issue 2: Popourri"^^xsd:string ;
-    ns1:profileImg "33.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "33.2"^^xsd:string .
-
 ns1:bcphb2huxmr a ns1:Post ;
     ns1:coverImg "33.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2014-07-01T11:32:52"^^xsd:dateTime ;
@@ -10628,20 +10780,6 @@ ns1:bcphby2swke a ns1:Post ;
     ns1:profileImg "29.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.4"^^xsd:string .
 
-ns1:bcphbygiw4g a ns1:Post ;
-    ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqochapy2 ;
-    ns1:itemId "bcphbygiw4g"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
-    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "28.2-3"^^xsd:string .
-
 ns1:bcphbyjvotn a ns1:Post ;
     ns1:coverImg "28.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2009-10-01T11:32:52"^^xsd:dateTime ;
@@ -10684,6 +10822,20 @@ ns1:bcphbz2bump a ns1:Post ;
     ns1:profileImg "32.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.2-3"^^xsd:string .
 
+ns1:bcphbzaknqj a ns1:Post ;
+    ns1:coverImg "30.2-3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2011-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.2-30.3_money.pdf" download="">Download issue 30.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.2-30.3_money.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocndszw ;
+    ns1:itemId "bcphbzaknqj"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 30, issue 2: Money in Dreams: What does it Synbolize?"^^xsd:string ;
+    ns1:profileImg "30.2-3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "30.2-3"^^xsd:string .
+
 ns1:bcphbzhpgrg a ns1:Post ;
     ns1:coverImg "31.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2012-01-01T11:32:52"^^xsd:dateTime ;
@@ -10711,20 +10863,6 @@ ns1:bcphbzoxivb a ns1:Post ;
     ns1:name "Volume 31, issue 3: Dreaming Politics"^^xsd:string ;
     ns1:profileImg "31.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.3"^^xsd:string .
-
-ns1:bcphbzrw57c a ns1:Post ;
-    ns1:coverImg "31.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2012-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.4_dreaming_humanitys_path.pdf" download="">Download issue 31.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.4_dreaming_humanitys_path.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocpr3vh ;
-    ns1:itemId "bcphbzrw57c"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 31, issue 4: Dreaming Humanity's Path"^^xsd:string ;
-    ns1:profileImg "31.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "31.4"^^xsd:string .
 
 ns1:bcphbzxidqa a ns1:Post ;
     ns1:coverImg "32.1-cover.jpg"^^xsd:string ;
@@ -10766,6 +10904,20 @@ ns1:bcphb2asab7 a ns1:Post ;
     ns1:name "Volume 33, issue 1: Beyond the Veil"^^xsd:string ;
     ns1:profileImg "33.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.1"^^xsd:string .
+
+ns1:bcphb2eggje a ns1:Post ;
+    ns1:coverImg "33.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2014-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.2_popourri.pdf" download="">Download issue 33.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.2_popourri.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocvint5 ;
+    ns1:itemId "bcphb2eggje"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 33, issue 2: Popourri"^^xsd:string ;
+    ns1:profileImg "33.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "33.2"^^xsd:string .
 
 ns1:bcphbhs662v a ns1:Post ;
     ns1:coverImg "1.3-cover.jpg"^^xsd:string ;
@@ -11316,20 +11468,6 @@ ns1:bcphbxz53sl a ns1:Post ;
     ns1:profileImg "27.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "27.3"^^xsd:string .
 
-ns1:bcphbycqos5 a ns1:Post ;
-    ns1:coverImg "28.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf" download="">Download issue 28.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqochapy2 ;
-    ns1:itemId "bcphbycqos5"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 28, issue 1: Chaos & Apocalypse"^^xsd:string ;
-    ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "28.1"^^xsd:string .
-
 ns1:bcphbyukqzw a ns1:Post ;
     ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
@@ -11357,6 +11495,20 @@ ns1:bcphbzlhdke a ns1:Post ;
     ns1:name "Volume 31, issue 2: Calling Forth Angels II"^^xsd:string ;
     ns1:profileImg "31.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.2"^^xsd:string .
+
+ns1:bcphbzrw57c a ns1:Post ;
+    ns1:coverImg "31.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2012-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.4_dreaming_humanitys_path.pdf" download="">Download issue 31.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_31/31.4_dreaming_humanitys_path.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocpr3vh ;
+    ns1:itemId "bcphbzrw57c"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 31, issue 4: Dreaming Humanity's Path"^^xsd:string ;
+    ns1:profileImg "31.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "31.4"^^xsd:string .
 
 ns1:bcphbhe6wex a ns1:Post ;
     ns1:coverImg "1.1-cover.jpg"^^xsd:string ;
@@ -11446,6 +11598,34 @@ ns1:bcphbwmlvfh a ns1:Post ;
     ns1:name "Volume 24, issue 2: Facing & Embracing Fear"^^xsd:string ;
     ns1:profileImg "24.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "24.2"^^xsd:string .
+
+ns1:bcphbycqos5 a ns1:Post ;
+    ns1:coverImg "28.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf" download="">Download issue 28.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
+    ns1:itemId "bcphbycqos5"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 28, issue 1: Chaos & Apocalypse"^^xsd:string ;
+    ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "28.1"^^xsd:string .
+
+ns1:bcphbygiw4g a ns1:Post ;
+    ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
+    ns1:itemId "bcphbygiw4g"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
+    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "28.2-3"^^xsd:string .
 
 ns1:bcphbzdzrug a ns1:Post ;
     ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
@@ -12413,6 +12593,24 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:name "Dr. Stanley Krippner"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
 
+ns1:bcphbqsorna a ns1:User ;
+    ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://www.ben-shoshan.com/en/">ben-shoshan.com</a></p>
+
+<p>Having an Orna Ben-Shoshan painting on your wall is like having a window to another dimension. Orna’s artwork involves opening her consciousness and channeling images that come to her from a different realm of existence. </p>
+
+<p>All of her paintings are completed in her mind before she transfers them onto the canvas. Her metaphysical work infuses deep spiritual experience with subtle humor. </p>
+
+<p>Orna Ben-Shoshan has been an autodidact artist for the past 30 years. Her artwork has been exhibited in numerous locations in the USA, Europe and Israel. </p>
+
+<p>Her major motivation as a visual artist is to share her visions with others to expand their consciousness and inspire new ways of thinking. Orna’s life-long interest in metaphysics and mysticism has led her to study the Kabbalah and alternative philosophies. She shares her wide and diverse knowledge in articles and short essays that are published in magazines worldwide alongside her paintings.</p>
+"""^^xsd:string ;
+    ns1:handle "ornabenshoshan"^^xsd:string ;
+    ns1:itemId "bcphbqsorna"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Orna Ben-Shoshan"^^xsd:string ;
+    ns1:profileImg "author-ornabenshoshan.jpg"^^xsd:string .
+
 ns1:bcphbqvbulk a ns1:User ;
     ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://kellybulkeley.org/">kellybulkeley.org</a></p>
@@ -12497,9 +12695,6 @@ ns1:bcphbqschul a ns1:User ;
 
 ns1:User rdfs:subClassOf ns1:Actor,
         ns1:Person .
-
-ns1:Post a <http://www.w3.org/2002/07/owl#Class> ;
-    rdfs:subClassOf ns1:Item .
 
 ns1:bcphbq3xdnj a ns1:Page ;
     ns1:description """<p>The (draft) Dream Network archive is finally here! The entire 1982-2015 collection, to peruse at your leisure. Thank you so much again for your help.</p>
@@ -12924,4 +13119,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dream Network"^^xsd:string ;
     ns1:profileImg "dnj-text.jpg"^^xsd:string .
+
+ns1:Post a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:subClassOf ns1:Item .
 

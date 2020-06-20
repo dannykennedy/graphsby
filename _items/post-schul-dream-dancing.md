@@ -11,7 +11,7 @@ type: post
 urlSlug: "gabrielle-roth-interview-dance-it-is-holy"
 profileImg: post-bcpov6grroth-2.jpg
 ---
-<img src="../images/post-bcpov6grroth-3.jpg" width="200px" height="auto"/>
+<img src="../images/post-bcpov6grroth-3.jpg" width="150px" height="auto"/>
 
 Dancing is my form of self-expression. I love to have wide open spaces to fill up with my moving body, and music with which to dance that touches my soul. Having taught hundreds and hundreds of children in schools and studios across the country, I can say with great authority that I am not alone in appreciating the pleasure of this physical sensation. Encouraging children to move freely and expressively enables them to maintain the body-mind-spirit connection that is a natural part of childhood exploration and development. 
 
@@ -55,7 +55,7 @@ The Dream Dance is not simply an exercise I reserve for students. I find it to b
 
 ## The Victim and The Perpetrator 
 
-<img src="../images/post-bcpov6grroth-1.jpg" width="400px" height="auto"/>
+<img src="../images/post-bcpov6grroth-1.jpg" width="300px" height="auto"/>
 
 In my dream telling, I begin with an anxiety-producing nightmare: 
 
@@ -83,7 +83,7 @@ The second dream that I explore in the dream dance portrays a very different ima
 
 This dream character is a Goddess, strong and receptive. Dancing this dream feels delightful! The arm movements open from the heart. My lower body is powerful and grounded. I breathe deeply as I explore this dream image. I look upward as my gestures extend away from my center toward the sky. I also release my body into gravity, sliding toward the floor. The snake brings the connection with the dark, hidden places of the earth. Rolling and pressing against the floor, I connect with this snake energy. 
 
-<img src="../images/post-bcpov6grroth-2.jpg" width="400px" height="auto"/>
+<img src="../images/post-bcpov6grroth-2.jpg" width="300px" height="auto"/>
 
 ## Conclusion 
 

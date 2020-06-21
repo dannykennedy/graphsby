@@ -9,6 +9,7 @@ tags:
  - hasTag: 29.3
 type: post
 urlSlug: "I-am-salmon"
+profileImg: 29.3_cover.jpg
 ---
 
 <img src="../images/29.3_cover.jpg" width="400px" height="auto"/>

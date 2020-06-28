@@ -9,10 +9,10 @@ tags:
  - hasTag: 23.2
 type: post
 urlSlug: "our-power-to-create"
-profileImg: post-bcpov6grsilv-2.jpg
+profileImg: post-bcpov6grsilv-5.jpg
 ---
 
-<img src="../images/post-bcpov6grsilv-0.jpg" width="400px" height="auto"/>
+<img src="../images/post-bcpov6grsilv-4.jpg" width="400px" height="auto"/>
 <!--nopreview--><div class="caption" style="text-align: center;"><i>Brenda Ferrimani, The Silver Tool, acrylic on canvas</i></div><!--/nopreview-->
 
 > *I had a Silver Tool and I was drawing circles that became worlds. My son watched me as I worked.. He said, "Mom, that's cool! Can I use it?" He took the tool from my hand and left in his car.* Dream journal entry, 6/3/98
@@ -30,7 +30,7 @@ For me, the powerful and unforgettable visual images of my dream paintings have 
 
 Another example of the way in which painting my dreams is transforming for me is my first painting *“Expansion”*, which marked a period of growth for me, spiritually, intellectually and professionally. At that time, I was consumed with a desire to know more and could often be found at the library or at home behind piles of books considering—deeply—topics on questions of life, spirit and mind. Professionally, it was also a stretch for me to take on some public art projects larger in scope than anything I had done before. On the humorous side, when I was painting a herd of buffalo, I became really buffaloed when it seemed I was hopelessly and creatively blocked in waking life. 
 
-<img src="../images/post-bcpov6grsilv-2.jpg" width="400px" height="auto"/>
+<img src="../images/post-bcpov6grsilv-5.jpg" width="400px" height="auto"/>
 <div class="caption" style="text-align: center;"><i>"Expansion" Acrylic Painting</i></div>
 
 Creativity is essential to a healthy spirit, so to a person without sufficient outlets for expression, life can feel like a prison and even worse, a sort of walking death. In the years before I worked as an artist, my dreams told me the story of a woman who could fly like a bird but was constantly brought down... either by a storm or by crowds of people who tried to kill her! 

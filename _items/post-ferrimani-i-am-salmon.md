@@ -9,10 +9,10 @@ tags:
  - hasTag: 29.3
 type: post
 urlSlug: "I-am-salmon"
-profileImg: 29.3_cover.jpg
+profileImg: 29.3_cover-2.jpg
 ---
 
-<img src="../images/29.3_cover.jpg" width="400px" height="auto"/>
+<img src="../images/29.3_cover-2.jpg" width="400px" height="auto"/>
 <!--nopreview--><div class="caption" style="text-align: center;"><i>Brenda Ferrimani, 'I am Salmon'. This painting was featured on the cover of Volume 29, #3 of the Dream Network Journal.</i></div><!--/nopreview-->
 
 > **The Dream:** *I am in the spirit realm and I ask Spirit for a name. The name I am given is Salmon because “I try so hard and through my struggles new creation is born.” As I try to tell the people in my dream about my name, I find myself swimming in the ocean. There are thousands of fish around me and I’m moving with the currents. I feel a big fish under me with my foot and in the distance I see a Killer Whale breaching...*

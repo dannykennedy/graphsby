@@ -1126,7 +1126,7 @@ ns1:bcpov6gii224 a ns1:Post ;
 
 ns1:bcpov6gii232 a ns1:Post ;
     ns1:dateCreated "2004-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/post-bcpov6grsilv-0.jpg" width="auto" height="auto"/></p>
+    ns1:description """<p><img src="../images/post-bcpov6grsilv-4.jpg" width="auto" height="auto"/></p>
 
 <p><em>“The Silver Tool” by Brenda Ferrimani</em></p>
 
@@ -1142,7 +1142,7 @@ ns1:bcpov6gii232 a ns1:Post ;
     ns1:itemId "bcpov6gii232"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Silver Tool"^^xsd:string ;
-    ns1:profileImg "post-bcpov6grsilv-0.jpg"^^xsd:string ;
+    ns1:profileImg "post-bcpov6grsilv-4.jpg"^^xsd:string ;
     ns1:urlSlug "brendaferrimani-dnj-23-2_cover"^^xsd:string .
 
 ns1:bcpov6gii242 a ns1:Post ;
@@ -2033,7 +2033,7 @@ ns1:bcpov6grroth a ns1:Post ;
 
 ns1:bcpov6grsalm a ns1:Post ;
     ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/29.3_cover.jpg" width="400px" height="auto"/></p>
+    ns1:description """<p><img src="../images/29.3_cover-2.jpg" width="400px" height="auto"/></p>
 
 <p><!--nopreview--><div class="caption" style="text-align: center;"><i>Brenda Ferrimani, 'I am Salmon'. This painting was featured on the cover of Volume 29, #3 of the Dream Network Journal.</i></div><!--/nopreview--></p>
 
@@ -2057,12 +2057,12 @@ ns1:bcpov6grsalm a ns1:Post ;
     ns1:itemId "bcpov6grsalm"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "I am Salmon"^^xsd:string ;
-    ns1:profileImg "29.3_cover.jpg"^^xsd:string ;
+    ns1:profileImg "29.3_cover-2.jpg"^^xsd:string ;
     ns1:urlSlug "I-am-salmon"^^xsd:string .
 
 ns1:bcpov6grsilv a ns1:Post ;
     ns1:dateCreated "2004-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/post-bcpov6grsilv-0.jpg" width="400px" height="auto"/></p>
+    ns1:description """<p><img src="../images/post-bcpov6grsilv-4.jpg" width="400px" height="auto"/></p>
 
 <p><!--nopreview--><div class="caption" style="text-align: center;"><i>Brenda Ferrimani, The Silver Tool, acrylic on canvas</i></div><!--/nopreview--></p>
 
@@ -2084,7 +2084,7 @@ ns1:bcpov6grsilv a ns1:Post ;
 
 <p>Another example of the way in which painting my dreams is transforming for me is my first painting <em>“Expansion”</em>, which marked a period of growth for me, spiritually, intellectually and professionally. At that time, I was consumed with a desire to know more and could often be found at the library or at home behind piles of books considering—deeply—topics on questions of life, spirit and mind. Professionally, it was also a stretch for me to take on some public art projects larger in scope than anything I had done before. On the humorous side, when I was painting a herd of buffalo, I became really buffaloed when it seemed I was hopelessly and creatively blocked in waking life. </p>
 
-<p><img src="../images/post-bcpov6grsilv-2.jpg" width="400px" height="auto"/></p>
+<p><img src="../images/post-bcpov6grsilv-5.jpg" width="400px" height="auto"/></p>
 
 <div class="caption" style="text-align: center;"><i>"Expansion" Acrylic Painting</i></div>
 
@@ -2110,7 +2110,7 @@ ns1:bcpov6grsilv a ns1:Post ;
     ns1:itemId "bcpov6grsilv"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Silver Tool - Our Power to Create"^^xsd:string ;
-    ns1:profileImg "post-bcpov6grsilv-2.jpg"^^xsd:string ;
+    ns1:profileImg "post-bcpov6grsilv-5.jpg"^^xsd:string ;
     ns1:urlSlug "our-power-to-create"^^xsd:string .
 
 ns1:bcpov6grtend a ns1:Post ;

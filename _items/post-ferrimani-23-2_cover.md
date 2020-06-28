@@ -9,10 +9,10 @@ tags:
  - hasTag: 23.2
 type: post
 urlSlug: "brendaferrimani-dnj-23-2_cover"
-profileImg: post-bcpov6grsilv-0.jpg
+profileImg: post-bcpov6grsilv-4.jpg
 ---
 
-<img src="../images/post-bcpov6grsilv-0.jpg" width="auto" height="auto"/>
+<img src="../images/post-bcpov6grsilv-4.jpg" width="auto" height="auto"/>
 *“The Silver Tool” by Brenda Ferrimani*
 
 This painting was featured on the cover of Volume 23, #2 of the Dream Network Journal.

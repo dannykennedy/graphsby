@@ -1313,6 +1313,31 @@ ns1:bcpov6gii334 a ns1:Post ;
     ns1:profileImg "33.4_cover.jpg"^^xsd:string ;
     ns1:urlSlug "deborahkoffchapin-dnj-33-4_cover"^^xsd:string .
 
+ns1:bcpov6gkrev2 a ns1:Post ;
+    ns1:dateCreated "2020-08-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6grkrev-0.jpg" width="200px" height="auto"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://www.goodreads.com/book/show/52974851-victorian-songlight">Victorian Songlight: Birthings of Magic &amp; Mystery</a>, Kathy Martone (Dreaming Big Publications, October 16, 2019, 213 pp.)</i></div><!--/nopreview--></p>
+
+<p>A whisper of healing wisdom is woven throughout this compelling and often frightful story of a contemporary woman. Our author has made our protagonist so likeable and identifiable, that the reader easily adopts her as a friend that most can relate to. It is hard to leave this book set aside on the table as her life becomes gripping and curiously mysterious.</p>
+
+<p>Kate, the main character, deals with horrific challenges planted in her life from the day of her birth. This story allows us to share with her the wounding that many women are haunted by in a family with mental illness. Kate suffered early abuse and, insidiously the trauma entangled itself in the precious unfolding of all her life’s evolution. In so many invisible ways, the wounding constantly twists and strangles the true essence of a tiny child, a little girl, a young woman learning about love and intimacy, and then a wise being expanding into her vast spirituality.</p>
+
+<p>And yet she lives her story with others as so many of us do. She manifests her incredible talents and gifts and her delightful personality with close friends as her secrets lie deeply buried but haunting her dreams, fantasies and perceptions. Through her, whether we too were horrifically abused or maybe scarred by the misogynistic dark cloud that all women in our world must struggle through, Kate teaches us all about the profound damage trauma and abuse causes. And we also are in awe at the great gifts that spring into being as one finds resolution through exploration and seeing clearly who we are. Kate models a courageous willingness to see the great self that is light and the traumatized self that was locked away in the dark and then liberated.</p>
+
+<p>For all men and women alike, this story educates and stirs us all awake out of our unique darkness and into our light.</p>
+
+<p>All the way through, this is an entertaining and engrossing story but - not to be a spoiler - there is a delightful surprise ending that is a great gift of liberation.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3acox ;
+    ns1:hasTag ns1:bcphbq3acox,
+        ns1:bcphbq3mart ;
+    ns1:itemId "bcpov6gkrev2"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "This wonderful story invites us into our own mysteries and our own healing"^^xsd:string ;
+    ns1:profileImg "post-bcpov6grkrev-0.jpg"^^xsd:string ;
+    ns1:urlSlug "victorian-songlight-book-review-anna-cox"^^xsd:string .
+
 ns1:bcpov6glight a ns1:Post ;
     ns1:dateCreated "1999-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6glight-0.jpg" width="600" height="auto" alt="Symbolic Sound Forms from the Akashic Records"/></p>
@@ -1946,6 +1971,34 @@ ns1:bcpov6gresof a ns1:Post ;
     ns1:name "Soul on Fire: Dreams as a Vehicle for Transformation - an interview with Dr. Bud Harris"^^xsd:string ;
     ns1:profileImg "post-bcpov6gresof-0.jpg"^^xsd:string ;
     ns1:urlSlug "soul-on-fire-dreams-as-a-vehicle-for-transformation"^^xsd:string .
+
+ns1:bcpov6grkrev a ns1:Post ;
+    ns1:dateCreated "2020-07-27T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6grkrev-0.jpg" width="200px" height="auto"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://www.goodreads.com/book/show/52974851-victorian-songlight">Victorian Songlight: Birthings of Magic &amp; Mystery</a>, Kathy Martone (Dreaming Big Publications, October 16, 2019, 213 pp.)</i></div><!--/nopreview--></p>
+
+<p>Want to go on a trip?</p>
+
+<p>This one will take you places you don't expect to go, some of them imaginary (maybe) some of them real (but unusual) and others ordinary (but experienced in an unusual way).</p>
+
+<p>Martone's book is probably at least a bit autobiographical, as the author, and the main character share a similar name (the protagonist is Kate), both are Jungian therapists, lived in Colorado, and now live in Arkansas, have red hair and an interest in shamanic journeys.</p>
+
+<p>The book unfolds almost like a lucid dream. In one moment the reader is grounded in the day to day details of preparing a meal, dressing to visit with friends, snuggling with lovable kitties in an elegant Victorian home or painting in a studio in a small town in Arkansas. The next you are in a conversation with a giant man in white robes with glowing golden eyes who rides on Pegasus and loves our heroine on seemingly all levels at once: a father, a grandfather, a lover, a friend and adviser.</p>
+
+<p>Kate has come to live in a quaint 1800s small town in Arkansas following a failed relationship in Colorado. She is looking to reinvent her life through her interest in dreams, her artwork, her friends and even a trek to Tibet that has her hiking through dangerous mountains, and experiencing a ceremonial rebirth accomplished via the circling of one sacred mountain.</p>
+
+<p>Seemingly out of nowhere, Kate is experiencing doors shutting in her face: friends disconnecting, her art, once popular, no longer selling, her dream work group has ejected her. As we travel with her through her ups and downs, her attempts to make sense of her life, loves, losses and choices we also begin to understand that Kate's family history is far from happy, and through both her experiences and the gentle prodding of her - possibly imaginary - friend, "Grandfather," we begin to understand what has brought Kate to her present state, and what she will need to do to find her way back out of the dream.</p>
+
+<p>The book reads comfortably, like a conversation that, if sometimes painful, is told with the detailed confidences of a good friend sharing both the mundane and the most dramatic moments of her life as she sorts them out with us, and at the same time shares her methods of coping with, and investigating, a complex inner life.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3nrob ;
+    ns1:hasTag ns1:bcphbq3mart,
+        ns1:bcphbq3nrob ;
+    ns1:itemId "bcpov6grkrev"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Victorian Songlight: Birthings of Magic & Mystery - Book Review"^^xsd:string ;
+    ns1:urlSlug "victorian-songlight-book-review-nancy-roberts"^^xsd:string .
 
 ns1:bcpov6grlrev a ns1:Post ;
     ns1:dateCreated "2005-10-01T11:32:52"^^xsd:dateTime ;
@@ -11184,6 +11237,15 @@ ns1:bcphbpumr2x a ns1:Post ;
     ns1:profileImg "11.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "11.2"^^xsd:string .
 
+ns1:bcphbq3acox a ns1:User ;
+    ns1:description """<p>Anna Cox, ACSW,  was a psychotherapist in Arkansas for over 50 years. She is a Buddhist practitioner and began a healing program for those in prisons in 1994, <a href="https://www.alignable.com/little-rock-ar/compassion-works-for-all">Compassion Works for All</a>, which is on-going throughout Arkansas and in many states' prisons. </p>
+"""^^xsd:string ;
+    ns1:handle "annacox"^^xsd:string ;
+    ns1:itemId "bcphbq3acox"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Anna Cox"^^xsd:string ;
+    ns1:profileImg "author-anna-cox.jpg"^^xsd:string .
+
 ns1:bcphbq3alma a ns1:User ;
     ns1:coverImg "cover-author-alma-verbunt.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.droomtoko.nl/">droomtoko.nl</a></p>
@@ -11301,18 +11363,6 @@ ns1:bcphbq3joyf a ns1:User ;
     ns1:name "Joy Fatooh"^^xsd:string ;
     ns1:profileImg "author-joy-fatooh.jpg"^^xsd:string .
 
-ns1:bcphbq3mart a ns1:User ;
-    ns1:coverImg "cover-author-kathy-martone.jpg"^^xsd:string ;
-    ns1:description """<p><a href="https://www.facebook.com/Kathy-Martone-EdD-2166828393535523/">Facebook page</a></p>
-
-<p>Dr. Martone is a Jungian Psychologist and healer in private practice since 1986. She has served as company psychologist for a large corporation and has previously taught at Colorado Free University, Iliff School of Theology, Naropa University and Jungian Ministries International. Steeped in the ancient traditions of Tibetan Buddhism and Celtic Spirituality, Dr. Kathy Martone is a warm and compassionate healer who has crafted a deep intuitive wisdom out of her many and varied life experiences. She has written a book entitled <a href="http://dreamagik.com/book-SW.htm">Sacred Wounds</a> that chronicles a woman's spiritual and emotional journey through the dark memories of incest. </p>
-"""^^xsd:string ;
-    ns1:handle "kathymartone"^^xsd:string ;
-    ns1:itemId "bcphbq3mart"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dr. Kathy Martone"^^xsd:string ;
-    ns1:profileImg "author-kathy-martone.jpg"^^xsd:string .
-
 ns1:bcphbq3mast a ns1:User ;
     ns1:description """<p>Website: <a href="https://lightningtreetherapy.com/">lightningtreetherapy.com</a></p>
 
@@ -11340,6 +11390,15 @@ ns1:bcphbq3mild a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Mildred Rosario"^^xsd:string ;
     ns1:profileImg "author-mildred-rosario.jpg"^^xsd:string .
+
+ns1:bcphbq3nrob a ns1:User ;
+    ns1:description """<p>Nancy Roberts fell in love with books as a child, and the love affair continues. As a television producer/talent, writer, book reviewer and blogger, she has been able to indulge her passion for literature, with an eclectic taste that runs from ancient history to science fiction, classical authors to speculative fiction and romance.</p>
+"""^^xsd:string ;
+    ns1:handle "nancyroberts"^^xsd:string ;
+    ns1:itemId "bcphbq3nrob"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Nancy Roberts"^^xsd:string ;
+    ns1:profileImg "author-nancy-roberts.jpg"^^xsd:string .
 
 ns1:bcphbq3rcwi a ns1:User ;
     ns1:description """<p>Website: <a href="http://dreamgate.com/">dreamgate.com</a></p>
@@ -12013,6 +12072,18 @@ ns1:bcphbq3king a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Marlene King"^^xsd:string ;
     ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
+
+ns1:bcphbq3mart a ns1:User ;
+    ns1:coverImg "cover-author-kathy-martone.jpg"^^xsd:string ;
+    ns1:description """<p><a href="https://www.facebook.com/Kathy-Martone-EdD-2166828393535523/">Facebook page</a></p>
+
+<p>Dr. Martone is a Jungian Psychologist and healer in private practice since 1986. She has served as company psychologist for a large corporation and has previously taught at Colorado Free University, Iliff School of Theology, Naropa University and Jungian Ministries International. Steeped in the ancient traditions of Tibetan Buddhism and Celtic Spirituality, Dr. Kathy Martone is a warm and compassionate healer who has crafted a deep intuitive wisdom out of her many and varied life experiences. She has written a book entitled <a href="http://dreamagik.com/book-SW.htm">Sacred Wounds</a> that chronicles a woman's spiritual and emotional journey through the dark memories of incest. </p>
+"""^^xsd:string ;
+    ns1:handle "kathymartone"^^xsd:string ;
+    ns1:itemId "bcphbq3mart"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dr. Kathy Martone"^^xsd:string ;
+    ns1:profileImg "author-kathy-martone.jpg"^^xsd:string .
 
 ns1:bcphbq3pdwy a ns1:User ;
     ns1:description """<p>Consider the words of astronaut Edgar Mitchell, <em>"There are no unnatural or supernatural phenomena, only very large gaps in our knowledge of what is natural."</em></p>

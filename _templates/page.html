@@ -48,7 +48,8 @@
                 <div id="page-items">
                     {% if posts %} {% for post in posts %}
 
-                    <div id="{{post.itemId}}" class="card item-card thumb-card" onclick="window.location.href = '{{site_url + '/' + post.card_link}}'">
+                <div id="{{post.itemId}}" class="card item-card thumb-card" 
+                onclick="window.location.href = '../{{post.card_link}}'">
                         <div class="inner-card {{post.card_type}}card">
                             {% if post.card_type == "Post" %}
                             <div class="card-header">
@@ -62,7 +63,7 @@
                                         >
                                         {% if post.authors %}
                                         <a
-                                        href="{{site_url + '/' + author.tagLink}}"
+                                        href="{{'../' + author.tagLink}}"
                                         >
 
                                         <img src="{{'../images/thumb-' + author.profileImg}}"
@@ -118,7 +119,7 @@
                             <div class="card-body">
                                 {% if post.name %}
                                 <h3 class="card-title">
-                                    <a href="{{site_url + '/' + post.card_link}}"
+                                    <a href="{{'../' + post.card_link}}"
                                         >{{post.name}}</a
                                     >
                                 </h3>
@@ -146,7 +147,7 @@
                                             <div class="tag-text">
                                                 <span class="tag-name"
                                                     ><a
-                                                        href="{{site_url + '/' + tag.tagLink}}"
+                                                        href="{{'../' + tag.tagLink}}"
                                                         >{{tag.name}}</a
                                                     ></span
                                                 >

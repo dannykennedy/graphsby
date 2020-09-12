@@ -12,7 +12,7 @@
               style="background-color: rgb(246, 173, 97); position: absolute; left: {{(loop.index-1) * 50}}px"
             >
               {% if render_item.authors %}
-              <a href="{{site_url + '/' + author.tagLink}}">
+              <a href="{{'../' + author.tagLink}}">
                 <img
                   src="{{'../images/thumb-' + author.profileImg}}"
                   alt="{{author.name}}"
@@ -67,7 +67,7 @@
             <div class="tag-wrapper">
               <div class="tag-text">
                 <span class="tag-name"
-                  ><a href="{{site_url + '/' + tag.tagLink}}"
+                  ><a href="{{'../' + tag.tagLink}}"
                     >{{tag.name}}</a
                   ></span
                 >

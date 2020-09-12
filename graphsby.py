@@ -404,13 +404,22 @@ for pyyam in file_objects:
 		dateOfPost = pyyam["dateCreated"]
 		pyyam["dateString"] = formatDate(dateOfPost, "month")
 
+
+	canonical_url = ""
+	if pyyam["handle"]:
+		canonical_url = site_url + "/@" + pyyam["handle"]
+	else: 
+		canonical_url = site_url + str(pyyam["itemId"]) + pyyam["urlSlug"]
+	print(canonical_url)
+
+
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url)
+			full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url, canonical_url=canonical_url)
 		else:
-			full_html = page_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url)
+			full_html = page_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url, canonical_url=canonical_url)
 	else:
-		full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url)
+		full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url, canonical_url=canonical_url)
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"

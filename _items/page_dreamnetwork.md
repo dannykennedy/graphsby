@@ -8,7 +8,7 @@ tags:
   - hasPage: "hi"
 shortDescription: "Welcome to the Dream Network"
 tags:
-profileImg: dnj-text.jpg
+profileImg: tree.png
 ---
 
 The (draft) Dream Network archive is finally here! The entire 1982-2015 collection, to peruse at your leisure. Thank you so much again for your help.

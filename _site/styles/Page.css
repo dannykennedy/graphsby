@@ -68,18 +68,18 @@
 }
 
 .cover-image {
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
 }
 
 #page-description-area {
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
   position: relative;
   width: 100%;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Lora", serif;
   background-color: white;
   padding: 15px;
   padding-top: 50px;

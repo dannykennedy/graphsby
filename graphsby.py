@@ -406,10 +406,10 @@ for pyyam in file_objects:
 
 
 	canonical_url = ""
-	if pyyam["handle"]:
-		canonical_url = site_url + "/@" + pyyam["handle"]
+	if "handle" in pyyam.keys():
+		canonical_url = site_url + "@" + pyyam["handle"]
 	else: 
-		canonical_url = site_url + str(pyyam["itemId"]) + pyyam["urlSlug"]
+		canonical_url = site_url + str(pyyam["itemId"]) + "/" + pyyam["urlSlug"]
 	print(canonical_url)
 
 

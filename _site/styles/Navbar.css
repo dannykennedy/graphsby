@@ -22,12 +22,25 @@
 
 #navbar-site-title {
     margin-left: 10px;
+    color: #444;
+    cursor: pointer;
 }
 
 .navbar-icon {
     padding-left: 10px;
     padding-right: 10px;
     cursor: pointer;
+}
+
+#app-name-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #444;
+}
+
+#app-name-link:hover {
+    color: black;
 }
 
 .navbar-icon button {

@@ -12,11 +12,11 @@ profileImg: tree.png
 coverImg: cover-tree-ferrimani.jpg
 ---
 
-The (draft) Dream Network archive is finally here! The entire 1982-2015 collection, to peruse at your leisure. Thank you so much again for your help.
+The Dream Network Journal was published in printed form from 1982 to 2015, a place for people to share the wonder and mystery of dreams. Thanks to our [crowdfunding supporters](https://chuffed.org/project/dream-network-journal), this archive offers all issues of the DNJ for download, and reproduces many articles in blog form.
 
 Below, you can download each volume as a .zip file, or download each issue individually from the list of images. If you'd like to look up an individual author or article, there's a growing [authors page](../@dreamnetwork~contributors) here, and a (not-quite-complete) [list of Dream Network articles](https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing) in spreadsheet form.
 
-Feel free to send the PDFs to your friends, but rather than publishing them online please just link to the archive site once it's public. We also ask you not to publish the articles in the journals, unless you have the permission of the author (or you are the author, in which case, the rights are yours!)
+Rather than republishing these PDFs online, please just link to this site. We also ask you not to publish the articles in the journals, unless you have the permission of the author (or you are the author, in which case, the rights are yours!)
 
 **Thank you to everyone who donated** to this campaign. We'd like to personally thank [Kelly Bulkeley](../@kellybulkeley), whose donation really made this campaign possible, and all the 'super supporters' of the campaign: [Luigi Sciambarella](https://www.monroeinstitute.org/pages/trainer-luigi-sciambarella), [Evelyn Duesbury](../@evelynduesbury), <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as [Arthur Strock](../@arthurstrock), <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, [Rosemary Watts-Dreyer](../@rosemarywattsdreyer), [Patti Allen](https://pattiallen.com/about/patti-allen/), [Mary Bronk](https://www.linkedin.com/in/mary-beth-bronk-583298164/), [Spoken Stone](http://spokenstone.com/), and [all the supporters](https://chuffed.org/project/dream-network-journal) who made this a reality. For their donations as well as providing providing their personal copies of publications for scanning, special thanks to [Dick McLeester](../@dickmcleester) and [Marlene King](../@marleneking).
 
@@ -30,7 +30,7 @@ Feel free to send the PDFs to your friends, but rather than publishing them onli
 This history, and many other things on this site may be imperfect... please <a href="mailto:dannykennedy@email.com">email us</a> with feedback!
 
 
-Cover image: *'Luna Lights' (detail)*, by [Brenda Ferrimani](../@brendaferrimani)
+Cover image: *'Chart the Growth' (detail)*, by [Brenda Ferrimani](../@brendaferrimani)
 
 <div style="text-align:center;font-style:italic; margin-bottom: 30px">
 <a href="../@robertaossana">Roberta</a>,

@@ -49,3 +49,31 @@
     cursor: pointer;
     border: none;
 }
+
+#app-name-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#app-logo {
+  height: 40px;
+  width: auto;
+}
+
+#navbar-links {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-item {
+    margin-left: 10px;
+    color: #444;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.navbar-item:hover {
+    color: black;
+}
+

@@ -107,6 +107,7 @@
   grid-template-rows: 50% 50%;
   display: inline-block;
   font-size: 0.9em;
+  font-family: "Open Sans", sans-serif;
 }
 
 .post-author-img {
@@ -213,6 +214,11 @@ img {
     font-weight: 100;
     -webkit-font-smoothing: antialiased;
     border-radius: 6px;
+}
+
+.read-more {
+  text-decoration: underline;
+  color: #0000EE;
 }
 
 /* END TOOLTIP */

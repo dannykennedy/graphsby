@@ -1,9 +1,10 @@
 #navbar {
     padding: 20px;
-    background-color: #3f50b5;
+    background-color: white;
     width: 100%;
     height: 60px;
     color: white;
+    box-shadow: 0 0 2px 1px rgba(140, 140, 140, 0.5);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -21,12 +22,24 @@
 
 #navbar-site-title {
     margin-left: 10px;
+    color: #444;
+    cursor: pointer;
+}
+
+#navbar-site-title:hover {
+    color: black;
 }
 
 .navbar-icon {
     padding-left: 10px;
     padding-right: 10px;
     cursor: pointer;
+}
+
+#app-name-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
 }
 
 .navbar-icon button {
@@ -36,3 +49,31 @@
     cursor: pointer;
     border: none;
 }
+
+#app-name-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#app-logo {
+  height: 40px;
+  width: auto;
+}
+
+#navbar-links {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-item {
+    margin-left: 10px;
+    color: #444;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.navbar-item:hover {
+    color: black;
+}
+

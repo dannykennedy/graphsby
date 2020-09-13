@@ -1,11 +1,11 @@
 body {
     width: 100%;
     margin: 0px;
-    background-color: #f8f8f9;
+    background-color: rgb(240, 243, 247);
     -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
     -moz-box-sizing: border-box; /* Firefox, other Gecko */
     box-sizing: border-box; /* Opera/IE 8+ */
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lora", serif;
 }
 
 #wrapper {
@@ -14,7 +14,7 @@ body {
 
 .button-standard {
     justify-self: center;
-    border-radius: 5px;
+    border-radius: 2px;
     width: auto;
     color: white;
     background-color: rgba(63, 139, 241, 0.7);
@@ -32,5 +32,6 @@ body {
 button:focus {
     outline: none;
 }
+
 
 

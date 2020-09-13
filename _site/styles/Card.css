@@ -44,11 +44,11 @@
 }
 
 .item-card {
-  border-radius: 5px;
+  border-radius: 2px;
   position: relative;
   transition: 0.2s;
   width: 100%;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Lora", serif;
   font-weight: 100;
   margin-bottom: 15px;
   box-sizing: border-box;
@@ -107,6 +107,7 @@
   grid-template-rows: 50% 50%;
   display: inline-block;
   font-size: 0.9em;
+  font-family: "Open Sans", sans-serif;
 }
 
 .post-author-img {
@@ -209,10 +210,15 @@ img {
     padding: 5px;
     pointer-events: none !important;
     font-size: 1em;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lora", serif;
     font-weight: 100;
     -webkit-font-smoothing: antialiased;
     border-radius: 6px;
+}
+
+.read-more {
+  text-decoration: underline;
+  color: #0000EE;
 }
 
 /* END TOOLTIP */

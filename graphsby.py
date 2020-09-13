@@ -335,7 +335,6 @@ for pyyam in file_objects:
 		post_description = row[2]
 		# Truncate
 		truncated_desc = truncatePost(post_description, POST_SNIPPET_LENGTH).replace("...", "<span class='read-more'> ...read more</span>")
-		print(truncated_desc)
 
 		card_type = row[7]
 		string_identifier = row[6]

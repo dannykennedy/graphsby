@@ -26,6 +26,10 @@
     cursor: pointer;
 }
 
+#navbar-site-title:hover {
+    color: black;
+}
+
 .navbar-icon {
     padding-left: 10px;
     padding-right: 10px;
@@ -36,11 +40,6 @@
     display: flex;
     align-items: center;
     text-decoration: none;
-    color: #444;
-}
-
-#app-name-link:hover {
-    color: black;
 }
 
 .navbar-icon button {

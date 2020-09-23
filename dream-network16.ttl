@@ -615,7 +615,7 @@ ns1:bcphbsignup a ns1:Page ;
     ns1:coverImg "cover-tree-ferrimani.jpg"^^xsd:string ;
     ns1:description """<p><img src="../images/banner.jpg" style="margin: auto;"/></p>
 
-<p>We'd like to keep in touch with you, and let you know when we upload new articles or add new features. We won't spam you - no more than four emails per year!</p>
+<p>We'd like to keep in touch with you, and let you know when we add more articles from the back catalogue, or new features. We won't spam you - no more than four emails per year!</p>
 
 <!-- Begin Mailchimp Signup Form -->
 

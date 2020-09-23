@@ -33,5 +33,11 @@ button:focus {
     outline: none;
 }
 
+/*Mailchimp*/
+#mc_embed_signup {
+    background:#fff; 
+    clear:left; 
+}
+
 
 

@@ -348,7 +348,8 @@ for pyyam in file_objects:
 			card_link = item_id + "/" + string_identifier
 			card_type_literal = "Post"
 
-		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link, "card_type": card_type_literal})
+		if not row[3] == "bcpov6gabout":
+			tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link, "card_type": card_type_literal})
 
 
 	full_html = ""
@@ -412,14 +413,15 @@ for pyyam in file_objects:
 		canonical_url = site_url + str(pyyam["itemId"]) + "/" + pyyam["urlSlug"]
 	print(canonical_url)
 
+	tagged_items_without_things = [i for i in tagged_items if not (i['itemId'] == 'bcpov6gabout')] 
 
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url, canonical_url=canonical_url)
+			full_html = post_template.render(render_item=pyyam, posts=tagged_items_without_things, site_url=site_url, canonical_url=canonical_url)
 		else:
-			full_html = page_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url, canonical_url=canonical_url)
+			full_html = page_template.render(render_item=pyyam, posts=tagged_items_without_things, site_url=site_url, canonical_url=canonical_url)
 	else:
-		full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url, canonical_url=canonical_url)
+		full_html = post_template.render(render_item=pyyam, posts=tagged_items_without_things, site_url=site_url, canonical_url=canonical_url)
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"

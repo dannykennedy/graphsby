@@ -8,7 +8,9 @@
     "license": "None",
     "private": true,
     "dependencies": {
-        "http-server": "^0.12.1"
+        "@fortawesome/fontawesome-svg-core": "^1.2.30",
+        "http-server": "^0.12.1",
+        "react-fontawesome": "^1.7.1"
     },
     "scripts": {
         "start": "http-server -p 3000 -o /_site/@dreamnetwork",

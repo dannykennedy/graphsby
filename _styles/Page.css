@@ -7,6 +7,10 @@
   grid-area: description;
 }
 
+#page-items #bcpov6gabout {
+  display: none;
+}
+
 #item-heading {
   text-align: center;
   margin-top: 55px;

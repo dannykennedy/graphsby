@@ -348,8 +348,8 @@ for pyyam in file_objects:
 			card_link = item_id + "/" + string_identifier
 			card_type_literal = "Post"
 
-		if not row[3] == "bcpov6gabout":
-			tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link, "card_type": card_type_literal})
+
+		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link, "card_type": card_type_literal})
 
 
 	full_html = ""

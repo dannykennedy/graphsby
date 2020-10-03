@@ -77,3 +77,9 @@
     color: black;
 }
 
+@media (max-width: 400px) {
+    #navbar-site-title {
+        display: none;
+    }
+}
+

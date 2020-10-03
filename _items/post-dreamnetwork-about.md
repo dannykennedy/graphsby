@@ -10,7 +10,7 @@ urlSlug: "about-the-network"
 ---
 
 <img src="../images/cover-tree-ferrimani.jpg" alt="cover image" width="500px" style="margin: auto;"/>
-<div style="text-align:center"><span>'Chart the Growth' (detail), by Brenda Ferrimani</span></div>
+<div style="text-align:center;font-style: italic;font-size: 0.9em;"><span>'Chart the Growth' (detail), by Brenda Ferrimani</span></div>
 
 The Dream Network began life in New York City in 1982, edited by the young [Bill Stimson](../@billstimson). The Network aimed to 'bring dreams back to dreamers' - or as [Montague Ullman](../@montagueullman) phrased the idea in one of his early contributions, 'Giving dreams back to the people'. 
 

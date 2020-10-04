@@ -27,7 +27,7 @@ Rather than republishing these PDFs online, please just link to this site. We al
 - [Robert Van De Castle](../@bobvandecastle) (now departed) & [Henry Reed](../@henryreed) (1985-1987)
 - [Bob Trowbridge](../@bobtrowbridge) and [Linda Magallón](../@caseyflyer), San Jose (1987 - 1989)
 
-This history, and many other things on this site may be imperfect... please <a href="mailto:dannykennedy@email.com">email us</a> with feedback!
+This history, and many other things on this site may be imperfect... please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> with feedback!
 
 
 Cover image: *'Chart the Growth' (detail)*, by [Brenda Ferrimani](../@brendaferrimani)

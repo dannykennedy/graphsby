@@ -58,6 +58,12 @@
   max-width: 400px;
 }
 
+@media (max-width: 400px) {
+  .item-card {
+    margin-bottom: 1px;
+  }
+}
+
 .thumb-card {
   cursor: pointer;
 }

@@ -22,7 +22,7 @@ The Dream Network Journal ceased publication at the end of 2015, but in 2019 [Da
 
 This is tentatively an 'archive' site of the journal, but we'd also like to experiment with something a bit more *living*. As of now, if you have any articles you'd like to contribute, please let us know.  
 
-You can contact us at: (insert email address here!) 
+You can contact us at: <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a>
 
 ## A brief history of the Dream Network
 

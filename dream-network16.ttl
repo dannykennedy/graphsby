@@ -615,7 +615,7 @@ ns1:bcphbsignup a ns1:Page ;
     ns1:coverImg "cover-tree-ferrimani.jpg"^^xsd:string ;
     ns1:description """<p><img src="../images/banner.jpg" style="margin: auto;"/></p>
 
-<p>I'd like to be part of the DREAM NETWORK too! Well, we'd like to keep in touch with you as well. Please sign up to the newsletter below! We'll let you know when we add more articles or more features, but we won't spam you with too many emails. Something like quarterly, perhaps. If you have any more ideas or questions, just email us - Dan, Inoshi and Roberta, at hello@dreamnetworkjournal.com</p>
+<p>I'd like to be part of the Dream Network too! Well, we'd like to keep in touch with you as well. Please sign up to the newsletter below! We'll let you know when we add more articles or more features, but we won't spam you with too many emails. Something like quarterly, perhaps. If you have any more ideas or questions, just email us - Dan, Inoshi and Roberta, at <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a>.</p>
 
 <!-- Begin Mailchimp Signup Form -->
 
@@ -976,7 +976,7 @@ ns1:bcpov6gabout a ns1:Post ;
 
 <p>This is tentatively an 'archive' site of the journal, but we'd also like to experiment with something a bit more <em>living</em>. As of now, if you have any articles you'd like to contribute, please let us know.  </p>
 
-<p>You can contact us at: (insert email address here!) </p>
+<p>You can contact us at: <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a></p>
 
 <h2>A brief history of the Dream Network</h2>
 
@@ -13169,7 +13169,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
 <li><p><a href="../@bobtrowbridge">Bob Trowbridge</a> and <a href="../@caseyflyer">Linda Magallón</a>, San Jose (1987 - 1989)</p></li>
 </ul>
 
-<p>This history, and many other things on this site may be imperfect... please <a href="mailto:dannykennedy@email.com">email us</a> with feedback!</p>
+<p>This history, and many other things on this site may be imperfect... please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> with feedback!</p>
 
 <p>Cover image: <em>'Chart the Growth' (detail)</em>, by <a href="../@brendaferrimani">Brenda Ferrimani</a></p>
 

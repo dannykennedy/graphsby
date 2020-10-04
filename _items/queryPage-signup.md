@@ -10,7 +10,7 @@ coverImg: cover-tree-ferrimani.jpg
 
 <img src="../images/banner.jpg" style="margin: auto;"/>
 
-I'd like to be part of the DREAM NETWORK too! Well, we'd like to keep in touch with you as well. Please sign up to the newsletter below! We'll let you know when we add more articles or more features, but we won't spam you with too many emails. Something like quarterly, perhaps. If you have any more ideas or questions, just email us - Dan, Inoshi and Roberta, at hello@dreamnetworkjournal.com
+I'd like to be part of the Dream Network too! Well, we'd like to keep in touch with you as well. Please sign up to the newsletter below! We'll let you know when we add more articles or more features, but we won't spam you with too many emails. Something like quarterly, perhaps. If you have any more ideas or questions, just email us - Dan, Inoshi and Roberta, at <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a>.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">

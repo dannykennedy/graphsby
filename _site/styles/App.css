@@ -39,5 +39,10 @@ button:focus {
     clear:left; 
 }
 
+@media (max-width: 400px) {
+    #wrapper {
+        padding: 60px 0px;
+    }
+}
 
 

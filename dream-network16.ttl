@@ -491,7 +491,7 @@ ns1:bcphbp7rfno a ns1:Post ;
 
 ns1:bcphbq3xdna a ns1:Page ;
     ns1:coverImg "cover-tree-ferrimani.jpg"^^xsd:string ;
-    ns1:description """<p>Here's an (alphabetical) list of all the authors, poets, illustrators and more whose Dream Network posts we've published so far. If you don't see someone you'd like to see, let us know! Email Dan at dannykennedy@email.com.</p>
+    ns1:description """<p>Here's an (alphabetical) list of all the authors, poets, illustrators and more whose Dream Network posts we've published so far. If you don't see someone you'd like to see, let us know! Email us at <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a>  </p>
 """^^xsd:string ;
     ns1:handle "dreamnetwork~contributors"^^xsd:string ;
     ns1:itemId "bcphbq3xdna"^^xsd:string ;

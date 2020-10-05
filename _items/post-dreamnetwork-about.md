@@ -20,8 +20,6 @@ This has meant an eclectic publication that mixed articles with poetry and art, 
 
 The Dream Network Journal ceased publication at the end of 2015, but in 2019 [Dan Kennedy](https://twitter.com/kannydennedy) and [Inoshi Denizen](http://eastwest.works/Inoshi.html) teamed up with [Roberta Ossana](../@robertaossana), the journal's editor of 27 years, to bring the wisdom of the journal back to dreamers again. Thanks to our [crowdfunding backers](https://chuffed.org/project/dream-network-journal), this website allows you to download every issue ever published, and read many articles in blog form. 
 
-This is tentatively an 'archive' site of the journal, but we'd also like to experiment with something a bit more *living*. As of now, if you have any articles you'd like to contribute, please let us know.  
-
 You can contact us at: <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a>
 
 ## A brief history of the Dream Network

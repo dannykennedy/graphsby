@@ -10,6 +10,8 @@ date: 2015-03-24
 profileImg: author-ann-sayre-wiseman.jpg
 ---
 
+You can buy a physical copy of Ann's book *Satisfy the Image*, [from Handprint Press here](https://www.handprintpress.com/product/satisfy-the-image-the-wisdom-of-your-dreams-guided-imagery-for-self-balancing/).
+
 Ann used Milton Erickson's common-sense and self hypnosis approach to dreams. She used art, dreams, and closed eye visioning in workshop intensives here and abroad. She taught at Lesley College Arts Institute, where she helped develop the Expressive Therapies Program, trained teachers, and earned her Master’s degree. Ann kept dream journals for fifty years, published two books on dreams, and was an ASD member and presenter for over 20 years, offering workshops and slide talks at IASD (almost every year), and at California’s Esalen Institute, The Cambridge center for Adult Education, and organizations here and abroad. She derived much inspiration from the work of Patricia Garfield, Freud, Jung, Milton Erickson, Gibran, the I Ching, the Dalai Lama, and others.
 This adaptation of her Introduction to her last book, Satisfy the Image, summarizes her work: 
 Autodrama on the Paper Stage is a concrete mapping method that works for dreams and all kinds of life problems. You create your own symbols to represent the people and things in your story and set them on a sheet of paper we call the stage. Instead of telling the story in words, we use colored paper or found objects to represent characters and significant objects—it’s very simple. As you answer questions about the scene, you begin to understand the problem and manipulate the characters in search of resolution. 

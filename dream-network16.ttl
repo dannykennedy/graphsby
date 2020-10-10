@@ -12542,7 +12542,9 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
 
 ns1:bcphbq3asay a ns1:User ;
-    ns1:description """<p>Ann used Milton Erickson's common-sense and self hypnosis approach to dreams. She used art, dreams, and closed eye visioning in workshop intensives here and abroad. She taught at Lesley College Arts Institute, where she helped develop the Expressive Therapies Program, trained teachers, and earned her Master’s degree. Ann kept dream journals for fifty years, published two books on dreams, and was an ASD member and presenter for over 20 years, offering workshops and slide talks at IASD (almost every year), and at California’s Esalen Institute, The Cambridge center for Adult Education, and organizations here and abroad. She derived much inspiration from the work of Patricia Garfield, Freud, Jung, Milton Erickson, Gibran, the I Ching, the Dalai Lama, and others.</p>
+    ns1:description """<p>You can buy a physical copy of Ann's book <em>Satisfy the Image</em>, <a href="https://www.handprintpress.com/product/satisfy-the-image-the-wisdom-of-your-dreams-guided-imagery-for-self-balancing/">from Handprint Press here</a>.</p>
+
+<p>Ann used Milton Erickson's common-sense and self hypnosis approach to dreams. She used art, dreams, and closed eye visioning in workshop intensives here and abroad. She taught at Lesley College Arts Institute, where she helped develop the Expressive Therapies Program, trained teachers, and earned her Master’s degree. Ann kept dream journals for fifty years, published two books on dreams, and was an ASD member and presenter for over 20 years, offering workshops and slide talks at IASD (almost every year), and at California’s Esalen Institute, The Cambridge center for Adult Education, and organizations here and abroad. She derived much inspiration from the work of Patricia Garfield, Freud, Jung, Milton Erickson, Gibran, the I Ching, the Dalai Lama, and others.</p>
 
 <p>This adaptation of her Introduction to her last book, Satisfy the Image, summarizes her work: </p>
 

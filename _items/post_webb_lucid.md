@@ -31,8 +31,12 @@ Life has now blessed me with well over a thousand lucid dreams, so to share some
 
 ~ ~ ∞ ~ ∞ ~ ∞ ~ ~ 
 
-[www.dreams.ca/teleclass.pdf](http://www.dreams.ca/teleclass.pdf)
-Email: Craig Sim Webb csw@edutainer.ca 
+[www.dreams.ca/teleclass.htm](http://www.dreams.ca/teleclass.htm)
+
+[Email Craig Sim Webb](http://craigwebb.ca/contact.php)
+
 Link to song: [www.edutainer.ca/lucidsong.htm](http://www.edutainer.ca/music/lucidsong.htm) 
 (song also available at iTunes and Amazon) 
 Web site: [www.edutainer.ca](http://www.edutainer.ca/)
+
+Craig Sim Webb's book, [The Dreams Behind the Music](http://dreamsbehindthemusic.com/), reveals little-known dreams that inspired tremendous success for over 100 top artists, and highlights principles and techniques anyone can use to harvest their own dreams for significant breakthroughs.

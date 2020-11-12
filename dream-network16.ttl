@@ -13225,7 +13225,7 @@ ns1:User rdfs:subClassOf ns1:Actor,
         ns1:Person .
 
 ns1:bcphbq3xdnj a ns1:Page ;
-    ns1:coverImg "cover-tree-ferrimani.jpg"^^xsd:string ;
+    ns1:coverImg "dnj_cover_3.jpg"^^xsd:string ;
     ns1:description """<p>The Dream Network Journal was published in printed form from 1982 to 2015, a place for people to share the wonder and mystery of dreams. Thanks to our <a href="https://chuffed.org/project/dream-network-journal">crowdfunding supporters</a>, this archive offers all issues of the DNJ for download, and reproduces many articles in blog form.</p>
 
 <p>Below, you can download each volume as a .zip file, or download each issue individually from the list of images. If you'd like to look up an individual author or article, there's a growing <a href="../@dreamnetwork~contributors">authors page</a> here, and a (not-quite-complete) <a href="https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing">list of Dream Network articles</a> in spreadsheet form.</p>
@@ -13245,7 +13245,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
 
 <p>This history, and many other things on this site may be imperfect... please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> with feedback!</p>
 
-<p>Cover image: <em>'Chart the Growth' (detail)</em>, by <a href="../@brendaferrimani">Brenda Ferrimani</a></p>
+<p>Cover image: <em>Touch Drawing (detail)</em>, by <a href="../@deborahkoffchapin/">Deborah Koff-Chapin</a></p>
 
 <div style="text-align:center;font-style:italic; margin-bottom: 30px">
 

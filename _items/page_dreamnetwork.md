@@ -9,7 +9,7 @@ tags:
 shortDescription: "Welcome to the Dream Network"
 tags:
 profileImg: tree.png
-coverImg: cover-tree-ferrimani.jpg
+coverImg: dnj_cover_3.jpg
 ---
 
 The Dream Network Journal was published in printed form from 1982 to 2015, a place for people to share the wonder and mystery of dreams. Thanks to our [crowdfunding supporters](https://chuffed.org/project/dream-network-journal), this archive offers all issues of the DNJ for download, and reproduces many articles in blog form.
@@ -30,7 +30,7 @@ Rather than republishing these PDFs online, please just link to this site. We al
 This history, and many other things on this site may be imperfect... please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> with feedback!
 
 
-Cover image: *'Chart the Growth' (detail)*, by [Brenda Ferrimani](../@brendaferrimani)
+Cover image: *Touch Drawing (detail)*, by [Deborah Koff-Chapin](../@deborahkoffchapin/)
 
 <div style="text-align:center;font-style:italic; margin-bottom: 30px">
 <a href="../@robertaossana">Roberta</a>,

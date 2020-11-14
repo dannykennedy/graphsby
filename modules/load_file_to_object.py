@@ -13,6 +13,8 @@ def load_file_to_object(filepath):
 	lines = []
 	yaml_lines = []
 
+	print(filepath)
+
 	with open(filepath,'r') as f:
 		for line in f:
 			if line == '---\n' and reading_yaml is False:

@@ -3617,6 +3617,45 @@ ns1:bcpov6kccwah a ns1:Post ;
     ns1:name "Crop Circles With A Heart"^^xsd:string ;
     ns1:urlSlug "crop-circles-with-a-heart"^^xsd:string .
 
+ns1:bcpov6kcfear a ns1:Post ;
+    ns1:coverImg "post-bcpov6kcfear-0.jpg"^^xsd:string ;
+    ns1:dateCreated "1994-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>A number of dreams and symbols seem to be saying that fear is our greatest problem. The turtle, I feel, is one such symbol. The shell of defense can become a tomb of spiritual death. </p>
+
+<p>The clearest dream-coincidence message concerning fear happened on January 8, 1992. I dreamed: </p>
+
+<blockquote>
+  <p><em>...that a man was handed a letter: I knew it was basically good news. But as he read it, he became more and more worried. He was thinking of everything in the worst-case-scenario way. The process accelerated until he was reeling with worries. I was saying, "No, no. It's actually good news!" Suddenly my dream voice spoke: "You just witnessed bifurcation into new species of fear."</em> </p>
+</blockquote>
+
+<p>I was astonished that the technical term from the science of Chaos was used. I vaguely remembered that it was a splitting of a certain parameter, as I had read a book on the subject about 2 1/2 years before. I looked up the first reference to the word a nd was surprised to find that the example concerned wildlife populations. The voice had said "species". A bifurcation diagram showed the population levels of animals, and how the number splits in a period doubling, or bifurcation. The diagrams look like snow-capped mountains. </p>
+
+<p><img src="../images/post-bcpov6kcfear-0.jpg" width="300" height="auto" alt="Bifurcation mountains"/></p>
+
+<p>Climbing mountains is a common dream symbol that I believe refers to the spiritual path to a higher perspective. </p>
+
+<p>I could see that a climb up this bifurcation mountain, in terms of the dream voice message, would be the process of reducing fears. I looked at other diagrams. A line stands at the top of the mountains, as if a flag had been planted. I learned that this line represented "extinction." A person who conquers this mountain has completely eliminated fears and they can't come back. They are extinct! </p>
+
+<p>As if to add reinforcement, a coincidence happened as I recorded these events. Just as I was writing "extinction", I heard a voice on television say the same word. It was a program about an endangered species. </p>
+
+<p>In late 1990, I dreamed that: </p>
+
+<blockquote>
+  <p><em>I was with a large group of people at the top of the foothills below the Himalayas. We all felt close, like one family. Someone said it was time and we all fell in line, three abreast for the ascent, walking a wide path toward the summit.</em></p>
+</blockquote>
+
+<p>My feeling is that mankind, <em>en masse</em>, will conquer the mountain. It's hard to believe at this point but if you think about it, the fears are fundamental teachings in our societies; all we have to do is change them! </p>
+
+<p>We are getting a big push from the generating world to do so.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbgmason ;
+    ns1:hasTag ns1:bcphbgmason,
+        ns1:bcphbqvckd7 ;
+    ns1:itemId "bcpov6kcfear"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "No fear"^^xsd:string ;
+    ns1:urlSlug "no-fear"^^xsd:string .
+
 ns1:bcpov6kchers a ns1:Post ;
     ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6kchers-0.jpg" width="300px" height="auto"/></p>
@@ -11219,20 +11258,6 @@ ns1:bcphbqp3hfp a ns1:Post ;
     ns1:profileImg "12.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "12.4"^^xsd:string .
 
-ns1:bcphbqvckd7 a ns1:Post ;
-    ns1:coverImg "13.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1994-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_13/13.1-Dream-Network_Volume-13_No-1.pdf" download="">Download issue 13.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_13/13.1-Dream-Network_Volume-13_No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaxfojq ;
-    ns1:itemId "bcphbqvckd7"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 13, issue 1: Cross Cultural Perspectives on Dream & Myth"^^xsd:string ;
-    ns1:profileImg "13.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "13.1"^^xsd:string .
-
 ns1:bcphbqyogh7 a ns1:Post ;
     ns1:coverImg "13.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1994-04-01T11:32:52"^^xsd:dateTime ;
@@ -11524,18 +11549,6 @@ ns1:bcphb2kqfhu a ns1:Post ;
     ns1:name "Volume 33, issue 4: Finding Gold in Old Dreams"^^xsd:string ;
     ns1:profileImg "33.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.4"^^xsd:string .
-
-ns1:bcphbgmason a ns1:User ;
-    ns1:coverImg "cover-author-joseph-mason.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.greatdreams.com/joestuff/interp/joeindex.htm">greatdreams.com</a></p>
-
-<p>Dream, myth, religion and crop circle Researcher.</p>
-"""^^xsd:string ;
-    ns1:handle "josephmason"^^xsd:string ;
-    ns1:itemId "bcphbgmason"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Joseph Mason"^^xsd:string ;
-    ns1:profileImg "author-joseph-mason.jpg"^^xsd:string .
 
 ns1:bcphbgreene a ns1:User ;
     ns1:coverImg "cover-author-tara-greene.jpg"^^xsd:string ;
@@ -11949,6 +11962,20 @@ ns1:bcphbqsuelo a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Daniel Shellabarger"^^xsd:string ;
     ns1:profileImg "author-daniel-suelo.jpg"^^xsd:string .
+
+ns1:bcphbqvckd7 a ns1:Post ;
+    ns1:coverImg "13.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1994-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_13/13.1-Dream-Network_Volume-13_No-1.pdf" download="">Download issue 13.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_13/13.1-Dream-Network_Volume-13_No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaxfojq ;
+    ns1:itemId "bcphbqvckd7"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 13, issue 1: Cross Cultural Perspectives on Dream & Myth"^^xsd:string ;
+    ns1:profileImg "13.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "13.1"^^xsd:string .
 
 ns1:bcphbqvmack a ns1:User ;
     ns1:coverImg "cover-author-christamackinnon.jpg"^^xsd:string ;
@@ -12514,6 +12541,18 @@ ns1:bcpqocs2uhp a ns1:Post ;
 
 ns1:Actor a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
+
+ns1:bcphbgmason a ns1:User ;
+    ns1:coverImg "cover-author-joseph-mason.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.greatdreams.com/joestuff/interp/joeindex.htm">greatdreams.com</a></p>
+
+<p>Dream, myth, religion and crop circle researcher.</p>
+"""^^xsd:string ;
+    ns1:handle "josephmason"^^xsd:string ;
+    ns1:itemId "bcphbgmason"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Joseph Mason"^^xsd:string ;
+    ns1:profileImg "author-joseph-mason.jpg"^^xsd:string .
 
 ns1:bcphbq3dues a ns1:User ;
     ns1:description """<p>Websites: <a href="http://www.yourguidingdreams.com/">yourguidingdreams.com</a>, <a href="https://www.livingdreams.life/">livingdreams.life</a></p>

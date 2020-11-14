@@ -12,7 +12,7 @@ urlSlug: "crop-circles-with-a-heart"
 ---
 
 <img src="../images/post-bcpov6kccwah-0.jpg" width="200" height="auto" alt="Crop circle"/>
-<div style="text-align: center"><i>Heart & Circle appeared at Oare lands on 6/21/2010 Photo ©Eva-Marie Brekkestø</i></div>
+<!--nopreview--><div style="text-align: center"><i>Heart & Circle appeared at Oare lands on 6/21/2010 Photo ©Eva-Marie Brekkestø</i></div><!--/nopreview-->
 
 Eighteen years ago my article, [Crop Circle Mystery](http://www.greatdreams.com/dnjart/jocrop.htm), [appeared in the Dream Network Journal](../bcphbp7rfno/11.4).<sup>1</sup> The messages being conveyed by the Circles have become clearer since then. Several ideas mentioned in that old article have evolved a great deal. It’s time for an update. 
 

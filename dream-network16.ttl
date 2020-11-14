@@ -3505,7 +3505,7 @@ ns1:bcpov6kccwah a ns1:Post ;
     ns1:dateCreated "2005-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6kccwah-0.jpg" width="200" height="auto" alt="Crop circle"/></p>
 
-<div style="text-align: center"><i>Heart & Circle appeared at Oare lands on 6/21/2010 Photo ©Eva-Marie Brekkestø</i></div>
+<p><!--nopreview--><div style="text-align: center"><i>Heart &amp; Circle appeared at Oare lands on 6/21/2010 Photo ©Eva-Marie Brekkestø</i></div><!--/nopreview--></p>
 
 <p>Eighteen years ago my article, <a href="http://www.greatdreams.com/dnjart/jocrop.htm">Crop Circle Mystery</a>, <a href="../bcphbp7rfno/11.4">appeared in the Dream Network Journal</a>.<sup>1</sup> The messages being conveyed by the Circles have become clearer since then. Several ideas mentioned in that old article have evolved a great deal. It’s time for an update. </p>
 

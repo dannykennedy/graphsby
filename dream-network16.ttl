@@ -867,20 +867,6 @@ ns1:bcphbwctnd2 a ns1:Post ;
     ns1:profileImg "23.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "23.3"^^xsd:string .
 
-ns1:bcphbxfpj5j a ns1:Post ;
-    ns1:coverImg "25.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2006-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.4_animals.pdf" download="">Download issue 25.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.4_animals.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqob4y4gj ;
-    ns1:itemId "bcphbxfpj5j"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 25, issue 4: Make Way for the Animals in our Dreams"^^xsd:string ;
-    ns1:profileImg "25.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "25.4"^^xsd:string .
-
 ns1:bcphbxm2y5p a ns1:Post ;
     ns1:coverImg "26.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2007-07-01T11:32:52"^^xsd:dateTime ;
@@ -4397,6 +4383,186 @@ ns1:bcpov6kmyth2 a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Personal Mythology Part II"^^xsd:string ;
     ns1:urlSlug "personal-mythology-part-II"^^xsd:string .
+
+ns1:bcpov6kottea a ns1:Post ;
+    ns1:dateCreated "2006-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>A variety of animals have appeared in my dreams. The deer has been my most frequent visitor. Even as a child, I felt a sense of peace when I encounter one of these creatures. The buck and doe have delivered me messages on receptivity, survival, adaptability, civilization, wilderness, wisdom and my adventurous path in life. </p>
+
+<p>I was born into a family of five boys. At the time of my birth, the ages of my brothers were 19, 17, 10, 9 and 5. When I was 11, a brother died suddenly. Thirty years later, another brother died unexpectedly. After both of their deaths, I was flooded with dreams about Wayne and Danny. </p>
+
+<p>A year ago, I completed writing my memoir. It is about mourning the death of a sibling from the perspective of a child and an adult. The end of the book has a series of thirty-six dreams that provided comfort during my bereavement. Dreams were vital in my healing process. They took me through difficult phases, offered help and prepared me for a hopeful future. It was hard to lose my two brothers but I have accepted them being gone. </p>
+
+<p>From Wayne, I learned how to communicate and initiate. Danny taught me when to be quiet and observant. They both left me with the knowledge and ability to accept death. As time passed, my dreams with Danny and Wayne became further apart. This was part of the healing procedure. Recently, a new animal joined my dreams. It was a bear and here is the dream: </p>
+
+<blockquote>
+  <p><em>Inside, I could sense that my car was full of fuel when I drove down the road. I stopped driving the vehicle because there were road barriers. A huge female bear was curled up in a ball and slept on the road. She looked contented and smiled. Behind her were two small bear cubs. One was quiet and the other made playful bear sounds. They both lightheartedly swatted their paws at butterflies that flew in the air. Next to the cubs were five slender adult bears standing on their hind paws. They pushed machinery around with their front paws and performed road construction.</em> </p>
+</blockquote>
+
+<p>This dream caught my attention because I couldn’t move forward. The five bears represented my five brothers. They prepared the masculine energy in my home life before I was born. The cubs were a symbol of Wayne and Danny. Their souls have moved on to new life. The sleepy female bear represented the feminine energy that I had to use in order to balance out the tilted male energy within my family. Inside, I had the power to endure hardships through my dreams. </p>
+
+<p>This bear dream reminded me to hibernate and use introspection about my sibling bonds. My family has taught me the importance of death, rebirth and transformation. Next to my deer, I have gladly accepted the bear as part of my dream totem pole.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqmotte ;
+    ns1:hasTag ns1:bcphbqmotte,
+        ns1:bcphbxfpj5j ;
+    ns1:itemId "bcpov6kottea"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Healing Animals In Dreams"^^xsd:string ;
+    ns1:urlSlug "healing-animals-in-dreams"^^xsd:string .
+
+ns1:bcpov6kottet a ns1:Post ;
+    ns1:dateCreated "2006-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Are you able to recall dreams? If so, do you write them down? Have you ever tried posing a question before retiring in order to dream a solution? With practice, these concepts can be achieved. Throughout the day, remind yourself: </p>
+
+<blockquote>
+  <p><em>“I want to remember my dreams.”</em> </p>
+  
+  <p><em>“Upon awakening, I will recall and write down my dreams.”</em> </p>
+</blockquote>
+
+<p>Incubating a question helps me to have dreams. </p>
+
+<p>Entice yourself to savor this rejuvenating nightly experience. Create a relaxing environment in your bedroom. Decorate with a dream catcher and soothing srroundings. Maintain a comfortable room temperature. </p>
+
+<p>Before retiring, enjoy your bedtime rituals. Take a warm bath and put on comfortable night clothes. Drink warm milk or herbal tea. Read a few pages on dreaming. There are numerous books on the subject. The internet also has information. Let yourself unwind. </p>
+
+<p>Keep a few items close to the bed so that you don’t have to lift your head or move much upon awakening. It’s easier to recall dreams when you remain in bed with your head on the pillow. Move as little as possible to reach your dream journal, pen and flashlight. If it’s easier for you to verbalize, use a hand held recorder and tape to document your dreams. Do what works best for you. </p>
+
+<p>Dreams and the Tarot deck of cards contain symbology. This form of language can help you gain knowledge about yourself and life. There are many versions of the Tarot. Select a deck that you feel drawn to and take your time getting familiar with them. There are seventy-eight cards in a deck. Fifty-six cards make up the Lower Arcana which are divided into four suites: wands, cups, swords and pentacles. </p>
+
+<p>The Higher Arcana is based on twenty-two archetypes. They can help in your life’s journey when you invoke them in dream incubations. Consider a challenge in which you need help. Ask a specific deity a question on how to deal with your situation. This can bring about a dream that will give you a solution. </p>
+
+<p>Consider the following examples: </p>
+
+<h3>Challenge: Needing a change from your daily routine.</h3>
+
+<p><strong>The Fool Incubation:</strong> How can I be more spontaneous? </p>
+
+<p><strong>Solution:</strong> You dream of driving your car over the state line for a weekend getaway. </p>
+
+<h3>Challenge: Feeling confused about where to start fixing things at home.</h3>
+
+<p><strong>The Magician Incubation:</strong> What is my next domestic project? </p>
+
+<p><strong>Solution:</strong> You dream of painting a fence. </p>
+
+<h3>Challenge: Having problems comprehending your friends’ viewpoints.</h3>
+
+<p><strong>The High Priestess Incubation:</strong> How can I understand others? </p>
+
+<p><strong>Solution:</strong> Dream of a group of people taking off their eye glasses and engaging in open conversation. </p>
+
+<h3>Challenge: Your family seems to be moving in different directions.</h3>
+
+<p><strong>The Emperor Incubation:</strong> How can I develop my leadership skills? </p>
+
+<p><strong>Solution:</strong> Dream that you are checking out four books from the library.</p>
+
+<h3>Challenge: You are being torn between old ways and new patterns.</h3>
+
+<p><strong>The Hierophant Incubation:</strong> How can I make transitions? </p>
+
+<p><strong>Solution:</strong> You dream of attending a lecture on philosophy. </p>
+
+<h3>Challenge: Not being able to get close in a new relationship.</h3>
+
+<p><strong>The Lovers Incubation:</strong> Why am I holding back from my friend? </p>
+
+<p><strong>Solution:</strong> You dream of the Ying Yang symbol. </p>
+
+<h3>Challenge: Feeling unaccomplished in your career.</h3>
+
+<p><strong>The Chariot Incubation:</strong> How can I achieve my goals? </p>
+
+<p><strong>Solution:</strong> Dream that you are journeying on a zigzag sidewalk that becomes a straight path. </p>
+
+<h3>Challenge: You are experiencing emotional pain.</h3>
+
+<p><strong>Strength Incubation:</strong> Where is my hidden power? </p>
+
+<p><strong>Solution:</strong> Dream of coming face to face with a wild animal. </p>
+
+<h3>Challenge: You are not able to connect with sacred patterns.</h3>
+
+<p><strong>The Hermit Incubation:</strong> How can I find inner truth? </p>
+
+<p><strong>Solution:</strong> Dream of a room filled with people meditating. </p>
+
+<h3>Challenge: You are feeling out of control.</h3>
+
+<p><strong>The Wheel of Fortune Incubation:</strong> How can I resolve issues? </p>
+
+<p><strong>Solution:</strong> You dream about the four seasons and how they change. </p>
+
+<h3>Challenge: You are at odds with your mate.</h3>
+
+<p><strong>Justice Incubation:</strong> How can I be fair to my companion? </p>
+
+<p><strong>Solution:</strong> You dream of being a mediator between a couple. </p>
+
+<h3>Challenge: You are experiencing an inability to change your routine.</h3>
+
+<p><strong>The Hanged Man Incubation:</strong> How can I become less rigid? </p>
+
+<p><strong>Solution:</strong> Dream that you are walking up a cliff. </p>
+
+<h3>Challenge: You are pining about your recently broken friendship.</h3>
+
+<p><strong>Death Incubation:</strong> How can I let go? </p>
+
+<p><strong>Solution:</strong> You dream of dry leaves falling to the ground. </p>
+
+<h3>Challenge: You feel overwhelmed with your job.</h3>
+
+<p><strong>The Devil Incubation:</strong> How can I become less obsessed with my work? </p>
+
+<p><strong>Solution:</strong> You dream of a puppet breaking it’s strings. </p>
+
+<h3>Challenge: You feel stuck with unproductive thoughts.</h3>
+
+<p><strong>The Tower Incubation:</strong> How can I think differently? </p>
+
+<p><strong>Solution:</strong> You dream of playing a cello upside down. </p>
+
+<h3>Challenge: Feeling pessimistic about your future.</h3>
+
+<p><strong>The Star Incubation:</strong> How can I find hope? </p>
+
+<p><strong>Solution:</strong> You dream of walking toward a light at the end of a tunnel. </p>
+
+<h3>Challenge: You are having a hard time making decisions.</h3>
+
+<p><strong>The Moon Incubation:</strong> How can I make choices? </p>
+
+<p><strong>Solution:</strong> You dream of flipping a coin. </p>
+
+<h3>Challenge: Currently, you are physically and emotionally worn out.</h3>
+
+<p><strong>The Sun Incubation:</strong> How can I be optimistic? </p>
+
+<p><strong>Solution:</strong> You dream of being at a school ground and playing with the children. </p>
+
+<h3>Challenge: Finding fault with others is causing you problems.</h3>
+
+<p><strong>Judgment Incubation:</strong> Why am I so critical? </p>
+
+<p><strong>Solution:</strong> You dream of looking into a mirror and seeing your own reflection. </p>
+
+<h3>Challenge: Feeling overwhelmed is causing you frustration.</h3>
+
+<p><strong>The World Incubation:</strong> How can I feel joy? </p>
+
+<p><strong>Solution:</strong> You dream of declining the chance to work overtime and go fishing. </p>
+
+<p>Before going to sleep, write down the date and dream incubation in your dream journal. Draw or select a Higher Arcana archetype that you think will be able to help figure out your given situation. Meditate on the card and question before falling asleep. When you awaken, document your dreams. Don’t hold back, edit or judge what you have experienced. Let the thoughts flow freely. If you can’t remember a dream, jot down symbols, words, thoughts, ideas or anything else that comes to mind. Light your path to wholeness. With time, practice and consistency, you will become more in tune with your inner guide.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqmotte ;
+    ns1:hasTag ns1:bcphbqmotte,
+        ns1:bcphbxal53y ;
+    ns1:itemId "bcpov6kottet"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Planning and Incubating Dreams: Dreams and the Tarot"^^xsd:string ;
+    ns1:urlSlug "healing-animals-in-dreams"^^xsd:string .
 
 ns1:bcpov6krfish a ns1:Post ;
     ns1:dateCreated "1990-04-01T11:32:52"^^xsd:dateTime ;
@@ -11413,19 +11579,19 @@ ns1:bcphbx7d7cu a ns1:Post ;
     ns1:profileImg "27.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "27.4"^^xsd:string .
 
-ns1:bcphbxal53y a ns1:Post ;
-    ns1:coverImg "25.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2006-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf" download="">Download issue 25.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf">View online</a></p>
+ns1:bcphbxfpj5j a ns1:Post ;
+    ns1:coverImg "25.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2006-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.4_animals.pdf" download="">Download issue 25.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.4_animals.pdf">View online</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,
         ns1:bcpqob4y4gj ;
-    ns1:itemId "bcphbxal53y"^^xsd:string ;
+    ns1:itemId "bcphbxfpj5j"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 25, issue 3: Back to Basics"^^xsd:string ;
-    ns1:profileImg "25.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "25.3"^^xsd:string .
+    ns1:name "Volume 25, issue 4: Make Way for the Animals in our Dreams"^^xsd:string ;
+    ns1:profileImg "25.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "25.4"^^xsd:string .
 
 ns1:bcphbxjsuyu a ns1:Post ;
     ns1:coverImg "26.1-2-cover.jpg"^^xsd:string ;
@@ -12129,6 +12295,20 @@ ns1:bcphbwpd2l7 a ns1:Post ;
     ns1:profileImg "24.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "24.3"^^xsd:string .
 
+ns1:bcphbxal53y a ns1:Post ;
+    ns1:coverImg "25.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2006-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf" download="">Download issue 25.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqob4y4gj ;
+    ns1:itemId "bcphbxal53y"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 25, issue 3: Back to Basics"^^xsd:string ;
+    ns1:profileImg "25.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "25.3"^^xsd:string .
+
 ns1:bcphbxplpmw a ns1:Post ;
     ns1:coverImg "26.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2007-10-01T11:32:52"^^xsd:dateTime ;
@@ -12712,6 +12892,18 @@ ns1:bcphbqbynum a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Edward Bruce Bynum, Ph.D., ABPP"^^xsd:string ;
     ns1:profileImg "author-edward-bynum.jpg"^^xsd:string .
+
+ns1:bcphbqmotte a ns1:User ;
+    ns1:coverImg "cover-author-marieotte.jpg"^^xsd:string ;
+    ns1:description """<p>On Twitter: <a href="https://twitter.com/MarieOtte">twitter.com/MarieOtte</a> </p>
+
+<p>Marie Otte is a published writer and has been doing dream work for many years. She holds a degree from Northern Illinois University in music education.</p>
+"""^^xsd:string ;
+    ns1:handle "marieotte"^^xsd:string ;
+    ns1:itemId "bcphbqmotte"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Marie Otte"^^xsd:string ;
+    ns1:profileImg "author-marieotte.jpg"^^xsd:string .
 
 ns1:bcphbqvlach a ns1:User ;
     ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>

@@ -25,5 +25,18 @@ This dream caught my attention because I couldn’t move forward. The five bears
 
 This bear dream reminded me to hibernate and use introspection about my sibling bonds. My family has taught me the importance of death, rebirth and transformation. Next to my deer, I have gladly accepted the bear as part of my dream totem pole.
 
+## Bird Horn*by Marie Otte*
+
+<pre>my bedroom adorns me in downwhile finding myself near a townwalking over a bridgesensing a voyage
+I can see a hillwith people standing stillon top is a gooseher honk is letting loose
+a mixture of French Hornand bag pipes vibrating forlornthe sound is loudand pulling the crowd
+the goose takes flightas the people follow ever so lightthe mystery of migrationabove the birch in V-formation
+</pre>
+## Camouflage Fox*by Marie Otte*
+
+<pre>nodding off with a problemreaching the bottomhe is trying to appearwhile trotting near
+large ears, sharp snoutstopping and standing aboutI sense his piercing eyesas he replies,
+“Notice what is hidden.Listen to your intuition.Opportunities will manifestin what is blessed.”
+</pre>
 
 

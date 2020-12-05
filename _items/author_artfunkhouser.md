@@ -8,6 +8,7 @@ shortDescription: ""
 tags:
 date: 2015-03-24
 profileImg: author-art-funkhouser.jpg
+coverImg: cover-art-funkhouser.jpg
 ---
 
 Website: [art.funkhouser.ch](https://art.funkhouser.ch/en)

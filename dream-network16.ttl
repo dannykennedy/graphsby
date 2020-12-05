@@ -13311,6 +13311,7 @@ ns1:bcphbq3webb a ns1:User ;
     ns1:profileImg "author-craig-webb.jpg"^^xsd:string .
 
 ns1:bcphbqafunk a ns1:User ;
+    ns1:coverImg "cover-art-funkhouser.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://art.funkhouser.ch/en">art.funkhouser.ch</a></p>
 
 <p>Art was born in 1940 in Indiana and grew up in Oklahoma. He has lived in Switzerland since 1973 and is the proud father of three children and four grand grandkids.</p>

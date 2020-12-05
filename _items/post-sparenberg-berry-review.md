@@ -13,7 +13,7 @@ urlSlug: thomas-berry-dreamer-of-the-earth-book-review
 profileImg: post-bcpov6zftber-0.jpg
 ---
 
-![READING THE RED BOOK, Spring Journal Books, 317 pp](../images/post-bcpov6zftber-0.jpg)
+![Thomas Berry, Dreamer of the Earth: The Spiritual Ecology of the Father of Environmentalism, edited by Ervin Laszlo and Allan Combs](../images/post-bcpov6zftber-0.jpg)
 <!--nopreview--><div style="text-align:center"><i>Thomas Berry, Dreamer of the Earth: The Spiritual Ecology of the Father of Environmentalism, edited by Ervin Laszlo and Allan Combs, A Worldshift Book published by Inner Traditions, 144 pp.</i></div><!--/nopreview-->
 <br>
 

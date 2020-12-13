@@ -10244,6 +10244,39 @@ ns1:bcpov6zfwhat a ns1:Post ;
     ns1:name "What IS a dream?"^^xsd:string ;
     ns1:urlSlug "what-is-a-dream"^^xsd:string .
 
+ns1:bcpov6zhoffr a ns1:Post ;
+    ns1:dateCreated "2014-09-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="http://www.brownwalker.com/book/1612337260"></p>
+
+<p><img src="../images/post-bcpov6zhoffr-0.jpg" width="200" height="auto" alt="Dream Tending book"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Weaving Dreams into the Classroom Practical Ideas for Teaching about Dreams and Dreaming at Every Grade Level, including Adult Education by Curtiss Hoffman &amp; Jacquie Lewis (editors), <a href="http://www.brownwalker.com/book/1612337260">Brown Walker</a>, Inc, 2014, 184 pp.</i></div><!--/nopreview--></p>
+
+<p>There is a growing acceptance of the topic of dreams in academic institutions and a real desire and need for dream education at all levels of education. This book was conceived after a symposium presented at the 27th annual Conference of the International Association for the Study of Dreams (IASD) in 2010, where the dreams and education theme was heavily emphasized and supported.</p>
+
+<p><em>Weaving Dreams into the Classroom</em> is a compilation of chapters from 10 educator’s at all educational levels that address the subject of how to provide practical, hands-on models for bringing dreamwork to students of all ages.  The book is organized by level of instruction beginning with elementary and secondary education, undergraduate, graduate and adult education. Each chapter offers a diversity of approaches and shares each author’s perspective about their experience in bringing dreamwork into the classroom, detailing how they have facilitated dreamwork in academic settings.  Included are the challenges they have encountered as well as solutions in overcoming potential objections to incorporating dreamwork into curriculums.  </p>
+
+<p>The chapters include examples of how educators organize their classes and how they incorporate various methodologies and dreamwork projects into their courses. Also discussed are types of dreams at different ages, the importance of the IASD Ethics Statement, examples of students dreams, how to orchestrate dream groups, the creative influence of dreams as a source of inspiration and imagination, the generative and transformative power of dreamwork, and the long term effect dreamwork has had on students from their point of view and how they are taking what they learned out into the world.  Common throughout the book is the tremendous benefit students have gained in learning about dreams, including increased intuition, self understanding, self-esteem, compassion and overall well being.  Also included are helpful resources throughout the book.  One chapter is even written by a young man who has worked with his dreams since childhood and was the youngest presenter in history at the IASD sharing how valuing dreams has influenced his life.</p>
+
+<p>The authors also examine the decline of training in dreamwork in clinical psychology and questions why working with dreams is not a significant component of therapists’ training given the fact that the legend of psychology was founded on working with dreams.  Detailed are examples of how and why graduate students feel ill-equipped to do dreamwork with clients and suggestions to overcoming this problem.</p>
+
+<p>One thing is certain; People’s lives are enhanced by dreamwork and the more opportunities given for people to learn about dreams, the stronger the possibility of affecting positive and conscious-centered change on this planet.  Students are our future. As <em>Weaving Dreams into the Classroom</em> tells us, they are the ones who will determine the choices, decisions and actions of future generations.  Providing classes that teach others about the wisdom of dreams and how to work with them offers a powerful foundation for healing, individually, collectively, ecologically and globally. By creating a renewed interest in dreamwork worldwide, we help to create dream-centered communities that embrace dreams not only as an integral part of life, but as a means of the continued existence of our, and other species.</p>
+
+<p><em>Weaving Dreams into the Classroom</em> is a tremendous resource for anyone desiring to bring dreamwork into their curriculum or who wants to develop and teach their own programs on dreams within or outside of institutional academia. It is extremely inspirational and informative in providing a multitude of thought-provoking ideas and tools for all types of educators. This is a unique book and comes at a significant time globally when there is a genuine need for dream education at all levels of learning. The authors present a persuasive case for teaching dreamwork in the classroom and their words should serve as a source of inspiration and encouragement for those interested in doing so.</p>
+
+<p>Whether you are an educator or a person who is simply passionate about sharing the value of dreamwork with others, this is an essential book to read and add to your personal library.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvcors ;
+    ns1:hasTag ns1:bcphbq3curt,
+        ns1:bcphbqvcors ;
+    ns1:itemId "bcpov6zhoffr"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: Weaving Dreams into the Classroom, edited by Curtiss Hoffman & Jacquie E. Lewis"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zhoffr-0.jpg"^^xsd:string ;
+    ns1:urlSlug "weaving-dreams-into-the-classroom-book-review"^^xsd:string .
+
 ns1:bcpov6zincep a ns1:Post ;
     ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zincep-0.jpg" alt="Inception movie poster" width="200" height="auto"/></p>
@@ -12441,17 +12474,6 @@ ns1:bcphbq3bayl a ns1:User ;
     ns1:name "Janice Baylis"^^xsd:string ;
     ns1:profileImg "author-janicebaylis.jpg"^^xsd:string .
 
-ns1:bcphbq3curt a ns1:User ;
-    ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of <em>The Seven Story Tower: A Mythic Journey through Space and Time</em>, and <em>Stone Prayers</em>, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.</p>
-
-<p>He was the host of the 2006 IASD conference at Bridgewater State, and has presented at IASD conferences and at the on-line Psiberdreaming Conference for several years. Since 2004, he has been the chair of the IASD Student Research Awards Committee.</p>
-"""^^xsd:string ;
-    ns1:handle "curtisshoffman"^^xsd:string ;
-    ns1:itemId "bcphbq3curt"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Curtiss Hoffman"^^xsd:string ;
-    ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
-
 ns1:bcphbq3gras a ns1:User ;
     ns1:description """<p>Lorraine Grassano was born in Paterson, New Jersey in 1951 and graduated from Rutgers University with a B.A. in Journalism. She has been an Acquisitions Editor for Spinster/Aunt Lute Press and writer and Copy Editor for Dream Network Journal. She was founding editor of The Gay Old Times, The Lavender Express, and Natural Lighting.</p>
 
@@ -13002,6 +13024,17 @@ ns1:bcphbq3amin a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dr. Arnold Mindell"^^xsd:string ;
     ns1:profileImg "author-arnold-mindell.jpg"^^xsd:string .
+
+ns1:bcphbq3curt a ns1:User ;
+    ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of <em>The Seven Story Tower: A Mythic Journey through Space and Time</em>, and <em>Stone Prayers</em>, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.</p>
+
+<p>He was the host of the 2006 IASD conference at Bridgewater State, and has presented at IASD conferences and at the on-line Psiberdreaming Conference for several years. Since 2004, he has been the chair of the IASD Student Research Awards Committee.</p>
+"""^^xsd:string ;
+    ns1:handle "curtisshoffman"^^xsd:string ;
+    ns1:itemId "bcphbq3curt"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Curtiss Hoffman"^^xsd:string ;
+    ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
 
 ns1:bcphbq3pimm a ns1:User ;
     ns1:description """<p>Website: <a href="http://notesfromadreamer.com">notesfromadreamer.com</a></p>
@@ -14255,6 +14288,20 @@ ns1:bcphbqvstim a ns1:User ;
     ns1:name "William R. Stimson"^^xsd:string ;
     ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
 
+ns1:bcphbqschul a ns1:User ;
+    ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://thresholdjourneys.squarespace.com">thresholdjourneys</a></p>
+
+<p>Jeanne’s career path has been that of “teacher.” She has taught learners of all ages, focusing on the integration of soma, soul, and psyche. Whether she is teaching dance, dreamwork, body therapy, or hatha yoga, she is passionate about assisting her students in realizing their sense of wholeness. </p>
+
+<p>Jeanne is Associate Chair at Pacifica Graduate Institute in the department of Depth Psychology with a specialization in Somatic Studies. She is the Artistic Director Emeritus of the dance company at Berry College, where she taught and coordinated the dance minor program for 24 years. She earned her doctorate in Depth Psychology at Pacifica Graduate Institute, her M.A. in Dance at Texas Woman’s University, a B.A. in English and Dance from SUNY Brockport, spent a year studying British Literature at Nottingham University, and is a Registered Somatic Movement Therapist with ISMETA.</p>
+"""^^xsd:string ;
+    ns1:handle "jeanneschul"^^xsd:string ;
+    ns1:itemId "bcphbqschul"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jeanne Schul"^^xsd:string ;
+    ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
+
 ns1:bcphbqvcors a ns1:User ;
     ns1:coverImg "cover-author-bambi-corso.jpg"^^xsd:string ;
     ns1:description """<p>Author, DreamTracker, Law of Attraction Certified Coach </p>
@@ -14280,20 +14327,6 @@ ns1:bcphbqvcors a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bambi Corso"^^xsd:string ;
     ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
-
-ns1:bcphbqschul a ns1:User ;
-    ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://thresholdjourneys.squarespace.com">thresholdjourneys</a></p>
-
-<p>Jeanne’s career path has been that of “teacher.” She has taught learners of all ages, focusing on the integration of soma, soul, and psyche. Whether she is teaching dance, dreamwork, body therapy, or hatha yoga, she is passionate about assisting her students in realizing their sense of wholeness. </p>
-
-<p>Jeanne is Associate Chair at Pacifica Graduate Institute in the department of Depth Psychology with a specialization in Somatic Studies. She is the Artistic Director Emeritus of the dance company at Berry College, where she taught and coordinated the dance minor program for 24 years. She earned her doctorate in Depth Psychology at Pacifica Graduate Institute, her M.A. in Dance at Texas Woman’s University, a B.A. in English and Dance from SUNY Brockport, spent a year studying British Literature at Nottingham University, and is a Registered Somatic Movement Therapist with ISMETA.</p>
-"""^^xsd:string ;
-    ns1:handle "jeanneschul"^^xsd:string ;
-    ns1:itemId "bcphbqschul"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jeanne Schul"^^xsd:string ;
-    ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
 
 ns1:User rdfs:subClassOf ns1:Actor,
         ns1:Person .

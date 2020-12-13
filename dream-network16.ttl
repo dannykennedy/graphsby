@@ -7540,6 +7540,53 @@ ns1:bcpov6wbyg5 a ns1:Post ;
     ns1:profileImg "welcome-to-the-magic-theater-sml.jpg"^^xsd:string ;
     ns1:urlSlug "welcome-to-the-magic-theater"^^xsd:string .
 
+ns1:bcpov6zaizer a ns1:Post ;
+    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.goodreads.com/book/show/12310352-dream-tending"></p>
+
+<p><img src="../images/post-bcpov6zaizer-0.jpg" width="200" height="auto" alt="Dream Tending book"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Dream Tending: Awakening to the Healing Power of Dreams by Stephen Aizenstat, Spring Journal, Inc, 2009, 281 pp.</i></div><!--/nopreview--></p>
+
+<p>Dr. Stephen Aizenstat is highly respected as a Master of Dreamwork, his extensive study and deep connection to the power of dreams and the dreaming psyche has influenced his life’s work in a way that is extraordinary. Among Stephen's many students over the years, I remember asking him if he had ever considered writing a book about Dream Tending knowing what an incredible contribution it would be to the world if he did. I was one of many who encouraged—perhaps even begged him—to write about his teachings and ways of working with dreams. Now that this highly anticipated book has found its way into the world, it is a privilege to review it here. </p>
+
+<p><em>Dream Tending</em> is a deeply moving, holistic and embodied way of working with dreams. It is a way in which dreams are engaged as living images who, through their ability to bridge the worlds of the dreaming psyche and the waking world, are given voice and expression. It is a way of working with dreams that allows the images to speak to us on behalf of themselves, allowing us to be a part of the process versus the center of it, inviting the world psyche to interact with us as part of a whole, living, breathing organism. </p>
+
+<p>Whether you are an experienced dreamer or just beginning, this insightful and rich book contains practical methods and exercises for working with your own dreams. Stephen goes into great detail on how to develop relationship with dream images and how to engage them on an ongoing basis, making <em>Dream Tending</em> a “life practice”, as well as fostering an ongoing relationship with your own inner “Dream Council” of figures. </p>
+
+<p>In addition, Stephen offers his readers a step-by-step guide to access the living power of their dreams to: </p>
+
+<ul>
+<li><p>Transform nightmare figures into profound and helpful mentors </p></li>
+<li><p>Bring fresh warmth and intimacy into relationships </p></li>
+<li><p>Overcome obsessions, compulsions, and addictions </p></li>
+<li><p>Engage the healing forces of dreams through imaginal “medicines” </p></li>
+<li><p>Re-imagine careers and cope with difficulties in the workplace </p></li>
+<li><p>Discover the potential of untapped creativity </p></li>
+<li><p>See the world with a new and dynamic perspective</p></li>
+</ul>
+
+<blockquote>
+  <p>“<em>Dream Tending</em> is a life practice that healers, storytellers, and poets have known by many different names for thousands of years. Passed on through the generations, the art of tending living dream images emerges in a culture when the call to see the natural world as alive is urgent.” (Quoted from page 11, The Living Image) </p>
+</blockquote>
+
+<p>It is true that we are in a period of great transition. Never before have we experienced our world in such deep need of healing, yet we must look to the hidden blessings in these times. Perhaps we are being reminded to slow down and make space for a re-connection to the Earth, to the animals, to our family, our friends, our neighbors and to ourselves. One way to navigate these times is to turn inward, to sit quiet and allow a new sensibility to come forth, not through the mind, but through the soul. Working with dreams allows us to experience our world in a way not just heard through the ears and seen with the eyes, but felt, deeply into the cellular makeup of who we are, which we share with all other living things. We are being called to act on behalf of something bigger than ourselves, we are being called to live as a global community, where respect for each other and our planet are not only desired, but essential to our well being and our future. What better time than now to intimately engage the dreamtime and allow it to open us up to new possibilities to heal both ourselves and our planet, one dream at a time.</p>
+
+<p><em>Stephen Aizenstat, Ph.D., is a clinical psychologist, marriage and family therapist, and the founding president of Pacifica Graduate Institute. For more than 35 years he has explored the power of dreams through the study of depth psychology and the pursuit of his own research. He has collaborated with many masters in the field, including Joseph Campbell, Marion Woodman, Robert Johnson, and James Hillman; as well as native elders worldwide. Dr. Aizenstat has conducted hundreds of dreamwork seminars throughout the United States, Europe and Asia. He lives with his wife and three children in Santa Barbara, California.</em> (Quoted from the cover of DreamTending) </p>
+
+<p><em>For articles written by Dr. Stephen Aizenstat, please visit his <a href="https://dreamtending.com/">www.dreamtending.com</a> website and click on “DreamTending Resources.” <a href="http://www.dreamtending.com/articles.html">http://www.dreamtending.com/articles.html</a>.</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvcors ;
+    ns1:hasTag ns1:bcphbqvcors,
+        ns1:bcphbygiw4g ;
+    ns1:itemId "bcpov6zaizer"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: Dream Tending by Stephen Aizenstat"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zaizer-0.jpg"^^xsd:string ;
+    ns1:urlSlug "dreaming-the-soul-back-home-robert-moss-book-review"^^xsd:string .
+
 ns1:bcpov6zbincu a ns1:Post ;
     ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zbpion-0.jpg" alt="Castle in the sky" width="400" height="auto"/></p>
@@ -10687,6 +10734,37 @@ ns1:bcpov6zmytoz a ns1:Post ;
     ns1:name "In the Land of Oz"^^xsd:string ;
     ns1:urlSlug "in-the-land-of-oz"^^xsd:string .
 
+ns1:bcpov6znormr a ns1:Post ;
+    ns1:dateCreated "2013-12-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.balboapress.com/en/bookstore/bookdetails/474760-dream-explorations"></p>
+
+<p><img src="../images/post-bcpov6znormr-0.jpg" width="200" height="auto" alt="Dreaming The Soul Back Home"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Dream Explorations: A Journey in Self-Knowledge and Self-Realization by <a href="../@rachelnorment">Rachel Norment</a>, <a href="https://www.balboapress.com/en/bookstore/bookdetails/474760-dream-explorations">Balboa Press</a>, 2013</i></div><!--/nopreview--></p>
+
+<p><br></p>
+
+<p>Utilizing one’s own dreams for personal development is one of the most beneficial aspects of dreamwork, and one that is specifically highlighted in this exceptional book of dreams from Rachel Norments’ personal life. Page after page, Dream Explorations is filled with examples of how working with her own dreams has impacted her life journey and the numerous ways that dreams have played a tremendous role in her development personally and spiritually. </p>
+
+<p>What stands out in Dream Explorations is the way in which Rachel has been able to go back through her years of journaled dreams and mine the gems of wisdom given her throughout her years of dreamwork even though at the time she may have not known what the dreams were telling her.  It allows the reader a bird’s eye view of where she was at in her life during the time of a particular dream, whether it be mentally, emotionally, physically or spiritually, and how her dreams commented on that state of being. She also shares the role her dreams played in moving through those times including ways healing may have been needed to propel her into the next phase of her life. It is a true testament to the immense value of writing down your dreams and working with them. </p>
+
+<p>Throughout the book Rachel integrates various methods of working with dreams based on some of the pioneers of dreamwork including Carl Jung, Jeremy Taylor, Montague Ullman and others. Rachel shares how she has used these dream techniques with her own dreams and in turn, also shows the reader ways in which to better work with their own dreams.</p>
+
+<p>Dream Explorations covers multiple dream subjects, such as houses, food, emotions, color, water, people, animals and so much more.  Rachel spends much time discussing dream symbols and the multitude of images that have accompanied her throughout her life.  She shares not only her personal symbolism but also other possibilities so that when reading the book, one cannot help but be inspired to think of their own personal dreams and imagery in expanded ways.  She shows the reader just how enlightening the study of dreams can be and how they are here to guide us towards self-realization, balance and ultimately, for the purpose of showing us who we are meant to become.</p>
+
+<p>A tremendous amount of time, excavation and research has gone into Dream Explorations and it is a rare look at how using our dreams as guides and teachers over a lifetime can truly direct us towards growth, healing and wholeness. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvcors ;
+    ns1:hasTag ns1:bcphbq3norm,
+        ns1:bcphbqvcors ;
+    ns1:itemId "bcpov6znormr"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: Dream Explorations by Rachel Norment"^^xsd:string ;
+    ns1:profileImg "post-bcpov6znormr-0.jpg"^^xsd:string ;
+    ns1:urlSlug "dream-explorations-by-rachel-norment-book-review"^^xsd:string .
+
 ns1:bcpov6zphras a ns1:Post ;
     ns1:dateCreated "2004-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zphras-0.jpg" alt="Duesbury and Bynum" width="500" height="auto"/></p>
@@ -12972,20 +13050,6 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.1"^^xsd:string .
 
-ns1:bcphbygiw4g a ns1:Post ;
-    ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqochapy2 ;
-    ns1:itemId "bcphbygiw4g"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
-    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "28.2-3"^^xsd:string .
-
 ns1:bcphbyukqzw a ns1:Post ;
     ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
@@ -13393,6 +13457,20 @@ ns1:bcphbwv4jtr a ns1:Post ;
     ns1:profileImg "24.4-25.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "24.4-25.1"^^xsd:string .
 
+ns1:bcphbygiw4g a ns1:Post ;
+    ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
+    ns1:itemId "bcphbygiw4g"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
+    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "28.2-3"^^xsd:string .
+
 ns1:bcphbz5vgog a ns1:Post ;
     ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
@@ -13645,22 +13723,6 @@ ns1:bcphbwfw4rc a ns1:Post ;
     ns1:profileImg "23.4-24.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "23.4-24.1"^^xsd:string .
 
-ns1:bcphbq3norm a ns1:User ;
-    ns1:coverImg "cover-author-rachelnorment.jpg"^^xsd:string ;
-    ns1:description """<p>Book: <a href="https://www.balboapress.com/en/bookstore/bookdetails/474760-dream-explorations">Dream Explorations: A Journey in Self-Knowledge and Self-Realization</a></p>
-
-<p>A facilitator of dream groups since 1995, Rachel is certified through the Marin Institute for Projective Dream Work in California. She has also been a facilitator with the Healing Power of Dreams Project of the International Association for the Study of Dreams.</p>
-
-<p>Rachel’s watercolor paintings have appeared in numerous juried exhibitions throughout the country, receiving many awards, and in invitational exhibitions in the South. She has had many one-person exhibitions and her work may be found in hundreds of private and corporate collections in the USA and abroad.</p>
-
-<p>Rachel is the author of <em>Dream Explorations: A Journey in Self-Knowledge and Self-Realization</em>.  A breast cancer survivor, Rachel in her first book <em>Guided by Dreams: Breast Cancer, Dreams, and Transformation</em> described how knowledge gained through dream interpretation guided many of her decisions during treatment and recovery.</p>
-"""^^xsd:string ;
-    ns1:handle "rachelnorment"^^xsd:string ;
-    ns1:itemId "bcphbq3norm"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Rachel Norment"^^xsd:string ;
-    ns1:profileImg "author-rachelnorment.jpg"^^xsd:string .
-
 ns1:bcphbq3olse a ns1:User ;
     ns1:coverImg "cover-author-fredolsen.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.inner-image.net/fred-olsen.php">inner-image.net</a></p>
@@ -13829,6 +13891,22 @@ ns1:bcpqoaivzve a ns1:Post ;
     ns1:name "Volume 7"^^xsd:string ;
     ns1:profileImg "volume-7.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-7"^^xsd:string .
+
+ns1:bcphbq3norm a ns1:User ;
+    ns1:coverImg "cover-author-rachelnorment.jpg"^^xsd:string ;
+    ns1:description """<p>Book: <a href="https://www.balboapress.com/en/bookstore/bookdetails/474760-dream-explorations">Dream Explorations: A Journey in Self-Knowledge and Self-Realization</a></p>
+
+<p>A facilitator of dream groups since 1995, Rachel is certified through the Marin Institute for Projective Dream Work in California. She has also been a facilitator with the Healing Power of Dreams Project of the International Association for the Study of Dreams.</p>
+
+<p>Rachel’s watercolor paintings have appeared in numerous juried exhibitions throughout the country, receiving many awards, and in invitational exhibitions in the South. She has had many one-person exhibitions and her work may be found in hundreds of private and corporate collections in the USA and abroad.</p>
+
+<p>Rachel is the author of <em>Dream Explorations: A Journey in Self-Knowledge and Self-Realization</em>.  A breast cancer survivor, Rachel in her first book <em>Guided by Dreams: Breast Cancer, Dreams, and Transformation</em> described how knowledge gained through dream interpretation guided many of her decisions during treatment and recovery.</p>
+"""^^xsd:string ;
+    ns1:handle "rachelnorment"^^xsd:string ;
+    ns1:itemId "bcphbq3norm"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Rachel Norment"^^xsd:string ;
+    ns1:profileImg "author-rachelnorment.jpg"^^xsd:string .
 
 ns1:bcphbqflull a ns1:User ;
     ns1:description """<p>Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
@@ -14145,32 +14223,6 @@ ns1:bcphbqvbulk a ns1:User ;
     ns1:name "Kelly Bulkeley"^^xsd:string ;
     ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
 
-ns1:bcphbqvcors a ns1:User ;
-    ns1:coverImg "cover-author-bambi-corso.jpg"^^xsd:string ;
-    ns1:description """<p>Author, DreamTracker, Law of Attraction Certified Coach </p>
-
-<p>Bambi’s passion and exploration of dreamwork spans over forty years having journaled over eight thousand of her own dreams. She says that working with her dreams for so many years has given her tremendous insight into every aspect of her life; physical, mental, emotional and spiritual. Knowing the immense guidance and wisdom available through dreamwork, she has dedicated her life to teaching others to work with and understand their dreams to help bring consciousness and awareness to the ways in which we are informed by the dreamtime to live a more passionate, purposeful and authentic life. She is an avid lover and animals and nature and advocates for their wellbeing, survival and conservancy. </p>
-
-<p>Bambi holds two certifications in Dream Tending, taught by Dr. Stephen Aizenstat of Pacifica Graduate Institute. She serves on the Southern California IASD Regional Committee and has been a member of the International Association for the Study of Dreams for twenty years. Bambi was a review editor for The Dream Network Magazine for nine years and is and certified as a Law of Attraction Certified Coach through The Quantum Success Coaching Academy and a Tarotpy Practitioner through the Institute of Dreams and Tarotpy®. She is also a contributing author for the book, <em>101 Great Ways to Enhance your Career.</em></p>
-
-<p>Please visit her website at <a href="https://bambicorso.com/">www.BambiCorso.com</a>. </p>
-
-<p>You can also follow Bambi here:</p>
-
-<p><a href="http://www.twitter.com/bambicorso">http://www.twitter.com/bambicorso</a></p>
-
-<p><a href="http://www.facebook.com/bambicorsosfanpage">http://www.facebook.com/bambicorsosfanpage</a></p>
-
-<p><a href="http://www.youtube.com/bambicorso">http://www.youtube.com/bambicorso</a></p>
-
-<p><a href="http://www.linkedin.com/in/bambicorso">http://www.linkedin.com/in/bambicorso</a></p>
-"""^^xsd:string ;
-    ns1:handle "bambicorso"^^xsd:string ;
-    ns1:itemId "bcphbqvcors"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Bambi Corso"^^xsd:string ;
-    ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
-
 ns1:bcpqn72unjj a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>
 """^^xsd:string ;
@@ -14202,6 +14254,32 @@ ns1:bcphbqvstim a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "William R. Stimson"^^xsd:string ;
     ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
+
+ns1:bcphbqvcors a ns1:User ;
+    ns1:coverImg "cover-author-bambi-corso.jpg"^^xsd:string ;
+    ns1:description """<p>Author, DreamTracker, Law of Attraction Certified Coach </p>
+
+<p>Bambi’s passion and exploration of dreamwork spans over forty years having journaled over eight thousand of her own dreams. She says that working with her dreams for so many years has given her tremendous insight into every aspect of her life; physical, mental, emotional and spiritual. Knowing the immense guidance and wisdom available through dreamwork, she has dedicated her life to teaching others to work with and understand their dreams to help bring consciousness and awareness to the ways in which we are informed by the dreamtime to live a more passionate, purposeful and authentic life. She is an avid lover and animals and nature and advocates for their wellbeing, survival and conservancy. </p>
+
+<p>Bambi holds two certifications in Dream Tending, taught by Dr. Stephen Aizenstat of Pacifica Graduate Institute. She serves on the Southern California IASD Regional Committee and has been a member of the International Association for the Study of Dreams for twenty years. Bambi was a review editor for The Dream Network Magazine for nine years and is and certified as a Law of Attraction Certified Coach through The Quantum Success Coaching Academy and a Tarotpy Practitioner through the Institute of Dreams and Tarotpy®. She is also a contributing author for the book, <em>101 Great Ways to Enhance your Career.</em></p>
+
+<p>Please visit her website at <a href="https://bambicorso.com/">www.BambiCorso.com</a>. </p>
+
+<p>You can also follow Bambi here:</p>
+
+<p><a href="http://www.twitter.com/bambicorso">http://www.twitter.com/bambicorso</a></p>
+
+<p><a href="http://www.facebook.com/bambicorsosfanpage">http://www.facebook.com/bambicorsosfanpage</a></p>
+
+<p><a href="http://www.youtube.com/bambicorso">http://www.youtube.com/bambicorso</a></p>
+
+<p><a href="http://www.linkedin.com/in/bambicorso">http://www.linkedin.com/in/bambicorso</a></p>
+"""^^xsd:string ;
+    ns1:handle "bambicorso"^^xsd:string ;
+    ns1:itemId "bcphbqvcors"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Bambi Corso"^^xsd:string ;
+    ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
 
 ns1:bcphbqschul a ns1:User ;
     ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;

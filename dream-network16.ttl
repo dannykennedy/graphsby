@@ -1488,6 +1488,30 @@ ns1:bcpov6glight a ns1:Post ;
     ns1:profileImg "post-bcpov6glight-0.jpg"^^xsd:string ;
     ns1:urlSlug "interview-with-gary-bonnell"^^xsd:string .
 
+ns1:bcpov6globus a ns1:Post ;
+    ns1:dateCreated "1988-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6globus-0.jpg" width="200px" height="auto"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://www.goodreads.com/book/show/10853175-dream-life-wake-life">Dream Life, Wake Life: The Human Condition Through Dreams</a>, by Gordon Globus, MD, State University of New York Press (1987), 187 pages.</i></div><!--/nopreview--></p>
+
+<p>How do we create the life-worlds we experience every night in our dreams? Are these life-worlds mere patch-works of waking memories, or are they wholly original productions of our innate creativity? What is the relation of our dream creativity to our waking life creativity? These are some of the central questions Gordon Globus addresses in his fascinating study of dreams. </p>
+
+<p>Globus, a Professor of Psychiatry and Philosophy at the University of California at Irvine, takes on some of the most complex, and perhaps also the most neglected, theories on dreams and dreaming in his quest to discover the nature of dreaming creativity. For example, he struggles with D. Foulkes' cognitive psychological approach to dreaming, A. Rechtschaffen's psycho-physiological research, and M. Boss' therapeutic use of dreams in his "Daseinanalysis." Globus makes a good case for why anyone seeking full understanding of the nature of dreams needs to take account of such material. </p>
+
+<p>But despite his persuasive arguments, Globus' book is not easily read. Along with these dense technical theories Globus also discusses mind-numbing subjects like Heideggerian existentialism, the "phenomenological epoche" of Husserl, and Leibniz's monadological idealism (I'll confess that more than once I skipped through such passages to the helpful summaries Globus sets at the end of each section). All of this is expressed in a style so extremely formal and concise that sometimes reading the book is like wading through steel. Fortunately Globus balances this by injecting a nice personal element into the book. He recounts three dreams of his own, one an especially poignant dream about his wife's cancer. </p>
+
+<p>Despite all the intimidating scholarship, Globus does have an important point to make here, one worth our attention. Against Freud, Foulkes, etc., he argues that dreams are not simply built up out of memory traces and images, like a mason using pre-made bricks to build a wall. Globus claims that dreams reflect a "formative creativity" by which we wholly and spontaneously produce the life-world of our dreams. In our dreams we have "the capacity for infinite creativity," which he says "is the power of the Godhead." The main thesis of Globus' work is that the same formative creativity we find in our dream life we also find in our wake life.</p>
+
+<p>This is a notion with which many of us (especially lucid dreamers) already have some familiarity based on our own experiences. We've discovered deep resources of creativity in our dreams which may come to have transformative powers in waking life. Globus' achievement is that he has grounded this concept of formative creativity, of the practically infinite wells of creativity in our dream life, in a solid philosophical and psychological structure. More generally, he has shown how bridging the gaps between the various realms of dream study and research can produce some truly new and valuable insights.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvbulk ;
+    ns1:hasTag ns1:bcphbnlbw5k,
+        ns1:bcphbqvbulk ;
+    ns1:itemId "bcpov6globus"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: Dream Life, Wake Life by Gordon Globus"^^xsd:string ;
+    ns1:urlSlug "dream-life-wake-life-globus-book-review"^^xsd:string .
+
 ns1:bcpov6grddan a ns1:Post ;
     ns1:dateCreated "2004-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6grroth-3.jpg" width="150px" height="auto"/></p>
@@ -4398,7 +4422,7 @@ ns1:bcpov6knewsw a ns1:Post ;
 
 <p><sup>3</sup> I would include among this group of books Dream Work, by Jeremy Taylor; Let Your Body Interpret Your Dreams, by Eugene Gendlin; Working with Dreams by Montague Ullman; and Living Your Dreams by Gayle Delaney. These are my favorites, anyway. </p>
 
-<p><sup>4</sup>For example, the research gathered by Barbara Tedlock in her book <em>Dreaming - Anthropological and Psychological Interpretations</em> (Cambridge, Eng. Cambridge U Press. 1987).</p>
+<p><sup>4</sup> For example, the research gathered by Barbara Tedlock in her book <em>Dreaming - Anthropological and Psychological Interpretations</em> (Cambridge, Eng. Cambridge U Press. 1987).</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqvbulk ;
     ns1:hasTag ns1:bcphbohoqoq,
@@ -12129,20 +12153,6 @@ ns1:bcphbndh32i a ns1:Post ;
     ns1:profileImg "6.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.4"^^xsd:string .
 
-ns1:bcphbnlbw5k a ns1:Post ;
-    ns1:coverImg "7.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1988-03-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.2-Dream-Network-Bulletin_Volume-7-Number-2.pdf" download="">Download issue 7.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.2-Dream-Network-Bulletin_Volume-7-Number-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaivzve ;
-    ns1:itemId "bcphbnlbw5k"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 7, issue 2"^^xsd:string ;
-    ns1:profileImg "7.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "7.2"^^xsd:string .
-
 ns1:bcphbnodjs2 a ns1:Post ;
     ns1:coverImg "7.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1988-05-01T11:32:52"^^xsd:dateTime ;
@@ -12533,6 +12543,20 @@ ns1:bcphbmvxewa a ns1:Post ;
     ns1:name "Volume 5, issue 6"^^xsd:string ;
     ns1:profileImg "5.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "5.6"^^xsd:string .
+
+ns1:bcphbnlbw5k a ns1:Post ;
+    ns1:coverImg "7.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1988-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.2-Dream-Network-Bulletin_Volume-7-Number-2.pdf" download="">Download issue 7.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.2-Dream-Network-Bulletin_Volume-7-Number-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaivzve ;
+    ns1:itemId "bcphbnlbw5k"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 7, issue 2"^^xsd:string ;
+    ns1:profileImg "7.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "7.2"^^xsd:string .
 
 ns1:bcphbo4ff76 a ns1:Post ;
     ns1:coverImg "10.1-cover.jpg"^^xsd:string ;
@@ -14517,18 +14541,6 @@ ns1:bcpqn72unjj a ns1:Post ;
 
 ns1:Item a <http://www.w3.org/2002/07/owl#Class> .
 
-ns1:bcphbqvbulk a ns1:User ;
-    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://kellybulkeley.org/">kellybulkeley.org</a></p>
-
-<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion.  He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal <a href="https://www.apa.org/pubs/journals/drm/">Dreaming</a>, and a former President of the International Association for the Study of Dreams.  He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School.  He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018).  He lives in Portland, Oregon.</p>
-"""^^xsd:string ;
-    ns1:handle "kellybulkeley"^^xsd:string ;
-    ns1:itemId "bcphbqvbulk"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Kelly Bulkeley"^^xsd:string ;
-    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
-
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.billstimson.com/">billstimson.com</a></p>
@@ -14548,6 +14560,18 @@ ns1:bcphbqvstim a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "William R. Stimson"^^xsd:string ;
     ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
+
+ns1:bcphbqvbulk a ns1:User ;
+    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://kellybulkeley.org/">kellybulkeley.org</a></p>
+
+<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion.  He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal <a href="https://www.apa.org/pubs/journals/drm/">Dreaming</a>, and a former President of the International Association for the Study of Dreams.  He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School.  He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018).  He lives in Portland, Oregon.</p>
+"""^^xsd:string ;
+    ns1:handle "kellybulkeley"^^xsd:string ;
+    ns1:itemId "bcphbqvbulk"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Kelly Bulkeley"^^xsd:string ;
+    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
 
 ns1:bcphbqschul a ns1:User ;
     ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;

@@ -51,5 +51,5 @@ In short, the two articles failed to report on vast areas of the study and explo
 
 <sup>3</sup> I would include among this group of books Dream Work, by Jeremy Taylor; Let Your Body Interpret Your Dreams, by Eugene Gendlin; Working with Dreams by Montague Ullman; and Living Your Dreams by Gayle Delaney. These are my favorites, anyway. 
 
-<sup>4</sup>For example, the research gathered by Barbara Tedlock in her book *Dreaming - Anthropological and Psychological Interpretations* (Cambridge, Eng. Cambridge U Press. 1987).
+<sup>4</sup> For example, the research gathered by Barbara Tedlock in her book *Dreaming - Anthropological and Psychological Interpretations* (Cambridge, Eng. Cambridge U Press. 1987).
 

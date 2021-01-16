@@ -1515,11 +1515,7 @@ ns1:bcpov6globus a ns1:Post ;
 
 ns1:bcpov6glorev a ns1:Post ;
     ns1:dateCreated "1992-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/post-bcpov6glorev-0.jpg" width="200px" height="auto"/></p>
-
-<p><!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://www.goodreads.com/book/show/10853175-dream-life-wake-life">Dream Life, Wake Life: The Human Condition Through Dreams</a>, by Gordon Globus, MD, State University of New York Press (1987), 187 pages.</i></div><!--/nopreview--></p>
-
-<p>Lis one of our society's greatest delusions that we believe each of us exists as a separate, independent being. Modem Westerners tend to see sharp, clear cut boundaries between our individual selves and the rest of the world. Our independence, we assume, is the <em>primary</em> fact of our existence. As a result, we see our relationships as <em>secondary</em>: relationships may be important, but our individuality is our real, true essence. We believe we are all Robinson Crusoes, little islands unto ourselves, entirely self-sufficient, dependent on no one. </p>
+    ns1:description """<p>Lis one of our society's greatest delusions that we believe each of us exists as a separate, independent being. Modem Westerners tend to see sharp, clear cut boundaries between our individual selves and the rest of the world. Our independence, we assume, is the <em>primary</em> fact of our existence. As a result, we see our relationships as <em>secondary</em>: relationships may be important, but our individuality is our real, true essence. We believe we are all Robinson Crusoes, little islands unto ourselves, entirely self-sufficient, dependent on no one. </p>
 
 <p>This delusion has been challenged by many different critics in recent years (e.g., by feminists, theologians, developmental psychologists, and Marxian social theorists). The common theme in these challenges is that humans are essentially <em>relational</em> beings: we exist in relationships, our very being is a product of our relationships. The Robinson Crusoe fantasy blinds us to the fact that we are "always already" in relationships-with our families, our communities, the environment, the cosmos. </p>
 
@@ -1539,7 +1535,7 @@ ns1:bcpov6glorev a ns1:Post ;
 
 <p>Siegel has worked hard to integrate the theoretical and the practical realms of dream study, and his book greatly benefits from the effort. <em>Turning Point Dreams</em> is one of the very best general audience books on dreams to appear in recent years, and I <em>highly</em> recommend it. </p>
 
-<p><img src="../images/post-bcpov6glorev-0.jpg" width="200px" height="auto"/></p>
+<p><img src="../images/post-bcpov6glorev-0.jpg" width="350px" height="auto"/></p>
 
 <p>Charles De Beer's book, <strong><em>Dreams: Allegorical Stories of Mystic Import</em></strong> (Umtentweni, South Africa: 1990; 228 pp.), addresses our relationship with the divine-with the soul, the Higher Self, God, however different people and different cultures have described those powers. De Beer is a dream explorer from South Africa who has devoted years to probing the spiritual dimensions of dreams. His book is a guide to understanding the dreams that lead us into divine realms. He says in the introduction to his book, </p>
 
@@ -1549,7 +1545,7 @@ ns1:bcpov6glorev a ns1:Post ;
 
 <p>To help us learn how to discover our own truths in such dreams, De Beer draws upon the mystical teachings ofJudaism, Christianity, Buddhism, and a variety of Western occult traditions (the range of De Beer's knowledge is quite impressive). His main resource is the theosophy of H.P. Blavatsky, a 19th century mystic who sought to integrate the esoteric teachings of East and West. <em>Dreams</em> is a richly spiritual book, filled with moving personal stories, striking experiences of synchronicity, and powerful encounters with the divine. For anyone intrigued by the mystical dimensions of dreams, De Beer's book will be of great interest. Dreams can be obtained by writing directly to De Beer (34 Raspberry Lane, P.O. Box 598, Umtentweni 4235, South Africa).</p>
 
-<p><img src="../images/post-bcpov6glorev-1.jpg" width="200px" height="auto"/></p>
+<p><img src="../images/post-bcpov6glorev-1.jpg" width="350px" height="auto"/></p>
 
 <p><strong><em>Dream Symbol Work</em></strong> (New York: Paulist Press, 1991; 162 pp.), also focuses on our relationship with spiritual powers. The authors, Patricia Berne and Louis Savary, also wrote Dreams and Spiritual Growth (1984; Strephon Kaplan-Williams was a co-author), and this book is a simpler, easier-to-use version of that earlier work. Berne and Savary give a nice, neat definition of spirituality: </p>
 

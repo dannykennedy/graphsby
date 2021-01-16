@@ -9,6 +9,7 @@ tags:
   - hasTag: 7.2
 type: post
 urlSlug: "dream-life-wake-life-globus-book-review"
+profileImg: post-bcpov6globus-0.jpg
 ---
 
 <img src="../images/post-bcpov6globus-0.jpg" width="200px" height="auto"/>

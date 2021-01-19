@@ -13,10 +13,10 @@ urlSlug: "fictionalized-futures-as-dreams"
 
 > We have taken the power of the gods into our hands, our fallible human hands.
 > The consequences are inconceivable. 
-> -- C. G. Jung
+> -C. G. Jung
 
 > …Today the one thing we will not tolerate is history. No; we are each Promethean with a bag of possibilities, Pandoran hopes, open, unencumbered, the future before us, so various, so beautiful, so new - new and liberated men and women living forward into a science fiction. So history rumbles below, continuing its work in our psychic complexes.
-> -- James Hillman
+> -James Hillman
 
 *The year is 410, and the Christian-Germanic army of Alaric the Visigoth marches relentlessly on Rome.*
 

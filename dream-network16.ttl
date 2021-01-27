@@ -7961,6 +7961,54 @@ ns1:bcpov6zchaot a ns1:Post ;
     ns1:profileImg "post-bcpov6zchaot-0.jpg"^^xsd:string ;
     ns1:urlSlug "chaotic-attractors-in-myth-stories-told-by-the-kariri-xuco-indians"^^xsd:string .
 
+ns1:bcpov6zdeeps a ns1:Post ;
+    ns1:dateCreated "1996-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>A little while ago, I was approached by <em>America Online</em> (AOL) to host a regular, live, real time, virtual dream group, Monday through Friday at 9:00 a.m. Eastern Time. I agreed to give it a try, even though it means that I have to be bright-eyed and bushy-tailed and in front of my computer at 6:00am, Pacific Time... which up until now has <em>not</em> been my habit. </p>
+
+<p>Initially, I had some reservations about working dreams through this distinctly cool and physically isolating medium: the Internet. When I imagined as carefully as I could what it might be like, I was particularly concerned that the flat and highly compressed computer communication format might inhibit the flow of imagination, relational intimacy and mutual respect so necessary for good dreamwork. </p>
+
+<p>I decided to undertake a couple of trial runs before I agreed to host the show for AOL. Barbara Viglizzo, a colleague and former student of mine, offered to set up trial meetings in cyberspace and recruited several interested computer-competent dreamers. (Thanks, Barbara!). As we all met in cyberspace and began to do "...if it were my dream" style dreamwork, I was tremendously pleased and excited to discover that my fears were, if not groundless, at least exaggerated out of all realistic proportion. In fact, the emotionally and physically flat format of simultaneous computer chat among people in widely separated geographic locations appears to enhance many important elements that make group exploration of dreams so productive. </p>
+
+<p>The fact that every participant appears on the screen identified only by his or her 'cyber-handle' (email address) , means that the sense of safety and protected anonymity so necessary for productive dreamwork is completely assured from the outset. My experience also convinces me that the necessity of compressing our questions and comments into two-line 'sound bites' in order to send them to the communal screen, regularly serve to discourage needless verbosity. The compressed computer screen format tends to draw us all into the work at a deeper level, more quickly than is sometimes the case in face-to-face dream groups. </p>
+
+<p>I am also very impressed with the sense of emotional equality that is created by everyone's comments appearing on the screen in the same bland typeface, with same spacing and inflection. In face-to-face dreamwork, the comments of participants are always weighted, to some unconscious degree or another, by our responses to their physical appearance and the timbre and quality of their voices. Different people have different prejudices about who they want to listen to and take seriously and who they tend to 'time out' and dismiss. On the screen, all that is gently wiped away; all comments appear initially as equal and all the participants are much freer to discover the potential aha! of insight for themselves in the various remarks, without unconscious prejudging of the person making the comment. </p>
+
+<p>This egalitarian anonymity is simply a given when the work is undertaken through connected computers and that alone makes 'virtual dream groups' in cyberspace a particularly good place to explore the multiple meanings of dreams that always lie below the surface of appearance and manifest content. As in face-to-face dreamwork, the different ideas and multiple perspectives offered by the many different people who constitute the virtual dream group makes it even more likely that many more of the dream's multiple levels of meaning and significance will be touched on and explored in the work... than would be likely to be touched upon working in solitude or even working on-to-one with a skilled dreamworker. </p>
+
+<p>I regularly find myself musing more freely and speaking more openly as I sit comfortably in my computer chair, sipping my morning coffee, physically much more comfortable and relaxed than I sometimes am when sitting in metal folding chairs in drafty church basements doing face-to-face dreamwork. I can only imagine that this relaxation factor has a positive effect on all the other participants as well. Presumably, we are all comfortably ensconced in our own private, safe, comfy computer chairs, free from the judgment of others and thus more able to think and intuit creatively and sensitively about our own imagined versions of the dreams being considered. </p>
+
+<p>In the virtual dream group, people are free to come and go as their interest and energy dictates, without distracting or giving offence to other participants. By the same token, people are much freer to simply watch and listen and generate their own "aha!"s of insight without participating directly in the process. In the cyberworld, such people are commonly known as 'lurkers', and 'lurking' is a perfectly acceptable activity in this context. </p>
+
+<p>In the virtual dream group, the host has even more influence over the process than in a face-to-face group, since he or she has the power to determine which comments go to the screen for all to read... and which will be 'dumped'. This has both positive and negative implications. All the usual problems of differing levels of sophistication and seriousness among participants that often arise in face-to-face dreamwork still exists in cyberspace but the computer format allows the host to keep people from interrupting one another, or 'hogging' the space with ponderous monologues, as sometimes occurs in face-to-face dream groups. Balanced against this, of course, is the problem of the host's 'countertransference' issues. The unconscious biases and assumptions of the host have even more influence over the productivity of the group process than in face-to-face dreamwork, precisely because the host has so much more influence and control over the flow of communication among the participants. </p>
+
+<p>Albert Einstein was fond of saying that "...if you can't explain what you are doing to an intelligent ten-year-old, you probably don't know what you are doing". This principle of simplifying and clarifying even the most abstruse and emerging intuitive understandings regularly comes into play in computer connected dreamwork. Some of the lyric poetry may be lost in the process but the haiku remains. If you, or anyone you know, is interested in participating in this fascinating new way of exploring the multiple meanings and possibilities of your dreams, here's how you can pull the group up on your screen:</p>
+
+<div style="width: 300px; margin: auto; text-align: center">
+
+<p>Log onto <b>AOL</b></p>
+
+<p>Go to Keyword: <b>HUB</b></p>
+
+<p>Choose <b>ENTER</b></p>
+
+<p>Go to <b>CHANNEL ZERO</b></p>
+
+<p>Go to <b>PROGRAM GUIDE</b></p>
+
+<p>Choose <b>DREAM GROUP</b></p>
+
+</div>
+
+<p>The 'dream show' also has a 24-hour bulletin board, where you can leave your dreams, comments and questions at any time. I check the bulletin board regularly for material to work with during the regular daily 'live' dream group.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbqawtay,
+        ns1:bcphbrw63cp ;
+    ns1:itemId "bcpov6zdeeps"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreaming Deep & Surfacing: Dreamwork Community in Cyberspace"^^xsd:string ;
+    ns1:urlSlug "dreamwork-community-in-cyberspace"^^xsd:string .
+
 ns1:bcpov6zditna a ns1:Post ;
     ns1:dateCreated "1983-06-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Carl Jung prophesized that the only chance our civilization has for avoiding nuclear holocaust is if enough individuals can stand the tension of opposites in themselves (Hannah, 1981, p.8); if we can, effectively, take responsibility for our dreams and inner lives. To most people living in our extraverted, materialistic father-culture<sup>1</sup> such a notion may sound strange, mad, or simply irrelevant. What powers can we find in our dreams which could help us overcome the dark momentum generated by military and political superstructures - those forces which "wield the powers of darkest hell and shake the land"? (Pearne, 1970) </p>
@@ -9292,8 +9340,10 @@ ns1:bcpov6zfdrum a ns1:Post ;
 
 <p><em>For more about Drum Dance &amp; Dream for Peace: the dreams, the global response &amp; the photographs, go to <a href="https://web.archive.org/web/20071022165903/http://worlddreamspeacebridge.org:80/drumming">www.worlddreamspeacebridge.org/drumming</a></em></p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3jean ;
+    ns1:hasAuthor ns1:bcphbq3jean,
+        ns1:bcphbqawern ;
     ns1:hasTag ns1:bcphbq3jean,
+        ns1:bcphbqawern,
         ns1:bcphbxm2y5p ;
     ns1:itemId "bcpov6zfdrum"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -12490,20 +12540,6 @@ ns1:bcphbrptpuy a ns1:Post ;
     ns1:profileImg "14.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "14.4"^^xsd:string .
 
-ns1:bcphbrw63cp a ns1:Post ;
-    ns1:coverImg "15.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1996-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_15/15.1-Dream-Network-Vol-15-No-1.pdf" download="">Download issue 15.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_15/15.1-Dream-Network-Vol-15-No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoa5us2e ;
-    ns1:itemId "bcphbrw63cp"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 15, issue 1: Dream-Inspired Communities"^^xsd:string ;
-    ns1:profileImg "15.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "15.1"^^xsd:string .
-
 ns1:bcphbsc3ttt a ns1:Post ;
     ns1:coverImg "16.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1997-01-01T11:32:52"^^xsd:dateTime ;
@@ -12998,6 +13034,34 @@ ns1:bcphbq3nrob a ns1:User ;
     ns1:name "Nancy Roberts"^^xsd:string ;
     ns1:profileImg "author-nancy-roberts.jpg"^^xsd:string .
 
+ns1:bcphbqawern a ns1:User ;
+    ns1:coverImg "cover-author-travis-wernet.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://thedreamingwell.com">thedreamingwell.com</a></p>
+
+<p>Individual and Group Dream Work based on twenty years of study and offering groups and sessions privately and publically. Travis is also an ordained Universal Life Minister and is currently earning a BA in Psychology through Oregon State University. He is the author of <a href="https://www.amazon.com/Dreaming-Well-Towards-Wholeness-Imagination/dp/0692796916">The Dreaming Well: Paths Towards Wholeness Through Dreams, Story, Song and the Imagination</a>.</p>
+"""^^xsd:string ;
+    ns1:handle "traviswernet"^^xsd:string ;
+    ns1:itemId "bcphbqawern"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Travis Wernet"^^xsd:string ;
+    ns1:profileImg "author-travis-wernet.jpg"^^xsd:string .
+
+ns1:bcphbqawtay a ns1:User ;
+    ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
+
+<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President in 1994-95. </p>
+
+<p>He is the author of <a href="https://www.amazon.com/Wisdom-Your-Dreams-Unconscious-Transform/dp/1585427543">The Wisdom of Your Dreams: Using Dreams to Tap Into Your Unconscious and Transform Your Life</a> (Penguin/Tarcher, 2009); <a href="https://www.amazon.com/gp/product/B005GJ7XGY">Living Labyrinth: Universal Themes in Myths, Dreams and Waking Life</a> (Paulist Press, Mahwah, NJ, 1998); <a href="https://www.amazon.com/gp/product/0446394629">Where People Fly and Water Runs Uphill: Using Dreams to Tap the Wisdom of the Unconscious</a> (Warner Books, New York, 1992); and <a href="https://www.amazon.com/gp/product/0809125250">DreamWork: Techniques for Discovering the Creative Power in Dreams</a> (Paulist Press, Mahwah NJ, 1983). He taught at schools of the Graduate Theological Union (Berkeley, CA) for over thirty years, and led workshops all over the US and Canada, as well as in Mexico, Peru, Greece, England, South Korea and China.</p>
+
+<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with permission from his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>. </p>
+"""^^xsd:string ;
+    ns1:handle "jeremytaylor"^^xsd:string ;
+    ns1:itemId "bcphbqawtay"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jeremy Taylor"^^xsd:string ;
+    ns1:profileImg "author-jeremy-taylor.jpg"^^xsd:string .
+
 ns1:bcphbqchalq a ns1:User ;
     ns1:coverImg "cover-craig-chalquist.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.chalquist.com">chalquist.com</a></p>
@@ -13162,6 +13226,20 @@ ns1:bcphbqvvall a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Valley Reed"^^xsd:string ;
     ns1:profileImg "author-valleyreed.jpg"^^xsd:string .
+
+ns1:bcphbrw63cp a ns1:Post ;
+    ns1:coverImg "15.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1996-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_15/15.1-Dream-Network-Vol-15-No-1.pdf" download="">Download issue 15.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_15/15.1-Dream-Network-Vol-15-No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoa5us2e ;
+    ns1:itemId "bcphbrw63cp"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 15, issue 1: Dream-Inspired Communities"^^xsd:string ;
+    ns1:profileImg "15.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "15.1"^^xsd:string .
 
 ns1:bcphbs4b6on a ns1:Post ;
     ns1:coverImg "17.1-cover.jpg"^^xsd:string ;

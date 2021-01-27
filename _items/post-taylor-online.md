@@ -11,7 +11,7 @@ type: post
 urlSlug: dreamwork-community-in-cyberspace
 ---
 
-A little while ago, I was approached by *America Online* (AOL) to host a regular, live, real time, virtual dream group, Monday through Friday at 9:00 a.m. Eastern Time. I agreed to give it a try, even though it means that I have to be bright-eyed and bushy-tailed and in front of my computer at 6:00am, Pacific Time... which up until now has *not* been my habit. 
+A little while ago, I was approached by *America Online* (AOL) to host a regular, live, real time, virtual dream group, Monday through Friday at 9:00a.m. Eastern Time. I agreed to give it a try, even though it means that I have to be bright-eyed and bushy-tailed and in front of my computer at 6:00am, Pacific Time... which up until now has *not* been my habit. 
 
 Initially, I had some reservations about working dreams through this distinctly cool and physically isolating medium: the Internet. When I imagined as carefully as I could what it might be like, I was particularly concerned that the flat and highly compressed computer communication format might inhibit the flow of imagination, relational intimacy and mutual respect so necessary for good dreamwork. 
 
@@ -31,7 +31,7 @@ In the virtual dream group, the host has even more influence over the process th
 
 Albert Einstein was fond of saying that "...if you can't explain what you are doing to an intelligent ten-year-old, you probably don't know what you are doing". This principle of simplifying and clarifying even the most abstruse and emerging intuitive understandings regularly comes into play in computer connected dreamwork. Some of the lyric poetry may be lost in the process but the haiku remains. If you, or anyone you know, is interested in participating in this fascinating new way of exploring the multiple meanings and possibilities of your dreams, here's how you can pull the group up on your screen:
 
-<div style="width: 300px; margin: auto; text-align: center">
+<div style="margin: auto; text-align: center">
 <p>Log onto <b>AOL</b></p>
 <p>Go to Keyword: <b>HUB</b></p>
 <p>Choose <b>ENTER</b></p>

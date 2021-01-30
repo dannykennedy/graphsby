@@ -11,11 +11,15 @@ tags:
 - hasTag: 8.4
 type: post
 urlSlug: jeremy-taylor-dreamwork-as-a-social-movement
+profileImg: post-bcpov6zdsocm-0.jpg
 ---
 
 *Jeremy Taylor was born in Newton, MA and raised in Buffalo, NY. He left home at age 15, going to the Virgin Islands where he learned scuba diving and cabinet making. For many years he was an avid motorcyclist. Jeremy enjoys writing poetry and drawing. He is a radical Unitarian Universalist minister and a community organizer with a deep faith and dedication to his ministry. His wife, Kathy, says that Jeremy is a 24 hour dreamworker. The Taylors live in San Rafael, CA with their daughter, Tristy, age 16. Jeremy is the author of **Dreamwork**, published by Paulist Press.* 
 
 *I talked with Jeremy in their home where his wife Kathy joined us. I find it delightful to be in their place. It is so cozy with little nooks and crannies filled with unusual objects collected from around the world. It contains so many treasured volumes that it looks rather like a sanctuary for books.*
+
+<img src="../images/post-bcpov6zdsocm-0.jpg" alt="Jeremy Taylor" width="350" height="auto"/>
+<div class="caption" style="text-align: center;"><i>Jeremy Taylor</i></div>
 
 **Jill:** When did you first start out in dreams? 
 

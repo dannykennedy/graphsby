@@ -9,11 +9,15 @@ tags:
 - hasTag: 15.1
 type: post
 urlSlug: dreamwork-community-in-cyberspace
+profileImg: post-bcpov6christ-1.jpg
 ---
 
 A little while ago, I was approached by *America Online* (AOL) to host a regular, live, real time, virtual dream group, Monday through Friday at 9:00a.m. Eastern Time. I agreed to give it a try, even though it means that I have to be bright-eyed and bushy-tailed and in front of my computer at 6:00am, Pacific Time... which up until now has *not* been my habit. 
 
 Initially, I had some reservations about working dreams through this distinctly cool and physically isolating medium: the Internet. When I imagined as carefully as I could what it might be like, I was particularly concerned that the flat and highly compressed computer communication format might inhibit the flow of imagination, relational intimacy and mutual respect so necessary for good dreamwork. 
+
+<img src="../images/post-bcpov6christ-1.jpg" alt="Jeremy Taylor" width="350" height="auto"/>
+<div class="caption" style="text-align: center;"><i>Jeremy Taylor</i></div>
 
 I decided to undertake a couple of trial runs before I agreed to host the show for AOL. Barbara Viglizzo, a colleague and former student of mine, offered to set up trial meetings in cyberspace and recruited several interested computer-competent dreamers. (Thanks, Barbara!). As we all met in cyberspace and began to do "...if it were my dream" style dreamwork, I was tremendously pleased and excited to discover that my fears were, if not groundless, at least exaggerated out of all realistic proportion. In fact, the emotionally and physically flat format of simultaneous computer chat among people in widely separated geographic locations appears to enhance many important elements that make group exploration of dreams so productive. 
 

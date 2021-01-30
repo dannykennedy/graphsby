@@ -499,6 +499,18 @@ ns1:bcphbq7rbsc a ns1:Post ;
     ns1:profileImg "13.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.4"^^xsd:string .
 
+ns1:bcphbqawern a ns1:User ;
+    ns1:coverImg "cover-author-travis-wernet.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://thedreamingwell.com">thedreamingwell.com</a></p>
+
+<p>Individual and Group Dream Work based on twenty years of study and offering groups and sessions privately and publically. Travis is also an ordained Universal Life Minister and is currently earning a BA in Psychology through Oregon State University. He is the author of <a href="https://www.amazon.com/Dreaming-Well-Towards-Wholeness-Imagination/dp/0692796916">The Dreaming Well: Paths Towards Wholeness Through Dreams, Story, Song and the Imagination</a>.</p>
+"""^^xsd:string ;
+    ns1:handle "traviswernet"^^xsd:string ;
+    ns1:itemId "bcphbqawern"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Travis Wernet"^^xsd:string ;
+    ns1:profileImg "author-travis-wernet.jpg"^^xsd:string .
+
 ns1:bcphbqdrrm2 a ns1:Post ;
     ns1:coverImg "12.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1993-01-01T11:32:52"^^xsd:dateTime ;
@@ -9719,10 +9731,8 @@ ns1:bcpov6zfdrum a ns1:Post ;
 
 <p><em>For more about Drum Dance &amp; Dream for Peace: the dreams, the global response &amp; the photographs, go to <a href="https://web.archive.org/web/20071022165903/http://worlddreamspeacebridge.org:80/drumming">www.worlddreamspeacebridge.org/drumming</a></em></p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3jean,
-        ns1:bcphbqawern ;
+    ns1:hasAuthor ns1:bcphbq3jean ;
     ns1:hasTag ns1:bcphbq3jean,
-        ns1:bcphbqawern,
         ns1:bcphbxm2y5p ;
     ns1:itemId "bcpov6zfdrum"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -13453,17 +13463,17 @@ ns1:bcphbq3nrob a ns1:User ;
     ns1:name "Nancy Roberts"^^xsd:string ;
     ns1:profileImg "author-nancy-roberts.jpg"^^xsd:string .
 
-ns1:bcphbqawern a ns1:User ;
-    ns1:coverImg "cover-author-travis-wernet.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://thedreamingwell.com">thedreamingwell.com</a></p>
+ns1:bcphbqawohl a ns1:User ;
+    ns1:coverImg "cover-author-jennifer-wohl.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.jenniferwohl.com/">www.jenniferwohl.com</a></p>
 
-<p>Individual and Group Dream Work based on twenty years of study and offering groups and sessions privately and publically. Travis is also an ordained Universal Life Minister and is currently earning a BA in Psychology through Oregon State University. He is the author of <a href="https://www.amazon.com/Dreaming-Well-Towards-Wholeness-Imagination/dp/0692796916">The Dreaming Well: Paths Towards Wholeness Through Dreams, Story, Song and the Imagination</a>.</p>
+<p>Jennifer Wohl, MA, LPC is a psychotherapist in private practice in Portland, Oregon, where she specializes in working with dreams, bereavement, and body-based psychotherapy. She has been working with dreams professionally since 2001 and has been writing down her own dreams since 1976. Her book, Keys to The House of Dreams: A Guided Workbook for Understanding Any Dream is available on Amazon: <a href="https://www.amazon.com/Keys-House-Dreams-Workbook-Understanding/dp/B089LYH1MZ/ref=sr_1_1?dchild=1&amp;keywords=Jennifer+wohl&amp;qid=1611853907&amp;sr=8-1">https://www.amazon.com/Keys-House-Dreams-Workbook-Understanding/dp/B089LYH1MZ/ref=sr<em>1</em>1?dchild=1&amp;keywords=Jennifer+wohl&amp;qid=1611853907&amp;sr=8-1</a></p>
 """^^xsd:string ;
-    ns1:handle "traviswernet"^^xsd:string ;
-    ns1:itemId "bcphbqawern"^^xsd:string ;
+    ns1:handle "jenniferwohl"^^xsd:string ;
+    ns1:itemId "bcphbqawohl"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Travis Wernet"^^xsd:string ;
-    ns1:profileImg "author-travis-wernet.jpg"^^xsd:string .
+    ns1:name "Jennifer Wohl"^^xsd:string ;
+    ns1:profileImg "author-jennifer-wohl.jpg"^^xsd:string .
 
 ns1:bcphbqchalq a ns1:User ;
     ns1:coverImg "cover-craig-chalquist.jpg"^^xsd:string ;

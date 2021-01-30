@@ -769,20 +769,6 @@ ns1:bcphbu6vnbl a ns1:Post ;
     ns1:profileImg "21.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "21.2"^^xsd:string .
 
-ns1:bcphbuj7fdh a ns1:Post ;
-    ns1:coverImg "19.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2000-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.3-Dream-Network-Vol-19-No-3.pdf" download="">Download issue 19.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.3-Dream-Network-Vol-19-No-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobmu4ep ;
-    ns1:itemId "bcphbuj7fdh"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 19, issue 3: Dreams & Religion"^^xsd:string ;
-    ns1:profileImg "19.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "19.3"^^xsd:string .
-
 ns1:bcphbupdomk a ns1:Post ;
     ns1:coverImg "20.1-2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2001-01-01T11:32:52"^^xsd:dateTime ;
@@ -880,6 +866,184 @@ ns1:bcphbyl3dut a ns1:Post ;
     ns1:name "Volume 29, issue 1: Healing"^^xsd:string ;
     ns1:profileImg "29.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.1"^^xsd:string .
+
+ns1:bcpov6christ a ns1:Post ;
+    ns1:dateCreated "2001-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6christ-0.jpg" alt="Face of Jesus" width="350" height="auto"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i>'Face of Jesus' by Noreen Wessling, from Dream Treasure Cards</i></div><!--/nopreview--></p>
+
+<h3>The Universality of Dreams, Revealing "God's Will"</h3>
+
+<p>The sacred narratives of the world are united and speak with one voice on this question: we human beings are more directly connected and in deeper communion with the Divine in our dreams than in any other regular state of conscious awareness. This archetypal connection between dreaming and communion with the Divine is made in the Jewish and Christian scriptures, just as it is in the sacred narratives of all the other world religions. The Torah, the canonical Old and New Testaments, as well as the Jewish and Christian Apocryphal, all relate compelling stories of "God's Will" being revealed to people in and through their dreams. </p>
+
+<h3>The Prohibition Against Dreamwork</h3>
+
+<p>And yet, in virtually all contemporary institutional Jewish and Christian religious practice, remembering and exploring dreams is either clearly prohibited, or at least strongly discouraged. On the face of it, this is a very odd state of affairs. </p>
+
+<p>I believe this ironic circumstance is a direct consequence of the fact that all dreams come in the service of health and wholeness. It is precisely because the authority of Divine Revelation through dreams is so clearly attested to in Scripture that the institutional churches and synagogues almost always find it necessary to discourage and prohibit dreamwork. If it were not prohibited, it would be all too possible for anyone, the scruffier and more malcontent the better (since the archetypal figure of the prophet regularly presents an image of scruffiness and malcontentness) to speak up from the back row of any congregation, any Friday night, or any Sunday morning, and say, "I had a Divinely inspired dream last night, and God told me to tell all of you...!" And with that, fueled by the undeniable authority of direct dream inspiration from God enshrined in Scripture, whatever "heresy" was spawned by last nights' dreams would be off and running, because no merely human authority in any merely local pulpit would be able to stand against it with equal force. </p>
+
+<p>It is precisely because the scriptural authority of dream inspiration directly from God is so strong that in order to preserve what Presbyterians like to call "decency and good order", it has been seen as necessary, over and over again, in the history of institutional religious practice to disparage and marginalize dreamwork. </p>
+
+<p><img src="../images/post-bcpov6christ-1.jpg" alt="Jeremy Taylor" width="350" height="auto"/></p>
+
+<div class="caption" style="text-align: center;"><i>Jeremy Taylor</i></div>
+
+<h3>The Brief Resurgence of Protestant Dreamwork</h3>
+
+<p>At the end of the Middle Ages when the Protestant reformation rejected the traditional episcopal authority of the Bishop of Rome, there was a brief reassertion of seeking direct divine inspiration through dreams as the Bible suggests so clearly, but the various warring bands of Protestants soon discovered what the Roman Catholic predecessors had already learned - that dreams are the natural enemies of rigidity and dogma, and regular attention to dreams inevitably tends to undermine social arrangements that rely on and perpetuate dogmatic formulations of religious and spiritual truths. </p>
+
+<p>Even when the original spiritual inspiration for a dogmatic formulation comes directly from compelling dreams and waking visions and directly reflects archetypes of the collective unconscious to begin with, subsequent dreams always continue to come in the service of even greater wholeness and spiritual vitality, inevitably pointing out ways in which the dogmatic formulation is prematurely closed and incomplete. </p>
+
+<h3>The Archetype of "Willing Sacrifice"</h3>
+
+<p>Like dreaming, the archetype of "Willing Sacrifice" is also found at the center of virtually all sacred narratives around the world. Christianity stands among the other world religions, not above them, in giving concrete historical and institutional religious shape to the archetype of "Willing Sacrifice". </p>
+
+<p>From a psychological point of view, "Willing Sacrifice" also reveals the primary structure of the drama of evolution. It reflects the basic symbolic shape of the continuing growth and development of the drama of evolution. It reflects the basic symbolic shape of the continuing growth and development of human consciousness, both individual and collective. In order to go on growing and evolving, every person (and every society) must consciously and "willingly" relinquish the hard won achievements of self-image and self-awareness of past experience in order to be truly open to the possibilities of new life and evolving consciousness. </p>
+
+<h3>Willing Sacrifice &amp; the Dilemmas of Parenthood</h3>
+
+<p>One of the classic dilemmas of parenthood provides a clear example of the existential shape of this archetypal drama. It is generally understood that it is the job of a good parent to protect a young child from inappropriate and premature sexual knowledge and experience, but at some point, that same good parent must "reverse field" completely and provide and promote appropriate sexual information to the growing pre-adolescent whom the young child inevitably becomes. This necessary transformation of previous consciousness, self-definition, and behavior requires the parent to willingly and consciously give up specific ways of "being a good parent" to a small child, in order to cultivate new ideas and behaviors that reflect "being a good parent" to a pre adolescent.</p>
+
+<p>Knowing exactly when this dramatic shift of archetypal parenting responsibilities is appropriate and necessary is one of the most poignant dilemmas and struggles of parenthood. It is also a moment that is always announced well in advance in the dreams of both parents and children. This is only one example of how cultivating the habit of family dream sharing can be one of the best and most easily available means of successfully overcoming miscommunication and lovingly bridging the "generation gap."</p>
+
+<h3>Dreams, Willing Sacrifice, &amp; Individuation</h3>
+
+<p>This is only one relatively clear example of the archetypal drama of "Willing Sacrifice" that repeats itself in symbolically similar ways, like an endless spiral, at each stage of developing psycho-spiritual maturity. Carl Jung called this universal process of human development "individuation". At each step of the way, previous achievements of self-awareness must be let go consciously in order for authentic growth and development to take place. The more conscious and self-aware one has become, the more conscious ("willing") this "letting go" (sacrifice) must be, each time it takes place. This is a process of metaphoric death and rebirth that leads to greater and greater psycho-spiritual maturity. Our dreams come regularly and give compelling symbolic and metaphoric shape to our interior psychospiritual unfoldment, and the ever expanding possibilities of communion with the Divine. No matter how complex and challenging their messages may be, we can not afford to ignore them.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbqawtay,
+        ns1:bcphbuj7fdh ;
+    ns1:itemId "bcpov6christ"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreams & Christianity"^^xsd:string ;
+    ns1:profileImg "post-bcpov6christ-0.jpg"^^xsd:string ;
+    ns1:urlSlug "dreams-and-christianity"^^xsd:string .
+
+ns1:bcpov6ctpuff a ns1:Post ;
+    ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6ctpuff-0.jpg" alt="Dragon" width="auto" height="auto"/></p>
+
+<p>Any dream in the midst of which the dreamer has the clear thought, "Oh, I get it! This is a dream," is said to be "lucid". In a lucid dream, the dreamer recognizes the true nature of the experience as it is taking place. In the lucid dream state the" awakened" dreamer can generate amazing insights and release extraordinary creativity. Old habits can be transformed, creative energies can be mobilized and directed, problems can be solved and transcended, denials and repressions can be raised to consciousness and withdrawn, and confusing feelings, emotions and intuitions can be clarified and harmonized. </p>
+
+<p>All of these marvelous things are also accomplished by remembering and working with ordinary, non-lucid dreams. fn lucid dreams, however, this healing work is sometimes woven dramatically into the dream itself, radically and "magically" extending the range and possibility of dreaming experience. </p>
+
+<p>For example, a man (I will call him "Alex") dreamt: </p>
+
+<blockquote>
+  <p><em>I am fleeing from a firghtening, fiery dragon through a scorched and charred and still smouldering landscape. I run and run, until the magical moment of realization that this is all a dream! I suddenly "get it", that my terror and the pursuing monster and the whole scene are simply things that are happening in my dream. At that point, I turn and face the dragon and demand to know what he is doing in my dream.</em></p>
+  
+  <p><em>The fire-breathing dragon stops and replies telepathically "I am your smoking addiction!" As the monster 'speaks', I have an ironic appreciation of how ironic and even funny it is for my smoking addiction to appear in my dream as a "fire-breathing dragon".</em></p>
+  
+  <p><em>At that moment of lucid realization, the dragon suddenly seems to change. It doesn't really look any different, but its 'expression' seems to change. It isn't so scary any more.</em> </p>
+  
+  <p><em>It begins to look winsome, almost charming – ‘Puff the magic dragon’ – more like a big, old familiar, friendly family dog than a menacing, deadly fire-breather.</em></p>
+  
+  <p><em>My lucidity allows me to look even more closely at the ‘transformed’ monster, and I see clearly that there is a nasty, sticky brown slime covering its entire body, and that noxious smoke is oozing and sputtering from every orifice, even from around its eyes, and from under and between its scales. I smell this awful, rancid, repulsive odor coming from it. My revulsion returns, and in the dream I look at it and say with all my heart, ‘Get away from me! I no longer want you in my life!’</em></p>
+</blockquote>
+
+<p>When he awakened, Alex was amazed to discover that he no longer craved the sensation of smoke in his lungs. Perhaps even more importantly, the desire for the instant and reliable sense of "companionship" that smoking had always given him was also gone. He has not gone back to smoking since the dream. </p>
+
+<p>By creating such a compelling image combining both the negative and positive elements of the addiction, his dream allowed Alex to recognize these previously unacknowledged dynamics with full <em>emotional</em> awareness. The "fire-breathing dragon" suddenly appears like a "big old familiar friendly family dog." Alex's decision, "I no longer want you in my life," was made in such a way that it "stuck". That is because it was made with full consciousness, directly in the face of the "old friend" with full emotional awareness of the "comfortable, reliable relationship" he was giving up. </p>
+
+<p>As the dream symbolically depicts, a crucial part of Alex's addiction to cigarettes was emotional. It was centered in a preconscious fear of loneliness. One of the reasons that it had been so hard for him to quit prior to the dream was the illusion of control "lighting up" provided when feelings of loneliness appeared. His failure to consciously recognize and appreciate this dynamic component of his addiction also appears to have been the main stumbling block to "kicking the habit." Another implication of the lucid dream thought that the addiction is "like a .... family dog" is that his smoking habit may have been unconsciously fostered in his family of origin. During childhood, Alex may have been predisposed to smoke addictively by watching and being emotionally drawn into parental and sibling substance addictions and denials. In any case, the illusory emotional security that smoking provided had to be consciously <em>acknowledged</em> before it could be consciously <em>relinquished</em>. Without becoming conscious of these previously hidden emotional dynamics of the addiction, Alex's desire to be free of his noxious smoking habit could not lead to decisive action. </p>
+
+<p>In my experience, such instances of spontaneous lucidity in dreams occur most often in association with corresponding moments of "lucidity" in waking life. When a person realizes that his or her true circumstances are in fact substantially different from what he or she had always supposed, then that person is likely to experience a spontaneous lucid dream. In such a dream, the true nature of the sleeper's experience-i.e. that it is really a dream-is consciously recognized in a way that reflects the sort of realization about what's really going on in waking life. Most often, this happens when a person withdraws a set of habitual projections in a waking-life situation.</p>
+
+<p><img src="../images/post-bcpov6ctpuff-1.jpg" alt="Dragon" width="300" height="auto"/></p>
+
+<p>An addiction is any habitual activity that insulates a person from full, conscious experience of his or her feelings and emotions. Addiction can involve various substances and emotional/sexual encounters, but for some people, prayer and good works also serve an addictive purpose. It doesn't matter what the activity is, only whether it functions to diminish the conscious impact of feelings and emotions. Dreams, because they come in the service of health and wholeness, point to the true addictive nature of even the most "laudable" behaviors when they serve this emotion-denying purpose. As Alex's dream suggests, dreams can also provide a venue for withdrawing denials and self-deceptions... and thus, for overcoming addictions.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbpntuo4,
+        ns1:bcphbqawtay ;
+    ns1:itemId "bcpov6ctpuff"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Puff the Magic Dragon: Kicking the Smoking Habit, One Lucid Dreamer's Experience"^^xsd:string ;
+    ns1:profileImg "post-bcpov6ctpuff-0.jpg"^^xsd:string ;
+    ns1:urlSlug "kicking-the-smoking-habit-with-lucid-dreams"^^xsd:string .
+
+ns1:bcpov6ctraum a ns1:Post ;
+    ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<h3>1st Principle: There Is No Such Thing as a Bad Dream</h3>
+
+<p>The most important thing that I have learned in the course of more than thirty years of professional work as a community organizer and dreamworker is that ALL dreams come in the service of health and wholeness and speak a universal language. Even the most terrible, gut-wrenching, heartstopping nightmares come to give us urgent warning that there is something going on that threatens our authentic lives. The nastier the experience of the nightmare is, the surer we can be that the warning it brings is urgent and important. If we remember the dream—and who can forget the worst nightmares? They force themselves onto our awareness whether we want to experience them or not—then the fact that the dream has been remembered at all means that we, the dreamers, have the ability to deal creatively and effectively with all the issues that the dream presents in symbolic form.</p>
+
+<p>In other words, no dream—not even the worst nightmare—ever comes to anyone to say, "Nyeah, nyeah, you've got these problems and there's nothing you can do about them...!" If the nightmare is remembered, then the dreamer(s) can do something positive about all the issues that the dream(s) raise. This general truth about the symbolic, metaphoric world of dreams applies equally to our collective nightmares of history and current events, as well as to the more personal nightmares that disturb our individual sleep.</p>
+
+<p>All nightmares, both individual and collective, present us with the ironic gift of forcing our attention to crucially important things in our lives that we have ignored or overlooked - things that threaten our individual and collective health, safety, and essential character.</p>
+
+<h3>Nightmares &amp; the Nuclear Menace: A Case in Point</h3>
+
+<p>Currently, Currently our attention has been focused on the collective nightmare of terrorism, particularly the terrorist attacks on America fueled by fanatical, Wahhabist Islamic fundamentalists. The possibility that Al Qaeda, or the Islamic Jihad, or any of a number of other fundamentalist terror organizations may gain possession of a nuclear device—perhaps a blackmarket bomb from the nuclear arsenal of the collapsed Soviet Union—makes the nightmare menace of terrorism even greater. The worldwide proliferation of nuclear technology makes the possibility—alas, the likelihood, of nuclear attack and/or nuclear industrial safety failure—either through terrorist sabotage or simple industrial planning error—an abiding and pervasive dread for us all.</p>
+
+<p>The clearly demonstrated worldwide consequences of nuclear disaster, as the winds carry the lethal fallout around the globe, eventually spreading it from pole to pole, make the inescapable point: we are all equal, equally vulnerable and equally at risk... in the shadow of the radioactive cloud.</p>
+
+<p>Ironically, in the short historical space of fifty-six years, the nightmare of nuclear menace has succeeded where four thousand years of religious and spiritual teaching and preachment have failed. It is now recognized as a concrete, hardheaded, inescapable truth: the people of the world are one folk. We are one family, sharing one house. What used to be seen as pious rhetoric and liberal wishful thinking has been transformed by the nightmare of nuclear menace into an inescapable reality that must be taken into account in all our strategizing and long range planning.</p>
+
+<p>This is always the way nightmares deliver their paradoxical, coercive messages of health and wholeness, even as they point down the road to misery and death. The nightmares come to warn: "Do not continue down this path! You can see more clearly now where it inevitably leads...!"</p>
+
+<h3>What Hidden Message of Health &amp; Wholeness Could Possibly Lie Hidden in the Terrorist Attacks?</h3>
+
+<p>There is, I believe, a similar incongruous but crucially important message hidden in the horror on the September 11th terrorist attacks. For several generations there has been a growing sense in the West, and the world in general, that the acts of ordinary, anonymous, individuals are relatively insignificant, and that the economic and geopolitical forces that shape history are so vast and complicated that they are beyond our ability to comprehend, let alone our ability to shape and influence. The terror attacks of September 11th demonstrate beyond question that the acts of relatively ordinary and anonymous individuals <em>can</em> shape history - albeit in a horrifying, destructive way. The task that faces all of us now is to search out the corresponding creative and positive acts of courageous individuals that will serve as the counter-balance to the perverted ingenuity of the fanatical, suicidal hijackers.</p>
+
+<p>Once again, paying attention to our own and others' dreams is the single best way I know to access and stimulate the archetypal creative impulse that resides in our unconscious depths. We human beings have blunderingly created this situation where suicidal fanaticism endangers the peace of the world; we can search into our unconscious depths to find the innovative and creative solutions to these problems as well.</p>
+
+<h3>Unconscious Forces Influence &amp; Shape Our Conscious Actions</h3>
+
+<p>The ways we respond to the major events of our lives—both personal and collective—are shaped by the symbolic quality of those events. We respond to happenings and events in the outer world with the same pent-up unconscious emotions and energies that are associated with our own personal lives and struggles... the very same emotions and energies that shape our dreams. To the extent that outer events— both joyous and tragic—evoke and share the symbolism of our own evolving, internal issues and dilemmas, we "see" those external events in a particular light and interpret their meaning in particular ways. This is the main reason why different people respond to the same or similar situations in different ways.</p>
+
+<p>The issues and dramas that are working themselves out in both our individual and collective psyche are always reflected in our dreams, remembered from sleep. These interior dramas shape our waking world and to the extent that we are unconscious of their deeper meanings, we feel "trapped" and "helpless" in our waking lives. Our dreams give us an exquisite symbolic picture of what is going on inside and how this ongoing interior drama reflects and projects itself out into our waking opinions and actions. </p>
+
+<p>Attention to our own and other peoples' dreams at times of national crisis can be particularly useful in bringing to light the unconscious emotions and energies that are distorting and twisting our waking perceptions and decisions. Because our unconscious feelings and ideas inevitably shape our waking attitudes and behaviors, we need to be as honest with ourselves as possible... particularly in these moments of national crisis.</p>
+
+<p>If we are to make our way through the maze of conflicting emotions and harsh collective pressures to find some sort of real and productive response to this concerted attack on us and our way of life, we must look within at the very moment when the shouting crowds are demanding that we look only outside ourselves. The best way I know of to do this is to listen to the counsel of our own dreams, and listen with renewed attention to the dreams of others.</p>
+
+<h3>Cherishing the Right &amp; Responsibility of Independent Thought</h3>
+
+<p>It is often said that "the first casualty of war is the truth", but in fact, the first casualty is the easy ability to think, imagine, and act independently. These are the basic activities that form the foundation of democracy. American patriotism demands a great deal of us. True patriotism for Americans who believe in democracy and freedom demands of us that we continue looking within and thinking for ourselves, and that we demand that our elected leaders do better than make up "wars" that are essentially misguided and un-winnable.</p>
+
+<p>We must demand that they do the difficult work of devising strategies to deal with the horrifying rise of organized crime fueled by religious fanaticism. The tired old plan to "kill 'em all and let God sort 'em out" simply will not work. We all must do better than that.</p>
+
+<h3>The Spiritual Necessity for "Alchemy" in Our Lives &amp; in Our Dreams</h3>
+
+<p>There are great dividends in paying attention to our dreams in periods of crisis such as we are currently experiencing. All such moments of crisis and stress call forth difficult spiritual questions from our depths. "How can an All-Powerful and All-Good God allow such evil horrors to happen?" is certainly one of them. Another one is: "How can I maintain a cheerful, active, creative belief in the inherent worth of the good and the just when evil, violence, and criminal stupidity seem so much more powerful than the gentle, intelligent truth?" </p>
+
+<p>A universal, archetypal answer to these perennial psycho-spiritual questions has long been found in "alchemy". The great symbolic truth of alchemy is that "base matter" can (and must) be transmuted into "gold." In this archetypal symbol drama, "gold" is an image of deeply felt, reliable spiritual perspective, and "base matter" (often appearing literally in dreams as excrement or "shit"... the "worst" in ourselves) is an emblem of the worst things that we have ever experienced, either directly or vicariously. </p>
+
+<p>It is precisely these "worst things" that must become the center of our psycho spiritual efforts to grow and mature. Unless we can develop spiritual understandings that deal adequately with finding meaning and spiritual communion in the midst of the worst things in our lives—individually and collectively — we will reach our death beds with the experience/ memory of the "worst things" in one hand, and a spiritual perspective carefully crafted to avoid the worst things in the other. And the only possible result of such an impasse, short of the operations of "grace," which is a very real force in the universe, and cannot be manipulated or predicted—is emptiness, misery, and despair.</p>
+
+<p>We must face the worst things with clear consciousness, and in that encounter bring the inherent, archetypal potential for psycho-spiritual transformation into waking reality. When a person dreams of "shit," it is most often an indication that he/she is being forced to relinquish the illusory comforts of denial and self deception in waking life. Being forced to admit consciously just how bad things really are is never pleasant in the short run (just as the archetypal "shit dreams" are almost never pleasant), but in the longer run, giving up denial, facing and dealing with the "shit" of our lives as it actually is, is exactly what the dreamer has to do in order to forge an adequate spiritual perspective. </p>
+
+<p>The ongoing fundamentalist/terrorist attack on the West in general and the United States of America in particular is certainly at the top of the list of "worst things" that we must come to grips with these days. Hopefully, we can do this without losing our tenderest and best energies and possibilities. Our dreams are working overtime to wrestle with this "alchemical" question.</p>
+
+<h3>A Transformative, Archetypal, Alchemical Dream</h3>
+
+<p>The night of the terrible attacks of September 11th, a young woman of my acquaintance who was visiting in New York City at the time—and who stood that day, watching the World Trade Center collapse and burn, not knowing if her childhood friend who worked on the 32nd floor of Tower Two had escaped or not — had a dream:</p>
+
+<blockquote>
+  <p><em>I find myself in the midst of forest that has been clearcut... nothing but great big stumps in all directions as far as I can see. I am devastated. I am weeping. I walk through the destroyed landscape asking myself, "Who could DO such a thing?" Then I am drawn to stop and look at the spiral pattern in one of the stumps. I realize how very old this forest was and it makes me even more filled with grief at the loss of this beautiful old forest. Then I begin to be drawn down into the spiral. As I sink down into the spiral and into myself, I realize that this is a part of the tree that I almost never get to see. I am drawn more and more deeply into the spiral... down into a place of myself that is so wise, and calm, and deep that it is simply greater than my intense grief and the horror.</em></p>
+</blockquote>
+
+<p>“There is more, but I can't remember any more than that... . I awakened from the dream with a sense of calmness and clarity that allowed me to get through the next day, even with all my friends freaking out..." </p>
+
+<p>My in-box has been filled to the brim since September 11th with accounts of precognitive dreams "predicting" the terrorist attacks. With all of those fascinating dreams, this young woman's dream remains the most interesting and compelling dream I have heard thus far related to the terrorist attacks and the ongoing threat to our collective way of life. It is an "alchemical dream". It turns the worst thing into an occasion for communion with the Divine; it "turns the shit into gold" before our very eyes as we imagine it. It is such a startling dream because it makes it clear that the (archetypal) spiral of the growth rings that serves as a pathway to the perception of the deepest truth and beauty would not be visible if the tree had not been cut down. </p>
+
+<p>At one level, it is a metaphor of doing the psychospiritual work necessary to be a person in whom such a metaphor of healing can rise to consciousness. At another level, it also implies that this experience of the Divine is possible by looking at the "spiral" revealed in the stumps of any of the clear-cut trees. This is not just an exclusive, personal revelation; it is a metaphor of collective transformation of feeling and understanding, potentially available to all. </p>
+
+<p>This dream is a concrete example of the psychospiritual truth that it is often through our worst wounds and injuries, both individual and collective, that we are opened to the archetypal possibilities of healing, and of more direct communion with the Divine. One does not have to be wounded to be opened to these energies of transcendence, but for those of us who are deeply injured by life, our anguish itself opens us to these profound possibilities. </p>
+
+<p>My personal conviction, born of more than thirty years of experience doing dreamwork, is that no dreamer would be able to remember such a dream if he/she had not done the requisite personal, interior, psycho-spiritual work to discover and awaken those same archetypal healing energies within. The metaphor the dream offers is so simple, so lucidly clear, even a small child could grasp the paradox without difficulty: the very thing that caused the horror—cutting down the beautiful old forest—is what makes this particular pathway to the experience of the Divine open up and become available. </p>
+
+<p>This is a potentially healing and transformative dream for all of us. May we each find our way to the recovery and reconciliation promised and implied by our own ability to imagine this dream for ourselves... if only for a moment. Let us all continue to dream our lives forward into the uncertain future with all the courage and creativity that is our birthright, both as Americans born to freedom, and as human beings living together as best we can in the one tragically beautiful world we all share. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbqawtay,
+        ns1:bcphbuzcgu3 ;
+    ns1:itemId "bcpov6ctraum"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreamwork & Collective Trauma: Unconscious Elements in Public Debate"^^xsd:string ;
+    ns1:urlSlug "dreams-and-christianity"^^xsd:string .
 
 ns1:bcpov6g282-3 a ns1:Post ;
     ns1:dateCreated "2008-01-01T11:32:52"^^xsd:dateTime ;
@@ -7753,6 +7917,49 @@ ns1:bcpov6trowi2 a ns1:Post ;
     ns1:profileImg "post-bcpov6trowi2-0.jpg"^^xsd:string ;
     ns1:urlSlug "dream-wizard-an-interview-with-bob-trowbridge"^^xsd:string .
 
+ns1:bcpov6uality a ns1:Post ;
+    ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6uality-0.jpg" alt="Art by Angela Mark, two people holding hands under the sun" width="350" height="auto"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i>Art by Angela Mark</i></div><!--/nopreview--></p>
+
+<p>One of the most important legacies of Sigmund Freud, the great 20th century pioneer of dream exploration and father of the contemporary dream work movement, is his idea that ALL dreams, no matter how innocent and innocuous they may appear to be at first glance, carry significant layers of meaning related to the dreamer's sexuality and repressed sexual longings. Using the contemporary dreamer's "aha!" of recognition-which in my view is the only reliable touchstone in the search for and verification of the deeper meanings of dreams below the surface of obvious appearance-it regularly turns out that Freud was quite right! At least to this extent: contemporary dreamers blush, and stammer, and shift around in their seats, and otherwise confirm the symbolic sexual nature of their seemingly "nonsexual" dream experiences on a regular basis. </p>
+
+<p>In the dream world, going through a door turns out to be sexual... not going through a door turns out to be sexual. Swimming in dreams is sexual. Eating in dreams is sexual. Using a sewing machine in a dream is extremely sexual, even if the dreamer uses a sewing machine in waking life without being consciously aware of its sexually charged quality... In fact, any list of this kind of "sexual imagery in dreams" is endless because everything in a dream has sexual overtones, undertones, and implications... among other things. </p>
+
+<p>These layers of sexual symbolism may not be the most important or significant layers of meaning in any given dream, but they are always present. All dreams carry these layers of sexual resonance, along with many others, including symbolic reflections of the dreamer's physical health, his or her emotions, past influences, concerns about the future, "day residue," creative problem solving, etc... to name only a few of the most obvious. It is this inherent, "over-deter- mined", "multi-vocal" quality of dreams that makes working with them in groups-where participants are encouraged to share their projections and potential insights, such a rewarding and productive experience-and makes working with one's own dreams in solitude such a problematic technique. Working with one's dreams in solitude is a noble and necessary occupation but, in the long run, without help from others, the self-generated "aha!"s of the dreamer alone will inevitably cluster up along the lines of what he or she already knew and believed to begin with, and no dream ever comes just to tell the dreamer what he/she already thinks or knows consciously. Among the multiple layers of meaning and significance that are always present in every dream, there is always something new or novel and it is precisely these layers of innovative, fresh possibility that the solitary dreamer has the greatest difficulty recognizing without the help of others. </p>
+
+<p>Whenever a dreamer dreams of some sort of overt, explicit sexuality and sensual encounter, most contemporary dream workers are inclined to take these images and experiences more or less at face value, assuming that they merely emphasize the already sexual implications of the dreaming experience. In practice, we tend to explore the sexual/relational aspects of such dreams with even more zeal and attention. This often generates interesting and valuable "aha's!" of insight, but it also tends to miss perhaps the most important point: these overtly sexual images and experiences are themselves symbolic of other, often even deeper orders of longing. </p>
+
+<p><img src="../images/post-bcpov6uality-1.jpg" alt="Two people embracing around a tree" width="300" height="auto"/></p>
+
+<div class="caption" style="text-align: center;"><i>Art by Angela Mark</i></div>
+
+<p>We human beings appear to be inherently predisposed to symbolize the deepest and most persistent longings in our lives as sexual/ relational feelings and desires. This seemingly universal connection and symbolic resonance between "sex" and other kinds of "deep longing" is just one example of the innate human predisposition to generate particular kinds of symbols in relation to particular kinds of experience. Carl Jung suggests that these repeating, cross-cultural tendencies reveal "archetypes of the collective unconscious," or "repeating patterns of the objective psyche". </p>
+
+<p>Overt sexuality and sensuality in the dream world tend to resonate with the other "universal" longings that characterize the human condition, most particularly the desire to live lives in harmony with patterns and structures of meaning and significance that transcend mere personal comfort or discomfort. All humans-no matter how cynical and nihilistic we may pretend or appear to be-have a deep, inescapable hunger to believe that our lives, joys and sufferings mean something. I would call this universal longing "spiritual" (although I admit that the word "spirituality" is swiftly becoming somewhat tacky and shopworn through overuse in the "New Age" movement, I have been unable to find an adequate replacement for the word "spiritual"). </p>
+
+<p>Frustrated before completion, it is often a symbolic reflection of a waking experience in which the dreamer felt the possibility of a "spiritual moment," but for whatever reason chose to ignore it, not follow through and experience or explore it more fully. The "opinion of the collective unconscious" (if one may use such a metaphor), appears to be... that to actually find intimations of the (archetypal) "beloved", and not give oneself wholly and ecstatically to the encounter, is like meeting the longed-for potential life partner and not experiencing the culmination of that desire. I remember one theological school student who reported such a dream and in the ensuing discussion told a story about feeling "the Presence of the Divine" while sitting in the Berkeley City Rose Garden and then hurrying away, rather than giving herself fully to the moment, because she was "afraid she would be late for her class in the Medieval Mystics... "In retrospect, the irony highlighted by the dream was inescapable...</p>
+
+<p>Conversely, when a dreamer experiences one of his/her unique versions of the archetypal "ecstatic orgy" dream, it is most often associated with having such an intuition of the immanence of the Divine in waking life and allowing that experience to take precedence over the mundane schedule and responsibilities of non-ecstatic, ordinary existence. It also suggests that the dreamer has found satisfactory answers and experiential solutions to his/her most pressing religious and spiritual questions and uncertainties. The archetypal dream of ecstatic sexual encounter often reflects a hard-won psycho-spiritual maturity that transcends "the problem of Evil," and the limitations of the traditional "Sin and Salvation" view of the Divine. </p>
+
+<p>The archetypal "rape" dreams often suggest a third scenario in waking life: that the dreamer has experienced such a moment of awakening spiritual possibility, but in a context that is unusual or unexpected. Rather than transcend the boundaries of conventionality and habit, the person "shifts" the sense of wonder and possibility by an act of will and focuses it on a more familiar, conventional, and "socially acceptable" practice. Many times, I have heard such dreams from theological students, accompanied by stories from their waking lives of encountering exotic spiritual practices which the student found strangely fascinating and attractive. These dreamers often report moments of shock in the midst of the experience, accompanied by thoughts like: "Hey! Wait a minute! I didn't come to seminary to become a Buddhist! I came here to become a better Presbyterian (or Lutheran, or Catholic, Episcopalian, or... )! I'm going to turn my attention back to the spiritual practices of my own tradition and focus this sense of exciting spiritual possibility there, where it belongs...!" Unfortunately, (or fortunately, depending on your point of view), the "opinion of the collective unconscious" appears to be that manipulating one's spontaneous spiritual/intuitive awareness by acts of will and "faith" in this fashion is tantamount to "rape". It's not that communion with the Divine does not take place in manipulated and consciously controlled situations like this, but the (symbolic sexual) connection is more like "rape" than "making love." </p>
+
+<p>In my experience-which now extends more than 30 years, and includes working with many "rape dreams"-even when these dreams have levels of reference to actual sexual/relational abuse in the dreamer's waking life, there is always an important level of meaning associated with the impact of these experiences on his/her sense of spiritual possibility and connection. Even if such dreams are pointing to the release of previously amnesic memories of childhood sexual abuse-a situation that is, alas, all too common-these dreams also point to an even deeper level, where the impact of that abuse on the dreamer's psycho-spiritual development is also symbolically described. There is nothing like being betrayed by an adult to predispose a person to fear and mistrust "spiritual authorities" and potentially "overwhelming" spiritual experiences as an adult. </p>
+
+<p>The good news is that all dreams come in the service of health &amp; wholeness, even the nasty, explicit dreams of rape and coercion. No dream ever comes to say, "Nyeah, Nyeah - you have these problems and there's nothing you can do about them!" If a dreamer remembers a dream with the manifest content of nasty, coercive sexual encounter-or any distressing, "nightmarish" content, for that matter-then the very fact that the dream has been remembered means that the dreamer is actually capable of dealing positively, creatively, and transformatively with all the issues that the dream raises. If the dreamer were actually unable to deal with the issues symbolically evoked by the dream, then he/she simply would not have remembered the dream in the first place. </p>
+
+<p>For these reasons, it is always worth paying particular attention to dreams that present manifest sexual and sensual content and asking whether or not they offer symbolic reflections of the dreamer's spiritual search, and his or her longings for a more meaningful life. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbqawtay,
+        ns1:bcphbugth7l ;
+    ns1:itemId "bcpov6uality"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Sexuality in Dreams: Some of the Deeper Meanings Regularly Implied through Overtly Sexual Imagery & Experience in Dreams"^^xsd:string ;
+    ns1:profileImg "post-bcpov6uality-0.jpg"^^xsd:string ;
+    ns1:urlSlug "sexuality-in-dreams"^^xsd:string .
+
 ns1:bcpov6wbyg5 a ns1:Post ;
     ns1:dateCreated "1977-06-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img class="card-journal-img" src="../images/welcome-to-the-magic-theater-rect.jpg"/><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.welcome-to-the-magic-theater.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.welcome-to-the-magic-theater.pdf">View online</a></p></p>
@@ -12614,20 +12821,6 @@ ns1:bcphbnodjs2 a ns1:Post ;
     ns1:profileImg "7.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.3"^^xsd:string .
 
-ns1:bcphbpntuo4 a ns1:Post ;
-    ns1:coverImg "10.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1991-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.4-Dream-Network-Journal_Volume-10_No-4.pdf" download="">Download issue 10.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.4-Dream-Network-Journal_Volume-10_No-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaqcodk ;
-    ns1:itemId "bcphbpntuo4"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 10, issue 4: Overcoming Addictions: Can our Dreams Help?"^^xsd:string ;
-    ns1:profileImg "10.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "10.4"^^xsd:string .
-
 ns1:bcphbq3xymn a ns1:Post ;
     ns1:coverImg "13.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1994-07-01T11:32:52"^^xsd:dateTime ;
@@ -12712,19 +12905,19 @@ ns1:bcphbsc3ttt a ns1:Post ;
     ns1:profileImg "16.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "16.1"^^xsd:string .
 
-ns1:bcphbugth7l a ns1:Post ;
-    ns1:coverImg "19.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.2-Dream-Network-Vol-19-No-2.pdf" download="">Download issue 19.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.2-Dream-Network-Vol-19-No-2.pdf">View online</a></p>
+ns1:bcphbuj7fdh a ns1:Post ;
+    ns1:coverImg "19.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2000-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.3-Dream-Network-Vol-19-No-3.pdf" download="">Download issue 19.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.3-Dream-Network-Vol-19-No-3.pdf">View online</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,
         ns1:bcpqobmu4ep ;
-    ns1:itemId "bcphbugth7l"^^xsd:string ;
+    ns1:itemId "bcphbuj7fdh"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 19, issue 2: Sexuality in Dreams"^^xsd:string ;
-    ns1:profileImg "19.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "19.2"^^xsd:string .
+    ns1:name "Volume 19, issue 3: Dreams & Religion"^^xsd:string ;
+    ns1:profileImg "19.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "19.3"^^xsd:string .
 
 ns1:bcphbumhc4e a ns1:Post ;
     ns1:coverImg "19.4-cover.jpg"^^xsd:string ;
@@ -13046,6 +13239,20 @@ ns1:bcphbpfnwcb a ns1:Post ;
     ns1:name "Volume 10, issue 2: Healing our Souls, Healing the Earth"^^xsd:string ;
     ns1:profileImg "10.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "10.2-3"^^xsd:string .
+
+ns1:bcphbpntuo4 a ns1:Post ;
+    ns1:coverImg "10.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1991-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.4-Dream-Network-Journal_Volume-10_No-4.pdf" download="">Download issue 10.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.4-Dream-Network-Journal_Volume-10_No-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaqcodk ;
+    ns1:itemId "bcphbpntuo4"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 10, issue 4: Overcoming Addictions: Can our Dreams Help?"^^xsd:string ;
+    ns1:profileImg "10.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "10.4"^^xsd:string .
 
 ns1:bcphbpumr2x a ns1:Post ;
     ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
@@ -13453,19 +13660,19 @@ ns1:bcphbtj7a2e a ns1:Post ;
     ns1:profileImg "17.4-18.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.4-18.1"^^xsd:string .
 
-ns1:bcphbuzcgu3 a ns1:Post ;
-    ns1:coverImg "20.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf" download="">Download issue 20.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf">View online</a></p>
+ns1:bcphbugth7l a ns1:Post ;
+    ns1:coverImg "19.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.2-Dream-Network-Vol-19-No-2.pdf" download="">Download issue 19.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.2-Dream-Network-Vol-19-No-2.pdf">View online</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobpf6pi ;
-    ns1:itemId "bcphbuzcgu3"^^xsd:string ;
+        ns1:bcpqobmu4ep ;
+    ns1:itemId "bcphbugth7l"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 20, issue 4: Dreams and 9.11"^^xsd:string ;
-    ns1:profileImg "20.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "20.4"^^xsd:string .
+    ns1:name "Volume 19, issue 2: Sexuality in Dreams"^^xsd:string ;
+    ns1:profileImg "19.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "19.2"^^xsd:string .
 
 ns1:bcphbv3fbuv a ns1:Post ;
     ns1:coverImg "23.1-cover.jpg"^^xsd:string ;
@@ -13754,6 +13961,20 @@ ns1:bcphbq3pimm a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bobbie Ann Pimm"^^xsd:string ;
     ns1:profileImg "author-bobbie-ann.jpg"^^xsd:string .
+
+ns1:bcphbuzcgu3 a ns1:Post ;
+    ns1:coverImg "20.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf" download="">Download issue 20.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.4_dreams_and_911.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobpf6pi ;
+    ns1:itemId "bcphbuzcgu3"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 20, issue 4: Dreams and 9.11"^^xsd:string ;
+    ns1:profileImg "20.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "20.4"^^xsd:string .
 
 ns1:bcphbv6y2vp a ns1:Post ;
     ns1:coverImg "23.2-cover.jpg"^^xsd:string ;
@@ -14585,22 +14806,6 @@ ns1:bcphbq3wagg a ns1:User ;
     ns1:name "Robert Waggoner"^^xsd:string ;
     ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
 
-ns1:bcphbqawtay a ns1:User ;
-    ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
-
-<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President from 1994-1995. </p>
-
-<p>He is the author of <a href="https://www.amazon.com/Wisdom-Your-Dreams-Unconscious-Transform/dp/1585427543">The Wisdom of Your Dreams: Using Dreams to Tap Into Your Unconscious and Transform Your Life</a> (Penguin/Tarcher, 2009); <a href="https://www.amazon.com/gp/product/B005GJ7XGY">Living Labyrinth: Universal Themes in Myths, Dreams and Waking Life</a> (Paulist Press, Mahwah, NJ, 1998); <a href="https://www.amazon.com/gp/product/0446394629">Where People Fly and Water Runs Uphill: Using Dreams to Tap the Wisdom of the Unconscious</a> (Warner Books, New York, 1992); and <a href="https://www.amazon.com/gp/product/0809125250">DreamWork: Techniques for Discovering the Creative Power in Dreams</a> (Paulist Press, Mahwah NJ, 1983). He taught at schools of the Graduate Theological Union (Berkeley, CA) for over thirty years, and led workshops all over the US and Canada, as well as in Mexico, Peru, Greece, England, South Korea and China.</p>
-
-<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>. </p>
-"""^^xsd:string ;
-    ns1:handle "jeremytaylor"^^xsd:string ;
-    ns1:itemId "bcphbqawtay"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jeremy Taylor"^^xsd:string ;
-    ns1:profileImg "author-jeremy-taylor.jpg"^^xsd:string .
-
 ns1:bcphbqbeldo a ns1:User ;
     ns1:coverImg "cover-author-jayebeldo.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://theartguardian.blogspot.com/">theartguardian.blogspot.com</a></p>
@@ -15047,6 +15252,22 @@ ns1:bcpqn72unjj a ns1:Post ;
     ns1:urlSlug "dream-network-volume-2"^^xsd:string .
 
 ns1:Item a <http://www.w3.org/2002/07/owl#Class> .
+
+ns1:bcphbqawtay a ns1:User ;
+    ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
+
+<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President from 1994-1995. </p>
+
+<p>He is the author of <a href="https://www.amazon.com/Wisdom-Your-Dreams-Unconscious-Transform/dp/1585427543">The Wisdom of Your Dreams: Using Dreams to Tap Into Your Unconscious and Transform Your Life</a> (Penguin/Tarcher, 2009); <a href="https://www.amazon.com/gp/product/B005GJ7XGY">Living Labyrinth: Universal Themes in Myths, Dreams and Waking Life</a> (Paulist Press, Mahwah, NJ, 1998); <a href="https://www.amazon.com/gp/product/0446394629">Where People Fly and Water Runs Uphill: Using Dreams to Tap the Wisdom of the Unconscious</a> (Warner Books, New York, 1992); and <a href="https://www.amazon.com/gp/product/0809125250">DreamWork: Techniques for Discovering the Creative Power in Dreams</a> (Paulist Press, Mahwah NJ, 1983). He taught at schools of the Graduate Theological Union (Berkeley, CA) for over thirty years, and led workshops all over the US and Canada, as well as in Mexico, Peru, Greece, England, South Korea and China.</p>
+
+<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>. </p>
+"""^^xsd:string ;
+    ns1:handle "jeremytaylor"^^xsd:string ;
+    ns1:itemId "bcphbqawtay"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jeremy Taylor"^^xsd:string ;
+    ns1:profileImg "author-jeremy-taylor.jpg"^^xsd:string .
 
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;

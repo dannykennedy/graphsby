@@ -16,10 +16,7 @@ A little while ago, I was approached by *America Online* (AOL) to host a regular
 
 Initially, I had some reservations about working dreams through this distinctly cool and physically isolating medium: the Internet. When I imagined as carefully as I could what it might be like, I was particularly concerned that the flat and highly compressed computer communication format might inhibit the flow of imagination, relational intimacy and mutual respect so necessary for good dreamwork. 
 
-<img src="../images/post-bcpov6christ-1.jpg" alt="Jeremy Taylor" width="350" height="auto"/>
-<div class="caption" style="text-align: center;"><i>Jeremy Taylor</i></div>
-
-I decided to undertake a couple of trial runs before I agreed to host the show for AOL. Barbara Viglizzo, a colleague and former student of mine, offered to set up trial meetings in cyberspace and recruited several interested computer-competent dreamers. (Thanks, Barbara!). As we all met in cyberspace and began to do "...if it were my dream" style dreamwork, I was tremendously pleased and excited to discover that my fears were, if not groundless, at least exaggerated out of all realistic proportion. In fact, the emotionally and physically flat format of simultaneous computer chat among people in widely separated geographic locations appears to enhance many important elements that make group exploration of dreams so productive. 
+I decided to undertake a couple of trial runs before I agreed to host the show for AOL. Barbara Viglizzo, a colleague and former student of mine, offered to set up trial meetings in cyberspace and recruited several interested computer-competent dreamers. (Thanks, Barbara!). As we all met in cyberspace and began to do "...if it were my dream" style dreamwork, I was tremendously pleased and excited to discover that my fears were, if not groundless, at least exaggerated out of all realistic proportion. In fact, the emotionally and physically flat format of simultaneous computer chat among people in widely separated geographic locations appears to enhance many important elements that make group exploration of dreams so productive.
 
 The fact that every participant appears on the screen identified only by his or her 'cyber-handle' (email address) , means that the sense of safety and protected anonymity so necessary for productive dreamwork is completely assured from the outset. My experience also convinces me that the necessity of compressing our questions and comments into two-line 'sound bites' in order to send them to the communal screen, regularly serve to discourage needless verbosity. The compressed computer screen format tends to draw us all into the work at a deeper level, more quickly than is sometimes the case in face-to-face dream groups. 
 
@@ -45,6 +42,9 @@ Albert Einstein was fond of saying that "...if you can't explain what you are do
 </div>
 
 The 'dream show' also has a 24-hour bulletin board, where you can leave your dreams, comments and questions at any time. I check the bulletin board regularly for material to work with during the regular daily 'live' dream group.
+
+<img src="../images/post-bcpov6christ-1.jpg" alt="Jeremy Taylor" width="350" height="auto"/>
+<div class="caption" style="text-align: center;"><i>Jeremy Taylor</i></div>
 
 
 

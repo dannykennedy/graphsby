@@ -6,7 +6,6 @@ name: "Working with Dreams"
 tags:
 - hasTag: faribabogzaran
 - hasAuthor: faribabogzaran
-- hasTag: coat-of-many-colors
 type: post
 urlSlug: working-with-dreams
 profileImg: post-bcpov6zinwwd-1.jpg

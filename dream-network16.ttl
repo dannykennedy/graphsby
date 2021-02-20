@@ -8166,6 +8166,89 @@ ns1:bcpov6zchaot a ns1:Post ;
     ns1:profileImg "post-bcpov6zchaot-0.jpg"^^xsd:string ;
     ns1:urlSlug "chaotic-attractors-in-myth-stories-told-by-the-kariri-xuco-indians"^^xsd:string .
 
+ns1:bcpov6zdeddw a ns1:Post ;
+    ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Over the years that I have been doing dream work with individuals and groups, I have noticed that there is a tendency for vehicles in dreams, particularly automobiles, to reveal layers of symbolic resonance with waking life emotional relationships (among other things). Questions related to vehicles in dreams such as: "who's driving?", and "do the brakes work?", and "where are we going?' and the like, are often clearly related to issues of waking life relationship. </p>
+
+<p>However, it would be a great error to assume that every time we encounter a vehicle in a dream, (our own or somebody else's), we are necessarily dealing with a metaphor of waking personal relationship. Only the person who has the dream can <em>know</em> what it means. When the dreamer comes to understand his or her dream more fully, there is usually a confirmatory "tingle", (or "flash", or "aha", or what-have-you), which is experienced when some truth about the dream has been discovered and articulated. </p>
+
+<p>This tingle is created in large measure by a previously unconscious <em>memory</em> rising to the surface of conscious self-awareness and creating a spreading "ripple". From the unconscious breadths and depths from which the dream spontaneously springs, it is <em>already</em> understood. Its multiple meanings already inhere in the shape and quality of the dream itself. </p>
+
+<p>In this important sense, <em>all</em> forms and styles of dream work are aimed at the same purpose - bringing to the surface of self-awareness some of the already existing unconscious understandtng of the meaning and significance of the dream. When we succeed in understanding a dream more fully, as the result of whatever solitary, one-to-one or group dream work, the tingle of emotional/physical confirmation is usually felt in the moment when the meaning of some aspect of the dream is "remembered" for the first time. (Sometimes people of a more introverted disposition will require solitude in order to experience the tingles of certainty, and thus will not experience tingles in the group setting as a rule).</p>
+
+<p>However, it often happens that we have equally "tingly" flashes about the meanings of <em>other people's</em> dreams. All too often, this tingle is taken at face value, and we make suggestions and pronouncements about the other person's dream as though we knew "what it is all about". A more accurate and sophisticated understanding of these tingles about other people's dreams is that they are <em>exactly</em> the same as the tingles we have about our own dreams - in fact, they are the tingles provoked by our <em>own</em> dream - the dream we imagined for ourselves as we experienced the other person's dream narrative. The true meaning of such a flash of understanding is that the dream would have the meaning we resonate to <em>if we had dreamed it ourselves</em>. </p>
+
+<p>Now, given the shared nature of the collective unconscious, or "objective psyche", as well as the universal qualities of human development and emotion, it is very likely that what is true for ourselves about our own dreams will also turn out to be true for other people as well. However, it is only the confirmatory tingle of the dreamer him/herself that makes an idea or interpretation meaningful and valid. In the absence of such confirmation from the dreamer, it is simply irrelevant whether the insight is "correct" or not. </p>
+
+<p>For this reason, as well as reasons of simple politeness and group process, it is always a good idea to preface any remark we are going to make about another person's dre am (particularly any remark we imagine may be "heavy", or "on-the-case"), with words to the effect of: "Well, if it were <em>my</em> dream...". </p>
+
+<p>This is perhaps the single most important thing to bear in mind when doing dream work - ONLY THE DREAMER CAN VERIFY THE MEANINGS IN ANY DREAM. </p>
+
+<p>Unfortunately, the failure to keep this important rule-of-thumb in mind in the middle of the effort to work wlth dreams often leads to dream work itself becoming an instrument of tyranny. Ironically, this happens most often in direct proportion to the quality and "correctness" of the dream worker's suggestions and interpretation, because the dreamer begins to imagine that the powerful tingles are the gift of the dream worker, instead of understanding that they are the result of increasing interior self-awareness. </p>
+
+<p>However, no matter how many errors of interpretation are made, no matter how many premature closures of exploration are made, no matter how rigid and doctrinaire a given theory of dream work may be, the dreams themselves always return with a more balanced, "objective", and whole perspective. This is an important point, because there is an inherently "self-correcting" quality to dream work that simply does not exist with other forms of interior exploration. (Contemporary research as well as the testimony of ancient lucid dreamers attests that even the cultivation of self-aware lucidity in dreams does not alter this "self-correcting", spontaneous quality of the dreams themselves). </p>
+
+<p>Perhaps this poem says it better ...</p>
+
+<pre>
+
+We are so clumsy, 
+
+Dropping lightning bolts, 
+
+Misplacing whole species of birds, 
+
+Fumbling with mountains, 
+
+Unsure of their proper placement. 
+
+"Do you suppose this river might flow 
+
+Eventually to the sea?" 
+
+And we debate the question, solemnly, 
+
+Exploring all the possibilities. 
+
+Let us lay out these subtle, spiral, spirit-bodies 
+
+Upon the turning stars 
+
+To see just where they turn into earthquakes. 
+
+Uncoil! 
+
+The holes and spaces filled with darkness 
+
+Open up 
+
+Around our unfinished sentences - 
+
+We can do it! 
+
+Oooooops! 
+
+Remember - most people never even see 
+
+The stars we try to use for navigation, 
+
+So even our comic, cosmic failures 
+
+Look like success! 
+
+</pre>
+
+<p>(This poem first appeared in <em>Dream &amp; Waking in the Drama of Authority - A Personal Account of Creative-Archetypal Dream Work</em>, by Jeremy Taylor, Dream Tree Press, 1978).</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbqawtay,
+        ns1:bcpov6zfsra ;
+    ns1:itemId "bcpov6zdeddw"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Doing Dream Work"^^xsd:string ;
+    ns1:urlSlug "doing-dream-work"^^xsd:string .
+
 ns1:bcpov6zdeeps a ns1:Post ;
     ns1:dateCreated "1996-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>A little while ago, I was approached by <em>America Online</em> (AOL) to host a regular, live, real time, virtual dream group, Monday through Friday at 9:00a.m. Eastern Time. I agreed to give it a try, even though it means that I have to be bright-eyed and bushy-tailed and in front of my computer at 6:00am, Pacific Time... which up until now has <em>not</em> been my habit. </p>
@@ -10871,16 +10954,6 @@ How the Universe is alive and we are all making music!<br>
     ns1:profileImg "post-bcpov6zfsing-0.jpg"^^xsd:string ;
     ns1:urlSlug "the-trees-are-singing"^^xsd:string .
 
-ns1:bcpov6zfsra a ns1:Post ;
-    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/coat-of-many-colors-rect.jpg"/><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p></p>
-"""^^xsd:string ;
-    ns1:itemId "bcpov6zfsra"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Coat of Many Colors"^^xsd:string ;
-    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
-    ns1:urlSlug "coat-of-many-colors"^^xsd:string .
-
 ns1:bcpov6zftber a ns1:Post ;
     ns1:dateCreated "2012-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zftber-0.jpg" alt="Thomas Berry, Dreamer of the Earth: The Spiritual Ecology of the Father of Environmentalism, edited by Ervin Laszlo and Allan Combs" /></p>
@@ -11227,7 +11300,8 @@ ns1:bcpov6zinwwd a ns1:Post ;
 <p><img src="../images/post-bcpov6zinwwd-0.jpg" alt="Art by Fariba Bogzaran" width="500" height="auto"/></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3bogz ;
-    ns1:hasTag ns1:bcphbq3bogz ;
+    ns1:hasTag ns1:bcphbq3bogz,
+        ns1:bcpov6zfsra ;
     ns1:itemId "bcpov6zinwwd"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Working with Dreams"^^xsd:string ;
@@ -13904,6 +13978,26 @@ ns1:bcphbzoxivb a ns1:Post ;
     ns1:profileImg "31.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.3"^^xsd:string .
 
+ns1:bcpov6zfsra a ns1:Post ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>The Coat of Many Colors was a co-creation of John Van Daam, Jeremy Taylor and Kathryn Taylor at the Dream Tree Press, and published in cooperation with the Dream Network Bulletin. It received contributions by many writers and artists who went on to dedicate their lives to the field of dreamwork and dream research, and many became well-known in the field if they were not already at the time. </p>
+
+<p>The Coat of Many Colors was intended as a snapshot of the dream movement at a time when it was just beginning to form a cohesive voice and self-awareness, and at the same time to foster this sense of collective purpose. </p>
+
+<p>The Dream Tree Press itself was a huge crank-driven machine in the basement of the Taylor's house, and Jeremy's daughter Tristy remembers as a child collating pages and stapling booklets together. This publication is made available here with the kind permission of John van Daam (also known as John van Damm) and Tristy Taylor. </p>
+
+<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj,
+        ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbqawtay,
+        ns1:bcpov6pspec ;
+    ns1:itemId "bcpov6zfsra"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Coat of Many Colors"^^xsd:string ;
+    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "coat-of-many-colors"^^xsd:string .
+
 ns1:Page a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Actor .
 
@@ -14532,16 +14626,6 @@ ns1:bcphbz5vgog a ns1:Post ;
     ns1:profileImg "32.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.4"^^xsd:string .
 
-ns1:bcpov6pspec a ns1:Post ;
-    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>Some of these publications were published by the Dream Network, others have been kindly offered to this site so you can download and enjoy them. All are fabulous!</p>
-"""^^xsd:string ;
-    ns1:itemId "bcpov6pspec"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Special publications"^^xsd:string ;
-    ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
-    ns1:urlSlug "special-publications"^^xsd:string .
-
 ns1:bcpqoaf5sto a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_6.zip" download>Volume 6 (.zip file, 14mb)</a></p>
 """^^xsd:string ;
@@ -14784,6 +14868,16 @@ ns1:bcphbwmlvfh a ns1:Post ;
     ns1:name "Volume 24, issue 2: Facing & Embracing Fear"^^xsd:string ;
     ns1:profileImg "24.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "24.2"^^xsd:string .
+
+ns1:bcpov6pspec a ns1:Post ;
+    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Some of these publications were published by the Dream Network, others have been kindly offered to this site so you can download and enjoy them. All are fabulous!</p>
+"""^^xsd:string ;
+    ns1:itemId "bcpov6pspec"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Special publications"^^xsd:string ;
+    ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "special-publications"^^xsd:string .
 
 ns1:bcphbq3olse a ns1:User ;
     ns1:coverImg "cover-author-fredolsen.jpg"^^xsd:string ;
@@ -15298,22 +15392,6 @@ ns1:bcpqn72unjj a ns1:Post ;
 
 ns1:Item a <http://www.w3.org/2002/07/owl#Class> .
 
-ns1:bcphbqawtay a ns1:User ;
-    ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
-
-<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President from 1994-1995. </p>
-
-<p>He is the author of <a href="https://www.amazon.com/Wisdom-Your-Dreams-Unconscious-Transform/dp/1585427543">The Wisdom of Your Dreams: Using Dreams to Tap Into Your Unconscious and Transform Your Life</a> (Penguin/Tarcher, 2009); <a href="https://www.amazon.com/gp/product/B005GJ7XGY">Living Labyrinth: Universal Themes in Myths, Dreams and Waking Life</a> (Paulist Press, Mahwah, NJ, 1998); <a href="https://www.amazon.com/gp/product/0446394629">Where People Fly and Water Runs Uphill: Using Dreams to Tap the Wisdom of the Unconscious</a> (Warner Books, New York, 1992); and <a href="https://www.amazon.com/gp/product/0809125250">DreamWork: Techniques for Discovering the Creative Power in Dreams</a> (Paulist Press, Mahwah NJ, 1983). He taught at schools of the Graduate Theological Union (Berkeley, CA) for over thirty years, and led workshops all over the US and Canada, as well as in Mexico, Peru, Greece, England, South Korea and China.</p>
-
-<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>. </p>
-"""^^xsd:string ;
-    ns1:handle "jeremytaylor"^^xsd:string ;
-    ns1:itemId "bcphbqawtay"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jeremy Taylor"^^xsd:string ;
-    ns1:profileImg "author-jeremy-taylor.jpg"^^xsd:string .
-
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.billstimson.com/">billstimson.com</a></p>
@@ -15333,6 +15411,22 @@ ns1:bcphbqvstim a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "William R. Stimson"^^xsd:string ;
     ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
+
+ns1:bcphbqawtay a ns1:User ;
+    ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
+
+<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President from 1994-1995. </p>
+
+<p>He is the author of <a href="https://www.amazon.com/Wisdom-Your-Dreams-Unconscious-Transform/dp/1585427543">The Wisdom of Your Dreams: Using Dreams to Tap Into Your Unconscious and Transform Your Life</a> (Penguin/Tarcher, 2009); <a href="https://www.amazon.com/gp/product/B005GJ7XGY">Living Labyrinth: Universal Themes in Myths, Dreams and Waking Life</a> (Paulist Press, Mahwah, NJ, 1998); <a href="https://www.amazon.com/gp/product/0446394629">Where People Fly and Water Runs Uphill: Using Dreams to Tap the Wisdom of the Unconscious</a> (Warner Books, New York, 1992); and <a href="https://www.amazon.com/gp/product/0809125250">DreamWork: Techniques for Discovering the Creative Power in Dreams</a> (Paulist Press, Mahwah NJ, 1983). He taught at schools of the Graduate Theological Union (Berkeley, CA) for over thirty years, and led workshops all over the US and Canada, as well as in Mexico, Peru, Greece, England, South Korea and China.</p>
+
+<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>. </p>
+"""^^xsd:string ;
+    ns1:handle "jeremytaylor"^^xsd:string ;
+    ns1:itemId "bcphbqawtay"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jeremy Taylor"^^xsd:string ;
+    ns1:profileImg "author-jeremy-taylor.jpg"^^xsd:string .
 
 ns1:bcphbqschul a ns1:User ;
     ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;

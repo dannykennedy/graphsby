@@ -6825,6 +6825,45 @@ ns1:bcpov6rs24hr a ns1:Post ;
     ns1:profileImg "post-bcpov6rs24hr-0.jpg"^^xsd:string ;
     ns1:urlSlug "book-review-dreaming-while-awake-arnold-mindell"^^xsd:string .
 
+ns1:bcpov6rsgdnp a ns1:Post ;
+    ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6rsgdnp-0.jpg" alt="Sweet Dreams" /></p>
+
+<p>Imagine telling your dream to your friendly personal computer. Upon hearing your dream, your computer interviews you about your feelings in the dream, your associations to the various symbols and your memories for recent events. The computer then reminds you of similar symbols and themes from previous dreams and what was going on in your life at that time. The computer then helps you to create an animated cartoon of your dream while it analyses the movements in your cartoon in terms of your typical animation style and feeds you back insights on the feelings expressed in the animation sequence. If you wanted to dialogue with the images in the dream, the computer would analyze thematic sequences to your dialogues, explain how you were feeling in past times during the expression of similar themes and suggest areas to explore. </p>
+
+<p>Upon request, your computer displays text and pictures concerning universal aspects of particular symbols in your dream, selected on the basis of your personal associative context. To help you distinguish between aspects of your dream symbols that are personal and those aspects at are more universal, the computer displays dreams from a large dream bank containing the same symbols appearing in your dream, and helps you discover your dream's relationship to these more typical patterns. If your dream contained some important references to apparently external events, the computer would provide you with a survey of dream themes and symbols collected over the past 24 hours from around the world, and by providing you with visual statistics, help you determine if your dream was unusual and idiosyncratic, or if a significant number of other people were currently having dreams with similar themes or symbols. You could determine if your "earthquake" dream this morning, for example, was conveying a personal upset in terms of a personal metaphor or in terms of an objective event that was being used as a symbol around the world. If the nature of the dream was such that you wanted to contact others who were having similar dreams, the computer would promptly inform you of how to contact those individuals. </p>
+
+<p>This bit of science fiction fantasy may or may not seem appealing. Dreams are intimate and from the "right brain", while computers are definitely extensions of the "left brain" world. Dreams and computers have in common, however, the ability to process enormous amounts of information in order to create their respective products. When trying to interpret our dreams, our limited conscious knowledge is often meager compared to the amount of information condensed in a dream. What would happen if the computer's information processing ability were put into the service of helping us understand the information the dream has processed?</p>
+
+<p>Everything described in the above imaginary scenario is possible, either now or with computer systems of the not-so-distant future. Working toward this future, I have been administering a far-reaching program called the "Dream Net Project". Like the initiation of the space program, it is ambitious, requiring the coordination of many different component projects under development by many different people and should lead to many interesting beneficial spinoffs in the process. It certainly has some profound implications for networking among our community of dreamers. Even if the "Dream Net" project can not, for some years to come, yield the type of incredible results depicted in the above imaginary scenario, there are many useful things that today's personal computer can do to relieve some of the drudgery of dream collecting and analysis, both for a dreamer's personal use and for research purposes. For example, a dream journal word-processing and filing system would make it easier to write down dreams (it is easier on a word processor), to modify and manipulate the dream text in the process of written interpretive work, and to store, sort, and retrieve past dreams that may be relevant to the dreamwork at hand. That much is quite possible today. </p>
+
+<p>In fact, rudimentary versions of such a computer-aided "dream interpretation journal" have been constructed. These are rather simple tools that store your dreams by title and compile your "dream symbol dictionary" from information you provide. The interpretation routine is based on a simple "symbol definition substitution" method, prompting you to define your symbols, then substituting your definitions for the symbols in your dream, giving you a very rough "interpreted" dream text. If you have a "communications device" (a modem), instruct your computer to call 1-303-722-6210 and you can play with this symbol substitution "dream interpreter" routine. When you call in, select the "Dream Net" menu. Here you will find, besides the dream "interpreter", many other items of interest to dreamers. It contains my initial attempts to introduce the dream community to on-line computer networking. This service is part of a larger computer network system called "Parapsychological Information Network" (for more information about P.I.N. and its newsletter, write to William Tedder, P.I.N. Systems Operator, P.O. Box 10456, Denver, CO 80210).</p>
+
+<p><img src="../images/post-bcpov6rsgdnp-1.jpg" alt="Sweet Dreams" /> </p>
+
+<p>At this particular point in time, I am working to develop a more useful filing and retrieval system for personal dream collections. Currently, the only commercially available "data-base" program that seems suitable is the rather expensive program called "Sci-Mate Personal Text File Manager." Its "bit-mapped" memory system allows you to retrieve all stored dreams that contain the word, or words, you specify. As I make contact with more dreamers who are computer specialists, I hope to be able to develop a less expensive dream filing system that incorporates this amazing feature. </p>
+
+<p>Being able to work with large files of dreams becomes especially important when dreamers wish to learn from one another, as in group projects or in research. In the Sundance Journals I began a rather tedious project called "The Book of Dreams". Its goal is to gather collections of dreams and organize them around particular symbols. You will be able to look up "snake" in the "Book" and read many different dreams involving snakes and get some idea about how snakes behave in dreams. This information could help you determine the meaning of your snake's appearance in your dream. The experts on symbology whom we respect—such as Carl Jung or Joseph Campbell—are essentially historians of mankind's symbolic output. One way these experts answer a question such as, "what is the meaning of 'snake' in a dream?" is to present many different dreams, stories, and legends in which a snake appears. I have boxes of dream collections sent to me by people responding to the original announcement concerning "The Book of Dreams". With access to computers, it is now a reasonable task to begin entering and compiling these dreams. I am now interested in locating other persons who are interested in contributing dreams to this collection, or in other ways helping to work on the project. As the "Book of Dreams" develops, printed versions will be made available, although the ultimate use of the collection will be to store over a million dreams on a computer for instant access by the dreamer.</p>
+
+<p>The original "Sundance Experiment" concerned the emerging apocalyptic imagery in dreams, and attempted to integrate these dream themes in search of an emerging "New Age" mythology. Today there have been several attempts to stimulate a group to dream about a particular topic. It is difficult to process the information in these dreams, to determine what themes the group dreams have in common, to what extent such themes might be expected by chance, and to pinpoint group dream themes that are suggestive of a transpersonal or psychic connection. It was this particular problem that stimulated me to begin the "Dream Net Project". </p>
+
+<p>The method of "content analysis", developed by Calvin Hall and Robert Van de Castle, is a useful tool for analyzing dream series or large groups of dreams for certain themes. It has facilitated dream research in many ways, and it has the unique advantage of being "theory free". George Baylor, at the University of Montreal, has created a computer-aided content analysis program on a large, main-frame computer. His work may be helpful in developing a personal computer version that would prompt the individual dreamer in content analyzing a series of dreams. It would also facilitate the content analysis of the results of a group dream experiment, such as the "Dream Helper Ceremony" devised by Bob Van de Castle and myself (see Omni Magazine, December, 1983).</p>
+
+<p>This particular group dream experiment involves a group of dreamers who attempt to have telepathic dreams of healing and guidance for a target person whose problems are unknown to the dreamers. A computer-aided content analysis program, coupled with a large collection of dreams, would be able to show what themes are emerging in the dream helpers' dreams and whether or not such a focus of dream themes would be expected in a random sample of dreams. This system could also be used to compare the group's dream themes with other group's dream themes to show that this particular group of dream helpers are focusing on a narrow target topic. This particular application of computer-assisted dream interpretation is the one that I am most interested in at this particular point in time as I believe that it will help to focus more attention upon the "paradigm-smashing" potential of group dreaming. </p>
+
+<p>One of the spinoffs of working on such a project is that creating a computerized dream interpretation program requires you to examine your assumptions about how dreams are to be interpreted. To clarify my own thinking about the processes involved in interpreting a dream, I developed a "programmed workbook" for dream interpretation. Entitled Dream Realizations, it leads the user through a 28-day period of dream recording and dream interpretation through journal writing, and daily application to problem solving. It is an attempt to lay out a "program" (although no computer is involved) of creative problem-solving using dream interpretation as the major source of inspiration. In testing this workbook with hundreds of others, I have found that the majority of users report favorable and exciting results that fit their own needs. Such results show that a "programmatic" approach to dreamwork doesn't necessarily have the pitfalls you might imagine. It does seem possible to develop instructional material for dreamwork that is capable of being adapted to the computer. </p>
+
+<p>If you find yourself interested in any of the topics mentioned in this article, if you want to keep posted on developments and to learn how you might participate in this project, send me your name and address. This next June (20-23) at the 2nd Annual Conference of the Association for the Study of Dreams, which will be held in Charlottesville, Virginia, I will be organizing a "Special Interest Group on Dreams and Computers". I hope to meet you there where we can all exchange notes on this topic. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvreed ;
+    ns1:hasTag ns1:bcphblnikds,
+        ns1:bcphbqvreed ;
+    ns1:itemId "bcpov6rsgdnp"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Dream Net Project: Computer Assisted Dream Interpretation"^^xsd:string ;
+    ns1:profileImg "post-bcpov6rsgdnp-0.jpg"^^xsd:string ;
+    ns1:urlSlug "the-dream-net-project-computer-assisted-dream-interpretation"^^xsd:string .
+
 ns1:bcpov6rsguid a ns1:Post ;
     ns1:dateCreated "1983-12-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>It is commonplace today to hear it said that we can solicit guidance from our dreams - that we can pose questions or problems to our dreams and receive answers or solutions. No doubt many subscribers to DNB have had experiences that lend support to this notion. On the other hand, scientific research on dreams has hardly demonstrated that dreams have any meaning worth interpreting, much less that they may be solicited as oracles. What a gap in world views! </p>
@@ -12824,20 +12863,6 @@ ns1:bcphbliwn3u a ns1:Post ;
     ns1:profileImg "3.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "3.4"^^xsd:string .
 
-ns1:bcphblnikds a ns1:Post ;
-    ns1:coverImg "3.6-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf" download="">Download issue 3.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn76e7n5 ;
-    ns1:itemId "bcphblnikds"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 3, issue 6"^^xsd:string ;
-    ns1:profileImg "3.6-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "3.6"^^xsd:string .
-
 ns1:bcphblqvj7h a ns1:Post ;
     ns1:coverImg "4.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-01-01T11:32:52"^^xsd:dateTime ;
@@ -13246,6 +13271,20 @@ ns1:bcphbhs662v a ns1:Post ;
     ns1:name "Volume 1, issue 3"^^xsd:string ;
     ns1:profileImg "1.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.3"^^xsd:string .
+
+ns1:bcphblnikds a ns1:Post ;
+    ns1:coverImg "3.6-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf" download="">Download issue 3.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn76e7n5 ;
+    ns1:itemId "bcphblnikds"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 3, issue 6"^^xsd:string ;
+    ns1:profileImg "3.6-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "3.6"^^xsd:string .
 
 ns1:bcphblwwuy6 a ns1:Post ;
     ns1:coverImg "4.3-cover.jpg"^^xsd:string ;
@@ -15254,26 +15293,6 @@ ns1:bcphbqvbird a ns1:User ;
     ns1:name "Kim Birdsong"^^xsd:string ;
     ns1:profileImg "author-kim-birdsong.jpg"^^xsd:string .
 
-ns1:bcphbqvreed a ns1:User ;
-    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
-
-<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
-
-<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
-
-<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
-
-<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net.</p>
-
-<div class="media-item resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-"""^^xsd:string ;
-    ns1:handle "henryreed"^^xsd:string ;
-    ns1:itemId "bcphbqvreed"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Henry Reed"^^xsd:string ;
-    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
-
 ns1:bcphbq3arts a ns1:User ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
 
@@ -15331,6 +15350,26 @@ ns1:bcphbqskoff a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Deborah Koff-Chapin"^^xsd:string ;
     ns1:profileImg "author-deborahkoffchapin.jpg"^^xsd:string .
+
+ns1:bcphbqvreed a ns1:User ;
+    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
+
+<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
+
+<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
+
+<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
+
+<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net.</p>
+
+<div class="media-item resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+"""^^xsd:string ;
+    ns1:handle "henryreed"^^xsd:string ;
+    ns1:itemId "bcphbqvreed"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Henry Reed"^^xsd:string ;
+    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
 ns1:bcpqn7zvpei a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>

@@ -265,20 +265,6 @@ ns1:bcphblyrd2y a ns1:Post ;
     ns1:profileImg "4.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.4"^^xsd:string .
 
-ns1:bcphbmgxd6x a ns1:Post ;
-    ns1:coverImg "5.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1986-03-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.2-Dream-Network-Bulletin_Volume-5-Number-2.pdf" download="">Download issue 5.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.2-Dream-Network-Bulletin_Volume-5-Number-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoact7dh ;
-    ns1:itemId "bcphbmgxd6x"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 5, issue 2"^^xsd:string ;
-    ns1:profileImg "5.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "5.2"^^xsd:string .
-
 ns1:bcphbmjs6by a ns1:Post ;
     ns1:coverImg "5.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1986-05-01T11:32:52"^^xsd:dateTime ;
@@ -1906,6 +1892,30 @@ ns1:bcpov6grddoi a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Network Nous: Dreams of Invention"^^xsd:string ;
     ns1:urlSlug "dreams-of-invention"^^xsd:string .
+
+ns1:bcpov6grddtd a ns1:Post ;
+    ns1:dateCreated "1998-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Keeping an extensive dream journal on a computer for the last three years has proven to offer insights hardly expected from such a medium. As an example, one morning after writing a dream down, I tried to save the file onto the hard drive, using the date of the dream, 1-24, as the file name. I had previously saved all my dream entries using the date of the dream as the file name. My computer beeped a warning and the following message came up: Replace existing 1-24? I canceled the save command for I didn't want to wipe out the existing file. Curious, I double clicked on the file's icon. I discovered that I had written a dream down exactly one year before, using the same date (month and day without the year) as the file name of the dream entry I was trying to save at the moment. Once the file opened, I found that the year old dream was so similar to the one I just had written down, that it prompted me to investigate further into these peculiar cybersynchronicities. </p>
+
+<p>The dream I had on 1-24-98 was of two calves emerging out of a barn to snuggle up to me. After their expression of such charming bovine affection, they then swam off in tandem across a lake. I then read the dream I had written on 1-24-97. I discovered that I had a dream in which a bear ambled out of a cave, came up, snuggled me and then rested its head on my lap, after expressing such charming arkturial affection! </p>
+
+<p>Many chronological dream synchronicities have been uncovered with the method of opening up the Find File program and searching for dreams written, one, two, three years ago. If you have kept dream journals on your computer, I suggest becoming familiar with the Find File command on your PC. Use the month and day as the file name for your dream entries without the year. This will enable you to swiftly search through your dreams and see if there are any annual matches. The Find File technique is useful for those who are aware of reoccurring dreams but want to find if there is any underlying pattern to the reoccurrences. </p>
+
+<p>Depending on how long you have kept your dreams on your computer, this mode of inquiry affords instant access in a way that paper bound journals cannot. The immediacy of the data's appearance on the computer monitor's screen affords a view of dreams that cannot be had by merely thumbing back through the tattered pages of a dream journal scrawled with nearly incoherent, pre coffee writing and searching for recognizable patterns of reoccurrence. Using the Find File command, I have discovered that not only the people and animals in the dreams themselves reoccur, but plots, outcomes, environments, atmospheres and even feeling tones as well. </p>
+
+<p>The synchronicities have led me to believe that dreams are not purely acausal or random as they have been described to be by some of the founding forepeople of psychotherapy. Perhaps when one looks at an individual dream and its lack of continuity and at times coherency, that may seem to be the case. But when one pulls back, opens the camera lens wide and looks at the larger composition of dream cycles, a recognizable pattern pattern/ paradigm can indeed be discerned. Then, with an expanded perspective, the patterns become meaningful. Computer dream journals can help promote this kind of enhanced, chronological appreciation of dreams, adding a new dimension to interpretation and understanding. Our electronic dream journals can become, after a few years, a Farmer's Almanac of the unconscious. We can access such an almanac when we want to plant, cultivate and harvest our dreams according to the waxing and waning of our inner moon. </p>
+
+<p>The discoveries of such timely reoccurrences in dream patterns via the computer has inspired me to regard such dream cycles as being universal in nature. Within our personal dreams lie some important clues to the larger and broader cycles, meta-patterns of reoccurrence over vast distances of time, from the Nimesha (eye blink) of the Big Bang birth to the final minutes of the Day of Brahmin which consists of 4,320,000,000 years. (Imagine a dream journal kept for that many years! Imagine the galactic synchronicities one could discover!) Appreciating the cycles of the universe's dream, enables us to expand our awareness to these vast cosmological levels. We can then regard our dreams as being a part of such extensive cycles much more expansive than we normally do. We can appreciate that our dreams actually influence these larger cycles. </p>
+
+<p>With practice, using the Find File mode of investigation, whether on our physical computers or through active imagination, we may be able to pinpoint a decade, a year, perhaps even a moment of quality time in the Precambrian era. We may be able to hone in on a morphogenetic field of a Trilobite and see what it was dreaming way back when and see if it in any way corresponds to what we dreamt about last night or last year.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqbeldo ;
+    ns1:hasTag ns1:bcphbqbeldo,
+        ns1:bcphbs4b6on ;
+    ns1:itemId "bcpov6grddtd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Network Nous: Time Dreams"^^xsd:string ;
+    ns1:urlSlug "time-dreams"^^xsd:string .
 
 ns1:bcpov6greaiz a ns1:Post ;
     ns1:dateCreated "2008-07-01T11:32:52"^^xsd:dateTime ;
@@ -7340,6 +7350,36 @@ ns1:bcpov6rsreci a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Short Recipe for Resolving Conflict Crises"^^xsd:string ;
     ns1:urlSlug "short-recipe-for-resolving-conflict-crises"^^xsd:string .
+
+ns1:bcpov6rsshoe2 a ns1:Post ;
+    ns1:dateCreated "1986-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>I'm going through the tedious, but fascinating process of transferring all my dream Journals onto computer disks so that I can more conveniently study my dream symbology. In doing so, I was struck by the number of times my dreams contain reference to shoes. Here's one of the dreams that caught my attention by its simplicity: </p>
+
+<p>I'm polishing my shoes. </p>
+
+<p>This dream occurred on the eve of a new semester of teaching. It clearly reflects a preparation process, getting ready, getting my act cleaned up, trying to look good. I rarely polish my shoes except for special occasions. The start of a semester was a special occasion. There are many special occasions for which I do not polish my shoes—rubbing them against the back of my pants as I head out the door is often sufficient. For me, polished shoes are a minor detail—say, compared to having my shirt ironed—but one I have learned that may subliminally affect other people's perceptions of me. If the occasion calls for impeccability, then perhaps the shoes should be shined—a perfectionistic ritual. </p>
+
+<p>I can think of another occasion that called for perfectionism—ROTC inspection! For that I would have to also polish my brass buttons and brass belt buckle, not to mention my shoes shined with spit. ROTC is a long distant memory. It makes me realize, however, that on many occasions since that time, I'll shine any jewelry that I may wear, especially silver or copper, because of its corrosibility, but I still won't shine my shoes, just dust them off a bit. What does it mean then to shine my SHOES? </p>
+
+<p>What are shoes? They provide comfort and support for my feet. What are my feet? They are what I walk with, what I use to contact the ground. Depending upon the type of ground I am going to walk on and the way in which I want to walk on that ground, I choose an appropriate pair of shoes. I have many to choose from: sneakers, moccasins, sandals, slip-ons, lace-ups and boots; and they may be casual, formal or just plain comfy. Shoes seem to be an interface between feet and ground that can take into account my intentions and desires and the conditions I'll encounter. </p>
+
+<p>I can pick a pair of shoes that will match the occasion, and that feels good. I've also known the pleasure, like David Letterman, of being dressed up except for my sneakers—it does provide a bit of rebellious pleasure as well as compensatory relief from the constrictions of a closed collar and tie. On the other hand, In my dreams I've found myself in a situation with inadequate shoes, like walking in snow while wearing sandals, a trying experience! </p>
+
+<p>Having the right pair of shoes on makes you feel just right, and having the wrong pair on can ruin your pleasure and make you feel "off". So what are shoes? </p>
+
+<p>Somehow, metaphors and figures of speech involving shoes may provide a clue to the meaning of shoes. "If the shoe fits, wear it". Why not say, "If the shirt fits, wear it"? We say that a person who is financially well off Is "well heeled", meaning the person can absorb a lot of scrapes and scuffing without the wear showing. "Walk a mile in the other person's moccasins". "If you were in my shoes..." "Nothing fits like an old pair of shoes". Do you know of others? </p>
+
+<p>I'd like to suggest an experiment. I would like to invite readers to submit their dreams that contain images of shoes, different types of shoes, being without shoes when that is an issue in the dream. I would also like you to submit as many figures of speech that involve footwear as you can think of or find other cultural expressions involving shoes. Write me a few lines about what you think shoes mean. </p>
+
+<p>I'll collate the material you send in, add all my own shoe dreams, and see what I can come up with. With Bob's help, perhaps we can do some content analysis the dreams with shoe imagery and see if they differ from dreams with imagery of other types of apparel. What other kinds of analyses might you suggest? If you respond soon enough, I can publish the results in the issue after next. If this collaborative process seems to work, then after shoes, we can go on to shirts and skirts, and then to automobiles. I suspect that tires may relate to shoes. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvreed ;
+    ns1:hasTag ns1:bcphbmgxd6x,
+        ns1:bcphbqvreed ;
+    ns1:itemId "bcpov6rsshoe2"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Henry Reed's Dream Journal: The Shoes of a Dreamer"^^xsd:string ;
+    ns1:urlSlug "the-shoes-of-a-dreamer"^^xsd:string .
 
 ns1:bcpov6rswoun a ns1:Post ;
     ns1:dateCreated "2005-04-01T11:32:52"^^xsd:dateTime ;
@@ -12919,6 +12959,20 @@ ns1:bcphbmepnkg a ns1:Post ;
     ns1:profileImg "5.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "5.1"^^xsd:string .
 
+ns1:bcphbmgxd6x a ns1:Post ;
+    ns1:coverImg "5.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1986-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.2-Dream-Network-Bulletin_Volume-5-Number-2.pdf" download="">Download issue 5.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.2-Dream-Network-Bulletin_Volume-5-Number-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
+    ns1:itemId "bcphbmgxd6x"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 5, issue 2"^^xsd:string ;
+    ns1:profileImg "5.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "5.2"^^xsd:string .
+
 ns1:bcphbnagfeb a ns1:Post ;
     ns1:coverImg "6.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1987-09-02T11:32:52"^^xsd:dateTime ;
@@ -13748,20 +13802,6 @@ ns1:bcphbrw63cp a ns1:Post ;
     ns1:profileImg "15.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "15.1"^^xsd:string .
 
-ns1:bcphbs4b6on a ns1:Post ;
-    ns1:coverImg "17.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1998-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.1-Dream-Network_Volume-17_No-1.pdf" download="">Download issue 17.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.1-Dream-Network_Volume-17_No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobdubou ;
-    ns1:itemId "bcphbs4b6on"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 17, issue 1: Lucid, Mutual, WILD Dreaming"^^xsd:string ;
-    ns1:profileImg "17.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "17.1"^^xsd:string .
-
 ns1:bcphbsvz3ik a ns1:Post ;
     ns1:coverImg "16.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1997-10-01T11:32:52"^^xsd:dateTime ;
@@ -14140,6 +14180,20 @@ ns1:bcphbq3pimm a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bobbie Ann Pimm"^^xsd:string ;
     ns1:profileImg "author-bobbie-ann.jpg"^^xsd:string .
+
+ns1:bcphbs4b6on a ns1:Post ;
+    ns1:coverImg "17.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1998-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.1-Dream-Network_Volume-17_No-1.pdf" download="">Download issue 17.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.1-Dream-Network_Volume-17_No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobdubou ;
+    ns1:itemId "bcphbs4b6on"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 17, issue 1: Lucid, Mutual, WILD Dreaming"^^xsd:string ;
+    ns1:profileImg "17.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "17.1"^^xsd:string .
 
 ns1:bcphbuzcgu3 a ns1:Post ;
     ns1:coverImg "20.4-cover.jpg"^^xsd:string ;
@@ -14985,18 +15039,6 @@ ns1:bcphbq3wagg a ns1:User ;
     ns1:name "Robert Waggoner"^^xsd:string ;
     ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
 
-ns1:bcphbqbeldo a ns1:User ;
-    ns1:coverImg "cover-author-jayebeldo.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://theartguardian.blogspot.com/">theartguardian.blogspot.com</a></p>
-
-<p>Jaye B is a writer, musician and artist. His art criticism has appeared in Art Paper, New North Artscape, Art Muscle, Northfield Magazine and elsewhere. His articles have also appeared in City Pages, Twin Cities Reader, Mysteries Magazine, Fahrenheit San Diego, High Plains Reader, New Dawn and Rain Taxi. He has appeared on BBC Radio, WGN Chicago, WLW Cincinnati and elsewhere in the mediasphere to discuss his work.</p>
-"""^^xsd:string ;
-    ns1:handle "jayeb"^^xsd:string ;
-    ns1:itemId "bcphbqbeldo"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jaye Beldo"^^xsd:string ;
-    ns1:profileImg "author-jayebeldo.jpg"^^xsd:string .
-
 ns1:bcphbqmotte a ns1:User ;
     ns1:coverImg "cover-author-marieotte.jpg"^^xsd:string ;
     ns1:description """<p>On Twitter: <a href="https://twitter.com/MarieOtte">twitter.com/MarieOtte</a> </p>
@@ -15197,6 +15239,18 @@ ns1:bcphbq3mcle a ns1:User ;
     ns1:name "Dick McLeester"^^xsd:string ;
     ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
 
+ns1:bcphbqbeldo a ns1:User ;
+    ns1:coverImg "cover-author-jayebeldo.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://theartguardian.blogspot.com/">theartguardian.blogspot.com</a></p>
+
+<p>Jaye B is a writer, musician and artist. His art criticism has appeared in Art Paper, New North Artscape, Art Muscle, Northfield Magazine and elsewhere. His articles have also appeared in City Pages, Twin Cities Reader, Mysteries Magazine, Fahrenheit San Diego, High Plains Reader, New Dawn and Rain Taxi. He has appeared on BBC Radio, WGN Chicago, WLW Cincinnati and elsewhere in the mediasphere to discuss his work.</p>
+"""^^xsd:string ;
+    ns1:handle "jayeb"^^xsd:string ;
+    ns1:itemId "bcphbqbeldo"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jaye Beldo"^^xsd:string ;
+    ns1:profileImg "author-jayebeldo.jpg"^^xsd:string .
+
 ns1:bcphbqfeins a ns1:User ;
     ns1:coverImg "cover-author-davidfeinstein.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://edenenergymedicine.com/about-us/david-feinstein/">edenenergymedicine.com</a></p>
@@ -15351,26 +15405,6 @@ ns1:bcphbqskoff a ns1:User ;
     ns1:name "Deborah Koff-Chapin"^^xsd:string ;
     ns1:profileImg "author-deborahkoffchapin.jpg"^^xsd:string .
 
-ns1:bcphbqvreed a ns1:User ;
-    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
-
-<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
-
-<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
-
-<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
-
-<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net.</p>
-
-<div class="media-item resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-"""^^xsd:string ;
-    ns1:handle "henryreed"^^xsd:string ;
-    ns1:itemId "bcphbqvreed"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Henry Reed"^^xsd:string ;
-    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
-
 ns1:bcpqn7zvpei a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
 """^^xsd:string ;
@@ -15431,6 +15465,26 @@ ns1:bcpqn72unjj a ns1:Post ;
     ns1:urlSlug "dream-network-volume-2"^^xsd:string .
 
 ns1:Item a <http://www.w3.org/2002/07/owl#Class> .
+
+ns1:bcphbqvreed a ns1:User ;
+    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
+
+<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
+
+<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
+
+<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
+
+<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net.</p>
+
+<div class="media-item resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+"""^^xsd:string ;
+    ns1:handle "henryreed"^^xsd:string ;
+    ns1:itemId "bcphbqvreed"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Henry Reed"^^xsd:string ;
+    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;

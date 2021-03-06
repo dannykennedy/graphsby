@@ -12,7 +12,7 @@ urlSlug: "dreams-and-relationships-book-reviews"
 profileImg: post-bcpov6glorev-0.jpg
 ---
 
-Lis one of our society's greatest delusions that we believe each of us exists as a separate, independent being. Modem Westerners tend to see sharp, clear cut boundaries between our individual selves and the rest of the world. Our independence, we assume, is the *primary* fact of our existence. As a result, we see our relationships as *secondary*: relationships may be important, but our individuality is our real, true essence. We believe we are all Robinson Crusoes, little islands unto ourselves, entirely self-sufficient, dependent on no one. 
+It is one of our society's greatest delusions that we believe each of us exists as a separate, independent being. Modern Westerners tend to see sharp, clear cut boundaries between our individual selves and the rest of the world. Our independence, we assume, is the *primary* fact of our existence. As a result, we see our relationships as *secondary*: relationships may be important, but our individuality is our real, true essence. We believe we are all Robinson Crusoes, little islands unto ourselves, entirely self-sufficient, dependent on no one. 
 
 This delusion has been challenged by many different critics in recent years (e.g., by feminists, theologians, developmental psychologists, and Marxian social theorists). The common theme in these challenges is that humans are essentially *relational* beings: we exist in relationships, our very being is a product of our relationships. The Robinson Crusoe fantasy blinds us to the fact that we are "always already" in relationships-with our families, our communities, the environment, the cosmos. 
 

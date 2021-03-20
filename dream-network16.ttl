@@ -669,20 +669,6 @@ ns1:bcphbslvedc a ns1:Post ;
     ns1:profileImg "16.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "16.3"^^xsd:string .
 
-ns1:bcphbt7x4uv a ns1:Post ;
-    ns1:coverImg "19.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2000-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.1-Dream-Network-Vol-19-No-1.pdf" download="">Download issue 19.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.1-Dream-Network-Vol-19-No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobmu4ep ;
-    ns1:itemId "bcphbt7x4uv"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 19, issue 1: Animals in Dreams: What do they Symbolize?"^^xsd:string ;
-    ns1:profileImg "19.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "19.1"^^xsd:string .
-
 ns1:bcphbtbcugl a ns1:Post ;
     ns1:coverImg "17.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1998-04-01T11:32:52"^^xsd:dateTime ;
@@ -6932,6 +6918,54 @@ ns1:bcpov6rsgpia a ns1:Post ;
     ns1:name "Jean Piaget - Hybrid Functioning of Dreams"^^xsd:string ;
     ns1:urlSlug "jean-piaget-hybrid-functioning-of-dreams"^^xsd:string .
 
+ns1:bcpov6rsgsum a ns1:Post ;
+    ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="../@ornabenshoshan"></p>
+
+<p><img src="../images/post-bcpov6rsgsum-0.jpg" style="max-width: 300px; height: auto" alt="Man on a horse"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Vanishing Delusions by <a href="../@ornabenshoshan">Orna Ben-Shoshan</a></i></div><!--/nopreview--></p>
+
+<p>In the summer of 2007, just a few weeks before I began to write my own book, I read an article by <a href="../@paullevy">Paul Levy</a> in the Dream Network Journal that introduced his book titled <em>The Madness of George W. Bush</em>. I was impressed with the beginning of Paul’s article, which held a profoundly significant truth that few seem to fully understand. He stated, “We live in a world where the deeper, underlying mythic patterns that have endlessly reiterated themselves throughout human history are incarnating and revealing themselves through world events for all who have eyes to see.” This is a truth reflected in his book that remains a valuable contribution, despite the fact that Bush is no longer in power. If we are not thoughtful, the mythic patterns Levy addresses will find their way back into our collective experience. I have come to understand that not only do these mythic patterns reveal themselves in world events, as Levy pointed out, but they are continuously revealing themselves in our personal lives, as well.</p>
+
+<p>For those of us who have been schooled in Shakespeare or in Jungian, humanistic, transactional, or transpersonal psychology, or even Freudian analysis, it is clear that much of who we think we are, in fact, is comprised of roles we play in a world that is but a stage. Each of us has our own unique dramas and traumas that weave in and out of the not so unique parts we play. We put on the costumes and don the masks that fit the part we play and we live from the roles instead of from our true selves. In As You Like It, Shakespeare described the 7 stages of a man’s life from infant to old man, during which there were expected actions played out. Jung saw us acting out of personality types and subtypes, in the stages of our lives, all with recognizable actions and reactions to the world around us, with the ultimate objective of becoming individuated beings embracing our whole Self.</p>
+
+<p>We can see our roles played out in relationships in terms of the Karpman Triangle, where we take on the part of rescuer, victim, or persecutor and each position holds a set of behaviors that attempt to control the other as a way of creating whatever feels missing in life. Sometimes, we play from one position and, later, switch to another when our primary role doesn’t seem to be working. Or, we can look at the American Psychological Associations, DSM IVR and see the behaviors that are characteristic of dysfunctional roles people play, with predictable dialogue, scripts, and outcomes. And, if we are willing to be completely honest, most of us can find ourselves in at least some of the categories of pathology on any given day.</p>
+
+<p>From this perspective of lives made of roles and scripts acted out on the stages of our lives, it is easy to see how many of us experience waking dreams or nightmares that keep coming back to us again and again, that contain seemingly a never-ending replay of suffering, emptiness, and disconnection. Some of us find a way to escape the nightmares of waking life with diligence, and focus on goals of great accomplishment, but even in success, find emptiness or meaninglessness in the end. What we try to escape in our waking lives can disturb us in our dreams, making sleep something we avoid or cannot find, and we fill our waking lives with distractions to avoid looking at what is not working, even if the distraction is to only look at what is working. Far too many of us feel as if the light has gone out of our eyes so very early in our lives and few seem to make it to the golden years, with that beautiful light still emanating from deep within. Many quake with unexpressed anger throughout their lives, only to have that anger reflected in body dysfunction in the late years or they quietly slip away trying desperately to not remember the failure of the roles they played in life.</p>
+
+<p>All of this—the mythic patterns played out on the global level, the scripted patterns played out in our individual lives, the relationships we enter with such hope that lead to disappointment, the unsuccessful attempts at finding freedom from the unpleasant patterns, and the dreams and nightmares we have while we sleep, that reflect what we won’t let ourselves see in waking life—are the experiences our true self draws to us to help our disconnected self wake from our personal and collective mythic sleep.</p>
+
+<p>Each of us—with all the truths and lies, the light and darkness, the consciousness and unconsciousness, and the unfathomable capacity for both good and evil—contains a unique spark of the God, a truth that most of us have long ago disowned, forgotten in some distant past incarnation, and we shutter to consider the possibility of this as the truth. Despite our experience of separation and the roles we play to distract ourselves from the pain of this experience, we may well be evolving toward a shift in our understanding of ourselves that will allow us to awaken and remember who we truly are, to release the individual and collective stage, the scripts, and the roles we have been playing and the masks we have worn our whole life, if not for lifetimes, and live from our authentic and unique God and Goddess selves.</p>
+
+<p>This idea of waking from the dream is not new, and certainly, the ideas I have expressed have been written before I penned these words on virtual paper. But, you might ask, what do these ideas mean in your everyday lived life?</p>
+
+<p>From the perspective expressed herein, everything in your life, whether waking or dreaming (and some would say there is no difference between our waking and dreaming selves), creates reflections to help you see what you believe, to help you recognize that you are the creator of your life experiences that, too often, repeat themselves over and over again in different forms until we recognize that we have created them and have a choice to continue or to stop these creations.</p>
+
+<p>A painful event in your childhood might have caused you to believe in loss and your entire life has been peppered with struggles related to loss as a theme: loss of love, loss of connection, loss of financial security, loss of respect, and on and on. Or, you might live a life attempting to hold on to everything, while underneath, what fuels the holding on is that belief in loss. You might believe in sacrifice, which is reflected back to us in multigenerational sacrifice, whether as war hero, as martyr, as defender of the weak or downtrodden. You sacrifice yourself and experience the sacrifice of others. You might believe in powerlessness and spend your whole life suffering at the hands of others, or find yourself fighting for power, a fight that you never quite win. But if you do win it, you are never safe in the winning, because of the fear that whatever you might be able to grasp will be snatched away from you if you are not hyper vigilant. Deep within there is still a belief in powerlessness.</p>
+
+<p>You might believe in power and find that you possess it, but some early event caused you to believe you cannot possess love. As powerful as you become, you are unable to maintain love in your life. Or, you might believe in love, but not that you can have both love and power, so your life is surrounded by those you love in a disempowered state, never realizing that you created what you believed.</p>
+
+<p>This idea that we create our own lives and experiences is not easy to embrace. It can feel like an unjust judgment, especially when circumstances that impact us seem to be completely of someone else’s making. But once understood, the awareness we gain can provide the doorway to the life we came to live. When we learn to embrace our responsibility without attaching blame, guilt, shame, or punishment, we can discover the myths we have held, the beliefs to which we have attached that draw to us those conditions upon which we build—or tear down—our lives.</p>
+
+<p>The Western world holds such a limited understanding of who we are. Its commitment to individualism negates the reality that much of who we experience ourselves as being, is a collection of individual and cultural mythic patterns and roles created generations ago, and, perhaps, lifetimes ago. While we are living our beliefs as individuals with the masks that we wear for the roles we play, we are, also, living the beliefs of our parents and grandparents, and the collective beliefs of our cultures and our species. But, even this more expanded view of ourselves as the current embodiment of a collective past, is not who we truly are. This identity, this image we hold that we call us, is simply a reflection of the beliefs or what Levy referred to as the mythic patterns that cover the unique being that we are, a being that most of us have never known exists.</p>
+
+<p>We are living in a time when we have the opportunity to become conscious of our beliefs by being willing to examine the dreams and the life experiences we draw to us, whether the dream comes to us in our sleep or in our daily life. When we look at what we are individually and collectively creating, we can recognize the masks that we wear and discover who we truly are under the mask. And as the amazing sparks of God that we are, finally, we can be free to choose the lives we want to create.</p>
+
+<p>From the fall of 2007 to the winter of 2008, I wrote a book about my own journey to examine what I created in my life to discover what beliefs prevented me from knowing who I truly am. As this work was coming to a close, I became aware that what I had written was not just for my own journey, but also, was written to offer a perspective that might assist others in discovering who they truly are. This book, <em>The Meaning of Three: The Mask</em>, reveals so many of the mythic patterns played out in one individual life and explores ways of becoming free of those patterns. Once we remove the mask to discover and embrace who we truly are, the patterns and roles melt away, and what remains is the essence of who we are, who we have always been, finally uncovered and free to live as the unique being that we are, eternally in union with the Great Mystery…the Creator of all that is… including us. ∞</p>
+
+<p><img src="../images/post-bcpov6rsgsum-1.png" alt="Ad for The Meaning of Three: The Mask" /></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbssmith ;
+    ns1:hasTag ns1:bcphbssmith,
+        ns1:bcphbycqos5 ;
+    ns1:itemId "bcpov6rsgsum"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The God-Self Under the Mask: Waking from the Personal and Collective Mythic Sleep"^^xsd:string ;
+    ns1:urlSlug "the-god-self-under-the-mask"^^xsd:string .
+
 ns1:bcpov6rsguid a ns1:Post ;
     ns1:dateCreated "1983-12-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>It is commonplace today to hear it said that we can solicit guidance from our dreams - that we can pose questions or problems to our dreams and receive answers or solutions. No doubt many subscribers to DNB have had experiences that lend support to this notion. On the other hand, scientific research on dreams has hardly demonstrated that dreams have any meaning worth interpreting, much less that they may be solicited as oracles. What a gap in world views! </p>
@@ -6996,6 +7030,81 @@ ns1:bcpov6rshoes a ns1:Post ;
     ns1:name "Shoes of the dreamer"^^xsd:string ;
     ns1:profileImg "post-bcpov6rshoes-0.jpg"^^xsd:string ;
     ns1:urlSlug "shoes-of-the-dreamer"^^xsd:string .
+
+ns1:bcpov6rsmbts a ns1:Post ;
+    ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Just as Sir Thomas More struggled against the demands of King Henry VIII, as depicted in the film, <em>A Man for all Seasons</em> (Bolt, 1960), many humans are trapped by the unbending structures built around the ordered and predictable seasons of their lives. The worlds, within which many of us live—especially in the Western tradition—are filled with what we accept as unalterable rules and most of us not only live by those rules, but die by them as well. Stanley Krippner (2002) points out that, “our culture consistently erects boundaries, constructs borders, and divides the world into neat (and sometimes overly meticulous) categories that allow us to go about our business in a more or less orderly way” (p. 34). And rarely in the tight constructions of those bounded worlds do we find people who understand that there is something very real, perhaps even more real, that exists beyond the rigid constructs of what we mistakenly identify as the real world.</p>
+
+<p>The accepted world filled with verifiable and testable structures—the empirical world that is seen, touched, heard, tasted, and smelled—moves, we assume, in predictable patterns that build the ordered seasons of our lives, until some unusual experience challenges the structures. And, perhaps, for the first time in our lives, we have an opportunity to decide what world we are willing to embrace. We can embrace the unusual experience and allow for the possibility of a much broader, more limitless world or reject the experience and continue to live…and die…within our comforting, yet often uncomfortable limitations.</p>
+
+<p>Stanley Krippner is one of those rare persons who—from a very early age—knew that there were worlds beyond this one and has spent his life studying and teaching about these worlds so that others could learn to glimpse into the more limitless realities that he first observed when he was so very young. In an email correspondence, Stanley explained to me about his early interest in these other worlds:</p>
+
+<blockquote>
+  <p><em>“As a child I spent a great deal of time reading. I lived on a farm in Wisconsin. There were very few people my age in the neighborhood, and my sister was much younger than I was. Once my parents taught me how to read (before attending school), I devoured anything and everything around the house. Of special interest was a set of books my grandparents had owned. They were kept in the attic. They contained mythological tales from all over the world, and this stimulated my interest in mythology. Many of these myths, legends, and folk tales involved dreams. So I began to start my own dream diary. I continued this on and off through junior high school, senior high school, and college. Once I began graduate school, I kept writing down my dreams continuously and now have a collection of several thousand…. My grandparents' set of books contained many examples of extraordinary dreams — those about the future, about past lives, about visitations by angels or spirits, etc. So my interest in PSI and in dreams goes back to those old books. What would I have done without them? But PSI and dreams later became a part of my personal experience, and so there was never a “disconnect” between what I read and what I experienced.”</em></p>
+</blockquote>
+
+<p>When Stanley was about eight years old, he dreamed one of those pivotal and life-altering dreams that opened the door to what was to become his life’s path, as well as his gift to the world. He shared with me that dream.</p>
+
+<blockquote>
+  <p><em>“I dreamed that I was outside our farm, looking up at the sky. Suddenly the sky opened up and I could see an entire cosmos beyond what was ordinarily visible. The second world was made up of pastel colors, complex casual-like forms, intricate, but harmonious. The message to me was that there was more to life and the universe than is available to our ordinary ways of perceiving reality. In other words, there is an everyday, ordinary reality, but, also, a non-ordinary reality lurking just beyond. It requires focus and discipline—or perhaps grace or luck—to glimpse it. Nonetheless, it is there, and we ignore it at our peril.”</em></p>
+</blockquote>
+
+<p>In a 2002 article, <em>Dancing with the Trickster: Notes for a Transpersonal Autobiography</em>, Dr. Krippner explains that “unusual experiences are usually omitted from autobiographies, and yet they are often among the most important of one’s life” (p.1), an idea he reflected from the writings of White (1999). Not only are they omitted from autobiographies, but the fact that we still call these experiences “unusual” suggest that we omit them from our personal histories as well. Stanley tells of an experience he had when he was 14 years old. He had been an avid reader from very early on in his life, and in his words, he “desperately wanted a set of encyclopedias,” but his family was unable to afford such a purchase. When his request was denied, he went to his room and began to cry but then realized that a rich uncle would possibly be able to help him. The thought of getting this help shifted the tears to his planning of possible appeals to his uncle. But the 14-year-old’s attention made another major shift.</p>
+
+<blockquote>
+  <p><em>“Suddenly, I bolted upright in my bed. My psyche swelled and my mind expanded in every direction. I suddenly knew what I was not supposed to know: Uncle Max could not be depended upon because he was dead. At that moment, the telephone rang. My mother answered the phone and, between sobs, told us that my cousin had just called. Uncle Max had taken ill, was rushed to the hospital, and died shortly after his arrival.” (Krippner, 1975, p.1, Krippner, 2002, p.2)</em></p>
+</blockquote>
+
+<p>It is possible that many of us, sometime during our childhoods, have had experiences in waking life and in dreams that could have opened our hearts and minds to swelling psyches and expanded minds. But we had no external support or internal framework that could have contained such experiences, so we dismissed them and relegated them to unconscious or subconscious places inside us and went about our world-building that did not allow the experiences—ones that our traditional constructs deemed unacceptable—to have a place.</p>
+
+<p>Stanley made a place for the unusual or exceptional experiences that became a significant part of his life. He dreamed of the death of his father a few days before his passing and the death of a dear friend the day that she actually died (Krippner, 2006). In other dreamtime and experiences in “altered states”, he encountered the unfolding of time where he watched his world constructed by words and numbers disintegrate in a cyclone, and then visited Kublai Kan, experienced being in Versailles with Benjamin Franklin, and finally visited Thomas Jefferson at Monticello. He then found himself:</p>
+
+<blockquote>
+  <p><em>“…at the White House gazing at a bust of Abraham Lincoln; someone whispered, “The President has been shot,” and Lincoln’s visage was replaced by that of John Kennedy. I did not realize that this tragic vision would be actualized less than two years later.” (Krippner, 2002, pp. 8-9)</em></p>
+</blockquote>
+
+<p>For those of us who have had the privilege to work or just “be” with Stanley—students, colleagues, and peers—it is no surprise that he was given a Native American name, Wichasah Washte, which is Lakota Sioux for “Good Man.” It is, also, no surprise that his family name, Krippner, of German heritage, means “crib-maker,” and that his Irish forebears were named Porter, which translates as “doorkeeper.” Stanley Krippner has been the “good man” who has opened the door for so many who first glimpsed through and then entered the new, expanded worlds. He has spent his life providing a safe place—the crib— for those newly born into the grander worlds that he first envisioned when he, himself, was only eight years old. And he has nurtured so many by giving them the support to walk in strength on their own paths beyond the acceptable and limiting worlds of their past.</p>
+
+<p>For those who did not have an attic filled with mind expanding books that might have taught about mythology and dreams, Stanley wrote the books, so that others shelves could be filled with information that would allow the curious and the skeptic alike to choose to look at unusual experiences from a more expansive place. For those who did not have a “good man” in their growing up years, he became the good man—born into a family of good people—whose personal mythology, he acknowledges, includes a “determination to bring…learning, love, and light” into this world. He explained that he has been a man who has done his best:</p>
+
+<blockquote>
+  <p><em>“…to imitate the Brazilian capoeiristas, connecting with my ‘animal alertness,’ happily dancing, though sometimes clumsily groping my way through life. All the while, I wait for a window of opportunity to make a move on behalf of intelligence, compassion, creativity, integrity, and the other values I hold dear.” (Krippner, 2002, pp. 41-42)</em></p>
+</blockquote>
+
+<p>Jeanne Achterberg, Ph.D. and fellow professor of psychology at Saybrook Graduate School, summed up in her own words, what many colleagues have reflected over the years:</p>
+
+<blockquote>
+  <p><em>“Perhaps unbeknownst to him, Stanley Krippner has been my mentor and role model for decades in matters of scholarship, teaching, and in embodying the essence of human kindness. His open mind and heart are most laudable virtues for a scientist, and his creativity has no bounds. It is a great privilege to be his colleague and friend.”</em></p>
+</blockquote>
+
+<p>The most common response from his former students, when asked about his impact on their lives, was that Dr. Stanley Krippner has been their mentor. Many expressed unending gratitude that he gave them the tools to work with their dreams by introducing them to Dr. Montague Ullman’s method of dream appreciation (Sela-Smith, 2000, Ullman, 1996). Many have used this method, as well as many other processes they learned from taking Stanley’s Personal Mythology course at Saybrook, in working with their clients, as well as in presenting workshops that many of his students, now therapists, teachers, and workshop leaders, present all over the country, and world.</p>
+
+<p>There is no question that Stanley Krippner is a man who has led his life as unencumbered as possible by the rigid rules and standard structures that regulate the seasons of many lives. This writer, along with so many others acknowledge that we consider it our good fortune that this Man Beyond the Seasons, who recorded thousands of his dreams from the time he was a child and has written over one thousand articles, books, and book chapters on extraordinary experiences, had the focus and discipline, as well as the grace and luck to bring understanding to the world beyond the ordinary reality. He has gifted us with his discoveries to allow us to build the internal framework to live our lives more expansively, as does he.</p>
+
+<h2>References</h2>
+
+<p>Bolt, R. (1960) A man for all seasons. <a href="https://web.archive.org/web/20070310185757/http://www.cooper.edu/humanities/classes/coreclasses/hss2/library/man_for_all_seasons.html">http://www.cooper.edu/humanities</a></p>
+
+<p>Krippner, S. (1975) Song of the siren: A parapsychological odyssey. NY: Harper &amp; Row. </p>
+
+<p>Krippner, S. (2002.). Dancing with the trickster: Notes for a transpersonal autobiography. <a href="https://web.archive.org/web/20070307013053/www.stanleykrippner.com/papers/autobiogood.htm">www.stanleykrippner.com/papers</a> </p>
+
+<p>Krippner, S. (2006). Getting through the grief: After-death communication experiences and their effects on experience. In L. Storm &amp; M. A. Thalbourne (Eds.). The survival of human consciousness: Essays on the possibility of life after death (Chapter 9). </p>
+
+<p>Jefferson, NC: McFarland. Sela-Smith, S. (2000). The Ullman method of dream analysis: Context and content. Dream Network Journal. 19 (1), 36-40, 42. </p>
+
+<p>Ullman, M. (2006). Appreciating Dreams. Cosimo: <a href="www.cosimobooks.com">www.cosimobooks.com</a>. </p>
+
+<p>White, R.A. (1999). How to write an EHE autobiography (3rd Ed.). New Bern, NC. Exceptional Human Experiences Network. The latest version of this piece appears on the Exceptional Human Experiences Network’s website at <a href="https://www.ehe.org/display/ehe-pagefe1e.html?ID=84">ehe.org</a>.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbssmith ;
+    ns1:hasTag ns1:bcphbq3krip,
+        ns1:bcphbssmith,
+        ns1:bcphbxjsuyu ;
+    ns1:itemId "bcpov6rsmbts"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "A Man Beyond the Seasons"^^xsd:string ;
+    ns1:urlSlug "stanley-krippner-a-man-beyond-the-seasons"^^xsd:string .
 
 ns1:bcpov6rsoths a ns1:Post ;
     ns1:dateCreated "2014-01-01T11:32:52"^^xsd:dateTime ;
@@ -7438,6 +7547,101 @@ ns1:bcpov6rsshoe2 a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Henry Reed's Dream Journal: The Shoes of a Dreamer"^^xsd:string ;
     ns1:urlSlug "the-shoes-of-a-dreamer"^^xsd:string .
+
+ns1:bcpov6rssull a ns1:Post ;
+    ns1:dateCreated "2000-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zfacet-1.jpg" style="max-width: 300px; height: auto" alt="Montague Ullman"/></p>
+
+<p>Five simple words, "if this were my dream" make the Ullman (1996, 1999; Ullman &amp; Zimmerman, 1979) process of Dream Appreciation one of the most profound instruments I have found to unlock the messages in dreams - and more. I had the privilege of participating in three dreamwork trainings with Monte Ullman in the late 1990s.</p>
+
+<p>Ullman began his career as a psychiatrist but soon discovered the power of working with dreams and dedicated his life to teaching a method that allows the dreamer, as well as dream group participants, to access the deepest recesses of the unconscious. He believes that there is a species consciousness that is calling for our personal and collective survival and drawing us toward our ongoing evolution. Each of us, according to Ullman's philosophy, contain billions of single-celled organisms that have formed collectives of organs, systems, and functions, as they are learning to live as one, and as species, we are several billions of people also learning to live as one. Just as the human being cannot survive if cells become self-destructive or attack other life giving cells within the body, the species cannot survive if we, as individuals or as social groups, destroy others or ourselves with destructive patterns. </p>
+
+<p>I interpret this to mean that for us to survive, cells and human beings must learn to respect life both individually and collectively. We must honor boundaries without creating impermeable walls, be distinct without separating, connect without absorbing or being absorbed, and be flexible without collapsing as we change and grow. We must actively share, nurture, love, and allow each and all to survive and thrive. However, in our development, as individuals and in social units, we have formed patterns that are a danger to ourselves and to our species. Ullman suggests species consciousness, perhaps something akin to Jung's collective unconscious, is the universal force that seeks to bring into awareness those behavior patterns that can lead to destruction. Dreaming is one of the languages of that universal consciousness. Dr. Ullman and Zimmerman (1979) contend that:</p>
+
+<blockquote>
+  <p><em>The dreamer in us keeps urging us on to greater wholeness... Dreams never give up on us. They are with us every night urging us to face the issues that restrict and discourage us, or that limit our inventiveness. (Pp. 318-319)</em></p>
+</blockquote>
+
+<p>In <em>Appreciating Dreams</em>, Ullman (1996) states:</p>
+
+<blockquote>
+  <p><em>From an evolutionary point of view, there may be another role that our biology plays in connection with our dreams. I think dreamwork brings us into closer touch with a vital aspect of our natural animal heritage.</em></p>
+  
+  <p><em>Animals depend for survival on the accuracy and truthfulness of their sensorially perceived world. That dependency is still with us in our effort to adapt to a still imperfect human environment. The task is a bit more difficult for us because of the pitfalls and falsehoods that our cultural heritage has subjected us to. To the extent that we are victimized by false notions, we are not free to truly fulfill ourselves. Asleep and dreaming. we are in pursuit of freedom in those areas that have eluded us while awake. The relationship between freedom and truth is the driving force of our dreams. (p. 243)</em></p>
+</blockquote>
+
+<p>Picture, if you will, a group of people coming together who are interested in understanding their dreams. It is possible that no-one has met anyone else in the group and yet, by the end of a process, it is likely they will feel as if they have known each other their whole lives. In that time someone or maybe several of the members will have shared with the group a dream. There will have been careful listening, questioning, and each will have had the opportunity to take the dream that is presented as if it were their own. Feelings and metaphors within the dream will have been explored, and meanings orchestrated. There will be a bond that connects the participants through space and time, simply because they dared to look into the darkness, step into it, and discover what is there for them.</p>
+
+<p>Group work, which often makes intimate matters public, is important according to Ullman (1979, 1996, 1999), because it allows the dreamer to use the eyes of the group to see aspects of the self that have been hidden. The waking self often is self-deceptive. To be effective, the group must provide a nonjudgmental, loving environment for the dreamer to expose those intimate matters and safely explore them. The dreamer must remain in charge of the process and be able to stop, limit sharing, or go only as deeply as can be handled. Both the dreamer and the participants have the opportunity to use the dream to discover messages from species-level consciousness and apply them to their own lives. And it all begins when each is willing to say: "If this were my dream."</p>
+
+<h2>The Steps in the Process</h2>
+
+<p>In Ullman's (1979, 1996, 1999) plan, there is no expert interpreter in dream appreciation. Instead the rich collective life-experience of the members provides an array of multiple levels and diverse viewpoints for many possible interpretations. A group learns the process from one who has been trained in the method; the teacher-leader then takes a place in the group as a participant. Dream presentation is always voluntary and after appropriate training, leadership is voluntary also. Each session is begun by soliciting a volunteer for leadership, with those volunteering deciding who will lead. When the leader is selected, the leader asks if there are any persons wanting to present a dream. The ones who wish to present a dream also decide among themselves who will be the dream presenter in that session. Determining leadership and dream presentation are models of volunteerism, democracy, and ongoing choice, all characteristics inherent in the dream process itself. The dream can be a single image or an entire story; processing can take two or more hours.</p>
+
+<p>In the first stage the dreamer (a) reads or tells the dream while group members write it down, or read along. Upon completion, (b) the group members are free to question about the dream content for clarification. The dreamer is not to contextualize or interpret meanings at this point but is to reflect images, interactions, and feelings within the dream only. By allowing only dream content, participants are able more easily to take the dream into their own personal contexts.</p>
+
+<p>The second stage begins with the first group member who says, "if this were my dream, I would feel..." which signals participants to take on the dream as if they had dreamed it. This is done by sharing their own feelings and when this feels complete, then sharing their thoughts about images and metaphors that they find in the dream content. The diversity of contributions offers many possible interpretations for the I dreamer to consider as he or she explores the potential hidden messages.</p>
+
+<p>In the third stage part (a) the dreamer takes back the dream and may respond to anything that came into awareness as a result of hearing others' comments. This is followed by part (b) in which the dreamer, if open to investigate further, can gain greater meaning by recapturing the events that occurred or the thoughts that were present in waking life prior to the dream. After every aspect and symbol of the dream has been examined for possible meanings in the context of the dreamer's life, part (c) allows the dream to be read back to the dreamer, scene by scene, stopping for any additional insight when appropriate. Group members are then asked to offer what Ullman calls part (d) of stage three which is orchestrating projections to suggest meaningful interpretations of the dream as a whole that link the dream and the waking-reality of the dreamer. Finally, in part (e) the dreamer is given the opportunity to make any last comments.</p>
+
+<p>If the group meets again, the next session begins with giving the dreamer in the previous dream group an opportunity to present any additional insights regarding the dream in the intervening period.</p>
+
+<h2>The responsibilities</h2>
+
+<p>Forming, leading, presenting, and participating in a dream group requires attention to a number of responsibilities if integrity is to be maintained. Above all else, the dreamer is to be in control of the process, deciding how deep to go, how much to disclose, and whether or not to advance into each stage. If for any reason at any time in the process the sense of safety feels threatened, the dreamer can stop the process and after expressing the need to stop, can choose to continue or end the process. Recognizing the tension that might exist between safety and discovery, the group and group leader can encourage stretching just a bit beyond the comfort level if the dreamer is willing. Always. a high degree of sensitivity is required to nudge without pushing too hard or too far. It is often in the thoughtful nudge that great insight occurs while a thoughtless push can devastate the dreamer and destroy the process.</p>
+
+<p>The leader has dual roles. One is to be a participant; the other is to take responsibility for directing the process according to the stages. This must be done with clarity, flow, and flexibility in a way that honors the needs of the dreamer and the delicacy, yet, power of the process. The leader is to be sensitive to the feelings of both the dreamer and group members. At times it may be necessary to stop the process to clarify or give the dreamer or an affected participant time to recover from emotional responses. All of this must be allowed to flow gracefully within whatever time has been allotted for the work.</p>
+
+<p>Group participants have responsibilities as well. They contribute most meaningfully and gain from the process themselves when they are fully present, when they listen with attention, and intend to experience the dream in thought and feeling. Through "borrowing the dream," the participant is free to make projections based on what is publicly known about the dreamer, or with the dreamer's permission if privately known, or based on memories from the participant's own life without taking the focus away from the dreamer. Participants can be attentive to possible themes, contradictions, or metaphoric meanings, and notice not only what seems present but also what seems absent. It is valuable to notice places that seem to have a charge. All of this must be done without judgment and with sensitive concern for the safety of the dreamer.</p>
+
+<p>Finally, every aspect of the dream itself must be honored as significant communication from the unconscious. A single image, a two-liner, or a multi-phased dream contains a message that was important enough for the dreaming part of the self connected to species consciousness to send. It deserves to be respected and heard.</p>
+
+<h2>The power of the process</h2>
+
+<p>In the five years I have participated in Dr. Ullman's dream group process at Saybrook with Stanley Krippner and with Dr. Ullman, himself, I have come to deeply respect the potential for transformational healing and self-discovery. In those years of dreamwork, dreamers and participants have been able to face their demons, discover their blind spots, find answers to troubling dilemmas, and understand circumstances in their lives that previously may have seemed unexplainable. The persistence of "species consciousness" seeming to push messages into awareness in spite of individual or group resistance is amazing.</p>
+
+<p>My interest in discovering connections among things caused me to notice that often in dream groups, questions that were raised in the content of the first dream seemed to be answered by the second, and understanding the second dream was made possible within the context of the first. I also noticed this same process going on between dream groups in which I was the only repeat participant. Thematic connections not only clarified dreams in the later group but brought deeper insights into a past dream group's theme. Whatever this "energetic connective tissue" is that flows between cells forming a single person, seems to flow between individuals forming a palpable energetic relationship that exists in groups and between groups. Perhaps species consciousness is somehow in this as yet unexplainable connectivity that makes itself known when we are willing to look for it.</p>
+
+<p>The dissolution of boundaries between dreams and dream group experiences also drew my attention. I recall being greatly surprised the first time I realized that a dream was literally but unconsciously being replicated in the group process. A woman presented a dream in which she experienced herself walking along a busy thoroughfare pulling a cart filled with a heavy load. She forced her way ahead of every one else and created a traffic jam by stopping in the middle of an intersection. The dreamer held her fist in defiance to the blocked angry drivers who began throwing things at her while she was calling attention to the fact that she did not have a car, but rather was pulling her load without help. She woke feeling distressed and unappreciated.</p>
+
+<p>In the dream group, she pressed ahead of other dreamers to insist that she have the opportunity to present her dream. Others who wanted to present their dreams gave in to her almost demanding request, but not without creating a current of anger and resistance within the group. They did not seem to support her with full engagement in the process. Instead they threw out suggestions of interpretations that did not seem useful to her. She found herself dealing with the content of her dream by herself. She continued by making her own interpretations about the meaning of her dream within the context of her recent experiences without incorporating anything that the group had offered. In a moment of profound insight, she became silent, looked around the room, and broke into tears. She realized she had done the same thing in the group that she had done in her dream. She could see that her attitude was what had generated the anger and the lack of support both in her dream and in that moment. For the first time in her life, she understood long held patterns that caused her to believe she had to carry her burdens all by herself. Her breakthrough melted her resistance and the heart of the group. Everyone became willing to help her when she finally got out of her own way by getting out of their way and allowed them to be moved to support her in her breakthrough. What a powerful metaphor!</p>
+
+<p>When I decided to write this paper, I could have selected any number of dreams, but this particular one came to mind and I literally could not remember any of the other dreams I had worked with over the years. By recalling this dream, several years after it was presented, I began to see something I was not in a place to understand at the time that I attended that dream group. I have had a strong, almost rigid tendency to carry my burdens all by myself, always working without a sense of connection to a group. I lived most of my life, within my family of origin and within my marriage, alone. I moved to China alone; my private therapy practice is conducted alone. Even my selection of an at-a-distance program for my Ph.D. is a reflection of my living the metaphor within the woman's dream. Most of my courses I completed without ever asking assistance from professors. This created conflict with a couple of them that delayed receiving credit for my work. As I look at this pattern, I notice that working alone seems to have been choiceless. Some inner belief made me do everything alone. There have been times when working alone has been helpful, and there still may be such times in the future, but there are also times when I need to be able to work cooperatively within a group. Working in isolation may not have been damaging in the past, though I can't really know that. I do know that it is no longer good for me to disallow other options. Now that I am beginning my dissertation, I can see that a rigid, loner-stance would not only be a liability, it could block my reaching the goal.</p>
+
+<p>It is my belief that recalling and using this particular dream at this particular time is no accident. I deeply feel that a loving consciousness has called me to release patterns that would prevent me from becoming who I came here to be. I am being drawn to a new way, connecting and working with others. Somehow, I believe that as changes are made by each of us on a microcosmic level, resonating sounds of doors opening somewhere out there in the universe are heard that might lead to macrocosmic changes for the species.</p>
+
+<p>Probably the most far-reaching aspect of having "dream group awareness" was when I discovered the dream process can be applied to life experience. I became aware that events in people's waking lives had many of the same characteristics as dreams. When taking notes on clients' "stories," I discovered I could pay attention to all the details with the same attention I held as a participant in a dream group. I examined the setting the client reported, looked for themes, noticed tensions and observed contradictions. I looked for metaphoric potential. I looked for what seemed missing, perhaps emotional responses or pieces that didn't seem to connect because something was left out. I listened for a sense of story, a belief or myth that might be playing itself out in the person's life. I noticed the play on words that were embedded in the telling of the story. I even noticed each of the people the client talked about and began to look for aspects of the client that seemed to be reflected in the characters who "peopled" their report. I could take the stories into my life, and experience them as if they were my own, and notice my own responses. I approached the client's story with the same kind of non-judgmental, loving, respect, as in dreamwork. As I orchestrated projections, clients began to gain profound insight and make significant and immediate changes. I am reminded of a report told by Salk (1983), the developer of the polio vaccine.</p>
+
+<p>He said: </p>
+
+<blockquote>
+  <p><em>Very early in my life I would imagine myself in the position of the object in which I was interested. Later, when I became a scientist, I would picture myself as a virus, or as a cancer cell, for example, and try to sense what it would be like to be either. I would also imagine myself as the immune system, and I would try to reconstruct what I would do as an immune system engaged in combating a virus or cancer cell... Before long, this internal dialogue became second nature to me. (p. 7)</em></p>
+</blockquote>
+
+<p>I believe it is this consciousness that is entered in dream group work or in working with clients. Asking clients to look at an issue as if it were a dream and by joining them in the dream by taking it on as if it were mine, we step back to see what is really going on, looking for the myths and belief systems through which they create their lives. The clients recognizes that they have a choice regarding what myths direct their lives and whether or not they will take responsibility for that choice.</p>
+
+<p>I have the choice of interpreting events in my life as a dream and all the participants in the events as characters who hold messages from the greater consciousness, just as I can fill that role in their lives should they choose. I can ask myself the same questions a leader or a participant would ask a dreamer and listen to possible orchestrating projections. More than any other method, the Ullman dream appreciation process has helped me to take responsibility for all that occurs in my life. I am learning to look at my life as I look at dreams, without judgment, blame, or guilt. I notice that on some level everything that comes into my life is a result of my personal myths whether I am consciously aware of them or not. I can choose to be responsible, meaning I can choose to respond. In making the choice of taking responsibility for what I create, I can also move to a place where I consciously create what I choose.</p>
+
+<p>Playing on the words of an old favorite Disney song from "Cinderella," I would say A life is a dream your heart makes, when you are fast asleep. Awaken to the dream!</p>
+
+<h2>References</h2>
+
+<p>Salk, J. (1983). Anatomy of reality. New York: Columbia University Press </p>
+
+<p>Ullman, M. (1996). Appreciating dreams: A group approach. London: Sage Publications. </p>
+
+<p>Ullman, M. (1999). Variety of dream experiences. (2nd Ed.) New York: State U. of New York Press. </p>
+
+<p>Ullman, M. &amp; Zimmerman, N. (1979). Working with dreams: Self- understanding, problem solving, and enriched creativity though dream appreciation. NY. G.P. Putnam's Sons.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbssmith ;
+    ns1:hasTag ns1:bcphbqflull,
+        ns1:bcphbssmith,
+        ns1:bcphbt7x4uv ;
+    ns1:itemId "bcpov6rssull"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Ullman Method of Dream Analysis: Content and Context"^^xsd:string ;
+    ns1:urlSlug "the-ullman-method-of-dream-analysis"^^xsd:string .
 
 ns1:bcpov6rswoun a ns1:Post ;
     ns1:dateCreated "2005-04-01T11:32:52"^^xsd:dateTime ;
@@ -13157,6 +13361,20 @@ ns1:bcphbsc3ttt a ns1:Post ;
     ns1:profileImg "16.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "16.1"^^xsd:string .
 
+ns1:bcphbt7x4uv a ns1:Post ;
+    ns1:coverImg "19.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2000-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.1-Dream-Network-Vol-19-No-1.pdf" download="">Download issue 19.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.1-Dream-Network-Vol-19-No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobmu4ep ;
+    ns1:itemId "bcphbt7x4uv"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 19, issue 1: Animals in Dreams: What do they Symbolize?"^^xsd:string ;
+    ns1:profileImg "19.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "19.1"^^xsd:string .
+
 ns1:bcphbuj7fdh a ns1:Post ;
     ns1:coverImg "19.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2000-07-01T11:32:52"^^xsd:dateTime ;
@@ -14024,21 +14242,6 @@ ns1:bcphbxal53y a ns1:Post ;
     ns1:profileImg "25.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "25.3"^^xsd:string .
 
-ns1:bcphbxjsuyu a ns1:Post ;
-    ns1:coverImg "26.1-2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf" download="">Download issue 26.1-2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3krip,
-        ns1:bcphbq3xdnj,
-        ns1:bcpqocbmxkx ;
-    ns1:itemId "bcphbxjsuyu"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 26, issue 1: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
-    ns1:profileImg "26.1-2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "26.1-2"^^xsd:string .
-
 ns1:bcphbxplpmw a ns1:Post ;
     ns1:coverImg "26.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2007-10-01T11:32:52"^^xsd:dateTime ;
@@ -14305,19 +14508,20 @@ ns1:bcphbv6y2vp a ns1:Post ;
     ns1:profileImg "23.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "23.2"^^xsd:string .
 
-ns1:bcphbycqos5 a ns1:Post ;
-    ns1:coverImg "28.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf" download="">Download issue 28.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf">View online</a></p>
+ns1:bcphbxjsuyu a ns1:Post ;
+    ns1:coverImg "26.1-2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf" download="">Download issue 26.1-2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf">View online</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqochapy2 ;
-    ns1:itemId "bcphbycqos5"^^xsd:string ;
+    ns1:hasTag ns1:bcphbq3krip,
+        ns1:bcphbq3xdnj,
+        ns1:bcpqocbmxkx ;
+    ns1:itemId "bcphbxjsuyu"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 28, issue 1: Chaos & Apocalypse"^^xsd:string ;
-    ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "28.1"^^xsd:string .
+    ns1:name "Volume 26, issue 1: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
+    ns1:profileImg "26.1-2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "26.1-2"^^xsd:string .
 
 ns1:bcphbyukqzw a ns1:Post ;
     ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
@@ -14792,6 +14996,20 @@ ns1:bcphbwv4jtr a ns1:Post ;
     ns1:profileImg "24.4-25.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "24.4-25.1"^^xsd:string .
 
+ns1:bcphbycqos5 a ns1:Post ;
+    ns1:coverImg "28.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf" download="">Download issue 28.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.1_chaos_apocalypse.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
+    ns1:itemId "bcphbycqos5"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 28, issue 1: Chaos & Apocalypse"^^xsd:string ;
+    ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "28.1"^^xsd:string .
+
 ns1:bcphbygiw4g a ns1:Post ;
     ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
@@ -15179,6 +15397,20 @@ ns1:bcphbqvruss a ns1:User ;
     ns1:name "Russell Lockhart"^^xsd:string ;
     ns1:profileImg "author-ral.jpg"^^xsd:string .
 
+ns1:bcphbssmith a ns1:User ;
+    ns1:coverImg "cover-author-sandy-sela-smith.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.infiniteconnections.us/">infiniteconnections.us</a></p>
+
+<p>Dr. Sandy Sela-Smith earned her Ph.D. in psychology after a 15-year healing journey that took her into the depths of her internal world, as well as into many cultures and countries in the external world. Her journey also brought her into the core of numerous spiritual traditions from the ancient past to the leading edge of current human spiritual understanding.</p>
+
+<p>Perhaps, the single most important discovery of these multiple journeys is that no matter how disconnected we may feel, we are not separate; but rather, we are infinitely connected with each other and with everything that was, and is, and shall be.</p>
+"""^^xsd:string ;
+    ns1:handle "sandyselasmith"^^xsd:string ;
+    ns1:itemId "bcphbssmith"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Sandy Sela-Smith"^^xsd:string ;
+    ns1:profileImg "author-sandy-sela-smith.jpg"^^xsd:string .
+
 ns1:bcpqn76e7n5 a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>
 """^^xsd:string ;
@@ -15247,23 +15479,6 @@ ns1:bcphbq3norm a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Rachel Norment"^^xsd:string ;
     ns1:profileImg "author-rachelnorment.jpg"^^xsd:string .
-
-ns1:bcphbqflull a ns1:User ;
-    ns1:description """<p>Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
-
-<p>More information on Montague Ullman and selected writings on Judy Gardiner's website, <a href="http://www.cosmicdreaming.com/meetdrullman.html">cosmicdreaming.com</a></p>
-
-<p>Montague Ullman (1916 – 2008) was a renowned psychiatrist, psychoanalyst and parapsychologist who founded the Dream Laboratory at the Maimonides Medical Center in Brooklyn, New York and for over three decades promoted public interest in dreams and dream sharing groups. He published around 20 articles in the Dream Network, several of which were first published here. </p>
-
-<p>These writings are reproduced with the permission of <a href="http://www.cosmicdreaming.com/abouttheauthor.html">Judy Gardiner</a>, Literary Executor, Estate of Montague Ullman. Profile image by Judy Gardiner - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=17845039">commons.wikimedia.org</a></p>
-
-<p><em>The following papers are under different copyrights. Their content may not be copied or e-mailed to multiple sites or posted to listservers without the copyright holder's express written permission. However, users may print, download or email articles for individual use.</em></p>
-"""^^xsd:string ;
-    ns1:handle "montagueullman"^^xsd:string ;
-    ns1:itemId "bcphbqflull"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Montague Ullman"^^xsd:string ;
-    ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
 
 ns1:bcphbq3bogz a ns1:User ;
     ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
@@ -15375,6 +15590,23 @@ ns1:bcphbqfgreg a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jill Gregory"^^xsd:string ;
     ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
+
+ns1:bcphbqflull a ns1:User ;
+    ns1:description """<p>Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
+
+<p>More information on Montague Ullman and selected writings on Judy Gardiner's website, <a href="http://www.cosmicdreaming.com/meetdrullman.html">cosmicdreaming.com</a></p>
+
+<p>Montague Ullman (1916 – 2008) was a renowned psychiatrist, psychoanalyst and parapsychologist who founded the Dream Laboratory at the Maimonides Medical Center in Brooklyn, New York and for over three decades promoted public interest in dreams and dream sharing groups. He published around 20 articles in the Dream Network, several of which were first published here. </p>
+
+<p>These writings are reproduced with the permission of <a href="http://www.cosmicdreaming.com/abouttheauthor.html">Judy Gardiner</a>, Literary Executor, Estate of Montague Ullman. Profile image by Judy Gardiner - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=17845039">commons.wikimedia.org</a></p>
+
+<p><em>The following papers are under different copyrights. Their content may not be copied or e-mailed to multiple sites or posted to listservers without the copyright holder's express written permission. However, users may print, download or email articles for individual use.</em></p>
+"""^^xsd:string ;
+    ns1:handle "montagueullman"^^xsd:string ;
+    ns1:itemId "bcphbqflull"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Montague Ullman"^^xsd:string ;
+    ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
 
 ns1:bcphbqflyer a ns1:User ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
@@ -15515,27 +15747,6 @@ ns1:bcpqn7zvpei a ns1:Post ;
     ns1:profileImg "volume-1.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-1"^^xsd:string .
 
-ns1:bcphbq3krip a ns1:User ;
-    ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
-
-<p>Fundraiser: <a href="https://www.gofundme.com/f/support-for-dr-stanley-krippner">Support For Dr. Stanley Krippner</a></p>
-
-<p>Stanley Krippner was the Alan Watts Professor of Psychology at Saybrook University for 47 years. He is a Fellow in five American Psychological Association (APA) divisions, and past-president of two divisions. Formerly, he was director of the Kent State University Child Study Center, Kent Ohio, and the Maimonides Medical Center Dream Research Laboratory, Brooklyn New York. Currently, he is Affiliated Distinguished Faculty, California Institute of Integral Studies in San Francisco.</p>
-
-<p>He is co-author of <em>Extraordinary Dreams, Personal Mythology, Dream Telepathy, Sex and Love in the 21st Century, The Voice of Rolling Thunder, Demystifying Shamans and Their World, A Psychiatrist in Paradise: Treating Mental Illness in Bali, Post-Traumatic Stress Disorder: Biography of a Disease, Dreamworking: How to Use Your Dreams for Creative Problem-Solving, and Haunted by Combat: Understanding PTSD in War Veterans, and co-editor of Holistic Treatment in Mental Health: A Handbook of Practitioners’ Perspectives, Healing Tales, Healing Stories, Mysterious Minds, Debating Psychic Experience, The Psychological Impact of War on Civilians: An International Perspective, Dreamscaping: New and Creative Ways to Work with Your Dreams, Broken Images, Broken Selves: Dissociative Narratives in Clinical Practice,</em> and <em>Varieties of Anomalous Experience: Examining the Scientific Evidence.</em> He edited or co-edited ten volumes of <em>Advances in Parapsychological Research</em>. </p>
-
-<p>He received the APA Award for Distinguished Contributions to the International Development of Psychology in 2002, the Society for Psychological Hypnosis Award for Distinguished Contributions to Professional Hypnosis in 2002, the Ashley Montagu Peace Award in 2003, and lifetime achievement awards from the International Association for the Study of Dreams, The International Network on Personal Meaning, the Society for Humanistic Psychology, the Parapsychological Association, and the J.B. Rhine Lifetime Achievement in Parapsychology Award .He received that Award for Distinguished Contributions to Professional Hypnosis from the Society for Psychological Hypnosis, the Senior Contributor Award from the Society for Counseling Psychology, the Pathfinder Award from the Association for Humanistic Psychology, and the Charlotte and Karl Buhler Award from the Society for Humanistic Psychology.</p>
-
-<p>In addition to his APA listings, he holds Fellow status in several other organizations including, the Society for the Scientific Study of Religion, the Society for the Scientific Study of Sexuality, the American Educational Research Association, the Western Psychological Association, the Society of Clinical and Experimental Hypnosis, and the American Society of Clinical Hypnosis. He is a Founding Fellow of the Association for Psychological Science and the American Academy of Clinical Sexologists. He holds Diplomate status in the American Board of Sexology and the International Academy of Behavioral Medicine, Counseling, and Psychotherapy. He is certified as an Advanced Alcohol and Drug Counselor.</p>
-
-<p>Krippner has conducted workshops and seminars on dreams and/or hypnosis in Argentina, Brazil, Canada, China, Colombia, Cuba, Cyprus, Ecuador, Finland, France, Germany, Great Britain, Italy, Japan, Lithuania, Mexico, the Netherlands, Panama, the Philippines, Portugal, Puerto Rico, Russia, South Africa, Spain, Sweden, Venezuela, and at four congresses of the Interamerican Psychological Association. He is a member of the editorial board for the <em>Revista Argentina de Psicologia Paranormal</em>, and the advisory board for International School for Psychotherapy, Counseling, and Group Leadership (St. Petersburg) and the Czech Unitaria (Prague). He holds faculty appointments at the Universidade Holistica Internacional (Brasilia), El Universidad Transpersonal (Puebla, México), and the Instituto de Medicina y Tecnologia Avanzada de la Conducta (Ciudad Juarez). He has given invited addresses for the Chinese Academy of Sciences, the Russian Academy of Pedagogical Sciences, and the School for Diplomatic Studies, Montevideo, Uruguay. In 1959, he received the Service to Youth Award from the Young Men’s Christian Association in Richmond, Virginia, his first award.</p>
-"""^^xsd:string ;
-    ns1:handle "stanleykrippner"^^xsd:string ;
-    ns1:itemId "bcphbq3krip"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dr. Stanley Krippner"^^xsd:string ;
-    ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
-
 ns1:bcphbqsorna a ns1:User ;
     ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.ben-shoshan.com/en/">ben-shoshan.com</a></p>
@@ -15565,6 +15776,27 @@ ns1:bcpqn72unjj a ns1:Post ;
     ns1:urlSlug "dream-network-volume-2"^^xsd:string .
 
 ns1:Item a <http://www.w3.org/2002/07/owl#Class> .
+
+ns1:bcphbq3krip a ns1:User ;
+    ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
+
+<p>Fundraiser: <a href="https://www.gofundme.com/f/support-for-dr-stanley-krippner">Support For Dr. Stanley Krippner</a></p>
+
+<p>Stanley Krippner was the Alan Watts Professor of Psychology at Saybrook University for 47 years. He is a Fellow in five American Psychological Association (APA) divisions, and past-president of two divisions. Formerly, he was director of the Kent State University Child Study Center, Kent Ohio, and the Maimonides Medical Center Dream Research Laboratory, Brooklyn New York. Currently, he is Affiliated Distinguished Faculty, California Institute of Integral Studies in San Francisco.</p>
+
+<p>He is co-author of <em>Extraordinary Dreams, Personal Mythology, Dream Telepathy, Sex and Love in the 21st Century, The Voice of Rolling Thunder, Demystifying Shamans and Their World, A Psychiatrist in Paradise: Treating Mental Illness in Bali, Post-Traumatic Stress Disorder: Biography of a Disease, Dreamworking: How to Use Your Dreams for Creative Problem-Solving, and Haunted by Combat: Understanding PTSD in War Veterans, and co-editor of Holistic Treatment in Mental Health: A Handbook of Practitioners’ Perspectives, Healing Tales, Healing Stories, Mysterious Minds, Debating Psychic Experience, The Psychological Impact of War on Civilians: An International Perspective, Dreamscaping: New and Creative Ways to Work with Your Dreams, Broken Images, Broken Selves: Dissociative Narratives in Clinical Practice,</em> and <em>Varieties of Anomalous Experience: Examining the Scientific Evidence.</em> He edited or co-edited ten volumes of <em>Advances in Parapsychological Research</em>. </p>
+
+<p>He received the APA Award for Distinguished Contributions to the International Development of Psychology in 2002, the Society for Psychological Hypnosis Award for Distinguished Contributions to Professional Hypnosis in 2002, the Ashley Montagu Peace Award in 2003, and lifetime achievement awards from the International Association for the Study of Dreams, The International Network on Personal Meaning, the Society for Humanistic Psychology, the Parapsychological Association, and the J.B. Rhine Lifetime Achievement in Parapsychology Award .He received that Award for Distinguished Contributions to Professional Hypnosis from the Society for Psychological Hypnosis, the Senior Contributor Award from the Society for Counseling Psychology, the Pathfinder Award from the Association for Humanistic Psychology, and the Charlotte and Karl Buhler Award from the Society for Humanistic Psychology.</p>
+
+<p>In addition to his APA listings, he holds Fellow status in several other organizations including, the Society for the Scientific Study of Religion, the Society for the Scientific Study of Sexuality, the American Educational Research Association, the Western Psychological Association, the Society of Clinical and Experimental Hypnosis, and the American Society of Clinical Hypnosis. He is a Founding Fellow of the Association for Psychological Science and the American Academy of Clinical Sexologists. He holds Diplomate status in the American Board of Sexology and the International Academy of Behavioral Medicine, Counseling, and Psychotherapy. He is certified as an Advanced Alcohol and Drug Counselor.</p>
+
+<p>Krippner has conducted workshops and seminars on dreams and/or hypnosis in Argentina, Brazil, Canada, China, Colombia, Cuba, Cyprus, Ecuador, Finland, France, Germany, Great Britain, Italy, Japan, Lithuania, Mexico, the Netherlands, Panama, the Philippines, Portugal, Puerto Rico, Russia, South Africa, Spain, Sweden, Venezuela, and at four congresses of the Interamerican Psychological Association. He is a member of the editorial board for the <em>Revista Argentina de Psicologia Paranormal</em>, and the advisory board for International School for Psychotherapy, Counseling, and Group Leadership (St. Petersburg) and the Czech Unitaria (Prague). He holds faculty appointments at the Universidade Holistica Internacional (Brasilia), El Universidad Transpersonal (Puebla, México), and the Instituto de Medicina y Tecnologia Avanzada de la Conducta (Ciudad Juarez). He has given invited addresses for the Chinese Academy of Sciences, the Russian Academy of Pedagogical Sciences, and the School for Diplomatic Studies, Montevideo, Uruguay. In 1959, he received the Service to Youth Award from the Young Men’s Christian Association in Richmond, Virginia, his first award.</p>
+"""^^xsd:string ;
+    ns1:handle "stanleykrippner"^^xsd:string ;
+    ns1:itemId "bcphbq3krip"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dr. Stanley Krippner"^^xsd:string ;
+    ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
 
 ns1:bcphbqvreed a ns1:User ;
     ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;

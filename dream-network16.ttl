@@ -97,20 +97,6 @@ ns1:bcphbirkrx4 a ns1:Post ;
     ns1:profileImg "1.10-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.10"^^xsd:string .
 
-ns1:bcphbivy3pu a ns1:Post ;
-    ns1:coverImg "1.11-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.11_Dream_Network_Bulletin_Vol.1_No_11.pdf" download="">Download issue 1.11</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.11_Dream_Network_Bulletin_Vol.1_No_11.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn7zvpei ;
-    ns1:itemId "bcphbivy3pu"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 1, issue 11"^^xsd:string ;
-    ns1:profileImg "1.11-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "1.11"^^xsd:string .
-
 ns1:bcphbj5rhy2 a ns1:Post ;
     ns1:coverImg "2.9-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-09-01T11:32:52"^^xsd:dateTime ;
@@ -6835,6 +6821,50 @@ ns1:bcpov6rs24hr a ns1:Post ;
     ns1:profileImg "post-bcpov6rs24hr-0.jpg"^^xsd:string ;
     ns1:urlSlug "book-review-dreaming-while-awake-arnold-mindell"^^xsd:string .
 
+ns1:bcpov6rsgcdt a ns1:Post ;
+    ns1:dateCreated "1983-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Traditionally, technology is not linked to the world of visualization, regenerative processes or dreams. Technology is thought to be too narrow to contain or support that delicate, yet ever-so-strong inner world. It would seem that the binary, on-off logic would render dreams lifeless and bruised. Yet the computer provides qualities that surprisingly lend themselves to dream work. Two of these qualities are storage and retrieval of the dream report, and text editing.</p>
+
+<p>In the development of a dream translation program for the Apple Computer, these two qualities have been incorporated. The software is designed to translate the dream report into a format that substitutes meaning for symbology. This is accomplished through the creation of an expanded, second dream report using the individual's personal symbology.</p>
+
+<p>This one-to-one correspondence between symbol and meaning is only one technique and is not intended to fully contain the total meaning of the dream report. What it does provide is an alternative view that opens up other possibilities for self-exploration.</p>
+
+<p>In the past these rigid formulas (symbol = meaning) were used for gleaning understanding from the dream. To dream of teeth falling out meant that you were pregnant. Period. No ifs, ands, or buts. The individual's dream reality was narrowed and constricted to fit a pre-fabricated system that had the effect of decreasing the understanding of the dream rather than enhancing it.</p>
+
+<p>With the advent of 20th century technology, the individual is now able to create and store his or her own data bank of dream symbols, and access them within a matter of seconds. These are then used in a substitution process to generate a second expanded dream report. The second dream report is a natural outgrowth of the individual's own understanding of his or her own dreams. As the personal data bank of dream symbols is constantly updated, the second dream report reflects the person's current life changes.</p>
+
+<h2>Example: Original Report</h2>
+
+<blockquote>
+  <p><em>I am in an old-fashioned puritan village. All the colors are softened like an old film. Everywhere people are dressed up in puritan costumes and are enacting small scenes from the Bible. They perform them naturally as part of their lives. I, too, am dressed like a puritan. We are going to a production. Loretta is driving a V.W. We go around a country lane that has hedges sticking out which we can not see around, so we have ta go very slowly. We arrive at the school. We are sitting in the back row. Some guys are sitting next to me and I ask them to move over so I can save a place for Robert. Outside I see the characters in the play.</em></p>
+</blockquote>
+
+<h2>Second Dream Report: Created by using the individual's personal symbology data bank</h2>
+
+<blockquote>
+  <p><em>A part of myself is in an old-fashioned controller community. All the moods are softened like an old sequence. Everywhere people are dressed up in controller disguise and are enacting small scripts from the life. They perform them naturally as part of their lives. A part of myself, too, is dressed like a controller. We are going to a revelation. Saboteur is driving cheap transportation. We go around primitive route that has obstacles sticking out which we can not see around, so we have ta go very slowly. We arrive at the place of growth. We are sitting in the back perspective. Some guys are sitting next to me and a part of myself asks them to move over so a part of myself can save a place for light. Outside a part of myself sees the roles in the belief examples.</em></p>
+</blockquote>
+
+<p>The computer generated report ensures an abstracted perspective built upon the individual's personal view of the dream symbols. Therein lies the major effort on the part of the individual of creating a personal dream symbology which becomes the link between the dream and the computer. </p>
+
+<p>This software is available for use on the Apple Home Computer System from Eastbank Institute. Cost: $20. Eastbank is a non-profit educational institute that designs and funds projects, seminars and activities. </p>
+
+<p>EASTBANK INSTITUTE</p>
+
+<p>724 Bonita Drive </p>
+
+<p>Winter Park, Florida 32789</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbbhutch,
+        ns1:bcphbqhutch ;
+    ns1:hasTag ns1:bcphbbhutch,
+        ns1:bcphbivy3pu,
+        ns1:bcphbqhutch ;
+    ns1:itemId "bcpov6rsgcdt"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Computerized Dream Translation"^^xsd:string ;
+    ns1:urlSlug "computerized-dream-translation"^^xsd:string .
+
 ns1:bcpov6rsgdnp a ns1:Post ;
     ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6rsgdnp-0.jpg" alt="Sweet Dreams" /></p>
@@ -6873,6 +6903,34 @@ ns1:bcpov6rsgdnp a ns1:Post ;
     ns1:name "The Dream Net Project: Computer Assisted Dream Interpretation"^^xsd:string ;
     ns1:profileImg "post-bcpov6rsgdnp-0.jpg"^^xsd:string ;
     ns1:urlSlug "the-dream-net-project-computer-assisted-dream-interpretation"^^xsd:string .
+
+ns1:bcpov6rsgpia a ns1:Post ;
+    ns1:dateCreated "1986-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6rsgpia-0.png" style="max-width: 200px; height: auto" alt="Magic lamp"/></p>
+
+<p>Many theorists regard dreams as either compensatory or adaptive in nature. Jean Piaget viewed dreams as being a hybrid, incorporating both of these functions. His concept of dream functioning straddles Adlerian, Freudian and Jungian theories. Piaget believed that dreams were multi-purposeful. He designated six categories to describe their relationship to waking reality (Piaget, 1962). His six categories were also applicable in the realms of unconscious symbolism and symbolic play.</p>
+
+<p>On the one end of the Piagetian scale, dreams have the capacity to fulfil wishes. This concept is very similar to the Freudian concept of dream functioning. The wish fulfilment occurs, according to Piaget, without secondary symbolism, which indicates that wish fulfilment occurs through unconscious assimilation. Assimilation is that process in which external reality is incorporated into psychological or biological structures by modification of external elements. The unconscious, assimilative functioning of the dream is manifested in the symbolic representation of daily experience.</p>
+
+<p>Secondly; dreams are seen by Piaget as capable of fulfilling wishes through a process of conscious assimilation as opposed to unconscious assimilation. in this classification scheme, there is a direct one-to-one correspondence between dream object and waking object. The dream symbol is the same object that is being dealt with during waking reality.</p>
+
+<p>In the third category, Piaget viewed dreams as having compensatory capabilities similar to Jung's perception of dream functioning. For example, events that are unpleasant to the individual during waking reality are represented and expressed in dreams as pleasurable experiences.</p>
+
+<p>Nightmares occupy the fourth category. They are considered the counterparts of waking play in which fearful events are deliberately created by the individual. The function of the nightmare is to simulate, manipulate and experience situations and events that would otherwise have irreversIble consequences if created during waking reality.</p>
+
+<p>The fifth category is comprised of dreams that function as punishment for actions contrary to the individual's accepted perception of right and wrong.</p>
+
+<p>Lastly, dreams function as direct translations of organic stimulus from waking reality. One of Piaget's examples is the child's dream of watering a garden which would correspond to a child wetting the bed in reality.</p>
+
+<p><img src="../images/post-bcpov6rsgpia-1.png" alt="Eastbank advertisement" /></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqhutch ;
+    ns1:hasTag ns1:bcphbmgxd6x,
+        ns1:bcphbqhutch ;
+    ns1:itemId "bcpov6rsgpia"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Jean Piaget - Hybrid Functioning of Dreams"^^xsd:string ;
+    ns1:urlSlug "jean-piaget-hybrid-functioning-of-dreams"^^xsd:string .
 
 ns1:bcpov6rsguid a ns1:Post ;
     ns1:dateCreated "1983-12-01T11:32:52"^^xsd:dateTime ;
@@ -12805,6 +12863,20 @@ ns1:bcphbimbkal a ns1:Post ;
     ns1:profileImg "1.9-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.9"^^xsd:string .
 
+ns1:bcphbivy3pu a ns1:Post ;
+    ns1:coverImg "1.11-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.11_Dream_Network_Bulletin_Vol.1_No_11.pdf" download="">Download issue 1.11</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.11_Dream_Network_Bulletin_Vol.1_No_11.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
+    ns1:itemId "bcphbivy3pu"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1, issue 11"^^xsd:string ;
+    ns1:profileImg "1.11-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "1.11"^^xsd:string .
+
 ns1:bcphbjpp3z2 a ns1:Post ;
     ns1:coverImg "2.6-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-06-01T11:32:52"^^xsd:dateTime ;
@@ -12958,20 +13030,6 @@ ns1:bcphbmepnkg a ns1:Post ;
     ns1:name "Volume 5, issue 1"^^xsd:string ;
     ns1:profileImg "5.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "5.1"^^xsd:string .
-
-ns1:bcphbmgxd6x a ns1:Post ;
-    ns1:coverImg "5.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1986-03-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.2-Dream-Network-Bulletin_Volume-5-Number-2.pdf" download="">Download issue 5.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.2-Dream-Network-Bulletin_Volume-5-Number-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoact7dh ;
-    ns1:itemId "bcphbmgxd6x"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 5, issue 2"^^xsd:string ;
-    ns1:profileImg "5.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "5.2"^^xsd:string .
 
 ns1:bcphbnagfeb a ns1:Post ;
     ns1:coverImg "6.3-cover.jpg"^^xsd:string ;
@@ -13296,6 +13354,16 @@ ns1:bcphb2huxmr a ns1:Post ;
     ns1:profileImg "33.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.3"^^xsd:string .
 
+ns1:bcphbbhutch a ns1:User ;
+    ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;
+    ns1:description """<p></p>
+"""^^xsd:string ;
+    ns1:handle "beckhutchinson"^^xsd:string ;
+    ns1:itemId "bcphbbhutch"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Beck Hutchinson"^^xsd:string ;
+    ns1:profileImg "tree.png"^^xsd:string .
+
 ns1:bcphbgreene a ns1:User ;
     ns1:coverImg "cover-author-tara-greene.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://infinitynow.wordpress.com/">infinitynow.wordpress.com</a></p>
@@ -13367,6 +13435,20 @@ ns1:bcphbm5mept a ns1:Post ;
     ns1:name "Volume 6, issue 2"^^xsd:string ;
     ns1:profileImg "6.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.2"^^xsd:string .
+
+ns1:bcphbmgxd6x a ns1:Post ;
+    ns1:coverImg "5.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1986-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.2-Dream-Network-Bulletin_Volume-5-Number-2.pdf" download="">Download issue 5.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.2-Dream-Network-Bulletin_Volume-5-Number-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
+    ns1:itemId "bcphbmgxd6x"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 5, issue 2"^^xsd:string ;
+    ns1:profileImg "5.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "5.2"^^xsd:string .
 
 ns1:bcphbmvxewa a ns1:Post ;
     ns1:coverImg "5.6-cover.jpg"^^xsd:string ;
@@ -14655,6 +14737,24 @@ ns1:bcphbqbynum a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Edward Bruce Bynum, Ph.D., ABPP"^^xsd:string ;
     ns1:profileImg "author-edward-bynum.jpg"^^xsd:string .
+
+ns1:bcphbqhutch a ns1:User ;
+    ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.dreamlynx.com">dreamlynx.com</a></p>
+
+<p>Linton Hutchinson has been working with dreams for over thirty years. He first introduced the use of dreams at Stonesoup School an alternative program based on Summerhill that he and others created to meet the needs of students that were bored to tears in public school. Kids from 8 to 18 were part of a community that shared dreams in the morning, wore their dreams during that day, and played at mutual dreaming and lucidity as easily as you might watch TV!! The dream classes at Stonesoup integrated the Seth Material Jung, and Cayce, with Gestalt, drawing, sculpture and endless plays and dramas of the conflicts and resolutions of their dreams at night.</p>
+
+<p>Linton went back to school finished his Masters in Counseling and later his Ph.D. at Union Institute in Psychology. His dissertation was on the Waking and Dreaming Need Profiles of medical students in Grenada, West Indies and how they integrated dreams in their learning process.</p>
+
+<p>Since that time, Linton has taught dream courses at Rollins College and integrated them in mental health counseling courses at the University of the South Pacific, Nova University, and the University of Central Florida. He was the Regional Coordinator for Webster University's Mental Health Counseling program where graduate students learned Dream Translation techniques using <a href="http://www.Dreamlynx.com">DreamLynx</a>, a web site devoted to the translation of dreams that he and his wife Beck created.</p>
+
+<p>Linton believes that having students realize that working with unconscious material can help clients facilitate change is important in the therapeutic process. Giving students the skills to augment this process has been a a goal and opportunity that he has used.</p>
+"""^^xsd:string ;
+    ns1:handle "linthutchinson"^^xsd:string ;
+    ns1:itemId "bcphbqhutch"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Lint Hutchinson"^^xsd:string ;
+    ns1:profileImg "author-linton-hutchinson.jpg"^^xsd:string .
 
 ns1:bcphbqvlach a ns1:User ;
     ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>

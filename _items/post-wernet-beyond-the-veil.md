@@ -1,0 +1,66 @@
+---
+dateCreated: "2014-01-01T11:32:52"
+itemId: bcpov6rsnaic
+layout: post
+name: "A Glimpse Beyond the Veil: Nightmares as Initiatory Callings"
+tags:
+  - hasTag: traviswernet
+  - hasAuthor: traviswernet
+  - hasTag: 33.1
+type: post
+urlSlug: "nightmares-as-initiatory-callings"
+---
+
+The exploration of how our dreams help us connect with favorable solutions to the challenges of waking life is a central task of dream work. A helpful place to begin or continue such a quest is to look at the dreams that most disturb us. Why? Not because we ought to over-emphasize what feels difficult or that we want to deny the delights to be found in the beauty, joy and pleasure of our dreams or waking lives. Rather, we may tend to want to sidestep the many rough-edged images, scenarios and circumstances that we find in our thorny dream experiences and amid the obstacles of daily life. When we can face “all that is,” our experience opens us up to a more robust, fulfilling sense of being alive.
+
+My mind and heart are deeply encouraged when I read Paco Mitchell’s beseeching commentary from the Winter 2013 issue of DNJ, in which I perceive him to be making an invitation for honoring what I’ll call the trials present in dreams. His words ring out as a call to engagement, “We must be willing to stare into the face of troubling, even intolerable, images… This truth-telling aspect of dreams, their ‘negativity’ is what makes them regenerative engines of salvation and conveyors of divine wisdom.”<sup>1</sup>
+
+Not long ago, I was invited to speak about working with dreams and sound healing on a radio program, which seeks to honor the intellect in relation to spiritual disciplines. The interviewers asked how I got into doing dream work as a profession. A dream from childhood stirred to the surface and I shared this early experience as an example of a vision that bespeaks elements of a vocational mission.
+
+The dream, which appeared to me at age four, is as follows:
+
+> **The Eagle Who Darkens the Sky** 
+> *In the dream, I’m in the back yard of my childhood home, lifting up and down on the swing-set. As I rise higher and higher and feel the elation that comes with the promise of flight, I view an enormous eagle up in the sky. As it approaches, it blots out the sun with its imposing body. I know that it’s going to release its bowels and that nothing I can do to avoid this liquid white-brown mass as it descends to the earth will allow me to survive the suffocating effects of its arrival. I see that the powerful bird’s far-reaching projectile of fecund waste is headed right for me and will consume the surrounding DNJ/ Spring 2014 19 houses and fields. The thought of running occurs to me, but I understand that trying to escape won’t help. There’s no time and I know I can’t move fast or far enough. I waken with the telltale emotions of a nightmare, terrified.*
+
+When sharing this dream on the radio program, I became quite self-conscious about naming the *dark matter* in the dream, the eagle’s excrement. My hosts also seemed uncomfortable having the topic introduced during the interview. The reluctance to face such direct dream messages, however, is exactly what we want to be dealing with. As Carl Jung is well known for saying, the darkness we avoid within tends to become fixed in the form of outer fate in our waking lives. This notion rings true in my experience.
+
+I relay the dream here to illustrate the way that, even as children, we are invited by our dreams to honor such exigent energies. If the dreaming source is capable of determining that even a child’s mind, heart, soul and body are up to the task of going through difficult dreams like this one, it would seem to be true that we can work helpfully with and learn from them. This dream potentially raises the question for all of us: what dreams have we witnessed in which we are being asked to engage? Dreams which have challenged us? Such dreaming experiences hold the very energy we need in order to find solutions to our lives and for relating to their essential messages about how to embody a full breadth of wholeness. Paradoxically, these troubling scenarios are also the ones we might overlook due to their repulsive quality. Often, we might wish to put away difficult dreams in favor of more pleasant, sparkling visions and images.
+
+[Jeremy Taylor](../@jeremytaylor) has made “facing up” to disquieting dreams a primary principle of his projective-style dream work by declaring, “What is true of nightmares is true of all dreams: what is remembered is worth remembering because it always contains valuable information. All dreams bring us creative energies and insights into the meaning of confusing emotions.”<sup>2</sup> When teaching in public, and in his revelatory writings, Taylor adds that this doesn’t mean the dreams or associated feelings aren’t difficult to witness and undergo.
+
+The above dream, “The Eagle Who Darkens the Sky”, provides an example of a guiding vision, which has informed a lifelong quest for purpose and meaning. It also contains several universal symbols and flavors. Ancient and contemporary teachings state that we each receive at least one glimpse behind the veil of our soul’s deep yet hidden agreements made prior to this lifetime in our youth. These intuitive spiritual hunches and forms of instruction based on experience say that we tend to forget our larger vocations through the necessities of being and becoming human via the rigorous process of socialization.
+
+Mythologies and folktales, the world over, speak to this proclivity for a kind of *amnesia* in relation to the Divine. Robert Bly discusses this forgetfulness in his and Marion Woodman’s book about a Russian fairy tale *The Maiden King*. In that tale, it’s Ivan’s fate to fall asleep when the divine feminine appears. There are countless other such wisdom tales to be found in various cultures.
+
+Dreams are spontaneous *mythic* expressions that touch into and express the personal and then reach down to the transpersonal, collectively unconscious domains of existence. My own vision, “The Eagle Who Darkens the Sky” depicts a great mythic struggle. The appearance of this larger-than-life dream raptor suggests the presence of the Divine in the budding life of a young boy, which symbolically could be said to typify the tone of any meeting between human and sacred energies, a *dream challenge*. In this encounter, the more limited, small self is met and confronted by the powerful, large, limitless forces of spirit, soul and nature.
+
+The energy of swinging in the dream evokes the possibility of flight, and therefore, freedom. The scene and setting in the dream also exemplify the essence of descent, gravity and *life on the ground*. It reflects the reality and relationship of opposites. Here *humanness* and *animal-as-divine-archetype* meet one another in the dreaming. The eternal dance of light and dark, as enacted in the dream, with the sun being covered by the flying creature’s body is central and attention-grabbing. The little and the big, that which is grounded and that which is in flight, and the energy of the invitation to learn how to be between, enlarged, within and encircled by both - all are brought forward in the encounter betwixt the eagle and the boy, rising and falling amid earth and heaven.
+
+The threat contained in my childhood eagle dream is common to nightmares: the impending arrival of this bird’s shadowy gift brings with it the understanding that the dreamer will suffer and possibly die. Marie-Louise von Franz has spoken lucidly about this, “Every dark thing one falls into can be called an initiation. To be initiated into a thing means to go into it… The shamans say that being a medicine man (or woman) begins by falling into the power of the demons.<sup>3</sup> *(parentheses added)* The dream eagle from my vision, then, may be seen as demonic, in the sense that it poses a gruesome, dark menace to the dreamer, who experiences the fall/descent in relation to the animal spirit power above him.
+
+Traditional cultures maintain practices that bestow this kind of initiatory experience through quests for vision. The initiate in these rites of passage makes contact with spirit animals or beings who put him or her through an ordeal whose purpose is to enlarge the personality beyond what we could name as ordinary human ego concerns.
+
+This classic archetypal occurrence is often portrayed in the immanence of some form of *dream-death*, whose other face is the renewing provenance of rebirth. My dream eagle comes to say that there are trials to endure and that there will be lifelong invitations to surrender to spirit, which will offer up the vital potencies of transformation. Spirit, as represented in the dream, contains fiercely destructive and potentially beneficent powers. Perhaps a true looking into the face of such depth energies always reveals this level of paradox in the search for wholeness by displaying these powers of creation and destruction.
+
+The words of the poet Rilke describe these motifs accurately:
+
+> *“Just as the winged energy of delight carried you over many chasms early on, now raise the daringly imagined arch holding up the astounding bridges. Miracle doesn’t lie only in the amazing living through and defeat of danger. Miracles are miracles in the clear achievement that is earned.”*
+
+In communicating these direct symbolic experiences, the dream says that there will be plenty of “crap” to deal with and it won’t be easy. The source of this bountiful darkness, however, especially as it relates to the pursuit of becoming a more fully embodied, spirited human being, is *nature*, as typified by the animal-person of the eagle in the dream and the surrounding energy of the sky, the sun, the darkness, the yard, and the nearby fields. If the dreamer can learn from this form of *suffering* (a word whose root meaning is “to undergo” or “go under”) through implied suffocation, the pursuit of genuine freedom—an integral embodiment—may be realized. This tribulation teaches the ability to be under something demanding, and thereby to understand or stand under it, and to potentially break through the inherent hazards of life to a previously unseen threshold of growth and new life.
+
+This study of troubling dreams also calls forth the words of Archetypal Psychologist, James Hillman, who reflects, “The *worst* images are the *best*, for they are the ones that restore a figure to its pristine power as a numinous person at work in the soul.”<sup>4</sup> The paradoxical quality innately woven into the trying images and experiences in the above dream, and all dreams, is a living energy that demands recognition. The *trouble* stands out so starkly as to require being acknowledged and, through this, sanctity is found.
+
+How many of us have had similar guiding dreams and how might they have helped to shape and inform the lives that we’ve led and will lead? Have we been, are we now, and will we be attentive to recalling and working with them? How might they help and inspire others?
+
+That four year-old boy was trying to return to the sky, to the pure world of spirit. Spirit appeared and said, “No, not now. Now is the time for personifying the fertilizing, gravity-laden and humbling energies of matter, dark and troublesome as these may be. This is the task, and this is the great effort… within such an invitation lies a hidden gift.” That treasure continues to unfold in my own life, as I realize that the boons of the dream have offered the felt sense of being able to meet similar obstacles both awake and asleep. This dream gave an orientation early on for the life of one who would eventually come to work with comparable energies in the lives of others and pursue an unconventional path of specializing in dreams and inner work as a professional pursuit.
+
+Nowadays we may tend to think, as a “modern” culture, that we’ve lost a true connection with valid spiritual disciplines. This may be true on some level. It’s also true that our dreams are always presenting us with opportunities for entering into blood-filled, authentically sacred, transformative initiations that influence the entire course of our lives and all the life we’re surrounded and supported by. If only we are willing to pay attention to, reflect upon, share and pull closer into their confusing and often off-putting flavors, images and energies, the dreams will guide us. When we honor even our troubling visions, we can then be further acquainted with how the theater of the imagination, taking place in our dreams, is beckoning us into ever-deepening, spontaneous and life-giving ceremonies of enormously enriching and fertile proportions.
+
+## Endnotes
+
+<sup>1</sup> Paco Mitchell, “The ‘Mission’ of Dream Network Journal,” DNJ, Winter 2013, p. 9. 
+<sup>2</sup> Jeremy Taylor, “The Wisdom of Your Dreams,” (Jeremy P. Tarcher, Penguin Group, New York, 1992,2009), p. 3. 
+<sup>3</sup> Marie-Louise von Franz, “The Feminine in Fairy Tales”, 1972, Spring Publications, New York, p. 64 
+<sup>4</sup> James Hillman, “Re-Visioning Psychology”, 1975, Harper & Row, New York, p. 8
+
+

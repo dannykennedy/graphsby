@@ -471,18 +471,6 @@ ns1:bcphbq7rbsc a ns1:Post ;
     ns1:profileImg "13.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.4"^^xsd:string .
 
-ns1:bcphbqawern a ns1:User ;
-    ns1:coverImg "cover-author-travis-wernet.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://thedreamingwell.com">thedreamingwell.com</a></p>
-
-<p>Individual and Group Dream Work based on twenty years of study and offering groups and sessions privately and publically. Travis is also an ordained Universal Life Minister and is currently earning a BA in Psychology through Oregon State University. He is the author of <a href="https://www.amazon.com/Dreaming-Well-Towards-Wholeness-Imagination/dp/0692796916">The Dreaming Well: Paths Towards Wholeness Through Dreams, Story, Song and the Imagination</a>.</p>
-"""^^xsd:string ;
-    ns1:handle "traviswernet"^^xsd:string ;
-    ns1:itemId "bcphbqawern"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Travis Wernet"^^xsd:string ;
-    ns1:profileImg "author-travis-wernet.jpg"^^xsd:string .
-
 ns1:bcphbqdrrm2 a ns1:Post ;
     ns1:coverImg "12.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1993-01-01T11:32:52"^^xsd:dateTime ;
@@ -6918,6 +6906,68 @@ ns1:bcpov6rsgpia a ns1:Post ;
     ns1:name "Jean Piaget - Hybrid Functioning of Dreams"^^xsd:string ;
     ns1:urlSlug "jean-piaget-hybrid-functioning-of-dreams"^^xsd:string .
 
+ns1:bcpov6rsgssd a ns1:Post ;
+    ns1:dateCreated "2013-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>It has been said that music makes the invisible visible and brings together the physical and the spiritual, giving voice to images and a felt-sense of the nature of inner reality. Experience shows that this is what takes place while we dream. Whether awake or asleep, a spirit-realm of the imagination opens up to us during night-world and day-world visions.</p>
+
+<p>One of the obstacles we moderns face is our predisposition to literalize our understanding of events. As Storyteller and Mythologist Michael Meade reminds us, “Modernity’s obsession with progress and blind rush to create a future based in technology seems to require a thorough departure from the past. The past, especially the ancient imagination that caused humans to stand and walk with heads in the heavens and feet on the goat’s earth, holds keys that can unlock the literalism of the present and open the future to greater meaning”.<sup>1</sup></p>
+
+<p>Applying this stance to the disciplines of dream-work, shamanism and sound healing, it is possible to <em>see beyond the literalizations by which we create isolated entities</em>, thus distorting our view of the world. Something symbolic, and real in its own fashion, comes into play during the practice of these disciplines, helping to weave back together the isolated elements, until we can perceive reality as an integrated “fabric” of great beauty and value.</p>
+
+<p>Tom Cowan, contemporary explorer and writer, has defined shamanistic practice as follows: “The core elements… found in most cultures with a solid shamanic tradition are: </p>
+
+<ol>
+<li><p>Shamans can voluntarily enter a unique visionary state of consciousness during which </p></li>
+<li><p>they experience a journey into non-ordinary realms of existence where </p></li>
+<li><p>they acquire knowledge and power for their own use or for others in their communities”.<sup>2</sup> </p></li>
+</ol>
+
+<p>Compare these characteristics with <a href="../@jeremytaylor">Jeremy Taylor’s</a> description of <em>imaginal engagement</em>: “In Gestalt work with dreams, the dreamer re-enters the dream, re-imagines and re-experiences the dream from the subjective viewpoints of other characters or figures in the dream… even the stones and the trees, conscious and self-aware, will speak with the ‘shamanic’ explorer, offering startling insights, re-framed interpretations of the dream, and deeper understanding of the waking life dramas that the dream reflects and shapes”.<sup>3</sup></p>
+
+<p>In working with dreams, we are entering multi-layered realms, which correspond to traditional descriptions of shamanic journeys. This increased awareness of circumstances in the dream-quest, when correlated to the dayworld, benefits the dreamer and the environment in which she or he exists, just as entering non-ordinary states of shamanic travel can enable one to bring back a boon to the collective.</p>
+
+<p>For example, in a recent dream-exploration at a weekend workshop I hosted, we worked with a dream that, according to the dreamer, foretold an unexpected professional transition. </p>
+
+<blockquote>
+  <p><em>The dreamer is writing computer code in the dream for an actual technology client of his. As he drives away from the dream-jobsite, his car breaks down. He realizes that he needs to back up the computer code he had written so far, aware as well that the “breakdown” of the car could potentially cost him his job with the client. At the end of the dream he feels concerned about finding ways to “continue the project”.</em></p>
+</blockquote>
+
+<p>Not long after the dream, the dreamer did, in waking reality, lose his job, yet he was prepared for the loss, due to his having worked on the dream. As a group, we re-imagined this dream, which allowed us to consider the benefits of the messages it contained. We <em>resonated</em> with the dream’s ability to communicate about the future, a lesson in the value of being open to messages from the dream world. Inherent in the central notion of shamanism is the perception that “everything is alive”. The Aboriginal people of Australia, the Ngarinyin, Worora and Wunumbal have a phrase for this, “Yorro Yorro”, which means, “everything standing up alive, brand new”.<sup>4</sup> The purpose of reflecting on ideas from various cultures and the living experiences of our dreams is to rediscover a helpful perspective that supports an interrelation among ourselves and the environs in which we live. Similarly, the essence of shamanism, recently resurgent in places like Mongolia<sup>5</sup>, is the recognition that we are part of an enormous web of life that includes the archetypal-spiritual realm. As the Celts have said, we not only need the help and wisdom of the Otherworld (their name for “non-ordinary reality”), the Otherworld needs us to help tend that realm by making visits to its territories and engaging with its denizens and landscapes.</p>
+
+<p>By taking dreaming one step further, making waking journeys with the support of drumming, music and sound, we’re able to creatively relate with living energies—in the subtle realms of imaginal space, in waking and dreaming worlds—for the benefit of the earth. In this way we support our own deep nature and our connection with the vital living matrix of all life. By seeking to search beyond the limited egocentric orientation of the modern mind-set, amidst the overly wasteful and disconnected culture of the day, we may find previously undreamt of solutions to the brewing eco-psychological dilemmas of our planet. When we experience the reality that “everything is alive”, we can interact with the entities and creations of all the worlds in a responsible, relational fashion. As Taylor puts it, “Too much of the contemporary shamanic revival involves embracing the theatrical trappings of traditional shamanic praxis without grasping the fundamental pragmatic point: <em>everything is alive</em>, and the more I know about and commune with that life, the greater the range of creative possibility I will be able to imagine and manifest. This is as true in dealing with the subtle symbolic energies of computers and automobiles as it is in dealing with animals and ‘illness spirits’”<sup>6</sup> —i.e., the shamanic idea that certain “entities”, subtle-energy beings or forces, can cause sickness”.</p>
+
+<p>We’ve helped to shape the waking world we live in; if we can perceive that it’s alive, we may feel and act upon the inherent impulse to care, not just for ourselves, but also for all of life as we can perceive and relate to it. One consequence of such a realization is the challenge to learn how to re-invigorate an approach to living more sustainably and artfully with the technologies we have invented. The effects of sound and music have been studied comprehensively. It has been shown that instruments like the Aboriginal <em>didjeridu</em>, Tibetan <em>singing bowls</em>, Shamanic <em>trance percussion</em>, as well as singing and chanting, support vibrations in the body that are comparable to brainwave patterns found in deep, healing states of consciousness. The sounds projected by these tools have similarly been shown to create levels of harmonious resonance in the minds and bodies of individuals listening to them.<sup>7</sup></p>
+
+<p>Following such inspiration, I collaborated with Ben Leinbach in creating a music album entitled “Yoro Yoro”. Some of my own dreams influenced this recording. This musical journey is our effort to evoke the felt sense that there is an ongoing, creative, living energy inside of and surrounding us. In the dream circles I lead, we all chant and I also play flutes, didjeridu, drums and bowls in order to open us to the energies and frequencies of shamanic, dreaming realms. In this work, we re-enter dreams to re-experience and interact creatively with events in the dream, seeking further understanding and wisdom. This practice has been called Conscious or Active Dreaming, and it bears a distinct relation to shamanic journeying. I also lead dream incubation ceremonies where dreamers are invited to seek healing wisdom while recalling or “growing” dreams for themselves and also for the community.</p>
+
+<p>In one such instance, during an on-going group meeting, a participant shared her dream of a <em>Noah’s Ark school bus filled with wild animals and creatures, traveling across the ocean surf near the shore</em>. Together, the entire group re-imagined the dream. Individuals found personal layers of meaning in this “incubatory re-entry practice”. We also found there was a common layer of symbolic engagement in the dream. In our waking experience of this narrative, several of us felt a strong sense that it invited us to bring the energies of our archetypal instincts into closer connection with the solid ground of our embodied earthly existence. Others felt that the dream was connecting us to actual living beings from the Otherworld that wanted us to learn from and relate to them. They wanted us to value their promptings about living a life of wholeness, allowing them to express their natures in our lives, as an antidote to our all-too-human, lop-sided consciousness.</p>
+
+<p>By seeking to reinvent and honor the sacred traditions of shamanism, musical ceremony and dreaming, we may creatively encounter the obstacles we face as humans and co-creators living on the planet at this time. Opening ourselves to the reality of our Dreams, the Otherworld or the Collective Unconscious, we can engage with a much broader range of wise and innovative possibilities, taking into account the entirely real and felt experience that “everything <em>is</em> alive”, which is a natural outgrowth of connecting with these vital and rewarding disciplines.</p>
+
+<h2>Endnotes</h2>
+
+<p><sup>1</sup> Michael Meade, The Water of Life (Greenfire Press, Mosaic Multicultural Foundation, Seattle Washington, 2006) p. 13</p>
+
+<p><sup>2</sup> Tom Cowan, Fire in the Head (HarperOne, HarperCollins, New York, 1993) p.3</p>
+
+<p><sup>3</sup> <a href="../@jeremytaylor">Jeremy Taylor</a>, The Wisdom of Your Dreams (Jeremy P. Tarcher, Penguin Group, New York, 1992,2009) pp. 198-199</p>
+
+<p><sup>4</sup> David Mowaljarlai, Jutta Malnic, Yorro Yorro, Aboriginal Creation and the Renewal of Nature (Inner Traditions International, Vermont, 1993) p. 214</p>
+
+<p><sup>5</sup> David Stern, Masters of Ecstasy (National Geographic Magazine, USA, 2012) p.110</p>
+
+<p><sup>6</sup> Jeremy Taylor, The Wisdom of Your Dreams (Jeremy P. Tarcher, Penguin Group, New York, 1992,2009) p. 206</p>
+
+<p><sup>7</sup> Andrew Weil, Kimba Arem, Self-Healing with Sound and Music (Sounds True, Boulder Colorado, 2004) Audio Learning 2 CD Set</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqawern ;
+    ns1:hasTag ns1:bcphbqawern,
+        ns1:bcphbz2bump ;
+    ns1:itemId "bcpov6rsgssd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dream Bridges: Shamanism, Sound and Dreams"^^xsd:string ;
+    ns1:urlSlug "shamanism-sound-and-dreams"^^xsd:string .
+
 ns1:bcpov6rsgsum a ns1:Post ;
     ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="../@ornabenshoshan"></p>
@@ -7105,6 +7155,76 @@ ns1:bcpov6rsmbts a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "A Man Beyond the Seasons"^^xsd:string ;
     ns1:urlSlug "stanley-krippner-a-man-beyond-the-seasons"^^xsd:string .
+
+ns1:bcpov6rsnaic a ns1:Post ;
+    ns1:dateCreated "2014-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>The exploration of how our dreams help us connect with favorable solutions to the challenges of waking life is a central task of dream work. A helpful place to begin or continue such a quest is to look at the dreams that most disturb us. Why? Not because we ought to over-emphasize what feels difficult or that we want to deny the delights to be found in the beauty, joy and pleasure of our dreams or waking lives. Rather, we may tend to want to sidestep the many rough-edged images, scenarios and circumstances that we find in our thorny dream experiences and amid the obstacles of daily life. When we can face “all that is,” our experience opens us up to a more robust, fulfilling sense of being alive.</p>
+
+<p>My mind and heart are deeply encouraged when I read Paco Mitchell’s beseeching commentary from the Winter 2013 issue of DNJ, in which I perceive him to be making an invitation for honoring what I’ll call the trials present in dreams. His words ring out as a call to engagement, “We must be willing to stare into the face of troubling, even intolerable, images… This truth-telling aspect of dreams, their ‘negativity’ is what makes them regenerative engines of salvation and conveyors of divine wisdom.”<sup>1</sup></p>
+
+<p>Not long ago, I was invited to speak about working with dreams and sound healing on a radio program, which seeks to honor the intellect in relation to spiritual disciplines. The interviewers asked how I got into doing dream work as a profession. A dream from childhood stirred to the surface and I shared this early experience as an example of a vision that bespeaks elements of a vocational mission.</p>
+
+<p>The dream, which appeared to me at age four, is as follows:</p>
+
+<blockquote>
+  <p><strong>The Eagle Who Darkens the Sky</strong> </p>
+  
+  <p><em>In the dream, I’m in the back yard of my childhood home, lifting up and down on the swing-set. As I rise higher and higher and feel the elation that comes with the promise of flight, I view an enormous eagle up in the sky. As it approaches, it blots out the sun with its imposing body. I know that it’s going to release its bowels and that nothing I can do to avoid this liquid white-brown mass as it descends to the earth will allow me to survive the suffocating effects of its arrival. I see that the powerful bird’s far-reaching projectile of fecund waste is headed right for me and will consume the surrounding DNJ/ Spring 2014 19 houses and fields. The thought of running occurs to me, but I understand that trying to escape won’t help. There’s no time and I know I can’t move fast or far enough. I waken with the telltale emotions of a nightmare, terrified.</em></p>
+</blockquote>
+
+<p>When sharing this dream on the radio program, I became quite self-conscious about naming the <em>dark matter</em> in the dream, the eagle’s excrement. My hosts also seemed uncomfortable having the topic introduced during the interview. The reluctance to face such direct dream messages, however, is exactly what we want to be dealing with. As Carl Jung is well known for saying, the darkness we avoid within tends to become fixed in the form of outer fate in our waking lives. This notion rings true in my experience.</p>
+
+<p>I relay the dream here to illustrate the way that, even as children, we are invited by our dreams to honor such exigent energies. If the dreaming source is capable of determining that even a child’s mind, heart, soul and body are up to the task of going through difficult dreams like this one, it would seem to be true that we can work helpfully with and learn from them. This dream potentially raises the question for all of us: what dreams have we witnessed in which we are being asked to engage? Dreams which have challenged us? Such dreaming experiences hold the very energy we need in order to find solutions to our lives and for relating to their essential messages about how to embody a full breadth of wholeness. Paradoxically, these troubling scenarios are also the ones we might overlook due to their repulsive quality. Often, we might wish to put away difficult dreams in favor of more pleasant, sparkling visions and images.</p>
+
+<p><a href="../@jeremytaylor">Jeremy Taylor</a> has made “facing up” to disquieting dreams a primary principle of his projective-style dream work by declaring, “What is true of nightmares is true of all dreams: what is remembered is worth remembering because it always contains valuable information. All dreams bring us creative energies and insights into the meaning of confusing emotions.”<sup>2</sup> When teaching in public, and in his revelatory writings, Taylor adds that this doesn’t mean the dreams or associated feelings aren’t difficult to witness and undergo.</p>
+
+<p>The above dream, “The Eagle Who Darkens the Sky”, provides an example of a guiding vision, which has informed a lifelong quest for purpose and meaning. It also contains several universal symbols and flavors. Ancient and contemporary teachings state that we each receive at least one glimpse behind the veil of our soul’s deep yet hidden agreements made prior to this lifetime in our youth. These intuitive spiritual hunches and forms of instruction based on experience say that we tend to forget our larger vocations through the necessities of being and becoming human via the rigorous process of socialization.</p>
+
+<p>Mythologies and folktales, the world over, speak to this proclivity for a kind of <em>amnesia</em> in relation to the Divine. Robert Bly discusses this forgetfulness in his and Marion Woodman’s book about a Russian fairy tale <em>The Maiden King</em>. In that tale, it’s Ivan’s fate to fall asleep when the divine feminine appears. There are countless other such wisdom tales to be found in various cultures.</p>
+
+<p>Dreams are spontaneous <em>mythic</em> expressions that touch into and express the personal and then reach down to the transpersonal, collectively unconscious domains of existence. My own vision, “The Eagle Who Darkens the Sky” depicts a great mythic struggle. The appearance of this larger-than-life dream raptor suggests the presence of the Divine in the budding life of a young boy, which symbolically could be said to typify the tone of any meeting between human and sacred energies, a <em>dream challenge</em>. In this encounter, the more limited, small self is met and confronted by the powerful, large, limitless forces of spirit, soul and nature.</p>
+
+<p>The energy of swinging in the dream evokes the possibility of flight, and therefore, freedom. The scene and setting in the dream also exemplify the essence of descent, gravity and <em>life on the ground</em>. It reflects the reality and relationship of opposites. Here <em>humanness</em> and <em>animal-as-divine-archetype</em> meet one another in the dreaming. The eternal dance of light and dark, as enacted in the dream, with the sun being covered by the flying creature’s body is central and attention-grabbing. The little and the big, that which is grounded and that which is in flight, and the energy of the invitation to learn how to be between, enlarged, within and encircled by both - all are brought forward in the encounter betwixt the eagle and the boy, rising and falling amid earth and heaven.</p>
+
+<p>The threat contained in my childhood eagle dream is common to nightmares: the impending arrival of this bird’s shadowy gift brings with it the understanding that the dreamer will suffer and possibly die. Marie-Louise von Franz has spoken lucidly about this, “Every dark thing one falls into can be called an initiation. To be initiated into a thing means to go into it… The shamans say that being a medicine man (or woman) begins by falling into the power of the demons.<sup>3</sup> <em>(parentheses added)</em> The dream eagle from my vision, then, may be seen as demonic, in the sense that it poses a gruesome, dark menace to the dreamer, who experiences the fall/descent in relation to the animal spirit power above him.</p>
+
+<p>Traditional cultures maintain practices that bestow this kind of initiatory experience through quests for vision. The initiate in these rites of passage makes contact with spirit animals or beings who put him or her through an ordeal whose purpose is to enlarge the personality beyond what we could name as ordinary human ego concerns.</p>
+
+<p>This classic archetypal occurrence is often portrayed in the immanence of some form of <em>dream-death</em>, whose other face is the renewing provenance of rebirth. My dream eagle comes to say that there are trials to endure and that there will be lifelong invitations to surrender to spirit, which will offer up the vital potencies of transformation. Spirit, as represented in the dream, contains fiercely destructive and potentially beneficent powers. Perhaps a true looking into the face of such depth energies always reveals this level of paradox in the search for wholeness by displaying these powers of creation and destruction.</p>
+
+<p>The words of the poet Rilke describe these motifs accurately:</p>
+
+<blockquote>
+  <p><em>“Just as the winged energy of delight carried you over many chasms early on, now raise the daringly imagined arch holding up the astounding bridges. Miracle doesn’t lie only in the amazing living through and defeat of danger. Miracles are miracles in the clear achievement that is earned.”</em></p>
+</blockquote>
+
+<p>In communicating these direct symbolic experiences, the dream says that there will be plenty of “crap” to deal with and it won’t be easy. The source of this bountiful darkness, however, especially as it relates to the pursuit of becoming a more fully embodied, spirited human being, is <em>nature</em>, as typified by the animal-person of the eagle in the dream and the surrounding energy of the sky, the sun, the darkness, the yard, and the nearby fields. If the dreamer can learn from this form of <em>suffering</em> (a word whose root meaning is “to undergo” or “go under”) through implied suffocation, the pursuit of genuine freedom—an integral embodiment—may be realized. This tribulation teaches the ability to be under something demanding, and thereby to understand or stand under it, and to potentially break through the inherent hazards of life to a previously unseen threshold of growth and new life.</p>
+
+<p>This study of troubling dreams also calls forth the words of Archetypal Psychologist, James Hillman, who reflects, “The <em>worst</em> images are the <em>best</em>, for they are the ones that restore a figure to its pristine power as a numinous person at work in the soul.”<sup>4</sup> The paradoxical quality innately woven into the trying images and experiences in the above dream, and all dreams, is a living energy that demands recognition. The <em>trouble</em> stands out so starkly as to require being acknowledged and, through this, sanctity is found.</p>
+
+<p>How many of us have had similar guiding dreams and how might they have helped to shape and inform the lives that we’ve led and will lead? Have we been, are we now, and will we be attentive to recalling and working with them? How might they help and inspire others?</p>
+
+<p>That four year-old boy was trying to return to the sky, to the pure world of spirit. Spirit appeared and said, “No, not now. Now is the time for personifying the fertilizing, gravity-laden and humbling energies of matter, dark and troublesome as these may be. This is the task, and this is the great effort… within such an invitation lies a hidden gift.” That treasure continues to unfold in my own life, as I realize that the boons of the dream have offered the felt sense of being able to meet similar obstacles both awake and asleep. This dream gave an orientation early on for the life of one who would eventually come to work with comparable energies in the lives of others and pursue an unconventional path of specializing in dreams and inner work as a professional pursuit.</p>
+
+<p>Nowadays we may tend to think, as a “modern” culture, that we’ve lost a true connection with valid spiritual disciplines. This may be true on some level. It’s also true that our dreams are always presenting us with opportunities for entering into blood-filled, authentically sacred, transformative initiations that influence the entire course of our lives and all the life we’re surrounded and supported by. If only we are willing to pay attention to, reflect upon, share and pull closer into their confusing and often off-putting flavors, images and energies, the dreams will guide us. When we honor even our troubling visions, we can then be further acquainted with how the theater of the imagination, taking place in our dreams, is beckoning us into ever-deepening, spontaneous and life-giving ceremonies of enormously enriching and fertile proportions.</p>
+
+<h2>Endnotes</h2>
+
+<p><sup>1</sup> Paco Mitchell, “The ‘Mission’ of Dream Network Journal,” DNJ, Winter 2013, p. 9. </p>
+
+<p><sup>2</sup> Jeremy Taylor, “The Wisdom of Your Dreams,” (Jeremy P. Tarcher, Penguin Group, New York, 1992,2009), p. 3. </p>
+
+<p><sup>3</sup> Marie-Louise von Franz, “The Feminine in Fairy Tales”, 1972, Spring Publications, New York, p. 64 </p>
+
+<p><sup>4</sup> James Hillman, “Re-Visioning Psychology”, 1975, Harper &amp; Row, New York, p. 8</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqawern ;
+    ns1:hasTag ns1:bcphb2asab7,
+        ns1:bcphbqawern ;
+    ns1:itemId "bcpov6rsnaic"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "A Glimpse Beyond the Veil: Nightmares as Initiatory Callings"^^xsd:string ;
+    ns1:urlSlug "nightmares-as-initiatory-callings"^^xsd:string .
 
 ns1:bcpov6rsoths a ns1:Post ;
     ns1:dateCreated "2014-01-01T11:32:52"^^xsd:dateTime ;
@@ -13488,20 +13608,6 @@ ns1:bcphbxm2y5p a ns1:Post ;
     ns1:profileImg "26.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "26.3"^^xsd:string .
 
-ns1:bcphbz2bump a ns1:Post ;
-    ns1:coverImg "32.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2013-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.2-32.3_shamanic_dreams.pdf" download="">Download issue 32.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.2-32.3_shamanic_dreams.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocs2uhp ;
-    ns1:itemId "bcphbz2bump"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 32, issue 2: Shamanic Dreams"^^xsd:string ;
-    ns1:profileImg "32.2-3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "32.2-3"^^xsd:string .
-
 ns1:bcphbzaknqj a ns1:Post ;
     ns1:coverImg "30.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2011-04-01T11:32:52"^^xsd:dateTime ;
@@ -13529,20 +13635,6 @@ ns1:bcphbzhpgrg a ns1:Post ;
     ns1:name "Volume 31, issue 1: Calling Forth Angels"^^xsd:string ;
     ns1:profileImg "31.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.1"^^xsd:string .
-
-ns1:bcphb2asab7 a ns1:Post ;
-    ns1:coverImg "33.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2014-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.1_beyond_the_veil.pdf" download="">Download issue 33.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.1_beyond_the_veil.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocvint5 ;
-    ns1:itemId "bcphb2asab7"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 33, issue 1: Beyond the Veil"^^xsd:string ;
-    ns1:profileImg "33.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "33.1"^^xsd:string .
 
 ns1:bcphb2eggje a ns1:Post ;
     ns1:coverImg "33.2-cover.jpg"^^xsd:string ;
@@ -14328,6 +14420,20 @@ ns1:bcphbyoxe6n a ns1:Post ;
     ns1:profileImg "29.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.2"^^xsd:string .
 
+ns1:bcphbz2bump a ns1:Post ;
+    ns1:coverImg "32.2-3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2013-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.2-32.3_shamanic_dreams.pdf" download="">Download issue 32.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_32/32.2-32.3_shamanic_dreams.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocs2uhp ;
+    ns1:itemId "bcphbz2bump"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 32, issue 2: Shamanic Dreams"^^xsd:string ;
+    ns1:profileImg "32.2-3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "32.2-3"^^xsd:string .
+
 ns1:bcphbzoxivb a ns1:Post ;
     ns1:coverImg "31.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2012-07-01T11:32:52"^^xsd:dateTime ;
@@ -14365,6 +14471,20 @@ ns1:bcpov6zfsra a ns1:Post ;
 
 ns1:Page a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Actor .
+
+ns1:bcphb2asab7 a ns1:Post ;
+    ns1:coverImg "33.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2014-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.1_beyond_the_veil.pdf" download="">Download issue 33.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.1_beyond_the_veil.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocvint5 ;
+    ns1:itemId "bcphb2asab7"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 33, issue 1: Beyond the Veil"^^xsd:string ;
+    ns1:profileImg "33.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "33.1"^^xsd:string .
 
 ns1:bcphb2kqfhu a ns1:Post ;
     ns1:coverImg "33.4-cover.jpg"^^xsd:string ;
@@ -14926,6 +15046,20 @@ ns1:bcphbqafunk a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Art Funkhouser"^^xsd:string ;
     ns1:profileImg "author-art-funkhouser.jpg"^^xsd:string .
+
+ns1:bcphbqawern a ns1:User ;
+    ns1:coverImg "cover-author-travis-wernet.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://thedreamingwell.com">thedreamingwell.com</a></p>
+
+<p>Travis Wernet is a Certified Dream Worker with the Marin Institute for Projective Dream Work and a Unitarian Universalist Minister. He has worked with dreams for many years in mental health settings, private groups and individual practice. He has also traveled to Egypt, leading Sound Healing Ceremonies, and is a professional musician with three albums to his credit.</p>
+
+<p>He is the author of <a href="https://www.amazon.com/Dreaming-Well-Towards-Wholeness-Imagination/dp/0692796916">The Dreaming Well: Paths Towards Wholeness Through Dreams, Story, Song and the Imagination</a>.</p>
+"""^^xsd:string ;
+    ns1:handle "traviswernet"^^xsd:string ;
+    ns1:itemId "bcphbqawern"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Travis Wernet"^^xsd:string ;
+    ns1:profileImg "author-travis-wernet.jpg"^^xsd:string .
 
 ns1:bcphbqbynum a ns1:User ;
     ns1:description """<p>Website: <a href="http://www.obeliskfoundation.com/">obeliskfoundation.com</a></p>
@@ -15917,7 +16051,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
 
 <p>Rather than republishing these PDFs online, please just link to this site. We also ask you not to publish the articles in the journals, unless you have the permission of the author (or you are the author, in which case, the rights are yours!)</p>
 
-<p><strong>Thank you to everyone who donated</strong> to this campaign. We'd like to personally thank <a href="../@kellybulkeley">Kelly Bulkeley</a>, whose donation really made this campaign possible, and all the 'super supporters' of the campaign: <a href="https://www.monroeinstitute.org/pages/trainer-luigi-sciambarella">Luigi Sciambarella</a>, <a href="../@evelynduesbury">Evelyn Duesbury</a>, <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as <a href="../@arthurstrock">Arthur Strock</a>, <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, <a href="../@rosemarywattsdreyer">Rosemary Watts-Dreyer</a>, <a href="https://pattiallen.com/about/patti-allen/">Patti Allen</a>, <a href="https://www.linkedin.com/in/mary-beth-bronk-583298164/">Mary Bronk</a>, <a href="http://spokenstone.com/">Spoken Stone</a>, and <a href="https://chuffed.org/project/dream-network-journal">all the supporters</a> who made this a reality. For their donations as well as providing providing their personal copies of publications for scanning, special thanks to <a href="../@dickmcleester">Dick McLeester</a> and <a href="../@marleneking">Marlene King</a>.</p>
+<p><strong>Thank you to everyone who donated</strong> to this campaign. We'd like to personally thank <a href="../@kellybulkeley">Kelly Bulkeley</a>, whose donation really made this campaign possible, and all the 'super supporters' of the campaign: <a href="https://www.monroeinstitute.org/pages/trainer-luigi-sciambarella">Luigi Sciambarella</a>, <a href="../@evelynduesbury">Evelyn Duesbury</a>, <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as <a href="../@arthurstrock">Arthur Strock</a>, <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, <a href="../@rosemarywattsdreyer">Rosemary Watts-Dreyer</a>, <a href="https://pattiallen.com/about/patti-allen/">Patti Allen</a>, <a href="https://www.linkedin.com/in/mary-beth-bronk-583298164/">Mary Bronk</a>, <a href="http://spokenstone.com/">Spoken Stone</a>, and <a href="https://chuffed.org/project/dream-network-journal">all the supporters</a> who made this a reality. For their donations as well as providing providing their personal copies of DNJ publications, special thanks to <a href="../@dickmcleester">Dick McLeester</a>, <a href="../@marleneking">Marlene King</a>, and <a href="../@robertaossana">Roberta</a> herself. </p>
 
 <p><strong>Thank you also to all the amazing authors and advisors</strong> of the Dream Network, and all the editors prior to Roberta:</p>
 

@@ -49,7 +49,7 @@ In short, the two articles failed to report on vast areas of the study and explo
 
 <sup>2</sup> Consider, for example, Freud's comment regarding his bullying treatment of Dora, a young female patient, that "the case has opened smoothly to my collection of picklocks" (Dora: An Analysis of a Case of Hysteria (New York: Collier Books, 1963), p.7. - and then his later comment that "is not 'jewelcase' a term commonly used to describe female genitals that are immaculate and intact?" (p. 111) 
 
-<sup>3</sup> I would include among this group of books Dream Work, by Jeremy Taylor; Let Your Body Interpret Your Dreams, by Eugene Gendlin; Working with Dreams by Montague Ullman; and Living Your Dreams by Gayle Delaney. These are my favorites, anyway. 
+<sup>3</sup> I would include among this group of books Dream Work, by [Jeremy Taylor](../@jeremytaylor); Let Your Body Interpret Your Dreams, by Eugene Gendlin; Working with Dreams by [Montague Ullman](../@montagueullman); and Living Your Dreams by Gayle Delaney. These are my favorites, anyway. 
 
 <sup>4</sup> For example, the research gathered by Barbara Tedlock in her book *Dreaming - Anthropological and Psychological Interpretations* (Cambridge, Eng. Cambridge U Press. 1987).
 

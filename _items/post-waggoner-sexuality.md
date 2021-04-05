@@ -79,7 +79,7 @@ One hundred years later, what do we really understand of the Psyche and the role
 
 The commonality of experience of lucid dreamers as they consciously act in the dreaming environment suggests that there may be a framework, a set of principles, of unconscious processes available in dreaming to be theorized and tested. If these principles could be explored and identified, then we could move beyond general conceptualizations and more clearly define the reality of the dream state and perhaps, the unconscious. 
 
-As minister and dreamworker Jeremy Taylor has said many times, "Dreams come to enhance our health and wholeness." All dreams, including lucid ones, are an opening to our wholeness. Let's find the dreamer. Let's claim our wholeness.  
+As minister and dreamworker [Jeremy Taylor](../@jeremytaylor) has said many times, "Dreams come to enhance our health and wholeness." All dreams, including lucid ones, are an opening to our wholeness. Let's find the dreamer. Let's claim our wholeness.  
 
 ## Notes: 
 

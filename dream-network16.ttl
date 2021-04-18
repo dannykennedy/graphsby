@@ -769,20 +769,6 @@ ns1:bcphbvob4z7 a ns1:Post ;
     ns1:profileImg "22.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "22.3"^^xsd:string .
 
-ns1:bcphbxuajab a ns1:Post ;
-    ns1:coverImg "27.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2008-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.1_childrens_dreams.pdf" download="">Download issue 27.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.1_childrens_dreams.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocezqpx ;
-    ns1:itemId "bcphbxuajab"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 27, issue 1: Children Dreaming"^^xsd:string ;
-    ns1:profileImg "27.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "27.1"^^xsd:string .
-
 ns1:bcphby5wc2q a ns1:Post ;
     ns1:coverImg "30.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2011-01-01T11:32:52"^^xsd:dateTime ;
@@ -5283,6 +5269,215 @@ ns1:bcpov6kottet a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Planning and Incubating Dreams: Dreams and the Tarot"^^xsd:string ;
     ns1:urlSlug "healing-animals-in-dreams"^^xsd:string .
+
+ns1:bcpov6krdbf1 a ns1:Post ;
+    ns1:dateCreated "2008-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><em>In a recent issue of Dream Network Journal (<a href="https://dreamnetworkjournal.com/bcphbxm2y5p/26.3">Vol. 26 #3</a> and <a href="https://dreamnetworkjournal.com/bcphbxplpmw/26.4">#4</a>), Russell Lockhart, in his column “Dreams in the News,” described a dream that pictured him making a “<strong></em>dreamgourd<em></strong>” and specially marked stones to be used in casting I Ching hexagrams in relation to dreams. His fellow columnist in these pages, Paco Mitchell, responded to his article in an email and this has led to an on-going dialogue between these two old friends. They felt their exchange might be of interest to readers of Dream Network Journal</em></p>
+
+<p><img src="../images/post-bcpov6krdbf1-0.jpg" width="200" height="auto" alt="Bronze-colored gourd" style="margin: auto;"/></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Here the two halves of the Dreamgourd are placed together</i></div><!--/nopreview--></p>
+
+<p><strong>Paco Mitchell:</strong> I just re-read your article for the fifth or sixth time. A couple of associations came to me, the result of recently having read a book by Brian Swimme and Thomas Berry called <em>The Universe Story</em>. The book tells the story of the universe, from the original fireball (which they call the “flaring forth”) to the present day. Why should this book have stimulated any associations to your <em>I Ching</em> gourd dream? Bear with me. They discuss the slow development of the Lower and Upper Paleolithic culture, followed by the relatively rapid inventions of the Neolithic period. They pointed out that Neolithic villages have provided a pattern for human survival and development for many thousands of years, enduring throughout the period of ancient and classical civilizations, persisting even into modern times. It is only recently that technological incursions have penetrated the deepest reaches of the furthest outposts, threatening the last remnants of Neolithic culture. What especially impressed me was the author’s insistence on the model of the self-sustaining Neolithic village as a viable alternative for human survival during the <em>post-technozoic</em> future—if there is to be any future for us. Their emphasis was on an appropriately ecological scale of human presence within, and as members of, what they call the “Earth Community.” But another aspect of appropriateness was the bedrock recognition that humans participate in and depend on cosmic forces to which we are all subject. As one example of this recognition, they cited the “throwing of bones” as characteristic of that original, primordial and natural religious attitude. Once the bones leave the human hand, they become subject to the laws and patterns governing the universe, with all the invisible interconnections of chance and necessity pertaining thereto. </p>
+
+<p><img src="../images/post-bcpov6krdbf1-1.jpg" width="200" height="auto" alt="Bronze-colored gourd" style="margin: auto;"/></p>
+
+<div style="text-align:center"><i>Here, the Dreamgourd is open to reveal the Dreamstones with elemental trigrams and the Dreambowl that holds the dream written out and rolled into a scroll. The dream I shared in DN Vol. 26 No. 3, pgs. 30, 31 will be the focus in consulting the oracle.</i></div>
+
+<p><strong>Russell Lockhart:</strong> I can certainly attest to the numinous quality of the dream, filled as it was with that quality of something <em>other</em>, as well as originating in some <em>other</em> geography than my usual consciousness. And having made the <em>dreamgourd</em>, and now using it in my practice with dreams, I can say that its very existence calls forth a palpable religious dimension. But what, more specifically, was your association? </p>
+
+<p><strong>PM:</strong> Simply, that your <em>dreamgourd</em> and the “new” oracular technique that went with it—insofar as they were both original, spontaneous products of the dreamworld, rather than products of your conscious recall, intention, or cryptomnesia—point back to and simultaneously draw upon the most ancient, primordial sources of human creativity. This is to suggest, according to my intuition, that the creative activity of humans, from the earliest Paleolithic, through the Neolithic, all the way to the present and into the foreseeable future, comes about in large measure as a result of dreaming. Your dream with its gourd, stones and oracular technique, participates in that amazing, panoramic tradition, and even as it points to the past, it also points to the future. </p>
+
+<p><img src="../images/post-bcpov6krdbf1-2.jpg" width="200" height="auto" alt="Bronze-colored gourd" style="margin: auto;"/></p>
+
+<div style="text-align:center"><i>Here, the hexagram has been cast and the fixed and changing lines determined. The final determination is recorded on the Dreamscroll. This was the first casting.</i></div>
+
+<p><strong>RL:</strong> Part of the numinous quality of the dream for me was in the experience of this enduring stream of human history, not so much as something long ago and long forgotten and perhaps remembered only when archaeologists and anthropologists unearth bones, open hidden caves, and expose artifacts of these early cultures; but, as a living reality in the depths of the psyche of a person alive today in this world. And I mean this not as an idea or concept, but as an experience of that reality. Some dreams are able to “go there” and “bring to us” an awareness of this “past” which, as you say, points to the future. What was your second association? </p>
+
+<p><img src="../images/post-bcpov6krdbf1-3.jpg" width="200" height="auto" alt="Bronze-colored gourd" style="margin: auto;"/></p>
+
+<div style="text-align:center"><i>The Dreamstones lying in the Dreamgourd</i></div>
+
+<p><strong>PM:</strong> The second association comes from your cave-fingertips-fire dream. I recently re-visited your web page, [see <a href="http://www.ralockhart.com">http://www.ralockhart.com</a> for the dream and image] and later, when I read about the gourd dream, I immediately associated it with the fire dream and with the above reflections. They seemed to belong together. </p>
+
+<p><strong>RL:</strong> I did not immediately associate the two dreams. But when I worked on the etymology of the first hexagram I cast in using the <em>dreamgourd</em>, I realized two things: The first was that the cave that I was in in the dream you refer to, was gourd shaped; Second, that the strange feelings in my fingers as I was making the <em>dreamgourd</em> were echoes of the feeling in the cave dream when I touched the walls of the cave and could feel the markings there that turned out to be an unknown language. Both dreams had that amazing sense of “task” about them to which there was no saying no. In that dream, the “fire” that came from my fingertips enabled me to see. </p>
+
+<p><strong>PM:</strong> Swimme and Berry make the point that “the controlled use of fire is the first extensive control of the human over a powerful natural force with almost unlimited possibilities that would be associated with human development over the centuries. Together with the shaping of wooden and stone implements, fire becomes the primordial humanly controlled technology.” </p>
+
+<p><strong>RL:</strong> I can tell you that the “awe” I experienced in that dream when I rubbed my fingertips together, “remembering” I could make fire that way, must have been something like those early experiences of humans beginning to control fire. In many ways it is the origin of what we mean by technology. So much is hidden in this word we no longer hear, but probably need to, because it gets to the roots of what these early experiences were and which we can once again have access to. That sense of <em>techné</em> as “art,” as “weaving,” as “text” and in the earliest sense, as “becoming.” One might say that when humans learned the art of fire, they became human. The sad thing is that we have lost so much of the sense of this; what is hopeful though, is that these “root” experiences are still available to us, and most especially through dreaming. </p>
+
+<p><strong>PM:</strong> We can see that the intelligence behind Paleolithic and Neolithic oracular practices was refined during the early centuries of Chinese civilization into the magnificent edifice of the <em>I Ching</em>. That intelligence, that “art.” still percolates in the modern psyche—in your dream—possibly showing us ways out of our current impasse—ghastly as it is. I know that’s a lot to expect of a <em>dreamgourd</em> with stones in it, something so simple, so primitive, so... spooky. But it seems to me that further degrees of technical prowess are not really what we need, so much as a re-connection to something more basic in our being. </p>
+
+<p><img src="../images/post-bcpov6krdbf1-4.jpg" width="200" height="auto" alt="Bronze-colored gourd" style="margin: auto;"/></p>
+
+<div style="text-align:center"><i>A closeup of the Dreamscroll in its holder</i></div>
+
+<p><strong>RL:</strong> Too often, I think, this yearning gets pictured as a romantic “return to the past,” when I do not believe that is the impulse at all in something like the <em>dreamgourd</em>. No, it is more like recovering something we have lost because we will need it to find our way into a sustainable future. I believe this happens one person at a time, and that the telling of these experiences to one another is the Eros that can “spark” a fire in the psyche from one to another. With the possibility of everyone in the world being connected via the Internet, such a “global village” of shared experience of these lost things is becoming more and more possible. The terrible fragmentations and polarities loose in the world now are presaging a momentous enantiodromia, a reversal, that I believe will form the basis of the new paradigm of consciousness that the recovery of our lost soul (which is what dreams are) will make possible. All the old calendrical systems, including the <em>I Ching</em> (which is also a calendar), as well as the science of creative epochs, all point to 2012, as a time point of this “end” of what we now experience as human consciousness. So, no Paco, I think you are right, that something like the <em>dreamgourd</em> dream is the very “stuff” of re-connection, the fabric of it, the weaving of it, the art of it, the technology of it. The eventual “discovery”— or actually, rediscovery—of dreams (which has only just begun) will be as monumental for our fate as the discovery of fire was in the early days of our becoming human. </p>
+
+<p><strong>PM:</strong> Well, this fits with something else that Thomas Berry brings out in his book, <em>Dreams of the Earth</em>. He says that in coming to terms with the planetary crisis we need to create a new cultural coding which we can do only by reaching far into the past, beyond the old cultural codes which have brought us to the brink of devastation. We must, he says, make contact with our genetic coding and, out of that, bring forth a new vision of how to live on the earth. In my opinion, dreams such as yours, which reveal “the answers,” are trying to pull us back to Berry’s genetic coding, to the very source of those creative “spontaneities” as he calls them, which alone can bring us back into alignment with the evolutionary development of the universe. </p>
+
+<p><strong>RL:</strong> It seems to me a new angle on what Jung was saying in his letter to Herbert Read: “We have simply got to listen to what the psyche spontaneously says to us. What the dream, which is not manufactured by us, says is just so.” The dream would be one way in which the “new code” would come to us. And... note what else Jung says here: “it is the great dream which has always spoken through the artist as mouthpiece. All his love and passion (his “values”) flow towards the coming guest to proclaim his arrival.” In this sense, the coming guest would be the “new code” Berry is trying to get us to see the urgency of. Imagine what might happen if dreams were welcomed in this spirit! Maybe not today, but someday, it will happen. </p>
+
+<p><strong>PM:</strong> Knowledge of the answers, in other words, lies “sealed” within the human, the only barrier between us and that knowledge is the boundary between consciousness and the dream. As you know, in spite of our general resistance to dreams (our cultural coding), that boundary is easily breached, like the wad of clay with which the Egyptians sealed their tombs to determine if the tomb had been violated or not. I also note the Celtic tradition of the “silkie,” a creature part man, part seal, capable of shuttling between the human world of cultural codes and the larger, animal- cosmic world of genetic codes (via dreams or visions). I remember your telling me a dream in which you encountered a seal which told you “the answers,” but which upon waking you could not remember. And then the following night, in the dark, walking along the beach, you tripped over a washed up dead seal, and you sat down with it and tried to remember. </p>
+
+<p><strong>RL:</strong> Essentially everything I’ve done since that dream and that encounter with the seal has been trying to remember what I was told and to bring it forth. </p>
+
+<p><strong>PM:</strong> I think of silkies as symbolizing the <em>daemon</em> of what Berry calls the “shamanic personality,” which he says is exactly what we need if we are to bridge the chasm between where we are and where we need to be. In this sense, I regard dreams such as yours as “shamanic.” </p>
+
+<p><strong>RL:</strong> That is easily taken the wrong way, of course. I think the way I can agree with you is to say that we do not need to seek a shaman in someone else, but the shamanic potential in each of us. </p>
+
+<p><strong>PM:</strong> Far from being an occasion for ego-inflation, the shamanic potential— when lived—actually brings a sense of responsibility. That’s how you’ve responded to your dreams— ever since I’ve known you, actually. It’s not about flying off on a broomstick. When you say—“the shamanic potential in each of us”—you bring it back down to earth. By the way, your image of dreams being “rediscovered” on a wide scale, is intriguing. I hope you’ll say more about that. </p>
+
+<p><strong>RL:</strong> Yes, that would be a good place for us to begin in the next issue.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3rpac,
+        ns1:bcphbqvruss ;
+    ns1:hasTag ns1:bcphbq3rpac,
+        ns1:bcphbqvruss,
+        ns1:bcphbxuajab ;
+    ns1:itemId "bcpov6krdbf1"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreams, Bones and the Future: Part 1"^^xsd:string ;
+    ns1:profileImg "post-bcpov6krdbf1-1.jpg"^^xsd:string ;
+    ns1:urlSlug "dreams-bones-and-the-future-1"^^xsd:string .
+
+ns1:bcpov6krdbf2 a ns1:Post ;
+    ns1:dateCreated "2008-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6krdbf2-0.jpg" height="auto" alt="Two birds, perhaps representing the authors" style="width: 300px; margin: auto;"/></p>
+
+<p><em>This is the second in a series of excerpts from an ongoing dialogue between Russell Lockhart and Paco Mitchell. The first dialogue—and what prompted this exchange between them—is published in <a href="../bcpov6krdbf1/dreams-bones-and-the-future-1">Dream Network Journal/ Spring 2008. Volume 27 Number 1</a>.</em></p>
+
+<p><strong>Paco Mitchell:</strong> Last time you said, “The eventual discovery—or actually, rediscovery—of dreams (which has only just begun) will be as monumental for our fate as the discovery of fire was in the early days of our becoming human.” Can you say more about this “rediscovery” of dreams and what it might mean collectively? </p>
+
+<p><strong>Russell Lockhart:</strong> Well, the audacity of that statement when reflected back to me is alarming! But then intuitions are frequently alarming. One knows the truth in one’s bones, but then trying to convey that truth to others is about as easy as trying to show someone your living skeleton! However, here are some things embedded in this idea. The first is centrality. Dreams will become once again ever more central and crucial in individual and collective life—in spite of all that animates against this process at the present time. Imagine a collective life at all levels informed and led by dreams! Almost impossible to imagine, but I believe it’s coming. The second is continuity. At present, our experience of the reality of psyche is terribly discontinuous— dreams are disconnected from our daily life, synchronicities are separated so as to seem unrelated, we experience our own dream life as not connected with the dream life of others, or with the world. But, at bottom, we are all linked by a kind of rhizome layer. There is the appearance of discontinuity only because our consciousness “dips in” from time to time and there is much that works against dipping in at all. But the future will bring the discovery that we are all connected at the rhizome level, that the full story of our dream life and the dream life not only of others but of all things is accessible there. The third is circulation. I think of the image of Aquarius here, the Water Carrier, which I imagine as individuals immersing themselves in the rhizomic layer and “bringing back,” that is, telling in words and deeds or in other ways, the “story” of what was experienced there. </p>
+
+<p><strong>PM:</strong> I can imagine lots of different forms of public telling: books, articles, poems, songs, plays, films, conferences, rituals, dream-groups, discussion-groups, etc. But private telling as well—dreamsharing between couples, friends, parents and children, with strangers, and so on. Is there a fourth aspect?  </p>
+
+<p><strong>RL:</strong> The fourth is what I think of as coming—and I mean this in all its senses. We have hints of a climax of some inordinate dimension coming. While futurists such as Ray Kurzweil see that “the singularity is near,” and argue that it will be technology that ushers in “the Great Coming,” I think rather it will have more to do with the advent of “the Coming Guest,” that spirit of the future foreseen by (George Russell, the Irish poet) and by Carl Jung. I think people far and wide are experiencing what I call “inchoate anticipations” of this singularity in their numinous dreams and synchronistic experiences. What is it that will be born from this orgasmic singularity that all of humanity will experience? I tend to think that our consciously directed visions will fail us and that we will need to look with a more welcoming spirit to art and dreams to even begin to get a sense of what is coming. </p>
+
+<p><strong>PM:</strong> This resonates with what I came to in “Dreaming Planet” <em>(Dream Network Journal Volume 26, Numbers 3 &amp; 4; Volume 27, Number 1)</em>, where I expressed the hope that—if enough of us pool the wisdom we sometimes encounter in our dreams—a new jolt of evolutionary energy may work its way into consciousness in time to help humanity shed its skin and manifest whatever is trying to be born. What you say brings to mind this dream from the early 80s, which may be an example of what you are calling “anticipations.” In the first part</p>
+
+<blockquote>
+  <p><em>...American military planes are returning from battle and they are dirty and dilapidated. They all turn into one large commercial airliner, likewise dirty and dilapidated, which subsequently crashes. Out of the wreckage rise four large, iridescent, translucent spheres. They are named: Gold, Silver, Zephyr and Harmonium. They stop in front of me. I feel they have some intention in regard to me. I go into a building and tell a dignified, authoritative woman what I have seen. “Yes,” she says, “people are working on that</em> (i.e., the four spheres) <em>all over the world.” The fourth sphere is somehow associated with the image of a tree.</em>  </p>
+</blockquote>
+
+<p><strong>RL:</strong> You know, when people hear dreams (or read them), they invariably ask, “What does this mean?” This, I believe, is a disruptive question. A more circulatory response would be to attend to what hearing the dream arouses. “Understanding” the dream is not nearly as important as following the hints the dream generates. That is what I call the Eros function of a dream and in that regard dreams are more like stories to be continued than objects to be put under the microscope of understanding. You had that dream some twenty-years ago or so, and even then, there is that clear image of people working on the spheres all over the world. Many people are working in isolation I am sure. What a difference it would make if more people knew of this! </p>
+
+<p><strong>PM:</strong> Here’s a more current dream that seems to work along the same lines: </p>
+
+<blockquote>
+  <p><em>A foundry has been setup in an outdoor location. The terrain is sloping and uneven. People are lined up in a long, serpentine column, waiting for their sculptures to be cast in bronze. Each person has made one piece. To my surprise, I am free to wander around observing without hindrance. I walk over to where the metal is to be poured, the “crucial” area where the “crucible” is used. As the first mold is being positioned for pouring, I see a very large hydraulic/mechanical arm swing toward the pouring area. It crashes into the mold and breaks it. Nevertheless, it seems, in the confusion, that the first mold has somehow been poured. The arm is holding a slightly tilted crucible. I see the molten metal inside and can tell that it is beginning to crystallize, which means that there is not much time left to carry out the remaining pours. If the metal gets too cold, it will stop flowing and will solidify inside the crucible. Suddenly, though, the first broken mold falls away and I see a perfectly round, polished bronze sphere</em> (in realistic terms of a rough casting, this would be an impossibility). <em>It is a stunning sight. My impression is that there is a relationship between the breaking of the mold by the “large arm” and the paradoxical perfection of the resulting casting, i.e., the perfect sphere emerges from “out of the wreckage.”</em>  </p>
+</blockquote>
+
+<p><strong>RL:</strong> Imagine, everyone with their own individual sculpture! What a contrast to the current craze of near viral mimetic duplication where everyone wants to be like someone or something else. </p>
+
+<p><strong>PM:</strong> Imagine how many other similar dreams are being witnessed each night by the “planetary dream brigade,” and what a spectacular benzene-ring those dreams would form, if only they could be brought to light. Hopefully, we can bring some of them forth “before the metal freezes.”  </p>
+
+<p><strong>RL:</strong> Yes, your dream has a sense of urgency and I see this same sense of urgency in many dreams of this nature. </p>
+
+<p><strong>PM:</strong> I recall Jung referring to “the last fifty years of civilization” just before he died in 1961. That puts his time point around the same 2012 that is so much the object of focus now. We don’t have forever to carry out the transformations implicit in the dream. Yet, to say that the situation is urgent doesn’t necessarily mean we have to “speed things up.” In fact, the opposite may be true. There is that Zen story where the Master addresses his monks: “There are many urgent tasks that we must attend to, and little time. Therefore, we must slow down.”  </p>
+
+<p><strong>RL:</strong> Precisely the quality that is near extinction, but so vitally needed now. Only then would we be able to experience “the joy that dwells far within slow time,” as the poet <a href="https://en.wikipedia.org/wiki/John_O%27Donohue">John O'Donohue</a> tells us in <em>A Blessing for One Who is Exhausted</em>, a poem that might just be the necessary medicine for the exhaustion one hears as a wailing lament everywhere these days. </p>
+
+<p><strong>PM:</strong> “Lament” is a good word for it. I can imagine the world‘s symptoms— both on personal and environmental levels—laments for the loss of “slowtime.” By the way, Russ, can you say more about the idea that synchronicities are so separated as to seem unrelated?  </p>
+
+<p><strong>RL:</strong> Synchronicities impact us so strongly because, for a brief moment, the “veil” that normally hides what Keats called the “penetralium of mystery”—that rhizomic layer I referred to earlier—is pulled aside and we have a momentary glimpse of our fate. These encounters range from invoking only mild curiosity to the most profound, stunning, even life-altering experiences of the conjoining of two “realms” of life. But synchronicities are not isolated events. There is a theme or motif, some “thread of destiny” that links synchronicities together, as if periodically we stepped into a darkened theatre to witness the play going on there and tried from these momentary and periodic glimpses to “make sense” of them. It is hard, some times near impossible. But there is a play, a story, going on behind the veil— of that I am convinced. </p>
+
+<p><strong>PM:</strong> An example?  </p>
+
+<p><strong>RL:</strong> I was a kid about 8 years old, horsing around with my Cub Scout buddies on a mountain trail. At one point, I lost my footing and began to tumble down, was getting pretty bashed up, when suddenly I “saw” a huge owl in the sky and its speech penetrated me: “Grab the tree.” I smashed into a small tree, breaking my fall, and held on as the owl instructed. That tree was the last thing in my way before going over the precipice and my certain death. This is synchronistic because of the conjunction in time of two realities. That owl saved my life. But all synchronicities have an “intention.” So, I must ask, “What for?” Since then there have been many synchronicities involving owls... in dreams, visions, and real owls as well. I feel as though I was inducted or initiated into... into what? When I look at these synchronicities across all these years, now I see they form something like stepping stones, a story-path if you will. I think this is what you are pointing to as well in your articles in these pages, on the way dreams reveal one’s destiny and fate. And you know how “animated” (as if animals were somehow involved) synchronicities have become between us since we began this dialogue. </p>
+
+<p><strong>PM:</strong> I’ve also been thinking about all these remarkable synchronistic events we’ve been experiencing on both sides of our exchange. In particular, I’m intrigued by the owls. I’ve never dreamed about owls, to my knowledge, until recently. I still think there is a connection between the owl and the heron (my totem animal, so to speak). In myth, the heron is definitely associated with dawn whereas the owl is largely nocturnal. But then why did I once see a heron fishing at 1:00 AM on a cloudy, moonless night? I learned from an optometrist that herons have a <em>tapetum lucidem</em>—a layer of reflective cells at the back of their eye, like all nocturnal creatures: owls, mice, cats. Seeing into the dark–what a gift! The planet has been spinning since its inception; every creature is conditioned by diurnality. Therefore, we’re programmed for light and dark phases—above all, the animals, who were here long before humans. They carry so much more history than we do, and still they seek us out in our dreams and synchronicities, apparently for the purpose of dispensing their evolutionary wisdom, teaching us the value of seeing into the dark. Your early “tumbling” experience shows what life-savers they can be. Maybe someday we humans will remember just how vitally important they really are to us.  </p>
+
+<p><strong>RL:</strong> Jung decried the loss of the animal spirit and felt it had a lot to do with the loss of vitality across the whole dimension of religious experience. The animals went the way of dreams in formalized religions, so the animals took up residence, as it were, in the dream world. </p>
+
+<p><strong>PM:</strong> Yes, the dove of Aphrodite, the eagle of Zeus, the owl of Athena, the heron of the Egyptians and Greeks, the phoenix of the Romans—all virtually subsumed by the dove of the Christian Holy Spirit. But then the Holy Spirit itself has been subsumed by the Materialistic Spirit that has become the world’s religion. Where did that Holy Spirit as Paraclete go? Into the unconscious. And now it is pressing and forcing its way into consciousness through whatever cracks and channels are open to it: accidents, injuries, dreams, synchronicities, drug experiences, meditation, prayer... ecstasies” of all kinds.  </p>
+
+<p><strong>RL:</strong> Yes, those are all places of “inchoate anticipations” of what is coming, what cannot be held back. </p>
+
+<p><strong>PM:</strong> In my opinion, humanity has reached a crucial choke-point, a funnel through which everything that will happen in the near future must pass. The amplitude of time that allowed the Egyptians, the Greeks, the Romans such leisurely elaborations of their myths is foreclosed to us. The funnel, like a venturi, or even a tornado, accelerates our experience of time to a disorienting degree. Our new myth will be born out of compressions of time and space such as we have never seen before. The best, most hopeful comparison I can think of is the compounding of heavy elements in the heart of an exploding star, or perhaps, in more earthly terms, the subterranean mystery of diamonds.  </p>
+
+<p><strong>RL:</strong> Sounds like something we should dream on, Paco. </p>
+
+<p><em>...to be continued</em>.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3rpac,
+        ns1:bcphbqvruss ;
+    ns1:hasTag ns1:bcphbq3rpac,
+        ns1:bcphbqvruss,
+        ns1:bcphbxz53sl ;
+    ns1:itemId "bcpov6krdbf2"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreams, Bones and the Future: Part 2"^^xsd:string ;
+    ns1:profileImg "post-bcpov6krdbf2-0.jpg"^^xsd:string ;
+    ns1:urlSlug "dreams-bones-and-the-future-2"^^xsd:string .
+
+ns1:bcpov6krdbf3 a ns1:Post ;
+    ns1:dateCreated "2008-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6krdbf2-0.jpg" height="auto" alt="Two birds, perhaps representing the authors" style="width: 300px; margin: auto;"/></p>
+
+<p><em>This is the third in a series of excerpts from an ongoing dialogue between Russell Lockhart and Paco Mitchell.</em></p>
+
+<p><strong>Paco Mitchell:</strong> Russ, at the beginning of our <a href="../bcpov6krdbf2/dreams-bones-and-the-future-2">Dialogue #2</a> you said: “But, at bottom, we are all linked by a kind of rhizome layer.” That’s a huge statement. For centuries we’ve labored under the opposite assumption, that we’re not all linked, that we’re separate, that the universe is a machine, even that we are machines. We’ve devoted ourselves to the principle that knowledge is served by slicing everything into finer and finer discrete pieces—we know more and more about less and less. But with a knowledge of the parts came control over the whole—or so we thought. We were bound to become... Masters of the Universe! </p>
+
+<p>But now you speak of another level of knowing that has escaped the attention of our restless blade, like a baby in the bulrushes, hidden from Herod’s soldiers. This “rhizome layer” is some kind of unitary phenomenon that underlies consciousness. I’ve been thinking of it, provisionally, in terms of “continuous time,” as a way to contrast it from the “discontinuous time” that goes with our Western mind-set. </p>
+
+<p>Current modes of thought scarcely admit the existence of your “rhizome,” even though it amounts to one of the most primordial of experiences. We need a different means of approach that will enable us to see into the darkness of what, in former ages, was common knowledge. This would amount to a new way of knowing... but one that is also very old. </p>
+
+<p>In his book The <em>Dream of the Earth</em>, <a href="https://en.wikipedia.org/wiki/Thomas_Berry">Thomas Berry</a> evokes the “shamanic personality” as something we urgently need to cultivate, now and in the future. To do this we must recover an old way of seeing imaginatively, but in the light of present knowledge. I understand the shamanic personality as a certain disposition—imaginative, poetic, alert to dreams and synchronicities, capable of discerning the patterns that emerge from both waking and dreaming experience. In short, a disposition to recognize the “imaginal realm”—Henri Corbin’s mundus imaginalis—as real. The shamanic personality, it would seem, is well-suited to healing the rift between the continuous time of the rhizomic layer, and the discontinuous time of modern consciousness. </p>
+
+<p>Of course, we need to re-educate ourselves in those imaginative ways, which are so legion as to constitute a virtual labyrinth! How do you orient yourself in the face of these possibilities and how would you suggest others orient themselves? </p>
+
+<p><strong>Russell Lockhart:</strong> This labyrinth of possibilities is a core image, to be sure, and captures well the problem set before us. I want to say, first, that I do not think “orienting” can be codified, no matter how intense the effort. Think of Daedalus and his son Icarus in the labyrinth. So, following myth, we have the Icarian grand schemes whose promise always seems to melt away and crash; or, the Daedalian inventiveness that raises us just enough and over the edge to freedom, but generally freedom only to go on about what was before. </p>
+
+<p>I remember now that my father-in-law wrote a poem, “In A Labyrinth,” in which—in contrast to the myth— something different happened: “I saw a tiniest crevice—see?” Well, an entirely different story unfolds from that, does it not? Thus, I see that an orientation to the “labyrinth of imaginative possibilities” is itself highly individual. </p>
+
+<p>For myself, I pay most attention to what “presents” itself. Just now, for example, the memory of something I read in <a href="https://en.wikipedia.org/wiki/John_Fowles">John Fowles’</a> essay, <em>The Tree</em>, presented itself in my experience. Does it belong here? I don’t know that it does, yet I trust that it does. Fowles first described standing in the world’s most perfect garden, at least since the Garden of Eden. It was Carl Linnaeus’ garden, the embodiment of the spirit of Linnaeus’ “ordering of nature,” which to this day, determines so much not only how we “see” order in nature, but as well how we try to “order” the nature of our lives. Fowles declared himself a Linnaean heretic and even reveled in the fact that Linnaeus, at the end of his life, had gone completely mad. </p>
+
+<p>Fowles then goes on to describe an experience of his childhood. An elderly man in his neighborhood had gone mad upon the death of his wife and simply withdrew from the world. What had been an orderly landscape turned to seed and weeds took over; all manner of “undesirable elements” took hold. It became a complete eyesore, blighting the neighborhood, the very antithesis of that for which we strive. Yet, into this complete horror, as Fowles walked by one day, landed Britain’s rarest bird, a waxwing, nibbling happily on a crop of wild berries. How does one prepare for that? </p>
+
+<p>I know only that most of the time we are preparing distractedly against it and this is terribly costly to our soul and our spirit. So, this response to your question is itself an example of how I orient myself. </p>
+
+<p>And... here’s something more. When I remembered that image from my father-in-law’s poem, I knew I had the title of the book I want to publish of his poems: Poems from the Crevice. Then, I asked my wife to find me a picture of him to use on the cover, and she gave me a small photograph that had been folded and so had an “imperfection” running across it. There was the crevice! The cover designed itself in my imagination and I sat right down and laid it out— as you can see in the accompanying picture. </p>
+
+<p><img src="../images/post-bcpov6krdbf3-0.jpg" width="200" height="auto" alt="Man standing in a blue suit on a book cover" style="margin: auto;"/><div style="text-align:center"><i>Book cover of Russ’ father-in-law’s poetry</i></div></p>
+
+<p><strong>PM:</strong> So, you orient yourself to imaginative possibilities by paying attention to accidents, imperfections and the unexpected—“gifts of the imagination,” we might say... threads that lead us further <em>into</em> the labyrinth, not out of it. </p>
+
+<p>This suggests an artistic sensibility. A poet, for example, catches aleatory images, like butterflies in a net, dresses them up in words and borrows them to craft a poem. A scientist reading a numerical printout scans for anomalies in the “data”— that which is given—and from those unexpected patterns develops a theory. Your trust in the face of not-knowing is a bit unusual. Not everybody is as comfortable with uncertainty as you. You see opportunities in chance events—openings to another level of reality. And it is not directed consciousness that you apply to the initiatory event but a deeper sensitivity, perhaps even an “animal knowing.” Something about the moment fits an unconscious pattern. And something in you—in us— recognizes it. </p>
+
+<p>I think of that something as a “subliminal knowing witness.” And you have learned, by experience and inclination, to trust, to listen to, this subtle witness. Who or what is the knowing witness? We can say, “Oh, that’s just intuition at work.” Fair enough. But I suspect there’s more to it than that. Something closer to an imaginal person, a “who” more than a “what”—whether the person be animal, human or both. From within the shadowy penumbra of our consciousness, this “something” directs our attention toward the scintillae sparkling there—a topic we might take up elsewhere. </p>
+
+<p>You mention John Fowles’ story about how Linnaeus, after a lifetime of obsessively and devoutly classifying nature, went mad. It reminds me of Goya’s etching “The Sleep of Reason Produces Monsters.” </p>
+
+<p><img src="../images/post-bcpov6krdbf3-1.jpg" width="200" height="auto" alt="Man attacked by demonic birds" style="margin: auto;"/><div style="text-align:center"><i>“The Sleep of Reason Produces Monsters” by Goya</i></div></p>
+
+<p>Perhaps if Linnaeus had listened to Goya’s owls, or had paid more attention to the “tiniest crevice” your father-in-law wrote about, Linnaeus might not have ended his life in madness. As it was, he exemplified the scientific spirit of his time, and he paid a price for the inherent imbalance within that spirit, the fantasy of rational control over nature. Goya’s etchings—Los Caprichos or the “The Sleep of Reason Produces Monsters” Goya “whims”—illustrated some of the dangers of that imbalance. And we’re still paying the price today. But your approach elevates hidden nuances and overlooked subtleties. How? By allowing your attention and interest—your libido to be deflected toward the background of consciousness? Let’s call that a kind of “liminal vision”—seeing into the dark—and recognize that it leads us toward the rhizome layer. The imaginal realm. The creative unconscious. The dream. So when you say you orient yourself to the imagination with whatever “presents” itself, you often start with what is small, negligible. But as you follow the trail of hints, you are led to larger and larger patterns, which together begin to reveal the rhizome. This is as much a way of working with dreams as of composing books, or writing poems.  </p>
+
+<p><strong>RL:</strong> Yes, further and further <em>into</em> the labyrinth would be another way entirely and one that would be a recovery of something long lost. Imagine, thirty-two thousand years ago, Paleolithic peoples ventured into those labyrinthine caves, deeper and deeper and it was then, in the deepest recesses, where they painted the most incredible images on the cave walls. I’m reminded of what Picasso said when he saw the cave paintings at Lascaux: “They’ve invented everything.” Now, why go so deep just to paint images of what is so available on the surface? Why this art at all? It remains a deep mystery. But my intuition tells me that this was not an exercise in rendering life-like images of bulls and horses and rhinos but more the expression of the animal’s role in the primogeniture of the human imagination itself as well as giving expressed vision to the dreams those animals induced in early humans. That’s one reason I think that in these early expressions there are so few human images. The walls are alive almost exclusively with animals. In this there was a kind of rhizomic integrity of world, imagination and dream. I think history can be read as a progressive fragmentation, a violent fracturing into disconnected shards of what must have been a more integral world. We have lost much; but for this very reason, we have much to gain. So, yes, I believe deeper into the labyrinth is the way to that recovery. You know, after writing this paragraph, I had a dream. In the dream, </p>
+
+<p><em>I see outside a tiger moving along a path. There is a sense that everyone fears the tiger. But I know I must go and greet the tiger and to pet it as I do my own cat Samantha. I do that and the tiger rolls over on its back and I rub its belly as I do Samantha’s when she does that, and the tiger extends its paw to me and I grasp it and we “shake hands.” I can see that the tiger is enjoying this immensely as do I</em> and I wake up with tears in my eyes from the utter joy of this encounter. I don’t have a cave wall but I will find a way to bring this animal into visible manifestation! </p>
+
+<p><strong>PM:</strong> What a moving dream! “Enjoyment” is the correct word. The tears make sense as a response to the deep joy of holding the tiger’s paw. It’s a potential connection that we all carry within us, but have mostly forgotten. Russ, there’s something important here—your intuition about Lascaux, combined with the subsequent, powerful dream of the tiger. </p>
+
+<p><img src="../images/post-bcpov6krdbf3-2.jpg" width="400" height="auto" alt="Bison on a cave wall" style="margin: auto;"/><div style="text-align:center"><i>Cave paintings at Lascaux</i></div></p>
+
+<p>It’s as if the dream, though it was not created by you, nevertheless came as a validation of your intuition. Even more, it is as if someone sought to validate your intuition. Let’s take it even one step further: It is as if the tiger sought to validate your intuition. For it’s difficult to escape the impression that there is some kind of consciousness or awareness in and behind these dreams. And where there is conscious awareness there is something personal—i.e., a “personality”— even (or maybe especially) if it comes to us in the form of a Tiger. Of course, we’re accustomed to thinking of our connection with animals either mythically—as in the Book of Genesis (even when interpreted literally)—or as “merely” physical, in the evolutionary sense of “vestiges”: bones, sinews and organs. But the persistence of psyche over time extending as it does as much into the future as it does into the past, therefore permits an extension of “personality” in both directions as well. </p>
+
+<p>This suggests that those Paleolithic artists or shamans who wriggled and squirmed their way down into the deepest caverns for the purpose, as you hinted, of giving form to the animals who made up their imaginal cosmos, probably experienced those very same animals as “personalities”— i.e., persons—living presences who came to them bearing messages, warnings, teachings and blessings. Who is to say that, in those times, they did not in some fashion speak the same language? The animals, after all, were the already ancient “ancestors” of those earliest humans. It might not be too far-fetched to see in these animal persons parading through the human psyche over the millennia, prefigurations of what later humans called “angels.”</p>
+
+<p><em>…to be continued…</em> </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3rpac,
+        ns1:bcphbqvruss ;
+    ns1:hasTag ns1:bcphbq3rpac,
+        ns1:bcphbqvruss,
+        ns1:bcphbx7d7cu ;
+    ns1:itemId "bcpov6krdbf3"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreams, Bones and the Future: Part 3"^^xsd:string ;
+    ns1:profileImg "post-bcpov6krdbf3-2.jpg"^^xsd:string ;
+    ns1:urlSlug "dreams-bones-and-the-future-3"^^xsd:string .
 
 ns1:bcpov6krfish a ns1:Post ;
     ns1:dateCreated "1990-04-01T11:32:52"^^xsd:dateTime ;
@@ -13566,20 +13761,6 @@ ns1:bcphbwctnd2 a ns1:Post ;
     ns1:profileImg "23.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "23.3"^^xsd:string .
 
-ns1:bcphbx7d7cu a ns1:Post ;
-    ns1:coverImg "27.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2008-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.4_agents_for_change.pdf" download="">Download issue 27.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.4_agents_for_change.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocezqpx ;
-    ns1:itemId "bcphbx7d7cu"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 27, issue 4: Dreams as Agents for Change"^^xsd:string ;
-    ns1:profileImg "27.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "27.4"^^xsd:string .
-
 ns1:bcphbxfpj5j a ns1:Post ;
     ns1:coverImg "25.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2006-10-01T11:32:52"^^xsd:dateTime ;
@@ -13607,6 +13788,20 @@ ns1:bcphbxm2y5p a ns1:Post ;
     ns1:name "Volume 26, issue 3: Visionary Activism"^^xsd:string ;
     ns1:profileImg "26.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "26.3"^^xsd:string .
+
+ns1:bcphbxuajab a ns1:Post ;
+    ns1:coverImg "27.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2008-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.1_childrens_dreams.pdf" download="">Download issue 27.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.1_childrens_dreams.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocezqpx ;
+    ns1:itemId "bcphbxuajab"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 27, issue 1: Children Dreaming"^^xsd:string ;
+    ns1:profileImg "27.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "27.1"^^xsd:string .
 
 ns1:bcphbzaknqj a ns1:Post ;
     ns1:coverImg "30.2-3-cover.jpg"^^xsd:string ;
@@ -14320,6 +14515,20 @@ ns1:bcphbwpd2l7 a ns1:Post ;
     ns1:profileImg "24.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "24.3"^^xsd:string .
 
+ns1:bcphbx7d7cu a ns1:Post ;
+    ns1:coverImg "27.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2008-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.4_agents_for_change.pdf" download="">Download issue 27.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.4_agents_for_change.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocezqpx ;
+    ns1:itemId "bcphbx7d7cu"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 27, issue 4: Dreams as Agents for Change"^^xsd:string ;
+    ns1:profileImg "27.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "27.4"^^xsd:string .
+
 ns1:bcphbxal53y a ns1:Post ;
     ns1:coverImg "25.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2006-07-01T11:32:52"^^xsd:dateTime ;
@@ -14363,20 +14572,6 @@ ns1:bcphbxxscsf a ns1:Post ;
     ns1:name "Volume 27, issue 2: Women for Peace"^^xsd:string ;
     ns1:profileImg "27.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "27.2"^^xsd:string .
-
-ns1:bcphbxz53sl a ns1:Post ;
-    ns1:coverImg "27.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2008-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.3_dreaming_politics.pdf" download="">Download issue 27.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.3_dreaming_politics.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocezqpx ;
-    ns1:itemId "bcphbxz53sl"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 27, issue 3: Dreaming Politics"^^xsd:string ;
-    ns1:profileImg "27.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "27.3"^^xsd:string .
 
 ns1:bcphby2swke a ns1:Post ;
     ns1:coverImg "29.4-cover.jpg"^^xsd:string ;
@@ -14642,6 +14837,20 @@ ns1:bcphbxjsuyu a ns1:Post ;
     ns1:name "Volume 26, issue 1: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
     ns1:profileImg "26.1-2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "26.1-2"^^xsd:string .
+
+ns1:bcphbxz53sl a ns1:Post ;
+    ns1:coverImg "27.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2008-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.3_dreaming_politics.pdf" download="">Download issue 27.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.3_dreaming_politics.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocezqpx ;
+    ns1:itemId "bcphbxz53sl"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 27, issue 3: Dreaming Politics"^^xsd:string ;
+    ns1:profileImg "27.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "27.3"^^xsd:string .
 
 ns1:bcphbyukqzw a ns1:Post ;
     ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
@@ -15445,6 +15654,21 @@ ns1:bcphbq3olse a ns1:User ;
     ns1:name "Fred Olsen"^^xsd:string ;
     ns1:profileImg "author-fredolsen.jpg"^^xsd:string .
 
+ns1:bcphbq3rpac a ns1:User ;
+    ns1:description """<p>On Academia.edu: <a href="https://independent.academia.edu/PacoMitchell">academia.edu/PacoMitchell</a></p>
+
+<p>Paco Mitchell is a Jungian author, artist, therapist and editor, dedicated to the study of dreams, essay- and fiction-writing, and creative ventures in general. His interest in dreams focuses primarily on emergent levels of psychic development that take shape in the collective unconscious, and strive toward consciousness in the dreams and lives of individuals. Many of Paco's dream-related essays have been published in Dream Network Journal and Depth Insights, as well as The Angels (The Entities Trilogy), ed. by Robert Sardello. In addition to his Jungian studies and practice, Paco also taught Romance Languages (Spanish and French); worked as a sculptor and owner/operator of the Blue Heron Foundry (Art Bronze Casting); and for many years taught and performed on the flamenco guitar, both as a soloist, and as an accompanist to flamenco dancers and singers. He is co-editor of the Owl &amp; Heron Press with <a href="../@ral">Russell A. Lockhart</a>, with whom he has co-authored the first two volumes of a trilogy, Dreams, Bones &amp; the Future, subtitled A Dialogue and Queries &amp; Speculations, respectively. The third volume, subtitled Endings, is under way and will be published in 2020. His latest release is The Paraclete of Caborca: A Collision with Destiny, available on Amazon.com at:</p>
+
+<p><a href="https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm_pap_new_olp_0?ie=UTF8&amp;condition=new">https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm<em>pap</em>new<em>olp</em>0?ie=UTF8&amp;condition=new</a></p>
+
+<p>Paco lives in Santa Fe, New Mexico. He may be reached at mitchell@cybermesa.com</p>
+"""^^xsd:string ;
+    ns1:handle "paco"^^xsd:string ;
+    ns1:itemId "bcphbq3rpac"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Paco Mitchell"^^xsd:string ;
+    ns1:profileImg "author-paco.jpg"^^xsd:string .
+
 ns1:bcphbq3spar a ns1:User ;
     ns1:description """<p>International Eco Ebook, Author OVI Bookshop, Director-Scriptwriter for CROSSING the THRESHOLD TOGETHER video project</p>
 
@@ -15517,19 +15741,6 @@ ns1:bcphbqvmoss a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert Moss"^^xsd:string ;
     ns1:profileImg "author-moss.jpg"^^xsd:string .
-
-ns1:bcphbqvruss a ns1:User ;
-    ns1:description """<p>Website: <a href="http://ralockhart.com/">ralockhart.com</a></p>
-
-<p>Los Angeles-born Russell Lockhart has a doctoral degree (human psychophysiology) from the University of Southern California. In 1974 he graduated from the C.G. Jung Institute of Los Angeles, where he served as Director of Analyst Training from 1979 to 1982. Since 1974 he has been in private practice. He has served on the faculties at the University of California, Santa Barbara, and University of California, Berkeley. He was a research psychologist at the University of California, Los Angeles, and Director of the Psychophysiological Research Laboratory at Camarillo State Hospital. </p>
-
-<p>Dr. Lockhart is the author of <a href="https://www.amazon.com/Words-As-Eggs-Russell-Lockhart/dp/0911783008">Words as Eggs: Psyche in Language and Clinic</a>; <a href="https://www.amazon.com/Psyche-Speaks-Jungian-Approach-Paperback/dp/1630512699">Psyche Speaks: A Jungian Approach to Self and World</a>; <a href="https://www.amazon.com/Secrets-Undergroundtrader-Jea-Yu/dp/0071417370">Secrets of the Undergroundtrader</a> (with Jea Yu), and two books in progress: Gleanings from the Dreamfield and <a href="http://ralockhart.com/orderinfo.htm">Hints and Helps for Daytraders</a>. He and his wife Frankie have four children.</p>
-"""^^xsd:string ;
-    ns1:handle "ral"^^xsd:string ;
-    ns1:itemId "bcphbqvruss"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Russell Lockhart"^^xsd:string ;
-    ns1:profileImg "author-ral.jpg"^^xsd:string .
 
 ns1:bcphbssmith a ns1:User ;
     ns1:coverImg "cover-author-sandy-sela-smith.jpg"^^xsd:string ;
@@ -15898,6 +16109,19 @@ ns1:bcphbqsorna a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Orna Ben-Shoshan"^^xsd:string ;
     ns1:profileImg "author-ornabenshoshan.jpg"^^xsd:string .
+
+ns1:bcphbqvruss a ns1:User ;
+    ns1:description """<p>Website: <a href="http://ralockhart.com/">ralockhart.com</a></p>
+
+<p>Los Angeles-born Russell Lockhart has a doctoral degree (human psychophysiology) from the University of Southern California. In 1974 he graduated from the C.G. Jung Institute of Los Angeles, where he served as Director of Analyst Training from 1979 to 1982. Since 1974 he has been in private practice. He has served on the faculties at the University of California, Santa Barbara, and University of California, Berkeley. He was a research psychologist at the University of California, Los Angeles, and Director of the Psychophysiological Research Laboratory at Camarillo State Hospital. </p>
+
+<p>Dr. Lockhart is the author of <a href="https://www.amazon.com/Words-As-Eggs-Russell-Lockhart/dp/0911783008">Words as Eggs: Psyche in Language and Clinic</a>; <a href="https://www.amazon.com/Psyche-Speaks-Jungian-Approach-Paperback/dp/1630512699">Psyche Speaks: A Jungian Approach to Self and World</a>; <a href="https://www.amazon.com/Secrets-Undergroundtrader-Jea-Yu/dp/0071417370">Secrets of the Undergroundtrader</a> (with Jea Yu), and two books in progress: Gleanings from the Dreamfield and <a href="http://ralockhart.com/orderinfo.htm">Hints and Helps for Daytraders</a>. He and his wife Frankie have four children.</p>
+"""^^xsd:string ;
+    ns1:handle "ral"^^xsd:string ;
+    ns1:itemId "bcphbqvruss"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Russell Lockhart"^^xsd:string ;
+    ns1:profileImg "author-ral.jpg"^^xsd:string .
 
 ns1:bcpqn72unjj a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>

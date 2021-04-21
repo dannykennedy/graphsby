@@ -21,7 +21,7 @@ urlSlug: "dreams-bones-and-the-future-8"
 
 **October 11, 2010.** *At Tully’s, Fourth and Union, where I go to write when I’m in Seattle—for coffee too. Today, mulling Goethe’s admonition to look at what one sees, to find the story there, I see two trucks. One is a FedEx, the other Costco. Looking, it’s Fe x and Co o—the Tully pillars blocking the actual seeing so readily “filled in.” Across the street there is a Sale, but in looking, only Sal is there. Next door there is STERLING BANK, but looking says it’s LING BANK. Key Bank is also across the street; looking reveals only Key. Those pillars again. The UPS truck goes by and when I look at what I see, it’s UP. Brooding on this nest, I wait for a line, a line from the story, perhaps the first line. It comes.*
 
-*Sal is a teller at Ling Bank. He does not yet know that Fex and Coo have decided ending it is the key. They have been held up by matters that do not concern us. You may not agree. That’s fine, it is not a requirement. Just wait. You will see. To be continued or not... *
+*Sal is a teller at Ling Bank. He does not yet know that Fex and Coo have decided ending it is the key. They have been held up by matters that do not concern us. You may not agree. That’s fine, it is not a requirement. Just wait. You will see. To be continued or not...*
 
 I sent this to you, Paco, just as an example of what becomes of the “sensorial imagination.” I was startled when you sent me several pages of “continuation,” which began as follows: 
 

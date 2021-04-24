@@ -18,7 +18,7 @@ profileImg: post-bcpov6krdbf9-0.jpg
 
 *This is the ninth in a series of excerpts from an ongoing dialogue between Russell Lockhart and Paco Mitchell.*
 
-<!--nopreview--><h2>q & s Twenty-Three: Eros and Thanatos</h2><!--/nopreview--> 
+<!--nopreview--><h2>Q & S Twenty-Three: Eros and Thanatos</h2><!--/nopreview--> 
 
 **Paco Mitchell:** Russ, we’ve had many conversations about the contemporary and the upcoming world-situations, and we’re no strangers to its more “dour” aspects. You have the excuse of being a fully-fledged Scot, and therefore can claim to be “dour by nature”, though you also claim to be “optimistic by nature” at the same time—an apparent conflict. My guess is that this is simply human ambivalence, which expresses itself at the most basic levels, all the way down to the mystery of X and Y chromosomes during fertilization, for example, or perhaps the fact that *homo sapiens* is deeply rooted in the *reptilian* brain—wisdom growing from the serpent. On the other hand, I can only claim partial Scottish dourness, due to the mixed bloodlines in my family. Therefore, I will claim the remainder of my own dourness as deriving from a genetic *Bohemian* off-shoot which, fancifully, may account for my passionate involvement in Gypsy flamenco and the *cante jondo*. But that’s another story. 
 

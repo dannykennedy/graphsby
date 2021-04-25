@@ -22,7 +22,7 @@ Because this article focuses on dreams, and specifically on the [Personalized Me
 <li>Step 5: Solutions or suggestions on changing (or affirming) thoughts, attitudes or behaviors. Look for answers to day-before-your-dream thoughts.</li>
 <li>Step 6: Main relationships, plus dreaming and waking life reactions to each person in the dream.</li>
 </ul>
-<div>
+</div>
 
 In 2004-2005, I had a series of dreams which guided me to write a book. The first one came out of the blue and caused me to change my life course towards this writing endeavour, but in the subsequent months and years a number of other dreams came which helped clarify my path. 
 

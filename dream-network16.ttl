@@ -1031,7 +1031,7 @@ ns1:bcpov6gabout a ns1:Post ;
 
 <h2>A brief history of the Dream Network</h2>
 
-<p>Here's how Roberta Ossana has described some of the journal's history: </p>
+<p>Here's how <a href="../@robertaossana">Roberta Ossana</a> has described some of the journal's history: </p>
 
 <p>"The Dream Network was first published as a Bulletin and appeared in print through the determination of a very fiery and compassionate young man by the name of <a href="../@billstimson">William (Bill) Stimson</a>. I wrote Bill—who has become a cherished friend—and asked him if he'd be willing to share a few words. Bill's statement is the essence, the Spirit, that guides the Dream Network:</p>
 
@@ -6560,7 +6560,7 @@ ns1:bcpov6krudnb a ns1:Post ;
 
 <p>During the summer of '83 I was working in a dirty, crowded pottery studio in downtown Manhattan, trying to get my small business organized. My wife Dale and I had moved to Brooklyn the year before in order to help her rapidly growing illustration career. I missed the home we had built and still owned in New Hampshire where I was more used to the "laid back" attitude of country life. I also missed our 5 year old meditation group where we had frequently shared dreams. In short, I felt disconnected and miserable. </p>
 
-<p>One day, while glazing some teapots and listening to the radio, I heard about the "Self Help Clearinghouse," a service that people could call for information about meditation groups, self-help groups, and other activities. I called that day and asked if there were any dream groups in Manhattan. But I got the number of the <em>Brooklyn Dream Community</em> instead. I met Tom Cowan the director, and a week later found myself in a group of 15 strangers at his apartment in Brooklyn, where I volunteered to share a recent dream. Bill Stimson was leading the group that night, using <a href="../@montagueullman">Montague Ullman's</a> method of group adoption of the dream in a protective environment. Here is the dream I shared: </p>
+<p>One day, while glazing some teapots and listening to the radio, I heard about the "Self Help Clearinghouse," a service that people could call for information about meditation groups, self-help groups, and other activities. I called that day and asked if there were any dream groups in Manhattan. But I got the number of the <em>Brooklyn Dream Community</em> instead. I met Tom Cowan the director, and a week later found myself in a group of 15 strangers at his apartment in Brooklyn, where I volunteered to share a recent dream. <a href="../@billstimson">Bill Stimson</a> was leading the group that night, using <a href="../@montagueullman">Montague Ullman's</a> method of group adoption of the dream in a protective environment. Here is the dream I shared: </p>
 
 <blockquote>
   <p><em>"I am teaching a baby - a gorgeous infant - how to swim underwater. I begin by teaching him how to hold his breath, then we work our way to progressively more difficult things. He is fat and happy, learns fast, and loves the water. I am astonished at how well he swims underwater. There are other people watching us from the beach - I sense there may be some disapproval of my actions but I ignore their fears. I don't think the baby is my child but am unsure."</em></p>
@@ -11299,7 +11299,7 @@ ns1:bcpov6zfdrum a ns1:Post ;
 
 <p><!--nopreview--><div style="text-align:center; margin: auto"><i> Many visitors to the National Mall found themselves drawn magnetically to the drumming. Here, children from a local YMCA summer camp program try out the drums.</i></div><!--/nopreview--></p>
 
-<p><strong>Dream Network Journal editor, Roberta Ossana, calls this kind of event “The intersection between dreams and waking.” In my mind’s eye, I picture two planes intersecting, a point where dreaming becomes waking reality. Drum Dance and Dream for Peace was such an event, growing out of the fertile soil of dreams on the World Dreams Peace Bridge as surely as roses climb a trellis.</strong></p>
+<p><strong>Dream Network Journal editor, <a href="../@robertaossana">Roberta Ossana</a>, calls this kind of event “The intersection between dreams and waking.” In my mind’s eye, I picture two planes intersecting, a point where dreaming becomes waking reality. Drum Dance and Dream for Peace was such an event, growing out of the fertile soil of dreams on the World Dreams Peace Bridge as surely as roses climb a trellis.</strong></p>
 
 <p>On Monday, June 25, on the National Mall in Washington, DC, nearly 200 people (over half of them children) joined in a drumming circle that began in the light of a dream. Over a year before the event that she was asked to create for The World Children’s Festival, Mary Whitefeather Joyce dreamed of standing in a circle in a grassy place, drumming with a group of mostly children. Even earlier, the dreams of other members of the Peace Bridge had foreshadowed this scene. </p>
 
@@ -11339,7 +11339,7 @@ ns1:bcpov6zfdrum a ns1:Post ;
 
 <div style="text-align:center; margin: auto"><i>Jean Campbell from the World Dreams Peace Bridge calls people to the drumming circle with one of 40 drums donated by UpBeat Drum Circles in Los Angeles, to be given away on the Mall.</i></div>
 
-<p>In Mexico City a small group of women made an altar of fresh flowers and photos of their children. They passed the drum, saying aloud their prayers for peace for the children. In Warwick, Rhode Island, Laura Atkinson (who earlier in the week had dreamed that Peace Bridge member May Tung who died last year came to remind her to buy extra materials for the workshop) led children at the Warwick Museum in a drum making workshop. </p>
+<p>In Mexico City a small group of women made an altar of fresh flowers and photos of their children. They passed the drum, saying aloud their prayers for peace for the children. In Warwick, Rhode Island, <a href="../@lauraatkinson">Laura Atkinson</a> (who earlier in the week had dreamed that Peace Bridge member May Tung who died last year came to remind her to buy extra materials for the workshop) led children at the Warwick Museum in a drum making workshop. </p>
 
 <p>In Noe Valley, California, Jill Pierce led free drumming classes for children all day long at the Music 4 All center there. </p>
 
@@ -13391,7 +13391,7 @@ ns1:bcpov6zpdtem a ns1:Post ;
     ns1:dateCreated "2021-02-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Because this article focuses on dreams, and specifically on the <a href="https://www.yourguidingdreams.com/public/whats_pmid.htm">Personalized Method For Interpreting Dreams</a> (PMID), I include a concise presentation of the model here. I developed this model during my thesis research for a Masters of Counselor Education degree at the University of Wisconsin-Whitewater.</p>
 
-<p><div class="breakout-box"><h3>Personalized Method for Interpreting Dreams (PMID) steps, concisely stated</h3></p>
+<div class="breakout-box"><h3>Personalized Method for Interpreting Dreams (PMID) steps, concisely stated</h3>
 
 <p>Consider and explore these aspects of your dream:</p>
 
@@ -13411,7 +13411,7 @@ ns1:bcpov6zpdtem a ns1:Post ;
 
 </ul>
 
-<p><div></p>
+</div>
 
 <p>In 2004-2005, I had a series of dreams which guided me to write a book. The first one came out of the blue and caused me to change my life course towards this writing endeavour, but in the subsequent months and years a number of other dreams came which helped clarify my path. </p>
 
@@ -13983,7 +13983,7 @@ ns1:bcpov6zreedi a ns1:Post ;
 
 <p><strong>DNJ:</strong> Wow, I can see how that would help launch a movement, because it would empower people. The press has a lot of power to give the people a voice. </p>
 
-<p><strong>HR:</strong> Exactly. And Sundance gave people a voice about dreams as being more than just a medical sample. Most of the things that professional dreamworkers explore today were first mentioned by ordinary dreamers in the Sundance journals. There were six issues, published from 1976-1978. They were subsidized by Atlantic University. When funding ran out, Bill Stimson, who was big fan, started up Dream Network Bulletin to carry the torch, the same torch you are carrying today. </p>
+<p><strong>HR:</strong> Exactly. And Sundance gave people a voice about dreams as being more than just a medical sample. Most of the things that professional dreamworkers explore today were first mentioned by ordinary dreamers in the Sundance journals. There were six issues, published from 1976-1978. They were subsidized by Atlantic University. When funding ran out, <a href="../@billstimson">Bill Stimson</a>, who was big fan, started up Dream Network Bulletin to carry the torch, the same torch you are carrying today. </p>
 
 <p><strong>DNJ:</strong> Well, you carried the torch yourself, I know, because you were an editor of DNB for a couple of years, with <a href="../@bobvandecastle">Bob Van de Castle</a>, an enthusiast of dream telepathy. Didn't you develop some kind of dream telepathy experiment that emphasized community dreaming? </p>
 

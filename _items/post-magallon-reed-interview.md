@@ -18,7 +18,7 @@ profileImg: post-bcpov6reedi2-0.jpg
 <!--nopreview--><div style="text-align:center"><i>Henry Reed</i></div><!--/nopreview-->
 
 **Linda:** How did you become interested in dreams? 
-**Henry:** There were two things. One, as a psychology graduate student at UCLA in the '60s I was interested in multiple personalities, amnesia and fugue states. I was interested in how we knew who we are. 
+**[Henry](../@henryreed):** There were two things. One, as a psychology graduate student at UCLA in the '60s I was interested in multiple personalities, amnesia and fugue states. I was interested in how we knew who we are. 
 **Linda:** What's a "fugue state?" 
 **Henry:** It's like a multiple personality, but one shot at a time. A person becomes amnesiac of who they are, becomes someone else. Then one day they wake up and wonder what they've been doing. You might say it's like prolonged sleepwalking, except it could go on for months or years. My advisor told me I wasn't going to run across too many multiple personalities, I wasn't going to run into amnesia very often and fugue states were rare; how was I going to make a living in this publish-or-perish world? I should find something that happened more often. Then I realized we were amnesiac for our dreams. We'd have these experiences while we slept and in the morning we were none the wiser. The human potential movement was starting about then so it was easy to say, "Learn to remember your dreams, learn how to tap into potential." I started with how to remember dreams. Then it dawned on me that I didn't remember mine.
 **Linda:** Oh, so you really thought there was a correlation between being a researcher and being a dreamer? 

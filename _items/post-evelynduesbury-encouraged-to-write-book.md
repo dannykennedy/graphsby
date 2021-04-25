@@ -12,7 +12,7 @@ urlSlug: "dream-that-encouraged-me-to-write-a-book-i-had-no-previous-intention-t
 ---
 Because this article focuses on dreams, and specifically on the [Personalized Method For Interpreting Dreams](https://www.yourguidingdreams.com/public/whats_pmid.htm) (PMID), I include a concise presentation of the model here. I developed this model during my thesis research for a Masters of Counselor Education degree at the University of Wisconsin-Whitewater.
 
-<div classname="breakout-box"><h3>Personalized Method for Interpreting Dreams (PMID) Steps Concisely Stated</h3>
+<div class="breakout-box"><h3>Personalized Method for Interpreting Dreams (PMID) steps, concisely stated</h3>
 <p>Consider and explore these aspects of your dream:</p>
 <ul>
 <li>Step 1: Day-before-dream events that connect to this dream.</li>
@@ -86,7 +86,7 @@ Three years and five months after my “Targeted To Write A Universal Systems Bo
 
 ### Feeling Distraught About Moving Away From The House That I Love (October 25, 2007)
 
-> *John (my husband) and I are going to move to another house in this same town – - . I feel distraught. I love this house we live in. …. I realize I had a dream about moving to that other house and so I definitely will follow my dream, but I just am very unenthused about that other house. I see it in my mind’s eye as a two story older house with weathered – needs paint – siding. It is a white house. I think about “well I haven’t looked at it in a while so I will drive over there”. But I just feel unenthused about moving. …. But I say to John “I’m going to look that dream up to make sure I understood it correctly”.*
+> *John (my husband) and I are going to move to another house in this same town. I feel distraught. I love this house we live in… I realize I had a dream about moving to that other house and so I definitely will follow my dream, but I just am very unenthused about that other house. I see it in my mind’s eye as a two story older house with weathered – needs paint – siding. It is a white house. I think about “well I haven’t looked at it in a while so I will drive over there”. But I just feel unenthused about moving… But I say to John “I’m going to look that dream up to make sure I understood it correctly”.*
 
 ### PMID Step 1: Connect pre-dream current events and circumstances (most often, day before) the dream contents to identify the context or category of the dream. 
 
@@ -137,7 +137,7 @@ It seems my first dream of May 31, 2004, was talking about what I was planning t
 
 Because of the third and fourth dreams, I moved the PMID model, including all six PMID model steps, to the front of the book and deleted the chapters about contemporary dream interpretation models. I followed Dana Bliss’s guidance for preparing the book for publication. It was published as *[The Counselor’s Guide for Facilitating the Interpretation of Dreams: Family and Other Relationship Systems Perspectives](https://www.routledge.com/The-Counselors-Guide-for-Facilitating-the-Interpretation-of-Dreams-Family/Duesbury/p/book/9780415883429)* by Routledge in 2011.
 
-
+<hr>
 *This article was originally written in February 2021, and received significant input from Dan Kennedy, especially in the introductory paragraphs of each section.* 
 
 

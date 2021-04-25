@@ -30,7 +30,7 @@ For example, several of my older dream themes had to do with hotel/motel setting
 
 Similarly, there has been an increase in circular-shaped symbols in my dreams during the past few years. For me, this equates to the archetype of the integration process of the self wanting to coalesce and evolve through internal processes. 
 
-In *Personal Mythology*, Feinstein and Krippner further explain the personal mythology process: 
+In *Personal Mythology*, Feinstein and [Krippner](../@stanleykrippner) further explain the personal mythology process: 
 
 > "Many depth psychologists believe that dreams are best understood as an unfolding of the psyche and should not be distorted by intellectual interpretations. In a similar manner, you can learn to sense, without being overly intellectual, the relationship between patterns you find in your dreams and developing personal myths. Dreams serve to mediate between your daily experiences and your underlying myths, Working with your dreams can reveal changes in your mythology that are occurring outside your awareness. Dreams may support or challenge an existing myth ... and you can understand your personal mythology more fully through the instructions [symbols] of your dreams." [3] 
 

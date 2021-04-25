@@ -14,7 +14,7 @@ profileImg: post-bcpov6zfbost-0.jpg
 ---
 <img src="../images/post-bcpov6zfbost-0.jpg" width="300px" height="auto"/>
 
-It was summer of 1985 when I met Stanley Krippner in the hallway lounge of the University of Charlottesville, Virginia at the second conference of the Association for the study of Dreams (ASD). A few months prior to the conference I had a very disturbing precognitive dream that needed serious attention. I was in my mid-twenties, a graduate student conducting research on insomnia and apnea at the University of Stevens Point, Wisconsin. 
+It was summer of 1985 when I met [Stanley Krippner](../@stanleykrippner) in the hallway lounge of the University of Charlottesville, Virginia at the second conference of the Association for the study of Dreams (ASD). A few months prior to the conference I had a very disturbing precognitive dream that needed serious attention. I was in my mid-twenties, a graduate student conducting research on insomnia and apnea at the University of Stevens Point, Wisconsin. 
 
 I called Stanley in California and asked if I could meet with him at the conference in Charlottesville to work on my dream. He agreed immediately and we set a time and a place. The dream was about my father and it was a matter of life and death. I was familiar with Stanley’s research from my training in parapsychology. I thought he would be the best person to help me work with this kind of dream. But I had no idea that this simple request of having him work with my dream was to be the beginning of a life-long collegial and personal friendship. 
 

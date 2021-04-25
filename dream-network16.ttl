@@ -8129,7 +8129,7 @@ ns1:bcpov6rshoes a ns1:Post ;
 
 ns1:bcpov6rsmbts a ns1:Post ;
     ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>Just as Sir Thomas More struggled against the demands of King Henry VIII, as depicted in the film, <em>A Man for all Seasons</em> (Bolt, 1960), many humans are trapped by the unbending structures built around the ordered and predictable seasons of their lives. The worlds, within which many of us live—especially in the Western tradition—are filled with what we accept as unalterable rules and most of us not only live by those rules, but die by them as well. Stanley Krippner (2002) points out that, “our culture consistently erects boundaries, constructs borders, and divides the world into neat (and sometimes overly meticulous) categories that allow us to go about our business in a more or less orderly way” (p. 34). And rarely in the tight constructions of those bounded worlds do we find people who understand that there is something very real, perhaps even more real, that exists beyond the rigid constructs of what we mistakenly identify as the real world.</p>
+    ns1:description """<p>Just as Sir Thomas More struggled against the demands of King Henry VIII, as depicted in the film, <em>A Man for all Seasons</em> (Bolt, 1960), many humans are trapped by the unbending structures built around the ordered and predictable seasons of their lives. The worlds, within which many of us live—especially in the Western tradition—are filled with what we accept as unalterable rules and most of us not only live by those rules, but die by them as well. <a href="../@stanleykrippner">Stanley Krippner</a> (2002) points out that, “our culture consistently erects boundaries, constructs borders, and divides the world into neat (and sometimes overly meticulous) categories that allow us to go about our business in a more or less orderly way” (p. 34). And rarely in the tight constructions of those bounded worlds do we find people who understand that there is something very real, perhaps even more real, that exists beyond the rigid constructs of what we mistakenly identify as the real world.</p>
 
 <p>The accepted world filled with verifiable and testable structures—the empirical world that is seen, touched, heard, tasted, and smelled—moves, we assume, in predictable patterns that build the ordered seasons of our lives, until some unusual experience challenges the structures. And, perhaps, for the first time in our lives, we have an opportunity to decide what world we are willing to embrace. We can embrace the unusual experience and allow for the possibility of a much broader, more limitless world or reject the experience and continue to live…and die…within our comforting, yet often uncomfortable limitations.</p>
 
@@ -8424,9 +8424,9 @@ ns1:bcpov6rsppm1 a ns1:Post ;
 
 <p>Feinstein, D. (1979. <em>"Personal mythology as a paradigm for a holistic public psychology"</em>. American Journal of Orthopsychiatry, 49, 198-217.</p>
 
-<p>Feinstein, D. &amp; Krippner, S. (1988). <em>Personal Mythology: The psychology of your evolving self.</em> Los Angeles: Tarcher.</p>
+<p>Feinstein, D. &amp; <a href="../@stanleykrippner">Krippner, S.</a> (1988). <em>Personal Mythology: The psychology of your evolving self.</em> Los Angeles: Tarcher.</p>
 
-<p>Feinstein, D., Krippner, S., &amp; Granger, D. (1988). <em>"Myth-making and human development".</em> Journal of Humanistic Psychology, 28(3), 23-50.</p>
+<p>Feinstein, D., <a href="../@stanleykrippner">Krippner, S.</a>, &amp; Granger, D. (1988). <em>"Myth-making and human development".</em> Journal of Humanistic Psychology, 28(3), 23-50.</p>
 
 <p>Gebser, J. (1985). <em>The Ever-present Origin</em> (N. Barstad, Trans.). Athens, OH: Ohio U Press. (Original work published 1953). </p>
 
@@ -8560,7 +8560,7 @@ ns1:bcpov6rsppm3 a ns1:Post ;
 
 <p>Such qualities may prove to be vital features of the expanded mythic visions we are collectively challenged to pursue. Rollo May (in press) believes that three new myths are necessary for our survival: the <em>"green myth"</em>, which would show our proper relation with nature; <em>women's liberation</em>, which would insure the rights and draw upon the talents of all people; and <em>planetism</em>, which would show the world as a place that transcends political boundaries. All three of these themes can be seen as correctives pushing to change the direction of the contemporary hero's journey. </p>
 
-<p>The emphasis of our work has been on developing a system that teaches people to turn inward and bring greater awareness to the submerged mythology that lives through their thoughts, feelings and behavior (Feinstein and Krippner 1988). In the process, individuals increase their capacity to stretch their personal myths beyond the limitations of their culture's mythology and beyond confining beliefs and images that are rooted in their unique history. Gaining a measure of autonomy from the limiting images of culture and other early influences increases one's sense of psychological freedom and strengthens one's ability to cope within a rapidly changing world. Because personal and cultural myths evolve in tandem, beginning to understand the mythic processes that operate within their own psyches also strengthens in people the capacity to more mindfully and effectively participate in the inescapable collective mythological changes that are shaping the future of their world.</p>
+<p>The emphasis of our work has been on developing a system that teaches people to turn inward and bring greater awareness to the submerged mythology that lives through their thoughts, feelings and behavior (Feinstein and <a href="../@stanleykrippner">Krippner</a> 1988). In the process, individuals increase their capacity to stretch their personal myths beyond the limitations of their culture's mythology and beyond confining beliefs and images that are rooted in their unique history. Gaining a measure of autonomy from the limiting images of culture and other early influences increases one's sense of psychological freedom and strengthens one's ability to cope within a rapidly changing world. Because personal and cultural myths evolve in tandem, beginning to understand the mythic processes that operate within their own psyches also strengthens in people the capacity to more mindfully and effectively participate in the inescapable collective mythological changes that are shaping the future of their world.</p>
 
 <h3>References</h3>
 
@@ -8764,7 +8764,7 @@ ns1:bcpov6rssull a ns1:Post ;
 
 <h2>The power of the process</h2>
 
-<p>In the five years I have participated in Dr. Ullman's dream group process at Saybrook with Stanley Krippner and with Dr. Ullman, himself, I have come to deeply respect the potential for transformational healing and self-discovery. In those years of dreamwork, dreamers and participants have been able to face their demons, discover their blind spots, find answers to troubling dilemmas, and understand circumstances in their lives that previously may have seemed unexplainable. The persistence of "species consciousness" seeming to push messages into awareness in spite of individual or group resistance is amazing.</p>
+<p>In the five years I have participated in Dr. Ullman's dream group process at Saybrook with <a href="../@stanleykrippner">Stanley Krippner</a> and with Dr. Ullman, himself, I have come to deeply respect the potential for transformational healing and self-discovery. In those years of dreamwork, dreamers and participants have been able to face their demons, discover their blind spots, find answers to troubling dilemmas, and understand circumstances in their lives that previously may have seemed unexplainable. The persistence of "species consciousness" seeming to push messages into awareness in spite of individual or group resistance is amazing.</p>
 
 <p>My interest in discovering connections among things caused me to notice that often in dream groups, questions that were raised in the content of the first dream seemed to be answered by the second, and understanding the second dream was made possible within the context of the first. I also noticed this same process going on between dream groups in which I was the only repeat participant. Thematic connections not only clarified dreams in the later group but brought deeper insights into a past dream group's theme. Whatever this "energetic connective tissue" is that flows between cells forming a single person, seems to flow between individuals forming a palpable energetic relationship that exists in groups and between groups. Perhaps species consciousness is somehow in this as yet unexplainable connectivity that makes itself known when we are willing to look for it.</p>
 
@@ -10304,7 +10304,7 @@ ns1:bcpov6zfabod a ns1:Post ;
 <p>The term non-locality refers to the instantaneous transfer of a signal from one place to another through no known physical means. Non-locality at the quantum level has been subject to experimental proof but still remains a baffling mystery. Non-locality at the macro-level, as cited in dreams, has been supported by the experimental work in parapsychology and also remains a quite mysterious happening. Whether we are catching glimpses of one mystery or two different ones remains to be determined.</p>
 
 <blockquote>
-  <p><em>My own interest in telepathy began in the course of psychoanalytic practice when a patient of mine would report a dream containing striking and non-inferential information of concordant events in my own life. This eventually led to experimentally controlled studies using the REM sleep-monitoring technique resulting in statistically significant findings with regard to both the occurrence of telepathic and precognitive dreaming (Ullman, Krippner, Vaughan, 2002).</em></p>
+  <p><em>My own interest in telepathy began in the course of psychoanalytic practice when a patient of mine would report a dream containing striking and non-inferential information of concordant events in my own life. This eventually led to experimentally controlled studies using the REM sleep-monitoring technique resulting in statistically significant findings with regard to both the occurrence of telepathic and precognitive dreaming (Ullman, <a href="../@stanleykrippner">Krippner</a>, Vaughan, 2002).</em></p>
 </blockquote>
 
 <p>We do strange things with time and space in our dreams as we impress them into metaphorical service. In the case of time the instantaneous condensation of past and present might be looked upon as a kind of subjective non-locality. The paranormal dream, on the other hand, suggests the possibility of an objective non-locality by spanning across space in the telepathic dream and across time in the precognitive dream. The information picked up is literally or symbolically depicted in the dream. At an anecdotal level Louisa E. Rhine (1961) noted that dreaming seems to favor the occurrence of telepathy over waking consciousness.</p>
@@ -10856,7 +10856,7 @@ ns1:bcpov6zfbost a ns1:Post ;
     ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zfbost-0.jpg" width="300px" height="auto"/></p>
 
-<p>It was summer of 1985 when I met Stanley Krippner in the hallway lounge of the University of Charlottesville, Virginia at the second conference of the Association for the study of Dreams (ASD). A few months prior to the conference I had a very disturbing precognitive dream that needed serious attention. I was in my mid-twenties, a graduate student conducting research on insomnia and apnea at the University of Stevens Point, Wisconsin. </p>
+<p>It was summer of 1985 when I met <a href="../@stanleykrippner">Stanley Krippner</a> in the hallway lounge of the University of Charlottesville, Virginia at the second conference of the Association for the study of Dreams (ASD). A few months prior to the conference I had a very disturbing precognitive dream that needed serious attention. I was in my mid-twenties, a graduate student conducting research on insomnia and apnea at the University of Stevens Point, Wisconsin. </p>
 
 <p>I called Stanley in California and asked if I could meet with him at the conference in Charlottesville to work on my dream. He agreed immediately and we set a time and a place. The dream was about my father and it was a matter of life and death. I was familiar with Stanley’s research from my training in parapsychology. I thought he would be the best person to help me work with this kind of dream. But I had no idea that this simple request of having him work with my dream was to be the beginning of a life-long collegial and personal friendship. </p>
 
@@ -12123,6 +12123,30 @@ ns1:bcpov6zfnetw a ns1:Post ;
     ns1:name "Uncovering the Network"^^xsd:string ;
     ns1:urlSlug "uncovering-the-network"^^xsd:string .
 
+ns1:bcpov6zfnhfc a ns1:Post ;
+    ns1:dateCreated "2021-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><strong><em>Children are having nightmares related to the coronavirus. Children cannot fully escape from the relentless, graphic stories in the media about the inability to breathe, body bags, needles and 500,000 dead. These stories along with the anxieties of the adults around them get transformed into terrifying dreams containing horrific monsters. We need to listen to those nightmares. We need to avoid the old standard attempts at comforting children by telling them "Don't worry, it was just a dream." Such comments do not work!</em></strong></p>
+
+<p>Many children, maybe most, do not share dreams. We can ask them to tell us their dreams. Care must be taken, however, on how to do it. The best way is to simply begin sharing our own dreams (in edited form) with them. Children respond at their own pace by telling their dreams. Listen, listen, listen and respond, "uh, huh, yes, oh?, yes, whew, really!, wow". If it's a nightmare, a response such as "Wow, how would you have wanted the dream to be or how would you have wanted it to turn out?" could be a good next step followed by more listening.</p>
+
+<p>If the child isn't comforted by simply telling the nightmare, then ask the child if he or she wants to draw the dream with a “better ending”. When the child begins drawing and asks for help, avoid suggestions regarding content. Such suggestions disempower children. If they are really stuck, then consider saying something like: "Well, you know, it's your dream and you could put anybody in it you want to have help you". If then, they ask if the person they've chosen is ok, simply repeat, "Well, it's your dream" or something of the sort. In some cases, however, a monster may be so threatening that the child will want to kill it. It is important to tell the child that we are not allowed to kill monsters. Doing so would turn us into monsters.</p>
+
+<p>Children’s responses can be wonderfully creative. I recall one very small, meek, and fragile five year old boy who tugged at my heartstrings as he described his nightmares in which a fearsome monster terrified him night after night. When given the opportunity to draw this monster, he went through a radical abrupt transformation. His face became grotesque. His voice became sharp-edged and raspy as he yelled, “I’ll draw a monster so scary that it will scare the other monster away”. He drew his own scary monster and taped it to his bed. It worked. He slept a whole lot better with his protector right next to him. We can smile knowing that his parents slept a whole lot better too.</p>
+
+<p>We need to empower our children. Dealing with their dreams and nightmares in the ways I've suggested is empowering and can be amazingly comforting for them. Such an approach is love in action.</p>
+
+<p>Feel free to contact me with your questions about dreams and nightmares. Please refer to my website <a href="https://arthurstrock.com/">www.arthurstrock.com</a>  for contact information. You may also refer to the section on children’s dreams in my guidebook, <a href="https://arthurstrock.com/live-by-your-dreams/">Live By Your Dreams: Heartfelt Stories About Dreams and What They Tell Us</a>.</p>
+
+<p><a href="https://arthurstrock.com/about-arthur/">Arthur Strock, PhD, LCSW</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3arts ;
+    ns1:hasTag ns1:bcphb2kq341,
+        ns1:bcphbq3arts ;
+    ns1:itemId "bcpov6zfnhfc"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Nightmare Help for Children"^^xsd:string ;
+    ns1:urlSlug "nightmare-help-for-children"^^xsd:string .
+
 ns1:bcpov6zfoldd a ns1:Post ;
     ns1:dateCreated "2015-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>It was time to dig those old dream journals out of the basement. Yes, they were all there stored in plastic storage containers, thirty-three years worth. The early journals were 9½ by 6 inch spiral notebooks. That spiral format had many advantages. Those notebooks could be opened and laid flat and were easy to write in even when lying in bed. And, the day’s events could be recorded on the left side with the resulting dreams of the next morning beginning on the right. They also came in all different colored covers adding a bit of fascination to them. Years later, larger format spirals replaced the small ones only to be replaced still later by three ring binders. </p>
@@ -13244,7 +13268,7 @@ ns1:bcpov6zmythd a ns1:Post ;
 
 <p>Similarly, there has been an increase in circular-shaped symbols in my dreams during the past few years. For me, this equates to the archetype of the integration process of the self wanting to coalesce and evolve through internal processes. </p>
 
-<p>In <em>Personal Mythology</em>, Feinstein and Krippner further explain the personal mythology process: </p>
+<p>In <em>Personal Mythology</em>, Feinstein and <a href="../@stanleykrippner">Krippner</a> further explain the personal mythology process: </p>
 
 <blockquote>
   <p>"Many depth psychologists believe that dreams are best understood as an unfolding of the psyche and should not be distorted by intellectual interpretations. In a similar manner, you can learn to sense, without being overly intellectual, the relationship between patterns you find in your dreams and developing personal myths. Dreams serve to mediate between your daily experiences and your underlying myths, Working with your dreams can reveal changes in your mythology that are occurring outside your awareness. Dreams may support or challenge an existing myth ... and you can understand your personal mythology more fully through the instructions [symbols] of your dreams." [3] </p>
@@ -13770,7 +13794,7 @@ ns1:bcpov6zreedi a ns1:Post ;
 
 <p><strong>DNJ:</strong> Why not? What are the results that are so controversial?</p>
 
-<p><strong>HR:</strong> Well, the experiment began as a humanistic alternative to standard ESP experiments, so it has this parapsychological background. But the dream helper ceremony also stands on its own as a community dream process. Basically, what happens is this: No one dream usually seems very pertinent. But the group finds patterns in the dreams that enables them, usually, to correctly diagnose the person's problem, even though they never knew what it was until the experiment was over. Mark Thurston, who is now an Executive Director of the A.R.E., got his doctorate at Humanistic Psychology Institute, under Stanley Krippner, for his scientific study of that one finding in the dream helper ceremony. Some people will accept, and some people will not, that kind of evidence for ESP. But what I find more interesting is the more transpersonal dimension to the group dreaming process. </p>
+<p><strong>HR:</strong> Well, the experiment began as a humanistic alternative to standard ESP experiments, so it has this parapsychological background. But the dream helper ceremony also stands on its own as a community dream process. Basically, what happens is this: No one dream usually seems very pertinent. But the group finds patterns in the dreams that enables them, usually, to correctly diagnose the person's problem, even though they never knew what it was until the experiment was over. Mark Thurston, who is now an Executive Director of the A.R.E., got his doctorate at Humanistic Psychology Institute, under <a href="../@stanleykrippner">Stanley Krippner</a>, for his scientific study of that one finding in the dream helper ceremony. Some people will accept, and some people will not, that kind of evidence for ESP. But what I find more interesting is the more transpersonal dimension to the group dreaming process. </p>
 
 <p><strong>DNJ:</strong> What do you mean by transpersonal? </p>
 
@@ -15003,11 +15027,9 @@ ns1:bcphbq3atki a ns1:User ;
     ns1:profileImg "author-laura-atkinson.jpg"^^xsd:string .
 
 ns1:bcphbq3bayl a ns1:User ;
-    ns1:description """<p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." Stanley Krippner, PhD. Professor of Psychology, Saybrook University</p>
+    ns1:description """<p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." <a href="../@stanleykrippner">Stanley Krippner, PhD.</a> Professor of Psychology, Saybrook University</p>
 
-<p>How I, Janice Baylis, got interested in dreams: In 1959 a fellow teacher had major surgery. We set up a car pool where I picked her up in a strip mall parking lot and drove the 30 miles to our school.  One morning Mabel phoned and asked me to meet her around the corner on the residential street.  She said she didn't like her car taking up space in the store lot all day. </p>
-
-<p>I said, "Okay."</p>
+<p>How I, Janice Baylis, got interested in dreams: In 1959 a fellow teacher had major surgery. We set up a car pool where I picked her up in a strip mall parking lot and drove the 30 miles to our school.  One morning Mabel phoned and asked me to meet her around the corner on the residential street.  She said she didn't like her car taking up space in the store lot all day. I said, "Okay."</p>
 
 <p>As Mabel was getting into my car that morning, we heard an enormous CRASH!  A small airplane had landed upside down in the corner of the parking lot where we would have been.  Then she told me she had dreamed it during the night. "WOW!" exclaimed my eight year old son, Brad, from the backseat.</p>
 
@@ -15083,7 +15105,7 @@ ns1:bcphbq3rjbg a ns1:User ;
 
 <p>I'm a psychologist and graduate of the University of Barcelona. After finishing my degree, I realised that dreams were path in which my two main interests converged: the study of consciousness and the practice of creativity (which I have been able to experience through theater, comics and illustration, and as a musician and singer). Since then, I've been training and keeping up to date with the latest discoveries and proposals from cutting-edge international specialists. On the other hand, I have felt it essential to assimilate knowledge about dreaming from different cultures, as well as multiple philosophical and religious traditions. For example, I received the teachings of Tibetan Dream Yoga from <a href="https://en.wikipedia.org/wiki/Tenzin_Wangyal_Rinpoche">Lama Tenzin Wangyal Rinpoche</a> during various retreats.</p>
 
-<p>My educational vocation has led me to collaborate in different radio programs (among others, L'Ofici de Viure in Catalunya Ràdio and Via Lliure in RAC1) and to write articles for different publications like the <a href="https://www.huffpost.com/entry/nine-months-to-dream_b_58594c18e4b06ae7ec2a419c">Huffington Post</a>, DreamTime, BodyMind and Mente Sana. I have also advised and participated in the Somiers (TV3) series of programs, dedicated entirely to dreams, and I have co-written the script for the film <a href="https://letterboxd.com/film/volare/">Volare directed by Joaquín Oristrell</a>. I was a member of the professorial staff at the <a href="http://transpersonal.cat/en/el-iptb/">Institute of Transpersonal Psychology in Barcelona</a> since its founding until, years ago, I began to offer from Mondesomnis the Training Integration of Dreams for psychologists and psychotherapists, the first in Spain dedicated exclusively to working with dreams. </p>
+<p>My educational vocation has led me to collaborate in different radio programs (among others, L'Ofici de Viure in Catalunya Ràdio and Via Lliure in RAC1) and to write articles for different publications like the <a href="https://www.huffpost.com/entry/nine-months-to-dream_b_58594c18e4b06ae7ec2a419c">Huffington Post</a>, DreamTime, BodyMind and Mente Sana. I have also advised and participated in the <a href="https://www.ccma.cat/tv3/titol-programa/fitxa-programa/16605/">Somiers</a> (TV3) series of programs, dedicated entirely to dreams, and I have co-written the script for the film <a href="https://letterboxd.com/film/volare/">Volare directed by Joaquín Oristrell</a>. I was a member of the professorial staff at the <a href="http://transpersonal.cat/en/el-iptb/">Institute of Transpersonal Psychology in Barcelona</a> since its founding until, years ago, I began to offer from Mondesomnis the Training Integration of Dreams for psychologists and psychotherapists, the first in Spain dedicated exclusively to working with dreams. </p>
 
 <p>I have been a member of the Board of Directors of the International Association for the Study of Dreams since 2012 and also of its Educational Committee, as well as its Global Representative for Latin America and Europe.</p>
 """^^xsd:string ;
@@ -15926,19 +15948,6 @@ ns1:bcpqocs2uhp a ns1:Post ;
 ns1:Actor a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:subClassOf ns1:Item .
 
-ns1:bcphb2kq341 a ns1:Post ;
-    ns1:coverImg "placeholder.png"^^xsd:string ;
-    ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>Lorem Ipsum</p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj ;
-    ns1:itemId "bcphb2kq341"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
-    ns1:profileImg "placeholder.png"^^xsd:string ;
-    ns1:urlSlug "34.1"^^xsd:string .
-
 ns1:bcphbgmason a ns1:User ;
     ns1:coverImg "cover-author-joseph-mason.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.greatdreams.com/joestuff/interp/joeindex.htm">greatdreams.com</a></p>
@@ -16410,6 +16419,19 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:name "Volume 33"^^xsd:string ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
+
+ns1:bcphb2kq341 a ns1:Post ;
+    ns1:coverImg "placeholder.png"^^xsd:string ;
+    ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Lorem Ipsum</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcphb2kq341"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
+    ns1:profileImg "placeholder.png"^^xsd:string ;
+    ns1:urlSlug "34.1"^^xsd:string .
 
 ns1:bcphboc7tt5 a ns1:Post ;
     ns1:coverImg "8.4-cover.jpg"^^xsd:string ;
@@ -16917,17 +16939,6 @@ ns1:bcphbqvbird a ns1:User ;
     ns1:name "Kim Birdsong"^^xsd:string ;
     ns1:profileImg "author-kim-birdsong.jpg"^^xsd:string .
 
-ns1:bcphbq3arts a ns1:User ;
-    ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
-
-<p>Arthur Strock, Ph.D., is a Founding Life Member of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a>. He is dedicated to sharing information about dreamwork and how it can be used to improve our lives. Dr. Strock holds advanced degrees in psychology and clinical social work. His professional experience includes work in hospital, corrections, school, and private practice settings. He has also taught psychology courses as an adjunct faculty member at colleges in New Jersey. His writing includes a column in the Dream Network Journal and articles online and in other publications. He currently works as a school psychologist and provides dream workshops for professionals and the general public.  Arthur published <a href="https://arthurstrock.com/live-by-your-dreams/">“Live By Your Dreams: Heartwarming Stories About Dreams and What They Tell Us” </a>in 2005 and is available on <a href="https://www.amazon.com/Live-Your-Dreams-Arthur-Strock/dp/0996545808/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1455133208&amp;sr=1-1&amp;keywords=live+by+your+dreams+strock">Amazon</a>.  Arthur resides in New Jersey with his partner, art therapist Susan Dingsor. They enjoy their rural location overlooking a natural spring-fed lake that offers relaxed kayaking during their leisure time.</p>
-"""^^xsd:string ;
-    ns1:handle "arthurstrock"^^xsd:string ;
-    ns1:itemId "bcphbq3arts"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Arthur Strock"^^xsd:string ;
-    ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
-
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
 
@@ -16953,7 +16964,7 @@ ns1:bcphbq3ossa a ns1:User ;
 
 <p><em>To live mythically is also to cultivate an ever-deepening relationship with the universe and its great mysteries."</em></p>
 
-<p>David Feinstein &amp; Stanley Krippner, Personal Mythology</p>
+<p>David Feinstein &amp; <a href="../@stanleykrippner">Stanley Krippner</a>, Personal Mythology</p>
 
 <p>(Jeremy Tarcher, LA CA 1988 ) p. 1</p>
 """^^xsd:string ;
@@ -16984,6 +16995,17 @@ ns1:bcpqn7zvpei a ns1:Post ;
     ns1:name "Volume 1"^^xsd:string ;
     ns1:profileImg "volume-1.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-1"^^xsd:string .
+
+ns1:bcphbq3arts a ns1:User ;
+    ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
+
+<p>Arthur Strock, Ph.D., is a Founding Life Member of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a>. He is dedicated to sharing information about dreamwork and how it can be used to improve our lives. Dr. Strock holds advanced degrees in psychology and clinical social work. His professional experience includes work in hospital, corrections, school, and private practice settings. He has also taught psychology courses as an adjunct faculty member at colleges in New Jersey. His writing includes a column in the Dream Network Journal and articles online and in other publications. He currently works as a school psychologist and provides dream workshops for professionals and the general public.  Arthur published <a href="https://arthurstrock.com/live-by-your-dreams/">“Live By Your Dreams: Heartwarming Stories About Dreams and What They Tell Us” </a>in 2005 and is available on <a href="https://www.amazon.com/Live-Your-Dreams-Arthur-Strock/dp/0996545808/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1455133208&amp;sr=1-1&amp;keywords=live+by+your+dreams+strock">Amazon</a>.  Arthur resides in New Jersey with his partner, art therapist Susan Dingsor. They enjoy their rural location overlooking a natural spring-fed lake that offers relaxed kayaking during their leisure time.</p>
+"""^^xsd:string ;
+    ns1:handle "arthurstrock"^^xsd:string ;
+    ns1:itemId "bcphbq3arts"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Arthur Strock"^^xsd:string ;
+    ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
 
 ns1:bcphbqsorna a ns1:User ;
     ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;

@@ -8,6 +8,7 @@ shortDescription: ""
 tags:
 date: 2015-03-24
 profileImg: author-paco.jpg
+coverImg: post-bcpov6krdbf9-0.jpg
 ---
 
 On Academia.edu: [academia.edu/PacoMitchell](https://independent.academia.edu/PacoMitchell)

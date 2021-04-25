@@ -21,3 +21,9 @@
   font-family: Lora, serif;
   line-height: 0.8em;
 }
+
+#post .caption {
+    font-size: 0.8em;
+    text-align: center;
+    font-style: italic;
+}

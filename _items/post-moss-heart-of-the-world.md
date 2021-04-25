@@ -44,7 +44,7 @@ Over many years of teaching and practice, I have evolved the simple and powerful
 
 The *Lightning Dreamwork* process makes it possible to share dreams and receive helpful feedback just about anywhere: in the office, the E.R., at the family breakfast table or in the checkout line at the supermarket. The guidelines make it easy to share dreams with complete strangers or with intimate friends and family. 
 
-This process incorporates the ‘if-it-were-my-dream’ protocol for commenting on someone else’s dream developed by Montague Ullman, which has been a tremendous gift to dreamworkers all over the map.
+This process incorporates the ‘if-it-were-my-dream’ protocol for commenting on someone else’s dream developed by [Montague Ullman](../@montagueullman), which has been a tremendous gift to dreamworkers all over the map.
 
 There are four key steps in the Lightning Dreamwork process. I have written the instructions as if you are working one-on-one with the dream. In a dream circle, one member would play ‘lead partner’ in guiding the process, with the others contributing their suggestions and associations in the ‘if-it-were-my-dream’ phase. 
 

@@ -14,7 +14,7 @@ urlSlug: "the-ullman-method-of-dream-analysis"
 
 <img src="../images/post-bcpov6zfacet-1.jpg" style="max-width: 300px; height: auto" alt="Montague Ullman"/>
 
-Five simple words, "if this were my dream" make the Ullman (1996, 1999; Ullman & Zimmerman, 1979) process of Dream Appreciation one of the most profound instruments I have found to unlock the messages in dreams - and more. I had the privilege of participating in three dreamwork trainings with Monte Ullman in the late 1990s.
+Five simple words, "if this were my dream" make the Ullman (1996, 1999; Ullman & Zimmerman, 1979) process of Dream Appreciation one of the most profound instruments I have found to unlock the messages in dreams - and more. I had the privilege of participating in three dreamwork trainings with [Monte Ullman](../@montagueullman) in the late 1990s.
 
 Ullman began his career as a psychiatrist but soon discovered the power of working with dreams and dedicated his life to teaching a method that allows the dreamer, as well as dream group participants, to access the deepest recesses of the unconscious. He believes that there is a species consciousness that is calling for our personal and collective survival and drawing us toward our ongoing evolution. Each of us, according to Ullman's philosophy, contain billions of single-celled organisms that have formed collectives of organs, systems, and functions, as they are learning to live as one, and as species, we are several billions of people also learning to live as one. Just as the human being cannot survive if cells become self-destructive or attack other life giving cells within the body, the species cannot survive if we, as individuals or as social groups, destroy others or ourselves with destructive patterns. 
 

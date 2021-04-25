@@ -13,8 +13,7 @@ type: post
 urlSlug: "dreams-bones-and-the-future-9"
 profileImg: post-bcpov6krdbf9-0.jpg
 ---
-
-<img src="../images/post-bcpov6krdbf9-0.jpg" height="auto" alt="Cover of Dreams, Bones and the Future, by Russell Lockhart and Paco Mitchell" style="width: 300px; margin: auto;"/>
+<img src="../images/post-bcpov6krdbf9-0.jpg" alt="Cover of Dreams, Bones and the Future, by Russell Lockhart and Paco Mitchell" style="width: 100%; height: auto; margin: auto;"/>
 
 *This is the ninth in a series of excerpts from an ongoing dialogue between Russell Lockhart and Paco Mitchell.*
 

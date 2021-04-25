@@ -513,6 +513,21 @@ ns1:bcphbqmxcnl a ns1:Post ;
     ns1:profileImg "12.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "12.3"^^xsd:string .
 
+ns1:bcphbqvrugh a ns1:User ;
+    ns1:description """<p>Website: <a href="https://www.genellhowell.com/">genellhowell.com</a></p>
+
+<p>Website: genellhowell.com </p>
+
+<p>Genell, MA, LMHC is a psychotherapist in private practice based out of Kailua-Kona, Hawaii, where she specializes in body-mind psychotherapies, trauma resolution, dreams, and helping people unearth their inner self. She is currently working on attaining her Ph.D. from Pacifica Graduate Institute in Depth Psychology, emphasizing Jungian and Archetypal Studies. </p>
+
+<p>She holds certifications in Somatic Experiencing, brainspotting, Bruce Perry’s Neurosequential Model and is working on achieving her Sandplay Practitioner certification. Genell deeply believes that we have guidance and wisdom within ourselves if we slow down and look within, we are bound to evolve and grow.</p>
+"""^^xsd:string ;
+    ns1:handle "genellhowell"^^xsd:string ;
+    ns1:itemId "bcphbqvrugh"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Genell Howell"^^xsd:string ;
+    ns1:profileImg "author-gh.jpg"^^xsd:string .
+
 ns1:bcphbr4spo2 a ns1:Post ;
     ns1:coverImg "15.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1996-04-01T11:32:52"^^xsd:dateTime ;
@@ -4068,7 +4083,7 @@ ns1:bcpov6kcultu a ns1:Post ;
 
 ns1:bcpov6kdbf10 a ns1:Post ;
     ns1:dateCreated "2021-04-02T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/post-bcpov6krdbf9-0.jpg" height="auto" alt="Cover of Dreams, Bones and the Future, by Russell Lockhart and Paco Mitchell" style="width: 300px; margin: auto;"/></p>
+    ns1:description """<p><img src="../images/post-bcpov6krdbf9-0.jpg" alt="Cover of Dreams, Bones and the Future, by Russell Lockhart and Paco Mitchell" style="width: 100%; height: auto; margin: auto;"/></p>
 
 <p><em>This is the tenth in a series of excerpts from an ongoing dialogue between Russell Lockhart and Paco Mitchell.</em></p>
 
@@ -4295,7 +4310,7 @@ ns1:bcpov6kdbf11 a ns1:Post ;
 
 <p>I am reminded of Stanislaw Lem’s novel, <em><a href="https://en.wikipedia.org/wiki/Solaris_(novel)">Solaris</a></em>. The central idea of this is the utter alienness of the red planet. As Lem said, “it cannot be reduced to human concepts, ideas, or images”. <em>Solaris</em> is unique in this respect and I believe is one artist’s effort anticipating[ to anticipates], in some sense or other, what is coming. The potential for human extinction may fall into the category of unacceptably alien. The hint from <em>Solaris</em> is that humans may be incapable of understanding their own extinction. Even those scientists given to the direst of warnings, for the most part, mitigate their warnings with various intensities of hope, in the form of redemption, regeneration, and rebirth. The gravitational pull of this can be seen even in something as nonsensical as President Trump wanting to reopen the economy and get back to work, back to normal, on Easter, the day of the risen Christ. It is as if any possibility of “something else” cannot be. </p>
 
-<p><img src="../images/post-bcpov6kdbf11-4.jpg" height="auto" alt="Satyr figure holding woman with pan pipes" style="width: 200px; margin: auto;"/><div class="caption"><i>Cover of the first edition of Solaris (<a href="https://en.wikipedia.org/w/index.php?curid=20699697">Wikipedia</a>)</div> </p>
+<p><img src="../images/post-bcpov6kdbf11-4.jpg" height="auto" alt="Satyr figure holding woman with pan pipes" style="width: 200px; margin: auto;"/><div class="caption">Cover of the first edition of Solaris (<a href="https://en.wikipedia.org/w/index.php?curid=20699697">Wikipedia</a>)</div> </p>
 
 <p>But the dream that that presented itself to me, the one that continues to haunt me in the deepest sense, speaks of <em>celebrating the final Ragnarök</em>. This surely is more in line with <em>Solaris</em> and the growing red spot on our volumes of <em>Dreams, Bones &amp; the Future</em>. </p>
 
@@ -6262,7 +6277,7 @@ Lies the greatest danger.
 
 ns1:bcpov6krdbf9 a ns1:Post ;
     ns1:dateCreated "2021-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/post-bcpov6krdbf9-0.jpg" height="auto" alt="Cover of Dreams, Bones and the Future, by Russell Lockhart and Paco Mitchell" style="width: 300px; margin: auto;"/></p>
+    ns1:description """<p><img src="../images/post-bcpov6krdbf9-0.jpg" alt="Cover of Dreams, Bones and the Future, by Russell Lockhart and Paco Mitchell" style="width: 100%; height: auto; margin: auto;"/></p>
 
 <p><em>This is the ninth in a series of excerpts from an ongoing dialogue between Russell Lockhart and Paco Mitchell.</em></p>
 
@@ -15492,16 +15507,16 @@ ns1:bcphb2asab7 a ns1:Post ;
     ns1:urlSlug "33.1"^^xsd:string .
 
 ns1:bcphb2kq341 a ns1:Post ;
-    ns1:coverImg "33.4-cover.jpg"^^xsd:string ;
+    ns1:coverImg "placeholder.png"^^xsd:string ;
     ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf" download="">Download issue 33.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf">View online</a></p>
+    ns1:description """<p>Lorem Ipsum</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj ;
     ns1:itemId "bcphb2kq341"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
-    ns1:profileImg "33.4-rect.jpg"^^xsd:string ;
+    ns1:profileImg "placeholder.png"^^xsd:string ;
     ns1:urlSlug "34.1"^^xsd:string .
 
 ns1:bcphb2kqfhu a ns1:Post ;

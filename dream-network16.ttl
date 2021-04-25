@@ -13556,7 +13556,7 @@ ns1:bcpov6zpdtem a ns1:Post ;
     ns1:itemId "bcpov6zpdtem"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dream that Encouraged Me to Write a Book I Had No Previous Intention to Write"^^xsd:string ;
-    ns1:urlSlug "dream-that-encouraged-me-to-write-a-book-i-had-no-previous-intention-to-write"^^xsd:string .
+    ns1:urlSlug "dream-that-encouraged-me-to-write-a-book"^^xsd:string .
 
 ns1:bcpov6zphras a ns1:Post ;
     ns1:dateCreated "2004-01-01T11:32:52"^^xsd:dateTime ;

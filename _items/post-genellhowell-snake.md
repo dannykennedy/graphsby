@@ -1,8 +1,8 @@
 ---
-dateCreated: "2021-02-01T11:32:52"
+dateCreated: "2021-03-01T11:32:52"
 itemId: bcpov6zpdtem
 layout: post
-name: "Dream that Encouraged Me to Write a Book I Had No Previous Intention to Write"
+name: "The Richness of Dreams for Self-Exploration: Lizard Devouring Snake"
 tags:
   - hasTag: evelynduesbury
   - hasAuthor: evelynduesbury

@@ -8,6 +8,7 @@ shortDescription: ""
 tags:
 date: 2015-03-24
 profileImg: author-gh.jpg
+coverImg: cover-genell-howell.jpg
 ---
 
 Website: [genellhowell.com](https://www.genellhowell.com/)

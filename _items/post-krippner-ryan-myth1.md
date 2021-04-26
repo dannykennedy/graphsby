@@ -58,4 +58,4 @@ In summary, dreams can play an important role in presenting the personal mythic 
 
 <hr>
 
-*For further exploration of the concepts and techniques presented in this article, please see The Mythic Path by D. Feinstein and S. Krippner, New York: Putnam/Tarcher, 1997. The [second part of this essay](../bcpov6kmyth2) applies these techniques of dream appreciation to some well-known popular songs in which dreams are presented.*
+*For further exploration of the concepts and techniques presented in this article, please see The Mythic Path by [D. Feinstein](../@davidfeinstein) and S. Krippner, New York: Putnam/Tarcher, 1997. The [second part of this essay](../bcpov6kmyth2) applies these techniques of dream appreciation to some well-known popular songs in which dreams are presented.*

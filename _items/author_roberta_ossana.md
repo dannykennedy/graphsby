@@ -34,6 +34,6 @@ A Dream Come True! Can you tell?
 
 *To live mythically is also to cultivate an ever-deepening relationship with the universe and its great mysteries."*
 
-David Feinstein & [Stanley Krippner](../@stanleykrippner), Personal Mythology
+[David Feinstein](../@davidfeinstein) & [Stanley Krippner](../@stanleykrippner), Personal Mythology
 (Jeremy Tarcher, LA CA 1988 ) p. 1
 

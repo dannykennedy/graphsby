@@ -13497,7 +13497,7 @@ ns1:bcpov6znormr a ns1:Post ;
     ns1:urlSlug "dream-explorations-by-rachel-norment-book-review"^^xsd:string .
 
 ns1:bcpov6zpdlds a ns1:Post ;
-    ns1:dateCreated "2021-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2021-01-01T10:32:52"^^xsd:dateTime ;
     ns1:description """<p><em>Dreams provide us a portal into the soul. They emerge in unconscious states while playing out our deepest fears, joys, and emotions. When we allow space for our dream content or images, we gain a deeper understanding of ourselves and our place in this world. This article identifies the theories within depth psychology that have shaped the way that we interpret our dreams. It specifically investigates the theories of dream interpretation through association, amplification, animation, active-animation, and ritual. It furthers the discussion of self-evolution through the analysis of a dream through the lens of each of these modalities. In addition, the article expands on the self-awareness and self-reflection gleaned in the process.</em> </p>
 
 <p>Evolution is one of the primary purposes of human life. We live, we learn, we correct, and in response, we evolve. As individuals on this Earth, we constantly look for greater meaning and assurances of our existence. The most effective way to reach our potential, growth, and evolution is through self-reflection. This led to the invention of philosophy, which later would evolve into psychology in our quest for self-actualization. A primary component of self-growth is to access our deeper unconscious states. There are twenty-four hours in a day, and based on the way we are biologically created, we spend on average around sixteen hours awake and seven to nine hours asleep.  That roughly equates to an average of 2,920 hours a year that we spend in a sleeping state. During our sleeping state, we rest, repair, and process in the form of dreams. Dreams are said to be a gateway into our soul. They provide a direct link to our unconsciousness while bypassing the inhibition of our conscious chatter. Whitmont and Perera (1989) recognize that:</p>
@@ -13748,7 +13748,7 @@ Stop looking to the exterior cues to guide you and go within
     ns1:urlSlug "dreams-for-self-exploration-lizard-devouring-snake"^^xsd:string .
 
 ns1:bcpov6zpdtem a ns1:Post ;
-    ns1:dateCreated "2021-02-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2021-01-01T10:33:52"^^xsd:dateTime ;
     ns1:description """<p>Because this article focuses on dreams, and specifically on the <a href="https://www.yourguidingdreams.com/public/whats_pmid.htm">Personalized Method For Interpreting Dreams</a> (PMID), I include a concise presentation of the model here. I developed this model during my thesis research for a Masters of Counselor Education degree at the University of Wisconsin-Whitewater.</p>
 
 <div class="breakout-box"><h3>Personalized Method for Interpreting Dreams (PMID) steps, concisely stated</h3>

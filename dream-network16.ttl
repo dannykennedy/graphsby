@@ -9465,6 +9465,66 @@ ns1:bcpov6wbyg5 a ns1:Post ;
     ns1:profileImg "welcome-to-the-magic-theater-sml.jpg"^^xsd:string ;
     ns1:urlSlug "welcome-to-the-magic-theater"^^xsd:string .
 
+ns1:bcpov6z0341e a ns1:Post ;
+    ns1:dateCreated "2021-04-29T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/33.4_cover.jpg" width="200" height="auto" alt="Figure holding an egg"/></p>
+
+<p><!--nopreview--><div class="caption">Touch Drawing by <a href="../@deborahkoffchapin">Deborah Koff Chapin</a></div><!--/nopreview--></p>
+
+<p>In the midst of the latter 'dark days' of winter, 2019—just as Spring began to spring—a Beam of Light came into my life in the form of Inoshi, an NYC friend and subscriber/contributor from my years as Dream Network Journal’s steward.</p>
+
+<p>He inquired about the current status of the publication and I informed him that the publication and I had retired 3/4 years ago, after completing my 25th year as publisher/editor.</p>
+
+<p>He suggested that the work that had been done by previous editors and myself deserved to see the light of day, given the timeless value of the articles and dream related artwork, poetry and book reviews presented over the years.</p>
+
+<p>We emailed back and forth, during which time he introduced me to Daniel Kennedy from Australia, an acquaintance who had also expressed an interest. After a few exchanges—and as I was responding to a current message from them—I had a memory surface of a dream I’d had several years prior. "Didn't I have a dream about this?" I immediately began a search in my online dream journal and Lo and Behold! There it is! </p>
+
+<p>I entitled the dream: </p>
+
+<h2>“The Resurrection of DNJ”</h2>
+
+<h4>Dated January 18, 2017.</h4>
+
+<p>Here are main excerpts from the dream:</p>
+
+<blockquote>
+  <p><em>A young man is enthusiastic about reviving Dream Network Journal… and I say, “Let’s Go!” Another man expresses interest as well. The first man begins setting up ‘camp’ along a nearby pathway. Initially, the 1st man expresses disappointment, as he wanted to ‘steer the ship’ himself ... but he soon realizes it would be much better if we work as a team.</em></p>
+  
+  <p><em>Then JANE FONDA—who morphs back and forth into JOAN HALIFAX— come into the picture and say “YES!"; we want involvement as well.</em></p>
+  
+  <p><em>I’m ecstatic! Details begin falling into place, one by one. It’s truly a new beginning for the publication. (End dream) Wow, huh?</em></p>
+</blockquote>
+
+<p>I awaken SO HAPPY that Dream Network Journal is being revived!</p>
+
+<p>Thus, on my end, began the really gruelling work of bringing dozens of boxes of back issues into the living room, sorting through them to achieve the desired outcome: a complete archive beginning (of course) with <a href="../@bcphbhe6wex/1.1">Volume 1 Number 1</a>, published by <a href="../@billstimson">Bill Stimson</a>, DN’s founder. The collection literally took over my living space and my life for several weeks/maybe months … but what fun! The memories that surfaced were like receiving boxes full of Christmas and birthday gifts on the same day. </p>
+
+<p>Most rewarding was remembering the incredible chaos and crisis in my life that preceded the blessing of beginning the work back in summer 1989. It was Magic! </p>
+
+<p>The awesomeness of the dozens of issues I stewarded was overwhelming. Did I really oversee this work? Was it really for 25 years? Seems like yesterday.</p>
+
+<p>Now, a new website containing the history of Dream Network, reflections/perceptions on the history of the 'dream movement' and notably, new submissions has been launched; all of the back issues are available in .pdf format. A complete archive of hard copies was achieved and delivered by Inoshi to the New York Public Library in July 2020; Daniel is in process of facilitating a second hardcopy archive delivery to the State Library of Victoria in Australia as we speak.</p>
+
+<p>Gathering it all together offered the joy of renewing contact with so many of you; collaborating with Inoshi and Daniel has been and remains among the more stimulating and rewarding activities of my now 82yo life.</p>
+
+<p>All of this would not have been possible without the generous contributions many of you have and are making—especially thanks to <a href="../@kellybulkeley">Kelly Bulkeley</a> via the <a href="https://chuffed.org/project/dream-network-journal">Chuffed fundraising site</a>. Thank you! </p>
+
+<p>My own involvement in this effort has brought me—and DNJ—out of what has been a hibernation of sorts; hoping it has the same effect of enriching your Dream Self and Life!</p>
+
+<p>Lovingly,</p>
+
+<p>Roberta</p>
+
+<p>p.s. Among new submissions will be the next chapter of Bones, Dreams and the Future by <a href="../@paco">Paco Mitchell</a> and <a href="../@ral">Russ Lockhart</a>. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3ossa ;
+    ns1:hasTag ns1:bcphb2kq341,
+        ns1:bcphbq3ossa ;
+    ns1:itemId "bcpov6z0341e"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Editorial: The Resurrection of DNJ"^^xsd:string ;
+    ns1:urlSlug "the-resurrection-of-the-dnj"^^xsd:string .
+
 ns1:bcpov6zaizer a ns1:Post ;
     ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="https://www.goodreads.com/book/show/12310352-dream-tending"></p>
@@ -17180,19 +17240,6 @@ ns1:bcphbq3norm a ns1:User ;
     ns1:name "Rachel Norment"^^xsd:string ;
     ns1:profileImg "author-rachelnorment.jpg"^^xsd:string .
 
-ns1:bcphb2kq341 a ns1:Post ;
-    ns1:coverImg "placeholder.png"^^xsd:string ;
-    ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>Lorem Ipsum</p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj ;
-    ns1:itemId "bcphb2kq341"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
-    ns1:profileImg "placeholder.png"^^xsd:string ;
-    ns1:urlSlug "34.1"^^xsd:string .
-
 ns1:bcphbq3bogz a ns1:User ;
     ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com</a></p>
@@ -17392,6 +17439,52 @@ ns1:bcphbqvbird a ns1:User ;
     ns1:name "Kim Birdsong"^^xsd:string ;
     ns1:profileImg "author-kim-birdsong.jpg"^^xsd:string .
 
+ns1:bcphb2kq341 a ns1:Post ;
+    ns1:coverImg "placeholder.png"^^xsd:string ;
+    ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Lorem Ipsum</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcphb2kq341"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
+    ns1:profileImg "placeholder.png"^^xsd:string ;
+    ns1:urlSlug "34.1"^^xsd:string .
+
+ns1:bcphbqskoff a ns1:User ;
+    ns1:coverImg "cover-author-deborahkoffchapin.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://touchdrawing.com/">touchdrawing.com</a></p>
+
+<p>On my last day in art school in 1974, I had a creative awakening. In a moment of playful exploration, I moved my fingertips on a paper towel instead of wiping the inked plate. Lifting the towel, I saw childlike scrawls on the underside, created by the pressure of my touch. I laughed ecstatically with this discovery! This was a precious gift; a direct mode of expression that fulfilled my longing for a more natural way to draw. I sensed it was emerging for more than my own personal use. With this realization came responsibility. Somehow, I would share this process with the world.</p>
+"""^^xsd:string ;
+    ns1:handle "deborahkoffchapin"^^xsd:string ;
+    ns1:itemId "bcphbqskoff"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Deborah Koff-Chapin"^^xsd:string ;
+    ns1:profileImg "author-deborahkoffchapin.jpg"^^xsd:string .
+
+ns1:bcpqn7zvpei a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqn7zvpei"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1"^^xsd:string ;
+    ns1:profileImg "volume-1.jpg"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-1"^^xsd:string .
+
+ns1:bcphbq3arts a ns1:User ;
+    ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
+
+<p>Arthur Strock, Ph.D., is a Founding Life Member of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a>. He is dedicated to sharing information about dreamwork and how it can be used to improve our lives. Dr. Strock holds advanced degrees in psychology and clinical social work. His professional experience includes work in hospital, corrections, school, and private practice settings. He has also taught psychology courses as an adjunct faculty member at colleges in New Jersey. His writing includes a column in the Dream Network Journal and articles online and in other publications. He currently works as a school psychologist and provides dream workshops for professionals and the general public.  Arthur published <a href="https://arthurstrock.com/live-by-your-dreams/">“Live By Your Dreams: Heartwarming Stories About Dreams and What They Tell Us” </a>in 2005 and is available on <a href="https://www.amazon.com/Live-Your-Dreams-Arthur-Strock/dp/0996545808/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1455133208&amp;sr=1-1&amp;keywords=live+by+your+dreams+strock">Amazon</a>.  Arthur resides in New Jersey with his partner, art therapist Susan Dingsor. They enjoy their rural location overlooking a natural spring-fed lake that offers relaxed kayaking during their leisure time.</p>
+"""^^xsd:string ;
+    ns1:handle "arthurstrock"^^xsd:string ;
+    ns1:itemId "bcphbq3arts"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Arthur Strock"^^xsd:string ;
+    ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
+
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
 
@@ -17426,39 +17519,6 @@ ns1:bcphbq3ossa a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Roberta Ossana"^^xsd:string ;
     ns1:profileImg "roberta_ossana.png"^^xsd:string .
-
-ns1:bcphbqskoff a ns1:User ;
-    ns1:coverImg "cover-author-deborahkoffchapin.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://touchdrawing.com/">touchdrawing.com</a></p>
-
-<p>On my last day in art school in 1974, I had a creative awakening. In a moment of playful exploration, I moved my fingertips on a paper towel instead of wiping the inked plate. Lifting the towel, I saw childlike scrawls on the underside, created by the pressure of my touch. I laughed ecstatically with this discovery! This was a precious gift; a direct mode of expression that fulfilled my longing for a more natural way to draw. I sensed it was emerging for more than my own personal use. With this realization came responsibility. Somehow, I would share this process with the world.</p>
-"""^^xsd:string ;
-    ns1:handle "deborahkoffchapin"^^xsd:string ;
-    ns1:itemId "bcphbqskoff"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Deborah Koff-Chapin"^^xsd:string ;
-    ns1:profileImg "author-deborahkoffchapin.jpg"^^xsd:string .
-
-ns1:bcpqn7zvpei a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:itemId "bcpqn7zvpei"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 1"^^xsd:string ;
-    ns1:profileImg "volume-1.jpg"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-1"^^xsd:string .
-
-ns1:bcphbq3arts a ns1:User ;
-    ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
-
-<p>Arthur Strock, Ph.D., is a Founding Life Member of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a>. He is dedicated to sharing information about dreamwork and how it can be used to improve our lives. Dr. Strock holds advanced degrees in psychology and clinical social work. His professional experience includes work in hospital, corrections, school, and private practice settings. He has also taught psychology courses as an adjunct faculty member at colleges in New Jersey. His writing includes a column in the Dream Network Journal and articles online and in other publications. He currently works as a school psychologist and provides dream workshops for professionals and the general public.  Arthur published <a href="https://arthurstrock.com/live-by-your-dreams/">“Live By Your Dreams: Heartwarming Stories About Dreams and What They Tell Us” </a>in 2005 and is available on <a href="https://www.amazon.com/Live-Your-Dreams-Arthur-Strock/dp/0996545808/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1455133208&amp;sr=1-1&amp;keywords=live+by+your+dreams+strock">Amazon</a>.  Arthur resides in New Jersey with his partner, art therapist Susan Dingsor. They enjoy their rural location overlooking a natural spring-fed lake that offers relaxed kayaking during their leisure time.</p>
-"""^^xsd:string ;
-    ns1:handle "arthurstrock"^^xsd:string ;
-    ns1:itemId "bcphbq3arts"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Arthur Strock"^^xsd:string ;
-    ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
 
 ns1:bcphbqsorna a ns1:User ;
     ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;

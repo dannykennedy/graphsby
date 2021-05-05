@@ -9728,7 +9728,9 @@ ns1:bcpov6zd341e a ns1:Post ;
 
 <p>Sometimes after class at university I used to quietly slip out of the campus to a dream sharing group. I would ride my pushbike up the wintry Wissahickon Valley in Philadelphia to a group in Chestnut Hill, or cycle downtown to the bus station, get a bad takeaway coffee to warm my hands and hop on the first bus to New York. This was 2019 and I was studying computer science abroad, the last year of a degree I started in Sydney. </p>
 
-<p>I’d always kept a dream diary, but it was more of a private pursuit, a little secret world. I was longing at some level to meet other sympathetic souls. I had an inkling that somewhere beneath the surface of the everyday there was a loose network of dreamers, like a mycelial network under the earth. I wanted to be part of that network. I’d even wanted for a long time to start some kind of dream sharing website, and it was partly with that thought that I embarked on my computing studies in the first place. </p>
+<p>I’d always kept a dream diary, but it was more of a private pursuit, a little secret world. I was longing at some level to meet other sympathetic souls. I had an inkling that somewhere beneath the surface of the everyday there was a loose network of dreamers, like a mycelial network under the earth. I wanted to be part of that network. I’d even wanted for a long time to start some kind of dream sharing website, and it was partly with that thought that I embarked on my computing studies in the first place. Location</p>
+
+<p>New York City</p>
 
 <p>Somehow the lonely church in Chestnut Hill and the shadowy outskirts of Manhattan seemed like an extension of that secret world, but indeed with other strange and wonderful people in it. One of those people was <a href="../@inoshi">Inoshi</a> (who has written an editorial alongside this one). In his Japanese-styled New York loft we’d sit drinking green tea and sharing dreams until I had to literally run back through the neon streets back to the Port Authority for a late evening bus. </p>
 
@@ -14655,6 +14657,18 @@ ns1:bcpov6zwater a ns1:Post ;
     ns1:name "Water, Water Everywhere"^^xsd:string ;
     ns1:profileImg "post_bcpov6zwater_0.jpg"^^xsd:string ;
     ns1:urlSlug "water-water-everywhere"^^xsd:string .
+
+ns1:bcpovdreamg a ns1:Post ;
+    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Here's some dream groups!</p>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSauzb4NP6p8FFi1Qkoxd-Na2OBF2oevzsx9vb4JjsGNoI7-sOUy80LTJSvf2iKV8ItqDJLaUXzafCH/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+"""^^xsd:string ;
+    ns1:itemId "bcpovdreamg"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreamsharing groups"^^xsd:string ;
+    ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "dream-groups"^^xsd:string .
 
 ns1:coverImg a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
     rdfs:domain ns1:Item ;

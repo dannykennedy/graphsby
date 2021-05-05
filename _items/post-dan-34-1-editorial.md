@@ -11,6 +11,9 @@ type: post
 urlSlug: "volume-34-issue-1-editorial-dan-kennedy"
 ---
 
+![Bridge over Wissahickon Creek](../images/post-bcpov6zd341e-0.jpg)
+<div class="caption"><span>Bridge over Wissahickon Creek, Philadelphia, on my way to a dream share</span></div>
+
 Sometimes after class at university I used to quietly slip out of the campus to a dream sharing group. I would ride my pushbike up the wintry Wissahickon Valley in Philadelphia to a group in Chestnut Hill, or cycle downtown to the bus station, get a bad takeaway coffee to warm my hands and hop on the first bus to New York. This was 2019 and I was studying computer science abroad, the last year of a degree I started in Sydney. 
 
 I’d always kept a dream diary, but it was more of a private pursuit, a little secret world. I was longing at some level to meet other sympathetic souls. I had an inkling that somewhere beneath the surface of the everyday there was a loose network of dreamers, like a mycelial network under the earth. I wanted to be part of that network. I’d even wanted for a long time to start some kind of dream sharing website, and it was partly with that thought that I embarked on my computing studies in the first place. 
@@ -28,16 +31,3 @@ This is going to be an amazing decade in dreams, an amazing century perhaps. It�
 Dan
 April 2021
 Sydney
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -6376,14 +6376,18 @@ ns1:bcpov6kru32c a ns1:Post ;
     ns1:dateCreated "1984-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/image-bcpov6kru32c-0.png" alt="Two dogs" /></p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3gott ;
-    ns1:hasTag ns1:bcphblcllan,
-        ns1:bcphbq3gott ;
+    ns1:hasAuthor ns1:bcphbq3gott,
+        ns1:bcphbq3mart ;
+    ns1:hasTag ns1:bcphb2kq341,
+        ns1:bcphblcllan,
+        ns1:bcphbq3gott,
+        ns1:bcphbq3mart ;
     ns1:itemId "bcpov6kru32c"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Cover art for Volume 3, Issue 2"^^xsd:string ;
     ns1:profileImg "image-bcpov6kru32c-0.png"^^xsd:string ;
-    ns1:urlSlug "3.2-cover-art-dale-gottlieb"^^xsd:string .
+    ns1:urlSlug "3.2-cover-art-dale-gottlieb"^^xsd:string,
+        "34.1-cover-art-dale-gottlieb"^^xsd:string .
 
 ns1:bcpov6kru36c a ns1:Post ;
     ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
@@ -12940,6 +12944,10 @@ ns1:bcpov6zi341e a ns1:Post ;
 
 <p>Somehow even a global plague hasn’t stopped this dream from manifesting. I envision a post pandemic world as one that is more dream sharing, responsive, and remembering. Who knows what dreams will emerge next? Let’s ready the sails of our hearts and those to come to welcome, and catch the gales and breezes upon the ocean of dreaming.</p>
 
+<p><img src="../images/post-bcpov6zi341e-2.jpg" alt="Inoshi and Javier with boxes wearing masks" /></p>
+
+<div class="caption"><span>Inoshi with Javier with Champion Courier, ferrying the DNJ through the plague to NYPL</span></div>
+
 <p>We invite you to celebrate the official launch of the online publication of the DNJ! Do enjoy, bookmark, and share the site and <a href="../@dreamnetwork~signup/">e-news</a>. </p>
 
 <p>Stimulating Reading, Happy Dreams, Inspiration &amp; Health to All,</p>
@@ -13537,6 +13545,10 @@ ns1:bcpov6zpdlds a ns1:Post ;
 </blockquote>
 
 <p>The final dream interpretation theory discussed throughout this article is the use of dream tending’s animation developed by Steve Aizenstat (Aizenstat, 2011). Within dream tending, the dream image is viewed as a living embodied entity. In response to a dream Aizenstat (2011) suggests that we treat the image that appears as one would a visitor or guest. When you analyze or tend dreams in this way, you gain fresh perspectives and greater insights into the messages underlying the dream image's presence. </p>
+
+<p><img src="../images/post-bcpov6zpdlds-4.jpg" alt="Embroidered snake with the head of a fox" /></p>
+
+<div class="caption"><span>The Shaman’s Necklace, by <a href="../@kathymartone">Kathy Martone</a></span></div>
 
 <h2>The Dream: Lizard Devouring Snake</h2>
 
@@ -16647,18 +16659,6 @@ ns1:bcphbq3king a ns1:User ;
     ns1:name "Marlene King"^^xsd:string ;
     ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
 
-ns1:bcphbq3mart a ns1:User ;
-    ns1:coverImg "cover-author-kathy-martone.jpg"^^xsd:string ;
-    ns1:description """<p><a href="https://www.facebook.com/Kathy-Martone-EdD-2166828393535523/">Facebook page</a></p>
-
-<p>Dr. Kathy Martone is currently an author and artist living in a small Victorian town in the Ozark Mountains in Arkansas. Before retiring, and moving from Denver, CO to Eureka Springs, AR in 2015, she was a Jungian psychologist in private practice specializing in dream work, women’s spirituality and shamanic journeys. The magical world of dreams has fascinated and intrigued Kathy for as long as she can remember. Inspired by a dream in 2005, she began making velvet tapestries imprinted with the image of one of her own dream figures and embellished with ribbons, rhinestones, feathers, glass beads, Swarovski crystals, antique jewelry and semi-precious stones.  Dr. Martone’s work has been displayed in galleries in Denver, Colorado  as well as in Eureka Springs, Arkansas. In 2006 Dr. Martone self published her first book titled, <a href="http://dreamagik.com/book-SW.htm">Sacred Wounds: A Love Story</a>.</p>
-"""^^xsd:string ;
-    ns1:handle "kathymartone"^^xsd:string ;
-    ns1:itemId "bcphbq3mart"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dr. Kathy Martone"^^xsd:string ;
-    ns1:profileImg "author-kathy-martone.jpg"^^xsd:string .
-
 ns1:bcphbq3pdwy a ns1:User ;
     ns1:description """<p>Consider the words of astronaut Edgar Mitchell, <em>"There are no unnatural or supernatural phenomena, only very large gaps in our knowledge of what is natural."</em></p>
 
@@ -17183,6 +17183,18 @@ ns1:bcphbq3dues a ns1:User ;
     ns1:name "Evelyn Duesbury"^^xsd:string ;
     ns1:profileImg "author-evelyn-duesbury.jpg"^^xsd:string .
 
+ns1:bcphbq3mart a ns1:User ;
+    ns1:coverImg "cover-author-kathy-martone.jpg"^^xsd:string ;
+    ns1:description """<p><a href="https://www.facebook.com/Kathy-Martone-EdD-2166828393535523/">Facebook page</a></p>
+
+<p>Dr. Kathy Martone is currently an author and artist living in a small Victorian town in the Ozark Mountains in Arkansas. Before retiring, and moving from Denver, CO to Eureka Springs, AR in 2015, she was a Jungian psychologist in private practice specializing in dream work, women’s spirituality and shamanic journeys. The magical world of dreams has fascinated and intrigued Kathy for as long as she can remember. Inspired by a dream in 2005, she began making velvet tapestries imprinted with the image of one of her own dream figures and embellished with ribbons, rhinestones, feathers, glass beads, Swarovski crystals, antique jewelry and semi-precious stones.  Dr. Martone’s work has been displayed in galleries in Denver, Colorado  as well as in Eureka Springs, Arkansas. In 2006 Dr. Martone self published her first book titled, <a href="http://dreamagik.com/book-SW.htm">Sacred Wounds: A Love Story</a>.</p>
+"""^^xsd:string ;
+    ns1:handle "kathymartone"^^xsd:string ;
+    ns1:itemId "bcphbq3mart"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dr. Kathy Martone"^^xsd:string ;
+    ns1:profileImg "author-kathy-martone.jpg"^^xsd:string .
+
 ns1:bcphbq3olse a ns1:User ;
     ns1:coverImg "cover-author-fredolsen.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.inner-image.net/fred-olsen.php">inner-image.net</a></p>
@@ -17570,6 +17582,16 @@ ns1:bcphbqskoff a ns1:User ;
     ns1:name "Deborah Koff-Chapin"^^xsd:string ;
     ns1:profileImg "author-deborahkoffchapin.jpg"^^xsd:string .
 
+ns1:bcpqn7zvpei a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqn7zvpei"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1"^^xsd:string ;
+    ns1:profileImg "volume-1.jpg"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-1"^^xsd:string .
+
 ns1:bcphb2kq341 a ns1:Post ;
     ns1:coverImg "placeholder.png"^^xsd:string ;
     ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
@@ -17582,16 +17604,6 @@ ns1:bcphb2kq341 a ns1:Post ;
     ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
     ns1:profileImg "placeholder.png"^^xsd:string ;
     ns1:urlSlug "34.1"^^xsd:string .
-
-ns1:bcpqn7zvpei a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:itemId "bcpqn7zvpei"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 1"^^xsd:string ;
-    ns1:profileImg "volume-1.jpg"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-1"^^xsd:string .
 
 ns1:bcphbq3arts a ns1:User ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>

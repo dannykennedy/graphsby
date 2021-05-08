@@ -29,6 +29,9 @@ From Utah, New South Wales and New York; Roberta, Dan and I respectively aligned
 
 Somehow even a global plague hasn’t stopped this dream from manifesting. I envision a post pandemic world as one that is more dream sharing, responsive, and remembering. Who knows what dreams will emerge next? Let’s ready the sails of our hearts and those to come to welcome, and catch the gales and breezes upon the ocean of dreaming.
 
+![Inoshi and Javier with boxes wearing masks](../images/post-bcpov6zi341e-2.jpg)
+<div class="caption"><span>Inoshi with Javier with Champion Courier, ferrying the DNJ through the plague to NYPL</span></div>
+
 We invite you to celebrate the official launch of the online publication of the DNJ! Do enjoy, bookmark, and share the site and [e-news](../@dreamnetwork~signup/). 
 
 Stimulating Reading, Happy Dreams, Inspiration & Health to All,

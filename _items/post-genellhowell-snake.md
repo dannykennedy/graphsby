@@ -36,6 +36,9 @@ Like Freud, Jung recognized that dreams are a route to our unconsciousness. Howe
 
 The final dream interpretation theory discussed throughout this article is the use of dream tending’s animation developed by Steve Aizenstat (Aizenstat, 2011). Within dream tending, the dream image is viewed as a living embodied entity. In response to a dream Aizenstat (2011) suggests that we treat the image that appears as one would a visitor or guest. When you analyze or tend dreams in this way, you gain fresh perspectives and greater insights into the messages underlying the dream image's presence. 
 
+![Embroidered snake with the head of a fox](../images/post-bcpov6zpdlds-4.jpg)
+<div class="caption"><span>The Shaman’s Necklace, by <a href="../@kathymartone">Kathy Martone</a></span></div>
+
 ## The Dream: Lizard Devouring Snake
 
 To illustrate how dreams act as an inner guidance, I will share my own experience of a dream entitled Lizard Devouring Snake. This dream took place towards the end of October 2020. First, it’s essential to understand the context of my life at the time of this dream. I had this dream while enrolled at a Depth oriented PhD program. Two months prior to this dream, my husband and partner of ten years and I had a significant conflict which resulted in a separation and conversations contemplating divorce. Further, I felt like I was undergoing significant personal growth, development, and transformation. My life was changing rapidly. My daughter had just turned into a young adult and was preparing for her individuation journey, and I felt at the edge of the unknown. The following is my Lizard Devouring Snake dream: 

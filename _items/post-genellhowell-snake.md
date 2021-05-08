@@ -36,8 +36,8 @@ Like Freud, Jung recognized that dreams are a route to our unconsciousness. Howe
 
 The final dream interpretation theory discussed throughout this article is the use of dream tending’s animation developed by Steve Aizenstat (Aizenstat, 2011). Within dream tending, the dream image is viewed as a living embodied entity. In response to a dream Aizenstat (2011) suggests that we treat the image that appears as one would a visitor or guest. When you analyze or tend dreams in this way, you gain fresh perspectives and greater insights into the messages underlying the dream image's presence. 
 
-![Embroidered snake with the head of a fox](../images/post-bcpov6zpdlds-4.jpg)
-<div class="caption"><span>The Shaman’s Necklace, by <a href="../@kathymartone">Kathy Martone</a></span></div>
+<img src="../images/post-bcpov6zpdlds-4.jpg" style="width: 400px; height: auto; margin: auto" alt="Embroidered snake with the head of a fox"/>
+<div class="caption"><span><a href="../bcpov6krukat/the-shamans-necklace">The Shaman’s Necklace</a>, by <a href="../@kathymartone">Kathy Martone</a></span></div>
 
 ## The Dream: Lizard Devouring Snake
 

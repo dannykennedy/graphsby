@@ -11,7 +11,7 @@ urlSlug: "lady-of-the-beasts"
 profileImg: post-bcpov6kukat2-0.jpg
 ---
 
-![Snake with the head of a fox](../images/post-bcpov6kukat2-0.jpg)
+![Tree, snake and lion](../images/post-bcpov6kukat2-0.jpg)
 <div class="caption"><span>Lady of the Beasts, 40”L x 43”W, Green velvet panel framed with red/gold brocade, and gold brocade, ribbon.</span></div>
 
 **From a dream:**

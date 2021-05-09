@@ -196,6 +196,9 @@ My work with the dream Lizard Devouring Snake opened a door within my life to gr
 
 Furthermore, I recognize the importance of slowing down as I lean into my freedom and intuition. I am stepping away from a need to control or fix things while allowing things to develop. I am learning more about myself in this process as I progress further in my graduate work within depth psychology. I’ve recognized that I do not need to make immediate decisions regarding my relationship with my husband and that I can embrace my daughter's individuation into young adulthood. This dream has acted as a catalyst in my life, allowing me to redefine my most profound relationships while simultaneously providing greater space and nourishment towards myself as I allow things to grow and transform.   
 
+<img src="../images/post-bcpov6zpdlds-4.jpg" style="width: 400px; height: auto; margin: auto" alt="Embroidered snake with the head of a fox"/>
+<div class="caption"><span><a href="../bcpov6krukat/the-shamans-necklace">Lady of the Beasts</a>, by <a href="../@kathymartone">Kathy Martone</a>. Martone: "The serpent reminds us of the wisdom of the feminine spirit".</span></div>
+
 ## References
 
 * Aizenstat, S. (2011). Dream tending: awakening to the healing power of dreams. Spring Journal. 

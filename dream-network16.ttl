@@ -6726,16 +6726,16 @@ ns1:bcpov6krujoa a ns1:Post ;
 
 ns1:bcpov6krukat a ns1:Post ;
     ns1:dateCreated "1984-03-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/post-bcpov6krukat-4.jpg" alt="Snake with the head of a fox" /></p>
+    ns1:description """<p><img src="../images/post-bcpov6zpdlds-4.jpg" style="width: 400px; height: auto; margin: auto" alt="Embroidered snake with the head of a fox"/></p>
 
-<p>53”L x 34”W, Green velvet panel framed with gold brocade and black &amp; gold ribbon.</p>
+<div class="caption"><span>The Shaman’s Necklace, 53”L x 34”W, Green velvet panel framed with gold brocade and black & gold ribbon.</span></div>
 
 <p><strong>From a dream:</strong></p>
 
 <blockquote>
-  <p>I am standing in a circle of women.  Someone gifts me with a snake from which sprouts the head of a fox.</p>
+  <p><em>I am standing in a circle of women.  Someone gifts me with a snake from which sprouts the head of a fox.</em></p>
   
-  <p>The snake, symbol of initiation and rebirth, arises from the green lavaliere and merges into red fox, symbol of feminine magic. Poised at the center of the upper circle of the lemnescate formed by the serpentine body is the phoenix, emblem of immortality. At the end of the snake’s tail hangs a small clear quartz crystal, a spiritual transmitter, and balanced on the bottom curve is a cross, representing the interpenetration of spirit into matter.</p>
+  <p><em>The snake, symbol of initiation and rebirth, arises from the green lavaliere and merges into red fox, symbol of feminine magic. Poised at the center of the upper circle of the lemnescate formed by the serpentine body is the phoenix, emblem of immortality. At the end of the snake’s tail hangs a small clear quartz crystal, a spiritual transmitter, and balanced on the bottom curve is a cross, representing the interpenetration of spirit into matter.</em></p>
 </blockquote>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3mart ;
@@ -6831,14 +6831,14 @@ ns1:bcpov6kukat2 a ns1:Post ;
     ns1:dateCreated "1984-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6kukat2-0.jpg" alt="Snake with the head of a fox" /></p>
 
-<p>40”L x 43”W, Green velvet panel framed with red/gold brocade, and gold brocade, ribbon.</p>
+<div class="caption"><span>Lady of the Beasts, 40”L x 43”W, Green velvet panel framed with red/gold brocade, and gold brocade, ribbon.</span></div>
 
 <p><strong>From a dream:</strong></p>
 
 <blockquote>
-  <p>An elderly woman lives in a house with a large garden in her backyard, the centerpiece of which is a large old oak tree surrounded by a rock wall.</p>
+  <p><em>An elderly woman lives in a house with a large garden in her backyard, the centerpiece of which is a large old oak tree surrounded by a rock wall.</em></p>
   
-  <p>Trees often represent the Great Goddess and here, she welcomes three faces of the Divine Feminine into her lofty branches.  The serpent reminds us of the wisdom of the feminine spirit, the white dove is Aphrodite’s symbol of fertility and the lion is guardian of the Great Mother.</p>
+  <p><em>Trees often represent the Great Goddess and here, she welcomes three faces of the Divine Feminine into her lofty branches.  The serpent reminds us of the wisdom of the feminine spirit, the white dove is Aphrodite’s symbol of fertility and the lion is guardian of the Great Mother.</em></p>
 </blockquote>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3mart ;
@@ -6846,7 +6846,7 @@ ns1:bcpov6kukat2 a ns1:Post ;
     ns1:itemId "bcpov6kukat2"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Lady of the Beasts"^^xsd:string ;
-    ns1:profileImg "image-bcpov6kru32c-0.png"^^xsd:string ;
+    ns1:profileImg "post-bcpov6kukat2-0.jpg"^^xsd:string ;
     ns1:urlSlug "lady-of-the-beasts"^^xsd:string .
 
 ns1:bcpov6magai2 a ns1:Post ;
@@ -12969,9 +12969,9 @@ ns1:bcpov6zi341e a ns1:Post ;
 
 <p>It was an unremarkable and doubtless chilly midweek winter evening in January 2019 when our regular <a href="https://eastwest.works/Intui.html#content4-2p">Dream Share</a> met in midtown E of Manhattan just a block away from the United Nations, and a kangaroo from abroad who was studying computer science in Philadelphia hopped in. A few hours of later we sent him packing with a random edition of the Dream Network Journal pulled off the shelf, and made due diligence in a requisite email follow up. </p>
 
-<p><img src="../images/post-bcpov6zi341e-0.jpg" alt="Dan, Inoshi and Anna" /></p>
+<p><img src="../images/post-bcpov6zi341e-3.jpg" alt="Dan, Inoshi and Anna" /></p>
 
-<div class="caption"><span>Inoshi, Anna and Dan at Inoshi's dreamshare group</span></div>
+<div class="caption"><span>Inoshi, Ana and Dan at Inoshi's dreamshare group</span></div>
 
 <p>This person was <a href="../@dan">Daniel Kennedy</a>. He continued to make the trek to and fro, and to delve into our dreaming nature, and our project came to resolve. A little over two years have transpired since the idea inception, and subsequent <a href="https://chuffed.org/project/dream-network-journal">campaign</a> launch to collect a full set of the print published DNJ, digitize it and donate the collection to a publicly accessible library. Our numerous donors can be referenced at the campaign site, and The NY Public library <a href="https://www.nypl.org/research/research-catalog/bib/b14090419">now holds a complete hard copy collection</a> in its periodicals division.</p>
 
@@ -12987,7 +12987,7 @@ ns1:bcpov6zi341e a ns1:Post ;
 
 <p><img src="../images/post-bcpov6zi341e-2.jpg" alt="Inoshi and Javier with boxes wearing masks" /></p>
 
-<div class="caption"><span>Inoshi with Javier with Champion Courier, ferrying the DNJ through the plague to NYPL</span></div>
+<div class="caption"><span>Inoshi with Javier from Champion Courier, ferrying the DNJ through the plague to NYPL</span></div>
 
 <p>We invite you to celebrate the official launch of the online publication of the DNJ! Do enjoy, bookmark, and share the site and <a href="../@dreamnetwork~signup/">e-news</a>. </p>
 
@@ -13587,9 +13587,9 @@ ns1:bcpov6zpdlds a ns1:Post ;
 
 <p>The final dream interpretation theory discussed throughout this article is the use of dream tending’s animation developed by Steve Aizenstat (Aizenstat, 2011). Within dream tending, the dream image is viewed as a living embodied entity. In response to a dream Aizenstat (2011) suggests that we treat the image that appears as one would a visitor or guest. When you analyze or tend dreams in this way, you gain fresh perspectives and greater insights into the messages underlying the dream image's presence. </p>
 
-<p><img src="../images/post-bcpov6zpdlds-4.jpg" alt="Embroidered snake with the head of a fox" /></p>
+<p><img src="../images/post-bcpov6zpdlds-4.jpg" style="width: 400px; height: auto; margin: auto" alt="Embroidered snake with the head of a fox"/></p>
 
-<div class="caption"><span>The Shaman’s Necklace, by <a href="../@kathymartone">Kathy Martone</a></span></div>
+<div class="caption"><span><a href="../bcpov6krukat/the-shamans-necklace">The Shaman’s Necklace</a>, by <a href="../@kathymartone">Kathy Martone</a></span></div>
 
 <h2>The Dream: Lizard Devouring Snake</h2>
 

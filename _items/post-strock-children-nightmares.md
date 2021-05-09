@@ -11,6 +11,9 @@ type: post
 urlSlug: nightmare-help-for-children
 ---
 
+<img src="../images/post-bcpov6zfnhfc-0.jpg" height="auto" alt="Men with gas masks" style="width: 350px; margin: auto;"/>
+<!--nopreview--><div class="caption"><span>'Pearls', by <a href="https://catherinekennedy.com.au/">Catherine Kennedy</a></span></div><!--/nopreview--> 
+
 ***Children are having nightmares related to the coronavirus. Children cannot fully escape from the relentless, graphic stories in the media about the inability to breathe, body bags, needles and 500,000 dead. These stories along with the anxieties of the adults around them get transformed into terrifying dreams containing horrific monsters. We need to listen to those nightmares. We need to avoid the old standard attempts at comforting children by telling them "Don't worry, it was just a dream." Such comments do not work!***
 
 Many children, maybe most, do not share dreams. We can ask them to tell us their dreams. Care must be taken, however, on how to do it. The best way is to simply begin sharing our own dreams (in edited form) with them. Children respond at their own pace by telling their dreams. Listen, listen, listen and respond, "uh, huh, yes, oh?, yes, whew, really!, wow". If it's a nightmare, a response such as "Wow, how would you have wanted the dream to be or how would you have wanted it to turn out?" could be a good next step followed by more listening.

@@ -1,9 +1,8 @@
 ---
-dateCreated: '2021-05-01T11:32:52'
+dateCreated: "2020-10-03T11:32:52"
 itemId: bcpovdreamg
 layout: post
 name: 'Dreamsharing groups'
-profileImg: relationship-dreams-sml.jpg
 tags:
  - hasAuthor: dreamnetwork
 type: post

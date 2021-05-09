@@ -12335,7 +12335,11 @@ ns1:bcpov6zfnetw a ns1:Post ;
 
 ns1:bcpov6zfnhfc a ns1:Post ;
     ns1:dateCreated "2021-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><strong><em>Children are having nightmares related to the coronavirus. Children cannot fully escape from the relentless, graphic stories in the media about the inability to breathe, body bags, needles and 500,000 dead. These stories along with the anxieties of the adults around them get transformed into terrifying dreams containing horrific monsters. We need to listen to those nightmares. We need to avoid the old standard attempts at comforting children by telling them "Don't worry, it was just a dream." Such comments do not work!</em></strong></p>
+    ns1:description """<p><img src="../images/post-bcpov6zfnhfc-0.jpg" height="auto" alt="Men with gas masks" style="width: 350px; margin: auto;"/></p>
+
+<p><!--nopreview--><div class="caption"><span>'Pearls', by <a href="https://catherinekennedy.com.au/">Catherine Kennedy</a></span></div><!--/nopreview--> </p>
+
+<p><strong><em>Children are having nightmares related to the coronavirus. Children cannot fully escape from the relentless, graphic stories in the media about the inability to breathe, body bags, needles and 500,000 dead. These stories along with the anxieties of the adults around them get transformed into terrifying dreams containing horrific monsters. We need to listen to those nightmares. We need to avoid the old standard attempts at comforting children by telling them "Don't worry, it was just a dream." Such comments do not work!</em></strong></p>
 
 <p>Many children, maybe most, do not share dreams. We can ask them to tell us their dreams. Care must be taken, however, on how to do it. The best way is to simply begin sharing our own dreams (in edited form) with them. Children respond at their own pace by telling their dreams. Listen, listen, listen and respond, "uh, huh, yes, oh?, yes, whew, really!, wow". If it's a nightmare, a response such as "Wow, how would you have wanted the dream to be or how would you have wanted it to turn out?" could be a good next step followed by more listening.</p>
 
@@ -14796,7 +14800,7 @@ ns1:bcpov6zwater a ns1:Post ;
     ns1:urlSlug "water-water-everywhere"^^xsd:string .
 
 ns1:bcpovdreamg a ns1:Post ;
-    ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2020-10-03T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>This is a regularly updated list of Dream Sharing groups. If you've never tried a dream sharing group before, we thoroughly recommend it. Most groups use some variety of the <a href="../bcpov6rssull/the-ullman-method-of-dream-analysis">Ullman method</a>. </p>
 
 <p>The Dream Network Journal does not run these groups, but we are honoured to collect this great set of dream groups here. </p>
@@ -14809,7 +14813,6 @@ ns1:bcpovdreamg a ns1:Post ;
     ns1:itemId "bcpovdreamg"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dreamsharing groups"^^xsd:string ;
-    ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
     ns1:urlSlug "dream-groups"^^xsd:string .
 
 ns1:coverImg a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;

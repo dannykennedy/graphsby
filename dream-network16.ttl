@@ -741,20 +741,6 @@ ns1:bcphbupdomk a ns1:Post ;
     ns1:profileImg "20.1-2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "20.1-2"^^xsd:string .
 
-ns1:bcphbvbqspq a ns1:Post ;
-    ns1:coverImg "21.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2002-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.3-Dream-Network-Vol-21-No-3.pdf" download="">Download issue 21.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.3-Dream-Network-Vol-21-No-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobs2l3e ;
-    ns1:itemId "bcphbvbqspq"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 21, issue 3: The Art of Dream Sharing"^^xsd:string ;
-    ns1:profileImg "21.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "21.3"^^xsd:string .
-
 ns1:bcphbvob4z7 a ns1:Post ;
     ns1:coverImg "22.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2003-07-01T11:32:52"^^xsd:dateTime ;
@@ -6826,6 +6812,74 @@ ns1:bcpov6kruten a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Ten Reasons to Get Help from a Dream Group"^^xsd:string ;
     ns1:urlSlug "ten-reasons-to-get-help-from-a-dream-group"^^xsd:string .
+
+ns1:bcpov6kuisha a ns1:Post ;
+    ns1:dateCreated "2002-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>I synchronously received the Part I issue of Dream Network Journal about <a href="https://dreamnetworkjournal.com/bcphbu3wddv/21.1">dream gifted music</a> the day before I was to sing and act one of my greatest lucid dreams to an audience of about 70. My friends and I run mystical art and talent shows to help connect the diverse New England holistic community at our church in Cambridge Massachusetts. It's wonderfully inspiring and fun. The website for our shows is at <a href="https://web.archive.org/web/20030424213757/http://soulstirring.org/">www.SoulStirring.org</a> in hopes that we can encourage more artists, dreamers, healers, and mystics worldwide. The dream I presented was tremendously important for me on many levels, so I'm excited now to share again its story and chant. </p>
+
+<blockquote>
+  <p><em>I am walking in my little hometown in Pine Plains, New York at night. I walk into the Post Office and it becomes my office in Boston. I thought to do a full day's work even though it is night. But when I try to , turn on the light and sit at the computer, my head begins to spin. Dizzy and overcome, I lay on the floor in a kind of seizure all night long.</em> </p>
+</blockquote>
+
+<p>I often have dreams in my hometown; it is my 'mental homebase.' But it was unusual to transition to my current job. I do have a kind of migraine condition that makes me dizzy sometimes; it used to be more of a problem. I got it diagnosed to the temporal lobes, which are said to be the gateways for other reality experiences. </p>
+
+<blockquote>
+  <p><em>In the morning I pick myself up off the floor and walk out of the office. I am in my hometown again. I am disturbed that I haven't been able to do my work so I want to find a doctor and some answers. I go into the town library and it becomes my HMO in Boston. A male doctor says to make it quick, as they are about to have a meeting. Using my logical mind to maximize the visit, I ask how much time does my HMO plan give me? The doctor takes my plan card and consults other doctors. He comes back and says, "You get enough time to have asked that question. Now you have to go."</em> </p>
+</blockquote>
+
+<p>My masculine problem-solving mind often tries to help me in dreams, but often runs into paradoxes. </p>
+
+<blockquote>
+  <p><em>Among the doctors gathering for the meeting I see a sympathetic-looking Indian woman. I ask her for help. She asks me to list my symptoms, so I do. She then gives me a label, some complicated word I can't remember, and tells me I have to go.</em> </p>
+</blockquote>
+
+<p>Western medicine never did much for my condition except assure me that I wasn't in any danger. The best doctors were the ones who were sensitive enough to suggest that many people have issues that go beyond the scope of medicine, so I should be self-aware and learn to take care of myself. </p>
+
+<blockquote>
+  <p><em>Annoyed to be abandoned by the doctors, I tell them to step back, I will show them a thing or two. They clear back in alarm as I begin to spin in place. My head opened up and many people come pouring out! The room fills with teenagers, like a high school gym. I try to make friends, but cute girls turn away and cool guys don't want me on their team.</em> </p>
+</blockquote>
+
+<p>I was awkward and considered odd in high school, and I related well to the outcasts. At that age my migraines began and I felt very spacey and in another world much of the time. Determined not to be intimidated, I keep increasing in lucidity. I say, </p>
+
+<blockquote>
+  <p><em>"Hey, who's in charge here!?" There should be a teacher to enforce sportsmanship and niceness, but there is none. I go up to a sympathetic-looking blond girl I recognize and say, "Did you see how they treated me?" She said, "Yes, they weren't nice to you".</em></p>
+</blockquote>
+
+<p>The blond girl/woman is a recurring character in my dreams. She and I bond well, have lucid conversations, and sometimes I even am her. I am blond too, so I believe she is my feminine spirit energy, my anima. </p>
+
+<blockquote>
+  <p><em>"Okay everyone listen up, I'm the teacher now!" I say boldly. "We're going to have some fun together!" I divide them into two teams for a kind of relay race. I have them take turns running a string back and forth, spinning it around each other, until everyone is connected. They are all laughing and being nice now. I can still see the doctors in the background, they are worried shadows. Feeling great, I next call the kids to form an arc in front of me. "Let's get to know each other. Call out your names!" They go down the row, something like Bob, Sue, Carl ,John, Mary, Carl ... I stop them, amazed. "Every third person is named Carl here, don't you think that's strange?" They look at me puzzled. "My name is Carl. There are only 2 other Carls in my high school. Do you know what this means?"</em> </p>
+  
+  <p><em>I have it now! "This is a dream! You are all in my dream!" I declare in triumph. The kids look at me scared, they know I am right. They didn't know what I would do to them next. "Don't worry, I won't hurt you," I said. "Let this be a lesson to you. Next time you find yourself in a dream, realize that you can do anything you want, and you always could all along. So be nice to each other, give the best for each other have fun, get along." They all like this and smile. I feel great and start to sing words that suddenly come to me. "You were born to be born. You were born to be born to be born." Puzzlement comes over us. They don't know what I mean, and neither do I. I wish for different words so that we can all have a good time. A great energy comes to me; now to the same melody I sing:</em></p>
+  
+  <p><em>"Isha Ganesha, Ganesha Isha, Isha Ganseha, Ganesha Isha!"</em> </p>
+  
+  <p><em>I don't know what this means, either, but it sounds great. I start to lead all the kids in a dance. We dance ecstatically, the energy building and building in me. I get in the center of the room and lay on the floor as they dance around me. I spin around my head, and my head opens up again. All the kids go inside my head, and still my head keeps expanding. My head soon encompasses the building, the town, the state, the planet. It keeps expanding until it contains the whole universe, and every living thing in the universe is singing softly with me.</em> </p>
+  
+  <p><em>"Isha Ganesha, Ganesha Isha, Isha Ganesha, Ganesha Isha."</em> </p>
+</blockquote>
+
+<p>When I woke up I felt so wonderful! Then the doubts hit me like a ton of bricks. I ran to my religion dictionary to see if the dream chant meant anything, or was I just crazy? Ganesha was, as I suspected, Ganesh, the playful elephant-head Hindu God of wisdom. He is invoked to clear blockages for good new beginnings. <a href="https://en.wikipedia.org/wiki/Isha_Upanishad">Isha</a>, I learned, was a popular Upanishad, a sacred teaching story. It was also the name given to Jesus. I have never much studied Hinduism, but I often have dreams of Sanskrit words and gods that I look up upon awakening. So I treasure this dream as a bridge between a lifetime of good spiritual study in India, and my current lifetime of Christian mysticism. I have met Jesus in lucid dreams as well; being "born again" into a state of Christ consciousness seems perfectly analogous to becoming the Buddha for one's self and world. </p>
+
+<p>The Buddha is said to be the one who awakened. Usually my lucid dream experiences are but moments, glimpses of what could be before I slip back into a dream. I treasure this one exceptionally long lucid dream for the fully realized role I got to play, that of the awakened community leader seeking to wake and teach others with love. I get to play this role too at the Cambridge Swedenborg Chapel, which I was led to by dreams and synchronicities. There my friends and I run mystical experience discussion groups and the mystical art and talent shows. It was a dream come true to tell and sing and dance my lucid dream on stage, in this our second year of the shows which we call SoulStirring Productions. </p>
+
+<p>Below is the Isha Ganesha chant, dreamt summer 2001, in simplified measure and notes notation, around middle C: </p>
+
+<p>| (B) I-sha (G) Ga- (A) -ne- (B) -sha |</p>
+
+<p>| (B) Ga-ne- (G) -sha (A) I- (B) -sha | </p>
+
+<p>| (D) I-sha Ga- (C#) -ne-sha          | </p>
+
+<p>| (B) Ga-ne- (G) -sha (A) I- (B) -sha |</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvicjs ;
+    ns1:hasTag ns1:bcphbqvicjs,
+        ns1:bcphbvbqspq ;
+    ns1:itemId "bcpov6kuisha"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Song of Isha Ganesha"^^xsd:string ;
+    ns1:urlSlug "the-song-of-isha-ganesha"^^xsd:string .
 
 ns1:bcpov6kukat2 a ns1:Post ;
     ns1:dateCreated "2005-03-01T11:32:52"^^xsd:dateTime ;
@@ -13807,7 +13861,7 @@ Stop looking to the exterior cues to guide you and go within
 
 <p>Furthermore, I recognize the importance of slowing down as I lean into my freedom and intuition. I am stepping away from a need to control or fix things while allowing things to develop. I am learning more about myself in this process as I progress further in my graduate work within depth psychology. I’ve recognized that I do not need to make immediate decisions regarding my relationship with my husband and that I can embrace my daughter's individuation into young adulthood. This dream has acted as a catalyst in my life, allowing me to redefine my most profound relationships while simultaneously providing greater space and nourishment towards myself as I allow things to grow and transform.   </p>
 
-<p><img src="../images/post-bcpov6kukat2-0.jpg" style="width: 400px; height: auto; margin: auto" alt="Tree, snake and lion"/></p>
+<p><img src="../images/post-bcpov6kukat2-0.jpg" style="width: 100%; height: auto; margin: auto" alt="Tree, snake and lion"/></p>
 
 <div class="caption"><span><a href="../bcpov6krukat/the-shamans-necklace">Lady of the Beasts</a>, by <a href="../@kathymartone">Kathy Martone</a>. Martone: "The serpent reminds us of the wisdom of the feminine spirit".</span></div>
 
@@ -15300,6 +15354,20 @@ ns1:bcphbusgyjg a ns1:Post ;
     ns1:profileImg "20.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "20.3"^^xsd:string .
 
+ns1:bcphbvbqspq a ns1:Post ;
+    ns1:coverImg "21.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2002-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.3-Dream-Network-Vol-21-No-3.pdf" download="">Download issue 21.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.3-Dream-Network-Vol-21-No-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobs2l3e ;
+    ns1:itemId "bcphbvbqspq"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 21, issue 3: The Art of Dream Sharing"^^xsd:string ;
+    ns1:profileImg "21.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "21.3"^^xsd:string .
+
 ns1:bcphbw4yscz a ns1:Post ;
     ns1:coverImg "25.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2006-04-01T11:32:52"^^xsd:dateTime ;
@@ -15918,6 +15986,18 @@ ns1:bcphbqvckd7 a ns1:Post ;
     ns1:name "Volume 13, issue 1: Cross Cultural Perspectives on Dream & Myth"^^xsd:string ;
     ns1:profileImg "13.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.1"^^xsd:string .
+
+ns1:bcphbqvicjs a ns1:User ;
+    ns1:coverImg "cover-author-carl-schroeder.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://www.innerselvesmastery.com">InnerSelvesMastery.com</a></p>
+
+<p>I am a life coach and spiritual teacher. In 2012 I started sharing a system of teachings I had been developing, the Inner Selves Mastery system. The Inner Selves Mastery system (ISM) empowers your personal evolution and helps you learn to live magically, heal relationships and take control of your destiny. Everything exists to remind you that the source is within you. </p>
+"""^^xsd:string ;
+    ns1:handle "carlschroeder"^^xsd:string ;
+    ns1:itemId "bcphbqvicjs"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Carl Johann Schroeder"^^xsd:string ;
+    ns1:profileImg "author-carl-schroeder.jpg"^^xsd:string .
 
 ns1:bcphbqvidan a ns1:User ;
     ns1:coverImg "cover-author-dan-kennedy.jpg"^^xsd:string ;

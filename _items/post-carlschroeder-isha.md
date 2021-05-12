@@ -29,7 +29,7 @@ Western medicine never did much for my condition except assure me that I wasn't 
 
 I was awkward and considered odd in high school, and I related well to the outcasts. At that age my migraines began and I felt very spacey and in another world much of the time.  
 
-> *"Determined not to be intimidated, I keep increasing in lucidity. I say "Hey, who's in charge here!?" There should be a teacher to enforce sportsmanship and niceness, but there is none. I go up to a sympathetic-looking blond girl I recognize and say, "Did you see how they treated me?" She said, "Yes, they weren't nice to you".*
+> *Determined not to be intimidated, I keep increasing in lucidity. I say "Hey, who's in charge here!?" There should be a teacher to enforce sportsmanship and niceness, but there is none. I go up to a sympathetic-looking blond girl I recognize and say, "Did you see how they treated me?" She said, "Yes, they weren't nice to you".*
 
  The blond girl/woman is a recurring character in my dreams. She and I bond well, have lucid conversations, and sometimes I even am her. I am blond too, so I believe she is my feminine spirit energy, my anima. 
  

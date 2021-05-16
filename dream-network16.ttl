@@ -9853,6 +9853,41 @@ ns1:bcpov6zd341e a ns1:Post ;
     ns1:name "Editorial"^^xsd:string ;
     ns1:urlSlug "volume-34-issue-1-editorial-dan-kennedy"^^xsd:string .
 
+ns1:bcpov6zd3skr a ns1:Post ;
+    ns1:dateCreated "2021-03-16T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.goodreads.com/book/show/52693989-understanding-suicide-s-allure"></p>
+
+<p><img src="../images/post-bcpov6zd3skr-0.jpg" alt="book cover" width="300" height="auto"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://www.goodreads.com/book/show/52693989-understanding-suicide-s-allure">Understanding Suicide's Allure: Steps to Save Lives by Healing Psychological Scars</a> by Stanley Krippner, Debbie Joffe Ellis, Daryl S. Paulson, Linda Riebel, 2020, Praeger, 343 pp.</i></div><!--/nopreview--></p>
+
+<p><a href="../@stanleykrippner">Stanley Krippner's</a> latest book, "Understanding Suicide's Allure: Steps to Save Lives by Healing Psychological Scars" is co-authored with Debbie Joffe Ellis, Daryl S. Paulson and Linda Riebel. It covers broad and deep ground on the topic of suicide prevention - from new scientific research, to sociopolitical insights into at-risk groups, to psychological and philosophical theories such the role of personal mythology. </p>
+
+<p>Several chapters deal with the topic of dreaming. <em>Can dreams and nightmares act as early warning signals for people at risk of suicide? Can therapy involving dreams provide a new avenue of treatment?</em></p>
+
+<p>Early in the book Krippner cites the work of R.E. Litman and other psychologists, who have worked with many clients with self-reported suicidal thoughts. Their studies found that there are certain themes significantly more likely to appear in the dreams of suicidal clients, even vis-a-vis other clients suffering from depression. These include dreams of feeling trapped and helpless / struggling to escape, revenge, and perhaps naturally dreams of self-dissolution and taking leave from others. </p>
+
+<p>While acting as warning signs, Krippner offers several anecdotes in which dreams have worked against suicidal impulses. He gives the example of a woman who was forced, in her dream, to give the eulogy at the funeral of her childhood best friend. Seeing the pain in everyone in the audience, she awoke and abandoned her plans of taking her own life. This suggests that dreams may play an active role in aiding mental health, rather than simply reflecting it. </p>
+
+<p>A contrast to this though is the book's later discussion of PTSD nightmares. Dreams usually rehearse coping behaviours, defuse the emotional impact of daily events and help create an organised sense of self - creating connections between disparate memories and thoughts, creating new scenarios and opening new avenues of thought, possibility and healing. PTSD nightmares on, the other hand, are different. In PTSD patients these coping, defusing and re-organising aspects of dreams (and even nightmares) appear to break, instead subjecting the dreamer to unfiltered flashbacks. </p>
+
+<p>The book discusses various schools of PTSD nightmare therapy, including Imagery Rehearsal Therapy (IRT), and Exposure, Relaxation and Rescripting Therapy. These methods involve aspects of rescripting and rehearsing new versions of the PTSD dreams, perhaps using lucid dreaming.  </p>
+
+<p>Neuroscientist and psychiatrist Bruce Dow, for example, developed “Dream Revision Therapy” while working with Vietnam War veterans. People discuss their nightmares in a group setting, and suggest ‘revisions’ to each other that would make the nightmares less terrifying and more optimistic. The dreamer then chooses a new script, and rehearses it during the day, checking to see if it has a positive effect on nightmares. Anecdotally, positive revisions often become part of the dream. </p>
+
+<p>The book is well structured and includes a good balance of the latest scientific research with historical discussion and deep psychological theories. Each chapter is succinctly argued with concluding takeaway points. Though I'm far from an expert in this topic, I would recommend it to anyone with an interest or a need to read up on the area.   </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvidan ;
+    ns1:hasTag ns1:bcphb2kq341,
+        ns1:bcphbq3krip,
+        ns1:bcphbqvidan ;
+    ns1:itemId "bcpov6zd3skr"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book review: Steps to save lives by healing psychological scars"^^xsd:string ;
+    ns1:urlSlug "understanding-suicides-allure-stanley-krippner-book-review"^^xsd:string .
+
 ns1:bcpov6zdeddw a ns1:Post ;
     ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
     ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
@@ -16002,18 +16037,6 @@ ns1:bcphbqvicjs a ns1:User ;
     ns1:name "Carl Johann Schroeder"^^xsd:string ;
     ns1:profileImg "author-carl-schroeder.jpg"^^xsd:string .
 
-ns1:bcphbqvidan a ns1:User ;
-    ns1:coverImg "cover-author-dan-kennedy.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://dannykennedy.co/">dannykennedy.co</a></p>
-
-<p>I'm a programmer, artist and long time dreamer. I studied Arts and Fine Arts at the University of Sydney, and worked and volunteered a few years in the Northern Territory, mostly buying and documenting work for Injalak Arts. From there I... (to be continued!) </p>
-"""^^xsd:string ;
-    ns1:handle "dan"^^xsd:string ;
-    ns1:itemId "bcphbqvidan"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dan Kennedy"^^xsd:string ;
-    ns1:profileImg "author-dan-kennedy.jpg"^^xsd:string .
-
 ns1:bcphbqviden a ns1:User ;
     ns1:coverImg "cover-author-inoshi-denizen.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://eastwest.works/Inoshi.html">eastwest.works</a></p>
@@ -16969,6 +16992,18 @@ ns1:bcphbqhutch a ns1:User ;
     ns1:name "Lint Hutchinson"^^xsd:string ;
     ns1:profileImg "author-linton-hutchinson.jpg"^^xsd:string .
 
+ns1:bcphbqvidan a ns1:User ;
+    ns1:coverImg "cover-author-dan-kennedy.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://dannykennedy.co/">dannykennedy.co</a></p>
+
+<p>I'm a programmer, artist and long time dreamer. I studied Arts and Fine Arts at the University of Sydney, and worked and volunteered a few years in the Northern Territory, mostly buying and documenting work for Injalak Arts. From there I... (to be continued!) </p>
+"""^^xsd:string ;
+    ns1:handle "dan"^^xsd:string ;
+    ns1:itemId "bcphbqvidan"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dan Kennedy"^^xsd:string ;
+    ns1:profileImg "author-dan-kennedy.jpg"^^xsd:string .
+
 ns1:bcphbqvlach a ns1:User ;
     ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>
 
@@ -17740,19 +17775,6 @@ ns1:bcpqn7zvpei a ns1:Post ;
     ns1:profileImg "volume-1.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-1"^^xsd:string .
 
-ns1:bcphb2kq341 a ns1:Post ;
-    ns1:coverImg "placeholder.png"^^xsd:string ;
-    ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>Lorem Ipsum</p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj ;
-    ns1:itemId "bcphb2kq341"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
-    ns1:profileImg "placeholder.png"^^xsd:string ;
-    ns1:urlSlug "34.1"^^xsd:string .
-
 ns1:bcphbq3arts a ns1:User ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
 
@@ -17829,6 +17851,19 @@ ns1:bcpqn72unjj a ns1:Post ;
 
 ns1:Item a <http://www.w3.org/2002/07/owl#Class> .
 
+ns1:bcphb2kq341 a ns1:Post ;
+    ns1:coverImg "placeholder.png"^^xsd:string ;
+    ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Lorem Ipsum</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcphb2kq341"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
+    ns1:profileImg "placeholder.png"^^xsd:string ;
+    ns1:urlSlug "34.1"^^xsd:string .
+
 ns1:bcphbqvreed a ns1:User ;
     ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
@@ -17848,6 +17883,26 @@ ns1:bcphbqvreed a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Henry Reed"^^xsd:string ;
     ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
+
+ns1:bcphbqvstim a ns1:User ;
+    ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.billstimson.com/">billstimson.com</a></p>
+
+<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
+
+<p>Dr. William R. Stimson is the founding editor of the Dream Network. </p>
+
+<p>Now living in Taiwan, Dr. Stimson teaches the <a href="../@montagueullman">Montague Ullman</a> experiential dream group course at Tunghai University and at National Chi Nan University, leads free monthly all-day Ullman dream groups in Taipei and Taichung, and leads a weekly Wednesday afternoon dream group in the Counseling Center at Taiwan's National Chi Nan University.</p>
+
+<p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
+
+<p>His latest book, <a href="https://www.amazon.com/Glimpses-Beyond-Ego-Dreams-Nature/dp/B08F6RYH8W/ref=sr_1_1?dchild=1&amp;qid=1602155108&amp;refinements=p_27%3A+Ph.D.%5CcWilliam+R.+Stimson&amp;s=books&amp;sr=1-1&amp;text=William+R.+Stimson%2C+Ph.D.">Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature</a> is now available on Amazon. </p>
+"""^^xsd:string ;
+    ns1:handle "billstimson"^^xsd:string ;
+    ns1:itemId "bcphbqvstim"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "William R. Stimson"^^xsd:string ;
+    ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
 
 ns1:bcphbq3krip a ns1:User ;
     ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
@@ -17869,26 +17924,6 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dr. Stanley Krippner"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
-
-ns1:bcphbqvstim a ns1:User ;
-    ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.billstimson.com/">billstimson.com</a></p>
-
-<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
-
-<p>Dr. William R. Stimson is the founding editor of the Dream Network. </p>
-
-<p>Now living in Taiwan, Dr. Stimson teaches the <a href="../@montagueullman">Montague Ullman</a> experiential dream group course at Tunghai University and at National Chi Nan University, leads free monthly all-day Ullman dream groups in Taipei and Taichung, and leads a weekly Wednesday afternoon dream group in the Counseling Center at Taiwan's National Chi Nan University.</p>
-
-<p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
-
-<p>His latest book, <a href="https://www.amazon.com/Glimpses-Beyond-Ego-Dreams-Nature/dp/B08F6RYH8W/ref=sr_1_1?dchild=1&amp;qid=1602155108&amp;refinements=p_27%3A+Ph.D.%5CcWilliam+R.+Stimson&amp;s=books&amp;sr=1-1&amp;text=William+R.+Stimson%2C+Ph.D.">Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature</a> is now available on Amazon. </p>
-"""^^xsd:string ;
-    ns1:handle "billstimson"^^xsd:string ;
-    ns1:itemId "bcphbqvstim"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "William R. Stimson"^^xsd:string ;
-    ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
 
 ns1:bcphbqawtay a ns1:User ;
     ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;

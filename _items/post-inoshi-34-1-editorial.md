@@ -11,8 +11,6 @@ type: post
 urlSlug: "volume-34-issue-1-editorial-inoshi-denizen"
 ---
 
-Dear Dream Network Journal Readers,
-
 It was an unremarkable and doubtless chilly midweek winter evening in January 2019 when our regular [Dream Share](https://eastwest.works/Intui.html#content4-2p) met in midtown E of Manhattan just a block away from the United Nations, and a kangaroo from abroad who was studying computer science in Philadelphia hopped in. A few hours of later we sent him packing with a random edition of the Dream Network Journal pulled off the shelf, and made due diligence in a requisite email follow up. 
 
 ![Dan, Inoshi and Ana selfie](../images/post-bcpov6zi341e-3.jpg)

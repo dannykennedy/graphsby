@@ -6,6 +6,7 @@ name: "Pearls"
 tags:
   - hasTag: catherinekennedy
   - hasAuthor: catherinekennedy
+  - hasTag: 34.1
 type: post
 urlSlug: "pearls"
 profileImg: post-bcpov6zfnhfc-0.jpg

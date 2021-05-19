@@ -6903,6 +6903,20 @@ ns1:bcpov6kukat2 a ns1:Post ;
     ns1:profileImg "post-bcpov6kukat2-0.jpg"^^xsd:string ;
     ns1:urlSlug "lady-of-the-beasts"^^xsd:string .
 
+ns1:bcpov6kukck2 a ns1:Post ;
+    ns1:dateCreated "2015-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zfnhfc-0.jpg" alt="Men with steampunk masks" /></p>
+
+<div class="caption"><span>Pearls</span></div>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3rbck ;
+    ns1:hasTag ns1:bcphbq3rbck ;
+    ns1:itemId "bcpov6kukck2"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Pearls"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zfnhfc-0.jpg"^^xsd:string ;
+    ns1:urlSlug "pearls"^^xsd:string .
+
 ns1:bcpov6magai2 a ns1:Post ;
     ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><strong>Jill:</strong> Linda, would you describe for me what it is that you do with dreams? </p>
@@ -15944,6 +15958,20 @@ ns1:bcphbq3nrob a ns1:User ;
     ns1:name "Nancy Roberts"^^xsd:string ;
     ns1:profileImg "author-nancy-roberts.jpg"^^xsd:string .
 
+ns1:bcphbq3rbck a ns1:User ;
+    ns1:coverImg "cover-author-catherinekennedy.jpeg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://catherinekennedy.com.au/" target="_blank">catherinekennedy.com.au</a></p>
+
+<p>Catherine Kennedy is a painter and installation artist who lives and works in Sydney and the Blue Mountains.</p>
+
+<p>Catherine began her art studies at the National Art School, Darlinghurst and has recently completed an M.F.A. by research at COFA/UNSW Art and Design.</p>
+"""^^xsd:string ;
+    ns1:handle "catherinekennedy"^^xsd:string ;
+    ns1:itemId "bcphbq3rbck"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Catherine Kennedy"^^xsd:string ;
+    ns1:profileImg "author-catherinekennedy.jpg"^^xsd:string .
+
 ns1:bcphbq3rjbg a ns1:User ;
     ns1:coverImg "cover-author_jordiborras.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.mondesomnis.com/" target="_blank">mondesomnis.com</a></p>
@@ -17958,7 +17986,19 @@ ns1:bcphbqvreed a ns1:User ;
 ns1:bcphb2kq341 a ns1:Post ;
     ns1:coverImg "arrival-to-the-third-heaven.jpg"^^xsd:string ;
     ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>Lorem Ipsum</p>
+    ns1:description """<p>The Dream Network has arisen again from five years of hibernation, and from the midst of a pandemic. We think there's never been a better time for a popular, eclectic journal of dreaming. But to quote <a href="../@billstimson">Bill Stimson</a>, the founder of the network: </p>
+
+<blockquote>
+  <p>The Dream Network is not the publication; the enterprise proper isn't a publishing one. To speak the truth of what the Dream Network is about for us is to find our myth, and where else but among our dreams? It is for us to use our dreams in a way that enables us to come together honestly and deeply... People sense this somehow and so they've helped the energy and unfoldment move forward.</p>
+</blockquote>
+
+<p>In the spirit of that statement, we've added some more networked features to the site. You can see tabs for Dream Groups and notices above. If you'd like to put your own group, project, event or anything else there, <a href="mailto:hello@dreamnetworkjournal.com">let us know</a>. </p>
+
+<p>This is a tentative rebirth, the first new collection of articles and art, like a fresh sprout from the earth. But it's filled with gems. Some pieces, like Arthur Strock's discussion of children's nightmares, reference recent events like the pandemic surrounding us, others look to timeless and archetypal themes. Paco Mitchell and Russell Lockhart's latest installation of the series 'Dreams, Bones and the Future', do both. </p>
+
+<p>Enjoy the new fruits of this network at your leisure. </p>
+
+<p><a href="../@inoshi">Inoshi</a>, <a href="../@dan">Dan</a> and <a href="../@robertaossana">Roberta</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj ;

@@ -15568,7 +15568,7 @@ ns1:bcpov6pnotb a ns1:Post ;
     ns1:itemId "bcpov6pnotb"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Noticeboard and classifieds"^^xsd:string ;
-    ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
+    ns1:profileImg "1.3-cover.jpg"^^xsd:string ;
     ns1:urlSlug "noticeboard"^^xsd:string .
 
 ns1:bcphb2eggje a ns1:Post ;
@@ -17948,7 +17948,7 @@ ns1:bcphbqvreed a ns1:User ;
     ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
 ns1:bcphb2kq341 a ns1:Post ;
-    ns1:coverImg "placeholder.png"^^xsd:string ;
+    ns1:coverImg "arrival-to-the-third-heaven.jpg"^^xsd:string ;
     ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Lorem Ipsum</p>
 """^^xsd:string ;
@@ -17957,7 +17957,7 @@ ns1:bcphb2kq341 a ns1:Post ;
     ns1:itemId "bcphb2kq341"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
-    ns1:profileImg "placeholder.png"^^xsd:string ;
+    ns1:profileImg "arrival-to-the-third-heaven.jpg"^^xsd:string ;
     ns1:urlSlug "34.1"^^xsd:string .
 
 ns1:bcphbqvstim a ns1:User ;

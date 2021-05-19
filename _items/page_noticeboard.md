@@ -3,7 +3,7 @@ dateCreated: '2005-01-01T11:32:52'
 itemId: bcpov6pnotb
 layout: page
 name: 'Noticeboard and classifieds'
-profileImg: relationship-dreams-sml.jpg
+profileImg: 1.3-cover.jpg
 tags:
 type: post
 urlSlug: noticeboard

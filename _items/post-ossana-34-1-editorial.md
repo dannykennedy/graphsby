@@ -11,8 +11,8 @@ type: post
 urlSlug: "the-resurrection-of-the-dnj"
 ---
 
-<img src="../images/33.4_cover.jpg" width="200" height="auto" alt="Figure holding an egg"/>
-<!--nopreview--><div class="caption">Touch Drawing by <a href="../@deborahkoffchapin">Deborah Koff Chapin</a></div><!--/nopreview-->
+<img src="../images/ro-waterfall2137.jpg" width="200" height="auto" alt="Roberta standing under a waterfall"/>
+<!--nopreview--><div class="caption">Waterfall in Roberta's back yard in Utah, 2016. The year that the DNJ went into hibernation.</div><!--/nopreview-->
 
 In the midst of the latter 'dark days' of winter, 2019—just as Spring began to spring—a Beam of Light came into my life in the form of Inoshi, an NYC friend and subscriber/contributor from my years as Dream Network Journal’s steward.
 He inquired about the current status of the publication and I informed him that the publication and I had retired 3/4 years ago, after completing my 25th year as publisher/editor.
@@ -39,6 +39,9 @@ Thus, on my end, began the really gruelling work of bringing dozens of boxes of 
 Most rewarding was remembering the incredible chaos and crisis in my life that preceded the blessing of beginning the work back in summer 1989. It was Magic! 
 
 The awesomeness of the dozens of issues I stewarded was overwhelming. Did I really oversee this work? Was it really for 25 years? Seems like yesterday.
+
+<img src="../images/33.4_cover.jpg" width="200" height="auto" alt="Figure holding an egg"/>
+<div class="caption">Touch Drawing by <a href="../@deborahkoffchapin">Deborah Koff Chapin. This work appeared on the cover of Roberta's first issue as editor in 1990, and the last printed journal in 2016.</a></div>
 
 Now, a new website containing the history of Dream Network, reflections/perceptions on the history of the 'dream movement' and notably, new submissions has been launched; all of the back issues are available in .pdf format. A complete archive of hard copies was achieved and delivered by Inoshi to the New York Public Library in July 2020; Daniel is in process of facilitating a second hardcopy archive delivery to the State Library of Victoria in Australia as we speak.
 

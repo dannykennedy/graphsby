@@ -15956,7 +15956,7 @@ ns1:bcphbq3rste a ns1:User ;
     ns1:coverImg "cover-author-star-edwards.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.starharp.com/" target="_blank">starharp.com</a></p>
 
-<p>Star Edwards has been a student of dreams and dream journaller for most of her life. In waking life she is harpist, artist and dancer. She has a wide repertoire of harp music and is available for event performances.  </p>
+<p>Star Edwards has been a student of dreams and dream journaler for most of her life. In waking life she is harpist, artist and dancer. She has a wide repertoire of harp music and is available for event performances.  </p>
 """^^xsd:string ;
     ns1:handle "staredwards"^^xsd:string ;
     ns1:itemId "bcphbq3rste"^^xsd:string ;

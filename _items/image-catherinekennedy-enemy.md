@@ -12,7 +12,8 @@ profileImg: post-bcpov6zfbowd-1.jpg
 ---
 
 ![Two figures and masks on a beach](../images/post-bcpov6zfbowd-1.jpg)
-<div class="caption"><span>Recognising the enemy</span></div>
+<!--nopreview--><div class="caption"><span>Recognising the enemy</span></div><!--/nopreview-->
+
 
 
 

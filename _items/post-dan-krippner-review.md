@@ -17,7 +17,7 @@ urlSlug: "understanding-suicides-allure-stanley-krippner-book-review"
 </a>
 <!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://www.goodreads.com/book/show/52693989-understanding-suicide-s-allure">Understanding Suicide's Allure: Steps to Save Lives by Healing Psychological Scars</a> by Stanley Krippner, Debbie Joffe Ellis, Daryl S. Paulson, Linda Riebel, 2020, Praeger, 343 pp.</i></div><!--/nopreview-->
 
-[Stanley Krippner's](../@stanleykrippner) latest book, "Understanding Suicide's Allure: Steps to Save Lives by Healing Psychological Scars" is co-authored with [Debbie Joffe Ellis](../@ debbiejoffeellis), Daryl S. Paulson and Linda Riebel. It covers broad and deep ground on the topic of suicide prevention - from new scientific research, to sociopolitical insights into at-risk groups, to psychological and philosophical theories such the role of personal mythology. 
+[Stanley Krippner's](../@stanleykrippner) latest book, "Understanding Suicide's Allure: Steps to Save Lives by Healing Psychological Scars" is co-authored with [Debbie Joffe Ellis](../@debbiejoffeellis), Daryl S. Paulson and Linda Riebel. It covers broad and deep ground on the topic of suicide prevention - from new scientific research, to sociopolitical insights into at-risk groups, to psychological and philosophical theories such the role of personal mythology. 
 
 Several chapters deal with the topic of dreaming. *Can dreams and nightmares act as early warning signals for people at risk of suicide? Can therapy involving dreams provide a new avenue of treatment?*
 

@@ -9880,9 +9880,9 @@ ns1:bcpov6zd3skr a ns1:Post ;
 
 <p></a></p>
 
-<p><!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://www.goodreads.com/book/show/52693989-understanding-suicide-s-allure">Understanding Suicide's Allure: Steps to Save Lives by Healing Psychological Scars</a> by Stanley Krippner, Debbie Joffe Ellis, Daryl S. Paulson, Linda Riebel, 2020, Praeger, 343 pp.</i></div><!--/nopreview--></p>
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://www.goodreads.com/book/show/52693989-understanding-suicide-s-allure">Understanding Suicide's Allure: Steps to Save Lives by Healing Psychological Scars</a> by Stanley Krippner, Linda Riebel, Debbie Joffe Ellis, Daryl S. Paulson, 2020, Praeger, 343 pp.</i></div><!--/nopreview--></p>
 
-<p><a href="../@stanleykrippner">Stanley Krippner's</a> latest book, "Understanding Suicide's Allure: Steps to Save Lives by Healing Psychological Scars" is co-authored with <a href="../@debbiejoffeellis">Debbie Joffe Ellis</a>, Daryl S. Paulson and Linda Riebel. It covers broad and deep ground on the topic of suicide prevention - from new scientific research, to sociopolitical insights into at-risk groups, to psychological and philosophical theories such the role of personal mythology. </p>
+<p><a href="../@stanleykrippner">Stanley Krippner's</a> latest book, "Understanding Suicide's Allure: Steps to Save Lives by Healing Psychological Scars" is co-authored with <a href="../@lindariebel">Linda Riebel</a>, <a href="../@debbiejoffeellis">Debbie Joffe Ellis</a> and Daryl S. Paulson. It covers broad and deep ground on the topic of suicide prevention - from new scientific research, to sociopolitical insights into at-risk groups, to psychological and philosophical theories such the role of personal mythology. </p>
 
 <p>Several chapters deal with the topic of dreaming. <em>Can dreams and nightmares act as early warning signals for people at risk of suicide? Can therapy involving dreams provide a new avenue of treatment?</em></p>
 
@@ -9902,6 +9902,7 @@ ns1:bcpov6zd3skr a ns1:Post ;
     ns1:hasTag ns1:bcphb2kq341,
         ns1:bcphbq3krip,
         ns1:bcphbq3rdje,
+        ns1:bcphbqerilr,
         ns1:bcphbqvidan ;
     ns1:itemId "bcpov6zd3skr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -15378,6 +15379,18 @@ ns1:bcphbq3xymn a ns1:Post ;
     ns1:name "Volume 13, issue 3: Cross Cultural Perspectives on Dream & Myth: Native American Views"^^xsd:string ;
     ns1:profileImg "13.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.3"^^xsd:string .
+
+ns1:bcphbqerilr a ns1:User ;
+    ns1:coverImg "cover-author_linda_riebel.jpg"^^xsd:string ;
+    ns1:description """<p>Linda Riebel, PhD, conducted a psychotherapy practice in San Francisco and Berkeley for twenty-five years, specializing in eating disorders, anxiety, and depression. She is now retired after 27 years on the faculty of Saybrook University.</p>
+
+<p>She is the author of six books and many professional journal articles, and is a contributor to the third edition of the <em>Encyclopedia of Creativity</em> (2020). </p>
+"""^^xsd:string ;
+    ns1:handle "lindariebel"^^xsd:string ;
+    ns1:itemId "bcphbqerilr"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Linda Riebel"^^xsd:string ;
+    ns1:profileImg "author_linda_riebel.jpg"^^xsd:string .
 
 ns1:bcphbqp3hfp a ns1:Post ;
     ns1:coverImg "12.4-cover.jpg"^^xsd:string ;

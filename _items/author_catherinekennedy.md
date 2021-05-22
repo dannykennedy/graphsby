@@ -13,6 +13,4 @@ coverImg: cover-author-catherinekennedy.jpeg
 
 Website: <a href="https://catherinekennedy.com.au/" target="_blank">catherinekennedy.com.au</a>
 
-Catherine Kennedy is a painter and installation artist who lives and works in Sydney and the Blue Mountains.
-
-Catherine began her art studies at the National Art School, Darlinghurst and has recently completed an M.F.A. by research at COFA/UNSW Art and Design.
+<a href="https://catherinekennedy.com.au/" target="_blank">Catherine Kennedy</a> is a painter and installation artist who lives and works in Sydney and the Blue Mountains. Her work explores the intersection of conscious and subconscious experience, bringing together the experiential, the remembered, the imaginative and the emotional to create new narratives. Like fragments of a dream, image, metaphor and text recombine to suggest new interpretations and meanings beyond the simply perceptual.  

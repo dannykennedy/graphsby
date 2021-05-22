@@ -9901,6 +9901,7 @@ ns1:bcpov6zd3skr a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvidan ;
     ns1:hasTag ns1:bcphb2kq341,
         ns1:bcphbq3krip,
+        ns1:bcphbq3rdje,
         ns1:bcphbqvidan ;
     ns1:itemId "bcpov6zd3skr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -15328,6 +15329,20 @@ ns1:bcphbnodjs2 a ns1:Post ;
     ns1:name "Volume 7, issue 3"^^xsd:string ;
     ns1:profileImg "7.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.3"^^xsd:string .
+
+ns1:bcphbq3rdje a ns1:User ;
+    ns1:coverImg "cover-author-debbiejoffeellis.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.debbiejoffeellis.com/" target="_blank">www.debbiejoffeellis.com</a></p>
+
+<p>Dr Debbie Joffe Ellis was born and raised in Melbourne, Australia. New York City has been her home base for the past two decades. She is a licensed psychologist (Australia), licensed mental health counselor (New York), presenter, writer and adjunct professor at Columbia University in New York City where she teaches Rational Emotive Behavior Therapy and Comparative Psychotherapies. For years she worked with her husband, the brilliant and renowned pioneer of modern cognitive therapies: Dr Albert Ellis, giving public presentations and professional trainings in his approach of Rational Emotive Behavior Therapy (REBT), as well as collaborating with him on writing and research projects until his death in 2007. Before his passing he stated and wrote that he entrusted her to continue his work. </p>
+
+<p>She is recognized as a world-renowned expert on REBT, and regularly presents, throughout the USA and in countries around the world, to students, academics, practitioners in the helping professions, and to members of the general public. She wrote the second edition of the book Rational Emotive Behavior Therapy (published 2019) that she co-wrote with her husband in its first edition. She is also featured in a DVD produced by the American Psychological Association (APA) demonstrating and discussing the REBT approach. She has written chapters for various text books, articles, and has reviewed publications for APA’s PsycCritiques Journal. In 2014 she was named “Legend in Counseling” at the American Counseling Association annual conference, and has received various other awards and acknowledgments for her work. She joyfully and passionately continues her mission of informing as many people as possible - through her presentations, teaching, writing, and the ways she strives to ‘walk her talk’ - that each one of us has the power to create our emotional destinies despite and including challenging circumstances, and through teaching the ‘how-to’s’ of doing so!</p>
+"""^^xsd:string ;
+    ns1:handle "debbiejoffeellis"^^xsd:string ;
+    ns1:itemId "bcphbq3rdje"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dr. Debbie Joffe Ellis"^^xsd:string ;
+    ns1:profileImg "author-debbiejoffeellis.jpg"^^xsd:string .
 
 ns1:bcphbq3xymn a ns1:Post ;
     ns1:coverImg "13.3-cover.jpg"^^xsd:string ;

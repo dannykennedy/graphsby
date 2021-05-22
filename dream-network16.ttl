@@ -17145,7 +17145,7 @@ ns1:bcphbqerics a ns1:User ;
     ns1:itemId "bcphbqerics"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Eric Snyder"^^xsd:string ;
-    ns1:profileImg "author-ericsnyder"^^xsd:string .
+    ns1:profileImg "author-ericsnyder.jpg"^^xsd:string .
 
 ns1:bcphbqhutch a ns1:User ;
     ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;

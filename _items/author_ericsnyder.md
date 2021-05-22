@@ -7,7 +7,7 @@ name: "Eric Snyder"
 shortDescription: ""
 tags:
 date: 2015-03-24
-profileImg: author-ericsnyder
+profileImg: author-ericsnyder.jpg
 coverImg: cover-author-ericsnyder.jpg
 ---
 

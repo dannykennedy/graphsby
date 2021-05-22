@@ -7110,7 +7110,7 @@ ns1:bcpov6meleph a ns1:Post ;
 
 <p>I met Ron Kovic in my dream last night. He stood up and I stood up next to him. Today, Day 119 before 2012, a dream calls me to stand up with / for the young lovers of the world, the Elephant People, and ‘the others,’ that is, for ourselves. ∞</p>
 
-<p><sup>1</sup>The Secret History of Dreaming, Robert Moss, p.22 </p>
+<p><sup>1</sup>The Secret History of Dreaming, <a href="../@robertmoss">Robert Moss</a>, p.22 </p>
 
 <p>~ ~ ∞ ~ ∞ ~ ∞ ~ ~ </p>
 
@@ -9907,6 +9907,39 @@ ns1:bcpov6zd3skr a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book review: Steps to save lives by healing psychological scars"^^xsd:string ;
     ns1:urlSlug "understanding-suicides-allure-stanley-krippner-book-review"^^xsd:string .
+
+ns1:bcpov6zd3tdm a ns1:Post ;
+    ns1:dateCreated "1987-11-16T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zd3tdm-0.jpg" alt="science equipment" width="300" height="auto"/></p>
+
+<p>Dreamwork has moved out of the ivory towers and into the neighborhoods. No longer does one need to lie on a psychiatrist's couch or study at a university to gain valuable insights into one's dreams. And scientists studying the mechanics of these nightly adventures are having to move over and allow a new class of professionals to give their discoveries some practical relevance to the average person.</p>
+
+<p>Dreamworkers, an eclectic band of professionals and artists with a keen interest in dreaming, have discovered the vast resource that dreaming can be. They have sensed the growing need in many for a means of self-analysis and reflection without having to rely only on the expertise of outside authority. Not only can working with dreams lead one to increased states of self understanding and well being, dreams themselves can be gold mines for problem solving and artistic inspiration.</p>
+
+<p>Because dreams are the foundation of our waking lives there is almost no activity unrelated to them. Many of the world's greatest discoveries and cultural treasures have originated in dreams. The mystery of how this process of creativity works has been deciphered, and today people all over the world are incubating dreams for the purpose of problem solving and to achieve creative breakthroughs.</p>
+
+<p>Dreamwork takes many forms, and a person interested in understanding their dreams better has a wide variety of possibilities to choose from. For instance, a physically active person can dance their dreams and express them through movement. A person interested in understanding the meaning of his or her dreams can pick from dozens of styles of dream interpretation, each with its own emphasis. People who don't remember their dreams at all are not left out in the dark either. They can engage in waking reverie techniques which put them in direct contact with the subconscious mind out of which dreams arise. There are dream oriented art and singing classes available too. If you're a person who prefers acting things out, dream theatre will give you a chance to do so.</p>
+
+<p>The beauty of dream work in a group setting is that it promotes a feeling of community among the participants. Because the emphasis is on personal unfoldment and enrichment, there is no need for greediness or competition. In itself this is one long step toward social well being and mental health in the broadest sense.</p>
+
+<p>People who are shy about sharing their dreams in a group setting can find one to one contact with a dream professional stimulating and rewarding. Sometimes the very sharing of such an intimate part of one's being is all that a person needs. Dreams shared have an uncanny way of becoming clear just in the telling.</p>
+
+<p>Another exciting area of exploration is psychic phenomena which occur in dreams. There are many validated accounts of precognition (dreams that come true), telepathy, and so-called out-of-body experiences in dreams. In a sense, dreams provide us an opportunity to experience the limitless possibilities of life. Physicists have yet to "catch up" and adequately explain what many dreamers routinely experience.</p>
+
+<p>One skill of dreaming which can easily be taught is lucid dreaming. This is the experience of being "awake" in one's dream and being able to consciously observe and control the state. You can thus actively change your relationship to the dream and its content. Besides the obvious benefit of being able to dream in a lucid state, it is just downright fun. And having a good time in a dream almost always carries over into the waking state.</p>
+
+<p><img src="../images/post-bcpov6zd3tdm-1.jpg" alt="farm house with sun" width="300" height="auto"/></p>
+
+<p>The scholars and scientists can continue to prove and disprove theories about dreaming. It is their choice and their place to do so. Meantime the dreamworkers will continue developing a broad base, grass-roots network of people interested in dream skills at the nutsand-bolts level. This is fitting because it is high time that an activity such as dreaming, in which we all share, should be given some respectability and a meaningful place in our lives.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqerics ;
+    ns1:hasTag ns1:bcphbndh32i,
+        ns1:bcphbqerics ;
+    ns1:itemId "bcpov6zd3tdm"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Dreamwork Movement"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zd3tdm-0.jpg"^^xsd:string ;
+    ns1:urlSlug "the-dreamwork-movement"^^xsd:string .
 
 ns1:bcpov6zdeddw a ns1:Post ;
     ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
@@ -12915,8 +12948,10 @@ ns1:bcpov6zftens a ns1:Post ;
 
 <p>In this sense, traditional dreamwork will be expanded to include not only the inner work and play of dreams of the individual for the individual, but then also carry outward what is learned and lived inwardly. The inner world of the dream has always been taken as a kind of communicative community; as we begin to live more in virtual space, we will see these skills transfer to the world itself. Is it not that the world will become dream or the dream the world. Rather, the skills and sensitivities of developing rapid rapport with other-ness and development of on-the-fly communicative communities — which prove to be so much of our inner dreamwork — will allow us to tend to the soul of the world in mutual embrace. ♦</p>
 """^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3rcwi ;
+    ns1:hasAuthor ns1:bcphbq3rcwi,
+        ns1:bcphbqerics ;
     ns1:hasTag ns1:bcphbq3rcwi,
+        ns1:bcphbqerics,
         ns1:bcphbvecgmx ;
     ns1:itemId "bcpov6zftens"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -15302,20 +15337,6 @@ ns1:bcphbnagfeb a ns1:Post ;
     ns1:profileImg "6.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.3"^^xsd:string .
 
-ns1:bcphbndh32i a ns1:Post ;
-    ns1:coverImg "6.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1987-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.4-Dream-Network-Bulletin_Volume-6-Number-4.pdf" download="">Download issue 6.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.4-Dream-Network-Bulletin_Volume-6-Number-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaf5sto ;
-    ns1:itemId "bcphbndh32i"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 6, issue 4"^^xsd:string ;
-    ns1:profileImg "6.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "6.4"^^xsd:string .
-
 ns1:bcphbnodjs2 a ns1:Post ;
     ns1:coverImg "7.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1988-05-01T11:32:52"^^xsd:dateTime ;
@@ -15746,6 +15767,20 @@ ns1:bcphbmvxewa a ns1:Post ;
     ns1:name "Volume 5, issue 6"^^xsd:string ;
     ns1:profileImg "5.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "5.6"^^xsd:string .
+
+ns1:bcphbndh32i a ns1:Post ;
+    ns1:coverImg "6.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1987-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.4-Dream-Network-Bulletin_Volume-6-Number-4.pdf" download="">Download issue 6.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.4-Dream-Network-Bulletin_Volume-6-Number-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaf5sto ;
+    ns1:itemId "bcphbndh32i"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 6, issue 4"^^xsd:string ;
+    ns1:profileImg "6.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "6.4"^^xsd:string .
 
 ns1:bcphbnlbw5k a ns1:Post ;
     ns1:coverImg "7.2-cover.jpg"^^xsd:string ;
@@ -17101,6 +17136,16 @@ ns1:bcphbqbynum a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Edward Bruce Bynum, Ph.D., ABPP"^^xsd:string ;
     ns1:profileImg "author-edward-bynum.jpg"^^xsd:string .
+
+ns1:bcphbqerics a ns1:User ;
+    ns1:coverImg "cover-author-ericsnyder.jpg"^^xsd:string ;
+    ns1:description """<p>Eric Snyder is a visionary artist and talented chef who lives and works in San Francisco. His writing and art appeared in many issues of the Dream Network, and for many years he was a registered regional dreamworking contact in the back pages of the journal. </p>
+"""^^xsd:string ;
+    ns1:handle "ericsnyder"^^xsd:string ;
+    ns1:itemId "bcphbqerics"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Eric Snyder"^^xsd:string ;
+    ns1:profileImg "author-ericsnyder"^^xsd:string .
 
 ns1:bcphbqhutch a ns1:User ;
     ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;

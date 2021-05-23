@@ -988,7 +988,7 @@ ns1:bcpov6gabnot a ns1:Post ;
     ns1:dateCreated "2021-03-28T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="https://iasdconferences.org/2021/registration"></p>
 
-<p><img src="../images/post-bcpov6gabnot-0.jpg" alt="IASD conference advertisement" width="300" height="auto"/></p>
+<p><img src="../images/post-bcpov6gabnot-0.jpg" alt="IASD conference advertisement" width="100%" height="auto"/></p>
 
 <p></a></p>
 
@@ -13250,8 +13250,7 @@ ns1:bcpov6zi3ans a ns1:Post ;
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3rste ;
     ns1:hasTag ns1:bcphbq3rste,
-        ns1:bcphbyukqzw,
-        ns1:bcpov6pnotb ;
+        ns1:bcphbyukqzw ;
     ns1:itemId "bcpov6zi3ans"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Ancestor Book Sculpture"^^xsd:string ;
@@ -16579,6 +16578,16 @@ ns1:bcphbzoxivb a ns1:Post ;
     ns1:profileImg "31.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.3"^^xsd:string .
 
+ns1:bcpov6pnotb a ns1:Post ;
+    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>This page is for dream-related notices! Email us at hello@dreamnetworkjournal.com if you'd like to put something here. </p>
+"""^^xsd:string ;
+    ns1:itemId "bcpov6pnotb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Noticeboard and classifieds"^^xsd:string ;
+    ns1:profileImg "1.3-cover.jpg"^^xsd:string ;
+    ns1:urlSlug "noticeboard"^^xsd:string .
+
 ns1:bcpov6zfsra a ns1:Post ;
     ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
     ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
@@ -16871,16 +16880,6 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:name "Volume 32, issue 1: Group Dreaming"^^xsd:string ;
     ns1:profileImg "32.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
-
-ns1:bcpov6pnotb a ns1:Post ;
-    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>This page is for dream-related notices! Email us at hello@dreamnetworkjournal.com if you'd like to put something here. </p>
-"""^^xsd:string ;
-    ns1:itemId "bcpov6pnotb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Noticeboard and classifieds"^^xsd:string ;
-    ns1:profileImg "1.3-cover.jpg"^^xsd:string ;
-    ns1:urlSlug "noticeboard"^^xsd:string .
 
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>

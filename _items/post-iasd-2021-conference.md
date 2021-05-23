@@ -14,7 +14,7 @@ profileImg: post-bcpov6gabnot-0.jpg
 ---
 
 <a href="https://iasdconferences.org/2021/registration">
-<img src="../images/post-bcpov6gabnot-0.jpg" alt="IASD conference advertisement" width="300" height="auto"/>
+<img src="../images/post-bcpov6gabnot-0.jpg" alt="IASD conference advertisement" width="100%" height="auto"/>
 </a>
 
 Please join us, along with 5 world renowned keynote speakers and more than 130 presentations from over 100 presenters around the globe. 

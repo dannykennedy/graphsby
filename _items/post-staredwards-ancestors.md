@@ -6,7 +6,6 @@ name: "Ancestor Book Sculpture"
 tags:
   - hasTag: staredwards
   - hasAuthor: staredwards
-  - hasTag: noticeboard
   - hasTag: 29.3
 type: post
 urlSlug: "ancestor-book-sculpture"

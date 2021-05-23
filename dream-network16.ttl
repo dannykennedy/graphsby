@@ -11233,7 +11233,7 @@ ns1:bcpov6zfbowd a ns1:Post ;
 
 <p><img src="../images/post-bcpov6zfbowd-1.jpg" style="width: 300px; height: auto; margin: auto" alt="Masks on a beach"/></p>
 
-<div class="caption"><span>Recognising the Enemy</a>, by <a href="https://catherinekennedy.com.au" target="_blank">Catherine Kennedy</a></span></div>
+<div class="caption"><span><a href="../bcpov6kukcre">Recognising the Enemy</a>, by <a href="https://catherinekennedy.com.au" target="_blank">Catherine Kennedy</a></span></div>
 
 <p>Some time later, she told me another dream: she was at the beach playing with the sand. For her it was unthinkable to act as she did in the dream, carefree and happy. For me, it was the sign that she was ready to relax her pretensions of being what she was not. To close the process, I suggested that she honored that last dream and spent some time alone on the beach, playing with the sand. This way she clearly told her unconscious she’d gotten the message it previously sent to her with that doll dream.</p>
 """^^xsd:string ;

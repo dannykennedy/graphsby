@@ -92,7 +92,14 @@
 #mobile-hamburger {
     color: black;
     display: none;
+    font-size: 20px;
+    padding: 0px;
 }
+#mobile-navbar-close-btn {
+    font-size: 20px;
+    padding: 0px;
+}
+
 #mobile-navbar {
     color: black;
     display: none;

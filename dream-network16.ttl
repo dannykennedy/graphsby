@@ -984,6 +984,36 @@ ns1:bcpov6g282-3 a ns1:Post ;
     ns1:profileImg "28.2-3_cover.jpg"^^xsd:string ;
     ns1:urlSlug "ornabenshoshan-dnj-28-2_cover"^^xsd:string .
 
+ns1:bcpov6gabnot a ns1:Post ;
+    ns1:dateCreated "2021-03-28T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://iasdconferences.org/2021/registration"></p>
+
+<p><img src="../images/post-bcpov6gabnot-0.jpg" alt="IASD conference advertisement" width="300" height="auto"/></p>
+
+<p></a></p>
+
+<p>Please join us, along with 5 world renowned keynote speakers and more than 130 presentations from over 100 presenters around the globe. </p>
+
+<p>It is more than just a conference; even in its virtual format, it will be an extravaganza of fascinating presentations and special events. </p>
+
+<p>Everyone is welcome – whether you are a professional, a dreamworker, or just a curious or interested dreamer. </p>
+
+<p>The program features peer reviewed workshops, in a multidisciplinary program including the scientific, psychological, spiritual, artistic, healing, lucid and extraordinary, ethnic and cultural aspects of dreaming; and a lot of fun events including opening receptions, a virtual Dream Art Exhibition and a meet the artists reception, the annual PSI Dreaming Contest, and even a virtual gathering for the ever-popular costume parade and Dream Ball. </p>
+
+<p>This year’s featured tracks include Dreams and Ethnicity and Dreams and The Arts.</p>
+
+<p><a href="https://iasdconferences.org/2021/registration/">Registration</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3jean ;
+    ns1:hasTag ns1:bcphb2kq341,
+        ns1:bcphbq3jean,
+        ns1:bcpov6pnotb ;
+    ns1:itemId "bcpov6gabnot"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "2021 IASD Conference"^^xsd:string ;
+    ns1:profileImg "post-bcpov6gabnot-0.jpg"^^xsd:string ;
+    ns1:urlSlug "2021-iasd-conference"^^xsd:string .
+
 ns1:bcpov6gabout a ns1:Post ;
     ns1:dateCreated "2020-10-03T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/cover-tree-ferrimani.jpg" alt="cover image" width="500px" style="margin: auto;"/></p>
@@ -13210,6 +13240,24 @@ ns1:bcpov6zi341e a ns1:Post ;
     ns1:name "Editorial"^^xsd:string ;
     ns1:urlSlug "volume-34-issue-1-editorial-inoshi-denizen"^^xsd:string .
 
+ns1:bcpov6zi3ans a ns1:Post ;
+    ns1:dateCreated "2010-07-28T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zi3ans-0.jpg" alt="Set of scrolls in a carry frame" /></p>
+
+<p><em>“I am in a mining pit of Mount Antero. It somehow looks all paved and smoothed over. I sit down and right in front of me are some aquamarine crystals. I scoop them up and put them in my pack. Then I look up and see people coming through a doorway from the other side of the mountain all the way on top. They are tourists and have taken a walk up here. I go up there and get in line.”</em> </p>
+
+<p>This book/sculpture is the result of this dream. I believe the dream is a result of the previous night calling on my “healed ancestors” in my bloodline to assist me in my own healing of family issues.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3rste ;
+    ns1:hasTag ns1:bcphbq3rste,
+        ns1:bcphbyukqzw,
+        ns1:bcpov6pnotb ;
+    ns1:itemId "bcpov6zi3ans"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Ancestor Book Sculpture"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zi3ans-0.jpg"^^xsd:string ;
+    ns1:urlSlug "ancestor-book-sculpture"^^xsd:string .
+
 ns1:bcpov6zi3sec a ns1:Post ;
     ns1:dateCreated "2021-01-28T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Hello All!!!</p>
@@ -15677,16 +15725,6 @@ ns1:bcphbzhpgrg a ns1:Post ;
     ns1:profileImg "31.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.1"^^xsd:string .
 
-ns1:bcpov6pnotb a ns1:Post ;
-    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>This page is for dream-related notices! Email us at hello@dreamnetworkjournal.com if you'd like to put something here. </p>
-"""^^xsd:string ;
-    ns1:itemId "bcpov6pnotb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Noticeboard and classifieds"^^xsd:string ;
-    ns1:profileImg "1.3-cover.jpg"^^xsd:string ;
-    ns1:urlSlug "noticeboard"^^xsd:string .
-
 ns1:bcphb2eggje a ns1:Post ;
     ns1:coverImg "33.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2014-04-01T11:32:52"^^xsd:dateTime ;
@@ -16081,18 +16119,6 @@ ns1:bcphbq3rjbg a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jordi Borràs García"^^xsd:string ;
     ns1:profileImg "author_jordiborras.jpg"^^xsd:string .
-
-ns1:bcphbq3rste a ns1:User ;
-    ns1:coverImg "cover-author-star-edwards.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.starharp.com/" target="_blank">starharp.com</a></p>
-
-<p>Star Edwards has been a student of dreams and dream journaler for most of her life. In waking life she is harpist, artist and dancer. She has a wide repertoire of harp music and is available for event performances.  </p>
-"""^^xsd:string ;
-    ns1:handle "staredwards"^^xsd:string ;
-    ns1:itemId "bcphbq3rste"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Star Edwards"^^xsd:string ;
-    ns1:profileImg "author-star-edwards.jpg"^^xsd:string .
 
 ns1:bcphbqawohl a ns1:User ;
     ns1:coverImg "cover-author-jennifer-wohl.jpg"^^xsd:string ;
@@ -16846,6 +16872,16 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:profileImg "32.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
 
+ns1:bcpov6pnotb a ns1:Post ;
+    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>This page is for dream-related notices! Email us at hello@dreamnetworkjournal.com if you'd like to put something here. </p>
+"""^^xsd:string ;
+    ns1:itemId "bcpov6pnotb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Noticeboard and classifieds"^^xsd:string ;
+    ns1:profileImg "1.3-cover.jpg"^^xsd:string ;
+    ns1:urlSlug "noticeboard"^^xsd:string .
+
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>
 """^^xsd:string ;
@@ -17103,6 +17139,18 @@ ns1:bcphbq3rcwi a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Richard Wilkerson"^^xsd:string ;
     ns1:profileImg "author-richard-wilkerson.jpg"^^xsd:string .
+
+ns1:bcphbq3rste a ns1:User ;
+    ns1:coverImg "cover-author-star-edwards.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.starharp.com/" target="_blank">starharp.com</a></p>
+
+<p>Star Edwards has been a student of dreams and dream journaler for most of her life. In waking life she is harpist, artist and dancer. She has a wide repertoire of harp music and is available for event performances.  </p>
+"""^^xsd:string ;
+    ns1:handle "staredwards"^^xsd:string ;
+    ns1:itemId "bcphbq3rste"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Star Edwards"^^xsd:string ;
+    ns1:profileImg "author-star-edwards.jpg"^^xsd:string .
 
 ns1:bcphbq3ryan a ns1:User ;
     ns1:coverImg "cover-chris-ryan.jpg"^^xsd:string ;
@@ -17543,20 +17591,6 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.1"^^xsd:string .
 
-ns1:bcphbyukqzw a ns1:Post ;
-    ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf" download="">Download issue 29.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocknhzs ;
-    ns1:itemId "bcphbyukqzw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
-    ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "29.3"^^xsd:string .
-
 ns1:bcpov6pspec a ns1:Post ;
     ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Some of these publications were published by the Dream Network, others have been kindly offered to this site so you can download and enjoy them. All are fabulous!</p>
@@ -17691,6 +17725,20 @@ ns1:bcphbssmith a ns1:User ;
     ns1:name "Sandy Sela-Smith"^^xsd:string ;
     ns1:profileImg "author-sandy-sela-smith.jpg"^^xsd:string .
 
+ns1:bcphbyukqzw a ns1:Post ;
+    ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf" download="">Download issue 29.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocknhzs ;
+    ns1:itemId "bcphbyukqzw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
+    ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "29.3"^^xsd:string .
+
 ns1:bcpqn76e7n5 a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>
 """^^xsd:string ;
@@ -17730,19 +17778,6 @@ ns1:bcpqoaivzve a ns1:Post ;
     ns1:name "Volume 7"^^xsd:string ;
     ns1:profileImg "volume-7.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-7"^^xsd:string .
-
-ns1:bcphbq3jean a ns1:User ;
-    ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
-
-<p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
-
-<p>In 2008, <a href="../bcphbxxscsf/27.2">Volume 27 Issue 2 of the Dream Network Journal</a> paid tribute to Jean as well as Rita Dwyer, "Two Exceptional Women Working Vigilantly for Dreams and for Peace". </p>
-"""^^xsd:string ;
-    ns1:handle "jeancampbell"^^xsd:string ;
-    ns1:itemId "bcphbq3jean"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jean Campbell"^^xsd:string ;
-    ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
 
 ns1:bcphbq3norm a ns1:User ;
     ns1:coverImg "cover-author-rachelnorment.jpg"^^xsd:string ;
@@ -17983,6 +18018,19 @@ ns1:bcphbqvbird a ns1:User ;
     ns1:name "Kim Birdsong"^^xsd:string ;
     ns1:profileImg "author-kim-birdsong.jpg"^^xsd:string .
 
+ns1:bcphbq3jean a ns1:User ;
+    ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
+
+<p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
+
+<p>In 2008, <a href="../bcphbxxscsf/27.2">Volume 27 Issue 2 of the Dream Network Journal</a> paid tribute to Jean as well as Rita Dwyer, "Two Exceptional Women Working Vigilantly for Dreams and for Peace". </p>
+"""^^xsd:string ;
+    ns1:handle "jeancampbell"^^xsd:string ;
+    ns1:itemId "bcphbq3jean"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jean Campbell"^^xsd:string ;
+    ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
+
 ns1:bcphbqskoff a ns1:User ;
     ns1:coverImg "cover-author-deborahkoffchapin.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://touchdrawing.com/">touchdrawing.com</a></p>
@@ -18101,6 +18149,26 @@ ns1:bcphbqvreed a ns1:User ;
     ns1:name "Henry Reed"^^xsd:string ;
     ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
+ns1:bcphbqvstim a ns1:User ;
+    ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.billstimson.com/">billstimson.com</a></p>
+
+<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
+
+<p>Dr. William R. Stimson is the founding editor of the Dream Network. </p>
+
+<p>Now living in Taiwan, Dr. Stimson teaches the <a href="../@montagueullman">Montague Ullman</a> experiential dream group course at Tunghai University and at National Chi Nan University, leads free monthly all-day Ullman dream groups in Taipei and Taichung, and leads a weekly Wednesday afternoon dream group in the Counseling Center at Taiwan's National Chi Nan University.</p>
+
+<p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
+
+<p>His latest book, <a href="https://www.amazon.com/Glimpses-Beyond-Ego-Dreams-Nature/dp/B08F6RYH8W/ref=sr_1_1?dchild=1&amp;qid=1602155108&amp;refinements=p_27%3A+Ph.D.%5CcWilliam+R.+Stimson&amp;s=books&amp;sr=1-1&amp;text=William+R.+Stimson%2C+Ph.D.">Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature</a> is now available on Amazon. </p>
+"""^^xsd:string ;
+    ns1:handle "billstimson"^^xsd:string ;
+    ns1:itemId "bcphbqvstim"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "William R. Stimson"^^xsd:string ;
+    ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
+
 ns1:bcphb2kq341 a ns1:Post ;
     ns1:coverImg "arrival-to-the-third-heaven.jpg"^^xsd:string ;
     ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
@@ -18125,26 +18193,6 @@ ns1:bcphb2kq341 a ns1:Post ;
     ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
     ns1:profileImg "arrival-to-the-third-heaven.jpg"^^xsd:string ;
     ns1:urlSlug "34.1"^^xsd:string .
-
-ns1:bcphbqvstim a ns1:User ;
-    ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.billstimson.com/">billstimson.com</a></p>
-
-<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
-
-<p>Dr. William R. Stimson is the founding editor of the Dream Network. </p>
-
-<p>Now living in Taiwan, Dr. Stimson teaches the <a href="../@montagueullman">Montague Ullman</a> experiential dream group course at Tunghai University and at National Chi Nan University, leads free monthly all-day Ullman dream groups in Taipei and Taichung, and leads a weekly Wednesday afternoon dream group in the Counseling Center at Taiwan's National Chi Nan University.</p>
-
-<p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
-
-<p>His latest book, <a href="https://www.amazon.com/Glimpses-Beyond-Ego-Dreams-Nature/dp/B08F6RYH8W/ref=sr_1_1?dchild=1&amp;qid=1602155108&amp;refinements=p_27%3A+Ph.D.%5CcWilliam+R.+Stimson&amp;s=books&amp;sr=1-1&amp;text=William+R.+Stimson%2C+Ph.D.">Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature</a> is now available on Amazon. </p>
-"""^^xsd:string ;
-    ns1:handle "billstimson"^^xsd:string ;
-    ns1:itemId "bcphbqvstim"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "William R. Stimson"^^xsd:string ;
-    ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
 
 ns1:bcphbq3krip a ns1:User ;
     ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>

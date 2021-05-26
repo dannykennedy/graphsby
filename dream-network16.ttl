@@ -485,6 +485,16 @@ ns1:bcphbqdrrm2 a ns1:Post ;
     ns1:profileImg "12.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "12.1"^^xsd:string .
 
+ns1:bcphbqerish a ns1:User ;
+    ns1:coverImg "cover-author-suzannahart.jpg"^^xsd:string ;
+    ns1:description """<p>Suzanna Hart, M.A. (d. 2018), was a Bay Area Jungian counselor, artist and prolific cartoonist. She led dreamwork classes and Jungian discussion groups through Community Education in Marin County. Suzanna was part of the art/theater scene in San Francisco during the 1940s and 50s. Suzanna maintained an art studio on the Sausalito waterfront. Her detailed and whimsical paintings interweave dreams and mythology, bringing both to life.  She worked with other artists, painting masks and mobiles for the Sausalito Arts Festival.  She produced dozens of masterfully drawn dream-related cartoons showcasing her wry sense of humor.  They were published in Dream Network Journal, Dream Newzzz, and Dream Time.  Suzanna was a dedicated practitioner of Vipassana meditation. </p>
+"""^^xsd:string ;
+    ns1:handle "suzannahart"^^xsd:string ;
+    ns1:itemId "bcphbqerish"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Suzanna Hart"^^xsd:string ;
+    ns1:profileImg "author-suzannahart"^^xsd:string .
+
 ns1:bcphbqi5hzh a ns1:Post ;
     ns1:coverImg "12.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1993-04-01T11:32:52"^^xsd:dateTime ;

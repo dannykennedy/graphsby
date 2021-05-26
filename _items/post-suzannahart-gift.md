@@ -9,7 +9,7 @@ tags:
   - hasTag: 6.4
 type: post
 profileImg: post-bcpov6zd3dng-0.jpg
-urlSlug: "the-dreamwork-movement"
+urlSlug: "dreams-and-gifts"
 ---
 
 There are as many different kinds of dreams as there are kinds of gifts; or, there are as many different kinds of gifts as there are dreams—however you want to look at it. 

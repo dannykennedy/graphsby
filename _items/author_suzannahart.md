@@ -7,7 +7,7 @@ name: "Suzanna Hart"
 shortDescription: ""
 tags:
 date: 2015-03-24
-profileImg: author-suzannahart
+profileImg: author-suzannahart.jpg
 coverImg: cover-author-suzannahart.jpg
 ---
 

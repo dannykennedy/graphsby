@@ -4115,7 +4115,7 @@ ns1:bcpov6kcultu a ns1:Post ;
     ns1:urlSlug "when-we-become-a-dreaming-culture"^^xsd:string .
 
 ns1:bcpov6kdbf10 a ns1:Post ;
-    ns1:dateCreated "2021-04-02T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2021-05-11T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6krdbf9-0.jpg" alt="Cover of Dreams, Bones and the Future, by Russell Lockhart and Paco Mitchell" style="width: 100%; height: auto; margin: auto;"/></p>
 
 <p><em>This is the tenth in a series of excerpts from an ongoing dialogue between Russell Lockhart and Paco Mitchell.</em></p>
@@ -4242,7 +4242,7 @@ ns1:bcpov6kdbf10 a ns1:Post ;
     ns1:urlSlug "dreams-bones-and-the-future-10"^^xsd:string .
 
 ns1:bcpov6kdbf11 a ns1:Post ;
-    ns1:dateCreated "2021-04-03T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2021-05-13T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6krdbf9-0.jpg" alt="Cover of Dreams, Bones and the Future, by Russell Lockhart and Paco Mitchell" style="width: 100%; height: auto; margin: auto;"/></p>
 
 <p><em>This is the eleventh in a series of excerpts from an ongoing dialogue between Russell Lockhart and Paco Mitchell.</em></p>
@@ -6309,7 +6309,7 @@ Lies the greatest danger.
     ns1:urlSlug "dreams-bones-and-the-future-8"^^xsd:string .
 
 ns1:bcpov6krdbf9 a ns1:Post ;
-    ns1:dateCreated "2021-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2021-05-10T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6krdbf9-0.jpg" alt="Cover of Dreams, Bones and the Future, by Russell Lockhart and Paco Mitchell" style="width: 100%; height: auto; margin: auto;"/></p>
 
 <p><em>This is the ninth in a series of excerpts from an ongoing dialogue between Russell Lockhart and Paco Mitchell.</em></p>
@@ -6974,8 +6974,7 @@ ns1:bcpov6kukck2 a ns1:Post ;
 <p><em>Pearls</em> was painted in 2013, but has become somewhat prophetic. Essentially it talks about fear and of a kind of a free-floating anxiety about things material and immaterial: of a future that may be no future at all. But even then, there was an intuitive sense of an unseen enemy that might be hiding in every corner, on every surface or in the air we breathe… Battles aplenty over land and oil. Missiles and bombs and terrorist plots. But suddenly no defence against a tiny invisible foe that is moving and growing more quickly than we are able to comprehend. </p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3rbck ;
-    ns1:hasTag ns1:bcphb2kq341,
-        ns1:bcphbq3rbck ;
+    ns1:hasTag ns1:bcphbq3rbck ;
     ns1:itemId "bcpov6kukck2"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Pearls"^^xsd:string ;
@@ -9686,7 +9685,7 @@ ns1:bcpov6wbyg5 a ns1:Post ;
     ns1:urlSlug "welcome-to-the-magic-theater"^^xsd:string .
 
 ns1:bcpov6z0341e a ns1:Post ;
-    ns1:dateCreated "2021-04-29T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2021-05-18T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/ro-waterfall2137.jpg" width="200" height="auto" alt="Roberta standing under a waterfall"/></p>
 
 <p><!--nopreview--><div class="caption">Waterfall in Roberta's back yard in Utah, 2016. The year that the DNJ went into hibernation.</div><!--/nopreview--></p>
@@ -9945,7 +9944,7 @@ ns1:bcpov6zchaot a ns1:Post ;
     ns1:urlSlug "chaotic-attractors-in-myth-stories-told-by-the-kariri-xuco-indians"^^xsd:string .
 
 ns1:bcpov6zd341e a ns1:Post ;
-    ns1:dateCreated "2021-04-27T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2021-05-16T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zd341e-0.jpg" alt="Bridge over Wissahickon Creek" /></p>
 
 <p><!--nopreview--><div class="caption"><span>Bridge over Wissahickon Creek, Philadelphia, on my way to a dream share</span></div><!--/nopreview--></p>
@@ -11374,7 +11373,7 @@ ns1:bcpov6zfbost a ns1:Post ;
     ns1:urlSlug "a-precognitive-dream-and-meeting-an-extra-ordinary-human-being"^^xsd:string .
 
 ns1:bcpov6zfbowd a ns1:Post ;
-    ns1:dateCreated "2021-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2021-05-14T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><strong><em>Exploring our dreams helps us discover essential parts of ourselves and outgrow old patterns of thinking. They bring images that remind us that we have an innate ability to transform our lives.</em></strong></p>
 
 <p>"So, if I tell you my dream, you'll interpret it for me, won't you?”. When Teresa came to my office, she was having great difficulty relating to her new coworker. "Of course not," I replied. That answer puzzled her. "But when we explore the dream," I continued, "you will be able to tell me what it means to you." Smiling, as if she didn't quite believe me, she closed her eyes as I suggested and, in the present tense - as if reliving the experience - she began to narrate her nightmare. It included the image of a plastic doll, dismembered, on the table in her office. It was the only dream she was able to remember at the time, and she had it, interestingly enough, the night before our first appointment.</p>
@@ -11409,10 +11408,11 @@ ns1:bcpov6zfbowd a ns1:Post ;
     ns1:itemId "bcpov6zfbowd"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Why Dreamwork"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zfbowd-1.jpg"^^xsd:string ;
     ns1:urlSlug "why-dreamwork"^^xsd:string .
 
 ns1:bcpov6zfbsbr a ns1:Post ;
-    ns1:dateCreated "2021-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2021-05-12T12:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="https://www.goodreads.com/book/show/54774415-glimpses-from-beyond-the-ego"></p>
 
 <p><img src="../images/post-bcpov6zfbsbr-0.jpg" width="300px" height="auto" alt="Notes from a Dreamer on Dreaming"/></p>
@@ -12645,7 +12645,7 @@ ns1:bcpov6zfnetw a ns1:Post ;
     ns1:urlSlug "uncovering-the-network"^^xsd:string .
 
 ns1:bcpov6zfnhfc a ns1:Post ;
-    ns1:dateCreated "2021-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2021-05-15T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zfnhfc-0.jpg" height="auto" alt="Men with gas masks" style="width: 350px; margin: auto;"/></p>
 
 <p><!--nopreview--><div class="caption"><span>'Pearls', by <a href="https://catherinekennedy.com.au/">Catherine Kennedy</a></span></div><!--/nopreview--> </p>
@@ -12670,6 +12670,7 @@ ns1:bcpov6zfnhfc a ns1:Post ;
     ns1:itemId "bcpov6zfnhfc"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Nightmare Help for Children"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zfnhfc-0.jpg"^^xsd:string ;
     ns1:urlSlug "nightmare-help-for-children"^^xsd:string .
 
 ns1:bcpov6zfoldd a ns1:Post ;
@@ -13335,7 +13336,7 @@ ns1:bcpov6zhoffr a ns1:Post ;
     ns1:urlSlug "weaving-dreams-into-the-classroom-book-review"^^xsd:string .
 
 ns1:bcpov6zi341e a ns1:Post ;
-    ns1:dateCreated "2021-04-28T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2021-05-17T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>It was an unremarkable and doubtless chilly midweek winter evening in January 2019 when our regular <a href="https://eastwest.works/Intui.html#content4-2p">Dream Share</a> met in midtown E of Manhattan just a block away from the United Nations, and a kangaroo from abroad who was studying computer science in Philadelphia hopped in. A few hours of later we sent him packing with a random edition of the Dream Network Journal pulled off the shelf, and made due diligence in a requisite email follow up. </p>
 
 <p><img src="../images/post-bcpov6zi341e-3.jpg" alt="Dan, Inoshi and Ana selfie" /></p>
@@ -16379,6 +16380,8 @@ ns1:bcphbqvicjs a ns1:User ;
 ns1:bcphbqviden a ns1:User ;
     ns1:coverImg "cover-author-inoshi-denizen.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://eastwest.works/Inoshi.html">eastwest.works</a></p>
+
+<p>EastWest Works <a href="https://eastwest.works/lists/?p=subscribe">newsletter</a></p>
 
 <p>Having been born and raised in the Pacific Rim city and area of Seattle, Inoshi grew up exposed to a variety of people and cultures, including a Western education ending with a Master of Arts degree. At midlife he finds that somehow he’s wrested out over half his tally of years in New York City, and along the way to have become a student of the Dreaming. </p>
 

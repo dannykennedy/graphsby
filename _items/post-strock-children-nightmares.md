@@ -1,5 +1,5 @@
 ---
-dateCreated: '2021-01-01T11:32:52'
+dateCreated: '2021-05-15T11:32:52'
 itemId: bcpov6zfnhfc
 layout: post
 name: Nightmare Help for Children
@@ -9,6 +9,7 @@ tags:
 - hasTag: 34.1
 type: post
 urlSlug: nightmare-help-for-children
+profileImg: post-bcpov6zfnhfc-0.jpg
 ---
 
 <img src="../images/post-bcpov6zfnhfc-0.jpg" height="auto" alt="Men with gas masks" style="width: 350px; margin: auto;"/>

@@ -1,5 +1,5 @@
 ---
-dateCreated: "2021-01-01T11:32:52"
+dateCreated: "2021-05-12T12:32:52"
 itemId: bcpov6zfbsbr
 layout: post
 name: "Book Review: Glimpses From Beyond The Ego: Dreams, Zen, & Nature by Bill Stimson"

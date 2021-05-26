@@ -1,5 +1,5 @@
 ---
-dateCreated: "2021-04-01T11:32:52"
+dateCreated: "2021-05-10T11:32:52"
 itemId: bcpov6krdbf9
 layout: post
 name: "Dreams, Bones and the Future: Part 9 - Eros, Thanatos and Freud's Religion"

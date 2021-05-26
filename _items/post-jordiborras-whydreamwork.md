@@ -1,5 +1,5 @@
 ---
-dateCreated: '2021-01-01T11:32:52'
+dateCreated: '2021-05-14T11:32:52'
 itemId: bcpov6zfbowd
 layout: post
 name: "Why Dreamwork"
@@ -9,6 +9,7 @@ tags:
 - hasTag: 34.1
 type: post
 urlSlug: why-dreamwork
+profileImg: post-bcpov6zfbowd-1.jpg
 ---
 
 ***Exploring our dreams helps us discover essential parts of ourselves and outgrow old patterns of thinking. They bring images that remind us that we have an innate ability to transform our lives.***

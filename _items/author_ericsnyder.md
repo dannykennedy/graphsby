@@ -11,4 +11,8 @@ profileImg: author-ericsnyder.jpg
 coverImg: cover-author-ericsnyder.jpg
 ---
 
-Eric Snyder is a visionary artist and talented chef who lives and works in San Francisco. His writing and art appeared in many issues of the Dream Network, and for many years he was a registered regional dreamworking contact in the back pages of the journal. 
+Eric Snyder is an artist, visionary, and culinarian. After studying art in North Carolina, he moved to the San Francisco Bay Area mentoring under renowned painters Bill Martin, Helvi Wamsley and Charles Becker. Working with master chefs in private clubs and restaurants he learned the art of fine cuisine.
+
+Snyder’s lifelong interest in dreams includes fifty years of dream journaling, published articles, and conference presentations. Leading the Bay Area Dreamworkers Group, he promoted dreamwork to the larger community, published the quarterly “Dream Newzzz”, and facilitated formation of peer dream sharing groups. 
+
+Snyder and his wife live on a vintage apple orchard in Sebastopol, California where they farm organic fruits and vegetables. He competes internationally in kung fu and tai chi and is a former world champion in tai chi sword.

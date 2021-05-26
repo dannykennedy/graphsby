@@ -1512,6 +1512,23 @@ ns1:bcpov6gii334 a ns1:Post ;
     ns1:profileImg "33.4_cover.jpg"^^xsd:string ;
     ns1:urlSlug "deborahkoffchapin-dnj-33-4_cover"^^xsd:string .
 
+ns1:bcpov6giia3h a ns1:Post ;
+    ns1:dateCreated "2018-06-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/arrival-to-the-third-heaven.jpg" width="auto" height="auto"/></p>
+
+<p><em>"Arrival to the Third Heaven" (2018) by Orna Ben-Shoshan</em></p>
+
+<p>This painting was featured on the cover of Volume 34, #1 of the Dream Network Journal.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqsorna ;
+    ns1:hasTag ns1:bcphb2kq341,
+        ns1:bcphbqsorna ;
+    ns1:itemId "bcpov6giia3h"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Arrival to the Third Heaven"^^xsd:string ;
+    ns1:profileImg "arrival-to-the-third-heaven.jpg"^^xsd:string ;
+    ns1:urlSlug "ornabenshoshan-arrival-to-the-third-heaven"^^xsd:string .
+
 ns1:bcpov6gkrev2 a ns1:Post ;
     ns1:dateCreated "2020-08-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6grkrev-0.jpg" width="200px" height="auto"/></p>
@@ -18216,24 +18233,6 @@ ns1:bcphbq3ossa a ns1:User ;
     ns1:name "Roberta Ossana"^^xsd:string ;
     ns1:profileImg "roberta_ossana.png"^^xsd:string .
 
-ns1:bcphbqsorna a ns1:User ;
-    ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://www.ben-shoshan.com/en/">ben-shoshan.com</a></p>
-
-<p>Having an Orna Ben-Shoshan painting on your wall is like having a window to another dimension. Orna’s artwork involves opening her consciousness and channeling images that come to her from a different realm of existence. </p>
-
-<p>All of her paintings are completed in her mind before she transfers them onto the canvas. Her metaphysical work infuses deep spiritual experience with subtle humor. </p>
-
-<p>Orna Ben-Shoshan has been an autodidact artist for the past 30 years. Her artwork has been exhibited in numerous locations in the USA, Europe and Israel. </p>
-
-<p>Her major motivation as a visual artist is to share her visions with others to expand their consciousness and inspire new ways of thinking. Orna’s life-long interest in metaphysics and mysticism has led her to study the Kabbalah and alternative philosophies. She shares her wide and diverse knowledge in articles and short essays that are published in magazines worldwide alongside her paintings.</p>
-"""^^xsd:string ;
-    ns1:handle "ornabenshoshan"^^xsd:string ;
-    ns1:itemId "bcphbqsorna"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Orna Ben-Shoshan"^^xsd:string ;
-    ns1:profileImg "author-ornabenshoshan.jpg"^^xsd:string .
-
 ns1:bcpqn72unjj a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>
 """^^xsd:string ;
@@ -18266,6 +18265,24 @@ ns1:bcphbqvreed a ns1:User ;
     ns1:name "Henry Reed"^^xsd:string ;
     ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
+ns1:bcphbqsorna a ns1:User ;
+    ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://www.ben-shoshan.com/en/">ben-shoshan.com</a></p>
+
+<p>Having an Orna Ben-Shoshan painting on your wall is like having a window to another dimension. Orna’s artwork involves opening her consciousness and channeling images that come to her from a different realm of existence. </p>
+
+<p>All of her paintings are completed in her mind before she transfers them onto the canvas. Her metaphysical work infuses deep spiritual experience with subtle humor. </p>
+
+<p>Orna Ben-Shoshan has been an autodidact artist for the past 30 years. Her artwork has been exhibited in numerous locations in the USA, Europe and Israel. </p>
+
+<p>Her major motivation as a visual artist is to share her visions with others to expand their consciousness and inspire new ways of thinking. Orna’s life-long interest in metaphysics and mysticism has led her to study the Kabbalah and alternative philosophies. She shares her wide and diverse knowledge in articles and short essays that are published in magazines worldwide alongside her paintings.</p>
+"""^^xsd:string ;
+    ns1:handle "ornabenshoshan"^^xsd:string ;
+    ns1:itemId "bcphbqsorna"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Orna Ben-Shoshan"^^xsd:string ;
+    ns1:profileImg "author-ornabenshoshan.jpg"^^xsd:string .
+
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.billstimson.com/">billstimson.com</a></p>
@@ -18285,31 +18302,6 @@ ns1:bcphbqvstim a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "William R. Stimson"^^xsd:string ;
     ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
-
-ns1:bcphb2kq341 a ns1:Post ;
-    ns1:coverImg "arrival-to-the-third-heaven.jpg"^^xsd:string ;
-    ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>The Dream Network has arisen again from five years of hibernation, and from the midst of a pandemic. We think there's never been a better time for a popular, eclectic journal of dreaming. But to quote <a href="../@billstimson">Bill Stimson</a>, the founder of the network: </p>
-
-<blockquote>
-  <p>The Dream Network is not the publication; the enterprise proper isn't a publishing one. To speak the truth of what the Dream Network is about for us is to find our myth, and where else but among our dreams? It is for us to use our dreams in a way that enables us to come together honestly and deeply... People sense this somehow and so they've helped the energy and unfoldment move forward.</p>
-</blockquote>
-
-<p>In the spirit of that statement, we've added some more networked features to the site. You can see tabs for Dream Groups and notices above. If you'd like to put your own group, project, event or anything else there, <a href="mailto:hello@dreamnetworkjournal.com">let us know</a>. </p>
-
-<p>This is a tentative rebirth, the first new collection of articles and art, like a fresh sprout from the earth. But it's filled with gems. Some pieces, like Arthur Strock's discussion of children's nightmares, reference recent events like the pandemic surrounding us, others look to timeless and archetypal themes. Paco Mitchell and Russell Lockhart's latest installation of the series 'Dreams, Bones and the Future', do both. </p>
-
-<p>Enjoy the new fruits of this network at your leisure. </p>
-
-<p><a href="../@inoshi">Inoshi</a>, <a href="../@dan">Dan</a> and <a href="../@robertaossana">Roberta</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj ;
-    ns1:itemId "bcphb2kq341"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
-    ns1:profileImg "arrival-to-the-third-heaven.jpg"^^xsd:string ;
-    ns1:urlSlug "34.1"^^xsd:string .
 
 ns1:bcphbq3krip a ns1:User ;
     ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
@@ -18331,6 +18323,33 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dr. Stanley Krippner"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
+
+ns1:bcphb2kq341 a ns1:Post ;
+    ns1:coverImg "arrival-to-the-third-heaven.jpg"^^xsd:string ;
+    ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>The Dream Network has arisen again from five years of hibernation, and from the midst of a pandemic. We think there's never been a better time for a popular, eclectic journal of dreaming. But to quote <a href="../@billstimson">Bill Stimson</a>, the founder of the network: </p>
+
+<blockquote>
+  <p>The Dream Network is not the publication; the enterprise proper isn't a publishing one. To speak the truth of what the Dream Network is about for us is to find our myth, and where else but among our dreams? It is for us to use our dreams in a way that enables us to come together honestly and deeply... People sense this somehow and so they've helped the energy and unfoldment move forward.</p>
+</blockquote>
+
+<p>In the spirit of that statement, we've added some more networked features to the site. You can see tabs for Dream Groups and notices above. If you'd like to put your own group, project, event or anything else there, <a href="mailto:hello@dreamnetworkjournal.com">let us know</a>. </p>
+
+<p>This is a tentative rebirth, the first new collection of articles and art, like a fresh sprout from the earth. But it's filled with gems. Some pieces, like Arthur Strock's discussion of children's nightmares, reference recent events like the pandemic surrounding us, others look to timeless and archetypal themes. Paco Mitchell and Russell Lockhart's latest installation of the series 'Dreams, Bones and the Future', do both. </p>
+
+<p>Enjoy the new fruits of this network at your leisure. </p>
+
+<p><a href="../@inoshi">Inoshi</a>, <a href="../@dan">Dan</a> and <a href="../@robertaossana">Roberta</a></p>
+
+<p>Cover image: <a href="../@ornabenshoshan">Orna Ben-Shoshan</a>, <a href="../bcpov6giia3h/ornabenshoshan-arrival-to-the-third-heaven">'Arrival to the Third Heaven'</a>. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj ;
+    ns1:itemId "bcphb2kq341"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
+    ns1:profileImg "arrival-to-the-third-heaven.jpg"^^xsd:string ;
+    ns1:urlSlug "34.1"^^xsd:string .
 
 ns1:bcphbqawtay a ns1:User ;
     ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;

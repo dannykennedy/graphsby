@@ -16393,7 +16393,7 @@ ns1:bcphbqviden a ns1:User ;
     ns1:itemId "bcphbqviden"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Inoshi"^^xsd:string ;
-    ns1:profileImg "author-inoshi-denizen.jpg"^^xsd:string .
+    ns1:profileImg "author-inoshi-2.jpg"^^xsd:string .
 
 ns1:bcphbqvmack a ns1:User ;
     ns1:coverImg "cover-author-christamackinnon.jpg"^^xsd:string ;

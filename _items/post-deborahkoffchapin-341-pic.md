@@ -9,8 +9,8 @@ tags:
  - hasTag: 34.1
 type: post
 urlSlug: "touch-drawing"
-profileImg: image-bcpov6gid34p-0.jpg
+profileImg: image-bcpov6gid34p-1.jpg
 ---
 
-<img src="../images/image-bcpov6gid34p-0.jpg" width="auto" height="auto"/>
-*Touch Drawing by Deborah Koff Chapin*
+<img src="../images/image-bcpov6gid34p-1.jpg" width="auto" height="auto"/>
+<div class="caption"><span>Touch Drawing selected from an <a href="https://touchdrawing.com/gallery/innerportraits/" target="_blank">Inner Portrait</a> by Deborah Koff-Chapin</span></div>

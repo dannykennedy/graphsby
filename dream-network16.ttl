@@ -1308,9 +1308,9 @@ ns1:bcpov6ghelev a ns1:Post ;
 
 ns1:bcpov6gid34p a ns1:Post ;
     ns1:dateCreated "2018-06-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/image-bcpov6gid34p-0.jpg" width="auto" height="auto"/></p>
+    ns1:description """<p><img src="../images/image-bcpov6gid34p-1.jpg" width="auto" height="auto"/></p>
 
-<p><em>Touch Drawing by Deborah Koff Chapin</em></p>
+<div class="caption"><span>Touch Drawing selected from an <a href="https://touchdrawing.com/gallery/innerportraits/" target="_blank">Inner Portrait</a> by Deborah Koff-Chapin</span></div>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqskoff ;
     ns1:hasTag ns1:bcphb2kq341,
@@ -1318,7 +1318,7 @@ ns1:bcpov6gid34p a ns1:Post ;
     ns1:itemId "bcpov6gid34p"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Touch Drawing"^^xsd:string ;
-    ns1:profileImg "image-bcpov6gid34p-0.jpg"^^xsd:string ;
+    ns1:profileImg "image-bcpov6gid34p-1.jpg"^^xsd:string ;
     ns1:urlSlug "touch-drawing"^^xsd:string .
 
 ns1:bcpov6gii224 a ns1:Post ;
@@ -18343,7 +18343,7 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
 
 ns1:bcphb2kq341 a ns1:Post ;
-    ns1:coverImg "image-bcpov6gid34p-0.jpg"^^xsd:string ;
+    ns1:coverImg "image-bcpov6gid34p-1.jpg"^^xsd:string ;
     ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>The Dream Network has arisen again from five years of hibernation, and from the midst of a pandemic. We think there's never been a better time for a popular, eclectic journal of dreaming. But to quote <a href="../@billstimson">Bill Stimson</a>, the founder of the network: </p>
 
@@ -18363,7 +18363,7 @@ ns1:bcphb2kq341 a ns1:Post ;
 
 <p>Cover image: <a href="../@ornabenshoshan">Orna Ben-Shoshan</a>, <a href="../bcpov6giia3h/ornabenshoshan-arrival-to-the-third-heaven">'Arrival to the Third Heaven'</a>. </p>
 
-<p>Inner cover: Touch Drawing by <a href="../@deborahkoffchapin">Deborah Koff-Chapin</a></p>
+<p>Inner cover: Touch Drawing selected from an <a href="https://touchdrawing.com/gallery/innerportraits/">Inner Portrait</a> by <a href="../@deborahkoffchapin">Deborah Koff-Chapin</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj ;

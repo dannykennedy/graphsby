@@ -10057,7 +10057,7 @@ ns1:bcpov6zd3dng a ns1:Post ;
     ns1:urlSlug "dreams-and-gifts"^^xsd:string .
 
 ns1:bcpov6zd3skr a ns1:Post ;
-    ns1:dateCreated "2021-03-16T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2021-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="https://www.goodreads.com/book/show/52693989-understanding-suicide-s-allure"></p>
 
 <p><img src="../images/post-bcpov6zd3skr-0.jpg" alt="book cover" width="300" height="auto"/></p>
@@ -18095,7 +18095,7 @@ ns1:bcphbq3rbck a ns1:User ;
 
 ns1:bcphbqbeldo a ns1:User ;
     ns1:coverImg "cover-author-jayebeldo.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://theartguardian.blogspot.com/">theartguardian.blogspot.com</a></p>
+    ns1:description """<p>Website: <a href="https://medium.com/@tracehints">medium.com/@tracehints</a></p>
 
 <p>Jaye B is a writer, musician and artist. His art criticism has appeared in Art Paper, New North Artscape, Art Muscle, Northfield Magazine and elsewhere. His articles have also appeared in City Pages, Twin Cities Reader, Mysteries Magazine, Fahrenheit San Diego, High Plains Reader, New Dawn and Rain Taxi. He has appeared on BBC Radio, WGN Chicago, WLW Cincinnati and elsewhere in the mediasphere to discuss his work.</p>
 """^^xsd:string ;
@@ -18401,7 +18401,7 @@ ns1:bcphb2kq341 a ns1:Post ;
 
 <p>In the spirit of that statement, we've added some more networked features to the site. You can see tabs for Dream Groups and notices above. If you'd like to put your own group, project, event or anything else there, <a href="mailto:hello@dreamnetworkjournal.com">let us know</a>. </p>
 
-<p>This is a tentative rebirth, the first new collection of articles and art, like a fresh sprout from the earth. But it's filled with gems. Some pieces, like Arthur Strock's discussion of children's nightmares, reference recent events like the pandemic surrounding us, others look to timeless and archetypal themes. Paco Mitchell and Russell Lockhart's latest installation of the series 'Dreams, Bones and the Future', do both. </p>
+<p>This is a tentative rebirth, the first new collection of articles and art, like a fresh sprout from the earth. But it's filled with gems. Some pieces, like Arthur Strock's discussion of children's nightmares, reference recent events like the pandemic surrounding us, others look to timeless and archetypal themes. Paco Mitchell and Russell Lockhart's latest installations in the series 'Dreams, Bones and the Future', do both. </p>
 
 <p>Enjoy the new fruits of this network at your leisure. </p>
 
@@ -18409,7 +18409,7 @@ ns1:bcphb2kq341 a ns1:Post ;
 
 <p><img src="../images/arrival-to-the-third-heaven.jpg" width="300px" height="auto"/></p>
 
-<p>Cover image: <a href="../@ornabenshoshan">Orna Ben-Shoshan</a>, <a href="../bcpov6giia3h/ornabenshoshan-arrival-to-the-third-heaven">'Arrival to the Third Heaven'</a>. </p>
+<p>Cover image: <a href="../@ornabenshoshan">Orna Ben-Shoshan</a>, 'Arrival to the Third Heaven' (2018). </p>
 
 <p>Inner cover: Touch Drawing selected from an <a href="https://touchdrawing.com/gallery/innerportraits/">Inner Portrait</a> by <a href="../@deborahkoffchapin">Deborah Koff-Chapin</a></p>
 """^^xsd:string ;

@@ -11428,7 +11428,7 @@ ns1:bcpov6zfbowd a ns1:Post ;
 
 <p><img src="../images/post-bcpov6zfbowd-0.jpg" style="width: 500px; height: auto; margin: auto" alt="Doll, umbrella and young girl"/></p>
 
-<div class="caption"><span>Weatherman (detail)</a>, by <a href="https://catherinekennedy.com.au" target="_blank">Catherine Kennedy</a></span></div>
+<div class="caption"><span>Weatherman (detail)</a>, by <a href="../@catherinekennedy" target="_blank">Catherine Kennedy</a></span></div>
 
 <p>Teresa didn't remember sharing her dreams with anyone, so why pay attention to them? Our culture, skeptical of their possible meaning or stunned by their complexity, has long trivialized these nocturnal experiences. "It's just a dream," we tell our children when they wake up distressed during the night, hoping that they will quickly forget what frightened them. After all, we usually don’t like to think about things we don’t understand—things which for that very reason frightens us; those strange stories, sometimes scary, usually disconcerting, that occur every time we go to sleep. And not just once, but several times: in the course of a night, we dream between four and six times. Despite this, there are many people who, like Teresa, say they don’t remember their dreams, except for some nightmares that, they argue, they would do better to forget quickly. However, remembering these deeply unpleasant dream experiences can be of great help, because, although they don’t seem to favor our mental health, nightmares are a message, a cry from our psyche that’s asking us to listen to ourselves and realize that there is something going on that we should pay attention to. </p>
 
@@ -11438,7 +11438,7 @@ ns1:bcpov6zfbowd a ns1:Post ;
 
 <p><img src="../images/post-bcpov6zfbowd-2.jpg" style="width: 500px; height: auto; margin: auto" alt="Dollhouse with clock"/></p>
 
-<div class="caption"><span>Weatherhouse</a>, by <a href="https://catherinekennedy.com.au" target="_blank">Catherine Kennedy</a></span></div> 
+<div class="caption"><span>Weatherhouse</a>, by <a href="../@catherinekennedy" target="_blank">Catherine Kennedy</a></span></div> 
 
 <p>When Teresa associated the broken doll in her dream with that memory of her childhood, she felt that something in her was released. It is what we call the “eureka -or aha- moment”, the instant when the person understands what the dream is referring to. As I had warned her, it was she herself who would finally find meaning in her nightmare. Other people's suggestions may be interesting, but ultimately only the dreamer can say with certainty what his/her dream means. No one has the right to prevent him/her from experiencing the "eureka moment" of discovery. Although a psychologist who knows the terrain can help you with techniques and good questions, it will be the dreamer themselves who will eventually unravel the dream, link it to waking life, or recognize what issue it brings them in contact with. For this reason, the popular dictionaries of dream symbols are, to say the least, unreliable. In reality, when we explore a dream in search of its meaning, what we are doing is selecting one of many possible meanings. All dreams have multiple layers of meaning, all of which are important. In fact, their images can symbolize different things at the same time. For this reason, I don’t usually speak of discovering the meaning but of building it, since, depending on the maturity of our gaze, our present capacities or the vital area that concerns us, we will tend to explore one or another layer of the dream. It may refer, for example, to the dreamer's relationship with money, to their creativity, to their sexuality, it may be referring to their physical health, to their spirituality.... And it may allude to these or other themes at the same time, so that the dream makes a portrait of the relationship underlying those different aspects, one that we often don’t see clearly in wakefulness. Continuing with Teresa's story, her dream allowed her to see the connection between a social relationship (with her co-worker), a familial one (the one she’d had, and still has, with her sister) and a personal psychological wound. Frequently, the symbols of our dreams refer to elements of our wakefulness and also to internal characteristics of our psyche. Teresa's doll was one of these cases: it was a metaphor of how she had felt as a child. When she saw that her father - always from the perspective of a child who felt that she was daddy's "doll" - paid more attention to her sister than to her, jealousy invaded her. </p>
 
@@ -11446,7 +11446,7 @@ ns1:bcpov6zfbowd a ns1:Post ;
 
 <p><img src="../images/post-bcpov6zfbowd-1.jpg" style="width: 300px; height: auto; margin: auto" alt="Masks on a beach"/></p>
 
-<div class="caption"><span><a href="../bcpov6kukcre">Recognising the Enemy</a>, by <a href="https://catherinekennedy.com.au" target="_blank">Catherine Kennedy</a></span></div>
+<div class="caption"><span><a href="../bcpov6kukcre">Recognising the Enemy</a>, by <a href="../@catherinekennedy" target="_blank">Catherine Kennedy</a></span></div>
 
 <p>Some time later, she told me another dream: she was at the beach playing with the sand. For her it was unthinkable to act as she did in the dream, carefree and happy. For me, it was the sign that she was ready to relax her pretensions of being what she was not. To close the process, I suggested that she honored that last dream and spent some time alone on the beach, playing with the sand. This way she clearly told her unconscious she’d gotten the message it previously sent to her with that doll dream.</p>
 """^^xsd:string ;
@@ -12696,7 +12696,7 @@ ns1:bcpov6zfnhfc a ns1:Post ;
     ns1:dateCreated "2021-05-15T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zfnhfc-0.jpg" height="auto" alt="Men with gas masks" style="width: 350px; margin: auto;"/></p>
 
-<p><!--nopreview--><div class="caption"><span>'Pearls', by <a href="https://catherinekennedy.com.au/">Catherine Kennedy</a></span></div><!--/nopreview--> </p>
+<p><!--nopreview--><div class="caption"><span>'Pearls', by <a href="../@catherinekennedy">Catherine Kennedy</a></span></div><!--/nopreview--> </p>
 
 <p><strong><em>Children are having nightmares related to the coronavirus. Children cannot fully escape from the relentless, graphic stories in the media about the inability to breathe, body bags, needles and 500,000 dead. These stories along with the anxieties of the adults around them get transformed into terrifying dreams containing horrific monsters. We need to listen to those nightmares. We need to avoid the old standard attempts at comforting children by telling them "Don't worry, it was just a dream." Such comments do not work!</em></strong></p>
 
@@ -17446,9 +17446,9 @@ ns1:bcphbqvidan a ns1:User ;
     ns1:coverImg "cover-author-dan-kennedy.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://dannykennedy.co/">dannykennedy.co</a></p>
 
-<p>I'm a programmer, artist and long time dreamer. I started a dream journal at age 11 and haven't ever thought to stop. I studied Arts and Fine Arts at the University of Sydney, and worked and volunteered a few years in the Northern Territory, mostly buying and documenting work for <a href="https://injalak.com/" target="_blank">Injalak Arts</a>. I've also worked as a copywriter and blog editor for <a href="https://www.canva.com/" target="_blank">Canva</a>. </p>
+<p>I'm a programmer, artist and long time dreamer. I started a dream journal at age 11 and haven't ever thought to stop. I studied Arts and Fine Arts in Sydney, and worked in the arts for a few  years, including a stint at <a href="https://injalak.com/" target="_blank">Injalak Arts</a> in the Northern Territory (I'm still helping with a <a href="https://www.njamed.com/" target="_blank">dictionary of the Kunwinjku language</a>). </p>
 
-<p>Somehow I discovered an interest in programming, and am now a developer based in Sydney, making sites such as this fabulous one in my spare time! Currently working with <a href="../@inoshi">Inoshi</a> and <a href="../@robertaossana">Roberta Ossana</a> to bring back the Dream Network.  </p>
+<p>I discovered an interest in programming, and am now a developer based in Sydney, making many sites such as this fabulous one in my spare time! Currently working with <a href="../@inoshi">Inoshi</a> and <a href="../@robertaossana">Roberta Ossana</a> to bring back the Dream Network.  </p>
 """^^xsd:string ;
     ns1:handle "dan"^^xsd:string ;
     ns1:itemId "bcphbqvidan"^^xsd:string ;

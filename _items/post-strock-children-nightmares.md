@@ -13,7 +13,7 @@ profileImg: post-bcpov6zfnhfc-0.jpg
 ---
 
 <img src="../images/post-bcpov6zfnhfc-0.jpg" height="auto" alt="Men with gas masks" style="width: 350px; margin: auto;"/>
-<!--nopreview--><div class="caption"><span>'Pearls', by <a href="../@catherinekennedy">Catherine Kennedy</a></span></div><!--/nopreview--> 
+<!--nopreview--><div class="caption"><span><a href="../bcpov6kukck2/pearls" target="_blank">'Pearls'</a>, by <a href="../@catherinekennedy">Catherine Kennedy</a></span></div><!--/nopreview--> 
 
 ***Children are having nightmares related to the coronavirus. Children cannot fully escape from the relentless, graphic stories in the media about the inability to breathe, body bags, needles and 500,000 dead. These stories along with the anxieties of the adults around them get transformed into terrifying dreams containing horrific monsters. We need to listen to those nightmares. We need to avoid the old standard attempts at comforting children by telling them "Don't worry, it was just a dream." Such comments do not work!***
 

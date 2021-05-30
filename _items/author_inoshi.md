@@ -7,7 +7,7 @@ name: "Inoshi"
 shortDescription: ""
 tags:
 date: 2015-03-24
-profileImg: author-inoshi-2.jpg
+profileImg: author-inoshi-zoomout-sml.jpg
 coverImg: cover-author-inoshi-denizen.jpg
 ---
 

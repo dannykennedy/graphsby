@@ -17,7 +17,7 @@ profileImg: arrival-to-the-third-heaven.jpg
 
 This painting was featured on the cover of Volume 34, #1 of the Dream Network Journal.
 
-<hr style="margin: 5em 0px;">
+<hr style="margin: 4em 0px;">
 
 <div class="breakout-box">
 <!--nopreview--><h3>We Can Improve, by <a href="../marieotte">Marie Otte</a></h3><!--/nopreview-->

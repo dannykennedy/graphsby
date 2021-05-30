@@ -1535,7 +1535,7 @@ ns1:bcpov6giia3h a ns1:Post ;
 
 <p>This painting was featured on the cover of Volume 34, #1 of the Dream Network Journal.</p>
 
-<hr style="margin: 5em 0px;">
+<hr style="margin: 4em 0px;">
 
 <div class="breakout-box">
 
@@ -16441,7 +16441,7 @@ ns1:bcphbqviden a ns1:User ;
     ns1:itemId "bcphbqviden"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Inoshi"^^xsd:string ;
-    ns1:profileImg "author-inoshi-2.jpg"^^xsd:string .
+    ns1:profileImg "author-inoshi-zoomout-sml.jpg"^^xsd:string .
 
 ns1:bcphbqvmack a ns1:User ;
     ns1:coverImg "cover-author-christamackinnon.jpg"^^xsd:string ;
@@ -18418,7 +18418,7 @@ ns1:bcphb2kq341 a ns1:Post ;
     ns1:itemId "bcphb2kq341"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 34, issue 1: New Beginnings"^^xsd:string ;
-    ns1:profileImg "arrival-to-the-third-heaven.jpg"^^xsd:string ;
+    ns1:profileImg "34-1-cover.jpg"^^xsd:string ;
     ns1:urlSlug "34.1"^^xsd:string .
 
 ns1:bcphbqawtay a ns1:User ;

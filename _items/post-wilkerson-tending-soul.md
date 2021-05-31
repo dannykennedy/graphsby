@@ -6,6 +6,8 @@ name: "Tending to the Soul of the World: An Interview with Richard Wilkerson"
 tags:
 - hasTag: richardwilkerson
 - hasAuthor: richardwilkerson
+- hasAuthor: ericsnyder
+- hasTag: ericsnyder
 - hasTag: 21.4-22.1
 type: post
 urlSlug: tending-to-the-soul-of-the-world
@@ -17,7 +19,7 @@ urlSlug: tending-to-the-soul-of-the-world
 
 The couch to culture break-out of the 1960s, where individuals began experimenting with the multiform encounter groups that were somewhat guided by the hope of liberation outside of traditional psychology and enlightenment outside of traditional spirituality, seems to me a big marker in the change of dream sharing. Before that time one had to embark on dreamwork quests within the confines of therapy, or to be invited into a rare esoteric spirituality group (Like A.R.E. dream research groups). 
 
-This evolution was fueled in the 1970s by researchers and their books. Writers like Patricia Garfield with *Creative Dreaming*, Ann Faraday with *Dream Power*, and Henry Reed’s *Sundance Community Dream Journal* synthesized the emerging ideas, techniques and experiments of the movement and put them into a media form (books and journals) accessible to the general public. 
+This evolution was fueled in the 1970s by researchers and their books. Writers like Patricia Garfield with *Creative Dreaming*, Ann Faraday with *Dream Power*, and [Henry Reed’s](../@henryreed) *Sundance Community Dream Journal* synthesized the emerging ideas, techniques and experiments of the movement and put them into a media form (books and journals) accessible to the general public. 
 
 The 1980s might be called the Dream Movement Decade. The number of books on dreams and dreaming proliferated. The *Dream Network* brought dreamers ideas together from around the US and the world. The pioneers in dreaming got together and started the Association for the Study of Dreams, and dream groups could be found in all the US states and major cities. Lucid dreaming had moved from the category of the occult to science, and New Age spirituality reinforced the notion of the dreamer being the final authority on the meaning and value of their own inner experiences. Orthodox religious institutions that had persecuted people sharing dreams for centuries began to offer dream groups. The ASD *Dreaming* journal found its way into major educational libraries and international and regional conferences were held on a regular basis, bringing together anthropologists, scientists and researchers, clinical therapists, religious leaders, writers, and dream-inspired artists. 
 

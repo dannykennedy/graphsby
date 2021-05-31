@@ -50,8 +50,8 @@ Campbell, Joseph (1968). *The Hero with a Thousand Faces.* Princeton: Princeton 
 Campbell, Joseph (1983). *Historical Atlas of World Mythology* (Vol. I) San Francisco: Harper & Row.
 d'Aquili, E.G. (1972). *The Biopsychological Determinants of Culture*. Reading, PA: Addison-Wesley. pg. 9
 Feinstein, D. (1979. *"Personal mythology as a paradigm for a holistic public psychology"*. American Journal of Orthopsychiatry, 49, 198-217.
-Feinstein, D. & Krippner, S. (1988). *Personal Mythology: The psychology of your evolving self.* Los Angeles: Tarcher.
-Feinstein, D., Krippner, S., & Granger, D. (1988). *"Myth-making and human development".* Journal of Humanistic Psychology, 28(3), 23-50.
+Feinstein, D. & [Krippner, S.](../@stanleykrippner) (1988). *Personal Mythology: The psychology of your evolving self.* Los Angeles: Tarcher.
+Feinstein, D., [Krippner, S.](../@stanleykrippner), & Granger, D. (1988). *"Myth-making and human development".* Journal of Humanistic Psychology, 28(3), 23-50.
 Gebser, J. (1985). *The Ever-present Origin* (N. Barstad, Trans.). Athens, OH: Ohio U Press. (Original work published 1953). 
 James, W (1961). *Varieties of Religious Experience.* New York: Crowell-Collier. (Original work published 1902). pg. 332 
 Marian, S. (1981). *Depth consciousness.* In R.S. Valle & R. Von Eckartsberg (Eds.), The Metaphors of Consciousness (pp. 225-242). New York: Plenum Press. pg. 227 

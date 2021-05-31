@@ -8,6 +8,7 @@ shortDescription: ""
 tags:
 date: 2015-03-24
 profileImg: author-ral.jpg
+coverImg: post-bcpov6krdbf9-0.jpg
 ---
 
 Website: [ralockhart.com](http://ralockhart.com/)

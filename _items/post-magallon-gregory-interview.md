@@ -35,7 +35,7 @@ profileImg: post-bcpov6magai2-1.jpg
 
 **Jill:** It sounds as though you moved very quickly from a strong interest in dreams to active involvement with the dreamworker community. 
 
-**Linda:** From the onset I was really very interested in the way in which dreams fit into the context of society. So I very purposely sought out other dreamers and dreamworkers. For example, after I read the book, *Dreams Beyond Dreaming*, I wrote the author, Jean Campbell. When she wrote back, we began correspondence that culminated in friendship. 
+**Linda:** From the onset I was really very interested in the way in which dreams fit into the context of society. So I very purposely sought out other dreamers and dreamworkers. For example, after I read the book, *Dreams Beyond Dreaming*, I wrote the author, [Jean Campbell](../@jeancampbell). When she wrote back, we began correspondence that culminated in friendship. 
 
 **Jill:** You mentioned that as a child you preferred fantasizing over dreaming because of the element of control. And now you are an avid and frequent lucid dreamer who enjoys varying degrees of control within the dream state. How would you respond to someone who is concerned about the effects or applications of control within a dream? 
 
@@ -76,6 +76,6 @@ One of the issues facing dreamworkers today is how to be considered legitimate. 
 
 **Jill:** Linda, what are the goals for *Dream Network Bulletin* under your editorship? 
 
-**Linda:** First off, I would like to say that I intend to keep the basic format the same. I give a lot of credit to the former editors, the people who work behind the scenes (like co-editor Bob Trowbridge) and to the subscribers for putting together an excellent periodical that serves as a forum for the entire dreamwork community. 
+**Linda:** First off, I would like to say that I intend to keep the basic format the same. I give a lot of credit to the former editors, the people who work behind the scenes (like co-editor [Bob Trowbridge](../@bobtrowbridge)) and to the subscribers for putting together an excellent periodical that serves as a forum for the entire dreamwork community. 
 
 My goals for the Bulletin are to build up the readership base; to encourage the academicians to submit hardcore informative articles in readable English; and to add more artwork, interviews and humor to the menu. I would also like to see some pro/con articles and more letters to the editor. Contributions are welcome. Everyone is invited to dream up new ideas for *DNB*.

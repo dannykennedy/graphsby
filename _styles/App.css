@@ -33,6 +33,12 @@ button:focus {
     outline: none;
 }
 
+button {
+    border: none;
+    background-color: inherit;
+}
+
+
 /*Mailchimp*/
 #mc_embed_signup {
     background:#fff; 

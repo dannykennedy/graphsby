@@ -73,5 +73,5 @@ We hope that this example has been helpful in clarifying a few of the concepts a
 
 <hr>
 
-*For further exploration of the concepts and techniques presented in this article, please see The Mythic Path by D. Feinstein and S. Krippner, New York: Putnam/Tarcher, 1997. [Dreams as a Mirror of Change in Personal Mythology, Part I](../bcpov6kmyth1) by Stanley Krippner, Ph.D. and Christopher Ryan appeared in Dream Network, Vol. 17 No. 3.*
+*For further exploration of the concepts and techniques presented in this article, please see The Mythic Path by [D. Feinstein](../@davidfeinstein) and S. Krippner, New York: Putnam/Tarcher, 1997. [Dreams as a Mirror of Change in Personal Mythology, Part I](../bcpov6kmyth1) by Stanley Krippner, Ph.D. and Christopher Ryan appeared in Dream Network, Vol. 17 No. 3.*
  

@@ -15,7 +15,7 @@ For many centuries, Western investigators had little respect or regard for nativ
 
 <img src="../images/post-bcpov6zfacet-0.jpg" alt="Stanley Krippner" width="300px" height="auto"/>
 
-I have compared the healing models of several native healing traditions with those of allopathic medicine, finding both similarities and differences (Krippner & Welch, 1992). Intending to do the same for dreamworking systems, I located a model proposed by Ullman and Zimmerman (1979) that compared three Western systems, those of Sigmund Freud, Carl Jung, and Montague Ullman. I added two facets to the model, and revised several others to provide a better basis for cross- cultural comparison. The resulting 10-facet model still was useful in comparing the systems of Freud, Jung, and Ullman:
+I have compared the healing models of several native healing traditions with those of allopathic medicine, finding both similarities and differences (Krippner & Welch, 1992). Intending to do the same for dreamworking systems, I located a model proposed by Ullman and Zimmerman (1979) that compared three Western systems, those of Sigmund Freud, Carl Jung, and [Montague Ullman](../@montagueullman). I added two facets to the model, and revised several others to provide a better basis for cross- cultural comparison. The resulting 10-facet model still was useful in comparing the systems of Freud, Jung, and Ullman:
 
 <img src="../images/post-bcpov6zfacet-1.jpg" alt="Montague Ullman" width="300px" height="auto"/>
 

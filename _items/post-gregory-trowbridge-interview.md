@@ -17,7 +17,7 @@ profileImg: post-bcpov6trowi2-0.jpg
 <img src="../images/post-bcpov6trowi2-0.jpg" width="200" height="auto" alt="Bob Trowbridge"/>
 <!--nopreview--><div style="text-align:center"><i>Bob Trowbridge</i></div><!--/nopreview-->
 
-*Those who know Bob Trowbridge tend to see him as an easygoing teddy bear of a man with a quick wit and strong sense of humor as well as a warm and accepting nature. His insight and wisdom make him a popular speaker and dreamworker.*
+*Those who know [Bob Trowbridge](../@bobtrowbridge) tend to see him as an easygoing teddy bear of a man with a quick wit and strong sense of humor as well as a warm and accepting nature. His insight and wisdom make him a popular speaker and dreamworker.*
 
 Until dreamwork came along I didn't have much direction in my life. I never knew what I wanted to be when I grew up. I told people I wanted to be a bum; but not poor. When I went before a committee of ministers and laypeople to determine my readiness to enter seminary and the ministry, someone asked me why I wanted to become a minister. I said, "It beats getting an honest job." 
 

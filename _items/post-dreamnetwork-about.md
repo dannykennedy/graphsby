@@ -26,7 +26,7 @@ You can contact us at: <a href="mailto:hello@dreamnetworkjournal.com">hello@drea
 
 ## A brief history of the Dream Network
 
-Here's how Roberta Ossana has described some of the journal's history: 
+Here's how [Roberta Ossana](../@robertaossana) has described some of the journal's history: 
 
 "The Dream Network was first published as a Bulletin and appeared in print through the determination of a very fiery and compassionate young man by the name of [William (Bill) Stimson](../@billstimson). I wrote Bill—who has become a cherished friend—and asked him if he'd be willing to share a few words. Bill's statement is the essence, the Spirit, that guides the Dream Network:
 

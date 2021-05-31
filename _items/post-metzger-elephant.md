@@ -50,7 +50,7 @@ The No-Enemy way is committed to undoing war without engaging in war. We will ha
 
 I met Ron Kovic in my dream last night. He stood up and I stood up next to him. Today, Day 119 before 2012, a dream calls me to stand up with / for the young lovers of the world, the Elephant People, and ‘the others,’ that is, for ourselves. ∞
 
-<sup>1</sup>The Secret History of Dreaming, Robert Moss, p.22 
+<sup>1</sup>The Secret History of Dreaming, [Robert Moss](../@robertmoss), p.22 
 
 ~ ~ ∞ ~ ∞ ~ ∞ ~ ~ 
 

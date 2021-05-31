@@ -15,7 +15,7 @@ profileImg: post-bcpov6zfdrum-0.jpg
 <img src="../images/post-bcpov6zfdrum-0.jpg" width="400px" height="auto" style="margin: auto;"/>
 <!--nopreview--><div style="text-align:center; margin: auto"><i> Many visitors to the National Mall found themselves drawn magnetically to the drumming. Here, children from a local YMCA summer camp program try out the drums.</i></div><!--/nopreview-->
 
-**Dream Network Journal editor, Roberta Ossana, calls this kind of event “The intersection between dreams and waking.” In my mind’s eye, I picture two planes intersecting, a point where dreaming becomes waking reality. Drum Dance and Dream for Peace was such an event, growing out of the fertile soil of dreams on the World Dreams Peace Bridge as surely as roses climb a trellis.**
+**Dream Network Journal editor, [Roberta Ossana](../@robertaossana), calls this kind of event “The intersection between dreams and waking.” In my mind’s eye, I picture two planes intersecting, a point where dreaming becomes waking reality. Drum Dance and Dream for Peace was such an event, growing out of the fertile soil of dreams on the World Dreams Peace Bridge as surely as roses climb a trellis.**
 
 On Monday, June 25, on the National Mall in Washington, DC, nearly 200 people (over half of them children) joined in a drumming circle that began in the light of a dream. Over a year before the event that she was asked to create for The World Children’s Festival, Mary Whitefeather Joyce dreamed of standing in a circle in a grassy place, drumming with a group of mostly children. Even earlier, the dreams of other members of the Peace Bridge had foreshadowed this scene. 
 
@@ -52,7 +52,7 @@ Jeremy brought along copes of his newly completed *Children’s Peace Train* boo
 <img src="../images/post-bcpov6zfdrum-3.jpg" width="250px" height="auto" style="margin: auto;"/>
 <div style="text-align:center; margin: auto"><i>Jean Campbell from the World Dreams Peace Bridge calls people to the drumming circle with one of 40 drums donated by UpBeat Drum Circles in Los Angeles, to be given away on the Mall.</i></div>
 
-In Mexico City a small group of women made an altar of fresh flowers and photos of their children. They passed the drum, saying aloud their prayers for peace for the children. In Warwick, Rhode Island, Laura Atkinson (who earlier in the week had dreamed that Peace Bridge member May Tung who died last year came to remind her to buy extra materials for the workshop) led children at the Warwick Museum in a drum making workshop. 
+In Mexico City a small group of women made an altar of fresh flowers and photos of their children. They passed the drum, saying aloud their prayers for peace for the children. In Warwick, Rhode Island, [Laura Atkinson](../@lauraatkinson) (who earlier in the week had dreamed that Peace Bridge member May Tung who died last year came to remind her to buy extra materials for the workshop) led children at the Warwick Museum in a drum making workshop. 
 
 In Noe Valley, California, Jill Pierce led free drumming classes for children all day long at the Music 4 All center there. 
 

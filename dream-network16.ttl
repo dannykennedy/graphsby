@@ -13443,6 +13443,27 @@ ns1:bcpov6zi3ans a ns1:Post ;
     ns1:profileImg "post-bcpov6zi3ans-0.jpg"^^xsd:string ;
     ns1:urlSlug "ancestor-book-sculpture"^^xsd:string .
 
+ns1:bcpov6zi3ldl a ns1:Post ;
+    ns1:dateCreated "2014-07-28T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6zi3ldl-1.jpg" alt="Star in front of her library" width="300" height="auto"/></p>
+
+<p>You never know when inspiration will show up. I was out walking my dogs on a hot afternoon and came upon a very interesting sculpture nestled under a tree in front of a someone’s house. It was a free standing structure using unique materials and bright colors. My first response was an Ahhhh! I walk this way many times with our dogs to meet my husband at the park. Another week rolled by and we passed the sculpture again and I happen to see three books laying on their sides inside a small opening of the structure. My second response was an Ahhh Haaa!! Being an avid bibliophile and creating art work with books, I was immediately intrigued. I frequently listen to NPR radio in the morning and heard only one sentence that the announcer said. All I caught was <a href="https://www.npr.org/2012/03/07/148170088/little-free-libraries-hope-to-spark-lending-revolution">“Little Free Libraries”</a>. This was all that was needed to light my fire and create a Little Free Library myself.</p>
+
+<p><img src="../images/post-bcpov6zi3ldl-2.jpg" alt="Star in front of her library" width="300" height="auto"/></p>
+
+<p>While making dinner and cutting carrots I thought, why not, make a little library with a focus on dreams? This can include animal books, fairy tales, myths, legends, fiction, non-fiction and books about dreaming. Needless to say, I got very little sleep that night and went about creating the plan and design of the Dream Library. I found a used portable wine rack from a thrift store just the size I needed and only had to modify one wall panel and give it a roof and doors. The library is stocked with free dream journals, free bookmarks that tell people of the importance of dreams and free wallet sized cards that give people tips on how to remember their dreams. I purchased used dream books from Amazon. It’s very exciting watching people take a book, flip through the books and leave with anticipation of learning about their dreams. And it’s all in view of my front door!</p>
+
+<p><img src="../images/post-bcpov6zi3ldl-0.jpg" alt="Star in front of her library" width="300" height="auto"/></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3rste ;
+    ns1:hasTag ns1:bcphb2huxmr,
+        ns1:bcphbq3rste ;
+    ns1:itemId "bcpov6zi3ldl"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Invitation to my little Dream Library - Why not create one in your town?"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zi3ldl-1.jpg"^^xsd:string ;
+    ns1:urlSlug "little-dream-library"^^xsd:string .
+
 ns1:bcpov6zi3sec a ns1:Post ;
     ns1:dateCreated "2021-01-28T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Hello All!!!</p>
@@ -15910,20 +15931,6 @@ ns1:bcphb2eggje a ns1:Post ;
     ns1:profileImg "33.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.2"^^xsd:string .
 
-ns1:bcphb2huxmr a ns1:Post ;
-    ns1:coverImg "33.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2014-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.3_change.pdf" download="">Download issue 33.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.3_change.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocvint5 ;
-    ns1:itemId "bcphb2huxmr"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 33, issue 3: Dreams are Agents for Change"^^xsd:string ;
-    ns1:profileImg "33.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "33.3"^^xsd:string .
-
 ns1:bcphbbhutch a ns1:User ;
     ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;
     ns1:description """<p></p>
@@ -16786,6 +16793,20 @@ ns1:bcphb2asab7 a ns1:Post ;
     ns1:profileImg "33.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "33.1"^^xsd:string .
 
+ns1:bcphb2huxmr a ns1:Post ;
+    ns1:coverImg "33.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2014-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.3_change.pdf" download="">Download issue 33.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.3_change.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocvint5 ;
+    ns1:itemId "bcphb2huxmr"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 33, issue 3: Dreams are Agents for Change"^^xsd:string ;
+    ns1:profileImg "33.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "33.3"^^xsd:string .
+
 ns1:bcphb2kqfhu a ns1:Post ;
     ns1:coverImg "33.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2015-01-01T11:32:52"^^xsd:dateTime ;
@@ -17327,18 +17348,6 @@ ns1:bcphbq3rcwi a ns1:User ;
     ns1:name "Richard Wilkerson"^^xsd:string ;
     ns1:profileImg "author-richard-wilkerson.jpg"^^xsd:string .
 
-ns1:bcphbq3rste a ns1:User ;
-    ns1:coverImg "cover-author-star-edwards.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.starharp.com/" target="_blank">starharp.com</a></p>
-
-<p>Star Edwards has been a student of dreams and dream journaler for most of her life. In waking life she is harpist, artist and dancer. She has a wide repertoire of harp music and is available for event performances.  </p>
-"""^^xsd:string ;
-    ns1:handle "staredwards"^^xsd:string ;
-    ns1:itemId "bcphbq3rste"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Star Edwards"^^xsd:string ;
-    ns1:profileImg "author-star-edwards.jpg"^^xsd:string .
-
 ns1:bcphbq3ryan a ns1:User ;
     ns1:coverImg "cover-chris-ryan.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://chrisryanphd.com/">chrisryanphd.com</a></p>
@@ -17824,6 +17833,18 @@ ns1:bcphbq3olse a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Fred Olsen"^^xsd:string ;
     ns1:profileImg "author-fredolsen.jpg"^^xsd:string .
+
+ns1:bcphbq3rste a ns1:User ;
+    ns1:coverImg "cover-author-star-edwards.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.starharp.com/" target="_blank">starharp.com</a></p>
+
+<p>Star Edwards has been a student of dreams and dream journaler for most of her life. In waking life she is harpist, artist and dancer. She has a wide repertoire of harp music and is available for event performances.  </p>
+"""^^xsd:string ;
+    ns1:handle "staredwards"^^xsd:string ;
+    ns1:itemId "bcphbq3rste"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Star Edwards"^^xsd:string ;
+    ns1:profileImg "author-star-edwards.jpg"^^xsd:string .
 
 ns1:bcphbq3spar a ns1:User ;
     ns1:description """<p>International Eco Ebook, Author OVI Bookshop, Director-Scriptwriter for CROSSING the THRESHOLD TOGETHER video project</p>

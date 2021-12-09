@@ -6,7 +6,7 @@
 
 # Libraries
 import os, sys, re, jinja2, calendar, html5lib
-import dateutil.parser # For converting xsd:datetime to something sensible
+# import dateutil.parser # For converting xsd:datetime to something sensible
 from rdflib import Namespace, Literal, ConjunctiveGraph
 from pathlib import Path
 from html5lib_truncation import truncate_html

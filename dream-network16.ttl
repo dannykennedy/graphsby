@@ -1,7 +1,5 @@
 @prefix ns1: <https://www.dannykennedy.co/dnj-ontology#> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 ns1:Image a <http://www.w3.org/2002/07/owl#Class> ;
@@ -848,13 +846,37 @@ ns1:bcpov6ctpuff a ns1:Post ;
 
 <blockquote>
   <p><em>I am fleeing from a firghtening, fiery dragon through a scorched and charred and still smouldering landscape. I run and run, until the magical moment of realization that this is all a dream! I suddenly "get it", that my terror and the pursuing monster and the whole scene are simply things that are happening in my dream. At that point, I turn and face the dragon and demand to know what he is doing in my dream.</em></p>
-  
+</blockquote>
+
+<blockquote>
+  <p></p>
+</blockquote>
+
+<blockquote>
   <p><em>The fire-breathing dragon stops and replies telepathically "I am your smoking addiction!" As the monster 'speaks', I have an ironic appreciation of how ironic and even funny it is for my smoking addiction to appear in my dream as a "fire-breathing dragon".</em></p>
-  
+</blockquote>
+
+<blockquote>
+  <p></p>
+</blockquote>
+
+<blockquote>
   <p><em>At that moment of lucid realization, the dragon suddenly seems to change. It doesn't really look any different, but its 'expression' seems to change. It isn't so scary any more.</em> </p>
-  
+</blockquote>
+
+<blockquote>
+  <p></p>
+</blockquote>
+
+<blockquote>
   <p><em>It begins to look winsome, almost charming – ‘Puff the magic dragon’ – more like a big, old familiar, friendly family dog than a menacing, deadly fire-breather.</em></p>
-  
+</blockquote>
+
+<blockquote>
+  <p></p>
+</blockquote>
+
+<blockquote>
   <p><em>My lucidity allows me to look even more closely at the ‘transformed’ monster, and I see clearly that there is a nasty, sticky brown slime covering its entire body, and that noxious smoke is oozing and sputtering from every orifice, even from around its eyes, and from under and between its scales. I smell this awful, rancid, repulsive odor coming from it. My revulsion returns, and in the dream I look at it and say with all my heart, ‘Get away from me! I no longer want you in my life!’</em></p>
 </blockquote>
 
@@ -1048,7 +1070,9 @@ ns1:bcpov6gabout a ns1:Post ;
 
 <blockquote>
   <p>"In my mind's eye is Bill Stimson's small, walk-up flat on a hot summer's night... the beginnings of the New York dream community. We never formed a tight-knit group because the people kept changing too often for that. The room was usually crowded...15 to 20 people. Essentially, we knew nothing about dreams, but Bill's enthusiasm and passion for dreams was contagious!</p>
-  
+</blockquote>
+
+<blockquote>
   <p>It was a dream whose time had come, like the classic dream of finding yourself in your own home but entering a new room that you've never been in before. We were electrified! This group was the core of the New York dream community and the New York dream community was the core of the early dream movement in the United States. Although we couldn't articulate it at the time, I think we realized that we now had a mission in life. We were converts to dreams. Was it Bill's vision of a global network of dreamers we were envisioning or did it arise spontaneously among us? I don't know, but it was powerful. When Bill got an idea, he didn't rest until he got it out there. He was the prototype of the populist networker, the Trotsky of the dream revolution. It might have happened without him, but it never would have been so fast, so intense, so like a prairie fire in a season of drought. Maybe this was the next step after the revolutionary 60's. That world-changing vision hadn't fully worked, so maybe we had to go back to the inner drawing board, and remake the world from the individual psyche's infrastructure inside out, instead of the other way around."</p>
 </blockquote>
 
@@ -1058,7 +1082,9 @@ ns1:bcpov6gabout a ns1:Post ;
 
 <blockquote>
   <p>“I shortly went nuts and found out about the Brooklyn Dream Community and also the Manhattan Dream Community, where I met Bill Stimson and we attended a weekend leadership training workshop at Monte Ullman's north of the city. Bill was despairing of the Dream Network at the time and wanted to hand it to someone else, so I took responsibility for the publication for a couple of years. I've led dream groups and also studied psychology but dumped the professional side to help Dale w/our kids. I like the term, ‘amateur psychologist.’</p>
-  
+</blockquote>
+
+<blockquote>
   <p>“I believe that the unconscious is God and that dreams are the best path to understanding God within and the interconnectedness of all people. Creativity is the blood of God and dreams are nothing if not creative, always in the service of self-awareness, not always comfortably but always accurately.”</p>
 </blockquote>
 
@@ -1513,7 +1539,9 @@ ns1:bcpov6gii334 a ns1:Post ;
 
 <blockquote>
   <p><em>The symbolism of the egg holds varied meanings in many cultures: Soul, New Beginnings, and Fertility. For our purpose here, I see the image conveying the protection of the sacred and here, twenty five years later and with the help of many hands, the egg remains protected. Coming full circle. Since I last wrote you in this column, there have been serious and painstaking attempts to locate a successor to carry on the vision and mission of DNJ; those efforts to date have been unsuccessful.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>One woman with whom you may be familiar, Victoria Vlach, whose article, Gold in Dreams appears in this issue, was the perfect candidate. Unfortunately for her, the opportunity came at the wrong time. This is the last issue of Dream Network Journal in its current form. These are hard words for me to write. I feel hope in the new beginnings symbol of the egg and the many hands. Who knows what the future might hold? In this context, Russ Lockhart recently said: “I now believe it is time for DNJ to ‘go dark’ for 2015 as a necessary state for rebirth if that is in the future. Letting go of DNJ, letting it die, is likely what is necessary for any future rebirth of DNJ.” I say: So Be It. Amen.</em> -Roberta Ossana</p>
 </blockquote>
 """^^xsd:string ;
@@ -2695,11 +2723,29 @@ ns1:bcpov6kaelec a ns1:Post ;
 
 <blockquote>
   <p><strong>I Visit a Mysterious Place Along with Other People</strong></p>
-  
+</blockquote>
+
+<blockquote>
+  <p></p>
+</blockquote>
+
+<blockquote>
   <p><em>I’m visiting some “establishment”— looking around the large building housing the “place.” There’s a large room that seems to have various spaces used for different purposes. One side is fitted out with rows of seats like church pews. A small area opening onto this seems to be used differently—I see couches and tables. Beyond this is a doorway leading into an area evidently not open to the public.</em></p>
-  
+</blockquote>
+
+<blockquote>
+  <p></p>
+</blockquote>
+
+<blockquote>
   <p><em>I’m there with unidentified people. We begin to sense that the place is used for some secret purpose. We are not allowed to explore beyond this “open” area. I say I think even this area with rows of seats, which we are led to assume is a church, has another purpose. I don’t know what. There are “officials” standing to the side overseeing the visit and keeping us from exploring beyond this area. If anyone should try to explore farther, we all would be asked to leave.</em> </p>
-  
+</blockquote>
+
+<blockquote>
+  <p></p>
+</blockquote>
+
+<blockquote>
   <p><em>When we do leave the building, we’re surprised to discover that the road into the place has been destroyed—we assume to keep others out. We have to figure a way to get out by finding a path our vehicle can travel. As we get to the edge of the property, we find a vehicle about to enter. I feel we need to warn them about what they may find.</em></p>
 </blockquote>
 
@@ -3584,7 +3630,9 @@ ns1:bcpov6kbheal a ns1:Post ;
     ns1:dateCreated "1991-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<blockquote>
   <p><em>"In every dream, whether you are conscious of it while you are dreaming or not, there is some kind of natural phenomenon present. Either it's night and there is a night sky, with or without stars; the sun is shining in the day or it's cloudy; there is a feeling of wind present or not. There is always some kind of natural phenomenon and that is because you cannot dream without the natural phenomenon; it is the nature of things, out of which the dream arises."</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p>Bartholomew, Taos, NM</p>
 </blockquote>
 
@@ -3910,7 +3958,9 @@ ns1:bcpov6kchers a ns1:Post ;
 
 <blockquote>
   <p><em>“...Confident of new creation which your dreaming strokes will paint, radiant in its truth and beauty...”</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p>Excerpted from the Evening Hymn of Wonder, text and music by Steven R. Janco</p>
 </blockquote>
 
@@ -3938,7 +3988,9 @@ ns1:bcpov6kchers a ns1:Post ;
 
 <blockquote>
   <p><em>We must not forget that the human soul however independently created our philosophy represents it as being inseparable in its birth and in its growth from the universe into which it is born.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <ul>
   <li>Teilhard de Chardin </li>
   </ul>
@@ -3950,27 +4002,49 @@ ns1:bcpov6kchers a ns1:Post ;
 
 <blockquote>
   <p>...God picks up the reed-flute world and blows. </p>
-  
+</blockquote>
+
+<blockquote>
   <p>Each note is a need coming through one of us, </p>
-  
+</blockquote>
+
+<blockquote>
   <p>a passion, a longing-pain. </p>
-  
+</blockquote>
+
+<blockquote>
   <p>Remember the lips where the wind-breath originated, </p>
-  
+</blockquote>
+
+<blockquote>
   <p>and let your note be clear. </p>
-  
+</blockquote>
+
+<blockquote>
   <p>Don’t try to end it. </p>
-  
+</blockquote>
+
+<blockquote>
   <p>Be your note. </p>
-  
+</blockquote>
+
+<blockquote>
   <p>I’ll show you how it’s enough. </p>
-  
+</blockquote>
+
+<blockquote>
   <p>Go up on the roof at night in this city of the soul. </p>
-  
+</blockquote>
+
+<blockquote>
   <p>Let everyone climb on their roofs and sing their notes! </p>
-  
+</blockquote>
+
+<blockquote>
   <p>Sing loud! </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>From Each Note by Rumi</em></p>
 </blockquote>
 
@@ -4002,15 +4076,25 @@ ns1:bcpov6kchers a ns1:Post ;
 
 <blockquote>
   <p>When we look into our own hearts and begin to discover </p>
-  
+</blockquote>
+
+<blockquote>
   <p>What is confused and what is brilliant, </p>
-  
+</blockquote>
+
+<blockquote>
   <p>What is bitter and what is sweet, </p>
-  
+</blockquote>
+
+<blockquote>
   <p>It isn’t just ourselves that we’re discovering. </p>
-  
+</blockquote>
+
+<blockquote>
   <p>We’re discovering the universe.</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Pema Chodon</em> </p>
 </blockquote>
 
@@ -4914,13 +4998,21 @@ ns1:bcpov6knenww a ns1:Post ;
     ns1:dateCreated "2005-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<blockquote>
   <p>We have taken the power of the gods into our hands, our fallible human hands.</p>
-  
+</blockquote>
+
+<blockquote>
   <p>The consequences are inconceivable. </p>
-  
+</blockquote>
+
+<blockquote>
   <p>-C. G. Jung</p>
-  
+</blockquote>
+
+<blockquote>
   <p>…Today the one thing we will not tolerate is history. No; we are each Promethean with a bag of possibilities, Pandoran hopes, open, unencumbered, the future before us, so various, so beautiful, so new - new and liberated men and women living forward into a science fiction. So history rumbles below, continuing its work in our psychic complexes.</p>
-  
+</blockquote>
+
+<blockquote>
   <p>-James Hillman</p>
 </blockquote>
 
@@ -4976,7 +5068,9 @@ ns1:bcpov6knenww a ns1:Post ;
 
 <blockquote>
   <p>I waded in a pool toward an Asian man who addressed me in French, a language I don't speak. When I shook my head in confusion, he chided me for being a typical American who expected the world to speak English. "But when you visit our country," he added, "you must speak OUR language," at which point he turned into a large tortoise, handed me a piece of paper, and closed his shell. I examined the paper. </p>
-  
+</blockquote>
+
+<blockquote>
   <p><strong>It was the Declaration of Independence.</strong> </p>
 </blockquote>
 
@@ -5482,7 +5576,9 @@ ns1:bcpov6kottet a ns1:Post ;
 
 <blockquote>
   <p><em>“I want to remember my dreams.”</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>“Upon awakening, I will recall and write down my dreams.”</em> </p>
 </blockquote>
 
@@ -6570,7 +6666,9 @@ ns1:bcpov6krudhp a ns1:Post ;
 
 <blockquote>
   <h2><em>A dream wants a dream</em></h2>
-  
+</blockquote>
+
+<blockquote>
   <h2><em>A poem wants a poem</em></h2>
 </blockquote>
 
@@ -6830,7 +6928,9 @@ ns1:bcpov6krukat a ns1:Post ;
 
 <blockquote>
   <p><em>I am standing in a circle of women. Someone gifts me with a snake from which sprouts the head of a fox.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>The snake, symbol of initiation and rebirth, arises from the green lavaliere and merges into red fox, symbol of feminine magic. Poised at the center of the upper circle of the lemnescate formed by the serpentine body is the phoenix, emblem of immortality. At the end of the snake’s tail hangs a small clear quartz crystal, a spiritual transmitter, and balanced on the bottom curve is a cross, representing the interpenetration of spirit into matter.</em></p>
 </blockquote>
 """^^xsd:string ;
@@ -6959,13 +7059,21 @@ ns1:bcpov6kuisha a ns1:Post ;
 
 <blockquote>
   <p><em>"Okay everyone listen up, I'm the teacher now!" I say boldly. "We're going to have some fun together!" I divide them into two teams for a kind of relay race. I have them take turns running a string back and forth, spinning it around each other, until everyone is connected. They are all laughing and being nice now. I can still see the doctors in the background, they are worried shadows. Feeling great, I next call the kids to form an arc in front of me. "Let's get to know each other. Call out your names!" They go down the row, something like Bob, Sue, Carl ,John, Mary, Carl ... I stop them, amazed. "Every third person is named Carl here, don't you think that's strange?" They look at me puzzled. "My name is Carl. There are only 2 other Carls in my high school. Do you know what this means?"</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>I have it now! "This is a dream! You are all in my dream!" I declare in triumph. The kids look at me scared, they know I am right. They didn't know what I would do to them next. "Don't worry, I won't hurt you," I said. "Let this be a lesson to you. Next time you find yourself in a dream, realize that you can do anything you want, and you always could all along. So be nice to each other, give the best for each other have fun, get along." They all like this and smile. I feel great and start to sing words that suddenly come to me. "You were born to be born. You were born to be born to be born." Puzzlement comes over us. They don't know what I mean, and neither do I. I wish for different words so that we can all have a good time. A great energy comes to me; now to the same melody I sing:</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"Isha Ganesha, Ganesha Isha, Isha Ganseha, Ganesha Isha!"</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>I don't know what this means, either, but it sounds great. I start to lead all the kids in a dance. We dance ecstatically, the energy building and building in me. I get in the center of the room and lay on the floor as they dance around me. I spin around my head, and my head opens up again. All the kids go inside my head, and still my head keeps expanding. My head soon encompasses the building, the town, the state, the planet. It keeps expanding until it contains the whole universe, and every living thing in the universe is singing softly with me.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"Isha Ganesha, Ganesha Isha, Isha Ganesha, Ganesha Isha."</em> </p>
 </blockquote>
 
@@ -7001,7 +7109,9 @@ ns1:bcpov6kukat2 a ns1:Post ;
 
 <blockquote>
   <p><em>An elderly woman lives in a house with a large garden in her backyard, the centerpiece of which is a large old oak tree surrounded by a rock wall.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Trees often represent the Great Goddess and here, she welcomes three faces of the Divine Feminine into her lofty branches.  The serpent reminds us of the wisdom of the feminine spirit, the white dove is Aphrodite’s symbol of fertility and the lion is guardian of the Great Mother.</em></p>
 </blockquote>
 """^^xsd:string ;
@@ -7218,9 +7328,13 @@ ns1:bcpov6meleph a ns1:Post ;
     ns1:dateCreated "2012-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<blockquote>
   <p><em>I dream that a conventional appearing middle class woman is calmly and confidently shooting two young lovers with a rifle. She shoots the young woman point blank and then turns the rifle on the young man who stands there horrified as he is shot to death. She is standing in the shadow of the roof of one of those concessions that lined the Boardwalk of Coney Island near where I lived as a child. I can’t see into the room, but by its dimensions this might have been an amusement gallery, the kind with the fortuneteller doll in a glass case in the center who will hand you a paper fortune for a penny or a nickel.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Having killed the lovers, she turns her rifle toward me, where I am watching from about a hundred yards away across the Boardwalk. She wants to silence me, to prevent me from writing about the extraordinary intelligence—and the plight—of the Elephant People. In the dream, my essays are being reprinted and becoming influential. I manage to escape her by fleeing to the Boardwalk entrance ramps where I meet Ron Kovic, the Vietnam veteran antiwar activist whose own story is told in “Born on the Fourth of July.” We greet one another, having been in the anti-war movement at the same time.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Suddenly, I am with him in a small room. He is not in his wheelchair but is standing. I am standing with him and we are embracing each other as comrades. He has healed almost all of his wounds in the course of these years. And he is still Ron Kovic standing up for what he believes.</em></p>
 </blockquote>
 
@@ -7290,7 +7404,9 @@ ns1:bcpov6mhilli a ns1:Post ;
 
 <blockquote>
   <p><strong>Apokalypsis:</strong> (from the Greek) literally "revelation" or "a tearing away of the veil, of that which conceals" (kalyptein)</p>
-  
+</blockquote>
+
+<blockquote>
   <p><strong>Enantiodromia:</strong> The qualities or personas, carried to their extremes, tend to become their opposite.</p>
 </blockquote>
 
@@ -7326,11 +7442,17 @@ ns1:bcpov6mhilli a ns1:Post ;
 
 <blockquote>
   <p><em>"This dream—the (collective) Dream at the End of the World—is the awakening of the Beast."</em> p.23</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"The Beast is an autonomous complex loose in the collective psyche..."</em> p.33</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"The Beast is very often associated with the realm under the ground."</em> p.25</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"Very often the Beast's violence is located specifically in its hunger."</em> p.25</p>
 </blockquote>
 
@@ -7348,25 +7470,45 @@ ns1:bcpov6mhilli a ns1:Post ;
 
 <blockquote>
   <p><em>"The Messiah, crazy in his desire to eliminate the enemy, easily becomes the Beast."</em> p. 31</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"In this dream, (at the end of the world) Beast and Messiah co-habit the same image."</em> p. 42</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"It is in coming to terms with the reality of the Beast that our salvation lies."</em> p. 44</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"Sub-scending the madness of the 20th century means descending into the Underworld to be initiated there."</em> p. 45</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"The dream of apocalypse depends on descending into the Beast's lair with tenderness of heart..."</em> p. 44</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"Rather than enacting apocalypse in the world unconsciously, we deliberately enter the apocalypse of the psyche for the sake of the world."</em> p.53</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"We are far more likely to participate in the world's destruction by clinging to the fiction of our innocence than if we have a conscious and living relationship with the darker aspects of our own nature."</em> p. 53</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"...apocalyptic initiation may well require destruction; one's 'world falling apart' can be intrinsic to the way of transformation."</em> p. 85</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"The recognition of apocalypse begins with looking into the face of what is falling apart and finding it unbearable..."</em> p. 85</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"...the project of preserving the fiction of normality in an apocalyptic time is itself the opium of the masses."</em> p. 85</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"These dreams speak of the end of denial, both of what is going on and of our complicity in it."</em> p. 99</p>
 </blockquote>
 
@@ -7398,17 +7540,29 @@ ns1:bcpov6mhilli a ns1:Post ;
 
 <blockquote>
   <p><em>"These dreams show that the Beast may well be presenting to us one of the many faces of God."</em> p. 145</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"One cannot behold the birth of light out of darkness without having been first rendered naked."</em> p.131</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"The light is revealed when one no longer knows who one is—when one is a mystery to oneself."</em> p. 131</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"The compassionate one is the archetype at the core of religion itself, in the original sense of the word: religiare, in Latin, 're-binding'."</em> p. 132</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"In two of these dreams, the act of re-binding is storytelling."</em> p. 133</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>"The compassionate one is born the moment that self-preservation is no longer one's reason for being."</em> p. 131</p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Therefore, Cultivate Compassion!</em> Title, chapter 13</p>
 </blockquote>
 
@@ -7506,11 +7660,17 @@ ns1:bcpov6mobama a ns1:Post ;
     ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<blockquote>
   <p><em>I have a book that has ten spiritual questions on the cover as its title. I am giving it to a friend who is deeply concerned with transformation. Then the door to the house opens, and President Obama enters, hesitantly, asking permission by his humble posture. He looks at the book and I see that he wants it.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>“Take it,” I say.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>I understand in this moment that he is longing for an opportunity for consciousness, for a way deep into his soul.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Later, he comes to the door again. His longing is visible. Then he is standing on the roof of the ten story building across the street that is visible through a window in my house. He looks miniscule. A very small man at the top of the world. He may be the most important man or most powerful man in the world, but he is such a small man, looking down on the street, the world, with such a sad expression. What he sees makes him so sad. He feels the loss in the world and the loss of the consciousness he can’t access. He wants to access it. He wonders and I wonder—seeing him there, so isolated, so alone, so fragile—how to make a bridge to it.</em> </p>
 </blockquote>
 
@@ -8515,7 +8675,9 @@ ns1:bcpov6rsnaic a ns1:Post ;
 
 <blockquote>
   <p><strong>The Eagle Who Darkens the Sky</strong> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>In the dream, I’m in the back yard of my childhood home, lifting up and down on the swing-set. As I rise higher and higher and feel the elation that comes with the promise of flight, I view an enormous eagle up in the sky. As it approaches, it blots out the sun with its imposing body. I know that it’s going to release its bowels and that nothing I can do to avoid this liquid white-brown mass as it descends to the earth will allow me to survive the suffocating effects of its arrival. I see that the powerful bird’s far-reaching projectile of fecund waste is headed right for me and will consume the surrounding DNJ/ Spring 2014 19 houses and fields. The thought of running occurs to me, but I understand that trying to escape won’t help. There’s no time and I know I can’t move fast or far enough. I waken with the telltale emotions of a nightmare, terrified.</em></p>
 </blockquote>
 
@@ -8607,7 +8769,9 @@ ns1:bcpov6rsoths a ns1:Post ;
 
 <blockquote>
   <p><em>I’m having a terrific row with three very haughty ladies. They have their hair piled up high on their heads and wear expensive dresses and jewelry. I find them pompous.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>I feel they’ve done me a great injustice and want them to understand that. I am so angry I could ram their heads through the wall. I shout at them at the top of my voice, but they don’t react. I feel utterly frustrated about that. I then realize that what I’m doing is completely useless, they don’t show any reaction whatsoever.</em> </p>
 </blockquote>
 
@@ -8615,19 +8779,33 @@ ns1:bcpov6rsoths a ns1:Post ;
 
 <blockquote>
   <p><em>“To everything there is a season, and a time to every purpose under the heaven:</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>A time to kill, and a time to heal; a time to break down, and a time to build up;</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>A time to weep, and a time to laugh; a time to mourn, and a time to dance;</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>A time to get, and a time to lose; a time to keep, and a time to cast away;</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>A time to rend, and a time to sew; a time to keep silence, and a time to speak;</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>A time to love, and a time to hate; a time of war, and a time of peace.”</em> </p>
 </blockquote>
 
@@ -9033,7 +9211,9 @@ ns1:bcpov6rssull a ns1:Post ;
 
 <blockquote>
   <p><em>From an evolutionary point of view, there may be another role that our biology plays in connection with our dreams. I think dreamwork brings us into closer touch with a vital aspect of our natural animal heritage.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Animals depend for survival on the accuracy and truthfulness of their sensorially perceived world. That dependency is still with us in our effort to adapt to a still imperfect human environment. The task is a bit more difficult for us because of the pitfalls and falsehoods that our cultural heritage has subjected us to. To the extent that we are victimized by false notions, we are not free to truly fulfill ourselves. Asleep and dreaming. we are in pursuit of freedom in those areas that have eluded us while awake. The relationship between freedom and truth is the driving force of our dreams. (p. 243)</em></p>
 </blockquote>
 
@@ -9152,7 +9332,9 @@ ns1:bcpov6rswoun a ns1:Post ;
 
 <blockquote>
   <p><strong><em>1/24/93:</strong> LIW stands off in the distance, on top of a purple mountain silhouetted against a celestial moon. She holds a tiny baby dressed in white garments and circles round a blazing fire, stopping at each of the four directions to elevate the child to the heavens. As she hands the infant to me, I notice a large amethyst crystal embedded in her forehead. “She has been called forth to do some important healing work on earth,” the Lady explains. “Everything is about to come together for her but her soul will feel as if it is being ripped and torn into many pieces.” LIW places her hand over the purple stone that is beginning to take shape on my own forehead</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>“This is the mark we have given her. It is designed to provide an opening. She will be illuminated from within and without and she will know. She is meant to illuminate the earth, to shine light upon all she encounters. She must know the burning nature of this light.”</em></p>
 </blockquote>
 
@@ -9176,7 +9358,9 @@ ns1:bcpov6rswoun a ns1:Post ;
 
 <blockquote>
   <p><strong><em>2/8/93:</strong> The Master and I stare silently at each other through the flames of a roaring fire. His eyes are definitely golden and without pupils, with black lines etched across their surface, giving him the appearance of some wild, alien creature. Still he seems Oriental, with white hair, a white goatee, and thinning hair. When the fire dies down, his eyes flash beams of light that illuminate the darkness all around me. As if by magic, my body begins to levitate as a table appears, suspended in mid-air over the embers of the fire. The Master maneuvers my body onto this table, removes my clothing, and cuts me open from neck to groin. He reaches inside the cavity and pulls out a tiny crystal clock that reads close to midnight. “It is almost time for the soul work to begin, he says.” After examining my heart, he probes deep into my uterus and discovers a baby. As he touches her lovingly, a smoky white mist begins to materialize. The Master sighs with apparent pleasure and then breathes upon the little white cloud. It immediately shudders in response and bright lights dance through its transparent form. He closes up the opening in my body and I retire to the opposite side of the fire.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Silence descends upon us. I plead with him to tell me who he is. He paces back and forth, then sits back down. A large tear rolls out of his left eye. I reach over and gently wipe it away. “You do not recognize me yet, do you?” he says. “Not yet, Master, but you told me the last time we talked that Anna would know who you are. Is this true? Do you want me to ask her?” He says that I should talk with Anna, that he and Anna know each other very well. “How will she recognize you, Master?” As I look up at him, a brilliant blue, round light forms in front of his face. Then it changes to white, outlined in blue. The Master says: “Tell her about the blue light fading into white, so brilliant there is nothing else and she will know.” As he prepares to leave, I run up to him, calling out and addressing him as Grandfather. These words fly out of my mouth, as if uttered by someone else from some other place. He is as surprised as I am. “Is Grandfather right?” I ask. “Grandfather, I do know you. I do know you, Grandfather!” Both in tears, we embrace. When I open my eyes, he is gone. I catch a glimpse of him disappearing behind a golden door. The blue light reappears, and again fades away into white. And I hear these words: “Blue light fading away into white—so brilliant there is nothing.”</em></p>
 </blockquote>
 
@@ -9184,7 +9368,9 @@ ns1:bcpov6rswoun a ns1:Post ;
 
 <blockquote>
   <p><strong><em>2/14/93:</strong> I am in a strange land. White curtains hang everywhere. The winds howl and the mists are on the rise. Voices echo all around me but I see no one. The curtains form a maze through which I cannot see my way clear. A very old man appears from within the billowing white fabric columns. He wears a long brocade gown similar to the Master’s, only weighted down by heavier ornamentation and golden threads. He has very long fingernails, long hair, and a long pointed beard. He looks Oriental like Grandfather — only much older. Both his hair and beard are pure white. His long jeweled fingers beckon me to follow him and he leads me into a lavishly decorated room, embellished with gold. An ornate, golden, glasstopped case sits high on a pedestal. As I get closer, I can tell it is a casket. There is a body inside. I am overtaken with grief as I recognize my beloved Grandfather!</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>I crawl up on top of the casket, weeping and crying out to him. Miraculously, I find myself once again outside amidst the maze of white curtains. The winds continue to howl as the mists gather all around me. Voices echo everywhere; shadowy forms float past me. Grandfather’s golden visage appears in the sky, and he speaks to me. “This is the land of the seen and the unseen, the known and the unknown, the land of reality and unreality, of death, rebirth and reincarnation. I will be with you always.” From underneath one of the curtains crawls a little boy, pulling a red-headed little girl in a white gown. A strange light surrounds them.</em></p>
 </blockquote>
 
@@ -9803,9 +9989,13 @@ ns1:bcpov6z0341e a ns1:Post ;
 
 <blockquote>
   <p><em>A young man is enthusiastic about reviving Dream Network Journal… and I say, “Let’s Go!” Another man expresses interest as well. The first man begins setting up ‘camp’ along a nearby pathway. Initially, the 1st man expresses disappointment, as he wanted to ‘steer the ship’ himself ... but he soon realizes it would be much better if we work as a team.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Then JANE FONDA—who morphs back and forth into JOAN HALIFAX— come into the picture and say “YES!"; we want involvement as well.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>I’m ecstatic! Details begin falling into place, one by one. It’s truly a new beginning for the publication. (End dream) Wow, huh?</em></p>
 </blockquote>
 
@@ -9918,9 +10108,21 @@ ns1:bcpov6zbincu a ns1:Post ;
 
 <blockquote>
   <p><em>I see a very handsome young man walking toward me in the hall of the college that I attend in the dream. I wish that I could somehow meet him and have lunch with him because I am powerfully attracted to him. Obviously he feels that same way when he sees me because he turns around in the hall and approaches me. We carry on a conversation. I tell him I'm a senior and he indicates that he is a freshman transfer student. He should be a sophomore, but he lost credits when he transferred. I wonder if I'll be teased about him being younger than I am. Later on, he shows up at the dorm room I share with a learning disabilities teacher. He and I kiss passionately, and I'm hooked!</em></p>
-  
+</blockquote>
+
+<blockquote>
+  <p></p>
+</blockquote>
+
+<blockquote>
   <p><em>We are now in a bed making love and I'm wondering why me breasts aren't as aroused as they usually are during passionate love-making. This is my first sense that maybe this relationship isn't all that it's supposed to be... Even though I'm extremely aroused and passionately involved.</em> </p>
-  
+</blockquote>
+
+<blockquote>
+  <p></p>
+</blockquote>
+
+<blockquote>
   <p><em>The scene changes. We're in a car and he stops to buy some drugs. The police pull us over. The like him because of his easy manner and good looks. He is let off the hook with a warning. Meanwhile, the whole time we're in the car, I'm still passionately aroused and desperately want a climax but never achieve one.</em></p>
 </blockquote>
 
@@ -10532,7 +10734,9 @@ ns1:bcpov6zditna a ns1:Post ;
 
 <blockquote>
   <p>Is can-do coming back? To find out with any accuracy means gauging and quantifying the American mood. We measure the gross national product, consumer prices, stock market values, the money supply. Why not the American spirit? Why not an index of the Gross National Spirit? <em>-United Technologies advertisement, the Atlantic Monthly, November, 1981</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p>As a whole, we are a generation of men so estranged from the inner world that many are arguing that it does not exist; and that even if it does exist, it does not matter. Even if it has some significance, it is not the hard stuff of science, and if it is not, then let's make it hard. Let it be measured and counted. <em>-Ronald Laing, The Politics of Experience</em> </p>
 </blockquote>
 
@@ -10602,21 +10806,37 @@ ns1:bcpov6zditna a ns1:Post ;
 
 <blockquote>
   <p>What is this dark and evil power </p>
-  
+</blockquote>
+
+<blockquote>
   <p>come across the ocean to crush the wigwam? </p>
-  
+</blockquote>
+
+<blockquote>
   <p>500 years of rape and genocide </p>
-  
+</blockquote>
+
+<blockquote>
   <p>from Columbus to Vietnam. </p>
-  
+</blockquote>
+
+<blockquote>
   <p>How will we ever free ourselves </p>
-  
+</blockquote>
+
+<blockquote>
   <p>from this karma we're collecting so cheap? </p>
-  
+</blockquote>
+
+<blockquote>
   <p>How will we ever free ourselves? </p>
-  
+</blockquote>
+
+<blockquote>
   <p>Look way down deep... </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>-Dennis Pearne "Whispers of the Spirit"</em></p>
 </blockquote>
 
@@ -12329,11 +12549,17 @@ ns1:bcpov6zfgil1 a ns1:Post ;
 
 <blockquote>
   <p>One word, which has never yet been spoken; </p>
-  
+</blockquote>
+
+<blockquote>
   <p>One light, which has not yet shone; </p>
-  
+</blockquote>
+
+<blockquote>
   <p>One confusion, without equal; </p>
-  
+</blockquote>
+
+<blockquote>
   <p>And one road, without end.</p>
 </blockquote>
 
@@ -12406,7 +12632,9 @@ ns1:bcpov6zfgluc a ns1:Post ;
 
 <blockquote>
   <p><em>D. is lingering around my apartment and made it apparent that she intends to spend the night. My sisters are also there. D. begins touching and kissing me; I am very excited and start making sounds of pleasure. She "shushes" me so I wouldn't wake up my sisters. Then, I realize I am dreaming and my sisters fade from the scene. I hold D. in my arms, replacing the sexual energy with a deep feeling of intimacy, an incredibly comforting closeness. I say, "How I've fantasized doing this with you. Just holding you." Then, I want to fly and explain to D. about lucid dreaming. She is skeptical at first and for a moment even I wonder if I am really dreaming; part of me resists the heartbreaking reality that our renewed relationship is "just a dream". I bust out the window glass, grab D's hand and jump out, almost expecting to fall and die but then a jolt of awareness reinforces my lucidity and flying is glorious.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>For the next portion of the dream, we keep landing and taking off slowly and low to the ground. D. wants to learn to fly on her own power and is still too timid to take great leaps. I treat her as an independent entity and let her go at her own pace. I do, however, share my expertise, showing her that we do not have to fly around trees but can go right through them and experience each and every leaf in exquisite, vibrating detail. We make love in the sky as we soar and I experience my first lucid dream orgasm. Then, I begin to explain to D. that this is <strong>my</strong> dream and suddenly, upon seeing her puzzled expression, I get this clear and real feeling that she is <strong>not</strong> simply a character in my dream but actually the dream body of the flesh and blood D. We go on to have many more adventures which have faded from my memory. But then my elation turns into sadness when I realize that I will wake up soon. I take hold of D.'s hand, determined to enjoy the moments while they last without trying to control them. I try to explain, the techniques of "spinning" to her in case she really is the dream body of D. so that she can go on dreaming when I wake up if she so desires. Then D. begins to fade, to metamorphosize. Eventually, she becomes another character altogether and chastises me for still seeing her as D. I am heartbroken and start to lose lucidity. I consider "spinning" and trying to get D. to reappear. Instead I wake up weeping, tears spill out of my waking eyes and I am chanting: "Even in a dream, one must let go; even in a dream, one must let go."</em></p>
 </blockquote>
 
@@ -13148,7 +13376,9 @@ ns1:bcpov6zftber a ns1:Post ;
 
 <blockquote>
   <p>“Clearly we are facing critical problems, but what is it that needs to be done? Berry’s advice remains clear and timely. Basically he tells us, ‘What we need, what we are ultimately groping toward, is the sensitivity required to understand and respond to the psychic energies deep in the very structure of reality itself…”</p>
-  
+</blockquote>
+
+<blockquote>
   <p>“Accepting the spontaneities of the universe, calls for a vision that is dreamlike. Imagination functions most freely in dream vision, and so we tend to associate creativity with dream experience. ‘The dream comes about precisely through the uninhabited spontaneities of which we are speaking,’says Berry. ‘In the beginning was the dream. Through the dream all things were made, and without the dream, nothing was made that has been made.’…” </p>
 </blockquote>
 
@@ -13158,9 +13388,13 @@ ns1:bcpov6zftber a ns1:Post ;
 
 <blockquote>
   <p>“It is through a complex, continuous and subtle interaction that we maintain ‘our intimate presence to the function of the earth community and to the emergent process of the universe itself.” </p>
-  
+</blockquote>
+
+<blockquote>
   <p>“Berry’s basic insight remains entirely valid. ‘The present situation is so extreme that we need to get beyond our existing cultural formation and back to the primary tendencies of our nature itself, expressed in the spontaneities of our being.'” </p>
-  
+</blockquote>
+
+<blockquote>
   <p>“The brightest glimmer of hope shimmering at the darkening horizon of the current global crisis is, in Berry’s words, that ‘the universe is revealing itself to us in a special manner just now. Also the planet Earth and the life communities of the Earth are speaking to us through the deepest elements of our nature’.” </p>
 </blockquote>
 
@@ -13190,7 +13424,9 @@ ns1:bcpov6zftber a ns1:Post ;
 
 <blockquote>
   <p>“So far in this passage it seems that he (Berry) meant the realm of vision to be the domain or mission of the presumably rare individual in a society, the shamanic personality. But then in the very next sentence, ‘Not only is the shamanic type emerging in our society, but also the shamanic dimension of the psyche itself. In periods of significant cultural creativity, this aspect of the psyche takes on a pervasive role throughout the society’…” </p>
-  
+</blockquote>
+
+<blockquote>
   <p>“Whether or not the healthy societies of the past were replete with mature members who experienced and embodied revelatory vision, I believe, along with Thomas, that this is both possible and necessary in this century if we are to successfully reinvent the human.” (Reinventing the human at the species level is a major component in Berry’s Ecozoic challenge.) “Sustainable societies, at this turning point in human and Earth’s evolution, will come about through neither human rationality nor the vision of a few individuals alone but through the pervasive emergence of ‘the shamanic dimension of the psyche’. Although the vision of the one can catalyze the many, the vision of each is needed to build the new cultures.” </p>
 </blockquote>
 
@@ -13198,7 +13434,9 @@ ns1:bcpov6zftber a ns1:Post ;
 
 <blockquote>
   <p>Thomas Berry: “Foundations of a new historical period, the Ecozoic Era, have been established… The mythic vision has been set into place… The dream drives the action. In the larger cultural context the dream becomes the myth that both guides and drives the action.”</p>
-  
+</blockquote>
+
+<blockquote>
   <p>And: “The greatest single need for the survival of the Earth or of the human community in the twenty-first century is for an integral telling of the great story of the universe. This story must provide in our time what the mythic stories of earlier times provided as the guiding and energizing sources of the human venture… The three basic tendencies of the universe at all levels of reality are differentiation, spontaneous self-organization, and bonding. These tendencies identify the reality, the values, and the directions in which the universe is proceeding.” </p>
 </blockquote>
 
@@ -14226,13 +14464,21 @@ ns1:bcpov6zpdlds a ns1:Post ;
 
 <blockquote>
   <p><em>Dreamer: Who’s visiting now? I noticed a pain a twinge in my somatic response to your presence. I have always been in fear of you since I was bit on the neck as a child. I mourned your devouring. You fought hard. You writhed and struggled, yet you continued to be outpowered. There’s such an awestruck beauty to your pain. How did you feel about it?</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>There is a silence and a calm presence.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Snake: I feel content. It’s a cycle of life, an important of sacrifice. This is natural. The pain is natural. It’s evolutionary.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Dreamer: What’s happening here? What do you need?</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Snake: I need you to be at peace with the shadow with the pain. I need you to embrace its natural cycles and let go of control. Stop planning. Start embracing the unknown. It will be okay. You don’t need to have perfection nor the answers. You can embrace the present moment. I’m an ancestor, a spirit guide. Guiding you on a path.</em>  </p>
 </blockquote>
 
@@ -14246,11 +14492,17 @@ ns1:bcpov6zpdlds a ns1:Post ;
 
 <blockquote>
   <p><em>Dreamer: Who is visiting now?</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Lizard: I am the inner self: the darkness and the fear. I devour hopes, dreams, and potential. I keep you limited and stuck. My purpose is to challenge you. I’m your nightmare state. Everything you fear encapsulated in a single form. My intention is to make you feel stuck, limited, and small. I block the path to ascension—the path to self-knowledge. I’m your ego. Your shoulds, your oughts, your whys. All of the pressure you feel.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Dreamer: What is happening here? What am I supposed to learn?</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Lizard: It’s not about your relationship. It’s deeper. You have deeper pain and turmoil. You lack faith within yourself and your capacity. I’m the manifestation of your self-doubt—the core of your inadequacy.</em> </p>
 </blockquote>
 
@@ -14427,9 +14679,13 @@ ns1:bcpov6zpdtem a ns1:Post ;
 
 <blockquote>
   <p><em>I am typing on the computer my husband and I named, “Our Majesty”. All of a sudden I see a bag with some pink liquid that has squirted out of Our Majesty. First, I think I need to have the pink liquid in the computer, but then I think, Oh, I could operate it without that liquid because some liquid would be left. I do think that my computer may squeak a little because of being low on the liquid, as do most machines. As I sit, my former accounting advisor comes and says that the university is going to put in completely new computer systems, and I am one targeted to be the administrator. I am quite surprised. I say, “Here I am, one who doesn’t know all that much about computers, and so I am quite curious why I would be top of the list to administer these new systems”. It isn’t a done deal, I need to apply. We walk together. I say to my advisor that I work with my dreams, and I say, “This project isn’t in that line”. He doesn’t seem to respond to that.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>My advisor doesn’t explain what would be entailed with the job. I am left without knowing much about it. He does tell me this will be a year and a half commitment, and I either tell him or think to myself I just wouldn’t want to be away from working with my own dreams for a year and a half. I feel resistant and strained in doing this. He obviously thinks it is something I should do. Later, a young woman tells me I need to get the application for systems administrator filed within a week. I am not the only one applying for the job.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>I still debate whether I want to do this. I ask her what the job entails, and she gives me a few more details than my advisor did, but still doesn’t give many details, and on waking I have no recall of what she said.</em></p>
 </blockquote>
 
@@ -14466,13 +14722,21 @@ ns1:bcpov6zpdtem a ns1:Post ;
 
 <blockquote>
   <p><strong>Dream:</strong> <em>I am sitting at a table listening to a presentation with other people. A young man is explaining to us how to do some kind of application, for want of better description. I feel like an odd person to be in this setting, somewhat as if “this doesn’t fit in my circumstances”.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>Later there is another meeting. I get all dressed to go to that meeting, but I decide I won’t go. The meeting is going on in the next room. I am wondering how many people are there, if enough showed up to encourage the presenter.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>After the meeting the young man presenter comes into this room where I am and talks to me about his presentation. He points to something I have written on a couple pieces of paper.</em> </p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>I don’t have my glasses on, so I really don’t see what he points to. He is talking about whatever it is that I could apply for or join something that one needs to do to be accepted on something. He continues upbeat. He doesn’t even act as if I haven’t paid much attention.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>The scene changes and I am walking down a walk in an open area with this young man. He says to me, “I bet you will be in New York next ____” – Did he say year? He definitely did say, “I bet you will be in New York next”. I am surprised and a bit thrilled about that.</em></p>
 </blockquote>
 
@@ -14524,7 +14788,9 @@ ns1:bcpov6zpdtem a ns1:Post ;
 
 <blockquote>
   <p><strong>Dream:</strong> <em>I am riding in the front seat of a car or van with a couple of other people. The one sitting next to me is a young woman. There’s someone on the other side of her with whom she visits about dreams. I am sitting in the driver’s position. I am just sitting here enjoying listening to these young women talk about their dreams. They just tell their dreams; I don’t recall much about they're trying to interpret them; perhaps they do, but it is mostly telling their dreams.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>After a while I start to explain to the young woman next to me how to use the PMID model. She gets the first step (discover the theme of the dream). I tell her about thoughts (that prompted this dream), but she doesn’t seem to understand the step about thoughts with only talking. I explain, “You need to write your day-before-your dream thoughts down”. I don’t feel hurried as I take the time to explain this step. However, the catch is that we are almost to our destination, so there isn’t time to explain the rest of the PMID model steps as thoroughly as she needs for her to be able to use it to interpret her dreams. I do feel pressed about there not being enough time to explain how to use the full PMID model.</em></p>
 </blockquote>
 
@@ -14816,9 +15082,13 @@ ns1:bcpov6zprofe a ns1:Post ;
 
 <blockquote>
   <p><strong><em>Don't Ask Your Students to Wash Their Dirty Laundry in Public</em></strong></p>
-  
+</blockquote>
+
+<blockquote>
   <p><em>People are washing clothes in a laundry area of our apartment building. They brought the clothes up from the basement. I bring my clothes to wash also. A woman who was washing in the basement is now washing upstairs in this laundromat sort of area. A young man, probably a college student, is standing close to her and when he sees me, he says very loudly and possessively to me, "I'm next". I take my basket of clothes downstairs and talk very loud in mimic of the young man's "I'm next" as I go down the stairs. But when I get to the basement, I understand why these people aren't washing in the basement - either there aren't machines here now, or they aren't working. The upstairs is more like a laundromat, than the basement.</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><strong>[Oh, the 'washing your dirty clothes in public' dream is saying not to say anything about the students' ethics case answers in class. Several students said they would take the "double" reimbursement for interviewing trip.]</strong> (The bold type indicates the "aha" point which came just as I finished typing the dream.)</p>
 </blockquote>
 
@@ -14848,7 +15118,9 @@ ns1:bcpov6zprofe a ns1:Post ;
 
 <blockquote>
   <p><em>I am an observer. There is a coach and young athletes - perhaps nine or ten. The coach is at the head of two parallel bars on which the young athletes are doing training. It seems like they are turning over the bars. The bars are two rows close together and the athletes are boys and girls. They are probably the same age, but the girls look more mature. At first I only notice the boys and one in particular. He is tired and thinks the coach is expecting too much. The boy says he has some injury and crawls between the bars toward the lady coach. She doesn't stop the practice, but keeps on going. The boy now does half-hearted turning over the bars. Now it is the end of the day's session and <strong>the boy quits the team!</strong> And now others quit the team and there are only six girls left; they don't complain. They seem to be willing to work. The coach is discouraged though. I believe she is wondering if there will be enough participants on the team for the next competition (but the dream is unclear on that point).</em></p>
-  
+</blockquote>
+
+<blockquote>
   <p><strong><em>Now I seem like the coach</strong> and am standing just inside the door at the house of the boy who quit first. It is dusk-like in this modest room. The boy's mother is in the room. She is very discouraged about the boy quitting. She is very disappointed. She had high hopes of how well things were going. She knew he had something to overcome -fight back from something- but had thought her son was making progress.</em></p>
 </blockquote>
 
@@ -15154,7 +15426,13 @@ ns1:bcpov6zvrmut a ns1:Post ;
 
 <blockquote>
   <p><em>Upon entering my dream, I immediately receive a visit from a dreaming friend from Australia, Kathy Turner, who said, “Come on Valley, wake up! Let’s go!” I could see she is connected to a red cord of light and there are 3 other women also coming with us, each connected by their own colorful cord of light. Now inside a conscious dream reality, I see another dreaming friend, Teresa MacColl. She appears in my dream and approaches an ancient tree that has been hollowed out; it holds rainwater and she is lying inside it. I then find myself speaking with an older, full-bodied woman with skin the color of the dark earth. This African looking Medicine Woman offers me a glass vial of a flower remedy that she has made. I decline her offer because I do not know her. She grimaces at my choice, shaking her head. I then find myself in a circle of women gathered together in the dark of night, all wearing dark hooded garments. Each holds a large orb of light in front of them, showing their sacred light.</em> </p>
-  
+</blockquote>
+
+<blockquote>
+  <p></p>
+</blockquote>
+
+<blockquote>
   <p><em>These women are healers, gathered together, as from a distant ancient memory. It is the light they each hold, which identifi es them as a member of this sacred circle of women healers, each with their own gifts and wisdom. I then began to hear music playing and see three aboriginal men bringing their song lines to me, offering their sacred song, to take me into the dreamtime. I find myself entering the dreamtime where the world is formed in dreaming. My consciousness is spread out through the stars in the galaxy and there swims the giant and beautiful Rainbow Serpent of Aborigine creation myths. The dream brings me into contact with this beautiful energy in a cosmic dance of the heart. The dance weaves back and forth, undulating into my heart and back out to the expansive beauty of the galaxy and the Rainbow Serpent.</em></p>
 </blockquote>
 

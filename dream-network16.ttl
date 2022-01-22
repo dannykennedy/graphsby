@@ -2421,6 +2421,35 @@ ns1:bcpov6grkrev a ns1:Post ;
     ns1:name "Victorian Songlight: Birthings of Magic & Mystery - Book Review"^^xsd:string ;
     ns1:urlSlug "victorian-songlight-book-review-nancy-roberts"^^xsd:string .
 
+ns1:bcpov6grlatt a ns1:Post ;
+    ns1:dateCreated "2021-08-13T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><br></p>
+
+<p>I hope voice will be comfort</p>
+
+<p>so you sleep tonight.</p>
+
+<p>I hope your days will be numbered</p>
+
+<p>only by stars in the sky</p>
+
+<p>I hope your dreams will be coloured</p>
+
+<p>by rainbow’s delight</p>
+
+<p>I hope you’ll see light at the tunnel</p>
+
+<p>When you wake to morning’s paradise.</p>
+
+<p><br><br><br></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvvcft ;
+    ns1:hasTag ns1:bcphbqvvcft ;
+    ns1:itemId "bcpov6grlatt"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Light at the Tunnel"^^xsd:string ;
+    ns1:urlSlug "light-at-the-tunnel"^^xsd:string .
+
 ns1:bcpov6grlrev a ns1:Post ;
     ns1:dateCreated "2005-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6grlrev-0.jpg" width="200px" height="auto"/></p>
@@ -16907,6 +16936,18 @@ ns1:bcphbqvvall a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Valley Reed"^^xsd:string ;
     ns1:profileImg "author-valleyreed.jpg"^^xsd:string .
+
+ns1:bcphbqvvcft a ns1:User ;
+    ns1:coverImg "cover-author-christina-forbes-thomas.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://womanyouarewine.com/">womanyouarewine.com</a></p>
+
+<p>Christina Forbes-Thomas is a graduate student at Pacifica Graduate Institute, California, where she studies Depth Psychology with a specialization in Jungian and Archetypal studies. She is from the Caribbean Island country, Jamaica. She has special interest in psychic and creative processes that facilitate psychological transformation and healing, symbolism, and psychic images that can express and contain the numinous in lived experience. Christina is an advocate for the return and revaluing of myths and the old stories and for their inclusion in efforts to recover the symbolic imagination, ways of knowing and being. She works toward offering therapy through poetic practice, an archetypal approach that helps women to reconnect, engage with, and nurture the sacred through direct experience. Her writing engages myths as tools to amplify cultural events, exploring both the inner lives of individuals and the collective challenges of groups.</p>
+"""^^xsd:string ;
+    ns1:handle "christinaforbesthomas"^^xsd:string ;
+    ns1:itemId "bcphbqvvcft"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Christina Forbes-Thomas"^^xsd:string ;
+    ns1:profileImg "author-christina-forbes-thomas.jpg"^^xsd:string .
 
 ns1:bcphbrw63cp a ns1:Post ;
     ns1:coverImg "15.1-cover.jpg"^^xsd:string ;

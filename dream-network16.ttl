@@ -13856,6 +13856,18 @@ ns1:bcpov6zi3ldl a ns1:Post ;
     ns1:profileImg "post-bcpov6zi3ldl-1.jpg"^^xsd:string ;
     ns1:urlSlug "little-dream-library"^^xsd:string .
 
+ns1:bcpov6zi3ppd a ns1:Post ;
+    ns1:dateCreated "2022-03-11T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Learn to use dreams and imagination to super-charge your writing. Dreaming on the Page self-guided online workshops wake up your poetry and prose and connect you to an international community of dreamers and writers. Everybody dreams and everybody has a story to tell. Starting at $35. Enroll: <a href="https://dreamingonthepage.teachable.com/">dreamingonthepage.teachable.com</a>. Inquire: hello@tziviagover.com</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvtziv ;
+    ns1:hasTag ns1:bcphbqvtziv,
+        ns1:bcpov6pnotb ;
+    ns1:itemId "bcpov6zi3ppd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Pick up your pen and dream!"^^xsd:string ;
+    ns1:urlSlug "pick-up-your-pen-and-dream"^^xsd:string .
+
 ns1:bcpov6zi3sec a ns1:Post ;
     ns1:dateCreated "2021-01-28T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Hello All!!!</p>
@@ -16921,6 +16933,32 @@ ns1:bcphbqvrugh a ns1:User ;
     ns1:name "Genell Howell"^^xsd:string ;
     ns1:profileImg "author-gh.jpg"^^xsd:string .
 
+ns1:bcphbqvtziv a ns1:User ;
+    ns1:coverImg "cover-author-tzivia.jpeg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://tziviagover.com/">tziviagover.com</a></p>
+
+<p><a href="https://www.linkedin.com/in/tzivia-gover-7972178/">LinkedIn</a></p>
+
+<p>Tzivia Gover blends dreamwork and mindfulness-based practices, awakening people to the joy, beauty and wisdom hidden within daily life. </p>
+
+<p>She offers <a href="https://square.site/appointments/book/6NDQQ3FG0949C/tzivia-gover-third-house-moon-llc">personal dreamwork sessions</a>, keynotes and <a href="https://tziviagover.com/events-workshops/">workshops</a>.</p>
+
+<p>She is also the author of a number of books, including "Joy in Every Moment" and "The Mindful Way to a Good Night’s Sleep". </p>
+
+<p>Tzivia's dream is to: </p>
+
+<ul>
+<li><p>Rejuvenate interest in dreaming and dreams</p></li>
+<li><p>Wake people up to the hidden potential of dreams to positively impact their health, happiness, and connection to others</p></li>
+<li><p>Translate serious dream scholarship into practical guidance for people’s everyday experience of dreaming</p></li>
+</ul>
+"""^^xsd:string ;
+    ns1:handle "tziviagover"^^xsd:string ;
+    ns1:itemId "bcphbqvtziv"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Tzivia Gover"^^xsd:string ;
+    ns1:profileImg "author-tzivia.jpg"^^xsd:string .
+
 ns1:bcphbqvvall a ns1:User ;
     ns1:coverImg "cover-author-valleyreed.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://awakenthesacreddream.com/">awakenthesacreddream.com</a></p>
@@ -17188,16 +17226,6 @@ ns1:bcphbzoxivb a ns1:Post ;
     ns1:name "Volume 31, issue 3: Dreaming Politics"^^xsd:string ;
     ns1:profileImg "31.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.3"^^xsd:string .
-
-ns1:bcpov6pnotb a ns1:Post ;
-    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>This page is for dream-related notices! Email us at hello@dreamnetworkjournal.com if you'd like to put something here. </p>
-"""^^xsd:string ;
-    ns1:itemId "bcpov6pnotb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Noticeboard and classifieds"^^xsd:string ;
-    ns1:profileImg "1.3-cover.jpg"^^xsd:string ;
-    ns1:urlSlug "noticeboard"^^xsd:string .
 
 ns1:bcpov6zfsra a ns1:Post ;
     ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
@@ -17533,6 +17561,16 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:name "Volume 32, issue 1: Group Dreaming"^^xsd:string ;
     ns1:profileImg "32.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
+
+ns1:bcpov6pnotb a ns1:Post ;
+    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>This page is for dream-related notices! Email us at hello@dreamnetworkjournal.com if you'd like to put something here. </p>
+"""^^xsd:string ;
+    ns1:itemId "bcpov6pnotb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Noticeboard and classifieds"^^xsd:string ;
+    ns1:profileImg "1.3-cover.jpg"^^xsd:string ;
+    ns1:urlSlug "noticeboard"^^xsd:string .
 
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>

@@ -4,7 +4,7 @@ itemId: bcpov6gabout
 layout: post
 name: "About the Dream Network"
 tags:
- - hasAuthor: dreamnetwork
+  - hasAuthor: dreamnetwork
 type: post
 urlSlug: "about-the-network"
 ---
@@ -12,21 +12,30 @@ urlSlug: "about-the-network"
 <img src="../images/cover-tree-ferrimani.jpg" alt="cover image" width="500px" style="margin: auto;"/>
 <div style="text-align:center;font-style: italic;font-size: 0.9em;"><span>'Chart the Growth' (detail), by Brenda Ferrimani</span></div>
 
-The Dream Network began life in New York City in 1982, edited by the young [Bill Stimson](../@billstimson). The Network aimed to 'bring dreams back to dreamers' - or as [Montague Ullman](../@montagueullman) phrased the idea in one of his early contributions, 'Giving dreams back to the people'. 
+The Dream Network began life in New York City in 1982, edited by the young [Bill Stimson](../@billstimson). The Network aimed to 'bring dreams back to dreamers' - or as [Montague Ullman](../@montagueullman) phrased the idea in one of his early contributions, 'Giving dreams back to the people'.
 
 While the ideas of great dream theorists have been avidly studied in these pages, the final authority on the meaning and importance of dreams always lies with the individual dreamer. The dream has always been regarded as a tool for personal liberation, an object of aesthetic and ecstatic admiration as well as scientific study.
 
-This has meant an eclectic publication that mixed articles with poetry and art, quantitative analysis with personal reflections, and included contributions by professionals and enthusiasts alike. The Network nurtured a network of dreamers and dream groups, a 'dream cherishing culture'. 
+This has meant an eclectic publication that mixed articles with poetry and art, quantitative analysis with personal reflections, and included contributions by professionals and enthusiasts alike. The Network nurtured a network of dreamers and dream groups, a 'dream cherishing culture'.
 
-The Dream Network Journal ceased publication at the end of 2015, but in 2019 [Dan Kennedy](https://twitter.com/kannydennedy) and [Inoshi Denizen](http://eastwest.works/Inoshi.html) teamed up with [Roberta Ossana](../@robertaossana), the journal's editor of 27 years, to bring the wisdom of the journal back to dreamers again. Thanks to our [crowdfunding backers](https://chuffed.org/project/dream-network-journal), this website allows you to download every issue ever published, and read many articles in blog form. 
+The Dream Network Journal ceased publication at the end of 2015, but in 2019 [Dan Kennedy](https://twitter.com/kannydennedy) and [Inoshi Denizen](http://eastwest.works/Inoshi.html) teamed up with [Roberta Ossana](../@robertaossana), the journal's editor of 27 years, to bring the wisdom of the journal back to dreamers again. Thanks to our [crowdfunding backers](https://chuffed.org/project/dream-network-journal), this website allows you to download every issue ever published, and read many articles in blog form.
 
-This is tentatively an 'archive' site of the journal, but we'd also like to experiment with something a bit more *living*. As of now, if you have any articles you'd like to contribute, please let us know! We will send out a digest to subscribers of the newsletter (signup link in the menu above). 
+**Thank you to everyone who donated** to this campaign. We'd like to personally thank [Kelly Bulkeley](../@kellybulkeley), whose donation really made this campaign possible, and all the 'super supporters' of the campaign: [Luigi Sciambarella](https://www.monroeinstitute.org/pages/trainer-luigi-sciambarella), [Evelyn Duesbury](../@evelynduesbury), <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as [Arthur Strock](../@arthurstrock), <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, [Rosemary Watts-Dreyer](../@rosemarywattsdreyer), [Patti Allen](https://pattiallen.com/about/patti-allen/), [Mary Bronk](https://www.linkedin.com/in/mary-beth-bronk-583298164/), [Spoken Stone](http://spokenstone.com/), and [all the supporters](https://chuffed.org/project/dream-network-journal) who made this a reality. For their donations as well as providing providing their personal copies of DNJ publications, special thanks to [Dick McLeester](../@dickmcleester), [Marlene King](../@marleneking), and [Roberta](../@robertaossana) herself.
+
+**Thank you also to all the amazing authors and advisors** of the Dream Network, and all the editors prior to Roberta:
+
+- The original Network: [Bill Stimson](../@billstimson) - Dream Network Bulletin founder and editor, NYC (1982-1983), Sally Shute (Lucidity & Beyond), Chris Mathews and Doug Cohen (Fusion), Suzanne Keyes (Dream Craft)
+- [Chris Hudson](../@chrishudson) - editor, NYC (1983-1985)
+- [Robert Van De Castle](../@bobvandecastle) (now departed) & [Henry Reed](../@henryreed) (1985-1987)
+- [Bob Trowbridge](../@bobtrowbridge) and [Linda Magallón](../@caseyflyer), San Jose (1987 - 1989)
+
+This is tentatively an 'archive' site of the journal, but we'd also like to experiment with something a bit more _living_. As of now, if you have any articles you'd like to contribute, please let us know! We will send out a digest to subscribers of the newsletter (signup link in the menu above).
 
 You can contact us at: <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a>
 
 ## A brief history of the Dream Network
 
-Here's how [Roberta Ossana](../@robertaossana) has described some of the journal's history: 
+Here's how [Roberta Ossana](../@robertaossana) has described some of the journal's history:
 
 "The Dream Network was first published as a Bulletin and appeared in print through the determination of a very fiery and compassionate young man by the name of [William (Bill) Stimson](../@billstimson). I wrote Bill—who has become a cherished friend—and asked him if he'd be willing to share a few words. Bill's statement is the essence, the Spirit, that guides the Dream Network:
 
@@ -48,7 +57,7 @@ Chris and his wife [Dale](../@dalegottlieb) moved to Brooklyn from rural New Ham
 
 > “I believe that the unconscious is God and that dreams are the best path to understanding God within and the interconnectedness of all people. Creativity is the blood of God and dreams are nothing if not creative, always in the service of self-awareness, not always comfortably but always accurately.”
 
-Chris was in Brooklyn when [Henry Reed](../@henryreed) and [Bob Van De Castle](../@bobvandecastle) took responsibility for the publication next, in Virginia Beach, Virginia (approx. 1985. I'm not aware of the dynamics that occurred when the publication was making its moves around the country in its early years, but Henry and Bob have shared that even before the Dream Network appeared on the scene, Henry had published several issues of the "Sundance Community Dream Journal," the precursor to the Dream Network Journal and the first published journal declaring that dreams belong to dreamers. The Sundance Journal and Henry's early efforts have had him dubbed "The Father of the American Dream Movement" in many circles. 
+Chris was in Brooklyn when [Henry Reed](../@henryreed) and [Bob Van De Castle](../@bobvandecastle) took responsibility for the publication next, in Virginia Beach, Virginia (approx. 1985. I'm not aware of the dynamics that occurred when the publication was making its moves around the country in its early years, but Henry and Bob have shared that even before the Dream Network appeared on the scene, Henry had published several issues of the "Sundance Community Dream Journal," the precursor to the Dream Network Journal and the first published journal declaring that dreams belong to dreamers. The Sundance Journal and Henry's early efforts have had him dubbed "The Father of the American Dream Movement" in many circles.
 
 In approximately 1987, the Dream Network traveled into the hands and heart of [Linda Magallón](@caseyflyer), San Jose, CA.—who had a great deal of support from [Bob Trowbridge](../@bobtrowbridge) and [Jill Gregory](../@jillgregory). Linda had this to say:
 
@@ -56,8 +65,8 @@ In approximately 1987, the Dream Network traveled into the hands and heart of [L
 
 In June 1989, literally on summer solstice, I was informed that the Bay Area Dream Workers had accepted my offer to take responsibility for the publication. I KNEW at that moment, how a butterfly feels coming out of its cocoon!"
 
-*Roberta stewarded the Network masterfully from 1989 to 2015. In her time she moved from a 24 to 52-page publication, with each issue focused on a central theme. She developed a council of advisors for the journal, and started publishing the journal in PDF form online.*
+_Roberta stewarded the Network masterfully from 1989 to 2015. In her time she moved from a 24 to 52-page publication, with each issue focused on a central theme. She developed a council of advisors for the journal, and started publishing the journal in PDF form online._
 
-<hr/> 
+<hr/>
 
 Now please plumb the depths of this collection for wisdom on any dream-related topic that grabs your fancy. This [list of Dream Network articles](https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing) in spreadsheet form might help!

@@ -12,42 +12,30 @@ profileImg: tree.png
 coverImg: cover-author-ericsnyder.jpg
 ---
 
-The Dream Network Journal was published in printed form from 1982 to 2015, a place for people to share the wonder and mystery of dreams. Thanks to our [crowdfunding supporters](https://chuffed.org/project/dream-network-journal), this archive offers all issues of the DNJ for download, and reproduces many articles in blog form.
+The Dream Network Journal is a place for people to share the wonder and mystery of dreams. The journal was published in printed form from 1982 to 2015, and thanks to our [crowdfunding supporters](https://chuffed.org/project/dream-network-journal), the site offers all issues of the DNJ for download, and reproduces many articles in blog form.
 
-Below, you can download each volume as a .zip file, or download each issue individually from the list of images. If you'd like to look up an individual author or article, there's a growing [authors page](../@dreamnetwork~contributors) here, and a (not-quite-complete) [list of Dream Network articles](https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing) in spreadsheet form.
+If you'd like to look up an individual author or article, there's a growing [authors page](../@dreamnetwork~contributors) here, and a (not-quite-complete) [list of Dream Network articles](https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing) in spreadsheet form.
 
-Rather than republishing these PDFs online, please just link to this site. We also ask you not to publish the articles in the journals, unless you have the permission of the author (or you are the author, in which case, the rights are yours!)
+Please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> for questions or submissions.
 
-**Thank you to everyone who donated** to this campaign. We'd like to personally thank [Kelly Bulkeley](../@kellybulkeley), whose donation really made this campaign possible, and all the 'super supporters' of the campaign: [Luigi Sciambarella](https://www.monroeinstitute.org/pages/trainer-luigi-sciambarella), [Evelyn Duesbury](../@evelynduesbury), <a href="http://ener.co/team/patrick-rathje/">Patrick Rathje</a>, <a href="https://lotushawkspeaks.squarespace.com/">Harriette Mandeville</a>, Robert Krumhansl and <a href="https://www.linkedin.com/in/danituazon">Dani Tuazon</a>, as well as [Arthur Strock](../@arthurstrock), <a href="https://independent.academia.edu/PacoMitchell">Robert ("Paco") Mitchell</a>, [Rosemary Watts-Dreyer](../@rosemarywattsdreyer), [Patti Allen](https://pattiallen.com/about/patti-allen/), [Mary Bronk](https://www.linkedin.com/in/mary-beth-bronk-583298164/), [Spoken Stone](http://spokenstone.com/), and [all the supporters](https://chuffed.org/project/dream-network-journal) who made this a reality. For their donations as well as providing providing their personal copies of DNJ publications, special thanks to [Dick McLeester](../@dickmcleester), [Marlene King](../@marleneking), and [Roberta](../@robertaossana) herself. 
+Cover image: _Gaia gazes in the mirror and sees the Earth_, by [Eric Snyder](../@ericsnyder/)
 
-**Thank you also to all the amazing authors and advisors** of the Dream Network, and all the editors prior to Roberta:
-
-- The original Network: [Bill Stimson](../@billstimson) - Dream Network Bulletin founder and editor, NYC (1982-1983), Sally Shute (Lucidity & Beyond), Chris Mathews and Doug Cohen (Fusion), Suzanne Keyes (Dream Craft)
-- [Chris Hudson](../@chrishudson) - editor, NYC (1983-1985)
-- [Robert Van De Castle](../@bobvandecastle) (now departed) & [Henry Reed](../@henryreed) (1985-1987)
-- [Bob Trowbridge](../@bobtrowbridge) and [Linda Magallón](../@caseyflyer), San Jose (1987 - 1989)
-
-This history, and many other things on this site may be imperfect... please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> with feedback!
-
-
-Cover image: *Gaia gazes in the mirror and sees the Earth*, by [Eric Snyder](../@ericsnyder/)
-
-<div style="text-align:center;font-style:italic; margin-bottom: 30px">
-<a href="../@robertaossana">Roberta</a>,
-<a href="http://eastwest.works/Inoshi.html">Inoshi</a> and <a href="https://twitter.com/kannydennedy">Dan</a>
+<div class="socials">
+<div>
+<a href="https://www.instagram.com/thedreamnetworkjournal/">
+<img src="../images/_instagram.svg" width="24px" height="24px"/></a>
+</div>
 </div>
 
+<div style="text-align:center;font-style:italic; margin-bottom: 30px">
+<a href="../@robertaossana">Roberta</a>, <a href="https://manishaanjali.com/">Manisha</a>, 
+<a href="http://eastwest.works/Inoshi.html">Inoshi</a> and <a href="https://twitter.com/kannydennedy">Dan</a>
+</div>
 
 <hr>
 
 <div class="sidebar-link">
 <a href="https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing">List of articles (Google sheet)</a></p>
-</div>
-
-<hr>
-
-<div class="sidebar-link">
-<a href="../@robertaossana">Meet the editor</a></p>
 </div>
 
 <hr>
@@ -70,7 +58,7 @@ Cover image: *Gaia gazes in the mirror and sees the Earth*, by [Eric Snyder](../
 
 <hr>
 
-###Zip files
+### Zip files
 
 <div class="scans">
     <div class="container">

@@ -186,3 +186,11 @@ li p {
   border: 0;
 }
 /* END VIDEOS */
+
+/* SOCIALS */
+
+.socials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

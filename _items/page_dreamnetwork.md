@@ -8,7 +8,7 @@ tags:
   - hasPage: "hi"
 shortDescription: "Welcome to the Dream Network"
 tags:
-profileImg: tree.png
+profileImg: tree-logo.png
 coverImg: cover-author-ericsnyder.jpg
 ---
 

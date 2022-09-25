@@ -26,6 +26,8 @@
   cursor: pointer;
   font-family: Passion, serif;
   font-size: 1.1rem;
+  font-style: italic;
+  font-weight: 400;
 }
 
 #navbar-site-title:hover {

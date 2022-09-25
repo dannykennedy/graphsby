@@ -5,7 +5,7 @@
 #########
 
 # Libraries
-import os, sys, re, jinja2, calendar, html5lib
+import os, sys, re, jinja2, calendar, html5lib, shutil
 # import dateutil.parser # For converting xsd:datetime to something sensible
 from rdflib import Namespace, Literal, ConjunctiveGraph
 from pathlib import Path
@@ -61,6 +61,9 @@ print(t.render(index_page=index_page))
 # Copy folders into build folder
 # Styles
 style_folderpath = cwd + build_folder + '/styles'
+# First delete the existing one
+if os.path.exists(style_folderpath):
+	shutil.rmtree(style_folderpath)
 Path(style_folderpath).mkdir(parents=True, exist_ok=True)
 copytree(cwd + "/_styles/", cwd + build_folder + "/styles")
 # Images
@@ -69,7 +72,10 @@ Path(images_folderpath).mkdir(parents=True, exist_ok=True)
 copytree(cwd + "/_images/", cwd + build_folder + "/images")
 # Fonts 
 fonts_folderpath = cwd + build_folder + '/fonts'
+fonts_folderpath2 = cwd + build_folder + 'styles/fonts'
 Path(fonts_folderpath).mkdir(parents=True, exist_ok=True)
+Path(fonts_folderpath2).mkdir(parents=True, exist_ok=True)
+copytree(cwd + "/fonts/", cwd + build_folder + "/styles/fonts")
 copytree(cwd + "/fonts/", cwd + build_folder + "/fonts")
 
 # TODO: Files

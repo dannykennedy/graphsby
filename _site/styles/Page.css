@@ -29,11 +29,12 @@
 
 #item-heading {
   text-align: center;
-  margin-top: 55px;
   font-family: "Passion", "Courier New", serif;
   font-size: 1.6em;
   margin-top: 3em;
   margin-bottom: 1.5em;
+  font-weight: 400;
+  font-style: italic;
 }
 
 #page-items {

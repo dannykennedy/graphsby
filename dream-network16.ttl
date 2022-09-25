@@ -17281,6 +17281,16 @@ ns1:bcphb2huxmr a ns1:Post ;
     ns1:coverImg "33.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2014-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.3_change.pdf" download="">Download issue 33.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.3_change.pdf">View online</a></p>
+
+<p>As I begin writing this next-to-last editorial, I am keenly aware that to do justice to what I feel and want to say would require a book. </p>
+
+<p>Mainly, I recall the many magnificent individuals I’ve had the privilege of communicating and working with over the past 25 years, and I wonder how my ‘stepping back’ will effect future communications among us. Certainly, the context will change: I will be no longer ‘publisher/ editor’, although I must say that the most meaningful connections I’ve experienced have fallen outside that role. </p>
+
+<p>My hope is that we will continue to communicate, with more focus on dreamsharing, doing dreamwork with one another, and simply sharing our life experiences—as friends. My door will always be open. </p>
+
+<p>I want to give thanks and praise to all of you who have been involved in DNJ, in the past and the present: excellent columnists, authors, artists, copy-editors/proofreaders, poets, reviewers, publishers, readers … all of you. You have given of yourselves in countless and generous ways, willing to share your hard-earned wisdom, skills and souls in the most intimate and personal of ways. And during very turbulent times. You have made a difference in the world! I also want to thank those of you who became a part of the Dream Circle; your contributions and involvement have made it possible for DNJ to remain in print over the past several years. May countless blessings visit you always, my kind-hearted friends.</p>
+
+<p><em>~Roberta Ossana</em></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,
@@ -17295,6 +17305,10 @@ ns1:bcphb2kqfhu a ns1:Post ;
     ns1:coverImg "33.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2015-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf" download="">Download issue 33.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf">View online</a></p>
+
+<p>This is the last issue of Dream Network Journal in its current form. These are hard words for me to write. I feel hope in the new beginnings symbol of the egg and the many hands. Who knows what the future might hold? In this context, Russ Lockhart recently said: “I now believe it is time for DNJ to ‘go dark’ for 2015 as a necessary state for rebirth if that is in the future. Letting go of DNJ, letting it die, is likely what is necessary for any future rebirth of DNJ.” I say: So Be It. Amen.</p>
+
+<p><em>~Roberta Ossana</em></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,

@@ -16,7 +16,7 @@ Please send your submissions to <a href="mailto:hello@dreamnetworkjournal.com">h
 
 Copyright for all submissions remains yours.
 
-The date of publication for the next journal issue is currently not fixed, but it will happen so if you're interested in contributing please reach out.
+The date of publication for the next journal issue is currently not fixed, but it will happen soon, so if you're interested in contributing please reach out.
 
 ## Guidelines
 

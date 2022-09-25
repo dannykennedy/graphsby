@@ -27,9 +27,8 @@ Cover image: _Gaia gazes in the mirror and sees the Earth_, by [Eric Snyder](../
 </div>
 </div>
 
-<div style="text-align:center;font-style:italic; margin-bottom: 30px">
-<a href="../@robertaossana">Roberta</a>, <a href="https://manishaanjali.com/">Manisha</a>, 
-<a href="http://eastwest.works/Inoshi.html">Inoshi</a> and <a href="https://twitter.com/kannydennedy">Dan</a>
+<div style="text-align:center;font-style:italic; margin-bottom: 30px"><a href="https://manishaanjali.com/">Manisha</a>, <a href="https://twitter.com/kannydennedy">Dan</a>, <a href="http://eastwest.works/Inoshi.html">Inoshi</a> and 
+<a href="../@robertaossana">Roberta</a>
 </div>
 
 <hr>

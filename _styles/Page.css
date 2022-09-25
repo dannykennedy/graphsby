@@ -30,7 +30,10 @@
 #item-heading {
   text-align: center;
   margin-top: 55px;
+  font-family: "Passion", "Courier New", serif;
+  font-size: 1.6em;
 }
+
 #page-items {
   grid-area: items;
   padding: 0px 10px 30px 30px;

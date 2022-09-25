@@ -1,0 +1,7 @@
+/* @ font-face for passion font */
+@font-face {
+  font-family: "Passion";
+  src: url("fonts/Passion.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}

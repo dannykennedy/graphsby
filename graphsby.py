@@ -67,6 +67,11 @@ copytree(cwd + "/_styles/", cwd + build_folder + "/styles")
 images_folderpath = cwd + build_folder + '/images'
 Path(images_folderpath).mkdir(parents=True, exist_ok=True)
 copytree(cwd + "/_images/", cwd + build_folder + "/images")
+# Fonts 
+fonts_folderpath = cwd + build_folder + '/fonts'
+Path(fonts_folderpath).mkdir(parents=True, exist_ok=True)
+copytree(cwd + "/fonts/", cwd + build_folder + "/fonts")
+
 # TODO: Files
 
 ##############

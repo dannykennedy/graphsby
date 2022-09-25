@@ -19039,7 +19039,7 @@ ns1:User rdfs:subClassOf ns1:Actor,
         ns1:Person .
 
 ns1:bcphbq3xdnj a ns1:Page ;
-    ns1:coverImg "cover-author-ericsnyder.jpg"^^xsd:string ;
+    ns1:coverImg "gaia_gazing_snyder.jpg"^^xsd:string ;
     ns1:description """<p>The Dream Network Journal is a place for people to share the wonder and mystery of dreams. The journal was published in printed form from 1982 to 2015, and thanks to our <a href="https://chuffed.org/project/dream-network-journal">crowdfunding supporters</a>, the site offers all issues of the DNJ for download, and reproduces many articles in blog form.</p>
 
 <p>If you'd like to look up an individual author or article, there's a growing <a href="../@dreamnetwork~contributors">authors page</a> here, and a (not-quite-complete) <a href="https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing">list of Dream Network articles</a> in spreadsheet form.</p>

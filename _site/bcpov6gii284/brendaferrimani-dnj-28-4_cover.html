@@ -24,6 +24,7 @@
     
     <meta property="og:image" content="../images/28.4_cover.jpg" />
     
+    <link rel="stylesheet" type="text/css" href="../styles/Fonts.css" />
     <link rel="stylesheet" type="text/css" href="../styles/Navbar.css" />
     <link rel="stylesheet" type="text/css" href="../styles/Card.css" />
     <link rel="stylesheet" type="text/css" href="../styles/Tag.css" />
@@ -89,79 +90,93 @@
   </head>
   <body>
     <header id="navbar">
-        <div id="app-name-container">
-            <a href="../@dreamnetwork" id="app-name-link">
-                <img src="../images/thumb-tree.png" alt="Dream Network logo" id="app-logo" />
-                <span id="navbar-site-title">Dream Network</span>
-            </a>
+      <div id="app-name-container">
+        <a href="../@dreamnetwork" id="app-name-link">
+          <img
+            src="../images/thumb-tree-logo.png"
+            alt="Dream Network logo"
+            id="app-logo"
+          />
+          <span id="navbar-site-title">Dream Network</span>
+        </a>
+      </div>
+      <div id="navbar-links">
+        <div>
+          <a href="../@dreamnetwork~contributors" class="navbar-item">
+            <span>Authors</span>
+          </a>
         </div>
-        <div id="navbar-links">
-            <div>
-                <a href="../@dreamnetwork~contributors" class="navbar-item">
-                    <span>Authors</span>
-                </a>
-            </div>
-            <div>
-                <a href="../bcpov6gabout/about-the-network" class="navbar-item">
-                    <span>About</span>
-                </a>
-            </div>
-            <div>
-                <a href="../bcpov6psubm/submissions" class="navbar-item">
-                    <span>Submissions</span>
-                </a>
-            </div>
-            <div>
-                <a href="../bcpovdreamg/dream-groups" class="navbar-item">
-                    <span>Dream Groups</span>
-                </a>
-            </div>
-            <div>
-                <a href="../bcpov6pnotb/noticeboard" class="navbar-item">
-                    <span>Noticeboard</span>
-                </a>
-            </div>
-            <div>
-                <a href="../@dreamnetwork~signup" class="navbar-item">
-                    <span>Newsletter</span>
-                </a>
-            </div>
-            <button id="mobile-hamburger" onclick="console.log('show'); document.getElementById('mobile-navbar').classList.add('show'); document.getElementById('mobile-navbar').classList.remove('hide');">&#x2630;</button>
+        <div>
+          <a href="../bcpov6gabout/about-the-network" class="navbar-item">
+            <span>About</span>
+          </a>
         </div>
-        <div id="mobile-navbar">
-            <button id="mobile-navbar-close-btn" onclick="console.log('hide'); document.getElementById('mobile-navbar').classList.remove('show'); document.getElementById('mobile-navbar').classList.add('hide');">&#9587;</button>
+        <div>
+          <a href="../bcpov6psubm/submissions" class="navbar-item">
+            <span>Submissions</span>
+          </a>
+        </div>
+        <div>
+          <a href="../bcpovdreamg/dream-groups" class="navbar-item">
+            <span>Dream Groups</span>
+          </a>
+        </div>
+        <div>
+          <a href="../bcpov6pnotb/noticeboard" class="navbar-item">
+            <span>Noticeboard</span>
+          </a>
+        </div>
+        <div>
+          <a href="../@dreamnetwork~signup" class="navbar-item">
+            <span>Newsletter</span>
+          </a>
+        </div>
+        <button
+          id="mobile-hamburger"
+          onclick="console.log('show'); document.getElementById('mobile-navbar').classList.add('show'); document.getElementById('mobile-navbar').classList.remove('hide');"
+        >
+          &#x2630;
+        </button>
+      </div>
+      <div id="mobile-navbar">
+        <button
+          id="mobile-navbar-close-btn"
+          onclick="console.log('hide'); document.getElementById('mobile-navbar').classList.remove('show'); document.getElementById('mobile-navbar').classList.add('hide');"
+        >
+          &#9587;
+        </button>
 
-            <div>
-                <a href="../@dreamnetwork~contributors" class="navbar-item">
-                    <span>Authors</span>
-                </a>
-            </div>
-            <div>
-                <a href="../bcpov6gabout/about-the-network" class="navbar-item">
-                    <span>About</span>
-                </a>
-            </div>
-            <div>
-                <a href="../bcpov6psubm/submissions" class="navbar-item">
-                    <span>Submissions</span>
-                </a>
-            </div>
-            <div>
-                <a href="../bcpovdreamg/dream-groups" class="navbar-item">
-                    <span>Dream Groups</span>
-                </a>
-            </div>
-            <div>
-                <a href="../bcpov6pnotb/noticeboard" class="navbar-item">
-                    <span>Noticeboard</span>
-                </a>
-            </div>
-            <div>
-                <a href="../@dreamnetwork~signup" class="navbar-item">
-                    <span>Newsletter</span>
-                </a>
-            </div>
+        <div>
+          <a href="../@dreamnetwork~contributors" class="navbar-item">
+            <span>Authors</span>
+          </a>
         </div>
+        <div>
+          <a href="../bcpov6gabout/about-the-network" class="navbar-item">
+            <span>About</span>
+          </a>
+        </div>
+        <div>
+          <a href="../bcpov6psubm/submissions" class="navbar-item">
+            <span>Submissions</span>
+          </a>
+        </div>
+        <div>
+          <a href="../bcpovdreamg/dream-groups" class="navbar-item">
+            <span>Dream Groups</span>
+          </a>
+        </div>
+        <div>
+          <a href="../bcpov6pnotb/noticeboard" class="navbar-item">
+            <span>Noticeboard</span>
+          </a>
+        </div>
+        <div>
+          <a href="../@dreamnetwork~signup" class="navbar-item">
+            <span>Newsletter</span>
+          </a>
+        </div>
+      </div>
     </header>
     <div id="wrapper">
 

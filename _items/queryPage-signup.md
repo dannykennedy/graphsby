@@ -4,7 +4,7 @@ type: page
 itemId: bcphbsignup
 handle: dreamnetwork~signup
 name: "What about me?"
-profileImg: tree.png
+profileImg: tree-logo.png
 coverImg: cover-tree-ferrimani.jpg
 ---
 

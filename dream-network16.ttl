@@ -448,13 +448,13 @@ ns1:bcphbp7rfno a ns1:Post ;
 
 ns1:bcphbq3xdna a ns1:Page ;
     ns1:coverImg "cover-tree-ferrimani.jpg"^^xsd:string ;
-    ns1:description """<p>Here's an (alphabetical) list of all the authors, poets, illustrators and more whose Dream Network posts we've published so far. If you don't see someone you'd like to see, let us know! Email us at <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a>  </p>
+    ns1:description """<p>Here's an (alphabetical) list of all the authors, poets, illustrators and more whose Dream Network posts we've published so far. If you don't see someone you'd like to see, let us know! Email us at <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a></p>
 """^^xsd:string ;
     ns1:handle "dreamnetwork~contributors"^^xsd:string ;
     ns1:itemId "bcphbq3xdna"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dream Network Contributors"^^xsd:string ;
-    ns1:profileImg "tree.png"^^xsd:string .
+    ns1:profileImg "tree-logo.png"^^xsd:string .
 
 ns1:bcphbq7rbsc a ns1:Post ;
     ns1:coverImg "13.4-cover.jpg"^^xsd:string ;
@@ -640,7 +640,7 @@ ns1:bcphbsignup a ns1:Page ;
     ns1:itemId "bcphbsignup"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "What about me?"^^xsd:string ;
-    ns1:profileImg "tree.png"^^xsd:string .
+    ns1:profileImg "tree-logo.png"^^xsd:string .
 
 ns1:bcphbslvedc a ns1:Post ;
     ns1:coverImg "16.3-cover.jpg"^^xsd:string ;
@@ -16395,7 +16395,7 @@ ns1:bcphbbhutch a ns1:User ;
     ns1:itemId "bcphbbhutch"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Beck Hutchinson"^^xsd:string ;
-    ns1:profileImg "tree.png"^^xsd:string .
+    ns1:profileImg "tree-logo.png"^^xsd:string .
 
 ns1:bcphbgreene a ns1:User ;
     ns1:coverImg "cover-author-tara-greene.jpg"^^xsd:string ;

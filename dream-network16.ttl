@@ -2406,6 +2406,87 @@ ns1:bcpov6gresof a ns1:Post ;
     ns1:profileImg "post-bcpov6gresof-0.jpg"^^xsd:string ;
     ns1:urlSlug "soul-on-fire-dreams-as-a-vehicle-for-transformation"^^xsd:string .
 
+ns1:bcpov6grewit a ns1:Post ;
+    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6greaiz-2.jpg" width="500px" height="auto"/></p>
+
+<p>DreamTending is a method of working with dreams that considers dream images as “living images”. It makes the particularity and presence of these images available to the dreamer. The wisdom of ancestral callings, the instinctual knowledge of animal visitations, the musings of the soul are attended to from a psychecentered, rather than personcentered, perspective. The “intelligence” of the dream is listened to from the inside out.</p>
+
+<p>To “tend” a dream is not just to interpret or analyze it. The figures and landscapes of dreams are experienced as alive and moving about with a certain degree of autonomy. In a very practical and accessible way, the craft of DreamTending offers the possibility of listening deeply to the voices of the dream images themselves as they come forward to offer their insights and perspectives.</p>
+
+<p>DreamTending appreciates that dreams carry an inner knowing, an innate sensibility and an element of potency that affords each of us the capacity to open to the depths of our own experience. When we tend a dream, images come “awake”, imagination is animated and we participate in life more fully rooted in the way of the dream.</p>
+
+<p>DreamTending orients around four essential ideas.</p>
+
+<h3>The Dreaming Psyche is Multidimensional</h3>
+
+<p>The notion of a multidimensional psyche in relation to dreams is not a new one. DreamTending views the images of dreams as the symbolic and metaphoric language of a multidimensional psyche. In Western psychology, we understand the nature of the dreaming psyche as existing primarily in three “dimensions” of experience:</p>
+
+<ol>
+<li><p>Awake Circumstances, or the Awake Consciousness;</p></li>
+<li><p>Personal Development, or the Personal Unconscious; and</p></li>
+<li><p>a trans-cultural sensibility, or the Collective Unconscious.</p></li>
+</ol>
+
+<p>Reaching back to indigenous traditions, we can add a fourth dimension: an ecological consciousness, or the World Unconscious.</p>
+
+<p>The first dimension, Awake Consciousness, refers to every day waking experience. Dream images are tended in relation to the experiences and circumstances of daily life.</p>
+
+<p>At the second level, the Personal Unconscious, dream images are viewed as representing stored memories that present themselves when something current re-stimulates an historical association. Dream images are tended in relation to our personal past.</p>
+
+<p>At the third level, the Collective Unconscious, dream images are tended in relation to their wider cultural implications. Rather than memories, the Collective Unconscious contains archetypal images that have core meanings relevant to all of humankind— regardless of culture, ethnic identity, or historical age. For example, “home” has a universal sensibility. Everywhere in the world, people have a sense of home, just as they share a collective sense of “journey” or “flight.” These trans-cultural themes often display themselves as archetypal images in dreams.</p>
+
+<p>The fourth dimension, the World Unconscious, goes beyond human experience to appreciate that the psyche lives not only inside of the human, but that the human lives inside of the psyche.</p>
+
+<p>In DreamTending, all the phenomena of the world (humans, creatures, buildings) are experienced as having psychic interiority. Dream images are not representations of our personal natures only, but are also informed by the subjective inner natures of the things and creatures out there in the world. When viewed from the perspective of the World Unconscious, the image originates in and of the world.</p>
+
+<h3>Dreams Are Alive</h3>
+
+<p>The second orienting idea of DreamTending is the notion that dreams are alive.</p>
+
+<p><em>This principle is the heartbeat of DreamTending</em>.</p>
+
+<p>When we write dreams down in dream journals, they become static entities. Often, the dreamer brings these narratives to the therapist’s office for interpretation or analysis. The actuality of the dream itself, of course, is not static.</p>
+
+<p>Images interact; images are alive; they are moving about in the dreamscape, coming into relationship with each other, changing one another. The images and figures of the dream come with body, breath, and pulse. They are living entities in the actuality of the dream time.</p>
+
+<p>In the practice of DreamTending, we operate from the point of view that neither the dreamer nor the dream tender necessarily knows all that the dream means. The dream itself participates in the unfolding and understanding of its message. Experiencing dream images as alive, with body, allows the intelligence that is inherent to the living image to become known.</p>
+
+<h3>Everything Dreams</h3>
+
+<p>The third orienting idea of DreamTending is the notion that everything is dreaming. People are dreaming, rocks are dreaming, mountains are dreaming. It is the idea that the world itself is always dreaming—that all things, phenomena and creatures have a subjective interiority and appear as images in dream.</p>
+
+<p>From this perspective we are inside the dream, as opposed to the dream being imagined as only inside of us. That’s why it’s peculiar to wake in the morning and say, “Last night I had a dream.” Upon closer inspection, we see that the “I” we’re talking about is often pictured in the dream. We have to wonder, “If I’m in that dream, who is actually having the dream?”</p>
+
+<p>Dream Tending is very interested in the question of “who is having the dream.” That “who” may be part of our personal experience. It might be a reflection of the Collective Unconscious, drawn from the mythological themes that have been present throughout human history. And, at times, the “who” that visits in a dream may originate in the creatures and things of the world.</p>
+
+<p>DreamTending offers the skills and tools needed to hear the voices of the others who inhabit this planet and have influence on our lives. Ocean may be dreaming now, wolf dreaming, mountain appearing as image with voice. In an animated world, everything is dreaming.</p>
+
+<h3>Dreams Happen Now</h3>
+
+<p>The fourth orienting idea of DreamTending is the notion that dreams happen now. That is to say that dreams exist in the immediacy of our experience.</p>
+
+<p>Dream images are like a poem or a painting that ask us to hear or see differently. The images themselves are present as live figures, and they ask us to meet them in an open and receptive mode in the present time.</p>
+
+<p>Dreams happen now.</p>
+
+<p>When DreamTending, we move into the “real time” of the dream itself. Bringing a “witnessing presence” to dreams in the immediacy of our experience opens a deeper sense of Being.</p>
+
+<p>Images that are experienced in the immediacy of the dream are deeply felt and anchored in a sense of mindfulness, a sense of being immediately present in the here and now. ∞</p>
+
+<hr>
+
+<p><em>Dr. Stephen Aizenstat is the founding president of Pacifica Graduate Institute, a core faculty member of the institute, and a clinical psychologist. His original research centers on a psychodynamic process of “tending the living image,” particularly in the context of dreamwork. He has conducted dreamwork seminars for over 20 years throughout the United States, Europe and Asia.</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3msa ;
+    ns1:hasTag ns1:bcphbq3msa,
+        ns1:bcphbygiw4g ;
+    ns1:itemId "bcpov6grewit"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "What is DreamTending?"^^xsd:string ;
+    ns1:profileImg "post-bcpov6greaiz-1.jpg"^^xsd:string ;
+    ns1:urlSlug "dream-tending-and-storytelling"^^xsd:string .
+
 ns1:bcpov6grkrev a ns1:Post ;
     ns1:dateCreated "2020-07-27T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6grkrev-0.jpg" width="200px" height="auto"/></p>
@@ -10164,42 +10245,43 @@ ns1:bcpov6zaizer a ns1:Post ;
 
 <p><!--nopreview--><div style="text-align:center"><i>Dream Tending: Awakening to the Healing Power of Dreams by Stephen Aizenstat, Spring Journal, Inc, 2009, 281 pp.</i></div><!--/nopreview--></p>
 
-<p>Dr. Stephen Aizenstat is highly respected as a Master of Dreamwork, his extensive study and deep connection to the power of dreams and the dreaming psyche has influenced his life’s work in a way that is extraordinary. Among Stephen's many students over the years, I remember asking him if he had ever considered writing a book about Dream Tending knowing what an incredible contribution it would be to the world if he did. I was one of many who encouraged—perhaps even begged him—to write about his teachings and ways of working with dreams. Now that this highly anticipated book has found its way into the world, it is a privilege to review it here. </p>
+<p>Dr. Stephen Aizenstat is highly respected as a Master of Dreamwork, his extensive study and deep connection to the power of dreams and the dreaming psyche has influenced his life’s work in a way that is extraordinary. Among Stephen's many students over the years, I remember asking him if he had ever considered writing a book about Dream Tending knowing what an incredible contribution it would be to the world if he did. I was one of many who encouraged—perhaps even begged him—to write about his teachings and ways of working with dreams. Now that this highly anticipated book has found its way into the world, it is a privilege to review it here.</p>
 
-<p><em>Dream Tending</em> is a deeply moving, holistic and embodied way of working with dreams. It is a way in which dreams are engaged as living images who, through their ability to bridge the worlds of the dreaming psyche and the waking world, are given voice and expression. It is a way of working with dreams that allows the images to speak to us on behalf of themselves, allowing us to be a part of the process versus the center of it, inviting the world psyche to interact with us as part of a whole, living, breathing organism. </p>
+<p><em>Dream Tending</em> is a deeply moving, holistic and embodied way of working with dreams. It is a way in which dreams are engaged as living images who, through their ability to bridge the worlds of the dreaming psyche and the waking world, are given voice and expression. It is a way of working with dreams that allows the images to speak to us on behalf of themselves, allowing us to be a part of the process versus the center of it, inviting the world psyche to interact with us as part of a whole, living, breathing organism.</p>
 
-<p>Whether you are an experienced dreamer or just beginning, this insightful and rich book contains practical methods and exercises for working with your own dreams. Stephen goes into great detail on how to develop relationship with dream images and how to engage them on an ongoing basis, making <em>Dream Tending</em> a “life practice”, as well as fostering an ongoing relationship with your own inner “Dream Council” of figures. </p>
+<p>Whether you are an experienced dreamer or just beginning, this insightful and rich book contains practical methods and exercises for working with your own dreams. Stephen goes into great detail on how to develop relationship with dream images and how to engage them on an ongoing basis, making <em>Dream Tending</em> a “life practice”, as well as fostering an ongoing relationship with your own inner “Dream Council” of figures.</p>
 
-<p>In addition, Stephen offers his readers a step-by-step guide to access the living power of their dreams to: </p>
+<p>In addition, Stephen offers his readers a step-by-step guide to access the living power of their dreams to:</p>
 
 <ul>
-<li><p>Transform nightmare figures into profound and helpful mentors </p></li>
-<li><p>Bring fresh warmth and intimacy into relationships </p></li>
-<li><p>Overcome obsessions, compulsions, and addictions </p></li>
-<li><p>Engage the healing forces of dreams through imaginal “medicines” </p></li>
-<li><p>Re-imagine careers and cope with difficulties in the workplace </p></li>
-<li><p>Discover the potential of untapped creativity </p></li>
+<li><p>Transform nightmare figures into profound and helpful mentors</p></li>
+<li><p>Bring fresh warmth and intimacy into relationships</p></li>
+<li><p>Overcome obsessions, compulsions, and addictions</p></li>
+<li><p>Engage the healing forces of dreams through imaginal “medicines”</p></li>
+<li><p>Re-imagine careers and cope with difficulties in the workplace</p></li>
+<li><p>Discover the potential of untapped creativity</p></li>
 <li><p>See the world with a new and dynamic perspective</p></li>
 </ul>
 
 <blockquote>
-  <p>“<em>Dream Tending</em> is a life practice that healers, storytellers, and poets have known by many different names for thousands of years. Passed on through the generations, the art of tending living dream images emerges in a culture when the call to see the natural world as alive is urgent.” (Quoted from page 11, The Living Image) </p>
+  <p>“<em>Dream Tending</em> is a life practice that healers, storytellers, and poets have known by many different names for thousands of years. Passed on through the generations, the art of tending living dream images emerges in a culture when the call to see the natural world as alive is urgent.” (Quoted from page 11, The Living Image)</p>
 </blockquote>
 
 <p>It is true that we are in a period of great transition. Never before have we experienced our world in such deep need of healing, yet we must look to the hidden blessings in these times. Perhaps we are being reminded to slow down and make space for a re-connection to the Earth, to the animals, to our family, our friends, our neighbors and to ourselves. One way to navigate these times is to turn inward, to sit quiet and allow a new sensibility to come forth, not through the mind, but through the soul. Working with dreams allows us to experience our world in a way not just heard through the ears and seen with the eyes, but felt, deeply into the cellular makeup of who we are, which we share with all other living things. We are being called to act on behalf of something bigger than ourselves, we are being called to live as a global community, where respect for each other and our planet are not only desired, but essential to our well being and our future. What better time than now to intimately engage the dreamtime and allow it to open us up to new possibilities to heal both ourselves and our planet, one dream at a time.</p>
 
-<p><em>Stephen Aizenstat, Ph.D., is a clinical psychologist, marriage and family therapist, and the founding president of Pacifica Graduate Institute. For more than 35 years he has explored the power of dreams through the study of depth psychology and the pursuit of his own research. He has collaborated with many masters in the field, including Joseph Campbell, Marion Woodman, Robert Johnson, and James Hillman; as well as native elders worldwide. Dr. Aizenstat has conducted hundreds of dreamwork seminars throughout the United States, Europe and Asia. He lives with his wife and three children in Santa Barbara, California.</em> (Quoted from the cover of DreamTending) </p>
+<p><em>Stephen Aizenstat, Ph.D., is a clinical psychologist, marriage and family therapist, and the founding president of Pacifica Graduate Institute. For more than 35 years he has explored the power of dreams through the study of depth psychology and the pursuit of his own research. He has collaborated with many masters in the field, including Joseph Campbell, Marion Woodman, Robert Johnson, and James Hillman; as well as native elders worldwide. Dr. Aizenstat has conducted hundreds of dreamwork seminars throughout the United States, Europe and Asia. He lives with his wife and three children in Santa Barbara, California.</em> (Quoted from the cover of DreamTending)</p>
 
 <p><em>For articles written by Dr. Stephen Aizenstat, please visit his <a href="https://dreamtending.com/">www.dreamtending.com</a> website and click on “DreamTending Resources.” <a href="http://www.dreamtending.com/articles.html">http://www.dreamtending.com/articles.html</a>.</em></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqvcors ;
-    ns1:hasTag ns1:bcphbqvcors,
+    ns1:hasTag ns1:bcphbq3msa,
+        ns1:bcphbqvcors,
         ns1:bcphbygiw4g ;
     ns1:itemId "bcpov6zaizer"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: Dream Tending by Stephen Aizenstat"^^xsd:string ;
     ns1:profileImg "post-bcpov6zaizer-0.jpg"^^xsd:string ;
-    ns1:urlSlug "dreaming-the-soul-back-home-robert-moss-book-review"^^xsd:string .
+    ns1:urlSlug "dream-tending-aizenstat-book-review"^^xsd:string .
 
 ns1:bcpov6zbincu a ns1:Post ;
     ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
@@ -16093,24 +16175,6 @@ ns1:bcphbnagfeb a ns1:Post ;
     ns1:profileImg "6.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.3"^^xsd:string .
 
-ns1:bcphbq3msa a ns1:User ;
-    ns1:coverImg "cover-author-stephen-aizenstat.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://dreamtending.com/stephen-aizenstat-ph-d/">Dream Tending</a></p>
-
-<p>Stephen Aizenstat, Ph.D., pioneered his 'Dream Tending' methodology over four decades ago. It has since helped thousands of people realize their personal and professional potential.</p>
-
-<blockquote>
-  <p>I believe that the DNA of our individual and planetary evolution is coded in the images of dreams. Combine this conviction with the idea that dream images not only live within us, they also exist all around us, in every animal, plant, and object of this world. Our dream images give meaning to our life’s story—the journey of who we are and who we are becoming. <em>~ Dr. Stephen Aizenstat</em></p>
-</blockquote>
-
-<p>Dr. Aizenstat founded the <a href="https://en.wikipedia.org/wiki/Pacifica_Graduate_Institute">Pacifica Graduate Institute</a> in Santa Barbara in 1976, with a focus on psychology, mythology, and the humanities. He has lectured around the world, advised Hollywood filmmakers on psychological content, consulted for leading tech companies, and collaborated with giants in the field such as Joseph Campbell, James Hillman, Marion Woodman and others. He is affiliated with the UN's Earth Charter International project.</p>
-"""^^xsd:string ;
-    ns1:handle "stephenaizenstat"^^xsd:string ;
-    ns1:itemId "bcphbq3msa"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Stephen Aizenstat, Ph.D."^^xsd:string ;
-    ns1:profileImg "author-stephen-aizenstat.jpg"^^xsd:string .
-
 ns1:bcphbq3rdje a ns1:User ;
     ns1:coverImg "cover-author-debbiejoffeellis.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.debbiejoffeellis.com/" target="_blank">www.debbiejoffeellis.com</a></p>
@@ -17807,6 +17871,24 @@ ns1:bcphbq3king a ns1:User ;
     ns1:name "Marlene King"^^xsd:string ;
     ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
 
+ns1:bcphbq3msa a ns1:User ;
+    ns1:coverImg "cover-author-stephen-aizenstat.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://dreamtending.com/stephen-aizenstat-ph-d/">Dream Tending</a></p>
+
+<p>Stephen Aizenstat, Ph.D., pioneered his 'Dream Tending' methodology over four decades ago. It has since helped thousands of people realize their personal and professional potential.</p>
+
+<blockquote>
+  <p>I believe that the DNA of our individual and planetary evolution is coded in the images of dreams. Combine this conviction with the idea that dream images not only live within us, they also exist all around us, in every animal, plant, and object of this world. Our dream images give meaning to our life’s story—the journey of who we are and who we are becoming. <em>~ Dr. Stephen Aizenstat</em></p>
+</blockquote>
+
+<p>Dr. Aizenstat founded the <a href="https://en.wikipedia.org/wiki/Pacifica_Graduate_Institute">Pacifica Graduate Institute</a> in Santa Barbara in 1976, with a focus on psychology, mythology, and the humanities. He has lectured around the world, advised Hollywood filmmakers on psychological content, consulted for leading tech companies, and collaborated with giants in the field such as Joseph Campbell, James Hillman, Marion Woodman and others. He is affiliated with the UN's Earth Charter International project.</p>
+"""^^xsd:string ;
+    ns1:handle "stephenaizenstat"^^xsd:string ;
+    ns1:itemId "bcphbq3msa"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Stephen Aizenstat, Ph.D."^^xsd:string ;
+    ns1:profileImg "author-stephen-aizenstat.jpg"^^xsd:string .
+
 ns1:bcphbq3pdwy a ns1:User ;
     ns1:description """<p>Consider the words of astronaut Edgar Mitchell, <em>"There are no unnatural or supernatural phenomena, only very large gaps in our knowledge of what is natural."</em></p>
 
@@ -18028,20 +18110,6 @@ ns1:bcphbwv4jtr a ns1:Post ;
     ns1:name "Volume 24, issue 4: Dreams: A Calling"^^xsd:string ;
     ns1:profileImg "24.4-25.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "24.4-25.1"^^xsd:string .
-
-ns1:bcphbygiw4g a ns1:Post ;
-    ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqochapy2 ;
-    ns1:itemId "bcphbygiw4g"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
-    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "28.2-3"^^xsd:string .
 
 ns1:bcphbz5vgog a ns1:Post ;
     ns1:coverImg "32.4-cover.jpg"^^xsd:string ;
@@ -18313,6 +18381,20 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:name "Volume 28, issue 1: Chaos & Apocalypse"^^xsd:string ;
     ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.1"^^xsd:string .
+
+ns1:bcphbygiw4g a ns1:Post ;
+    ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
+    ns1:itemId "bcphbygiw4g"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
+    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "28.2-3"^^xsd:string .
 
 ns1:bcpov6pspec a ns1:Post ;
     ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
@@ -19014,13 +19096,13 @@ ns1:bcphbqvbulk a ns1:User ;
 
 ns1:bcphbqvcors a ns1:User ;
     ns1:coverImg "cover-author-bambi-corso.jpg"^^xsd:string ;
-    ns1:description """<p>Author, DreamTracker, Law of Attraction Certified Coach </p>
+    ns1:description """<p>Author, DreamTracker, Law of Attraction Certified Coach</p>
 
-<p>Bambi’s passion and exploration of dreamwork spans over forty years having journaled over eight thousand of her own dreams. She says that working with her dreams for so many years has given her tremendous insight into every aspect of her life; physical, mental, emotional and spiritual. Knowing the immense guidance and wisdom available through dreamwork, she has dedicated her life to teaching others to work with and understand their dreams to help bring consciousness and awareness to the ways in which we are informed by the dreamtime to live a more passionate, purposeful and authentic life. She is an avid lover and animals and nature and advocates for their wellbeing, survival and conservancy. </p>
+<p>Bambi’s passion and exploration of dreamwork spans over forty years having journaled over eight thousand of her own dreams. She says that working with her dreams for so many years has given her tremendous insight into every aspect of her life; physical, mental, emotional and spiritual. Knowing the immense guidance and wisdom available through dreamwork, she has dedicated her life to teaching others to work with and understand their dreams to help bring consciousness and awareness to the ways in which we are informed by the dreamtime to live a more passionate, purposeful and authentic life. She is an avid lover and animals and nature and advocates for their wellbeing, survival and conservancy.</p>
 
-<p>Bambi holds two certifications in Dream Tending, taught by Dr. Stephen Aizenstat of Pacifica Graduate Institute. She serves on the Southern California IASD Regional Committee and has been a member of the International Association for the Study of Dreams for twenty years. Bambi was a review editor for The Dream Network Magazine for nine years and is and certified as a Law of Attraction Certified Coach through The Quantum Success Coaching Academy and a Tarotpy Practitioner through the Institute of Dreams and Tarotpy®. She is also a contributing author for the book, <em>101 Great Ways to Enhance your Career.</em></p>
+<p>Bambi holds two certifications in Dream Tending, taught by <a href="Dr. Stephen Aizenstat">../@stephenaizenstat</a> of Pacifica Graduate Institute. She serves on the Southern California IASD Regional Committee and has been a member of the International Association for the Study of Dreams for twenty years. Bambi was a review editor for The Dream Network Magazine for nine years and is and certified as a Law of Attraction Certified Coach through The Quantum Success Coaching Academy and a Tarotpy Practitioner through the Institute of Dreams and Tarotpy®. She is also a contributing author for the book, <em>101 Great Ways to Enhance your Career.</em></p>
 
-<p>Please visit her website at <a href="https://bambicorso.com/">www.BambiCorso.com</a>. </p>
+<p>Please visit her website at <a href="https://bambicorso.com/">www.BambiCorso.com</a>.</p>
 
 <p>You can also follow Bambi here:</p>
 

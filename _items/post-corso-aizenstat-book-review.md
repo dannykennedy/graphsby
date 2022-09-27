@@ -9,7 +9,7 @@ tags:
   - hasAuthor: bambicorso
   - hasTag: 28.2-3
 type: post
-urlSlug: "dreaming-the-soul-back-home-robert-moss-book-review"
+urlSlug: "dream-tending-aizenstat-book-review"
 profileImg: post-bcpov6zaizer-0.jpg
 ---
 

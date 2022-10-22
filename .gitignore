@@ -24,3 +24,6 @@ public/contentful/*
 src/contentful/*
 
 .idea/*
+
+# .pyc files
+*.pyc

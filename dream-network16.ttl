@@ -1015,13 +1015,13 @@ ns1:bcpov6gabnot a ns1:Post ;
 
 <p></a></p>
 
-<p>Please join us, along with 5 world renowned keynote speakers and more than 130 presentations from over 100 presenters around the globe. </p>
+<p>Please join us, along with 5 world renowned keynote speakers and more than 130 presentations from over 100 presenters around the globe.</p>
 
-<p>It is more than just a conference; even in its virtual format, it will be an extravaganza of fascinating presentations and special events. </p>
+<p>It is more than just a conference; even in its virtual format, it will be an extravaganza of fascinating presentations and special events.</p>
 
-<p>Everyone is welcome – whether you are a professional, a dreamworker, or just a curious or interested dreamer. </p>
+<p>Everyone is welcome – whether you are a professional, a dreamworker, or just a curious or interested dreamer.</p>
 
-<p>The program features peer reviewed workshops, in a multidisciplinary program including the scientific, psychological, spiritual, artistic, healing, lucid and extraordinary, ethnic and cultural aspects of dreaming; and a lot of fun events including opening receptions, a virtual Dream Art Exhibition and a meet the artists reception, the annual PSI Dreaming Contest, and even a virtual gathering for the ever-popular costume parade and Dream Ball. </p>
+<p>The program features peer reviewed workshops, in a multidisciplinary program including the scientific, psychological, spiritual, artistic, healing, lucid and extraordinary, ethnic and cultural aspects of dreaming; and a lot of fun events including opening receptions, a virtual Dream Art Exhibition and a meet the artists reception, the annual PSI Dreaming Contest, and even a virtual gathering for the ever-popular costume parade and Dream Ball.</p>
 
 <p>This year’s featured tracks include Dreams and Ethnicity and Dreams and The Arts.</p>
 
@@ -14011,6 +14011,29 @@ ns1:bcpov6zi3sec a ns1:Post ;
     ns1:name "Send me your stories - dreams and death"^^xsd:string ;
     ns1:urlSlug "looking-for-stories"^^xsd:string .
 
+ns1:bcpov6zilbyd a ns1:Post ;
+    ns1:dateCreated "2022-11-13T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://arthurstrock.com/live-by-your-dreams/"></p>
+
+<p><img src="../images/live-by-your-dreams-book-03-og.png" alt="Live By Your Dreams book cover" width="400px" height="auto"/></p>
+
+<p></a></p>
+
+<p>Long time DNJ contributor Arthur Strock's book 'Live By Your Dreams' is now available free to download! You can find it on Arthur's website at <a href="https://arthurstrock.com/live-by-your-dreams/">arthurstrock.com/live-by-your-dreams</a></p>
+
+<blockquote>
+  <p>Live By Your Dreams is a unique, meaningful guide and reference book for understanding dreams. Dream specialist Arthur Strock welcomes us into his world of dream sharing with fifty heartwarming stories about dreams that involve: relationships, problem-solving, fears, and spirituality. The dream stories of others become our own stories and magically shed light on our everyday life challenges.</p>
+</blockquote>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3arts,
+        ns1:bcpov6pnotb ;
+    ns1:itemId "bcpov6zilbyd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Live By Your Dreams, now available free to download"^^xsd:string ;
+    ns1:profileImg "live-by-your-dreams-book-03-og.png"^^xsd:string ;
+    ns1:urlSlug "live-by-your-dreams-free-download"^^xsd:string .
+
 ns1:bcpov6zincep a ns1:Post ;
     ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6zincep-0.jpg" alt="Inception movie poster" width="200" height="auto"/></p>
@@ -17651,16 +17674,6 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:profileImg "32.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
 
-ns1:bcpov6pnotb a ns1:Post ;
-    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>This page is for dream-related notices! Email us at hello@dreamnetworkjournal.com if you'd like to put something here. </p>
-"""^^xsd:string ;
-    ns1:itemId "bcpov6pnotb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Noticeboard and classifieds"^^xsd:string ;
-    ns1:profileImg "1.3-cover.jpg"^^xsd:string ;
-    ns1:urlSlug "noticeboard"^^xsd:string .
-
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>
 """^^xsd:string ;
@@ -18104,6 +18117,16 @@ ns1:bcphbz5vgog a ns1:Post ;
     ns1:name "Volume 32, issue 4: Important People in our Dreams"^^xsd:string ;
     ns1:profileImg "32.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.4"^^xsd:string .
+
+ns1:bcpov6pnotb a ns1:Post ;
+    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>This page is for dream-related notices! Email us at hello@dreamnetworkjournal.com if you'd like to put something here. </p>
+"""^^xsd:string ;
+    ns1:itemId "bcpov6pnotb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Noticeboard and classifieds"^^xsd:string ;
+    ns1:profileImg "1.3-cover.jpg"^^xsd:string ;
+    ns1:urlSlug "noticeboard"^^xsd:string .
 
 ns1:bcpqoaf5sto a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_6.zip" download>Volume 6 (.zip file, 14mb)</a></p>
@@ -18835,17 +18858,6 @@ ns1:bcpqn7zvpei a ns1:Post ;
     ns1:profileImg "volume-1.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-1"^^xsd:string .
 
-ns1:bcphbq3arts a ns1:User ;
-    ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
-
-<p>Arthur Strock, Ph.D., is a Founding Life Member of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a>. He is dedicated to sharing information about dreamwork and how it can be used to improve our lives. Dr. Strock holds advanced degrees in psychology and clinical social work. His professional experience includes work in hospital, corrections, school, and private practice settings. He has also taught psychology courses as an adjunct faculty member at colleges in New Jersey. His writing includes a column in the Dream Network Journal and articles online and in other publications. He currently works as a school psychologist and provides dream workshops for professionals and the general public.  Arthur published <a href="https://arthurstrock.com/live-by-your-dreams/">“Live By Your Dreams: Heartwarming Stories About Dreams and What They Tell Us” </a>in 2005 and is available on <a href="https://www.amazon.com/Live-Your-Dreams-Arthur-Strock/dp/0996545808/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1455133208&amp;sr=1-1&amp;keywords=live+by+your+dreams+strock">Amazon</a>.  Arthur resides in New Jersey with his partner, art therapist Susan Dingsor. They enjoy their rural location overlooking a natural spring-fed lake that offers relaxed kayaking during their leisure time.</p>
-"""^^xsd:string ;
-    ns1:handle "arthurstrock"^^xsd:string ;
-    ns1:itemId "bcphbq3arts"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Arthur Strock"^^xsd:string ;
-    ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
-
 ns1:bcphbq3ferr a ns1:User ;
     ns1:description """<p>Website: <a href="https://brendaferrimanidreamart.com/">brendaferrimanidreamart.com</a></p>
 
@@ -18921,6 +18933,19 @@ ns1:bcpqn72unjj a ns1:Post ;
     ns1:urlSlug "dream-network-volume-2"^^xsd:string .
 
 ns1:Item a owl:Class .
+
+ns1:bcphbq3arts a ns1:User ;
+    ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
+
+<p>Book: <a href="https://arthurstrock.com/live-by-your-dreams/">Live By Your Dreams, free download</a></p>
+
+<p>Arthur Strock, Ph.D., is a Founding Life Member of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a>. He is dedicated to sharing information about dreamwork and how it can be used to improve our lives. Dr. Strock holds advanced degrees in psychology and clinical social work. His professional experience includes work in hospital, corrections, school, and private practice settings. He has also taught psychology courses as an adjunct faculty member at colleges in New Jersey. His writing includes a column in the Dream Network Journal and articles online and in other publications. He currently works as a school psychologist and provides dream workshops for professionals and the general public. Arthur published <a href="https://arthurstrock.com/live-by-your-dreams/">“Live By Your Dreams: Heartwarming Stories About Dreams and What They Tell Us” </a>in 2005 and is available on <a href="https://www.amazon.com/Live-Your-Dreams-Arthur-Strock/dp/0996545808/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1455133208&amp;sr=1-1&amp;keywords=live+by+your+dreams+strock">Amazon</a>. Arthur resides in New Jersey with his partner, art therapist Susan Dingsor. They enjoy their rural location overlooking a natural spring-fed lake that offers relaxed kayaking during their leisure time.</p>
+"""^^xsd:string ;
+    ns1:handle "arthurstrock"^^xsd:string ;
+    ns1:itemId "bcphbq3arts"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Arthur Strock"^^xsd:string ;
+    ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
 
 ns1:bcphbqvreed a ns1:User ;
     ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;

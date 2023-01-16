@@ -14011,6 +14011,23 @@ ns1:bcpov6zi3sec a ns1:Post ;
     ns1:name "Send me your stories - dreams and death"^^xsd:string ;
     ns1:urlSlug "looking-for-stories"^^xsd:string .
 
+ns1:bcpov6zi3wdg a ns1:Post ;
+    ns1:dateCreated "2023-01-15T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/image-bcpov6zi3wdg-0.jpg" width="400" height="auto" alt="Mountain at night"/></p>
+
+<p>“All dreams come in the service of health and wholeness” is the insight by which I was introduced to dreamwork by my teacher Jeremy Taylor. This simple but astounding claim has proven to be true in many ways for me and the groups I have had the privilege to facilitate. What enthuses me the most these days is the community building aspect of dreamwork, which I believe is sorely needed in today’s world. If you share this belief and you are curious about the wisdom of your dreams, then sign up for my winter series “Dreamwork in Community” before January 20th, 2023 <a href="https://nomadicschool.org/programmes/dreamwork-winter">here</a>.</p>
+
+<p>There may be periodic updates to the dates of this group on the <a href="https://dreamnetworkjournal.com/bcpovdreamg/dream-groups">dream groups page</a>.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3rhdl ;
+    ns1:hasTag ns1:bcphbq3rhdl,
+        ns1:bcpov6pnotb ;
+    ns1:itemId "bcpov6zi3wdg"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreamwork in Community, Winter Group"^^xsd:string ;
+    ns1:profileImg "image-bcpov6zi3wdg-0.jpg"^^xsd:string ;
+    ns1:urlSlug "dreamwork-in-community-winter"^^xsd:string .
+
 ns1:bcpov6zilbyd a ns1:Post ;
     ns1:dateCreated "2022-11-13T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="https://arthurstrock.com/live-by-your-dreams/"></p>
@@ -16810,6 +16827,24 @@ ns1:bcphbq3nrob a ns1:User ;
     ns1:name "Nancy Roberts"^^xsd:string ;
     ns1:profileImg "author-nancy-roberts.jpg"^^xsd:string .
 
+ns1:bcphbq3rhdl a ns1:User ;
+    ns1:coverImg "cover-author-hd-lee.jpg"^^xsd:string ;
+    ns1:description """<p>Nomadic School: <a href="https://www.nomadicschool.org/">www.NomadicSchool.org</a></p>
+
+<p>Life coaching: <a href="https://www.iamhdlee.com/">www.iamHDLee.com</a></p>
+
+<p>I love to learn, teach, coach, relate and create. My life has guided me to experience a diversity of work and cultures. My work is in life coaching, and I specifically seek to work with clients who are dealing with the challenges of change Life inevitably wants to bring us. My calling is in working with groups of all ages within the context education for the express purpose of personal and transpersonal development.</p>
+
+<p>I have served in advisory roles for the social educational non-profit HundrED in Finland and Xinzhai-Better (心斋-貝德幼兒全人教育中心) in China. I am fluent and literate in Chinese, French, and English, I have lived or worked in the US, Germany, France, England, Taiwan, China, and Belgium. Formerly an information technology and business consultant for many years, I also taught transpersonal &amp; positive psychology to international students at Sofia University (USA).</p>
+
+<p>H.D. Lee holds degrees in economics (University of California at Berkeley, USA), transpersonal psychology (Sofia University, USA), certifications in psycho-spiritual coaching (The Synthesis Center, USA), Chinese Medicine (本元堂, China), information technology (IBM), business negotiation (Karrass), projective dreamwork (MIPD). He has completed extensive arts training at the California Art Institute (USA) and is also currently a student of jazz.</p>
+"""^^xsd:string ;
+    ns1:handle "hd-lee"^^xsd:string ;
+    ns1:itemId "bcphbq3rhdl"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "H.D. Lee"^^xsd:string ;
+    ns1:profileImg "author-hd-lee.jpg"^^xsd:string .
+
 ns1:bcphbq3rjbg a ns1:User ;
     ns1:coverImg "cover-author_jordiborras.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.mondesomnis.com/" target="_blank">mondesomnis.com</a></p>
@@ -18118,16 +18153,6 @@ ns1:bcphbz5vgog a ns1:Post ;
     ns1:profileImg "32.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.4"^^xsd:string .
 
-ns1:bcpov6pnotb a ns1:Post ;
-    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>This page is for dream-related notices! Email us at hello@dreamnetworkjournal.com if you'd like to put something here. </p>
-"""^^xsd:string ;
-    ns1:itemId "bcpov6pnotb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Noticeboard and classifieds"^^xsd:string ;
-    ns1:profileImg "1.3-cover.jpg"^^xsd:string ;
-    ns1:urlSlug "noticeboard"^^xsd:string .
-
 ns1:bcpqoaf5sto a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_6.zip" download>Volume 6 (.zip file, 14mb)</a></p>
 """^^xsd:string ;
@@ -18398,6 +18423,16 @@ ns1:bcphbygiw4g a ns1:Post ;
     ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
     ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.2-3"^^xsd:string .
+
+ns1:bcpov6pnotb a ns1:Post ;
+    ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>This page is for dream-related notices! Email us at hello@dreamnetworkjournal.com if you'd like to put something here. </p>
+"""^^xsd:string ;
+    ns1:itemId "bcpov6pnotb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Noticeboard and classifieds"^^xsd:string ;
+    ns1:profileImg "1.3-cover.jpg"^^xsd:string ;
+    ns1:urlSlug "noticeboard"^^xsd:string .
 
 ns1:bcpov6pspec a ns1:Post ;
     ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;

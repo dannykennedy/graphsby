@@ -8,11 +8,11 @@ tags:
   - hasAuthor: rebeccakelly
 type: post
 urlSlug: "fruit-grew-on-my-wrists"
-profileImg: post-bcpov6grtend-0.jpg
+profileImg: moon-sweet.jpg
 ---
 
-<img src="../images/post-bcpov6grtend-0.jpg" width="500px" height="auto"/>
-<!--nopreview--><div style="text-align:center"><i>Jeanne Schul Elkins & Julia Dawn Elkins</i></div><!--/nopreview-->
+<img src="../images/moon-sweet.jpg" width="400px" height="auto"/>
+<!--nopreview--><div style="text-align:center"><i>Moon Sweet, <a href="./@olivermestitz">Oliver Mestitz</a></i></div><!--/nopreview-->
 
 In the wake of the pandemic, in which lockdowns began to dissipate, restrictions eased, and the world was waving its arms at me: I began to dream a reoccurring dream.
 

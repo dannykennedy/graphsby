@@ -7,10 +7,8 @@ name: "Rebecca Kelly"
 shortDescription: ""
 tags:
 date: 2015-03-24
-profileImg: author-kelly-bulkeley.jpg
+profileImg: author-rebecca-kelly.jpg
 coverImg: cover-author-kelly-bulkeley.jpg
 ---
 
-Website: [sleepanddreamdatabase.org](https://sleepanddreamdatabase.org/)
-
-Rebecca Kelly things here
+Rebecca Kelly is a writer currently working and creating on Wurundjeri land. Hailing from the central coast of Australia, Rebecca is presently a writing student at RMIT University. Her work is mostly comprised of poetry and fiction, with an intrigue of human psyche, self-exploration and experimentation.

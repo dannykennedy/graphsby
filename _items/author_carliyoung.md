@@ -6,11 +6,9 @@ handle: carliyoung
 name: "Carli Young"
 shortDescription: ""
 tags:
-date: 2015-03-24
-profileImg: author-kelly-bulkeley.jpg
+date: 2023-02-05
+profileImg: author-carli-young.jpg
 coverImg: cover-author-kelly-bulkeley.jpg
 ---
 
-Website: [sleepanddreamdatabase.org](https://sleepanddreamdatabase.org/)
-
-Carli Young things here
+Carli is a Canadian-born student of the University of Toronto where she specialises in Cognitive Science, minoring in Jungian psychology, philosophy, and Buddhism. She is also an amateur writer, using the medium to explore human experience.

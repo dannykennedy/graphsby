@@ -512,16 +512,6 @@ ns1:bcphbqmxcnl a ns1:Post ;
     ns1:profileImg "12.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "12.3"^^xsd:string .
 
-ns1:bcphbqvcomz a ns1:User ;
-    ns1:coverImg "cover-author-oliver-mestitz.jpg"^^xsd:string ;
-    ns1:description """<p>Oliver Mestitz makes music as The Finks. He lives and works on Wurundjeri Woi Wurrung country.</p>
-"""^^xsd:string ;
-    ns1:handle "olivermestitz"^^xsd:string ;
-    ns1:itemId "bcphbqvcomz"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Oliver Mestitz"^^xsd:string ;
-    ns1:profileImg "author-oliver-mestitz.jpg"^^xsd:string .
-
 ns1:bcphbr4spo2 a ns1:Post ;
     ns1:coverImg "15.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1996-04-01T11:32:52"^^xsd:dateTime ;
@@ -2700,6 +2690,20 @@ ns1:bcpov6grsalm a ns1:Post ;
     ns1:name "I am Salmon"^^xsd:string ;
     ns1:profileImg "29.3_cover-2.jpg"^^xsd:string ;
     ns1:urlSlug "I-am-salmon"^^xsd:string .
+
+ns1:bcpov6grsams a ns1:Post ;
+    ns1:dateCreated "2023-02-05T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/moon-sweet.jpg" width="400px" height="auto"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i>Oliver Mestitz, Moon Sweet</i></div><!--/nopreview--></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvcomz ;
+    ns1:hasTag ns1:bcphbqvcomz ;
+    ns1:itemId "bcpov6grsams"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Moon Sweet"^^xsd:string ;
+    ns1:profileImg "moon-sweet-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "moon-sweet"^^xsd:string .
 
 ns1:bcpov6grsgam a ns1:Post ;
     ns1:dateCreated "2021-06-25T11:32:52"^^xsd:dateTime ;
@@ -17058,15 +17062,13 @@ ns1:bcphbqsuelo a ns1:User ;
 
 ns1:bcphbqvcary a ns1:User ;
     ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://sleepanddreamdatabase.org/">sleepanddreamdatabase.org</a></p>
-
-<p>Carli Young things here</p>
+    ns1:description """<p>Carli is a Canadian-born student of the University of Toronto where she specialises in Cognitive Science, minoring in Jungian psychology, philosophy, and Buddhism. She is also an amateur writer, using the medium to explore human experience.</p>
 """^^xsd:string ;
     ns1:handle "carliyoung"^^xsd:string ;
     ns1:itemId "bcphbqvcary"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Carli Young"^^xsd:string ;
-    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
+    ns1:profileImg "author-carli-young.jpg"^^xsd:string .
 
 ns1:bcphbqvckd7 a ns1:Post ;
     ns1:coverImg "13.1-cover.jpg"^^xsd:string ;
@@ -17081,6 +17083,16 @@ ns1:bcphbqvckd7 a ns1:Post ;
     ns1:name "Volume 13, issue 1: Cross Cultural Perspectives on Dream & Myth"^^xsd:string ;
     ns1:profileImg "13.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.1"^^xsd:string .
+
+ns1:bcphbqvcomz a ns1:User ;
+    ns1:coverImg "cover-author-oliver-mestitz.jpg"^^xsd:string ;
+    ns1:description """<p>Oliver Mestitz makes music as The Finks. He lives and works on Wurundjeri Woi Wurrung country.</p>
+"""^^xsd:string ;
+    ns1:handle "olivermestitz"^^xsd:string ;
+    ns1:itemId "bcphbqvcomz"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Oliver Mestitz"^^xsd:string ;
+    ns1:profileImg "author-oliver-mestitz.jpg"^^xsd:string .
 
 ns1:bcphbqvicjs a ns1:User ;
     ns1:coverImg "cover-author-carl-schroeder.jpg"^^xsd:string ;
@@ -17138,15 +17150,13 @@ ns1:bcphbqvpenn a ns1:User ;
 
 ns1:bcphbqvrebk a ns1:User ;
     ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://sleepanddreamdatabase.org/">sleepanddreamdatabase.org</a></p>
-
-<p>Rebecca Kelly things here</p>
+    ns1:description """<p>Rebecca Kelly is a writer currently working and creating on Wurundjeri land. Hailing from the central coast of Australia, Rebecca is presently a writing student at RMIT University. Her work is mostly comprised of poetry and fiction, with an intrigue of human psyche, self-exploration and experimentation.</p>
 """^^xsd:string ;
     ns1:handle "rebeccakelly"^^xsd:string ;
     ns1:itemId "bcphbqvrebk"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Rebecca Kelly"^^xsd:string ;
-    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
+    ns1:profileImg "author-rebecca-kelly.jpg"^^xsd:string .
 
 ns1:bcphbqvrugh a ns1:User ;
     ns1:coverImg "cover-genell-howell.jpg"^^xsd:string ;

@@ -16550,13 +16550,17 @@ ns1:bcphb2eggje a ns1:Post ;
 
 ns1:bcphbbhutch a ns1:User ;
     ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;
-    ns1:description """<p></p>
+    ns1:description """<p>Beck Hutchinson co-created <a href="http://www.dreamlynx.com/">DreamLynx</a> with her husband Linton Hutchinson, a web site devoted to the translation of dreams. She spends her spare time dancing, drawing, and gardening.</p>
+
+<blockquote>
+  <p><em>“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”</em> — Albert Einstein</p>
+</blockquote>
 """^^xsd:string ;
     ns1:handle "beckhutchinson"^^xsd:string ;
     ns1:itemId "bcphbbhutch"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Beck Hutchinson"^^xsd:string ;
-    ns1:profileImg "tree-logo.png"^^xsd:string .
+    ns1:profileImg "author-beck-hutchinson.jpg"^^xsd:string .
 
 ns1:bcphbgreene a ns1:User ;
     ns1:coverImg "cover-author-tara-greene.jpg"^^xsd:string ;

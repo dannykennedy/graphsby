@@ -512,6 +512,16 @@ ns1:bcphbqmxcnl a ns1:Post ;
     ns1:profileImg "12.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "12.3"^^xsd:string .
 
+ns1:bcphbqvcomz a ns1:User ;
+    ns1:coverImg "cover-author-oliver-mestitz.jpg"^^xsd:string ;
+    ns1:description """<p>Oliver Mestitz makes music as The Finks. He lives and works on Wurundjeri Woi Wurrung country.</p>
+"""^^xsd:string ;
+    ns1:handle "olivermestitz"^^xsd:string ;
+    ns1:itemId "bcphbqvcomz"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Oliver Mestitz"^^xsd:string ;
+    ns1:profileImg "author-oliver-mestitz.jpg"^^xsd:string .
+
 ns1:bcphbr4spo2 a ns1:Post ;
     ns1:coverImg "15.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1996-04-01T11:32:52"^^xsd:dateTime ;
@@ -17002,13 +17012,13 @@ ns1:bcphbqpionk a ns1:User ;
     ns1:profileImg "dnj-text.jpg"^^xsd:string .
 
 ns1:bcphbqpsarg a ns1:User ;
-    ns1:description """<p></p>
+    ns1:description """<p>Larry Sargent and his partner Pat Sargent were the directors of Dream Arts, an educational, training, and research group which is devoted to the study and expansion of dream, visionary, and mythic consciousness. He gave various talks during the 1980s and advertised them in the Dream Network, including as "Dreams, Myths, and Nature" (Long Beach CA) and "The Art of Dreaming" (Chicago), "Dream Ecology" (NY, at the home of Montague Ullman), "Dreams in the Nuclear Age" (Berkeley CA). He also wrote for the Dream Network and was a listed networking contact for the journal.</p>
 """^^xsd:string ;
     ns1:handle "larrysargent"^^xsd:string ;
     ns1:itemId "bcphbqpsarg"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Larry Sargent"^^xsd:string ;
-    ns1:profileImg "dnj-text.jpg"^^xsd:string .
+    ns1:profileImg "author-larry-sargent.jpg"^^xsd:string .
 
 ns1:bcphbqsbonn a ns1:User ;
     ns1:coverImg "cover-author-gary-bonnell.jpg"^^xsd:string ;

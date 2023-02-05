@@ -1126,7 +1126,7 @@ ns1:bcpov6gfgomw a ns1:Post ;
     ns1:dateCreated "2023-02-05T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/moon-sweet.jpg" width="400px" height="auto"/></p>
 
-<p><!--nopreview--><div style="text-align:center"><i>Moon Sweet, <a href="./@olivermestitz">Oliver Mestitz</a></i></div><!--/nopreview--></p>
+<p><!--nopreview--><div style="text-align:center"><i>Moon Sweet, <a href="../@olivermestitz">Oliver Mestitz</a></i></div><!--/nopreview--></p>
 
 <p>In the wake of the pandemic, in which lockdowns began to dissipate, restrictions eased, and the world was waving its arms at me: I began to dream a reoccurring dream.</p>
 
@@ -9842,11 +9842,13 @@ ns1:bcpov6shpocw a ns1:Post ;
 
 <p>Though I have made it into the ocean before – about a year ago I had a dream that I was running along a coastal edge towards a dock that stretched out into the ocean. Alongside me was a version of me that was carrying more weight than what was presently typical, and a face full of acne. She was full of shame and insecurity, and so was I. We ran to the dock and as we were running there was a dark mermaid spirit who was underneath, flinging her tongue up through the cracks. I knew that if either of us were to be hit by the tongue, it would latch on and pull us under. We just kept on running, and eventually reached the end of the dock and jumped into the ocean. We were swimming beneath and I looked back towards the dock in fear I’d see this evil creature swimming after us. A wise-old-man figure approached me and said that one of us would not make the journey to the other side. He then looked towards my double. I had a sense that she would die, and I haven’t been under ocean waters since.</p>
 
-<p>Before that, I dreamt I was watching a mom and her child run in terror from a group of men in a typical North American city suburb. Running through the streets they came across a woman watering her garden and they asked her for safety. She took them into the basement of her house – which happened to be the basement of one of my childhood homes – and hid them both inside the walls.</p>
-
 <p><img src="../images/000027.jpg" alt="Coast with water overlay" /></p>
 
+<p>Before that, I dreamt I was watching a mom and her child run in terror from a group of men in a typical North American city suburb. Running through the streets they came across a woman watering her garden and they asked her for safety. She took them into the basement of her house – which happened to be the basement of one of my childhood homes – and hid them both inside the walls.</p>
+
 <p>No longer a witness but an active participant, just recently I dreamt that three pregnant women approached me. They entreated me to protect them as a group of men were out to kill their babies. I knew precisely the place I would take them: the basement of a family-owned corporate tower as the room’s whereabouts was left off of the blueprint. It was my secret hiding place. Seemingly, these women survived, as several nights later one of them came to me, child in hand, introducing us. I held the baby and as soon as our eyes met, I knew it was mine. Since then, the same baby comes back to visit. Each time the men return, continuing their attempt to kill it. As time in the dream sequence forks like a river, this journey keeps ongoing.</p>
+
+<p><img src="../images/000010.jpg" alt="Grainy beach photo" /></p>
 
 <p>I have been so concerned with the symbol of the child as of late, wondering who and from where this child was birthed. It is never really I who is carrying this baby, but instead, I am a witness, or now a protector. At least that is the figure I play when I am asleep, but parts of us are projected through the psyche and into the dream. This dream takes place in my psychic landscape, so why would I try to kill my own baby? But that is just it, it is not my baby or their baby, but it is our baby. It is the child of all my parts from our collective womb, past, present, and whatever future they amount to. And in that way I can better understand the distance between me and the water. I am having the dream, without birthing the dream; I am but at a distance. A distance that keeps me separate from nature – the world’s nature, my nature, my mother, and being a mother and all the rest. I protect the baby, I try to keep it alive, I try to connect with it and let it know I am there for it, but I am at best an aunt.</p>
 
@@ -9854,7 +9856,7 @@ ns1:bcpov6shpocw a ns1:Post ;
 
 <p>Perhaps I now run towards the ocean only to stop and wait, so that I can see who will come out the other side.</p>
 
-<p><img src="../images/000010.jpg" alt="Grainy beach photo" /></p>
+<p><img src="../images/02082022film6.jpg" alt="Colour coast photo with long road" /></p>
 
 <div class="caption" style="text-align: center;"><i>Photos: Carli Young</i></div>
 """^^xsd:string ;

@@ -12,7 +12,7 @@ profileImg: moon-sweet.jpg
 ---
 
 <img src="../images/moon-sweet.jpg" width="400px" height="auto"/>
-<!--nopreview--><div style="text-align:center"><i>Moon Sweet, <a href="./@olivermestitz">Oliver Mestitz</a></i></div><!--/nopreview-->
+<!--nopreview--><div style="text-align:center"><i>Moon Sweet, <a href="../@olivermestitz">Oliver Mestitz</a></i></div><!--/nopreview-->
 
 In the wake of the pandemic, in which lockdowns began to dissipate, restrictions eased, and the world was waving its arms at me: I began to dream a reoccurring dream.
 

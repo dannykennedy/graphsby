@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -210,10 +213,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6gii224" class="card item-card thumb-card" 
+                <div id="bcpov6gii224" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6gii224/deborahkoffchapin-dnj-24-4_cover'">
                         <div class="inner-card Postcard">
                             
@@ -323,7 +326,7 @@
 
                     
 
-                <div id="bcpov6kohoss" class="card item-card thumb-card" 
+                <div id="bcpov6kohoss" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6kohoss/dream-theories-of-deja-vu'">
                         <div class="inner-card Postcard">
                             
@@ -443,7 +446,7 @@
 
                     
 
-                <div id="bcpov6grlrev" class="card item-card thumb-card" 
+                <div id="bcpov6grlrev" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6grlrev/the-lucid-dreaming-kit-by-bradley-thompson-review'">
                         <div class="inner-card Postcard">
                             
@@ -573,7 +576,7 @@
 
                     
 
-                <div id="bcpov6krflyt" class="card item-card thumb-card" 
+                <div id="bcpov6krflyt" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6krflyt/flying-trees'">
                         <div class="inner-card Postcard">
                             
@@ -692,4 +695,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

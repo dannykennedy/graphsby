@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -250,19 +253,20 @@
 
 <div class="response" id="mce-error-response" style="display:none"></div>
 
-        <div class="response" id="mce-success-response" style="display:none"></div>
+<pre><code>    &lt;div class="response" id="mce-success-response" style="display:none"&gt;&lt;/div&gt;
 
-    </div> 
+&lt;/div&gt; 
 
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_257cd7aebe75da281b95503f8_7f4a54b119" tabindex="-1" value=""></div>
+&lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_257cd7aebe75da281b95503f8_7f4a54b119" tabindex="-1" value=""&gt;&lt;/div&gt;
 
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+&lt;div class="clear"&gt;&lt;input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"&gt;&lt;/div&gt;
 
-    </div>
+&lt;/div&gt;
+</code></pre>
 
-</form>
+<p></form></p>
 
-</div>
+<p></div></p>
 
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
@@ -282,4 +286,14 @@
 
 </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -215,15 +218,15 @@
 
 <p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
 
-<p>His latest book, <a href="https://www.amazon.com/Glimpses-Beyond-Ego-Dreams-Nature/dp/B08F6RYH8W/ref=sr_1_1?dchild=1&amp;qid=1602155108&amp;refinements=p_27%3A+Ph.D.%5CcWilliam+R.+Stimson&amp;s=books&amp;sr=1-1&amp;text=William+R.+Stimson%2C+Ph.D.">Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature</a> is now available on Amazon. </p>
+<p>His latest book, <a href="https://www.amazon.com/Glimpses-Beyond-Ego-Dreams-Nature/dp/B08F6RYH8W/ref=sr_1_1?dchild=1&qid=1602155108&refinements=p_27%3A+Ph.D.%5CcWilliam+R.+Stimson&s=books&sr=1-1&text=William+R.+Stimson%2C+Ph.D.">Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature</a> is now available on Amazon. </p>
 
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6zfbsbr" class="card item-card thumb-card" 
+                <div id="bcpov6zfbsbr" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zfbsbr/glimpses-from-beyond-the-ego-bill-stimson-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -364,7 +367,7 @@
 
                     
 
-                <div id="bcpov6shanth" class="card item-card thumb-card" 
+                <div id="bcpov6shanth" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6shanth/anthropology-of-the-dream-people'">
                         <div class="inner-card Postcard">
                             
@@ -496,7 +499,7 @@
 
                     
 
-                <div id="bcpov6secret" class="card item-card thumb-card" 
+                <div id="bcpov6secret" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6secret/the-secret-of-dream-work'">
                         <div class="inner-card Postcard">
                             
@@ -626,7 +629,7 @@
 
                     
 
-                <div id="bcpov6shpoet" class="card item-card thumb-card" 
+                <div id="bcpov6shpoet" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6shpoet/what-poets-have-to-tell-dreamers'">
                         <div class="inner-card Postcard">
                             
@@ -794,7 +797,7 @@
 
                     
 
-                <div id="bcpov6master" class="card item-card thumb-card" 
+                <div id="bcpov6master" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6master/the-dreams-of-a-master'">
                         <div class="inner-card Postcard">
                             
@@ -928,7 +931,7 @@
 
                     
 
-                <div id="bcpov6sarmed" class="card item-card thumb-card" 
+                <div id="bcpov6sarmed" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6sarmed/dreams-as-a-subversive-activity'">
                         <div class="inner-card Postcard">
                             
@@ -1069,7 +1072,7 @@
 
                     
 
-                <div id="bcpov6mausef" class="card item-card thumb-card" 
+                <div id="bcpov6mausef" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6mausef/are-dream-groups-really-useful'">
                         <div class="inner-card Postcard">
                             
@@ -1189,7 +1192,7 @@
 
                     
 
-                <div id="bcpov6mlight" class="card item-card thumb-card" 
+                <div id="bcpov6mlight" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6mlight/are-dream-groups-really-useful'">
                         <div class="inner-card Postcard">
                             
@@ -1346,4 +1349,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -214,10 +217,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6gresof" class="card item-card thumb-card" 
+                <div id="bcpov6gresof" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6gresof/soul-on-fire-dreams-as-a-vehicle-for-transformation'">
                         <div class="inner-card Postcard">
                             
@@ -399,7 +402,7 @@
 
                     
 
-                <div id="bcpov6greaiz" class="card item-card thumb-card" 
+                <div id="bcpov6greaiz" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6greaiz/dream-tending-and-storytelling'">
                         <div class="inner-card Postcard">
                             
@@ -582,7 +585,7 @@
 
                     
 
-                <div id="bcpov6great2" class="card item-card thumb-card" 
+                <div id="bcpov6great2" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6great2/interview-with-barry-williams-part-II'">
                         <div class="inner-card Postcard">
                             
@@ -730,7 +733,7 @@
 
                     
 
-                <div id="bcpov6grroth" class="card item-card thumb-card" 
+                <div id="bcpov6grroth" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6grroth/gabrielle-roth-interview-dance-it-is-holy'">
                         <div class="inner-card Postcard">
                             
@@ -882,7 +885,7 @@
 
                     
 
-                <div id="bcpov6great1" class="card item-card thumb-card" 
+                <div id="bcpov6great1" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6great1/interview-with-barry-williams-part-I'">
                         <div class="inner-card Postcard">
                             
@@ -1066,7 +1069,7 @@
 
                     
 
-                <div id="bcpov6grddan" class="card item-card thumb-card" 
+                <div id="bcpov6grddan" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6grddan/gabrielle-roth-interview-dance-it-is-holy'">
                         <div class="inner-card Postcard">
                             
@@ -1266,7 +1269,7 @@
 
                     
 
-                <div id="post" class="card item-card thumb-card" 
+                <div id="post" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../post/creating-dances-from-dreams'">
                         <div class="inner-card Postcard">
                             
@@ -1468,7 +1471,7 @@
 
                     
 
-                <div id="bcpov6ghaiku" class="card item-card thumb-card" 
+                <div id="bcpov6ghaiku" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6ghaiku/haiku'">
                         <div class="inner-card Postcard">
                             
@@ -1694,7 +1697,7 @@
 
                     
 
-                <div id="bcpov6grtend" class="card item-card thumb-card" 
+                <div id="bcpov6grtend" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6grtend/dream-tending-and-story-telling-an-inter-generational-process'">
                         <div class="inner-card Postcard">
                             
@@ -1851,4 +1854,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

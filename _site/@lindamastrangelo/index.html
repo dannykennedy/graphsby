@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -220,10 +223,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6zfsing" class="card item-card thumb-card" 
+                <div id="bcpov6zfsing" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zfsing/the-trees-are-singing'">
                         <div class="inner-card Postcard">
                             
@@ -360,4 +363,14 @@ It all made sense som<span class='read-more'> ...read more</span>
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

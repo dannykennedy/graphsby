@@ -45,6 +45,8 @@
 
 .item-card {
   border-radius: 2px;
+  /* Absolute position needed for mini masonry */
+  /* Container is relative */
   position: absolute;
   transition: 0.2s;
   width: 100%;
@@ -52,9 +54,6 @@
   font-weight: 100;
   box-sizing: border-box;
   padding: 12px;
-  height: fit-content;
-  display: inline-block;
-  max-width: 400px;
 }
 
 @media (max-width: 400px) {

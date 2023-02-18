@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -212,10 +215,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcphbmaewem" class="card item-card thumb-card" 
+                <div id="bcphbmaewem" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphbmaewem/4.6'">
                         <div class="inner-card Postcard">
                             
@@ -327,7 +330,7 @@
 
                     
 
-                <div id="bcphbl3kedf" class="card item-card thumb-card" 
+                <div id="bcphbl3kedf" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphbl3kedf/4.5'">
                         <div class="inner-card Postcard">
                             
@@ -439,7 +442,7 @@
 
                     
 
-                <div id="bcphblyrd2y" class="card item-card thumb-card" 
+                <div id="bcphblyrd2y" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphblyrd2y/4.4'">
                         <div class="inner-card Postcard">
                             
@@ -551,7 +554,7 @@
 
                     
 
-                <div id="bcphblwwuy6" class="card item-card thumb-card" 
+                <div id="bcphblwwuy6" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphblwwuy6/4.3'">
                         <div class="inner-card Postcard">
                             
@@ -663,7 +666,7 @@
 
                     
 
-                <div id="bcphblsydwp" class="card item-card thumb-card" 
+                <div id="bcphblsydwp" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphblsydwp/4.2'">
                         <div class="inner-card Postcard">
                             
@@ -775,7 +778,7 @@
 
                     
 
-                <div id="bcphblqvj7h" class="card item-card thumb-card" 
+                <div id="bcphblqvj7h" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphblqvj7h/4.1'">
                         <div class="inner-card Postcard">
                             
@@ -890,4 +893,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

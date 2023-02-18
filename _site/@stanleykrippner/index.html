@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -224,10 +227,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6zfbsbr" class="card item-card thumb-card" 
+                <div id="bcpov6zfbsbr" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zfbsbr/glimpses-from-beyond-the-ego-bill-stimson-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -368,7 +371,7 @@
 
                     
 
-                <div id="bcpov6zd3skr" class="card item-card thumb-card" 
+                <div id="bcpov6zd3skr" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zd3skr/understanding-suicides-allure-stanley-krippner-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -535,7 +538,7 @@
 
                     
 
-                <div id="bcpov6rsmbts" class="card item-card thumb-card" 
+                <div id="bcpov6rsmbts" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6rsmbts/stanley-krippner-a-man-beyond-the-seasons'">
                         <div class="inner-card Postcard">
                             
@@ -716,7 +719,7 @@
 
                     
 
-                <div id="bcphbxjsuyu" class="card item-card thumb-card" 
+                <div id="bcphbxjsuyu" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphbxjsuyu/26.1-2'">
                         <div class="inner-card Postcard">
                             
@@ -841,7 +844,7 @@
 
                     
 
-                <div id="bcpov6zfbost" class="card item-card thumb-card" 
+                <div id="bcpov6zfbost" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zfbost/a-precognitive-dream-and-meeting-an-extra-ordinary-human-being'">
                         <div class="inner-card Postcard">
                             
@@ -994,7 +997,7 @@
 
                     
 
-                <div id="bcpov6kmyth2" class="card item-card thumb-card" 
+                <div id="bcpov6kmyth2" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6kmyth2/personal-mythology-part-II'">
                         <div class="inner-card Postcard">
                             
@@ -1201,7 +1204,7 @@
 
                     
 
-                <div id="bcpov6kmyth1" class="card item-card thumb-card" 
+                <div id="bcpov6kmyth1" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6kmyth1/dreams-as-a-mirror-of-change-in-personal-mythology'">
                         <div class="inner-card Postcard">
                             
@@ -1394,7 +1397,7 @@
 
                     
 
-                <div id="bcpov6zchaot" class="card item-card thumb-card" 
+                <div id="bcpov6zchaot" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zchaot/chaotic-attractors-in-myth-stories-told-by-the-kariri-xuco-indians'">
                         <div class="inner-card Postcard">
                             
@@ -1562,7 +1565,7 @@
 
                     
 
-                <div id="bcpov6zfacet" class="card item-card thumb-card" 
+                <div id="bcpov6zfacet" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zfacet/a-ten-facet-model-of-dreaming-for-use-in-cross-cultural-studies'">
                         <div class="inner-card Postcard">
                             
@@ -1812,7 +1815,7 @@
 
                     
 
-                <div id="bcpov6rspmdi" class="card item-card thumb-card" 
+                <div id="bcpov6rspmdi" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6rspmdi/personal-myths-and-dream-interpretation'">
                         <div class="inner-card Postcard">
                             
@@ -1988,4 +1991,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

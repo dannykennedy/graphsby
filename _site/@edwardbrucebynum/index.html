@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -209,7 +212,7 @@
                         <div id="page-description-text">
                             <p>Website: <a href="http://www.obeliskfoundation.com/">obeliskfoundation.com</a></p>
 
-<p>Books: <a href="https://www.amazon.com/Edward-Bruce-Bynum/e/B001K7WMXU?ref=sr_ntt_srch_lnk_1&amp;qid=1584830830&amp;sr=8-1">amazon.com/Edward-Bruce-Bynum</a></p>
+<p>Books: <a href="https://www.amazon.com/Edward-Bruce-Bynum/e/B001K7WMXU?ref=sr_ntt_srch_lnk_1&qid=1584830830&sr=8-1">amazon.com/Edward-Bruce-Bynum</a></p>
 
 <p>Dr. Bynum is the author of numerous clinical articles in scientific journals, four texts in psychology and two in poetry. His most recent texts in psychology are The African Unconscious: Roots of Ancient Mysticism And Modern Psychology (Cosimo Books), Families And The Interpretation of Dreams (Paraview Special Books) and DARK LIGHT CONSCIOUSNESS (Inner Traditions &amp; Bear Company). He is the producer of a ten part audio lecture series on science, psychology, spirituality and African psycho-historical and philosophical systems. He is a frequent speaker at national and international conferences and has appeared on radio, television and in documentaries. His research interests include depth psychology as it pertains to neuroscience, neuromelanin, consciousness research, as well as the analysis of dreams, family dynamics, the philosophy of science, ancient history, anthropology-archaeology and yoga. </p>
 
@@ -218,10 +221,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6zphras" class="card item-card thumb-card" 
+                <div id="bcpov6zphras" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zphras/awakening-personal-meanings-with-symbol-phrases-systems-effects-and-more'">
                         <div class="inner-card Postcard">
                             
@@ -470,11 +473,11 @@
 
 
 
-<p></li>
+</li>
 
 
 
-<p></ol>
+</ol>
 
 <p> <a href="http://www.yourguidingdreams.com/"></a></p>
 
@@ -548,7 +551,7 @@
 
                     
 
-                <div id="bcpov6zfamil" class="card item-card thumb-card" 
+                <div id="bcpov6zfamil" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zfamil/psi-the-shared-dreamscape-and-the-family-unconscious'">
                         <div class="inner-card Postcard">
                             
@@ -701,4 +704,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

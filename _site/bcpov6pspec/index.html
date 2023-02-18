@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -212,10 +215,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6pimag" class="card item-card thumb-card" 
+                <div id="bcpov6pimag" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6pimag/satisfy-the-image'">
                         <div class="inner-card Postcard">
                             
@@ -327,7 +330,7 @@
 
                     
 
-                <div id="bcpov6pacmm" class="card item-card thumb-card" 
+                <div id="bcpov6pacmm" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6pacmm/relationship-dreams'">
                         <div class="inner-card Postcard">
                             
@@ -439,7 +442,7 @@
 
                     
 
-                <div id="bcpov6tqqf6" class="card item-card thumb-card" 
+                <div id="bcpov6tqqf6" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6tqqf6/the-art-of-dream-sharing'">
                         <div class="inner-card Postcard">
                             
@@ -551,7 +554,7 @@
 
                     
 
-                <div id="bcpov6zfsra" class="card item-card thumb-card" 
+                <div id="bcpov6zfsra" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zfsra/coat-of-many-colors'">
                         <div class="inner-card Postcard">
                             
@@ -701,7 +704,7 @@
 
                     
 
-                <div id="bcpov6wbyg5" class="card item-card thumb-card" 
+                <div id="bcpov6wbyg5" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6wbyg5/welcome-to-the-magic-theater'">
                         <div class="inner-card Postcard">
                             
@@ -816,4 +819,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

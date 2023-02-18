@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -226,10 +229,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6zlaslr" class="card item-card thumb-card" 
+                <div id="bcpov6zlaslr" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zlaslr/wake-up-justina-lasley-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -357,7 +360,7 @@
 
                     
 
-                <div id="bcpov6zhoffr" class="card item-card thumb-card" 
+                <div id="bcpov6zhoffr" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zhoffr/weaving-dreams-into-the-classroom-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -506,7 +509,7 @@
 
                     
 
-                <div id="bcpov6znormr" class="card item-card thumb-card" 
+                <div id="bcpov6znormr" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6znormr/dream-explorations-by-rachel-norment-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -636,7 +639,7 @@
 
                     
 
-                <div id="bcpov6zmossr" class="card item-card thumb-card" 
+                <div id="bcpov6zmossr" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zmossr/dreaming-the-soul-back-home-robert-moss-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -781,7 +784,7 @@
 
                     
 
-                <div id="bcpov6zpimmr" class="card item-card thumb-card" 
+                <div id="bcpov6zpimmr" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zpimmr/notes-from-a-dreamer-on-dreaming-pimm-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -924,7 +927,7 @@
 
                     
 
-                <div id="bcpov6zssong" class="card item-card thumb-card" 
+                <div id="bcpov6zssong" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zssong/finding-my-song-through-dreamwork'">
                         <div class="inner-card Postcard">
                             
@@ -1064,7 +1067,7 @@
 
                     
 
-                <div id="bcpov6zaizer" class="card item-card thumb-card" 
+                <div id="bcpov6zaizer" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zaizer/dream-tending-aizenstat-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -1215,7 +1218,7 @@
 
                     
 
-                <div id="bcpov6zreedr" class="card item-card thumb-card" 
+                <div id="bcpov6zreedr" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zreedr/henry-reed-dream-medicine-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -1350,7 +1353,7 @@
 
                     
 
-                <div id="bcpov6zruizr" class="card item-card thumb-card" 
+                <div id="bcpov6zruizr" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zruizr/the-mastery-of-love-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -1517,7 +1520,7 @@
 
                     
 
-                <div id="bcpov6mossr2" class="card item-card thumb-card" 
+                <div id="bcpov6mossr2" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6mossr2/dreamways-of-the-iriquois-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -1691,4 +1694,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

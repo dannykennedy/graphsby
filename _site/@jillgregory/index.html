@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -214,10 +217,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6zdsocm" class="card item-card thumb-card" 
+                <div id="bcpov6zdsocm" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zdsocm/jeremy-taylor-dreamwork-as-a-social-movement'">
                         <div class="inner-card Postcard">
                             
@@ -490,7 +493,7 @@
 
                     
 
-                <div id="bcpov6gregi2" class="card item-card thumb-card" 
+                <div id="bcpov6gregi2" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6gregi2/viewing-the-interviewer-featuring-jill-gregory'">
                         <div class="inner-card Postcard">
                             
@@ -701,7 +704,7 @@
 
                     
 
-                <div id="bcpov6trowi2" class="card item-card thumb-card" 
+                <div id="bcpov6trowi2" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6trowi2/dream-wizard-an-interview-with-bob-trowbridge'">
                         <div class="inner-card Postcard">
                             
@@ -900,7 +903,7 @@
 
                     
 
-                <div id="bcpov6magai2" class="card item-card thumb-card" 
+                <div id="bcpov6magai2" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6magai2/interview-with-dnb-publisher-linda-magallon'">
                         <div class="inner-card Postcard">
                             
@@ -1104,4 +1107,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

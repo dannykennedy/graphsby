@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -220,10 +223,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6zreedr" class="card item-card thumb-card" 
+                <div id="bcpov6zreedr" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zreedr/henry-reed-dream-medicine-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -358,7 +361,7 @@
 
                     
 
-                <div id="bcpov6zreedi" class="card item-card thumb-card" 
+                <div id="bcpov6zreedi" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zreedi/an-interview-with-henry-reed'">
                         <div class="inner-card Postcard">
                             
@@ -659,7 +662,7 @@
 
                     
 
-                <div id="bcpov6reedi2" class="card item-card thumb-card" 
+                <div id="bcpov6reedi2" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6reedi2/interview-with-henry-reed'">
                         <div class="inner-card Postcard">
                             
@@ -872,7 +875,7 @@
 
                     
 
-                <div id="bcpov6rshoes" class="card item-card thumb-card" 
+                <div id="bcpov6rshoes" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6rshoes/shoes-of-the-dreamer'">
                         <div class="inner-card Postcard">
                             
@@ -1008,7 +1011,7 @@
 
                     
 
-                <div id="bcpov6rsshoe2" class="card item-card thumb-card" 
+                <div id="bcpov6rsshoe2" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6rsshoe2/the-shoes-of-a-dreamer'">
                         <div class="inner-card Postcard">
                             
@@ -1132,7 +1135,7 @@
 
                     
 
-                <div id="bcpov6rsgdnp" class="card item-card thumb-card" 
+                <div id="bcpov6rsgdnp" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6rsgdnp/the-dream-net-project-computer-assisted-dream-interpretation'">
                         <div class="inner-card Postcard">
                             
@@ -1270,7 +1273,7 @@
 
                     
 
-                <div id="bcpov6rsguid" class="card item-card thumb-card" 
+                <div id="bcpov6rsguid" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6rsguid/guidance-from-dreams-and-psychics'">
                         <div class="inner-card Postcard">
                             
@@ -1395,4 +1398,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

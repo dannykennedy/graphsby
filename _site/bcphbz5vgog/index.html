@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -210,10 +213,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6mobama" class="card item-card thumb-card" 
+                <div id="bcpov6mobama" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6mobama/a-dream-about-president-obama'">
                         <div class="inner-card Postcard">
                             
@@ -343,7 +346,7 @@
 
                     
 
-                <div id="bcpov6kaelec" class="card item-card thumb-card" 
+                <div id="bcpov6kaelec" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6kaelec/pre-election-dreams'">
                         <div class="inner-card Postcard">
                             
@@ -503,7 +506,7 @@
 
                     
 
-                <div id="bcpov6mobnot" class="card item-card thumb-card" 
+                <div id="bcpov6mobnot" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6mobnot/dreaming-another-language-she-will-not-kill'">
                         <div class="inner-card Postcard">
                             
@@ -633,7 +636,7 @@
 
                     
 
-                <div id="bcpov6zfimpp" class="card item-card thumb-card" 
+                <div id="bcpov6zfimpp" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zfimpp/who-is-the-important-person-in-your-dreams'">
                         <div class="inner-card Postcard">
                             
@@ -778,4 +781,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

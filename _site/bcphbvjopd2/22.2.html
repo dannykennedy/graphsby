@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -210,10 +213,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6zfpeac" class="card item-card thumb-card" 
+                <div id="bcpov6zfpeac" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zfpeac/can-the-world-dream-peace'">
                         <div class="inner-card Postcard">
                             
@@ -413,7 +416,7 @@
 
                     
 
-                <div id="bcpov6zfacad" class="card item-card thumb-card" 
+                <div id="bcpov6zfacad" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zfacad/holistic-dream-studies-in-academia'">
                         <div class="inner-card Postcard">
                             
@@ -549,7 +552,7 @@
 
                     
 
-                <div id="bcpov6kairaq" class="card item-card thumb-card" 
+                <div id="bcpov6kairaq" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6kairaq/war-in-iraq-nightmare-or-waking-dream'">
                         <div class="inner-card Postcard">
                             
@@ -797,7 +800,7 @@
 
                     
 
-                <div id="bcpov6grtend" class="card item-card thumb-card" 
+                <div id="bcpov6grtend" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6grtend/dream-tending-and-story-telling-an-inter-generational-process'">
                         <div class="inner-card Postcard">
                             
@@ -951,7 +954,7 @@
 
                     
 
-                <div id="bcpov6kchers" class="card item-card thumb-card" 
+                <div id="bcpov6kchers" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6kchers/dream-cherishing-culture'">
                         <div class="inner-card Postcard">
                             
@@ -1208,4 +1211,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

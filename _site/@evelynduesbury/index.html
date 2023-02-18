@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -220,10 +223,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6zpdtem" class="card item-card thumb-card" 
+                <div id="bcpov6zpdtem" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zpdtem/dream-that-encouraged-me-to-write-a-book'">
                         <div class="inner-card Postcard">
                             
@@ -477,7 +480,7 @@
 
                     
 
-                <div id="bcpov6zphras" class="card item-card thumb-card" 
+                <div id="bcpov6zphras" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zphras/awakening-personal-meanings-with-symbol-phrases-systems-effects-and-more'">
                         <div class="inner-card Postcard">
                             
@@ -726,11 +729,11 @@
 
 
 
-<p></li>
+</li>
 
 
 
-<p></ol>
+</ol>
 
 <p> <a href="http://www.yourguidingdreams.com/"></a></p>
 
@@ -804,7 +807,7 @@
 
                     
 
-                <div id="bcpov6zprofe" class="card item-card thumb-card" 
+                <div id="bcpov6zprofe" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zprofe/professor-uses-dreams-as-guides-in-working-with-students'">
                         <div class="inner-card Postcard">
                             
@@ -985,4 +988,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

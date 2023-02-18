@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -210,10 +213,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6zi3ans" class="card item-card thumb-card" 
+                <div id="bcpov6zi3ans" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zi3ans/ancestor-book-sculpture'">
                         <div class="inner-card Postcard">
                             
@@ -329,7 +332,7 @@
 
                     
 
-                <div id="bcpov6krdbf7" class="card item-card thumb-card" 
+                <div id="bcpov6krdbf7" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6krdbf7/dreams-bones-and-the-future-7'">
                         <div class="inner-card Postcard">
                             
@@ -527,7 +530,7 @@
 
                     
 
-                <div id="bcpov6zflies" class="card item-card thumb-card" 
+                <div id="bcpov6zflies" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zflies/if-nothing-ever-changed-there-would-be-no-butterflies'">
                         <div class="inner-card Postcard">
                             
@@ -675,7 +678,7 @@
 
                     
 
-                <div id="bcpov6zincep" class="card item-card thumb-card" 
+                <div id="bcpov6zincep" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zincep/inception-movie-review'">
                         <div class="inner-card Postcard">
                             
@@ -809,7 +812,7 @@
 
                     
 
-                <div id="bcpov6grsalm" class="card item-card thumb-card" 
+                <div id="bcpov6grsalm" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6grsalm/I-am-salmon'">
                         <div class="inner-card Postcard">
                             
@@ -937,7 +940,7 @@
 
                     
 
-                <div id="bcpov6krdbf5" class="card item-card thumb-card" 
+                <div id="bcpov6krdbf5" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6krdbf5/dreams-bones-and-the-future-5'">
                         <div class="inner-card Postcard">
                             
@@ -1166,4 +1169,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

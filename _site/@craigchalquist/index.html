@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -213,15 +216,15 @@
 
 <p>Founding Editor-in-Chief of Immanence: The Journal of Applied Mythology, Legend, and Folktale, founder and Owner of World Soul Books and founder and Owner, Worldrede Academy. Have worked as a family therapist, lecturer, and group facilitator. PhD in depth psychology from Pacifica Graduate Institute. </p>
 
-<p>Author of many books, including <em><a href="https://www.routledge.com/Terrapsychological-Inquiry-Restorying-Our-Relationship-with-Nature-Place/Chalquist/p/book/9780367859213">Terrapsychological Inquiry: Restorying Our Relations to Nature, Place, and Planet</a></em> (Routledge, 2020). Terrapsychology: Reengaging the Soul of Place came out in 2007, Deep California in 2008. Co-editor with Linda Buzzell-Saltzman, MFT of Ecotherapy: Healing with Nature in Mind, Sierra Club’s 2009 sequel to Ecopsychology: Restoring the Earth, Healing the Mind. 2009: publication of Storied Lives: Discovering and Deepening Your Personal Myth. All books available <a href="https://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;field-keywords=&amp;field-author=chalquist&amp;field-title=&amp;field-isbn=&amp;field-publisher=&amp;node=&amp;field-p_n_condition-type=&amp;field-feature_browse-bin=&amp;field-binding_browse-bin=&amp;field-subject=&amp;field-language=&amp;field-dateop=After&amp;field-datemod=&amp;field-dateyear=2007&amp;sort=relevanceexprank&amp;Adv-Srch-Books-Submit.x=38&amp;Adv-Srch-Books-Submit.y=7">here</a>. </p>
+<p>Author of many books, including <em><a href="https://www.routledge.com/Terrapsychological-Inquiry-Restorying-Our-Relationship-with-Nature-Place/Chalquist/p/book/9780367859213">Terrapsychological Inquiry: Restorying Our Relations to Nature, Place, and Planet</a></em> (Routledge, 2020). Terrapsychology: Reengaging the Soul of Place came out in 2007, Deep California in 2008. Co-editor with Linda Buzzell-Saltzman, MFT of Ecotherapy: Healing with Nature in Mind, Sierra Club’s 2009 sequel to Ecopsychology: Restoring the Earth, Healing the Mind. 2009: publication of Storied Lives: Discovering and Deepening Your Personal Myth. All books available <a href="https://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&unfiltered=1&field-keywords=&field-author=chalquist&field-title=&field-isbn=&field-publisher=&node=&field-p_n_condition-type=&field-feature_browse-bin=&field-binding_browse-bin=&field-subject=&field-language=&field-dateop=After&field-datemod=&field-dateyear=2007&sort=relevanceexprank&Adv-Srch-Books-Submit.x=38&Adv-Srch-Books-Submit.y=7">here</a>. </p>
 
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6knenww" class="card item-card thumb-card" 
+                <div id="bcpov6knenww" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6knenww/fictionalized-futures-as-dreams'">
                         <div class="inner-card Postcard">
                             
@@ -440,4 +443,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

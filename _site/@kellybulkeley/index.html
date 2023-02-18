@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -212,10 +215,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6glorev" class="card item-card thumb-card" 
+                <div id="bcpov6glorev" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6glorev/dreams-and-relationships-book-reviews'">
                         <div class="inner-card Postcard">
                             
@@ -379,7 +382,7 @@
 
                     
 
-                <div id="bcpov6kbcoup" class="card item-card thumb-card" 
+                <div id="bcpov6kbcoup" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6kbcoup/the-soviet-coup-dream-myth-and-reality'">
                         <div class="inner-card Postcard">
                             
@@ -517,7 +520,7 @@
 
                     
 
-                <div id="bcpov6kbheal" class="card item-card thumb-card" 
+                <div id="bcpov6kbheal" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6kbheal/dreaming-to-heal-the-earth'">
                         <div class="inner-card Postcard">
                             
@@ -697,7 +700,7 @@
 
                     
 
-                <div id="bcpov6kbchil" class="card item-card thumb-card" 
+                <div id="bcpov6kbchil" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6kbchil/teaching-dreamwork-to-children'">
                         <div class="inner-card Postcard">
                             
@@ -825,7 +828,7 @@
 
                     
 
-                <div id="bcpov6kbhelp" class="card item-card thumb-card" 
+                <div id="bcpov6kbhelp" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6kbhelp/nightmare-help-review'">
                         <div class="inner-card Postcard">
                             
@@ -972,7 +975,7 @@
 
                     
 
-                <div id="bcpov6knewsw" class="card item-card thumb-card" 
+                <div id="bcpov6knewsw" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6knewsw/the-world-of-dreams-according-to-newsweek'">
                         <div class="inner-card Postcard">
                             
@@ -1118,7 +1121,7 @@
 
                     
 
-                <div id="bcpov6kindia" class="card item-card thumb-card" 
+                <div id="bcpov6kindia" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6kindia/dreams-in-india'">
                         <div class="inner-card Postcard">
                             
@@ -1254,7 +1257,7 @@
 
                     
 
-                <div id="bcpov6globus" class="card item-card thumb-card" 
+                <div id="bcpov6globus" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6globus/dream-life-wake-life-globus-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -1378,7 +1381,7 @@
 
                     
 
-                <div id="bcpov6kbirth" class="card item-card thumb-card" 
+                <div id="bcpov6kbirth" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6kbirth/the-birth-of-the-dream-movement'">
                         <div class="inner-card Postcard">
                             
@@ -1519,4 +1522,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

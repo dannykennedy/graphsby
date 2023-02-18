@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -220,10 +223,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6zruizr" class="card item-card thumb-card" 
+                <div id="bcpov6zruizr" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zruizr/the-mastery-of-love-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -390,7 +393,7 @@
 
                     
 
-                <div id="bcpov6mossr2" class="card item-card thumb-card" 
+                <div id="bcpov6mossr2" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6mossr2/dreamways-of-the-iriquois-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -561,7 +564,7 @@
 
                     
 
-                <div id="bcpov6modart" class="card item-card thumb-card" 
+                <div id="bcpov6modart" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6modart/the-art-of-dreaming-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -683,7 +686,7 @@
 
                     
 
-                <div id="bcpov6modway" class="card item-card thumb-card" 
+                <div id="bcpov6modway" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6modway/the-dreaming-way-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -808,4 +811,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

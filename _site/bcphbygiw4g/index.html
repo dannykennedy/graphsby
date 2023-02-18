@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -210,10 +213,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcpov6zaizer" class="card item-card thumb-card" 
+                <div id="bcpov6zaizer" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zaizer/dream-tending-aizenstat-book-review'">
                         <div class="inner-card Postcard">
                             
@@ -364,7 +367,7 @@
 
                     
 
-                <div id="bcpov6zfawar" class="card item-card thumb-card" 
+                <div id="bcpov6zfawar" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6zfawar/lucid-dreaming-transformational-potential'">
                         <div class="inner-card Postcard">
                             
@@ -508,7 +511,7 @@
 
                     
 
-                <div id="bcpov6ghelev" class="card item-card thumb-card" 
+                <div id="bcpov6ghelev" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6ghelev/seeing-parallel-worlds'">
                         <div class="inner-card Postcard">
                             
@@ -702,7 +705,7 @@
 
                     
 
-                <div id="bcpov6grewit" class="card item-card thumb-card" 
+                <div id="bcpov6grewit" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6grewit/dream-tending-and-storytelling'">
                         <div class="inner-card Postcard">
                             
@@ -878,7 +881,7 @@
 
                     
 
-                <div id="bcpov6g282-3" class="card item-card thumb-card" 
+                <div id="bcpov6g282-3" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcpov6g282-3/ornabenshoshan-dnj-28-2_cover'">
                         <div class="inner-card Postcard">
                             
@@ -1003,4 +1006,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

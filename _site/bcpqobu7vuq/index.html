@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -212,10 +215,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcphbvvhigo" class="card item-card thumb-card" 
+                <div id="bcphbvvhigo" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphbvvhigo/22.4'">
                         <div class="inner-card Postcard">
                             
@@ -327,7 +330,7 @@
 
                     
 
-                <div id="bcphbvob4z7" class="card item-card thumb-card" 
+                <div id="bcphbvob4z7" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphbvob4z7/22.3'">
                         <div class="inner-card Postcard">
                             
@@ -439,7 +442,7 @@
 
                     
 
-                <div id="bcphbvjopd2" class="card item-card thumb-card" 
+                <div id="bcphbvjopd2" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphbvjopd2/22.2'">
                         <div class="inner-card Postcard">
                             
@@ -554,4 +557,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

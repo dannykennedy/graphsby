@@ -41,6 +41,9 @@
       href="https://fonts.googleapis.com/css?family=Lora&display=swap"
       rel="stylesheet"
     />
+    <!-- SCRIPTS -->
+    <!-- <script src="../scripts/masonry.min.js"></script> -->
+    <script src="../scripts/minimasonry.min.js"></script>
     <!-- FAVICON -->
     <link
       rel="icon"
@@ -212,10 +215,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                      
 
-                <div id="bcphbsvz3ik" class="card item-card thumb-card" 
+                <div id="bcphbsvz3ik" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphbsvz3ik/16.4'">
                         <div class="inner-card Postcard">
                             
@@ -327,7 +330,7 @@
 
                     
 
-                <div id="bcphbslvedc" class="card item-card thumb-card" 
+                <div id="bcphbslvedc" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphbslvedc/16.3'">
                         <div class="inner-card Postcard">
                             
@@ -439,7 +442,7 @@
 
                     
 
-                <div id="bcphbshc2lb" class="card item-card thumb-card" 
+                <div id="bcphbshc2lb" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphbshc2lb/16.2'">
                         <div class="inner-card Postcard">
                             
@@ -551,7 +554,7 @@
 
                     
 
-                <div id="bcphbsc3ttt" class="card item-card thumb-card" 
+                <div id="bcphbsc3ttt" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../bcphbsc3ttt/16.1'">
                         <div class="inner-card Postcard">
                             
@@ -666,4 +669,14 @@
             </div>
             </div>
   </body>
+  <!-- Scripts -->
+  <script>
+    // Don't call masonry until the page is loaded
+    window.onload = function () {
+      var masonry = new MiniMasonry({
+        container: ".grid",
+        minify: false,
+      });
+    };
+  </script>
 </html>

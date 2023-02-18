@@ -66,6 +66,13 @@ if os.path.exists(style_folderpath):
 	shutil.rmtree(style_folderpath)
 Path(style_folderpath).mkdir(parents=True, exist_ok=True)
 copytree(cwd + "/_styles/", cwd + build_folder + "/styles")
+# Scripts
+scripts_folderpath = cwd + build_folder + '/scripts'
+# First delete the existing one
+if os.path.exists(scripts_folderpath):
+	shutil.rmtree(scripts_folderpath)
+Path(scripts_folderpath).mkdir(parents=True, exist_ok=True)
+copytree(cwd + "/scripts/", cwd + build_folder + "/scripts")
 # Images
 images_folderpath = cwd + build_folder + '/images'
 Path(images_folderpath).mkdir(parents=True, exist_ok=True)

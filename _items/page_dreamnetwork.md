@@ -16,11 +16,7 @@ The Dream Network Journal is a place for people to share the wonder and mystery 
 
 If you'd like to look up an individual author or article, there's a growing [authors page](../@dreamnetwork~contributors) here, and a (not-quite-complete) [list of Dream Network articles](https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing) in spreadsheet form.
 
-Please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> for questions or submissions.
-
-### New crowdfunding campaign!
-
-We're currently crowdfunding for the next issues of the DNJ. The campaign is [live on Chuffed.org](https://chuffed.org/project/dream-network-journal-new-issues). We're starting a bit slowly with the promotion, since we've been laid low by the recent [Melbourne floods](https://www.abc.net.au/news/2022-10-21/victorias-flood-disaster-from-the-air/101546888). But please consider donating - there's a lot of beautiful and unique swag, with our newly cleaned logo, for donors.
+Please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> for questions.
 
 Cover image: _Gaia gazes in the mirror and sees the Earth_, by [Eric Snyder](../@ericsnyder/)
 

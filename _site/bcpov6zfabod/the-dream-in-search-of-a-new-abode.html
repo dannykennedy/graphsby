@@ -475,12 +475,15 @@ Creativity: Dreaming, in a sense, is a very personal art form. Our waking life i
   </body>
   <!-- Scripts -->
   <script>
-    // Don't call masonry until the page is loaded
+    var masonry = new MiniMasonry({
+      container: ".grid",
+      minify: false,
+      basewidth: 350,
+    });
     window.onload = function () {
-      var masonry = new MiniMasonry({
-        container: ".grid",
-        minify: false,
-      });
+      setTimeout(function () {
+        masonry.layout();
+      }, 500);
     };
   </script>
 </html>

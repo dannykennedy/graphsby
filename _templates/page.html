@@ -45,10 +45,10 @@
                         </div>
                     </div>
                 </div>
-                <div id="page-items">
+                <div id="page-items" class="grid">
                     {% if posts %} {% for post in posts %}
 
-                <div id="{{post.itemId}}" class="card item-card thumb-card" 
+                <div id="{{post.itemId}}" class="card item-card thumb-card grid-item" 
                 onclick="window.location.href = '../{{post.card_link}}'">
                         <div class="inner-card {{post.card_type}}card">
                             {% if post.card_type == "Post" %}

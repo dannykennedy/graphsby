@@ -1,54 +1,54 @@
 body {
-    width: 100%;
-    margin: 0px;
-    background-color: rgb(240, 243, 247);
-    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-    -moz-box-sizing: border-box; /* Firefox, other Gecko */
-    box-sizing: border-box; /* Opera/IE 8+ */
-    font-family: "Lora", serif;
+  width: 100%;
+  margin: 0px;
+  font-family: "Lora", serif;
+  background-color: rgb(240, 243, 247);
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box; /* Opera/IE 8+ */
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font-size: 1.05em;
 }
 
 #wrapper {
-    padding: 75px 15px 15px 15px;
+  padding: 75px 15px 15px 15px;
 }
 
 .button-standard {
-    justify-self: center;
-    border-radius: 2px;
-    width: auto;
-    color: white;
-    background-color: rgba(63, 139, 241, 0.7);
-    padding: 7px;
-    margin-right: 10px;
-    margin-bottom: 5px;
-    cursor: pointer;
-    font-size: 1em;
-    margin-top: 30px;
-    margin-bottom: 30px;
+  justify-self: center;
+  border-radius: 2px;
+  width: auto;
+  color: white;
+  background-color: rgba(63, 139, 241, 0.7);
+  padding: 7px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  font-size: 1em;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .button-standard:hover {
-    background-color: rgba(63, 139, 241, 0.9);
+  background-color: rgba(63, 139, 241, 0.9);
 }
 button:focus {
-    outline: none;
+  outline: none;
 }
 
 button {
-    border: none;
-    background-color: inherit;
+  border: none;
+  background-color: inherit;
 }
-
 
 /*Mailchimp*/
 #mc_embed_signup {
-    background:#fff; 
-    clear:left; 
+  background: #fff;
+  clear: left;
 }
 
 @media (max-width: 400px) {
-    #wrapper {
-        padding: 60px 0px;
-    }
+  #wrapper {
+    padding: 60px 0px;
+  }
 }
-
-

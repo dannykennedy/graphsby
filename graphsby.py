@@ -71,6 +71,7 @@ scripts_folderpath = cwd + build_folder + '/scripts'
 # First delete the existing one
 if os.path.exists(scripts_folderpath):
 	shutil.rmtree(scripts_folderpath)
+	print("Deleted existing scripts folder")
 Path(scripts_folderpath).mkdir(parents=True, exist_ok=True)
 copytree(cwd + "/scripts/", cwd + build_folder + "/scripts")
 # Images
@@ -240,7 +241,7 @@ print(len(file_objects))
 print("Finding linked items")
 for pyyam in file_objects:
 
-	print(pyyam["name"])
+	# print(pyyam["name"])
 
 	item_string_identifier = ""
 	item_type = pyyam["type"]
@@ -430,7 +431,7 @@ for pyyam in file_objects:
 		custom_keywords = pyyam["name"] + ", "
 	else: 
 		canonical_url = site_url + str(pyyam["itemId"]) + "/" + pyyam["urlSlug"]
-	print(canonical_url)
+	# print(canonical_url)
 
 
 	if "layout" in pyyam.keys():

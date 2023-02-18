@@ -618,19 +618,20 @@ ns1:bcphbsignup a ns1:Page ;
 
 <div class="response" id="mce-error-response" style="display:none"></div>
 
-        <div class="response" id="mce-success-response" style="display:none"></div>
+<pre><code>    &lt;div class="response" id="mce-success-response" style="display:none"&gt;&lt;/div&gt;
 
-    </div> 
+&lt;/div&gt; 
 
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_257cd7aebe75da281b95503f8_7f4a54b119" tabindex="-1" value=""></div>
+&lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_257cd7aebe75da281b95503f8_7f4a54b119" tabindex="-1" value=""&gt;&lt;/div&gt;
 
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+&lt;div class="clear"&gt;&lt;input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"&gt;&lt;/div&gt;
 
-    </div>
+&lt;/div&gt;
+</code></pre>
 
-</form>
+<p></form></p>
 
-</div>
+<p></div></p>
 
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
@@ -15309,13 +15310,13 @@ ns1:bcpov6zphras a ns1:Post ;
 
 </ol>
 
-<p></li></p>
+</li>
 
-<p><li>University Level Courses - Instructor facilitated through the University of Wisconsin Whitewater, available at graduate and undergraduate levels to counselor education, social work, psychology, and sociology majors or graduates. Out of state Tuition rates apply to all states except Wisconsin and states with reciprocity agreements. </p>
+<li>University Level Courses - Instructor facilitated through the University of Wisconsin Whitewater, available at graduate and undergraduate levels to counselor education, social work, psychology, and sociology majors or graduates. Out of state Tuition rates apply to all states except Wisconsin and states with reciprocity agreements. 
 
-<p></li></p>
+</li>
 
-<p></ol></p>
+</ol>
 
 <p>To sign-up for either option, click on Sign-up from the home page of <a href="http://www.yourguidingdreams.com/">www.yourguidingdreams.com</a>.</p>
 
@@ -16951,7 +16952,7 @@ ns1:bcphbqawohl a ns1:User ;
     ns1:coverImg "cover-author-jennifer-wohl.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.jenniferwohl.com/">www.jenniferwohl.com</a></p>
 
-<p>Jennifer Wohl, MA, LPC is a psychotherapist in private practice in Portland, Oregon, where she specializes in working with dreams, bereavement, and body-based psychotherapy. She has been working with dreams professionally since 2001 and has been writing down her own dreams since 1976. Her book, Keys to The House of Dreams: A Guided Workbook for Understanding Any Dream is available on Amazon: <a href="https://www.amazon.com/Keys-House-Dreams-Workbook-Understanding/dp/B089LYH1MZ/ref=sr_1_1?dchild=1&amp;keywords=Jennifer+wohl&amp;qid=1611853907&amp;sr=8-1">https://www.amazon.com/Keys-House-Dreams-Workbook-Understanding/dp/B089LYH1MZ/ref=sr<em>1</em>1?dchild=1&amp;keywords=Jennifer+wohl&amp;qid=1611853907&amp;sr=8-1</a></p>
+<p>Jennifer Wohl, MA, LPC is a psychotherapist in private practice in Portland, Oregon, where she specializes in working with dreams, bereavement, and body-based psychotherapy. She has been working with dreams professionally since 2001 and has been writing down her own dreams since 1976. Her book, Keys to The House of Dreams: A Guided Workbook for Understanding Any Dream is available on Amazon: <a href="https://www.amazon.com/Keys-House-Dreams-Workbook-Understanding/dp/B089LYH1MZ/ref=sr_1_1?dchild=1&keywords=Jennifer+wohl&qid=1611853907&sr=8-1">https://www.amazon.com/Keys-House-Dreams-Workbook-Understanding/dp/B089LYH1MZ/ref=sr<em>1</em>1?dchild=1&amp;keywords=Jennifer+wohl&amp;qid=1611853907&amp;sr=8-1</a></p>
 """^^xsd:string ;
     ns1:handle "jenniferwohl"^^xsd:string ;
     ns1:itemId "bcphbqawohl"^^xsd:string ;
@@ -16969,7 +16970,7 @@ ns1:bcphbqchalq a ns1:User ;
 
 <p>Founding Editor-in-Chief of Immanence: The Journal of Applied Mythology, Legend, and Folktale, founder and Owner of World Soul Books and founder and Owner, Worldrede Academy. Have worked as a family therapist, lecturer, and group facilitator. PhD in depth psychology from Pacifica Graduate Institute. </p>
 
-<p>Author of many books, including <em><a href="https://www.routledge.com/Terrapsychological-Inquiry-Restorying-Our-Relationship-with-Nature-Place/Chalquist/p/book/9780367859213">Terrapsychological Inquiry: Restorying Our Relations to Nature, Place, and Planet</a></em> (Routledge, 2020). Terrapsychology: Reengaging the Soul of Place came out in 2007, Deep California in 2008. Co-editor with Linda Buzzell-Saltzman, MFT of Ecotherapy: Healing with Nature in Mind, Sierra Club’s 2009 sequel to Ecopsychology: Restoring the Earth, Healing the Mind. 2009: publication of Storied Lives: Discovering and Deepening Your Personal Myth. All books available <a href="https://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;field-keywords=&amp;field-author=chalquist&amp;field-title=&amp;field-isbn=&amp;field-publisher=&amp;node=&amp;field-p_n_condition-type=&amp;field-feature_browse-bin=&amp;field-binding_browse-bin=&amp;field-subject=&amp;field-language=&amp;field-dateop=After&amp;field-datemod=&amp;field-dateyear=2007&amp;sort=relevanceexprank&amp;Adv-Srch-Books-Submit.x=38&amp;Adv-Srch-Books-Submit.y=7">here</a>. </p>
+<p>Author of many books, including <em><a href="https://www.routledge.com/Terrapsychological-Inquiry-Restorying-Our-Relationship-with-Nature-Place/Chalquist/p/book/9780367859213">Terrapsychological Inquiry: Restorying Our Relations to Nature, Place, and Planet</a></em> (Routledge, 2020). Terrapsychology: Reengaging the Soul of Place came out in 2007, Deep California in 2008. Co-editor with Linda Buzzell-Saltzman, MFT of Ecotherapy: Healing with Nature in Mind, Sierra Club’s 2009 sequel to Ecopsychology: Restoring the Earth, Healing the Mind. 2009: publication of Storied Lives: Discovering and Deepening Your Personal Myth. All books available <a href="https://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&unfiltered=1&field-keywords=&field-author=chalquist&field-title=&field-isbn=&field-publisher=&node=&field-p_n_condition-type=&field-feature_browse-bin=&field-binding_browse-bin=&field-subject=&field-language=&field-dateop=After&field-datemod=&field-dateyear=2007&sort=relevanceexprank&Adv-Srch-Books-Submit.x=38&Adv-Srch-Books-Submit.y=7">here</a>. </p>
 """^^xsd:string ;
     ns1:handle "craigchalquist"^^xsd:string ;
     ns1:itemId "bcphbqchalq"^^xsd:string ;
@@ -18140,7 +18141,7 @@ ns1:bcphbqafunk a ns1:User ;
 
 <p>In 1973 he began his training to be a psychotherapist at the C. G. Jung Institute in Zurich which he completed in 1981. Since then he has had a private practice as a therapist in Bern where, in addition to seeing clients, he leads a monthly dream group. Since 1989 he has led a <a href="http://funkhouser.dreamunit.net/Dream-seminar-notes/dc2K_mod.htm">seminar in dreamwork</a> at the C.G. Jung Institute near Zurich. He has also led workshops in dreamwork in Switzerland, Australia and the U.S. Several years ago he was the originator and co-director of a research project into the effects of dream-telling, supported by two grants from the Swiss National Science Foundation.</p>
 
-<p>One of his hobbies is research into déjà vu and precognitive dreams. For those interested, there are two articles he wrote about déjà vu: <a href="https://www.theoasisgroup.net/poc/view_doc.php?type=doc&amp;id=264">Three Types of Déjà Vu</a> and <a href="https://www.researchgate.net/publication/232529073_The_dream_theory_of_deja_vu">Dreams and Déjà Vu</a>. There is also now a website dedicated to <a href="https://deja-experience-research.org/">déjà experience research</a>. Recently two of his articles were published on the TherapyRoute website: <a href="https://www.therapyroute.com/article/a-way-to-do-dreamwork-by-a-funkhouser">A Way to do Dreamwork</a> and <a href="https://www.therapyroute.com/article/ten-dimensions-of-dream-meaning-by-a-funkhouser">Ten Dimensions of Dream Meaning</a>.</p>
+<p>One of his hobbies is research into déjà vu and precognitive dreams. For those interested, there are two articles he wrote about déjà vu: <a href="https://www.theoasisgroup.net/poc/view_doc.php?type=doc&id=264">Three Types of Déjà Vu</a> and <a href="https://www.researchgate.net/publication/232529073_The_dream_theory_of_deja_vu">Dreams and Déjà Vu</a>. There is also now a website dedicated to <a href="https://deja-experience-research.org/">déjà experience research</a>. Recently two of his articles were published on the TherapyRoute website: <a href="https://www.therapyroute.com/article/a-way-to-do-dreamwork-by-a-funkhouser">A Way to do Dreamwork</a> and <a href="https://www.therapyroute.com/article/ten-dimensions-of-dream-meaning-by-a-funkhouser">Ten Dimensions of Dream Meaning</a>.</p>
 """^^xsd:string ;
     ns1:handle "artfunkhouser"^^xsd:string ;
     ns1:itemId "bcphbqafunk"^^xsd:string ;
@@ -18165,7 +18166,7 @@ ns1:bcphbqawern a ns1:User ;
 ns1:bcphbqbynum a ns1:User ;
     ns1:description """<p>Website: <a href="http://www.obeliskfoundation.com/">obeliskfoundation.com</a></p>
 
-<p>Books: <a href="https://www.amazon.com/Edward-Bruce-Bynum/e/B001K7WMXU?ref=sr_ntt_srch_lnk_1&amp;qid=1584830830&amp;sr=8-1">amazon.com/Edward-Bruce-Bynum</a></p>
+<p>Books: <a href="https://www.amazon.com/Edward-Bruce-Bynum/e/B001K7WMXU?ref=sr_ntt_srch_lnk_1&qid=1584830830&sr=8-1">amazon.com/Edward-Bruce-Bynum</a></p>
 
 <p>Dr. Bynum is the author of numerous clinical articles in scientific journals, four texts in psychology and two in poetry. His most recent texts in psychology are The African Unconscious: Roots of Ancient Mysticism And Modern Psychology (Cosimo Books), Families And The Interpretation of Dreams (Paraview Special Books) and DARK LIGHT CONSCIOUSNESS (Inner Traditions &amp; Bear Company). He is the producer of a ten part audio lecture series on science, psychology, spirituality and African psycho-historical and philosophical systems. He is a frequent speaker at national and international conferences and has appeared on radio, television and in documentaries. His research interests include depth psychology as it pertains to neuroscience, neuromelanin, consciousness research, as well as the analysis of dreams, family dynamics, the philosophy of science, ancient history, anthropology-archaeology and yoga. </p>
 
@@ -19090,7 +19091,7 @@ ns1:bcphbq3arts a ns1:User ;
 
 <p>Book: <a href="https://arthurstrock.com/live-by-your-dreams/">Live By Your Dreams, free download</a></p>
 
-<p>Arthur Strock, Ph.D., is a Founding Life Member of the <a href="https://www.asdreams.org">International Association for the Study of Dreams</a>. He is dedicated to sharing information about dreamwork and how it can be used to improve our lives. Dr. Strock holds advanced degrees in psychology and clinical social work. His professional experience includes work in hospital, corrections, school, and private practice settings. He has also taught psychology courses as an adjunct faculty member at colleges in New Jersey. His writing includes a column in the Dream Network Journal and articles online and in other publications. He is a retired school psychologist and psychotherapist who provides dream workshops for professionals and the general public. Arthur published <a href="https://arthurstrock.com/live-by-your-dreams/">“Live By Your Dreams: Heartwarming Stories About Dreams and What They Tell Us” </a>in 2015 and is available on <a href="https://www.amazon.com/Live-Your-Dreams-Arthur-Strock/dp/0996545808/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1455133208&amp;sr=1-1&amp;keywords=live+by+your+dreams+strock">Amazon</a> and as a free download from his own <a href="www.arthurstrock.com">www.arthurstrock.com</a> website. Arthur resides in New Jersey with his partner, art therapist Susan Dingsor. They enjoy their rural location overlooking a natural spring-fed lake that offers relaxed kayaking during their leisure time.</p>
+<p>Arthur Strock, Ph.D., is a Founding Life Member of the <a href="https://www.asdreams.org">International Association for the Study of Dreams</a>. He is dedicated to sharing information about dreamwork and how it can be used to improve our lives. Dr. Strock holds advanced degrees in psychology and clinical social work. His professional experience includes work in hospital, corrections, school, and private practice settings. He has also taught psychology courses as an adjunct faculty member at colleges in New Jersey. His writing includes a column in the Dream Network Journal and articles online and in other publications. He is a retired school psychologist and psychotherapist who provides dream workshops for professionals and the general public. Arthur published <a href="https://arthurstrock.com/live-by-your-dreams/">“Live By Your Dreams: Heartwarming Stories About Dreams and What They Tell Us” </a>in 2015 and is available on <a href="https://www.amazon.com/Live-Your-Dreams-Arthur-Strock/dp/0996545808/ref=sr_1_1?s=books&ie=UTF8&qid=1455133208&sr=1-1&keywords=live+by+your+dreams+strock">Amazon</a> and as a free download from his own <a href="www.arthurstrock.com">www.arthurstrock.com</a> website. Arthur resides in New Jersey with his partner, art therapist Susan Dingsor. They enjoy their rural location overlooking a natural spring-fed lake that offers relaxed kayaking during their leisure time.</p>
 """^^xsd:string ;
     ns1:handle "arthurstrock"^^xsd:string ;
     ns1:itemId "bcphbq3arts"^^xsd:string ;
@@ -19148,7 +19149,7 @@ ns1:bcphbqvstim a ns1:User ;
 
 <p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
 
-<p>His latest book, <a href="https://www.amazon.com/Glimpses-Beyond-Ego-Dreams-Nature/dp/B08F6RYH8W/ref=sr_1_1?dchild=1&amp;qid=1602155108&amp;refinements=p_27%3A+Ph.D.%5CcWilliam+R.+Stimson&amp;s=books&amp;sr=1-1&amp;text=William+R.+Stimson%2C+Ph.D.">Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature</a> is now available on Amazon. </p>
+<p>His latest book, <a href="https://www.amazon.com/Glimpses-Beyond-Ego-Dreams-Nature/dp/B08F6RYH8W/ref=sr_1_1?dchild=1&qid=1602155108&refinements=p_27%3A+Ph.D.%5CcWilliam+R.+Stimson&s=books&sr=1-1&text=William+R.+Stimson%2C+Ph.D.">Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature</a> is now available on Amazon. </p>
 """^^xsd:string ;
     ns1:handle "billstimson"^^xsd:string ;
     ns1:itemId "bcphbqvstim"^^xsd:string ;
@@ -19282,7 +19283,7 @@ ns1:bcphbq3rpac a ns1:User ;
 
 <p>Paco Mitchell is a Jungian author, artist, therapist and editor, dedicated to the study of dreams, essay- and fiction-writing, and creative ventures in general. His interest in dreams focuses primarily on emergent levels of psychic development that take shape in the collective unconscious, and strive toward consciousness in the dreams and lives of individuals. Many of Paco's dream-related essays have been published in Dream Network Journal and Depth Insights, as well as The Angels (The Entities Trilogy), ed. by Robert Sardello. In addition to his Jungian studies and practice, Paco also taught Romance Languages (Spanish and French); worked as a sculptor and owner/operator of the Blue Heron Foundry (Art Bronze Casting); and for many years taught and performed on the flamenco guitar, both as a soloist, and as an accompanist to flamenco dancers and singers. He is co-editor of the Owl &amp; Heron Press with <a href="../@ral">Russell A. Lockhart</a>, with whom he has co-authored the first two volumes of a trilogy, Dreams, Bones &amp; the Future, subtitled A Dialogue and Queries &amp; Speculations, respectively. The third volume, subtitled Endings, is under way and will be published in 2020. His latest release is The Paraclete of Caborca: A Collision with Destiny, available on Amazon.com at:</p>
 
-<p><a href="https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm_pap_new_olp_0?ie=UTF8&amp;condition=new">https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm<em>pap</em>new<em>olp</em>0?ie=UTF8&amp;condition=new</a></p>
+<p><a href="https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm_pap_new_olp_0?ie=UTF8&condition=new">https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm<em>pap</em>new<em>olp</em>0?ie=UTF8&amp;condition=new</a></p>
 
 <p>Paco lives in Santa Fe, New Mexico. He may be reached at mitchell@cybermesa.com</p>
 """^^xsd:string ;
@@ -19315,11 +19316,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
 
 <p>If you'd like to look up an individual author or article, there's a growing <a href="../@dreamnetwork~contributors">authors page</a> here, and a (not-quite-complete) <a href="https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing">list of Dream Network articles</a> in spreadsheet form.</p>
 
-<p>Please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> for questions or submissions.</p>
-
-<h3>New crowdfunding campaign!</h3>
-
-<p>We're currently crowdfunding for the next issues of the DNJ. The campaign is <a href="https://chuffed.org/project/dream-network-journal-new-issues">live on Chuffed.org</a>. We're starting a bit slowly with the promotion, since we've been laid low by the recent <a href="https://www.abc.net.au/news/2022-10-21/victorias-flood-disaster-from-the-air/101546888">Melbourne floods</a>. But please consider donating - there's a lot of beautiful and unique swag, with our newly cleaned logo, for donors.</p>
+<p>Please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> for questions.</p>
 
 <p>Cover image: <em>Gaia gazes in the mirror and sees the Earth</em>, by <a href="../@ericsnyder/">Eric Snyder</a></p>
 
@@ -19333,7 +19330,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
 
 </div>
 
-<p></div></p>
+</div>
 
 <div style="text-align:center;font-style:italic; margin-bottom: 30px"><a href="https://manishaanjali.com/">Manisha</a>, <a href="https://twitter.com/kannydennedy">Dan</a>, <a href="http://eastwest.works/Inoshi.html">Inoshi</a> and 
 

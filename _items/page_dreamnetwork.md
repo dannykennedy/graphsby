@@ -27,10 +27,6 @@ Cover image: _Gaia gazes in the mirror and sees the Earth_, by [Eric Snyder](../
 </div>
 </div>
 
-<div style="text-align:center;font-style:italic; margin-bottom: 30px"><a href="https://manishaanjali.com/">Manisha</a>, <a href="https://twitter.com/kannydennedy">Dan</a>, <a href="http://eastwest.works/Inoshi.html">Inoshi</a> and 
-<a href="../@robertaossana">Roberta</a>
-</div>
-
 <hr>
 
 <div class="sidebar-link">
@@ -52,5 +48,5 @@ Cover image: _Gaia gazes in the mirror and sees the Earth_, by [Eric Snyder](../
 <hr>
 
 <div class="sidebar-link">
-<a href="https://web.archive.org/web/20060424062349/http://dreamnetwork.net/">Old DNJ site</a></p>
+<a href="https://web.archive.org/web/20060424062349/http://dreamnetwork.net/">Old DNJ site (Web Archive)</a></p>
 </div>

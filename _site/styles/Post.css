@@ -1,7 +1,7 @@
 /* Posts should not take up the whole screen */
 #post .item-card {
   position: relative;
-  max-width: 700px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   padding: 30px;

@@ -49,7 +49,7 @@ POST_TEMPLATE_FILE = "post.html"
 PAGE_TEMPLATE_FILE = "page.html"
 post_template = templateEnv.get_template(POST_TEMPLATE_FILE)
 page_template = templateEnv.get_template(PAGE_TEMPLATE_FILE)
-POST_SNIPPET_LENGTH = 250
+POST_SNIPPET_LENGTH = 150
 
 # Startup messages
 print("### Generating site ###")

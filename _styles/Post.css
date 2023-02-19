@@ -1,5 +1,6 @@
 /* Posts should not take up the whole screen */
 #post .item-card {
+  position: relative;
   max-width: 700px;
   margin-left: auto;
   margin-right: auto;
@@ -23,12 +24,12 @@
 }
 
 #post .caption {
-    font-size: 0.85em;
-    text-align: center;
-    font-style: italic;
+  font-size: 0.85em;
+  text-align: center;
+  font-style: italic;
 }
 
 #post .breakout-box {
-    border: 1px solid #333;
-    padding: 10px 20px;
+  border: 1px solid #333;
+  padding: 10px 20px;
 }

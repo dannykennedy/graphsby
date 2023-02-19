@@ -13,6 +13,7 @@
   box-sizing: border-box; /* Opera/IE 8+ */
   position: fixed;
   z-index: 2;
+  font-family: "Open Sans", sans-serif;
 }
 
 #navbar-menu-items {
@@ -71,7 +72,7 @@
 }
 
 #navbar-links a {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .navbar-item {
@@ -83,6 +84,7 @@
 
 .navbar-item:hover {
   color: black;
+  text-decoration: underline;
 }
 
 @media (max-width: 400px) {

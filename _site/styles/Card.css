@@ -162,6 +162,8 @@
 
 img {
   max-width: 100%;
+  margin: auto;
+  display: block;
 }
 
 .profile-img-container {
@@ -184,6 +186,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  filter: saturate(0.95);
 }
 
 /* TOOLTIP TEXT */

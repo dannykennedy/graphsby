@@ -13,8 +13,6 @@ def load_file_to_object(filepath):
 	lines = []
 	yaml_lines = []
 
-	print(filepath)
-
 	with open(filepath,'r') as f:
 		for line in f:
 			if line == '---\n' and reading_yaml is False:
@@ -31,7 +29,7 @@ def load_file_to_object(filepath):
 				lines.append(line)
 
 	yaml_document = "".join(yaml_lines)
-	pyyam = yaml.load(yaml_document, Loader=yaml.FullLoader);
+	pyyam = yaml.load(yaml_document, Loader=yaml.FullLoader)
 
 	htmlstring = markdown2.markdown("\n".join(line for line in lines))
 

@@ -46,6 +46,7 @@ imageClass = dreamNS['Image']
 # Object properties
 hasTag = dreamNS['hasTag']
 hasAuthor = dreamNS['hasAuthor']
+hasFeaturedItem = dreamNS['hasFeaturedItem']
 
 # Datatype properties
 name = dreamNS['name']
@@ -57,6 +58,7 @@ layout = dreamNS['layout']
 profileImg = dreamNS['profileImg']
 coverImg = dreamNS['coverImg']
 urlSlug = dreamNS['urlSlug']
+featuredLabel = dreamNS['featuredLabel']
 
 def createGraph():
 	print("Creating graph")
@@ -146,6 +148,11 @@ def createGraph():
 	(hasAuthor, rdfType, owlObjectProperty),
 	(hasAuthor, rdfsDomain, postClass),
 	(hasAuthor, rdfsRange, actorClass),
+
+	# Featured item
+	(hasFeaturedItem, rdfType, owlObjectProperty),
+	(hasFeaturedItem, rdfsDomain, itemClass),
+	(hasFeaturedItem, rdfsRange, itemClass),
 
 	]
 

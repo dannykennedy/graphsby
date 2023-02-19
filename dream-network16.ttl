@@ -1123,40 +1123,6 @@ ns1:bcpov6gabout a ns1:Post ;
     ns1:name "About the Dream Network"^^xsd:string ;
     ns1:urlSlug "about-the-network"^^xsd:string .
 
-ns1:bcpov6gfgomw a ns1:Post ;
-    ns1:dateCreated "2023-02-05T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/moon-sweet.jpg" width="400px" height="auto"/></p>
-
-<p><!--nopreview--><div style="text-align:center"><i>Moon Sweet, <a href="../@olivermestitz">Oliver Mestitz</a></i></div><!--/nopreview--></p>
-
-<p>In the wake of the pandemic, in which lockdowns began to dissipate, restrictions eased, and the world was waving its arms at me: I began to dream a reoccurring dream.</p>
-
-<p>In this dream fruit started growing on my wrists. They were pomegranate seeds at first, sticking around my veins and covering my skin like a crimson spiral. I didn’t know what it was about this dream that disturbed me. After all, the pomegranate typically symbolises fertility, beauty, and eternal life in Greek and Persian mythology. It is within this Greek mythology that the pomegranate is also known as the ‘fruit of the dead’ and believed to have sprung from the blood of Adonis. Adonis is the god of beauty and desire who was worshipped in Phoenicia but was later adopted by the Greeks. Pomegranates feature prominently in the myth of Persephone and her forced marriage to Hades, the god of the Underworld.</p>
-
-<p>I understand that fruit has a symbolism of death in dreams, particularly when it is rotting. But the pomegranate wasn’t rotting, and I was not afraid of death. At least, not in the spiritual sense of the word. Death is a rebirthing. Many people believe that death is a transition from one life to the next. Evidently, it was this transition from living inwardly during isolation and the anxiety of the outwardly world reopening. It was during this time, that a relationship where I wasn’t being treated well, was nearing its end. I was broken, in my heart and spirit. I had nobody to rely on but myself. And a time that was needed for recovery and recuperation, was instead used to survive and work tirelessly. A reality that for many, is not uncommon. Yet this dream sprung out of my psyche like a godmother, and I could not tell at first, what message it was trying to speak.</p>
-
-<p>It was the blood of the pomegranate that unsettled me. Sticking around my skin like bleeding cuts. I could have been drinking the juice from my wrists or making breakfast for a lover or even blossoming into a ripe pomegranate. But rather, the dream panned on my wrists, filming them as though I was holding them out for video evidence.</p>
-
-<p>A documentary. There was no music.</p>
-
-<p>As I didn’t journal these dreams (though they stayed with me), I cannot remember the time frame, but it was later in the year that the dream resurrected. This time it showed itself as green olives growing around my wrists. They were stitched in this time. Again, like a spiral circling my veins. The wounds around my wrists, covered in olives that became a part of a second skin. I woke up sweating.</p>
-
-<p>There are many resources with differing interpretations of the green olive in a dream. In part, it depends on how the olives are presented. A dream of removing pits from olives may represent a conciliation, a dream of an olive tree may represent a sense of security. A dream of olive oil may suggest fluidity with self - that you will not be able to count on anyone’s help. You will have to trust your strength, will, and courage only.</p>
-
-<p>But I wasn’t sure, I just felt disgusted. I didn’t eat olives for a long time after that.</p>
-
-<p>There were all kinds of interpretations online about wrists in dreams. To harm your wrists interpreted good fortune. I think that interpretation flustered me. The skin on your wrists is one of the most delicate areas. For all those that grew up wounding such a tender area, to escape their realities – are aware of its tenderness. The love I grew up with as a child, was one of inconsistencies, where you lived on edge, and hypervigilance was as natural to me as playing. It takes a lot of self-reflection and patience to see the ways you are still choosing these feelings as an adult. Whether that be falling in love with somebody who mirrors your parent, or other dangerous avenues that only exasperate this pattern of high highs and low lows.</p>
-
-<p>If dreaming about death symbolises an end of something, then dreaming about near-death symbolises a foreboding. To be living in a state of almost, of half-there, of an ambivalence towards living. Everyday that I choose to heal in my solitude. I am healing my dreams. I am healing the lens I see myself through. I don’t betray myself anymore, I don’t want to die anymore. The rebirthing and abundance of fruit grows on my wrists. And the wound, is where you send your love to, where you give water and light and medicine. I take myself for walks around my neighbourhood, looking up at the blossoming wattle – fragrant and breathing.</p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqvrebk ;
-    ns1:hasTag ns1:bcphbqvrebk ;
-    ns1:itemId "bcpov6gfgomw"^^xsd:string ;
-    ns1:layout "post"^^xsd:string ;
-    ns1:name "Fruit Grew on My Wrists"^^xsd:string ;
-    ns1:profileImg "moon-sweet.jpg"^^xsd:string ;
-    ns1:urlSlug "fruit-grew-on-my-wrists"^^xsd:string .
-
 ns1:bcpov6ghaiku a ns1:Post ;
     ns1:dateCreated "2003-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6ghaiku-0.jpg" width="200px" height="auto"/></p>
@@ -9835,40 +9801,6 @@ ns1:bcpov6shanth a ns1:Post ;
     ns1:name "Anthropology of the Dream People"^^xsd:string ;
     ns1:urlSlug "anthropology-of-the-dream-people"^^xsd:string .
 
-ns1:bcpov6shpocw a ns1:Post ;
-    ns1:dateCreated "2023-02-05T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/000028.jpg" alt="Coast with water overlay" /></p>
-
-<p>Three years ago, I felt myself imploding, sitting at a computer desk hardly able to stand it. I had been in the process of caving in for at least a year, if not longer. There was a subtle suffocation, an obvious isolation. Imploding eventually turned to exploding and all my parts went hurling in front of me. I have been desperately gathering the shards that have been coming close enough to touch. I dialogue with them in my dreams, running deeper and deeper into the psyche. I dream of running into basements: of homes, through the undergrounds of train stations, and the depths of corporate towers. These days I get myself all the way to the ocean and then I stop.</p>
-
-<p>Though I have made it into the ocean before – about a year ago I had a dream that I was running along a coastal edge towards a dock that stretched out into the ocean. Alongside me was a version of me that was carrying more weight than what was presently typical, and a face full of acne. She was full of shame and insecurity, and so was I. We ran to the dock and as we were running there was a dark mermaid spirit who was underneath, flinging her tongue up through the cracks. I knew that if either of us were to be hit by the tongue, it would latch on and pull us under. We just kept on running, and eventually reached the end of the dock and jumped into the ocean. We were swimming beneath and I looked back towards the dock in fear I’d see this evil creature swimming after us. A wise-old-man figure approached me and said that one of us would not make the journey to the other side. He then looked towards my double. I had a sense that she would die, and I haven’t been under ocean waters since.</p>
-
-<p><img src="../images/000027.jpg" alt="Coast with water overlay" /></p>
-
-<p>Before that, I dreamt I was watching a mom and her child run in terror from a group of men in a typical North American city suburb. Running through the streets they came across a woman watering her garden and they asked her for safety. She took them into the basement of her house – which happened to be the basement of one of my childhood homes – and hid them both inside the walls.</p>
-
-<p>No longer a witness but an active participant, just recently I dreamt that three pregnant women approached me. They entreated me to protect them as a group of men were out to kill their babies. I knew precisely the place I would take them: the basement of a family-owned corporate tower as the room’s whereabouts was left off of the blueprint. It was my secret hiding place. Seemingly, these women survived, as several nights later one of them came to me, child in hand, introducing us. I held the baby and as soon as our eyes met, I knew it was mine. Since then, the same baby comes back to visit. Each time the men return, continuing their attempt to kill it. As time in the dream sequence forks like a river, this journey keeps ongoing.</p>
-
-<p><img src="../images/000010.jpg" alt="Grainy beach photo" /></p>
-
-<p>I have been so concerned with the symbol of the child as of late, wondering who and from where this child was birthed. It is never really I who is carrying this baby, but instead, I am a witness, or now a protector. At least that is the figure I play when I am asleep, but parts of us are projected through the psyche and into the dream. This dream takes place in my psychic landscape, so why would I try to kill my own baby? But that is just it, it is not my baby or their baby, but it is our baby. It is the child of all my parts from our collective womb, past, present, and whatever future they amount to. And in that way I can better understand the distance between me and the water. I am having the dream, without birthing the dream; I am but at a distance. A distance that keeps me separate from nature – the world’s nature, my nature, my mother, and being a mother and all the rest. I protect the baby, I try to keep it alive, I try to connect with it and let it know I am there for it, but I am at best an aunt.</p>
-
-<p>And yet, there is a difference between a baby and birth. I have seen the child in the womb, and I have even protected the child while it had not yet been realized. The baby was then presented to me after birth – but never have I seen it birthed. If the dream sequence forks like a river and the language of dreams not linear, I may very likely be living both past, and future, without yet being in the present. I am having the dream, without birthing the dream – I can see what this future entails, but I have not yet brought it to fruition.</p>
-
-<p>Perhaps I now run towards the ocean only to stop and wait, so that I can see who will come out the other side.</p>
-
-<p><img src="../images/02082022film6.jpg" alt="Colour coast photo with long road" /></p>
-
-<div class="caption" style="text-align: center;"><i>Photos: Carli Young</i></div>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqvcary ;
-    ns1:hasTag ns1:bcphbqvcary ;
-    ns1:itemId "bcpov6shpocw"^^xsd:string ;
-    ns1:layout "post"^^xsd:string ;
-    ns1:name "coastal waters"^^xsd:string ;
-    ns1:profileImg "000028-sml.jpg"^^xsd:string ;
-    ns1:urlSlug "coastal-waters"^^xsd:string .
-
 ns1:bcpov6shpoet a ns1:Post ;
     ns1:dateCreated "1982-08-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6shpoet-0.jpg" width="400" height="auto" alt="Clouds"/></p>
@@ -15924,6 +15856,10 @@ ns1:hasAuthor a owl:ObjectProperty ;
     rdfs:domain ns1:Post ;
     rdfs:range ns1:Actor .
 
+ns1:hasFeaturedItem a owl:ObjectProperty ;
+    rdfs:domain ns1:Item ;
+    rdfs:range ns1:Item .
+
 ns1:hasTag a owl:ObjectProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range ns1:Item .
@@ -16558,6 +16494,76 @@ ns1:bcphbzhpgrg a ns1:Post ;
     ns1:name "Volume 31, issue 1: Calling Forth Angels"^^xsd:string ;
     ns1:profileImg "31.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.1"^^xsd:string .
+
+ns1:bcpov6gfgomw a ns1:Post ;
+    ns1:dateCreated "2023-02-05T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/moon-sweet.jpg" width="400px" height="auto"/></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Moon Sweet, <a href="../@olivermestitz">Oliver Mestitz</a></i></div><!--/nopreview--></p>
+
+<p>In the wake of the pandemic, in which lockdowns began to dissipate, restrictions eased, and the world was waving its arms at me: I began to dream a reoccurring dream.</p>
+
+<p>In this dream fruit started growing on my wrists. They were pomegranate seeds at first, sticking around my veins and covering my skin like a crimson spiral. I didn’t know what it was about this dream that disturbed me. After all, the pomegranate typically symbolises fertility, beauty, and eternal life in Greek and Persian mythology. It is within this Greek mythology that the pomegranate is also known as the ‘fruit of the dead’ and believed to have sprung from the blood of Adonis. Adonis is the god of beauty and desire who was worshipped in Phoenicia but was later adopted by the Greeks. Pomegranates feature prominently in the myth of Persephone and her forced marriage to Hades, the god of the Underworld.</p>
+
+<p>I understand that fruit has a symbolism of death in dreams, particularly when it is rotting. But the pomegranate wasn’t rotting, and I was not afraid of death. At least, not in the spiritual sense of the word. Death is a rebirthing. Many people believe that death is a transition from one life to the next. Evidently, it was this transition from living inwardly during isolation and the anxiety of the outwardly world reopening. It was during this time, that a relationship where I wasn’t being treated well, was nearing its end. I was broken, in my heart and spirit. I had nobody to rely on but myself. And a time that was needed for recovery and recuperation, was instead used to survive and work tirelessly. A reality that for many, is not uncommon. Yet this dream sprung out of my psyche like a godmother, and I could not tell at first, what message it was trying to speak.</p>
+
+<p>It was the blood of the pomegranate that unsettled me. Sticking around my skin like bleeding cuts. I could have been drinking the juice from my wrists or making breakfast for a lover or even blossoming into a ripe pomegranate. But rather, the dream panned on my wrists, filming them as though I was holding them out for video evidence.</p>
+
+<p>A documentary. There was no music.</p>
+
+<p>As I didn’t journal these dreams (though they stayed with me), I cannot remember the time frame, but it was later in the year that the dream resurrected. This time it showed itself as green olives growing around my wrists. They were stitched in this time. Again, like a spiral circling my veins. The wounds around my wrists, covered in olives that became a part of a second skin. I woke up sweating.</p>
+
+<p>There are many resources with differing interpretations of the green olive in a dream. In part, it depends on how the olives are presented. A dream of removing pits from olives may represent a conciliation, a dream of an olive tree may represent a sense of security. A dream of olive oil may suggest fluidity with self - that you will not be able to count on anyone’s help. You will have to trust your strength, will, and courage only.</p>
+
+<p>But I wasn’t sure, I just felt disgusted. I didn’t eat olives for a long time after that.</p>
+
+<p>There were all kinds of interpretations online about wrists in dreams. To harm your wrists interpreted good fortune. I think that interpretation flustered me. The skin on your wrists is one of the most delicate areas. For all those that grew up wounding such a tender area, to escape their realities – are aware of its tenderness. The love I grew up with as a child, was one of inconsistencies, where you lived on edge, and hypervigilance was as natural to me as playing. It takes a lot of self-reflection and patience to see the ways you are still choosing these feelings as an adult. Whether that be falling in love with somebody who mirrors your parent, or other dangerous avenues that only exasperate this pattern of high highs and low lows.</p>
+
+<p>If dreaming about death symbolises an end of something, then dreaming about near-death symbolises a foreboding. To be living in a state of almost, of half-there, of an ambivalence towards living. Everyday that I choose to heal in my solitude. I am healing my dreams. I am healing the lens I see myself through. I don’t betray myself anymore, I don’t want to die anymore. The rebirthing and abundance of fruit grows on my wrists. And the wound, is where you send your love to, where you give water and light and medicine. I take myself for walks around my neighbourhood, looking up at the blossoming wattle – fragrant and breathing.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvrebk ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcphbqvrebk ;
+    ns1:itemId "bcpov6gfgomw"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Fruit Grew on My Wrists"^^xsd:string ;
+    ns1:profileImg "moon-sweet.jpg"^^xsd:string ;
+    ns1:urlSlug "fruit-grew-on-my-wrists"^^xsd:string .
+
+ns1:bcpov6shpocw a ns1:Post ;
+    ns1:dateCreated "2023-02-05T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/000028.jpg" alt="Coast with water overlay" /></p>
+
+<p>Three years ago, I felt myself imploding, sitting at a computer desk hardly able to stand it. I had been in the process of caving in for at least a year, if not longer. There was a subtle suffocation, an obvious isolation. Imploding eventually turned to exploding and all my parts went hurling in front of me. I have been desperately gathering the shards that have been coming close enough to touch. I dialogue with them in my dreams, running deeper and deeper into the psyche. I dream of running into basements: of homes, through the undergrounds of train stations, and the depths of corporate towers. These days I get myself all the way to the ocean and then I stop.</p>
+
+<p>Though I have made it into the ocean before – about a year ago I had a dream that I was running along a coastal edge towards a dock that stretched out into the ocean. Alongside me was a version of me that was carrying more weight than what was presently typical, and a face full of acne. She was full of shame and insecurity, and so was I. We ran to the dock and as we were running there was a dark mermaid spirit who was underneath, flinging her tongue up through the cracks. I knew that if either of us were to be hit by the tongue, it would latch on and pull us under. We just kept on running, and eventually reached the end of the dock and jumped into the ocean. We were swimming beneath and I looked back towards the dock in fear I’d see this evil creature swimming after us. A wise-old-man figure approached me and said that one of us would not make the journey to the other side. He then looked towards my double. I had a sense that she would die, and I haven’t been under ocean waters since.</p>
+
+<p><img src="../images/000027.jpg" alt="Coast with water overlay" /></p>
+
+<p>Before that, I dreamt I was watching a mom and her child run in terror from a group of men in a typical North American city suburb. Running through the streets they came across a woman watering her garden and they asked her for safety. She took them into the basement of her house – which happened to be the basement of one of my childhood homes – and hid them both inside the walls.</p>
+
+<p>No longer a witness but an active participant, just recently I dreamt that three pregnant women approached me. They entreated me to protect them as a group of men were out to kill their babies. I knew precisely the place I would take them: the basement of a family-owned corporate tower as the room’s whereabouts was left off of the blueprint. It was my secret hiding place. Seemingly, these women survived, as several nights later one of them came to me, child in hand, introducing us. I held the baby and as soon as our eyes met, I knew it was mine. Since then, the same baby comes back to visit. Each time the men return, continuing their attempt to kill it. As time in the dream sequence forks like a river, this journey keeps ongoing.</p>
+
+<p><img src="../images/000010.jpg" alt="Grainy beach photo" /></p>
+
+<p>I have been so concerned with the symbol of the child as of late, wondering who and from where this child was birthed. It is never really I who is carrying this baby, but instead, I am a witness, or now a protector. At least that is the figure I play when I am asleep, but parts of us are projected through the psyche and into the dream. This dream takes place in my psychic landscape, so why would I try to kill my own baby? But that is just it, it is not my baby or their baby, but it is our baby. It is the child of all my parts from our collective womb, past, present, and whatever future they amount to. And in that way I can better understand the distance between me and the water. I am having the dream, without birthing the dream; I am but at a distance. A distance that keeps me separate from nature – the world’s nature, my nature, my mother, and being a mother and all the rest. I protect the baby, I try to keep it alive, I try to connect with it and let it know I am there for it, but I am at best an aunt.</p>
+
+<p>And yet, there is a difference between a baby and birth. I have seen the child in the womb, and I have even protected the child while it had not yet been realized. The baby was then presented to me after birth – but never have I seen it birthed. If the dream sequence forks like a river and the language of dreams not linear, I may very likely be living both past, and future, without yet being in the present. I am having the dream, without birthing the dream – I can see what this future entails, but I have not yet brought it to fruition.</p>
+
+<p>Perhaps I now run towards the ocean only to stop and wait, so that I can see who will come out the other side.</p>
+
+<p><img src="../images/02082022film6.jpg" alt="Colour coast photo with long road" /></p>
+
+<div class="caption" style="text-align: center;"><i>Photos: Carli Young</i></div>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvcary ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcphbqvcary ;
+    ns1:itemId "bcpov6shpocw"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "coastal waters"^^xsd:string ;
+    ns1:profileImg "000028-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "coastal-waters"^^xsd:string .
 
 ns1:bcphb2eggje a ns1:Post ;
     ns1:coverImg "33.2-cover.jpg"^^xsd:string ;
@@ -19086,8 +19092,6 @@ ns1:bcpqn72unjj a ns1:Post ;
     ns1:profileImg "volume-2.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-2"^^xsd:string .
 
-ns1:Item a owl:Class .
-
 ns1:bcphbq3arts a ns1:User ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
 
@@ -19138,6 +19142,8 @@ ns1:bcphbqsorna a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Orna Ben-Shoshan"^^xsd:string ;
     ns1:profileImg "author-ornabenshoshan.jpg"^^xsd:string .
+
+ns1:Item a owl:Class .
 
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
@@ -19364,7 +19370,10 @@ ns1:bcphbq3xdnj a ns1:Page ;
 
 </div>
 """^^xsd:string ;
+    ns1:featuredLabel "Recent articles"^^xsd:string ;
     ns1:handle "dreamnetwork"^^xsd:string ;
+    ns1:hasFeaturedItem ns1:bcpov6gfgomw,
+        ns1:bcpov6shpocw ;
     ns1:itemId "bcphbq3xdnj"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dream Network"^^xsd:string ;

@@ -163,12 +163,15 @@ for pyyam in file_objects:
 	instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
 	# Featured image
 	if 'profileImg' in pyyam.keys():
-		print(pyyam['profileImg'])
 		instances.append((newItem, profileImg, Literal(pyyam['profileImg'], datatype=xsdString)))
 	# Cover image
 	if 'coverImg' in pyyam.keys():
 		instances.append((newItem, coverImg, Literal(pyyam['coverImg'], datatype=xsdString)))
 
+	# Featured Label
+	if 'featuredLabel' in pyyam.keys():
+		instances.append((newItem, featuredLabel, Literal(pyyam['featuredLabel'], datatype=xsdString)))
+		
 # Add instances to the graph
 for triple in instances:
 	graph.add(triple)
@@ -182,6 +185,7 @@ edges = []
 
 print("Building graph edges")
 for pyyam in file_objects:
+	# Add tags
 	if 'tags' in pyyam.keys() and pyyam['tags'] is not None:
 		for tag in pyyam['tags']:
 			tag_key = list(tag.keys())[0]
@@ -211,6 +215,14 @@ for pyyam in file_objects:
 					edges.append((dreamNS[curr_item], hasAuthor, dreamNS[tag_item]))
 				else:
 					edges.append((dreamNS[curr_item], hasTag, dreamNS[tag_item]))
+
+	# Add featured items
+	if 'featured' in pyyam.keys() and pyyam['featured'] is not None:
+		for featuredItem in pyyam['featured']:
+			# Append edge to edges array
+			# These are already ids, so no need to query	
+			curr_item = pyyam["itemId"]
+			edges.append((dreamNS[curr_item], hasFeaturedItem, dreamNS[featuredItem]))
 
 # Add edges to the graph
 for triple in edges:
@@ -251,7 +263,7 @@ for pyyam in file_objects:
 		item_string_identifier = pyyam["urlSlug"]
 
 	####################
-	# TEST - AUTHOR PAGE
+	# 'TEST' - AUTHOR PAGE
 	####################
 	query_string = ""
 	if "handle" in pyyam.keys() and pyyam["handle"] == "dreamnetwork~contributors":
@@ -279,9 +291,6 @@ for pyyam in file_objects:
 		print("result: ", end="")
 		print(str(len(q)))
 
-		for row in q:
-			print("type")
-			print (str(row[7]))
 	else:
 		# Find all items that have tagged the current page
 		query_string = """
@@ -369,6 +378,73 @@ for pyyam in file_objects:
 
 		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link, "card_type": card_type_literal})
 
+	# Get featured items
+	# These are directly on the item
+	# featured_items = []
+	# if 'featured' in pyyam:
+	# 	for featuredItem in pyyam["featured"]:
+	# 		featured_query_string = """
+	# 				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+	# 				SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid ?type
+	# 				WHERE {{
+	# 				?item dnj:itemId "{featuredItemId}"^^xsd:string .
+	# 				?item dnj:name ?name .
+	# 				?item dnj:description ?description .
+	# 				?item dnj:itemId ?itemId .
+	# 				?item dnj:dateCreated ?dateCreated .
+	# 				?item dnj:handle|dnj:urlSlug ?stringid .
+	# 				?item a ?type .
+	# 				OPTIONAL {{ ?item dnj:profileImg ?img }}
+	# 			}}""".format(featuredItemId=pyyam["itemId"])
+	# 		featured_item_query = graph.query(featured_query_string)
+		
+	# 		for row in featured_item_query:
+	# 			# Now find everything that this item is tagged with
+	# 			# This is literally Inception
+	# 			query_string = """
+	# 				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+	# 				SELECT DISTINCT ?littleTag ?tagName ?tagId ?textId ?tagType ?property ?image
+	# 				WHERE {{
+	# 					?item dnj:itemId "{id}"^^xsd:string .
+	# 					?item ?property ?littleTag .
+	# 					?littleTag dnj:name ?tagName .
+	# 					?littleTag dnj:itemId ?tagId .
+	# 					?littleTag dnj:handle|dnj:urlSlug ?textId .
+	# 					?littleTag a ?tagType .
+	# 					?littleTag dnj:profileImg ?image
+	# 				}}""".format(id=row[3])
+	# 			tag_query = graph.query(query_string)
+
+	# 			# Create a tags array (for dem little tags on the cards)
+	# 			little_tags = []
+	# 			authors = []
+	# 			for lil_tag in tag_query:
+					
+	# 				# Break down query object
+	# 				tagName = lil_tag[1]
+	# 				tagId = lil_tag[2]
+	# 				textId = lil_tag[3]
+	# 				tagType = lil_tag[4].split("#")[1]
+	# 				relation = lil_tag[5].split("#")[1]
+	# 				image = lil_tag[6]
+
+	# 				tagLink = ""
+	# 				if tagType == "Page" or tagType == "User":
+	# 					tagLink = "@" + textId
+	# 				else:
+	# 					tagLink = tagId + "/" + textId
+
+	# 				cssTagClass = map_class_to_css_tag(tagType)
+
+	# 				if relation == "hasTag":
+	# 					little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
+	# 				elif relation == "hasAuthor":
+	# 					authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image})
+
+
+
+
+
 
 	full_html = ""
 	# Layout
@@ -436,11 +512,11 @@ for pyyam in file_objects:
 
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
+			full_html = post_template.render(render_item=pyyam, featured_items=[], posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
 		else:
-			full_html = page_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
+			full_html = page_template.render(render_item=pyyam, featured_items=[], posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
 	else:
-		full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
+		full_html = post_template.render(render_item=pyyam, featured_items=[], posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"

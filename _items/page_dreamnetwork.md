@@ -10,6 +10,8 @@ shortDescription: "Welcome to the Dream Network"
 tags:
 profileImg: tree-logo.png
 coverImg: gaia_gazing_snyder.jpg
+featured: [bcpov6gfgomw,bcpov6shpocw]
+featuredLabel: 'Recent articles'
 ---
 
 The Dream Network Journal is a place for people to share the wonder and mystery of dreams. The journal was published in printed form from 1982 to 2015, and thanks to our [crowdfunding supporters](https://chuffed.org/project/dream-network-journal), the site offers all issues of the DNJ for download, and reproduces many articles in blog form.

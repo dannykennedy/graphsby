@@ -6,6 +6,7 @@ name: "coastal waters"
 tags:
   - hasTag: carliyoung
   - hasAuthor: carliyoung
+  - featuredIn: dreamnetwork
 type: post
 urlSlug: "coastal-waters"
 profileImg: 000028-sml.jpg

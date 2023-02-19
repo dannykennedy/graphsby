@@ -78,11 +78,6 @@
                                                 ></span>
                                             </div>
                                             {% endif %}
-
-                                            <!-- <span class="tooltiptext">
-                                                    {{author.name}}
-                                            </span> -->
-
                                         </div>
                                         {% endfor %} {% endif %}
                                     </div>
@@ -125,11 +120,13 @@
                                 </h3>
                                 {% endif %}
                                 {% if post.profileImg %}
+                                <div class="profile-img-container">
                                     <img
                                         src="{{'../images/' + post.profileImg}}"
                                         alt="profile image"
                                         class="{{post.card_type}}-profile-img"
                                     />
+                                </div>
                                 {% endif %}
                                 <div class="card-body-text">
                                     <p>{% if post.description %}

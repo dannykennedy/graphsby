@@ -160,16 +160,27 @@
 
 /* IMAGES */
 
-.Post-profile-img {
+img {
+  max-width: 100%;
+}
+
+.profile-img-container {
   height: 250px;
-  width: "auto";
+  width: 100%;
+  max-width: 350px;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-img {
+.Post-profile-img {
   max-width: 100%;
+  max-height: 100%;
+  height: auto;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* TOOLTIP TEXT */

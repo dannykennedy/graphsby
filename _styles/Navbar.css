@@ -71,10 +71,6 @@
   align-items: center;
 }
 
-#navbar-links a {
-  text-decoration: none;
-}
-
 .navbar-item {
   margin-left: 10px;
   color: #444;
@@ -82,7 +78,7 @@
   text-decoration: none;
 }
 
-.navbar-item:hover {
+a.navbar-item:hover {
   color: black;
   text-decoration: underline;
 }

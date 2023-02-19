@@ -82,7 +82,7 @@
   text-decoration: none;
 }
 
-.navbar-item a:hover {
+.navbar-item:hover {
   color: black;
   text-decoration: underline;
 }

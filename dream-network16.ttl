@@ -17072,8 +17072,10 @@ ns1:bcphbqsuelo a ns1:User ;
     ns1:profileImg "author-daniel-suelo.jpg"^^xsd:string .
 
 ns1:bcphbqvcary a ns1:User ;
-    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
-    ns1:description """<p>Carli is a Canadian-born student of the University of Toronto where she specialises in Cognitive Science, minoring in Jungian psychology, philosophy, and Buddhism. She is also an amateur writer, using the medium to explore human experience.</p>
+    ns1:coverImg "cover-carli-young.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://www.archiveofself.com/">archiveofself.com</a></p>
+
+<p>Carli is a Canadian-born student of the University of Toronto where she specialises in Cognitive Science, minoring in Jungian psychology, philosophy, and Buddhism. She is also an amateur writer, using the medium to explore human experience.</p>
 """^^xsd:string ;
     ns1:handle "carliyoung"^^xsd:string ;
     ns1:itemId "bcphbqvcary"^^xsd:string ;
@@ -17160,7 +17162,7 @@ ns1:bcphbqvpenn a ns1:User ;
     ns1:profileImg "author-joanna-penn.jpg"^^xsd:string .
 
 ns1:bcphbqvrebk a ns1:User ;
-    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
+    ns1:coverImg "cover-rebecca.jpg"^^xsd:string ;
     ns1:description """<p>Rebecca Kelly is a writer currently working and creating on Wurundjeri land. Hailing from the central coast of Australia, Rebecca is presently a writing student at RMIT University. Her work is mostly comprised of poetry and fiction, with an intrigue of human psyche, self-exploration and experimentation.</p>
 """^^xsd:string ;
     ns1:handle "rebeccakelly"^^xsd:string ;
@@ -18657,10 +18659,10 @@ ns1:bcphbq3wagg a ns1:User ;
     ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
 
 ns1:bcphbqerics a ns1:User ;
-    ns1:coverImg "cover-author-ericsnyder.jpg"^^xsd:string ;
+    ns1:coverImg "gaia_gazing_snyder.jpg"^^xsd:string ;
     ns1:description """<p>Eric Snyder is an artist, visionary, and culinarian. After studying art in North Carolina, he moved to the San Francisco Bay Area mentoring under renowned painters Bill Martin, Helvi Wamsley and Charles Becker. Working with master chefs in private clubs and restaurants he learned the art of fine cuisine.</p>
 
-<p>Snyder’s lifelong interest in dreams includes fifty years of dream journaling, published articles, and conference presentations. Leading the Bay Area Dreamworkers Group, he promoted dreamwork to the larger community, published the quarterly “Dream Newzzz”, and facilitated formation of peer dream sharing groups. </p>
+<p>Snyder’s lifelong interest in dreams includes fifty years of dream journaling, published articles, and conference presentations. Leading the Bay Area Dreamworkers Group, he promoted dreamwork to the larger community, published the quarterly “Dream Newzzz”, and facilitated formation of peer dream sharing groups.</p>
 
 <p>Snyder and his wife live on a vintage apple orchard in Sebastopol, California where they farm organic fruits and vegetables. He competes internationally in kung fu and tai chi and is a former world champion in tai chi sword.</p>
 """^^xsd:string ;

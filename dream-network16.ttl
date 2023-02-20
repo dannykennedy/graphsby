@@ -1123,6 +1123,41 @@ ns1:bcpov6gabout a ns1:Post ;
     ns1:name "About the Dream Network"^^xsd:string ;
     ns1:urlSlug "about-the-network"^^xsd:string .
 
+ns1:bcpov6gfgomw a ns1:Post ;
+    ns1:dateCreated "2023-02-05T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/moon-sweet.jpg" width="400px" height="auto"/></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Moon Sweet, <a href="../@olivermestitz">Oliver Mestitz</a></i></div><!--/nopreview--></p>
+
+<p>In the wake of the pandemic, in which lockdowns began to dissipate, restrictions eased, and the world was waving its arms at me: I began to dream a reoccurring dream.</p>
+
+<p>In this dream fruit started growing on my wrists. They were pomegranate seeds at first, sticking around my veins and covering my skin like a crimson spiral. I didn’t know what it was about this dream that disturbed me. After all, the pomegranate typically symbolises fertility, beauty, and eternal life in Greek and Persian mythology. It is within this Greek mythology that the pomegranate is also known as the ‘fruit of the dead’ and believed to have sprung from the blood of Adonis. Adonis is the god of beauty and desire who was worshipped in Phoenicia but was later adopted by the Greeks. Pomegranates feature prominently in the myth of Persephone and her forced marriage to Hades, the god of the Underworld.</p>
+
+<p>I understand that fruit has a symbolism of death in dreams, particularly when it is rotting. But the pomegranate wasn’t rotting, and I was not afraid of death. At least, not in the spiritual sense of the word. Death is a rebirthing. Many people believe that death is a transition from one life to the next. Evidently, it was this transition from living inwardly during isolation and the anxiety of the outwardly world reopening. It was during this time, that a relationship where I wasn’t being treated well, was nearing its end. I was broken, in my heart and spirit. I had nobody to rely on but myself. And a time that was needed for recovery and recuperation, was instead used to survive and work tirelessly. A reality that for many, is not uncommon. Yet this dream sprung out of my psyche like a godmother, and I could not tell at first, what message it was trying to speak.</p>
+
+<p>It was the blood of the pomegranate that unsettled me. Sticking around my skin like bleeding cuts. I could have been drinking the juice from my wrists or making breakfast for a lover or even blossoming into a ripe pomegranate. But rather, the dream panned on my wrists, filming them as though I was holding them out for video evidence.</p>
+
+<p>A documentary. There was no music.</p>
+
+<p>As I didn’t journal these dreams (though they stayed with me), I cannot remember the time frame, but it was later in the year that the dream resurrected. This time it showed itself as green olives growing around my wrists. They were stitched in this time. Again, like a spiral circling my veins. The wounds around my wrists, covered in olives that became a part of a second skin. I woke up sweating.</p>
+
+<p>There are many resources with differing interpretations of the green olive in a dream. In part, it depends on how the olives are presented. A dream of removing pits from olives may represent a conciliation, a dream of an olive tree may represent a sense of security. A dream of olive oil may suggest fluidity with self - that you will not be able to count on anyone’s help. You will have to trust your strength, will, and courage only.</p>
+
+<p>But I wasn’t sure, I just felt disgusted. I didn’t eat olives for a long time after that.</p>
+
+<p>There were all kinds of interpretations online about wrists in dreams. To harm your wrists interpreted good fortune. I think that interpretation flustered me. The skin on your wrists is one of the most delicate areas. For all those that grew up wounding such a tender area, to escape their realities – are aware of its tenderness. The love I grew up with as a child, was one of inconsistencies, where you lived on edge, and hypervigilance was as natural to me as playing. It takes a lot of self-reflection and patience to see the ways you are still choosing these feelings as an adult. Whether that be falling in love with somebody who mirrors your parent, or other dangerous avenues that only exasperate this pattern of high highs and low lows.</p>
+
+<p>If dreaming about death symbolises an end of something, then dreaming about near-death symbolises a foreboding. To be living in a state of almost, of half-there, of an ambivalence towards living. Everyday that I choose to heal in my solitude. I am healing my dreams. I am healing the lens I see myself through. I don’t betray myself anymore, I don’t want to die anymore. The rebirthing and abundance of fruit grows on my wrists. And the wound, is where you send your love to, where you give water and light and medicine. I take myself for walks around my neighbourhood, looking up at the blossoming wattle – fragrant and breathing.</p>
+"""^^xsd:string ;
+    ns1:featuredIn ns1:bcphbq3xdnj ;
+    ns1:hasAuthor ns1:bcphbqvrebk ;
+    ns1:hasTag ns1:bcphbqvrebk ;
+    ns1:itemId "bcpov6gfgomw"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Fruit Grew on My Wrists"^^xsd:string ;
+    ns1:profileImg "moon-sweet.jpg"^^xsd:string ;
+    ns1:urlSlug "fruit-grew-on-my-wrists"^^xsd:string .
+
 ns1:bcpov6ghaiku a ns1:Post ;
     ns1:dateCreated "2003-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6ghaiku-0.jpg" width="200px" height="auto"/></p>
@@ -8543,13 +8578,13 @@ ns1:bcpov6rsgcdt a ns1:Post ;
   <p><em>A part of myself is in an old-fashioned controller community. All the moods are softened like an old sequence. Everywhere people are dressed up in controller disguise and are enacting small scripts from the life. They perform them naturally as part of their lives. A part of myself, too, is dressed like a controller. We are going to a revelation. Saboteur is driving cheap transportation. We go around primitive route that has obstacles sticking out which we can not see around, so we have ta go very slowly. We arrive at the place of growth. We are sitting in the back perspective. Some guys are sitting next to me and a part of myself asks them to move over so a part of myself can save a place for light. Outside a part of myself sees the roles in the belief examples.</em></p>
 </blockquote>
 
-<p>The computer generated report ensures an abstracted perspective built upon the individual's personal view of the dream symbols. Therein lies the major effort on the part of the individual of creating a personal dream symbology which becomes the link between the dream and the computer. </p>
+<p>The computer generated report ensures an abstracted perspective built upon the individual's personal view of the dream symbols. Therein lies the major effort on the part of the individual of creating a personal dream symbology which becomes the link between the dream and the computer.</p>
 
-<p>This software is available for use on the Apple Home Computer System from Eastbank Institute. Cost: $20. Eastbank is a non-profit educational institute that designs and funds projects, seminars and activities. </p>
+<p>This software is available for use on the Apple Home Computer System from Eastbank Institute. Cost: $20. Eastbank is a non-profit educational institute that designs and funds projects, seminars and activities.</p>
 
 <p>EASTBANK INSTITUTE</p>
 
-<p>724 Bonita Drive </p>
+<p>724 Bonita Drive</p>
 
 <p>Winter Park, Florida 32789</p>
 """^^xsd:string ;
@@ -9609,30 +9644,31 @@ ns1:bcpov6rswoun a ns1:Post ;
 
 ns1:bcpov6sarmed a ns1:Post ;
     ns1:dateCreated "1982-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>What we're dealing with in dreamwork, in short, is counterconditioning. Constantly we're blasted by what's all around us with what we should think and feel. It's so easy to let a lot of our decisions be made by all that noise. Meanwhile we're being just as consistently informed from within by a different source. Our dreams tell us what we do think and what we do feel and what we do perceive. </p>
+    ns1:description """<p>What we're dealing with in dreamwork, in short, is counterconditioning. Constantly we're blasted by what's all around us with what we should think and feel. It's so easy to let a lot of our decisions be made by all that noise. Meanwhile we're being just as consistently informed from within by a different source. Our dreams tell us what we do think and what we do feel and what we do perceive.</p>
 
-<p>Dreams, like little children, can't help but be truthful. They are the accurate map to our reality. The one we're being spoon fed day and night from external sources isn't so much wrong as it is outdated, like an ancient map with inaccurately depicted shorelines. </p>
+<p>Dreams, like little children, can't help but be truthful. They are the accurate map to our reality. The one we're being spoon fed day and night from external sources isn't so much wrong as it is outdated, like an ancient map with inaccurately depicted shorelines.</p>
 
-<p>Why then is it so assiduously propounded by everything and everyone around us? Because it serves to maintain things as they are and we all profit more than we care to realize by keeping things just as they are. Not just those in economic or political power who are profiting at our expense. Not just those who grow rich as we grow fat or as others starve. Not just those who get powerful when we stay poor; or who get even richer when we try to get rich. Not just those who earn fat therapy fees when we stay confused about who we really are. Not just all of those. But we ourselves benefit from keeping everything the same. It is safe. Just look at the parts of the world today where change is breaking through to the surface - Poland, Afghanistan, El Salvador, Guatemala. Change always involves turmoil, a return to chaos before the new more inclusive order emerges. It's nothing other than the creative process that is at work. Anyone who has embarked on the path of creative personal transformation knows what I mean. True work with dreams often brings disruption and indecision and chaos before it heralds in the higher level of awareness that a lone enables a deeper, truer life. It's not nice to be miserable but it's a little more bearable if we don't know it. So we read about Poland and El Salvador in the newspapers and forget our dreams. If they persist in forcing themselves upon our awareness, then we manage to not understand them. It's easier. It allows us to stay as we are. </p>
+<p>Why then is it so assiduously propounded by everything and everyone around us? Because it serves to maintain things as they are and we all profit more than we care to realize by keeping things just as they are. Not just those in economic or political power who are profiting at our expense. Not just those who grow rich as we grow fat or as others starve. Not just those who get powerful when we stay poor; or who get even richer when we try to get rich. Not just those who earn fat therapy fees when we stay confused about who we really are. Not just all of those. But we ourselves benefit from keeping everything the same. It is safe. Just look at the parts of the world today where change is breaking through to the surface - Poland, Afghanistan, El Salvador, Guatemala. Change always involves turmoil, a return to chaos before the new more inclusive order emerges. It's nothing other than the creative process that is at work. Anyone who has embarked on the path of creative personal transformation knows what I mean. True work with dreams often brings disruption and indecision and chaos before it heralds in the higher level of awareness that a lone enables a deeper, truer life. It's not nice to be miserable but it's a little more bearable if we don't know it. So we read about Poland and El Salvador in the newspapers and forget our dreams. If they persist in forcing themselves upon our awareness, then we manage to not understand them. It's easier. It allows us to stay as we are.</p>
 
-<p>If, by working with dreams, we do manage to free ourselves from an intolerable domination like Cuba or Vietnam did, we congratulate ourselves, ignoring that we may have landed under a different but equally intolerable oppressor. The movement toward freedom tries to continue as in Poland but meets powerful resistance. The chaos it entails is too disruptive. It's easier to remain fixated somewhere along the way where we can congratulate ourselves on our progress while doing everything in our power to defeat the ongoing process. But the process won't stop. It will merely find someone else in whom it can carry itself forward. Most of society is composed of dead souls, washed up on the shore of their fixation to a stagnant life. History moves through the rare individuals: "I have a dream," Martin Luther King said. </p>
+<p>If, by working with dreams, we do manage to free ourselves from an intolerable domination like Cuba or Vietnam did, we congratulate ourselves, ignoring that we may have landed under a different but equally intolerable oppressor. The movement toward freedom tries to continue as in Poland but meets powerful resistance. The chaos it entails is too disruptive. It's easier to remain fixated somewhere along the way where we can congratulate ourselves on our progress while doing everything in our power to defeat the ongoing process. But the process won't stop. It will merely find someone else in whom it can carry itself forward. Most of society is composed of dead souls, washed up on the shore of their fixation to a stagnant life. History moves through the rare individuals: "I have a dream," Martin Luther King said.</p>
 
-<p>Domination from any one super strong component of our total souls is intolerable. Total freedom is the only aim. Freedom from within. For each part of us to be free to be what it is. Not for some other part of us, however strong and valid and important, to tell it what it should be. The repressed part will always merely go underground, into our dreams, towage its guerrilla warfare. If the smallest segment of the whole circle is rejected, we don't have a circle anymore. The tiniest excluded part of us can easily sabotage the whole and cause all our good aims to go awry. An age old axiom goes, "As without, so also within." What are our souls like? Look at our world, our society, our environment, our bodies. Need I say more? </p>
+<p>Domination from any one super strong component of our total souls is intolerable. Total freedom is the only aim. Freedom from within. For each part of us to be free to be what it is. Not for some other part of us, however strong and valid and important, to tell it what it should be. The repressed part will always merely go underground, into our dreams, towage its guerrilla warfare. If the smallest segment of the whole circle is rejected, we don't have a circle anymore. The tiniest excluded part of us can easily sabotage the whole and cause all our good aims to go awry. An age old axiom goes, "As without, so also within." What are our souls like? Look at our world, our society, our environment, our bodies. Need I say more?</p>
 
-<p>So we are polluted, we are dominated, we are ravaged, we are unreal, and hence, we are ineffectual in achieving what can really make our lives work. </p>
+<p>So we are polluted, we are dominated, we are ravaged, we are unreal, and hence, we are ineffectual in achieving what can really make our lives work.</p>
 
-<p>These ideas aren't new. Everybody knows these things. Read any psychology book or New Age manifesto. But such knowledge hasn't helped us. Knowing with the mind is of little import. When we know in the real sense, the only sense that signifies, we become, we transform. D.H. Lawrence, poor misled man, was right all along when he talked of "knowing with the blood." Unfortunately though, it was all an intellectualization with him. The disease that his life was eventually overtook him, as it will us all. </p>
+<p>These ideas aren't new. Everybody knows these things. Read any psychology book or New Age manifesto. But such knowledge hasn't helped us. Knowing with the mind is of little import. When we know in the real sense, the only sense that signifies, we become, we transform. D.H. Lawrence, poor misled man, was right all along when he talked of "knowing with the blood." Unfortunately though, it was all an intellectualization with him. The disease that his life was eventually overtook him, as it will us all.</p>
 
-<p>There is a way out, though. You don't even have to work with your dreams but dreamwork makes it easier, much easier, for people like us. Krishnamurti maintains that when we become enlightened we cease dreaming. Reality itself becomes the dream that we write. Nothing is forced into the underground to wage its guerrilla fight toward our awareness. Everything that we are is admitted into our being. The battle is over. Freedom is won. Life itself becomes deeper and fuller and more beautiful than we could ever dream. I haven't reached that ultimate state. I have only tasted little glimpses but these have shown me that it is the only thing worth pursuing. </p>
+<p>There is a way out, though. You don't even have to work with your dreams but dreamwork makes it easier, much easier, for people like us. Krishnamurti maintains that when we become enlightened we cease dreaming. Reality itself becomes the dream that we write. Nothing is forced into the underground to wage its guerrilla fight toward our awareness. Everything that we are is admitted into our being. The battle is over. Freedom is won. Life itself becomes deeper and fuller and more beautiful than we could ever dream. I haven't reached that ultimate state. I have only tasted little glimpses but these have shown me that it is the only thing worth pursuing.</p>
 
-<p>My work with dreams has shown me that our society is a lie. Our lives are lies. The things I have wanted aren't the things I want. The things I have needed aren't the things I need. What I was and am isn't what it is to be a human being. Working with dreams and with creativity (I am writing a novel that came from a dream) has carried me to the portal of a new way of being. I started the dream community of New York perhaps because I'd rather not be alone as I take the next few steps. </p>
+<p>My work with dreams has shown me that our society is a lie. Our lives are lies. The things I have wanted aren't the things I want. The things I have needed aren't the things I need. What I was and am isn't what it is to be a human being. Working with dreams and with creativity (I am writing a novel that came from a dream) has carried me to the portal of a new way of being. I started the dream community of New York perhaps because I'd rather not be alone as I take the next few steps.</p>
 
 <p>Armed with our dreams we have a weapon that can turn this society upside down by turning our lives around. The greatest battles waged throughout history have been within the souls of a few brave men and women. All the rest has been noise, an externalized reverberation from these great happenings. To work with dreams in the deepest sense is to be a leader in the revolution of human consciousness.</p>
 
 <hr>
 
-<p><em>First published as 'Dreams as a Subversive Activity' in Dream Network Bulletin, Vol. 1 Issue 1. Reprinted as 'Armed With Our Dreams', in Dream Network Journal Volume 11 Issue 2.</em> </p>
+<p><em>First published as 'Dreams as a Subversive Activity' in Dream Network Bulletin, Vol. 1 Issue 1. Reprinted as 'Armed With Our Dreams', in Dream Network Journal Volume 11 Issue 2.</em></p>
 """^^xsd:string ;
+    ns1:featuredIn ns1:bcphbq3xdnj ;
     ns1:hasAuthor ns1:bcphbqvstim ;
     ns1:hasTag ns1:bcphbhe6wex,
         ns1:bcphbpumr2x,
@@ -9800,6 +9836,41 @@ ns1:bcpov6shanth a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Anthropology of the Dream People"^^xsd:string ;
     ns1:urlSlug "anthropology-of-the-dream-people"^^xsd:string .
+
+ns1:bcpov6shpocw a ns1:Post ;
+    ns1:dateCreated "2023-02-05T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/000028.jpg" alt="Coast with water overlay" /></p>
+
+<p>Three years ago, I felt myself imploding, sitting at a computer desk hardly able to stand it. I had been in the process of caving in for at least a year, if not longer. There was a subtle suffocation, an obvious isolation. Imploding eventually turned to exploding and all my parts went hurling in front of me. I have been desperately gathering the shards that have been coming close enough to touch. I dialogue with them in my dreams, running deeper and deeper into the psyche. I dream of running into basements: of homes, through the undergrounds of train stations, and the depths of corporate towers. These days I get myself all the way to the ocean and then I stop.</p>
+
+<p>Though I have made it into the ocean before – about a year ago I had a dream that I was running along a coastal edge towards a dock that stretched out into the ocean. Alongside me was a version of me that was carrying more weight than what was presently typical, and a face full of acne. She was full of shame and insecurity, and so was I. We ran to the dock and as we were running there was a dark mermaid spirit who was underneath, flinging her tongue up through the cracks. I knew that if either of us were to be hit by the tongue, it would latch on and pull us under. We just kept on running, and eventually reached the end of the dock and jumped into the ocean. We were swimming beneath and I looked back towards the dock in fear I’d see this evil creature swimming after us. A wise-old-man figure approached me and said that one of us would not make the journey to the other side. He then looked towards my double. I had a sense that she would die, and I haven’t been under ocean waters since.</p>
+
+<p><img src="../images/000027.jpg" alt="Coast with water overlay" /></p>
+
+<p>Before that, I dreamt I was watching a mom and her child run in terror from a group of men in a typical North American city suburb. Running through the streets they came across a woman watering her garden and they asked her for safety. She took them into the basement of her house – which happened to be the basement of one of my childhood homes – and hid them both inside the walls.</p>
+
+<p>No longer a witness but an active participant, just recently I dreamt that three pregnant women approached me. They entreated me to protect them as a group of men were out to kill their babies. I knew precisely the place I would take them: the basement of a family-owned corporate tower as the room’s whereabouts was left off of the blueprint. It was my secret hiding place. Seemingly, these women survived, as several nights later one of them came to me, child in hand, introducing us. I held the baby and as soon as our eyes met, I knew it was mine. Since then, the same baby comes back to visit. Each time the men return, continuing their attempt to kill it. As time in the dream sequence forks like a river, this journey keeps ongoing.</p>
+
+<p><img src="../images/000010.jpg" alt="Grainy beach photo" /></p>
+
+<p>I have been so concerned with the symbol of the child as of late, wondering who and from where this child was birthed. It is never really I who is carrying this baby, but instead, I am a witness, or now a protector. At least that is the figure I play when I am asleep, but parts of us are projected through the psyche and into the dream. This dream takes place in my psychic landscape, so why would I try to kill my own baby? But that is just it, it is not my baby or their baby, but it is our baby. It is the child of all my parts from our collective womb, past, present, and whatever future they amount to. And in that way I can better understand the distance between me and the water. I am having the dream, without birthing the dream; I am but at a distance. A distance that keeps me separate from nature – the world’s nature, my nature, my mother, and being a mother and all the rest. I protect the baby, I try to keep it alive, I try to connect with it and let it know I am there for it, but I am at best an aunt.</p>
+
+<p>And yet, there is a difference between a baby and birth. I have seen the child in the womb, and I have even protected the child while it had not yet been realized. The baby was then presented to me after birth – but never have I seen it birthed. If the dream sequence forks like a river and the language of dreams not linear, I may very likely be living both past, and future, without yet being in the present. I am having the dream, without birthing the dream – I can see what this future entails, but I have not yet brought it to fruition.</p>
+
+<p>Perhaps I now run towards the ocean only to stop and wait, so that I can see who will come out the other side.</p>
+
+<p><img src="../images/02082022film6.jpg" alt="Colour coast photo with long road" /></p>
+
+<div class="caption" style="text-align: center;"><i>Photos: Carli Young</i></div>
+"""^^xsd:string ;
+    ns1:featuredIn ns1:bcphbq3xdnj ;
+    ns1:hasAuthor ns1:bcphbqvcary ;
+    ns1:hasTag ns1:bcphbqvcary ;
+    ns1:itemId "bcpov6shpocw"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "coastal waters"^^xsd:string ;
+    ns1:profileImg "000028-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "coastal-waters"^^xsd:string .
 
 ns1:bcpov6shpoet a ns1:Post ;
     ns1:dateCreated "1982-08-01T11:32:52"^^xsd:dateTime ;
@@ -15848,6 +15919,10 @@ ns1:description a owl:DatatypeProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range xsd:string .
 
+ns1:featuredIn a owl:ObjectProperty ;
+    rdfs:domain ns1:Item ;
+    rdfs:range ns1:Item .
+
 ns1:handle a owl:DatatypeProperty ;
     rdfs:domain ns1:Actor ;
     rdfs:range xsd:string .
@@ -15855,10 +15930,6 @@ ns1:handle a owl:DatatypeProperty ;
 ns1:hasAuthor a owl:ObjectProperty ;
     rdfs:domain ns1:Post ;
     rdfs:range ns1:Actor .
-
-ns1:hasFeaturedItem a owl:ObjectProperty ;
-    rdfs:domain ns1:Item ;
-    rdfs:range ns1:Item .
 
 ns1:hasTag a owl:ObjectProperty ;
     rdfs:domain ns1:Item ;
@@ -16494,76 +16565,6 @@ ns1:bcphbzhpgrg a ns1:Post ;
     ns1:name "Volume 31, issue 1: Calling Forth Angels"^^xsd:string ;
     ns1:profileImg "31.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.1"^^xsd:string .
-
-ns1:bcpov6gfgomw a ns1:Post ;
-    ns1:dateCreated "2023-02-05T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/moon-sweet.jpg" width="400px" height="auto"/></p>
-
-<p><!--nopreview--><div style="text-align:center"><i>Moon Sweet, <a href="../@olivermestitz">Oliver Mestitz</a></i></div><!--/nopreview--></p>
-
-<p>In the wake of the pandemic, in which lockdowns began to dissipate, restrictions eased, and the world was waving its arms at me: I began to dream a reoccurring dream.</p>
-
-<p>In this dream fruit started growing on my wrists. They were pomegranate seeds at first, sticking around my veins and covering my skin like a crimson spiral. I didn’t know what it was about this dream that disturbed me. After all, the pomegranate typically symbolises fertility, beauty, and eternal life in Greek and Persian mythology. It is within this Greek mythology that the pomegranate is also known as the ‘fruit of the dead’ and believed to have sprung from the blood of Adonis. Adonis is the god of beauty and desire who was worshipped in Phoenicia but was later adopted by the Greeks. Pomegranates feature prominently in the myth of Persephone and her forced marriage to Hades, the god of the Underworld.</p>
-
-<p>I understand that fruit has a symbolism of death in dreams, particularly when it is rotting. But the pomegranate wasn’t rotting, and I was not afraid of death. At least, not in the spiritual sense of the word. Death is a rebirthing. Many people believe that death is a transition from one life to the next. Evidently, it was this transition from living inwardly during isolation and the anxiety of the outwardly world reopening. It was during this time, that a relationship where I wasn’t being treated well, was nearing its end. I was broken, in my heart and spirit. I had nobody to rely on but myself. And a time that was needed for recovery and recuperation, was instead used to survive and work tirelessly. A reality that for many, is not uncommon. Yet this dream sprung out of my psyche like a godmother, and I could not tell at first, what message it was trying to speak.</p>
-
-<p>It was the blood of the pomegranate that unsettled me. Sticking around my skin like bleeding cuts. I could have been drinking the juice from my wrists or making breakfast for a lover or even blossoming into a ripe pomegranate. But rather, the dream panned on my wrists, filming them as though I was holding them out for video evidence.</p>
-
-<p>A documentary. There was no music.</p>
-
-<p>As I didn’t journal these dreams (though they stayed with me), I cannot remember the time frame, but it was later in the year that the dream resurrected. This time it showed itself as green olives growing around my wrists. They were stitched in this time. Again, like a spiral circling my veins. The wounds around my wrists, covered in olives that became a part of a second skin. I woke up sweating.</p>
-
-<p>There are many resources with differing interpretations of the green olive in a dream. In part, it depends on how the olives are presented. A dream of removing pits from olives may represent a conciliation, a dream of an olive tree may represent a sense of security. A dream of olive oil may suggest fluidity with self - that you will not be able to count on anyone’s help. You will have to trust your strength, will, and courage only.</p>
-
-<p>But I wasn’t sure, I just felt disgusted. I didn’t eat olives for a long time after that.</p>
-
-<p>There were all kinds of interpretations online about wrists in dreams. To harm your wrists interpreted good fortune. I think that interpretation flustered me. The skin on your wrists is one of the most delicate areas. For all those that grew up wounding such a tender area, to escape their realities – are aware of its tenderness. The love I grew up with as a child, was one of inconsistencies, where you lived on edge, and hypervigilance was as natural to me as playing. It takes a lot of self-reflection and patience to see the ways you are still choosing these feelings as an adult. Whether that be falling in love with somebody who mirrors your parent, or other dangerous avenues that only exasperate this pattern of high highs and low lows.</p>
-
-<p>If dreaming about death symbolises an end of something, then dreaming about near-death symbolises a foreboding. To be living in a state of almost, of half-there, of an ambivalence towards living. Everyday that I choose to heal in my solitude. I am healing my dreams. I am healing the lens I see myself through. I don’t betray myself anymore, I don’t want to die anymore. The rebirthing and abundance of fruit grows on my wrists. And the wound, is where you send your love to, where you give water and light and medicine. I take myself for walks around my neighbourhood, looking up at the blossoming wattle – fragrant and breathing.</p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqvrebk ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcphbqvrebk ;
-    ns1:itemId "bcpov6gfgomw"^^xsd:string ;
-    ns1:layout "post"^^xsd:string ;
-    ns1:name "Fruit Grew on My Wrists"^^xsd:string ;
-    ns1:profileImg "moon-sweet.jpg"^^xsd:string ;
-    ns1:urlSlug "fruit-grew-on-my-wrists"^^xsd:string .
-
-ns1:bcpov6shpocw a ns1:Post ;
-    ns1:dateCreated "2023-02-05T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/000028.jpg" alt="Coast with water overlay" /></p>
-
-<p>Three years ago, I felt myself imploding, sitting at a computer desk hardly able to stand it. I had been in the process of caving in for at least a year, if not longer. There was a subtle suffocation, an obvious isolation. Imploding eventually turned to exploding and all my parts went hurling in front of me. I have been desperately gathering the shards that have been coming close enough to touch. I dialogue with them in my dreams, running deeper and deeper into the psyche. I dream of running into basements: of homes, through the undergrounds of train stations, and the depths of corporate towers. These days I get myself all the way to the ocean and then I stop.</p>
-
-<p>Though I have made it into the ocean before – about a year ago I had a dream that I was running along a coastal edge towards a dock that stretched out into the ocean. Alongside me was a version of me that was carrying more weight than what was presently typical, and a face full of acne. She was full of shame and insecurity, and so was I. We ran to the dock and as we were running there was a dark mermaid spirit who was underneath, flinging her tongue up through the cracks. I knew that if either of us were to be hit by the tongue, it would latch on and pull us under. We just kept on running, and eventually reached the end of the dock and jumped into the ocean. We were swimming beneath and I looked back towards the dock in fear I’d see this evil creature swimming after us. A wise-old-man figure approached me and said that one of us would not make the journey to the other side. He then looked towards my double. I had a sense that she would die, and I haven’t been under ocean waters since.</p>
-
-<p><img src="../images/000027.jpg" alt="Coast with water overlay" /></p>
-
-<p>Before that, I dreamt I was watching a mom and her child run in terror from a group of men in a typical North American city suburb. Running through the streets they came across a woman watering her garden and they asked her for safety. She took them into the basement of her house – which happened to be the basement of one of my childhood homes – and hid them both inside the walls.</p>
-
-<p>No longer a witness but an active participant, just recently I dreamt that three pregnant women approached me. They entreated me to protect them as a group of men were out to kill their babies. I knew precisely the place I would take them: the basement of a family-owned corporate tower as the room’s whereabouts was left off of the blueprint. It was my secret hiding place. Seemingly, these women survived, as several nights later one of them came to me, child in hand, introducing us. I held the baby and as soon as our eyes met, I knew it was mine. Since then, the same baby comes back to visit. Each time the men return, continuing their attempt to kill it. As time in the dream sequence forks like a river, this journey keeps ongoing.</p>
-
-<p><img src="../images/000010.jpg" alt="Grainy beach photo" /></p>
-
-<p>I have been so concerned with the symbol of the child as of late, wondering who and from where this child was birthed. It is never really I who is carrying this baby, but instead, I am a witness, or now a protector. At least that is the figure I play when I am asleep, but parts of us are projected through the psyche and into the dream. This dream takes place in my psychic landscape, so why would I try to kill my own baby? But that is just it, it is not my baby or their baby, but it is our baby. It is the child of all my parts from our collective womb, past, present, and whatever future they amount to. And in that way I can better understand the distance between me and the water. I am having the dream, without birthing the dream; I am but at a distance. A distance that keeps me separate from nature – the world’s nature, my nature, my mother, and being a mother and all the rest. I protect the baby, I try to keep it alive, I try to connect with it and let it know I am there for it, but I am at best an aunt.</p>
-
-<p>And yet, there is a difference between a baby and birth. I have seen the child in the womb, and I have even protected the child while it had not yet been realized. The baby was then presented to me after birth – but never have I seen it birthed. If the dream sequence forks like a river and the language of dreams not linear, I may very likely be living both past, and future, without yet being in the present. I am having the dream, without birthing the dream – I can see what this future entails, but I have not yet brought it to fruition.</p>
-
-<p>Perhaps I now run towards the ocean only to stop and wait, so that I can see who will come out the other side.</p>
-
-<p><img src="../images/02082022film6.jpg" alt="Colour coast photo with long road" /></p>
-
-<div class="caption" style="text-align: center;"><i>Photos: Carli Young</i></div>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbqvcary ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcphbqvcary ;
-    ns1:itemId "bcpov6shpocw"^^xsd:string ;
-    ns1:layout "post"^^xsd:string ;
-    ns1:name "coastal waters"^^xsd:string ;
-    ns1:profileImg "000028-sml.jpg"^^xsd:string ;
-    ns1:urlSlug "coastal-waters"^^xsd:string .
 
 ns1:bcphb2eggje a ns1:Post ;
     ns1:coverImg "33.2-cover.jpg"^^xsd:string ;
@@ -19372,8 +19373,6 @@ ns1:bcphbq3xdnj a ns1:Page ;
 """^^xsd:string ;
     ns1:featuredLabel "Recent articles"^^xsd:string ;
     ns1:handle "dreamnetwork"^^xsd:string ;
-    ns1:hasFeaturedItem ns1:bcpov6gfgomw,
-        ns1:bcpov6shpocw ;
     ns1:itemId "bcphbq3xdnj"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dream Network"^^xsd:string ;

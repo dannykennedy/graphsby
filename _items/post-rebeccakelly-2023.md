@@ -4,9 +4,9 @@ itemId: bcpov6gfgomw
 layout: post
 name: "Fruit Grew on My Wrists"
 tags:
-  - hasTag: rebeccakelly
-  - hasAuthor: rebeccakelly
-  - featuredIn: dreamnetwork
+    - hasTag: rebeccakelly
+    - hasAuthor: rebeccakelly
+    - featuredIn: dreamnetwork
 type: post
 urlSlug: "fruit-grew-on-my-wrists"
 profileImg: moon-sweet.jpg

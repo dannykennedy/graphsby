@@ -1,0 +1,30 @@
+<div id="page-description">
+    {% if render_item.coverImg %}
+
+    <div class="cover-image-container">
+        <img class="cover-image" src="{{'../images/' + render_item.coverImg}}" alt="cover image" />
+    </div>
+    {% else %}
+    <div class="cover-image-container">
+        <a href="../@brendaferrimani">
+            <img class="cover-image" src="{{'../images/' + 'banner.jpg'}}" alt="cover image" />
+        </a>
+    </div>
+
+    {% endif %}
+    <div id="page-description-area" class="card">
+        {% if render_item.profileImg %}
+        <div id="profile-image-backing" class="{{'profile-image-backing-' + render_item.type}}">
+            <img
+                id="profile-image"
+                class="{{'profile-image-' + render_item.type}}"
+                src="{{'../images/' + render_item.profileImg}}"
+                alt="profile image"
+            />
+        </div>
+        {% endif %}
+        <h1 id="item-heading">{{render_item.name}}</h1>
+
+        <div id="page-description-text">{{render_item.description}}</div>
+    </div>
+</div>

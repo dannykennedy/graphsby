@@ -4,9 +4,9 @@ itemId: bcpov6zfpeac
 layout: post
 name: "Can the World Dream Peace?"
 tags:
-  - hasTag: jeancampbell
-  - hasAuthor: jeancampbell
-  - hasTag: 22.2
+    - hasTag: jeancampbell
+    - hasAuthor: jeancampbell
+    - hasTag: 22.2
 type: post
 urlSlug: can-the-world-dream-peace
 ---
@@ -47,7 +47,7 @@ So how does all of that bring us to the World Dreams Peace Bridge?
 
 The period between 1985 and 1995 was very important to the study of dreams. In California, Linda Magallon continued the study of mutual and group dreams, finally resulting in her book, _Mutual Dreaming_, published by Simon & Schuster in 1997. Interest in dream lucidity continued to grow, supported by activities like Ruth Sacksteder’s Lucid Dream Exchange.
 
-Although there continued to be an interest in both interpretive dreamwork and theoretical dream research, dreamers were also becoming interested in such things as Dr. Stanley Krippner’s ongoing research into Shamanic dream practices around the world, and the work of Australian author, Robert Moss. These researchers and others were talking about the important role dreaming has played in world cultures, apart from the more scientific models of Western culture.
+Although there continued to be an interest in both interpretive dreamwork and theoretical dream research, dreamers were also becoming interested in such things as Dr. Stanley Krippner’s ongoing research into Shamanic dream practices around the world, and the work of Australian author, [Robert Moss](../@robertmoss). These researchers and others were talking about the important role dreaming has played in world cultures, apart from the more scientific models of Western culture.
 
 I have often told the story of sitting at a table overlooking the ocean on the terrace of the beautiful University of California Santa Cruz campus, with a group of some of the top experts on dream lucidity. Someone asked how people had first become lucid. One man responded, holding up his hands, “I looked at my hands.” One by one, around the table, people grinned and held their hands in front of their faces in silent homage to Carlos Castaneda who, even if he made it all up, introduced an entire generation of dreamers to lucidity through _The Teachings of Don Juan_.
 

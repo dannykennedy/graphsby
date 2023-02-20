@@ -18694,13 +18694,14 @@ ns1:bcphbqmotte a ns1:User ;
     ns1:profileImg "author-marieotte.jpg"^^xsd:string .
 
 ns1:bcphbqvmoss a ns1:User ;
+    ns1:coverImg "cover-author-robertmoss.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>
 
 <p>Books: <a href="http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html">mossdreams.blogspot.com</a></p>
 
 <p><em>When strangers ask me what I do, I often respond, “I am a storyteller and I help people to find and live their bigger and braver stories, and tell them really well.”</em></p>
 
-<p>Robert Moss describes himself as a dream teacher, on a path for which there has been no career track in our culture. He is the creator of Active Dreaming, an original synthesis of dreamwork and shamanism. Born in Australia, he survived three near-death experiences in childhood. He leads popular seminars all over the world, including a three-year training for teachers of Active Dreaming. A former lecturer in ancient history at the Australian National University, he is a best-selling novelist, journalist and independent scholar. He has published  twelve books on dreaming, shamanism and imagination.</p>
+<p>Robert Moss describes himself as a dream teacher, on a path for which there has been no career track in our culture. He is the creator of Active Dreaming, an original synthesis of dreamwork and shamanism. Born in Australia, he survived three near-death experiences in childhood. He leads popular seminars all over the world, including a three-year training for teachers of Active Dreaming. A former lecturer in ancient history at the Australian National University, he is a best-selling novelist, journalist and independent scholar. He has published twelve books on dreaming, shamanism and imagination.</p>
 """^^xsd:string ;
     ns1:handle "robertmoss"^^xsd:string ;
     ns1:itemId "bcphbqvmoss"^^xsd:string ;

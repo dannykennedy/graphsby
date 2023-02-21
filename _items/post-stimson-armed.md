@@ -6,7 +6,6 @@ name: "Dreams as a Subversive Activity"
 tags:
     - hasTag: billstimson
     - hasAuthor: billstimson
-    - featuredIn: dreamnetwork
     - hasTag: 11.2
     - hasTag: 1.1
 type: post

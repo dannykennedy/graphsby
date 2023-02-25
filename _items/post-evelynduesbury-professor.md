@@ -10,7 +10,6 @@ tags:
     - featuredIn: dreamnetwork
 type: post
 urlSlug: "professor-uses-dreams-as-guides-in-working-with-students"
-profileImg: post-bcpov6zprofe-0-cover.jpg
 ---
 
 In my work as an accounting professor I am catching fascinating glimpses of an ever-present Counselor who has finally caught my attention by speaking to me in my dreams.

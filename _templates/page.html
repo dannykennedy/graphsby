@@ -1,169 +1,35 @@
-{% extends "base.html" %} {% block body_contents %}
-
+{% extends "base.html" %}
+<!-- Main page body -->
+{% block body_contents %}
 <div id="page" class="{{render_item.itemId}}">
-    <div id="page-description">
-        {% if render_item.coverImg %}
-
-        <div class="cover-image-container">
-            <img
-            class="cover-image"
-            src="{{'../images/' + render_item.coverImg}}"
-            alt="cover image"
-        />
+    <!-- Page description (LHS block) -->
+    {% include 'page-description.html' %}
+    <!-- Page items (LHS block) -->
+    <div>
+        {% if featured_items %}
+        <div class="page-section">
+            <h2 class="page-subheading">Recent & featured articles</h2>
+            <div class="page-items featured-grid">
+                {% if posts %} {% for post in featured_items %} {% with loop_index = loop.index %} {% include
+                'card.html' %} {% endwith %} {% endfor %} {% endif %}
+            </div>
+        </div>
+        {% endif %}
+        <!-- hacks -->
+        {% if is_main_page %}
+        <div class="page-section">
+            <h2 class="page-subheading">Dream Network Issues</h2>
+            <div class="page-items main-grid">
+                {% if posts %} {% for post in posts %} {% with loop_index = loop.index %} {% include 'card.html' %} {%
+                endwith %} {% endfor %} {% endif %}
+            </div>
         </div>
         {% else %}
-        <div class="cover-image-container">
-            <a href="../@brendaferrimani">
-            <img
-            class="cover-image"
-            src="{{'../images/' + 'banner.jpg'}}"
-            alt="cover image"
-        />
-        </a>
+        <div class="page-items main-grid">
+            {% if posts %} {% for post in posts %} {% with loop_index = loop.index %} {% include 'card.html' %} {%
+            endwith %} {% endfor %} {% endif %}
         </div>
-
         {% endif %}
-        <div id="page-description-area" class="card">
-
-                        {% if render_item.profileImg %}
-                        <div
-                            id="profile-image-backing"
-                            class="{{'profile-image-backing-' + render_item.type}}"
-                        >
-                            <img
-                                id="profile-image"
-                                class="{{'profile-image-' + render_item.type}}"
-                                src="{{'../images/' + render_item.profileImg}}"
-                                alt="profile image"
-                            />
-                        </div>
-                        {% endif %}
-                        <h1 id="item-heading">{{render_item.name}}</h1>
-
-                        <div id="page-description-text">
-                            {{render_item.description}}
-                        </div>
-                    </div>
-                </div>
-                <div id="page-items">
-                    {% if posts %} {% for post in posts %}
-
-                <div id="{{post.itemId}}" class="card item-card thumb-card" 
-                onclick="window.location.href = '../{{post.card_link}}'">
-                        <div class="inner-card {{post.card_type}}card">
-                            {% if post.card_type == "Post" %}
-                            <div class="card-header">
-                                <div class="card-user-info">
-
-                                    <div class="card-avatar tooltip">
-                                        {% if post.authors %} {% for author in post.authors %}
-                                        <div
-                                            class="avatar-photo"
-                                            style="background-color: rgb(246, 173, 97); position: absolute; left: {{(loop.index-1) * 20}}px"
-                                        >
-                                        {% if post.authors %}
-                                        <a
-                                        href="{{'../' + author.tagLink}}"
-                                        >
-
-                                        <img src="{{'../images/thumb-' + author.profileImg}}"
-                                            alt="{{author.name}}"
-                                            class="post-author-img">
-                                        </a>
-                                        {% else %}
-                                            <div class="avatar-text">
-                                                <span
-                                                    aria-hidden="true"
-                                                    class="fa fa-user"
-                                                ></span>
-                                            </div>
-                                            {% endif %}
-
-                                            <!-- <span class="tooltiptext">
-                                                    {{author.name}}
-                                            </span> -->
-
-                                        </div>
-                                        {% endfor %} {% endif %}
-                                    </div>
-                                    <div class="card-header-text" style="padding-left: {{10 + (post.authors|length -1 ) * 20}}px">
-                                        <div class="card-author">
-
-                                                {% if post.authors %} {% for author in post.authors
-                                                    %}
-                                                    {% if loop.index > 1 %}
-                                                    <span>,</span>
-                                                    {% endif %}
-
-                                                    <span>
-                                                    {% if author.name|length < 21 %}
-                                                    {{author.name}}
-                                                    {% elif post.authors|length < 2 %}
-                                                    {{author.name}}
-                                                    {% else %}
-                                                    {{ author.name[:-((author.name|length) - 21)] + "..."}}
-                                                    {% endif %}
-                                                    </span>
-
-                                                {% endfor %} {% endif %}
-                                        </div>
-                                        <div class="card-date">
-                                            {% if post.dateCreated %}
-                                            {{post.dateCreated}}
-                                            {% endif %}
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            {% endif %}
-                            <div class="card-body">
-                                {% if post.name %}
-                                <h3 class="card-title">
-                                    <a href="{{'../' + post.card_link}}"
-                                        >{{post.name}}</a
-                                    >
-                                </h3>
-                                {% endif %}
-                                {% if post.profileImg %}
-                                    <img
-                                        src="{{'../images/' + post.profileImg}}"
-                                        alt="profile image"
-                                        class="{{post.card_type}}-profile-img"
-                                    />
-                                {% endif %}
-                                <div class="card-body-text">
-                                    <p>{% if post.description %}
-                                        {{post.description}}
-                                        {% endif %}
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="card-footer">
-                                <div class="tags-area">
-                                    {% if post.tags %} {% for tag in post.tags
-                                    %}
-                                    <div class="tag {{tag.tagClass}}">
-                                        <div class="tag-wrapper">
-                                            <div class="tag-text">
-                                                <span class="tag-name"
-                                                    ><a
-                                                        href="{{'../' + tag.tagLink}}"
-                                                        >{{tag.name}}</a
-                                                    ></span
-                                                >
-                                            </div>
-                                        </div>
-                                    </div>
-                                    {% endfor %} {% endif %}
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    {% endfor %} {% endif %}
-                </div>
-            </div>
-            {% endblock %}
-        </div>
     </div>
 </div>
+{% endblock %}

@@ -1,0 +1,84 @@
+<div
+    id="{{post.itemId}}"
+    class="card item-card thumb-card grid-item"
+    onclick="window.location.href = '../{{post.card_link}}'"
+    style="transform: translate3d(0px, {{(loop_index -1) * 500}}px, 0px);"
+>
+    <div class="inner-card {{post.card_type}}card">
+        {% if post.card_type == "Post" %}
+        <div class="card-header">
+            <div class="card-user-info">
+                <div class="card-avatar tooltip">
+                    {% if post.authors %} {% for author in post.authors %}
+                    <div
+                        class="avatar-photo"
+                        style="background-color: rgb(246, 173, 97); position: absolute; left: {{(loop.index-1) * 20}}px"
+                    >
+                        {% if post.authors %}
+                        <a href="{{'../' + author.tagLink}}">
+                            <img
+                                src="{{'../images/thumb-' + author.profileImg}}"
+                                alt="{{author.name}}"
+                                class="post-author-img"
+                            />
+                        </a>
+                        {% else %}
+                        <div class="avatar-text">
+                            <span aria-hidden="true" class="fa fa-user"></span>
+                        </div>
+                        {% endif %}
+                    </div>
+                    {% endfor %} {% endif %}
+                </div>
+                <div class="card-header-text" style="padding-left: {{10 + (post.authors|length -1 ) * 20}}px">
+                    <div class="card-author">
+                        {% if post.authors %} {% for author in post.authors %} {% if loop.index > 1 %}
+                        <span>,</span>
+                        {% endif %}
+
+                        <span>
+                            {% if author.name|length < 21 %} {{author.name}} {% elif post.authors|length < 2 %}
+                            {{author.name}} {% else %} {{ author.name[:-((author.name|length) - 21)] + "..."}} {% endif
+                            %}
+                        </span>
+
+                        {% endfor %} {% endif %}
+                    </div>
+                    <div class="card-date">{% if post.dateCreated %} {{post.dateCreated}} {% endif %}</div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        <div class="card-body">
+            {% if post.name %}
+            <h3 class="card-title">
+                <a href="{{'../' + post.card_link}}">{{post.name}}</a>
+            </h3>
+            {% endif %} {% if post.profileImg %}
+            <div class="profile-img-container">
+                <img
+                    src="{{'../images/' + post.profileImg}}"
+                    alt="profile image"
+                    class="{{post.card_type}}-profile-img"
+                />
+            </div>
+            {% endif %}
+            <div class="card-body-text">
+                <p>{% if post.description %} {{post.description}} {% endif %}</p>
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="tags-area">
+                {% if post.tags %} {% for tag in post.tags %}
+                <div class="tag {{tag.tagClass}}">
+                    <div class="tag-wrapper">
+                        <div class="tag-text">
+                            <span class="tag-name"><a href="{{'../' + tag.tagLink}}">{{tag.name}}</a></span>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %} {% endif %}
+            </div>
+        </div>
+    </div>
+</div>

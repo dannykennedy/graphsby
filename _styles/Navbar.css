@@ -13,6 +13,7 @@
   box-sizing: border-box; /* Opera/IE 8+ */
   position: fixed;
   z-index: 2;
+  font-family: "Open Sans", sans-serif;
 }
 
 #navbar-menu-items {
@@ -70,10 +71,6 @@
   align-items: center;
 }
 
-#navbar-links a {
-  text-decoration: underline;
-}
-
 .navbar-item {
   margin-left: 10px;
   color: #444;
@@ -81,8 +78,9 @@
   text-decoration: none;
 }
 
-.navbar-item:hover {
+a.navbar-item:hover {
   color: black;
+  text-decoration: underline;
 }
 
 @media (max-width: 400px) {

@@ -49,7 +49,7 @@ POST_TEMPLATE_FILE = "post.html"
 PAGE_TEMPLATE_FILE = "page.html"
 post_template = templateEnv.get_template(POST_TEMPLATE_FILE)
 page_template = templateEnv.get_template(PAGE_TEMPLATE_FILE)
-POST_SNIPPET_LENGTH = 250
+POST_SNIPPET_LENGTH = 150
 
 # Startup messages
 print("### Generating site ###")
@@ -66,6 +66,14 @@ if os.path.exists(style_folderpath):
 	shutil.rmtree(style_folderpath)
 Path(style_folderpath).mkdir(parents=True, exist_ok=True)
 copytree(cwd + "/_styles/", cwd + build_folder + "/styles")
+# Scripts
+scripts_folderpath = cwd + build_folder + '/scripts'
+# First delete the existing one
+if os.path.exists(scripts_folderpath):
+	shutil.rmtree(scripts_folderpath)
+	print("Deleted existing scripts folder")
+Path(scripts_folderpath).mkdir(parents=True, exist_ok=True)
+copytree(cwd + "/scripts/", cwd + build_folder + "/scripts")
 # Images
 images_folderpath = cwd + build_folder + '/images'
 Path(images_folderpath).mkdir(parents=True, exist_ok=True)
@@ -155,12 +163,15 @@ for pyyam in file_objects:
 	instances.append((newItem, layout, Literal(pyyam['layout'], datatype=xsdString)))
 	# Featured image
 	if 'profileImg' in pyyam.keys():
-		print(pyyam['profileImg'])
 		instances.append((newItem, profileImg, Literal(pyyam['profileImg'], datatype=xsdString)))
 	# Cover image
 	if 'coverImg' in pyyam.keys():
 		instances.append((newItem, coverImg, Literal(pyyam['coverImg'], datatype=xsdString)))
 
+	# Featured Label
+	if 'featuredLabel' in pyyam.keys():
+		instances.append((newItem, featuredLabel, Literal(pyyam['featuredLabel'], datatype=xsdString)))
+		
 # Add instances to the graph
 for triple in instances:
 	graph.add(triple)
@@ -174,9 +185,10 @@ edges = []
 
 print("Building graph edges")
 for pyyam in file_objects:
+	# Add tags
 	if 'tags' in pyyam.keys() and pyyam['tags'] is not None:
 		for tag in pyyam['tags']:
-			tag_key = list(tag.keys())[0]
+			tag_key = list(tag.keys())[0] # e.g. hasTag, hasAuthor, etc.
 			tag_value = list(tag.values())[0]
 
 			# Find the object in the graph that the tag points to
@@ -199,10 +211,7 @@ for pyyam in file_objects:
 			# Append edge to edges array
 			curr_item = pyyam["itemId"]
 			if tag_item != "":
-				if tag_key == "hasAuthor":
-					edges.append((dreamNS[curr_item], hasAuthor, dreamNS[tag_item]))
-				else:
-					edges.append((dreamNS[curr_item], hasTag, dreamNS[tag_item]))
+				edges.append((dreamNS[curr_item], dreamNS[tag_key], dreamNS[tag_item]))
 
 # Add edges to the graph
 for triple in edges:
@@ -233,7 +242,7 @@ print(len(file_objects))
 print("Finding linked items")
 for pyyam in file_objects:
 
-	print(pyyam["name"])
+	# print(pyyam["name"])
 
 	item_string_identifier = ""
 	item_type = pyyam["type"]
@@ -243,10 +252,13 @@ for pyyam in file_objects:
 		item_string_identifier = pyyam["urlSlug"]
 
 	####################
-	# TEST - AUTHOR PAGE
+	# 'TEST' - AUTHOR PAGE
 	####################
 	query_string = ""
-	if "handle" in pyyam.keys() and pyyam["handle"] == "dreamnetwork~contributors":
+	is_contributors_page = "handle" in pyyam.keys() and pyyam["handle"] == "dreamnetwork~contributors"
+	is_main_page = "handle" in pyyam.keys() and pyyam["handle"] == "dreamnetwork"
+
+	if is_contributors_page:
 
 		# Find all dream network authors
 		query_string = """
@@ -271,17 +283,14 @@ for pyyam in file_objects:
 		print("result: ", end="")
 		print(str(len(q)))
 
-		for row in q:
-			print("type")
-			print (str(row[7]))
 	else:
 		# Find all items that have tagged the current page
 		query_string = """
 					PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-			   		SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid ?type
+			   		SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid ?type ?relationship
 			   		WHERE {{
 			   		?currentItem dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
-			   		?item dnj:hasTag|dnj:hasAuthor ?currentItem .
+			   		?item ?relationship ?currentItem .
 			   		?item dnj:name ?name .
 			   		?item dnj:description ?description .
 			   		?item dnj:itemId ?itemId .
@@ -295,7 +304,21 @@ for pyyam in file_objects:
 	q = graph.query(query_string)
 
 	tagged_items = []
+	featured_items = []
 	for row in q:
+		# item_to_page_relation is the predicate that links the item to the page
+		# e.g. hasAuthor, hasTag, featuredIn
+		item_to_page_relation = ""
+		if 0 <= 8 < len(row):
+
+
+			item_to_page_relation = row[8].split("#")[1]
+			# Check if row[8] includes the string "featured"
+			# If so, add to featured items
+			if "featured" in row[8]:
+				print("featured")
+				print(row[8])
+
 		# Now find everything that this item is tagged with
 		# This is literally Inception
 		query_string = """
@@ -359,8 +382,18 @@ for pyyam in file_objects:
 			card_link = item_id + "/" + string_identifier
 			card_type_literal = "Post"
 
-		tagged_items.append({"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link, "card_type": card_type_literal})
+		# Add to array
+		item_to_add = {"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link, "card_type": card_type_literal}
 
+		if item_to_page_relation == "featuredIn":
+			featured_items.append(item_to_add)
+		# Fix this hack
+		elif item_to_page_relation == "hasTag" or is_contributors_page:
+			tagged_items.append(item_to_add)
+		elif item_to_page_relation == "hasAuthor":
+			continue
+		else:
+			continue
 
 	full_html = ""
 	# Layout
@@ -423,16 +456,16 @@ for pyyam in file_objects:
 		custom_keywords = pyyam["name"] + ", "
 	else: 
 		canonical_url = site_url + str(pyyam["itemId"]) + "/" + pyyam["urlSlug"]
-	print(canonical_url)
+	# print(canonical_url)
 
 
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
+			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
 		else:
-			full_html = page_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
+			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
 	else:
-		full_html = post_template.render(render_item=pyyam, posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
+		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"

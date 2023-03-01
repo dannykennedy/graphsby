@@ -4,11 +4,11 @@ itemId: bcpov6rsgcdt
 layout: post
 name: "Computerized Dream Translation"
 tags:
-  - hasTag: linthutchinson
-  - hasAuthor: linthutchinson
-  - hasTag: beckhutchinson
-  - hasAuthor: beckhutchinson
-  - hasTag: 1.11
+    - hasTag: linthutchinson
+    - hasAuthor: linthutchinson
+    - hasTag: beckhutchinson
+    - hasAuthor: beckhutchinson
+    - hasTag: 1.11
 type: post
 urlSlug: "computerized-dream-translation"
 ---
@@ -25,16 +25,16 @@ With the advent of 20th century technology, the individual is now able to create
 
 ## Example: Original Report
 
-> *I am in an old-fashioned puritan village. All the colors are softened like an old film. Everywhere people are dressed up in puritan costumes and are enacting small scenes from the Bible. They perform them naturally as part of their lives. I, too, am dressed like a puritan. We are going to a production. Loretta is driving a V.W. We go around a country lane that has hedges sticking out which we can not see around, so we have ta go very slowly. We arrive at the school. We are sitting in the back row. Some guys are sitting next to me and I ask them to move over so I can save a place for Robert. Outside I see the characters in the play.*
+> _I am in an old-fashioned puritan village. All the colors are softened like an old film. Everywhere people are dressed up in puritan costumes and are enacting small scenes from the Bible. They perform them naturally as part of their lives. I, too, am dressed like a puritan. We are going to a production. Loretta is driving a V.W. We go around a country lane that has hedges sticking out which we can not see around, so we have ta go very slowly. We arrive at the school. We are sitting in the back row. Some guys are sitting next to me and I ask them to move over so I can save a place for Robert. Outside I see the characters in the play._
 
 ## Second Dream Report: Created by using the individual's personal symbology data bank
 
-> *A part of myself is in an old-fashioned controller community. All the moods are softened like an old sequence. Everywhere people are dressed up in controller disguise and are enacting small scripts from the life. They perform them naturally as part of their lives. A part of myself, too, is dressed like a controller. We are going to a revelation. Saboteur is driving cheap transportation. We go around primitive route that has obstacles sticking out which we can not see around, so we have ta go very slowly. We arrive at the place of growth. We are sitting in the back perspective. Some guys are sitting next to me and a part of myself asks them to move over so a part of myself can save a place for light. Outside a part of myself sees the roles in the belief examples.*
+> _A part of myself is in an old-fashioned controller community. All the moods are softened like an old sequence. Everywhere people are dressed up in controller disguise and are enacting small scripts from the life. They perform them naturally as part of their lives. A part of myself, too, is dressed like a controller. We are going to a revelation. Saboteur is driving cheap transportation. We go around primitive route that has obstacles sticking out which we can not see around, so we have ta go very slowly. We arrive at the place of growth. We are sitting in the back perspective. Some guys are sitting next to me and a part of myself asks them to move over so a part of myself can save a place for light. Outside a part of myself sees the roles in the belief examples._
 
-The computer generated report ensures an abstracted perspective built upon the individual's personal view of the dream symbols. Therein lies the major effort on the part of the individual of creating a personal dream symbology which becomes the link between the dream and the computer. 
+The computer generated report ensures an abstracted perspective built upon the individual's personal view of the dream symbols. Therein lies the major effort on the part of the individual of creating a personal dream symbology which becomes the link between the dream and the computer.
 
-This software is available for use on the Apple Home Computer System from Eastbank Institute. Cost: $20. Eastbank is a non-profit educational institute that designs and funds projects, seminars and activities. 
+This software is available for use on the Apple Home Computer System from Eastbank Institute. Cost: $20. Eastbank is a non-profit educational institute that designs and funds projects, seminars and activities.
 
 EASTBANK INSTITUTE
-724 Bonita Drive 
+724 Bonita Drive
 Winter Park, Florida 32789

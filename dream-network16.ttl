@@ -14128,10 +14128,10 @@ ns1:bcpov6zi3sec a ns1:Post ;
     ns1:urlSlug "looking-for-stories"^^xsd:string .
 
 ns1:bcpov6zi3wdg a ns1:Post ;
-    ns1:dateCreated "2023-01-15T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/image-bcpov6zi3wdg-0.jpg" width="400" height="auto" alt="Mountain at night"/></p>
+    ns1:dateCreated "2023-03-21T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/dean-flowers.jpg" width="400" height="auto" alt="Mountain at night"/></p>
 
-<p>“All dreams come in the service of health and wholeness” is the insight by which I was introduced to dreamwork by my teacher Jeremy Taylor. This simple but astounding claim has proven to be true in many ways for me and the groups I have had the privilege to facilitate. What enthuses me the most these days is the community building aspect of dreamwork, which I believe is sorely needed in today’s world. If you share this belief and you are curious about the wisdom of your dreams, then sign up for my winter series “Dreamwork in Community” before January 20th, 2023 <a href="https://nomadicschool.org/programmes/dreamwork-winter">here</a>.</p>
+<p>“All dreams come in the service of health and wholeness” is the insight by which I was introduced to dreamwork by my teacher Jeremy Taylor. This simple but astounding claim has proven to be true in many ways for me and the groups I have had the opportunity to facilitate. What enthuses me the most these days is the community building aspect of dreamwork, which I believe is being called for by the world. If you share this belief and you are curious about the wisdom of your dreams, then sign up for Nomadic School’s“Dreamwork in Community” online series which will run every Sunday at UTC+1 beginning on April 2nd for five weeks in a row. Register <a href="https://nomadicschool.org/programmes/dreamwork-spring">here</a>. Hope to see you there !</p>
 
 <p>There may be periodic updates to the dates of this group on the <a href="https://dreamnetworkjournal.com/bcpovdreamg/dream-groups">dream groups page</a>.</p>
 """^^xsd:string ;
@@ -14140,9 +14140,9 @@ ns1:bcpov6zi3wdg a ns1:Post ;
         ns1:bcpov6pnotb ;
     ns1:itemId "bcpov6zi3wdg"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
-    ns1:name "Dreamwork in Community, Winter Group"^^xsd:string ;
-    ns1:profileImg "image-bcpov6zi3wdg-0.jpg"^^xsd:string ;
-    ns1:urlSlug "dreamwork-in-community-winter"^^xsd:string .
+    ns1:name "Dreamwork in Community at Nomadic School"^^xsd:string ;
+    ns1:profileImg "dean-flowers.jpg"^^xsd:string ;
+    ns1:urlSlug "dreamwork-in-community"^^xsd:string .
 
 ns1:bcpov6zilbyd a ns1:Post ;
     ns1:dateCreated "2022-11-13T11:32:52"^^xsd:dateTime ;

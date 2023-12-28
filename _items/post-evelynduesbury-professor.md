@@ -7,7 +7,6 @@ tags:
     - hasTag: evelynduesbury
     - hasAuthor: evelynduesbury
     - hasTag: 13.2
-    - featuredIn: dreamnetwork
 type: post
 urlSlug: "professor-uses-dreams-as-guides-in-working-with-students"
 ---

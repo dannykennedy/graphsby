@@ -1,84 +1,106 @@
 {% extends "base.html" %} {% block body_contents %}
 
 <div id="post">
-  <div id="{{render_item.itemId}}" class="card item-card post-card">
-    <div class="inner-card">
-      <div class="card-header">
-        <div class="card-user-info">
-          <div class="card-avatar tooltip">
-            {% if render_item.authors %} {% for author in render_item.authors %}
-            <div
-              class="avatar-photo"
-              style="background-color: rgb(246, 173, 97); position: absolute; left: {{(loop.index-1) * 50}}px"
-            >
-              {% if render_item.authors %}
-              <a href="{{'../' + author.tagLink}}">
-                <img
-                  src="{{'../images/thumb-' + author.profileImg}}"
-                  alt="{{author.name}}"
-                  class="post-author-img"
-                />
-              </a>
-              {% else %}
-              <div class="avatar-text">
-                <span aria-hidden="true" class="fa fa-user"></span>
-              </div>
-              {% endif %}
+    <!-- Left sidebar, just filler -->
+    <div class="page-sidebar sidebar-left"></div>
+    <div id="{{render_item.itemId}}" class="card item-card post-card">
+        <div class="inner-card">
+            <div class="card-header">
+                <div class="card-user-info">
+                    <div class="card-avatar tooltip">
+                        {% if render_item.authors %} {% for author in render_item.authors %}
+                        <div
+                            class="avatar-photo"
+                            style="background-color: rgb(246, 173, 97); position: absolute; left: {{(loop.index-1) * 50}}px"
+                        >
+                            {% if render_item.authors %}
+                            <a href="{{'../' + author.tagLink}}">
+                                <img
+                                    src="{{'../images/thumb-' + author.profileImg}}"
+                                    alt="{{author.name}}"
+                                    class="post-author-img"
+                                />
+                            </a>
+                            {% else %}
+                            <div class="avatar-text">
+                                <span aria-hidden="true" class="fa fa-user"></span>
+                            </div>
+                            {% endif %}
 
-              <span class="tooltiptext">
-                {{author.name}}
-              </span>
+                            <span class="tooltiptext"> {{author.name}} </span>
+                        </div>
+                        {% endfor %} {% endif %}
+                    </div>
+                    <div
+                        class="card-header-text"
+                        style="padding-left: {{10 + (render_item.authors|length -1 ) * 60}}px"
+                    >
+                        <div class="card-author" style="font-size: 1.2em">
+                            {% if render_item.authors %} {% for author in render_item.authors %}
+                            <span>{% if loop.index > 1 %}, {% endif %}{{author.name}}</span>
+                            {% endfor %} {% endif %}
+                        </div>
+                        <div class="card-date" style="font-size: 1.2em">
+                            {% if render_item.dateString %} {{render_item.dateString}} {% endif %}
+                        </div>
+                    </div>
+                </div>
             </div>
-            {% endfor %} {% endif %}
-          </div>
-          <div
-            class="card-header-text"
-            style="padding-left: {{10 + (render_item.authors|length -1 ) * 60}}px"
-          >
-            <div class="card-author" style="font-size: 1.2em;">
-              {% if render_item.authors %} {% for author in render_item.authors
-              %}
-              <span>{% if loop.index > 1 %}, {% endif %}{{author.name}}</span>
-              {% endfor %} {% endif %}
+            <div class="card-body">
+                <h1 class="card-title">{{render_item.name}}</h1>
+                <div class="card-body-text">
+                    <p>{% if render_item.description %} {{render_item.description}} {% endif %}</p>
+                </div>
             </div>
-            <div class="card-date" style="font-size: 1.2em;">
-              {% if render_item.dateString %} {{render_item.dateString}} {%
-              endif %}
+            <div class="card-footer">
+                <div class="tags-area">
+                    {% if render_item.tags %} {% for tag in render_item.tags %} {% if tag.tagLink %}
+                    <div class="tag {{tag.tagClass}}">
+                        <div class="tag-wrapper">
+                            <div class="tag-text">
+                                <span class="tag-name"><a href="{{'../' + tag.tagLink}}">{{tag.name}}</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %} {% endfor %} {% endif %}
+                </div>
             </div>
-          </div>
         </div>
-      </div>
-      <div class="card-body">
-        <h1 class="card-title">
-            {{render_item.name}}
-        </h1>
-        <div class="card-body-text">
-          <p>
-            {% if render_item.description %} {{render_item.description}} {%
-            endif %}
-          </p>
-        </div>
-      </div>
-      <div class="card-footer">
-        <div class="tags-area">
-          {% if render_item.tags %} {% for tag in render_item.tags %} {% if
-          tag.tagLink %}
-          <div class="tag {{tag.tagClass}}">
-            <div class="tag-wrapper">
-              <div class="tag-text">
-                <span class="tag-name"
-                  ><a href="{{'../' + tag.tagLink}}"
-                    >{{tag.name}}</a
-                  ></span
-                >
-              </div>
-            </div>
-          </div>
-          {% endif %} {% endfor %} {% endif %}
-        </div>
-      </div>
     </div>
-  </div>
+    <!-- Articles by the same author(s) -->
+
+    {% if render_item.authors %}
+
+    <div class="page-sidebar sidebar-right card">
+        {% for author in render_item.authors %}
+        <!-- If there is more than one other article by the author -->
+        {% if author.articles|length > 1 %}
+        <div class="page-sidebar-author">
+            <h2 class="page-subheading">Some other articles by {{author.name}}</h2>
+            <div class="other-articles-area">
+                {% if author.articles %} {% for article in author.articles %}
+                <!-- If the article is not the current article -->
+                {% if article.itemId != render_item.itemId %}
+                <div class="other-article-card">
+                    <div class="other-article-card-img-wrapper">
+                        {% if article.profileImg %}
+                        <div class="other-article-card-img">
+                            <a href="{{'../' + article.itemId + '/' + article.string_identifier}}">
+                                <img src="{{'../images/' + article.profileImg}}" alt="{{article.name}}" />
+                            </a>
+                        </div>
+                    </div>
+                    {% endif %}
+                    <p>
+                        <a href="{{'../' + article.itemId + '/' + article.string_identifier}}"> {{article.name}} </a>
+                    </p>
+                </div>
+                {% endif %} {% endfor %} {% endif %}
+            </div>
+        </div>
+        {% endif %} {% endfor %}
+    </div>
+    {% endif %}
 </div>
 
 {% endblock %}

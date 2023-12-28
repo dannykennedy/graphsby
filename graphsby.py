@@ -438,7 +438,28 @@ for pyyam in file_objects:
 		if relation == "hasTag":
 			little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
 		elif relation == "hasAuthor":
-			author = {"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image}
+			author = {"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "articles": []}
+			# Also find other articles by that author
+			query_string = """
+				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+				SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid ?type
+				WHERE {{
+					?item dnj:itemId ?itemId .
+					?item dnj:handle|dnj:urlSlug ?stringid .
+					?item dnj:name ?name .
+					?item dnj:description ?description .
+					?item dnj:dateCreated ?dateCreated .
+					?item a ?type .
+					?item dnj:profileImg ?img .
+					?item dnj:hasAuthor ?author .
+					?author dnj:itemId "{id}"^^xsd:string
+				}}""".format(id=tagId)
+
+			author_query = graph.query(query_string)
+
+			for article in author_query:
+				author["articles"].append({"name": article[1], "description": article[2], "itemId": article[3], "dateCreated": formatDate(article[4], "month"), "profileImg": article[5], "string_identifier": article[6]})
+
 			authors.append(author)
 
 	pyyam["authors"] = authors

@@ -114,7 +114,7 @@ for subdir, dirs, files in os.walk(cwd + '/_items'):
 
 
 ##########################################################
-# LOOP ONCE AND ADD INSTANCES (THE ACTUAL ITEMS / CONTENT)
+# 1) LOOP ONCE AND ADD INSTANCES (THE ACTUAL ITEMS / CONTENT)
 ##########################################################
 
 instances = []
@@ -178,7 +178,7 @@ for triple in instances:
 
 
 ###############################################
-# LOOP AGAIN AND ADD TAGS (EDGES BETWEEN ITEMS)
+# 2) LOOP AGAIN AND ADD TAGS (EDGES BETWEEN ITEMS)
 ###############################################
 
 edges = []
@@ -442,28 +442,40 @@ for pyyam in file_objects:
 			# Also find other articles by that author
 			query_string = """
 				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-				SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid ?type
+				SELECT DISTINCT ?item ?name ?itemId ?img ?stringid
 				WHERE {{
 					?item dnj:itemId ?itemId .
 					?item dnj:handle|dnj:urlSlug ?stringid .
 					?item dnj:name ?name .
-					?item dnj:description ?description .
 					?item dnj:dateCreated ?dateCreated .
-					?item a ?type .
-					?item dnj:profileImg ?img .
 					?item dnj:hasAuthor ?author .
 					?author dnj:itemId "{id}"^^xsd:string
+					OPTIONAL {{ ?item dnj:profileImg ?img }}
 				}}""".format(id=tagId)
 
 			author_query = graph.query(query_string)
+
+			if pyyam["itemId"] == 'bcpov6zfpeac':
+				print("Found the article!!!!!!!!!!!!!!!!!!!!!!!!!")
+				for article in author_query:
+					print(article[1])
 
 			for article in author_query:
 				# Don't add the current article to the list of articles
 				# Convert article[3] (the itemId) to a pure string
 				# Otherwise it's a weird rdflib object
-				article_id = str(article[3])
+				article_name = article[1]
+				article_id = str(article[2])
+				article_profile_img = article[3]
+				article_string_identifier = article[4]
+
+				# print(article_id)
+				# print(pyyam["itemId"])
+				# print(article_id == pyyam["itemId"])
+				# print("========")
+
 				if article_id != pyyam["itemId"]:
-					author["articles"].append({"name": article[1], "description": article[2], "itemId": article_id, "dateCreated": formatDate(article[4], "month"), "profileImg": article[5], "string_identifier": article[6]})
+					author["articles"].append({"name": article_name, "itemId": article_id, "profileImg": article_profile_img, "string_identifier": article_string_identifier})
 
 			authors.append(author)
 

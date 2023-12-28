@@ -458,7 +458,12 @@ for pyyam in file_objects:
 			author_query = graph.query(query_string)
 
 			for article in author_query:
-				author["articles"].append({"name": article[1], "description": article[2], "itemId": article[3], "dateCreated": formatDate(article[4], "month"), "profileImg": article[5], "string_identifier": article[6]})
+				# Don't add the current article to the list of articles
+				# Convert article[3] (the itemId) to a pure string
+				# Otherwise it's a weird rdflib object
+				article_id = str(article[3])
+				if article_id != pyyam["itemId"]:
+					author["articles"].append({"name": article[1], "description": article[2], "itemId": article_id, "dateCreated": formatDate(article[4], "month"), "profileImg": article[5], "string_identifier": article[6]})
 
 			authors.append(author)
 

@@ -24,7 +24,7 @@ Because these questions were primary to my own research as well, it quickly beca
 
 So I began with the premise that we are all psychic, that being psychic is our nature. It wasn’t long before the necessity to examine the nature of time and space became important to me as well, since the psychics I knew often talked about alternate realities, or other areas of time and space.
 
-These were interesting times in the field of dreams, during the 1970s. John Herbert, Richard Wilkerson and others summed some of that history up in articles in the last issue of Dream Network.
+These were interesting times in the field of dreams, during the 1970s. John Herbert, [Richard Wilkerson](../@henryreed) and others summed some of that history up in articles in the last issue of Dream Network.
 
 On the East Coast, [Dr. Henry Reed](../@henryreed) was publishing his _Sundance Community Dream Journal_ for the Association for Research and Enlightenment (ARE). This journal served the function of bringing dreamers into dialogue. So popular was this quarterly journal that, when the ARE stopped its production, a New Yorker by the name of Bill Stimson decided that something needed to be done to keep the grassroots dream community going. He was so convinced, that he started a small publication of his own, the _Dream Network Bulletin_, which was an immediate precursor of the Dream Network you now hold in your hand.
 

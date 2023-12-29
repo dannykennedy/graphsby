@@ -7,7 +7,6 @@ tags:
     - hasTag: victoriavlach
     - hasAuthor: victoriavlach
     - hasTag: 26.4
-    - featuredIn: dreamnetwork
 type: post
 urlSlug: "waking-life-as-dream-life"
 profileImg: post-bcpov6zwakin-0.jpg

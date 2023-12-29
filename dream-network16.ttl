@@ -15900,7 +15900,6 @@ ns1:bcpov6zwakin a ns1:Post ;
 
 <p>Let us become conscious. Emerge from the cocoon. Let’s wake up. ℘</p>
 """^^xsd:string ;
-    ns1:featuredIn ns1:bcphbq3xdnj ;
     ns1:hasAuthor ns1:bcphbqvlach ;
     ns1:hasTag ns1:bcphbqvlach,
         ns1:bcphbxplpmw ;
@@ -19392,7 +19391,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
 
 <p>Please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> for questions.</p>
 
-<p>Cover image: <em>Gaia gazes in the mirror and sees the Earth</em>, by <a href="../@ericsnyder/">Eric Snyder</a></p>
+<p>Cover image: <em>Touch Drawing™</em>, by <a href="../@deborahkoffchapin/">Deborah Koff Chapin</a></p>
 
 <div class="socials">
 

@@ -20,7 +20,7 @@ If you'd like to look up an individual author or article, there's a growing [aut
 
 Please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> for questions.
 
-Cover image: _Gaia gazes in the mirror and sees the Earth_, by [Eric Snyder](../@ericsnyder/)
+Cover image: _Touch Drawing™_, by [Deborah Koff Chapin](../@deborahkoffchapin/)
 
 <div class="socials">
 <div>

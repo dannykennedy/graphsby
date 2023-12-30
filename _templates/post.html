@@ -68,44 +68,17 @@
         </div>
     </div>
     <!-- Articles by the same author(s) -->
-
-    {% if render_item.authors %}
-    <div class="page-sidebar sidebar-right card">
-        {% for author in render_item.authors %}
-        <!-- If there is more than one other article by the author -->
-        {% if author.articles|length > 0 %}
-        <div class="page-sidebar-author">
-            <h2 class="page-subheading page-subheading-{{loop.index}}">Some other articles by {{author.name}}</h2>
-            <div class="other-articles-area">
-                {% if author.articles %} {% for article in author.articles %} {% if loop.index <= 5 %}
-                <div class="other-article-card card-{{loop.index}}">
-                    <div class="other-article-card-img-wrapper">
-                        {% if article.profileImg %}
-                        <a
-                            href="{{'../' + article.itemId + '/' + article.string_identifier}}"
-                            class="other-article-card-img-link"
-                        >
-                            <img src="{{'../images/' + article.profileImg}}" alt="{{article.name}}" />
-                        </a>
-                        {% else %}
-                        <a
-                            href="{{'../' + article.itemId + '/' + article.string_identifier}}"
-                            class="other-article-card-img-link"
-                        >
-                            <img src="{{'../images/1.3-sml.jpg'}}" alt="{{article.name}}" />
-                        </a>
-                        {% endif %}
-                    </div>
-                    <p>
-                        <a href="{{'../' + article.itemId + '/' + article.string_identifier}}"> {{article.name}} </a>
-                    </p>
-                </div>
-                {% endif %} {% endfor %} {% endif %}
-            </div>
+    <div class="page-sidebar sidebar-right">
+        {% if render_item.authors %}
+        <div class="page-sidebar sidebar-right card">
+            {% for author in render_item.authors %}
+            <!-- If there is more than one other article by the author -->
+            {% if author.articles|length > 0 %} {% include 'sidebar-card.html' %} {% endif %} {% endfor %}
         </div>
-        {% endif %} {% endfor %}
+        {% endif %} {% if render_item.supporters %} {% for supporter in render_item.supporters %}
+        <div>{{supporter.name}}</div>
+        {% endfor %} {% endif %}
     </div>
-    {% endif %}
 </div>
 
 {% endblock %}

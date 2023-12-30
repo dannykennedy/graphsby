@@ -11,6 +11,7 @@ from rdflib import Namespace, Literal, ConjunctiveGraph
 from pathlib import Path
 from html5lib_truncation import truncate_html
 from graph import *
+from supporters import *
 
 # Custom functions in ./modules
 sys.path.insert(1, './modules')
@@ -439,7 +440,8 @@ for pyyam in file_objects:
 			little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
 		elif relation == "hasAuthor":
 			author = {"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "articles": []}
-			# Also find other articles by that author
+			
+			# RELATED ARTICLES - Find all articles that this author has written
 			query_string = """
 				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
 				SELECT DISTINCT ?item ?name ?itemId ?img ?stringid
@@ -474,8 +476,12 @@ for pyyam in file_objects:
 				# print(article_id == pyyam["itemId"])
 				# print("========")
 
+				display_profile_img = article_profile_img
+				if article_profile_img is None:
+					display_profile_img = "1.3-sml.jpg"
+
 				if article_id != pyyam["itemId"]:
-					author["articles"].append({"name": article_name, "itemId": article_id, "profileImg": article_profile_img, "string_identifier": article_string_identifier})
+					author["articles"].append({"name": article_name, "itemId": article_id, "profileImg": display_profile_img, "string_identifier": article_string_identifier})
 
 			authors.append(author)
 
@@ -486,6 +492,9 @@ for pyyam in file_objects:
 		dateOfPost = pyyam["dateCreated"]
 		pyyam["dateString"] = formatDate(dateOfPost, "month")
 
+	# Add supporters
+	pyyam["supporters"] = supporters
+
 
 	canonical_url = ""
 	custom_keywords = ""
@@ -494,7 +503,7 @@ for pyyam in file_objects:
 		custom_keywords = pyyam["name"] + ", "
 	else: 
 		canonical_url = site_url + str(pyyam["itemId"]) + "/" + pyyam["urlSlug"]
-	# print(canonical_url)
+	
 
 
 	if "layout" in pyyam.keys():

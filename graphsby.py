@@ -481,7 +481,7 @@ for pyyam in file_objects:
 					display_profile_img = "1.3-sml.jpg"
 
 				if article_id != pyyam["itemId"]:
-					author["articles"].append({"name": article_name, "itemId": article_id, "profileImg": display_profile_img, "string_identifier": article_string_identifier})
+					author["articles"].append({"name": article_name, "itemId": article_id, "profileImg": display_profile_img, "string_identifier": article_string_identifier, "url": '../' + article_id + '/' + article_string_identifier})
 
 			authors.append(author)
 

@@ -1,0 +1,12 @@
+<div class="sidebar-item-card">
+    <div class="sidebar-item-card-img-wrapper">
+        {% if cardItem.profileImg %}
+        <a href="{{cardItem.url}}" class="sidebar-item-card-img-link">
+            <img src="{{'../images/' + cardItem.profileImg}}" alt="{{cardItem.name}}" />
+        </a>
+        {% endif %}
+    </div>
+    <p>
+        <a href="{{cardItem.url}}"> {{cardItem.name}}</a>
+    </p>
+</div>

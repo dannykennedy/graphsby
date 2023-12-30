@@ -1,5 +1,6 @@
 #post {
     display: flex;
+    justify-content: center;
 }
 
 #post .post-card {
@@ -43,7 +44,6 @@
 
 /* Author sidebar */
 .page-sidebar {
-    padding: 2rem;
     height: fit-content;
     width: 20%;
     max-width: 400px;
@@ -52,6 +52,11 @@
 
 .page-sidebar h2 {
     padding-left: 0px;
+}
+
+.sidebar-card {
+    margin-bottom: 1rem;
+    padding: 2rem 1rem;
 }
 
 .page-sidebar a {
@@ -100,7 +105,7 @@
     .page-sidebar.sidebar-left {
         display: none;
     }
-    .post-card {
+    #post .post-card {
         margin-left: 0px;
     }
 }
@@ -113,11 +118,11 @@
     .page-sidebar {
         width: 100%;
         max-width: unset;
-        padding: 1rem;
+        padding: 1rem 0px;
     }
-    .post-card {
+    #post .post-card {
         margin-right: 0px;
         margin-left: 0px;
-        margin-top: 1rem;
+        margin-top: 0rem;
     }
 }

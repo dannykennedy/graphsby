@@ -1,12 +1,15 @@
 <div class="sidebar-item-card">
     <div class="sidebar-item-card-img-wrapper">
         {% if cardItem.profileImg %}
-        <a href="{{cardItem.url}}" class="sidebar-item-card-img-link">
+        <a href="{{cardItem.url}}" target="_blank" class="sidebar-item-card-img-link">
             <img src="{{'../images/' + cardItem.profileImg}}" alt="{{cardItem.name}}" />
         </a>
         {% endif %}
     </div>
-    <p>
-        <a href="{{cardItem.url}}"> {{cardItem.name}}</a>
+    <p class="sidebar-item-card-text-wrapper">
+        <a href="{{cardItem.url}}" target="_blank"> {{cardItem.name}}</a>
+        {% if cardItem.description %}
+        <a href="{{cardItem.url}}" target="_blank" class="sidebar-item-card-description"> {{cardItem.description}}</a>
+        {% endif %}
     </p>
 </div>

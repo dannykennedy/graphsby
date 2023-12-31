@@ -472,14 +472,16 @@ for pyyam in file_objects:
 				issue_name = issue[0]
 				article_name = issue[1]
 				article_profile_img = issue[2]
-				article_id = issue[3]
+				article_id = str(issue[3])
 				article_string_identifier = issue[4]
 
 				display_profile_img = article_profile_img
 				if article_profile_img is None:
 					display_profile_img = "1.3-sml.jpg"
 
-				other_articles_in_issue["articles"].append({"issue_name": issue_name, "name": article_name, "itemId": article_id, "profileImg": display_profile_img, "string_identifier": article_string_identifier, "url": '../' + article_id + '/' + article_string_identifier, "target": "_self"})
+				# If it's not the current article, add it to the list of other articles in the issue
+				if article_id != pyyam["itemId"]:
+					other_articles_in_issue["articles"].append({"issue_name": issue_name, "name": article_name, "itemId": article_id, "profileImg": display_profile_img, "string_identifier": article_string_identifier, "url": '../' + article_id + '/' + article_string_identifier, "target": "_self"})
 
 		elif relation == "hasAuthor":
 			author = {"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "articles": []}

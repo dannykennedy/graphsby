@@ -69,7 +69,14 @@
     </div>
     <!-- Articles by the same author(s) -->
     <div class="page-sidebar sidebar-right">
-        {% if render_item.authors %} {% for author in render_item.authors %}
+        <!-- If there are authors -->
+        {% if render_item.authors %}
+        <!-- If there's more than zero authors -->
+        {% if render_item.authors|length > 0 %}
+        <!-- Loop through authors -->
+        {% for author in render_item.authors %}
+        <!-- If the author has articles -->
+        {% if author.articles|length > 0 %}
         <div class="card sidebar-card">
             <h2 class="page-subheading page-subheading-{{loop.index}}">Other articles by {{author.name}}</h2>
             {% if author.articles %} {% for cardItem in author.articles %}
@@ -82,7 +89,7 @@
             <!-- Show more button, if there are more than 2 cards -->
             {% if author.articles|length > 2 %} {% include 'show-more-button.html' %} {% endif %} {% endif %}
         </div>
-        {% endfor %} {% endif %}
+        {% endif %} {% endfor %} {% endif %}{% endif %}
         <!-- Other articles in issue -->
         {% if render_item.otherArticlesInIssue %} {% if render_item.otherArticlesInIssue.articles|length > 0 %}
         <div class="card sidebar-card">

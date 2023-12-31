@@ -529,6 +529,20 @@ for pyyam in file_objects:
 		pyyam["dateString"] = formatDate(dateOfPost, "month")
 
 	# Add supporters
+	# If a supporter has a descriptionB, randomly choose one to display
+	# And add the description to the url for AB testing
+	# supporters = []
+	# for supporter in supporters:
+	# 	if "descriptionB" in supporter.keys():
+	# 		# Randomly choose description or descriptionB
+	# 		# 50/50 chance
+	# 		if random.randint(0,1) == 0:
+	# 			supporter["description"] = supporter["descriptionB"]
+	# 			supporter["url"] = supporter["url"] + "&cta=b"
+	# 		else:
+	# 			supporter["url"] = supporter["url"] + "&cta=a"
+			
+	
 	pyyam["supporters"] = supporters
 
 

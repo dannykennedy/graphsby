@@ -8,6 +8,7 @@ tags:
     - hasTag: robertmoss
     - hasAuthor: victoriavlach
     - hasTag: 24.3
+    - inIssue: 24.3
     - hasTag: "Book Review"
 type: post
 urlSlug: "book-review-the-dreamers-book-of-the-dead-by-robert-moss"

@@ -7,6 +7,7 @@ tags:
     - hasTag: kellybulkeley
     - hasAuthor: kellybulkeley
     - hasTag: 10.2-3
+    - inIssue: 10.2-3
 type: post
 urlSlug: "dreaming-to-heal-the-earth"
 ---

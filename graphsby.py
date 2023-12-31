@@ -457,11 +457,6 @@ for pyyam in file_objects:
 
 			author_query = graph.query(query_string)
 
-			if pyyam["itemId"] == 'bcpov6zfpeac':
-				print("Found the article!!!!!!!!!!!!!!!!!!!!!!!!!")
-				for article in author_query:
-					print(article[1])
-
 			for article in author_query:
 				# Don't add the current article to the list of articles
 				# Convert article[3] (the itemId) to a pure string
@@ -470,11 +465,6 @@ for pyyam in file_objects:
 				article_id = str(article[2])
 				article_profile_img = article[3]
 				article_string_identifier = article[4]
-
-				# print(article_id)
-				# print(pyyam["itemId"])
-				# print(article_id == pyyam["itemId"])
-				# print("========")
 
 				display_profile_img = article_profile_img
 				if article_profile_img is None:

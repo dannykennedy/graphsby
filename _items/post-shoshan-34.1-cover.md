@@ -4,9 +4,10 @@ itemId: bcpov6giia3h
 layout: post
 name: "Arrival to the Third Heaven"
 tags:
- - hasTag: ornabenshoshan
- - hasAuthor: ornabenshoshan
- - hasTag: 34.1
+    - hasTag: ornabenshoshan
+    - hasAuthor: ornabenshoshan
+    - hasTag: 34.1
+    - inIssue: 34.1
 type: post
 urlSlug: "ornabenshoshan-arrival-to-the-third-heaven"
 profileImg: arrival-to-the-third-heaven.jpg

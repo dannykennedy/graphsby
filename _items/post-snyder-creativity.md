@@ -4,9 +4,10 @@ itemId: bcpov6zd3tcr
 layout: post
 name: "Dreams & Creative Expression"
 tags:
-  - hasTag: ericsnyder
-  - hasAuthor: ericsnyder
-  - hasTag: 7.3
+    - hasTag: ericsnyder
+    - hasAuthor: ericsnyder
+    - hasTag: 7.3
+    - inIssue: 7.3
 type: post
 profileImg: post-bcpov6zd3tcr-1.jpg
 urlSlug: "dreams-and-creative-expression"
@@ -40,4 +41,3 @@ Life itself is spontaneous and continually adaptable, and if your way of viewing
 <p>Creating artwork from dreams can go through any number of stages from a simple sketch in a dream journal to a completed painting. The two pictures shown here illustrate how a dream can be expressed spontaneously and at a later date used as the basis for a more finished work. The dream itself was of two hooded figures in a dark landscape, one of whom is cradling a delicate, tricolored light suspended above his hands, while a small group looks on in wonder. Wanting to understand the dream, I painted it very quickly the next afternoon. In the spontaneity of this act other imagery took shape, such as a grim reaper and a robed wise man, reminding me of Lao Tsu. Moons, galaxies, and stars appeared as well, as if shooting out of the center of the picture. Several years later I decided to refine the concept into a bigger painting. As the painting took shape, Lao Tsu lost his beard and became a woman and the figure of death became more obscure. I wanted the focus to be on the light and the woman's figure gave a feminine balance to the painting. Thus the original dream was an impetus which continued to grow and transform as I reatively expressed it.</p>
 <img src="../images/post-bcpov6zd3tcr-2.jpg" alt="science equipment" width="auto" height="auto"/>
 </div>
-

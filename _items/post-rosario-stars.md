@@ -4,9 +4,10 @@ itemId: bcpov6zmstar
 layout: post
 name: "Dreamtime Star Gazing"
 tags:
-  - hasTag: mildredrosario
-  - hasAuthor: mildredrosario
-  - hasTag: 23.4-24.1
+    - hasTag: mildredrosario
+    - hasAuthor: mildredrosario
+    - hasTag: 23.4-24.1
+    - inIssue: 23.4-24.1
 type: post
 urlSlug: "dreamtime-star-gazing"
 profileImg: post-bcpov6zmstar-0.jpg
@@ -18,7 +19,7 @@ There are times when Dreams take us on unexplored roads to learn new things. Suc
 
 Time passed and then I was again presented with the opportunity to learn something new, only this time it did not come as easily. I dreamt that...
 
-> *I am talking with a wonderful middle-aged man who is obviously avery good friend of mine, even though in real life I do not know this person. We talk about our families and hobbies and then decide to take a walk. We walk for a while, then enter a restaurant and sit down to eat something. I look out the window closest to me and see some reflected shadowy movement. I standup, move in closer to take a good look and see two beautiful peacocks, red and shimmering in glowing red light. I am so enthralled with the view that I call out to my friend and tell him I am seeing two very eccentric, red peacocks shimmering in red light! My friend comes overfrom the table, looks at them,smiles and tells me, “They are not eccentric, this is the way they are supposed to be... and still are!”*
+> _I am talking with a wonderful middle-aged man who is obviously avery good friend of mine, even though in real life I do not know this person. We talk about our families and hobbies and then decide to take a walk. We walk for a while, then enter a restaurant and sit down to eat something. I look out the window closest to me and see some reflected shadowy movement. I standup, move in closer to take a good look and see two beautiful peacocks, red and shimmering in glowing red light. I am so enthralled with the view that I call out to my friend and tell him I am seeing two very eccentric, red peacocks shimmering in red light! My friend comes overfrom the table, looks at them,smiles and tells me, “They are not eccentric, this is the way they are supposed to be... and still are!”_
 
 I awoke that morning feeling very well but knowing that I had to go learn about the “two red peacocks.”I knew the message inherent in the dream was important and decided to hit the search engines and see what I could come up with. I looked up “Peacock” in mythology and learned a lot in that area. I kept looking up the birds’ habits and felt it was nice information but nothing that really made me feel that I had come uponthe right interpretation. Being bilingual, I placed the word “Peacock” in Spanish, “Pavo,” and the Constellation of Pavo was displayed on the screen. As I read the description of the Constellation and learned it was made up of two very uneven but bright red primary and companion stars, I sensed that this was the information I was seeking.
 
@@ -32,11 +33,11 @@ The more familiar I became with Astronomical terms and visual identification of 
 
 ### DREAM AUGUST 2001
 
-> *I am visiting a building that specializes in Advertising and Public Relations. I am looking for someone in particular to discuss some details about something (I do not remember). I walk into a room and see thatit is in the process of being renovated, I walk into another and seethat this room is filled and busy with very delicate machinery. I walk towards the wall and notice a table with three transparent, flat, acrylic screens that are showing magnificent pictures, mainly in shades of red, orange, some grey and pockets of black. As I walk closer, I notice that the three screens are showing three sections of some remarkable picture from Space. I do not know what it is, but I know it is from outer Space. I ask the Office Manager what these are but she smiles and does not tell me. Regarding this dream, the moon was in Perigee to the Earth and it would be further clarified by the...*
+> _I am visiting a building that specializes in Advertising and Public Relations. I am looking for someone in particular to discuss some details about something (I do not remember). I walk into a room and see thatit is in the process of being renovated, I walk into another and seethat this room is filled and busy with very delicate machinery. I walk towards the wall and notice a table with three transparent, flat, acrylic screens that are showing magnificent pictures, mainly in shades of red, orange, some grey and pockets of black. As I walk closer, I notice that the three screens are showing three sections of some remarkable picture from Space. I do not know what it is, but I know it is from outer Space. I ask the Office Manager what these are but she smiles and does not tell me. Regarding this dream, the moon was in Perigee to the Earth and it would be further clarified by the..._
 
 ### ASTRONOMY CALENDAR FOR 2002
 
-> Christmas Day 2001: *I am unwrapping a gift from my sister that is an Astronomy Calendar for 2002. Inside the cover page is something remarkable.*
+> Christmas Day 2001: _I am unwrapping a gift from my sister that is an Astronomy Calendar for 2002. Inside the cover page is something remarkable._
 
 I awaken screaming and go get my dream journal. My painting of the beautiful three acrylic screens and the inside cover page present the same image! It’s the center of the Galaxy as processed by the twin telescopes “Two Micron All Sky Survey (2MASS)” in Arizona and Chile, in which they have captured the Milky Way galaxy and galaxies that lie beyond.
 
@@ -47,7 +48,7 @@ I decided to use this dream as one of the three that are presented in this artic
 ### References:
 
 Wonders of the Universe: Hansen Planetarium
-Websites: 
+Websites:
 [http://aa.usno.navy.mil/data/docs/EarthSeasons.html](https://web.archive.org/web/20041015134406/http://aa.usno.navy.mil/data/docs/EarthSeasons.html)
 [http://antwrp.gsfc.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html)
 [http://www.winshop.com.au/annew/](https://web.archive.org/web/20041011001823/http://www.winshop.com.au/annew/)

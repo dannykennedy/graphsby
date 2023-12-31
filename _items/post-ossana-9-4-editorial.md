@@ -7,6 +7,7 @@ tags:
     - hasTag: robertaossana
     - hasAuthor: robertaossana
     - hasTag: 28.2-3
+    - inIssue: 28.2-3
 type: post
 urlSlug: "editorial-issue-9-4"
 profileImg: post-bcpov6z0ei94-0.jpg

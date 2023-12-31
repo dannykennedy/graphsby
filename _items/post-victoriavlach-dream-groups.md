@@ -7,6 +7,7 @@ tags:
     - hasTag: victoriavlach
     - hasAuthor: victoriavlach
     - hasTag: 26.3
+    - inIssue: 26.3
     - featuredIn: dreamnetwork
 type: post
 urlSlug: "the-joy-of-dream-groups"

@@ -4,9 +4,10 @@ itemId: bcpov6gii302
 layout: post
 name: "Boat of Plenty"
 tags:
- - hasTag: ornabenshoshan
- - hasAuthor: ornabenshoshan
- - hasTag: 30.2-3
+    - hasTag: ornabenshoshan
+    - hasAuthor: ornabenshoshan
+    - hasTag: 30.2-3
+    - inIssue: 30.2-3
 type: post
 urlSlug: "ornabenshoshan-dnj-30-2_cover"
 profileImg: 30.2_cover.jpg

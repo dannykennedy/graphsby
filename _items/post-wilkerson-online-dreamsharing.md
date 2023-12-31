@@ -8,6 +8,7 @@ tags:
 - hasTag: richardwilkerson
 - hasAuthor: richardwilkerson
 - hasTag: 15.1
+- inIssue: 15.1
 type: post
 urlSlug: dreaming-online-the-global-cyberspace-dreamsharing-community
 ---

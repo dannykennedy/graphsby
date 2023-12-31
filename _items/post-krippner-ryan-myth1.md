@@ -9,6 +9,7 @@ tags:
     - hasAuthor: stanleykrippner
     - hasAuthor: chrisryan
     - hasTag: 17.3
+    - inIssue: 17.3
     - featuredIn: dreamnetwork
 type: post
 urlSlug: "dreams-as-a-mirror-of-change-in-personal-mythology"

@@ -4,9 +4,10 @@ itemId: bcpov6gii314
 layout: post
 name: "Astral Injection"
 tags:
- - hasTag: ornabenshoshan
- - hasAuthor: ornabenshoshan
- - hasTag: 31.4
+    - hasTag: ornabenshoshan
+    - hasAuthor: ornabenshoshan
+    - hasTag: 31.4
+    - inIssue: 31.4
 type: post
 urlSlug: "ornabenshoshan-dnj-31-4_cover"
 profileImg: 31.4_cover.jpg

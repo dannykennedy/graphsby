@@ -9,6 +9,7 @@ tags:
     - hasAuthor: ral
     - hasAuthor: robertaossana
     - hasTag: 12.4
+    - inIssue: 12.4
     - featuredIn: dreamnetwork
 type: post
 urlSlug: "embracing-the-future-in-our-dreams-emerging-forms-of-community"

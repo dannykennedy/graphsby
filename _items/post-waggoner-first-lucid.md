@@ -7,6 +7,7 @@ tags:
     - hasTag: robertwaggoner
     - hasAuthor: robertwaggoner
     - hasTag: 8.1
+    - inIssue: 8.1
     - hasTag: "lucid dreaming"
 type: post
 urlSlug: first-lucid-dreams

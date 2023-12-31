@@ -1,12 +1,13 @@
 ---
-dateCreated: '2001-10-01T11:32:52'
+dateCreated: "2001-10-01T11:32:52"
 itemId: bcpov6ctraum
 layout: post
 name: "Dreamwork & Collective Trauma: Unconscious Elements in Public Debate"
 tags:
-- hasTag: jeremytaylor
-- hasAuthor: jeremytaylor
-- hasTag: 20.4
+    - hasTag: jeremytaylor
+    - hasAuthor: jeremytaylor
+    - hasTag: 20.4
+    - inIssue: 20.4
 type: post
 urlSlug: dreams-and-christianity
 ---
@@ -31,7 +32,7 @@ This is always the way nightmares deliver their paradoxical, coercive messages o
 
 ### What Hidden Message of Health & Wholeness Could Possibly Lie Hidden in the Terrorist Attacks?
 
-There is, I believe, a similar incongruous but crucially important message hidden in the horror on the September 11th terrorist attacks. For several generations there has been a growing sense in the West, and the world in general, that the acts of ordinary, anonymous, individuals are relatively insignificant, and that the economic and geopolitical forces that shape history are so vast and complicated that they are beyond our ability to comprehend, let alone our ability to shape and influence. The terror attacks of September 11th demonstrate beyond question that the acts of relatively ordinary and anonymous individuals *can* shape history - albeit in a horrifying, destructive way. The task that faces all of us now is to search out the corresponding creative and positive acts of courageous individuals that will serve as the counter-balance to the perverted ingenuity of the fanatical, suicidal hijackers.
+There is, I believe, a similar incongruous but crucially important message hidden in the horror on the September 11th terrorist attacks. For several generations there has been a growing sense in the West, and the world in general, that the acts of ordinary, anonymous, individuals are relatively insignificant, and that the economic and geopolitical forces that shape history are so vast and complicated that they are beyond our ability to comprehend, let alone our ability to shape and influence. The terror attacks of September 11th demonstrate beyond question that the acts of relatively ordinary and anonymous individuals _can_ shape history - albeit in a horrifying, destructive way. The task that faces all of us now is to search out the corresponding creative and positive acts of courageous individuals that will serve as the counter-balance to the perverted ingenuity of the fanatical, suicidal hijackers.
 
 Once again, paying attention to our own and others' dreams is the single best way I know to access and stimulate the archetypal creative impulse that resides in our unconscious depths. We human beings have blunderingly created this situation where suicidal fanaticism endangers the peace of the world; we can search into our unconscious depths to find the innovative and creative solutions to these problems as well.
 
@@ -39,7 +40,7 @@ Once again, paying attention to our own and others' dreams is the single best wa
 
 The ways we respond to the major events of our lives—both personal and collective—are shaped by the symbolic quality of those events. We respond to happenings and events in the outer world with the same pent-up unconscious emotions and energies that are associated with our own personal lives and struggles... the very same emotions and energies that shape our dreams. To the extent that outer events— both joyous and tragic—evoke and share the symbolism of our own evolving, internal issues and dilemmas, we "see" those external events in a particular light and interpret their meaning in particular ways. This is the main reason why different people respond to the same or similar situations in different ways.
 
-The issues and dramas that are working themselves out in both our individual and collective psyche are always reflected in our dreams, remembered from sleep. These interior dramas shape our waking world and to the extent that we are unconscious of their deeper meanings, we feel "trapped" and "helpless" in our waking lives. Our dreams give us an exquisite symbolic picture of what is going on inside and how this ongoing interior drama reflects and projects itself out into our waking opinions and actions. 
+The issues and dramas that are working themselves out in both our individual and collective psyche are always reflected in our dreams, remembered from sleep. These interior dramas shape our waking world and to the extent that we are unconscious of their deeper meanings, we feel "trapped" and "helpless" in our waking lives. Our dreams give us an exquisite symbolic picture of what is going on inside and how this ongoing interior drama reflects and projects itself out into our waking opinions and actions.
 
 Attention to our own and other peoples' dreams at times of national crisis can be particularly useful in bringing to light the unconscious emotions and energies that are distorting and twisting our waking perceptions and decisions. Because our unconscious feelings and ideas inevitably shape our waking attitudes and behaviors, we need to be as honest with ourselves as possible... particularly in these moments of national crisis.
 
@@ -53,13 +54,13 @@ We must demand that they do the difficult work of devising strategies to deal wi
 
 ### The Spiritual Necessity for "Alchemy" in Our Lives & in Our Dreams
 
-There are great dividends in paying attention to our dreams in periods of crisis such as we are currently experiencing. All such moments of crisis and stress call forth difficult spiritual questions from our depths. "How can an All-Powerful and All-Good God allow such evil horrors to happen?" is certainly one of them. Another one is: "How can I maintain a cheerful, active, creative belief in the inherent worth of the good and the just when evil, violence, and criminal stupidity seem so much more powerful than the gentle, intelligent truth?" 
+There are great dividends in paying attention to our dreams in periods of crisis such as we are currently experiencing. All such moments of crisis and stress call forth difficult spiritual questions from our depths. "How can an All-Powerful and All-Good God allow such evil horrors to happen?" is certainly one of them. Another one is: "How can I maintain a cheerful, active, creative belief in the inherent worth of the good and the just when evil, violence, and criminal stupidity seem so much more powerful than the gentle, intelligent truth?"
 
-A universal, archetypal answer to these perennial psycho-spiritual questions has long been found in "alchemy". The great symbolic truth of alchemy is that "base matter" can (and must) be transmuted into "gold." In this archetypal symbol drama, "gold" is an image of deeply felt, reliable spiritual perspective, and "base matter" (often appearing literally in dreams as excrement or "shit"... the "worst" in ourselves) is an emblem of the worst things that we have ever experienced, either directly or vicariously. 
+A universal, archetypal answer to these perennial psycho-spiritual questions has long been found in "alchemy". The great symbolic truth of alchemy is that "base matter" can (and must) be transmuted into "gold." In this archetypal symbol drama, "gold" is an image of deeply felt, reliable spiritual perspective, and "base matter" (often appearing literally in dreams as excrement or "shit"... the "worst" in ourselves) is an emblem of the worst things that we have ever experienced, either directly or vicariously.
 
 It is precisely these "worst things" that must become the center of our psycho spiritual efforts to grow and mature. Unless we can develop spiritual understandings that deal adequately with finding meaning and spiritual communion in the midst of the worst things in our lives—individually and collectively — we will reach our death beds with the experience/ memory of the "worst things" in one hand, and a spiritual perspective carefully crafted to avoid the worst things in the other. And the only possible result of such an impasse, short of the operations of "grace," which is a very real force in the universe, and cannot be manipulated or predicted—is emptiness, misery, and despair.
 
-We must face the worst things with clear consciousness, and in that encounter bring the inherent, archetypal potential for psycho-spiritual transformation into waking reality. When a person dreams of "shit," it is most often an indication that he/she is being forced to relinquish the illusory comforts of denial and self deception in waking life. Being forced to admit consciously just how bad things really are is never pleasant in the short run (just as the archetypal "shit dreams" are almost never pleasant), but in the longer run, giving up denial, facing and dealing with the "shit" of our lives as it actually is, is exactly what the dreamer has to do in order to forge an adequate spiritual perspective. 
+We must face the worst things with clear consciousness, and in that encounter bring the inherent, archetypal potential for psycho-spiritual transformation into waking reality. When a person dreams of "shit," it is most often an indication that he/she is being forced to relinquish the illusory comforts of denial and self deception in waking life. Being forced to admit consciously just how bad things really are is never pleasant in the short run (just as the archetypal "shit dreams" are almost never pleasant), but in the longer run, giving up denial, facing and dealing with the "shit" of our lives as it actually is, is exactly what the dreamer has to do in order to forge an adequate spiritual perspective.
 
 The ongoing fundamentalist/terrorist attack on the West in general and the United States of America in particular is certainly at the top of the list of "worst things" that we must come to grips with these days. Hopefully, we can do this without losing our tenderest and best energies and possibilities. Our dreams are working overtime to wrestle with this "alchemical" question.
 
@@ -67,34 +68,16 @@ The ongoing fundamentalist/terrorist attack on the West in general and the Unite
 
 The night of the terrible attacks of September 11th, a young woman of my acquaintance who was visiting in New York City at the time—and who stood that day, watching the World Trade Center collapse and burn, not knowing if her childhood friend who worked on the 32nd floor of Tower Two had escaped or not — had a dream:
 
-> *I find myself in the midst of forest that has been clearcut... nothing but great big stumps in all directions as far as I can see. I am devastated. I am weeping. I walk through the destroyed landscape asking myself, "Who could DO such a thing?" Then I am drawn to stop and look at the spiral pattern in one of the stumps. I realize how very old this forest was and it makes me even more filled with grief at the loss of this beautiful old forest. Then I begin to be drawn down into the spiral. As I sink down into the spiral and into myself, I realize that this is a part of the tree that I almost never get to see. I am drawn more and more deeply into the spiral... down into a place of myself that is so wise, and calm, and deep that it is simply greater than my intense grief and the horror.*
+> _I find myself in the midst of forest that has been clearcut... nothing but great big stumps in all directions as far as I can see. I am devastated. I am weeping. I walk through the destroyed landscape asking myself, "Who could DO such a thing?" Then I am drawn to stop and look at the spiral pattern in one of the stumps. I realize how very old this forest was and it makes me even more filled with grief at the loss of this beautiful old forest. Then I begin to be drawn down into the spiral. As I sink down into the spiral and into myself, I realize that this is a part of the tree that I almost never get to see. I am drawn more and more deeply into the spiral... down into a place of myself that is so wise, and calm, and deep that it is simply greater than my intense grief and the horror._
 
-“There is more, but I can't remember any more than that... . I awakened from the dream with a sense of calmness and clarity that allowed me to get through the next day, even with all my friends freaking out..." 
+“There is more, but I can't remember any more than that... . I awakened from the dream with a sense of calmness and clarity that allowed me to get through the next day, even with all my friends freaking out..."
 
-My in-box has been filled to the brim since September 11th with accounts of precognitive dreams "predicting" the terrorist attacks. With all of those fascinating dreams, this young woman's dream remains the most interesting and compelling dream I have heard thus far related to the terrorist attacks and the ongoing threat to our collective way of life. It is an "alchemical dream". It turns the worst thing into an occasion for communion with the Divine; it "turns the shit into gold" before our very eyes as we imagine it. It is such a startling dream because it makes it clear that the (archetypal) spiral of the growth rings that serves as a pathway to the perception of the deepest truth and beauty would not be visible if the tree had not been cut down. 
+My in-box has been filled to the brim since September 11th with accounts of precognitive dreams "predicting" the terrorist attacks. With all of those fascinating dreams, this young woman's dream remains the most interesting and compelling dream I have heard thus far related to the terrorist attacks and the ongoing threat to our collective way of life. It is an "alchemical dream". It turns the worst thing into an occasion for communion with the Divine; it "turns the shit into gold" before our very eyes as we imagine it. It is such a startling dream because it makes it clear that the (archetypal) spiral of the growth rings that serves as a pathway to the perception of the deepest truth and beauty would not be visible if the tree had not been cut down.
 
-At one level, it is a metaphor of doing the psychospiritual work necessary to be a person in whom such a metaphor of healing can rise to consciousness. At another level, it also implies that this experience of the Divine is possible by looking at the "spiral" revealed in the stumps of any of the clear-cut trees. This is not just an exclusive, personal revelation; it is a metaphor of collective transformation of feeling and understanding, potentially available to all. 
+At one level, it is a metaphor of doing the psychospiritual work necessary to be a person in whom such a metaphor of healing can rise to consciousness. At another level, it also implies that this experience of the Divine is possible by looking at the "spiral" revealed in the stumps of any of the clear-cut trees. This is not just an exclusive, personal revelation; it is a metaphor of collective transformation of feeling and understanding, potentially available to all.
 
-This dream is a concrete example of the psychospiritual truth that it is often through our worst wounds and injuries, both individual and collective, that we are opened to the archetypal possibilities of healing, and of more direct communion with the Divine. One does not have to be wounded to be opened to these energies of transcendence, but for those of us who are deeply injured by life, our anguish itself opens us to these profound possibilities. 
+This dream is a concrete example of the psychospiritual truth that it is often through our worst wounds and injuries, both individual and collective, that we are opened to the archetypal possibilities of healing, and of more direct communion with the Divine. One does not have to be wounded to be opened to these energies of transcendence, but for those of us who are deeply injured by life, our anguish itself opens us to these profound possibilities.
 
-My personal conviction, born of more than thirty years of experience doing dreamwork, is that no dreamer would be able to remember such a dream if he/she had not done the requisite personal, interior, psycho-spiritual work to discover and awaken those same archetypal healing energies within. The metaphor the dream offers is so simple, so lucidly clear, even a small child could grasp the paradox without difficulty: the very thing that caused the horror—cutting down the beautiful old forest—is what makes this particular pathway to the experience of the Divine open up and become available. 
+My personal conviction, born of more than thirty years of experience doing dreamwork, is that no dreamer would be able to remember such a dream if he/she had not done the requisite personal, interior, psycho-spiritual work to discover and awaken those same archetypal healing energies within. The metaphor the dream offers is so simple, so lucidly clear, even a small child could grasp the paradox without difficulty: the very thing that caused the horror—cutting down the beautiful old forest—is what makes this particular pathway to the experience of the Divine open up and become available.
 
-This is a potentially healing and transformative dream for all of us. May we each find our way to the recovery and reconciliation promised and implied by our own ability to imagine this dream for ourselves... if only for a moment. Let us all continue to dream our lives forward into the uncertain future with all the courage and creativity that is our birthright, both as Americans born to freedom, and as human beings living together as best we can in the one tragically beautiful world we all share. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This is a potentially healing and transformative dream for all of us. May we each find our way to the recovery and reconciliation promised and implied by our own ability to imagine this dream for ourselves... if only for a moment. Let us all continue to dream our lives forward into the uncertain future with all the courage and creativity that is our birthright, both as Americans born to freedom, and as human beings living together as best we can in the one tragically beautiful world we all share.

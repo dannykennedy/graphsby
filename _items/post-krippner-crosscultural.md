@@ -4,9 +4,10 @@ itemId: bcpov6zfacet
 layout: post
 name: "A 10 Facet Model of Dreaming for Use in Cross-Cultural Studies"
 tags:
-  - hasTag: stanleykrippner
-  - hasAuthor: stanleykrippner
-  - hasTag: 13.1
+    - hasTag: stanleykrippner
+    - hasAuthor: stanleykrippner
+    - hasTag: 13.1
+    - inIssue: 13.1
 type: post
 urlSlug: "a-ten-facet-model-of-dreaming-for-use-in-cross-cultural-studies"
 ---
@@ -135,11 +136,11 @@ This brief discussion illustrates the value of studying dream systems from other
 
 ### References:
 
-- Achterberg, J. (1985). Imagery in Healing: Shamanism and Modern Medicine. Boston: Shambhala.
-- Frank, J.D., & Frank, J.B. (1991). Persuasion and Healing: A Comparative Study of Psychotherapy (3rd ed.). Baltimore: Johns Hopkins University Press.
-- Krippner, S., & Welch, P (1992). Spiritual Dimensions of Healing: From Native Shamanism to Contemporary Health Care. New York: Irvington.
-- Spier, L. (1970). Yuman tribes of the Gila River. New York: Cooper Square Publishers.
-- Torrey, E.F. (1985). Witch Doctors and Psychiatrists: The Common Roots of Psychotherapy and Its Future. New York: Harper and Row.
-- Ullman, M. (1960). The social roots of the dream. American journal of Psychoanalysis, {20}, 180-196.
-- Ullman, M., & Zimmerman, N. (1979). Working with Dreams. Los Angeles: Tarcher.
-- Yenne, B. (1986). The Encyclopedia of North American Indian tribes. Greenwich, CT: Bison Books.
+-   Achterberg, J. (1985). Imagery in Healing: Shamanism and Modern Medicine. Boston: Shambhala.
+-   Frank, J.D., & Frank, J.B. (1991). Persuasion and Healing: A Comparative Study of Psychotherapy (3rd ed.). Baltimore: Johns Hopkins University Press.
+-   Krippner, S., & Welch, P (1992). Spiritual Dimensions of Healing: From Native Shamanism to Contemporary Health Care. New York: Irvington.
+-   Spier, L. (1970). Yuman tribes of the Gila River. New York: Cooper Square Publishers.
+-   Torrey, E.F. (1985). Witch Doctors and Psychiatrists: The Common Roots of Psychotherapy and Its Future. New York: Harper and Row.
+-   Ullman, M. (1960). The social roots of the dream. American journal of Psychoanalysis, {20}, 180-196.
+-   Ullman, M., & Zimmerman, N. (1979). Working with Dreams. Los Angeles: Tarcher.
+-   Yenne, B. (1986). The Encyclopedia of North American Indian tribes. Greenwich, CT: Bison Books.

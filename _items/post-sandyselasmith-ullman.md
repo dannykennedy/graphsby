@@ -8,6 +8,7 @@ tags:
     - hasTag: montagueullman
     - hasAuthor: sandyselasmith
     - hasTag: 19.1
+    - inIssue: 19.1
 type: post
 urlSlug: "the-ullman-method-of-dream-analysis"
 profileImg: post-bcpov6zfacet-1.jpg

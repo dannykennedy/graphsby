@@ -8,6 +8,7 @@ tags:
     - hasTag: annsayrewiseman
     - hasAuthor: kellybulkeley
     - hasTag: 9.2
+    - inIssue: 9.2
 type: post
 urlSlug: "nightmare-help-review"
 profileImg: post-bcpov6kbhelp-0.jpg

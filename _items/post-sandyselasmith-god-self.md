@@ -7,6 +7,7 @@ tags:
     - hasTag: sandyselasmith
     - hasAuthor: sandyselasmith
     - hasTag: 28.1
+    - inIssue: 28.1
 type: post
 urlSlug: "the-god-self-under-the-mask"
 profileImg: post-bcpov6rsgsum-0.jpg

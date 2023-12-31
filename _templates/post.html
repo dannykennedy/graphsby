@@ -77,8 +77,8 @@
             <div class="page-sidebar-section">
                 <h2 class="page-subheading page-subheading-{{loop.index}}">Some other articles by {{author.name}}</h2>
                 <div class="sidebar-cards-area">
-                    {% if author.articles %} {% for cardItem in author.articles %} {% if loop.index <= 5 %} {% include
-                    'sidebar-item-card.html' %} {% endif %} {% endfor %} {% endif %}
+                    {% if author.articles %} {% for cardItem in author.articles %} {% include 'sidebar-item-card.html'
+                    %} {% endfor %} {% endif %}
                 </div>
             </div>
             {% endif %} {% endfor %}
@@ -86,13 +86,14 @@
         {% endif %}
         <!-- Other articles in issue -->
         {% if render_item.otherArticlesInIssue %}
-        <p>there are other articles</p>
         <div class="card sidebar-card">
-            {% for article in render_item.otherArticlesInIssue %}
-
-            <p>{{article.name}}</p>
-
-            {% endfor %}
+            <div class="page-sidebar-section">
+                <h2 class="page-subheading page-subheading-1">
+                    Some other articles in {{render_item.otherArticlesInIssue.issueName}}
+                </h2>
+                {% for cardItem in render_item.otherArticlesInIssue.articles %} {% include 'sidebar-item-card.html' %}
+                {% endfor %}
+            </div>
         </div>
         {% endif %}
         <div class="card sidebar-card">

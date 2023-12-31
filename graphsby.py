@@ -417,7 +417,10 @@ for pyyam in file_objects:
 
 	# Create a tags array (for info about the post)
 	little_tags = []
-	other_articles_in_issue = []
+	other_articles_in_issue = {
+		"issueName": "",
+		"articles": []
+	}
 	authors = []
 	for lil_tag in tag_query:
 
@@ -443,26 +446,40 @@ for pyyam in file_objects:
 			# Find the name of the issue and the other articles in it
 			issue_query_string = """
 				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-				SELECT DISTINCT ?issueName ?articleName
+				SELECT DISTINCT ?issueName ?articleName ?img ?articleId ?stringid
 				WHERE {{
 					?issue dnj:itemId "{issue_id}"^^xsd:string .
 					?article dnj:inIssue ?issue .
 					?article dnj:name ?articleName .
+					?article dnj:itemId ?articleId .
+					?article dnj:handle|dnj:urlSlug ?stringid .
 					?issue dnj:name ?issueName .
+					OPTIONAL {{ ?article dnj:profileImg ?img }}
 				}}""".format(issue_id=tagId, article_id=pyyam["itemId"])
 
 			issue_query = graph.query(issue_query_string)
+
+			# Get issue name
+			issue_name = ""
+			if issue_query:
+				for issue in issue_query:
+					issue_name = issue[0]
+					break
+			other_articles_in_issue.update({"issueName": issue_name})
 
 			for issue in issue_query:
 
 				issue_name = issue[0]
 				article_name = issue[1]
+				article_profile_img = issue[2]
+				article_id = issue[3]
+				article_string_identifier = issue[4]
 
-				print("------------*")
-				print(issue_name)
-				print("------------*")
+				display_profile_img = article_profile_img
+				if article_profile_img is None:
+					display_profile_img = "1.3-sml.jpg"
 
-				other_articles_in_issue.append({"issue_name": issue_name, "name": article_name})
+				other_articles_in_issue["articles"].append({"issue_name": issue_name, "name": article_name, "itemId": article_id, "profileImg": display_profile_img, "string_identifier": article_string_identifier, "url": '../' + article_id + '/' + article_string_identifier, "target": "_self"})
 
 		elif relation == "hasAuthor":
 			author = {"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "articles": []}

@@ -10374,6 +10374,32 @@ ns1:bcpov6z0341e a ns1:Post ;
     ns1:name "Editorial: The Resurrection of DNJ"^^xsd:string ;
     ns1:urlSlug "the-resurrection-of-the-dnj"^^xsd:string .
 
+ns1:bcpov6z0ei28 a ns1:Post ;
+    ns1:dateCreated "2009-04-18T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>In this issue, we present a potpourri of articles which cover a broad range of dreaming and alternate states experience. It feels—now that it’s complete and ready for you—much like my own dreaming as of late. I’ve been a <em>frequent flyer, I've met with Barack Obama in a casual environment, where I had the opportunity to take his face in my hands, look him straight in the eyes and offer strong encouragement and appreciation for the incredible work he and his administration are doing, of seeing an eagle-size hummingbird flying around our yard, talking to me!</em> I wonder ‘What’s the Buzz? I’ve dreamt up troubling issues that have apparently not yet been fully resolved, like last night, dreaming <em>I am still engaged in the struggle to purchase land</em>, a battle my neighbors and I lost 3 years ago, etc. Dreaming is prolific and multileveled at this fruitful time for me. I am so grateful.</p>
+
+<p>Likewise, this issue. <a href="../@ornabenshoshan">Orna Ben-Shoshan</a>, creator of the extraordinary art which you all enjoyed and applauded in our Spring issue, generously shares more of her artwork and — in her lead article — shares information about the many levels of consciousness/reality she accesses in creating her art. She shares information from the Mystical Kabbalah, from science and teaches ‘how to’ access alternate dimensions of reality and parallel worlds; (see pg. 10-12) Karen Rider takes us on an extensive visionary journey in <em>The Parade</em>; (pg. 17) Kellie Meisl and Connie Caldes allow us the honor of sharing two chapters from their newly published <em>Dream Stories</em> (pg. 22 &amp; 24) and so much more! This issue is as varied, unlimited and deeply instructional as are our dreams.</p>
+
+<p>In late June, my partner Michael and I had the privilege of attending the IASD conference in Chicago. Talk about varied! There was a workshop or event to satisfy every dreamer, regardless of their particular interest in this vast field. Dream artists, scientists, researchers, therapists, dreamworkers... all converging and co-mingling cooperatively. I haven’t attended an IASD conference since the mid-90’s, and then as a featured speaker. This year, I went deliberately as a learner and observer.</p>
+
+<p>When I taught and worked for Peninsula College, I had a sign above my desk: “The more I know, the more I know I don’t know”. That attitude.</p>
+
+<p>I can report that the folks who organized the event did an outstanding job; the content, stimulating! An experience well worth having my friends. You can here get acquainted with IASD’s new President, <a href="../@robertwaggoner">Robert Waggoner</a>, who goes beyond lucid dreaming (pg. 28).</p>
+
+<p>IASD is also sponsoring an online “Cyber-Dreaming” conference in late September. (see inside back cover for more information and your consideration)</p>
+
+<p>~ ~ ~</p>
+
+<p>In the last editorial, I mentioned that we were considering going exclusively to online format and asked for input from you. We have published a sampling of the responses received in our ‘Letters’ column. (pgs.6,7) By far, the majority of you prefer to have the print publication in hand. Thanks to each of you who made significant contributions in exchange for gift subscriptions toward making this issue possible! Will each of you reading these words consider gifting Dream Network to interested friends, family, clients and/or dream group members for the upcoming Holiday Season? We will then rise above this “economic downturn” and continue in our work toward ‘Evolving a Dream Cherishing Culture’.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3ossa ;
+    ns1:hasTag ns1:bcphbq3ossa,
+        ns1:bcphbygiw4g ;
+    ns1:itemId "bcpov6z0ei28"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Editorial: Issue 28.2-3"^^xsd:string ;
+    ns1:urlSlug "editorial-issue-28-2-3"^^xsd:string .
+
 ns1:bcpov6zaizer a ns1:Post ;
     ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="https://www.goodreads.com/book/show/12310352-dream-tending"></p>
@@ -11835,12 +11861,12 @@ ns1:bcpov6zfafld a ns1:Post ;
 
 <p>I requested (through DNB) people to write about their first lucid dream and how it may have foreshadowed later lucid dream development. Thankfully, a few brave and generous souls wrote back, and these are their responses. (I have made some speculations on the dream content to prompt the reader to think of their own first lucid dream and its possible symbolic content).</p>
 
-<p><strong>Linda Tagllaferro, New York</strong></p>
+<p><strong>Linda Tagilaferro, New York</strong></p>
 
 <p>About four years after reading Carlos Castaneda's book, Linda had her first lucid dream:</p>
 
 <blockquote>
-  <p><em>In the dream, I was in a marketplace, possibly in Morocco. It was early morning, possibly about 6 a.m. No one was there yet. I was alone and lost, and the merchants were not to come for a long time. Suddenly I realized that I could <strong>enjoy</strong> myself by walking around. And I did. Soon after, a large truck was speeding in my direction. Again, I said to myself, This is just a dream and I defiantly threw myself in front of the truck. The driver swerved just at the last minute, parked his truck and angrily came out to talk to me. After a short period of fearing his anger, I again reminded myself that this was a dream, and I calmly faced him. When I woke up, I had a tremendous feeling of peace and power.</em></p>
+  <p><em>In the dream, I was in a marketplace, possibly in Morocco. It was early morning, possibly about 6 a.m. No one was there yet. I was alone and lost, and the merchants were not to come for a long time. Suddenly I realized that I could <strong>enjoy</strong> myself by walking around. And I did. Soon after, a large truck was speeding in my direction. Again, I said to myself, <strong>this is just a dream</strong> and I defiantly threw myself in front of the truck. The driver swerved just at the last minute, parked his truck and angrily came out to talk to me. After a short period of fearing his anger, I again reminded myself that this was a dream, and I calmly faced him. When I woke up, I had a tremendous feeling of peace and power.</em></p>
 </blockquote>
 
 <p>It is interesting to see in Linda's first lucid dream that she is in a foreign country in the morning. In some respects, the setting may symbolically parallel the "foreign" exotic nature of lucid dreams. Speculating further, the early morning may be indicative of the early development of lucid dreaming for her, suggesting more lucid dreams in the future. On an emotional level, the recognition of lucidity inspires a feeling of joy and adventure, followed by the power and resolve to make a truck move and stand up to an angry driver.</p>
@@ -18806,20 +18832,6 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.1"^^xsd:string .
 
-ns1:bcphbygiw4g a ns1:Post ;
-    ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqochapy2 ;
-    ns1:itemId "bcphbygiw4g"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
-    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "28.2-3"^^xsd:string .
-
 ns1:bcpov6pnotb a ns1:Post ;
     ns1:dateCreated "2005-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>This page is for dream-related notices! Email us at hello@dreamnetworkjournal.com if you'd like to put something here. </p>
@@ -18990,6 +19002,20 @@ ns1:bcphbssmith a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Sandy Sela-Smith"^^xsd:string ;
     ns1:profileImg "author-sandy-sela-smith.jpg"^^xsd:string .
+
+ns1:bcphbygiw4g a ns1:Post ;
+    ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
+    ns1:itemId "bcphbygiw4g"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
+    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "28.2-3"^^xsd:string .
 
 ns1:bcphbyukqzw a ns1:Post ;
     ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
@@ -19320,41 +19346,6 @@ ns1:bcphbq3ferr a ns1:User ;
     ns1:name "Brenda Ferrimani"^^xsd:string ;
     ns1:profileImg "author-brendaferrimani.jpg"^^xsd:string .
 
-ns1:bcphbq3ossa a ns1:User ;
-    ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
-
-<p>The event that marked my starting point appeared in the form of a technicolor, stereophonic sound, full length movie-like dream which was the first of its kind in my experience. Its power and beauty were such that I recorded it, not knowing why at the time.</p>
-
-<p>Many other dreams followed, compelling enough that I started journaling regularly and began reading what related literature I could find. But it wasn't until that particular dream took the form of an actual event several years later that I got deeply involved.</p>
-
-<p>This dream occurred during summer 1975 and in it,</p>
-
-<p><em>I find myself in a community center (which in waking life housed the office in which I was working). In every room of this building are people participating in an amazing variety of artistic activities: dancers, singers, musicians, artists...</em></p>
-
-<p>The energy in the dream and afterward was exhilarating!</p>
-
-<p>In the Autumn of l980, the mayor of my community, in his weekly column in the local newspaper, cast an open invitation for "someone" in the community to coordinate an event. I considered accepting that invitation by calling together a group of colleagues to brainstorm ideas and as that process was unfolding, ideas and images were being put forth from members of the group which formed in my mind's eye a clear memory of the above-mentioned dream. To the group I exclaimed "My God, this reminds me of a dream I had five years ago!" One person responded immediately: "Then we've got to do it!"</p>
-
-<p>The program was scheduled, very well attended... and I found myself presiding over a virtual re-enactment of the dream in full detail. It was the ever-sought-after experience of Being at the intersection between the dreamworld and daytime 'reality.' The occasion for this event was the 35th anniversary of the United Nations.</p>
-
-<p>By the way, the photo (above) was taken during that event:</p>
-
-<p>A Dream Come True! Can you tell?</p>
-
-<p><em>"To live mythically is to seek guidance from your dreams, imagination, and other reflections of your inner being, as well as from the most inspiring people, practices, and institutions of your society.</em></p>
-
-<p><em>To live mythically is also to cultivate an ever-deepening relationship with the universe and its great mysteries."</em></p>
-
-<p><a href="../@davidfeinstein">David Feinstein</a> &amp; <a href="../@stanleykrippner">Stanley Krippner</a>, Personal Mythology</p>
-
-<p>(Jeremy Tarcher, LA CA 1988 ) p. 1</p>
-"""^^xsd:string ;
-    ns1:handle "robertaossana"^^xsd:string ;
-    ns1:itemId "bcphbq3ossa"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Roberta Ossana"^^xsd:string ;
-    ns1:profileImg "roberta_ossana.png"^^xsd:string .
-
 ns1:bcphbqskoff a ns1:User ;
     ns1:coverImg "cover-author-deborahkoffchapin.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://touchdrawing.com/">touchdrawing.com</a></p>
@@ -19409,6 +19400,41 @@ ns1:bcphbqvreed a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Henry Reed"^^xsd:string ;
     ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
+
+ns1:bcphbq3ossa a ns1:User ;
+    ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
+
+<p>The event that marked my starting point appeared in the form of a technicolor, stereophonic sound, full length movie-like dream which was the first of its kind in my experience. Its power and beauty were such that I recorded it, not knowing why at the time.</p>
+
+<p>Many other dreams followed, compelling enough that I started journaling regularly and began reading what related literature I could find. But it wasn't until that particular dream took the form of an actual event several years later that I got deeply involved.</p>
+
+<p>This dream occurred during summer 1975 and in it,</p>
+
+<p><em>I find myself in a community center (which in waking life housed the office in which I was working). In every room of this building are people participating in an amazing variety of artistic activities: dancers, singers, musicians, artists...</em></p>
+
+<p>The energy in the dream and afterward was exhilarating!</p>
+
+<p>In the Autumn of l980, the mayor of my community, in his weekly column in the local newspaper, cast an open invitation for "someone" in the community to coordinate an event. I considered accepting that invitation by calling together a group of colleagues to brainstorm ideas and as that process was unfolding, ideas and images were being put forth from members of the group which formed in my mind's eye a clear memory of the above-mentioned dream. To the group I exclaimed "My God, this reminds me of a dream I had five years ago!" One person responded immediately: "Then we've got to do it!"</p>
+
+<p>The program was scheduled, very well attended... and I found myself presiding over a virtual re-enactment of the dream in full detail. It was the ever-sought-after experience of Being at the intersection between the dreamworld and daytime 'reality.' The occasion for this event was the 35th anniversary of the United Nations.</p>
+
+<p>By the way, the photo (above) was taken during that event:</p>
+
+<p>A Dream Come True! Can you tell?</p>
+
+<p><em>"To live mythically is to seek guidance from your dreams, imagination, and other reflections of your inner being, as well as from the most inspiring people, practices, and institutions of your society.</em></p>
+
+<p><em>To live mythically is also to cultivate an ever-deepening relationship with the universe and its great mysteries."</em></p>
+
+<p><a href="../@davidfeinstein">David Feinstein</a> &amp; <a href="../@stanleykrippner">Stanley Krippner</a>, Personal Mythology</p>
+
+<p>(Jeremy Tarcher, LA CA 1988 ) p. 1</p>
+"""^^xsd:string ;
+    ns1:handle "robertaossana"^^xsd:string ;
+    ns1:itemId "bcphbq3ossa"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Roberta Ossana"^^xsd:string ;
+    ns1:profileImg "roberta_ossana.png"^^xsd:string .
 
 ns1:bcphbqsorna a ns1:User ;
     ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;

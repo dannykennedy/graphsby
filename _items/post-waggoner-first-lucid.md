@@ -27,11 +27,11 @@ After talking with my teenage friends who went on to have their own first lucid 
 
 I requested (through DNB) people to write about their first lucid dream and how it may have foreshadowed later lucid dream development. Thankfully, a few brave and generous souls wrote back, and these are their responses. (I have made some speculations on the dream content to prompt the reader to think of their own first lucid dream and its possible symbolic content).
 
-**Linda Tagllaferro, New York**
+**Linda Tagilaferro, New York**
 
 About four years after reading Carlos Castaneda's book, Linda had her first lucid dream:
 
-> _In the dream, I was in a marketplace, possibly in Morocco. It was early morning, possibly about 6 a.m. No one was there yet. I was alone and lost, and the merchants were not to come for a long time. Suddenly I realized that I could **enjoy** myself by walking around. And I did. Soon after, a large truck was speeding in my direction. Again, I said to myself, This is just a dream and I defiantly threw myself in front of the truck. The driver swerved just at the last minute, parked his truck and angrily came out to talk to me. After a short period of fearing his anger, I again reminded myself that this was a dream, and I calmly faced him. When I woke up, I had a tremendous feeling of peace and power._
+> _In the dream, I was in a marketplace, possibly in Morocco. It was early morning, possibly about 6 a.m. No one was there yet. I was alone and lost, and the merchants were not to come for a long time. Suddenly I realized that I could **enjoy** myself by walking around. And I did. Soon after, a large truck was speeding in my direction. Again, I said to myself, **this is just a dream** and I defiantly threw myself in front of the truck. The driver swerved just at the last minute, parked his truck and angrily came out to talk to me. After a short period of fearing his anger, I again reminded myself that this was a dream, and I calmly faced him. When I woke up, I had a tremendous feeling of peace and power._
 
 It is interesting to see in Linda's first lucid dream that she is in a foreign country in the morning. In some respects, the setting may symbolically parallel the "foreign" exotic nature of lucid dreams. Speculating further, the early morning may be indicative of the early development of lucid dreaming for her, suggesting more lucid dreams in the future. On an emotional level, the recognition of lucidity inspires a feeling of joy and adventure, followed by the power and resolve to make a truck move and stand up to an angry driver.
 

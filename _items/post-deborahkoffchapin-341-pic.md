@@ -4,9 +4,10 @@ itemId: bcpov6gid34p
 layout: post
 name: "Touch Drawing"
 tags:
- - hasTag: deborahkoffchapin
- - hasAuthor: deborahkoffchapin
- - hasTag: 34.1
+    - hasTag: deborahkoffchapin
+    - hasAuthor: deborahkoffchapin
+    - hasTag: 34.1
+    - inIssue: 34.1
 type: post
 urlSlug: "touch-drawing"
 profileImg: image-bcpov6gid34p-1.jpg

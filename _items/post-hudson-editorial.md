@@ -7,6 +7,7 @@ tags:
     - hasTag: chrishudson
     - hasAuthor: chrishudson
     - hasTag: 3.4
+    - inIssue: 3.4
 type: post
 urlSlug: "editorial"
 ---

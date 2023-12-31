@@ -7,6 +7,7 @@ tags:
     - hasTag: faribabogzaran
     - hasAuthor: faribabogzaran
     - hasTag: 22.2
+    - inIssue: 22.2
 type: post
 urlSlug: holistic-dream-studies-in-academia
 ---

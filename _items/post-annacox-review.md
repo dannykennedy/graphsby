@@ -4,9 +4,9 @@ itemId: bcpov6gkrev2
 layout: post
 name: "This wonderful story invites us into our own mysteries and our own healing"
 tags:
- - hasTag: annacox
- - hasTag: kathymartone
- - hasAuthor: annacox
+    - hasTag: annacox
+    - hasTag: kathymartone
+    - hasAuthor: annacox
 type: post
 urlSlug: "victorian-songlight-book-review-anna-cox"
 profileImg: post-bcpov6grkrev-0.jpg
@@ -24,4 +24,3 @@ And yet she lives her story with others as so many of us do. She manifests her i
 For all men and women alike, this story educates and stirs us all awake out of our unique darkness and into our light.
 
 All the way through, this is an entertaining and engrossing story but - not to be a spoiler - there is a delightful surprise ending that is a great gift of liberation.
-

@@ -7,6 +7,7 @@ tags:
     - hasTag: edwardbrucebynum
     - hasAuthor: edwardbrucebynum
     - hasTag: 4.2
+    - inIssue: 4.2
     - featuredIn: dreamnetwork
 type: post
 urlSlug: "psi-the-shared-dreamscape-and-the-family-unconscious"

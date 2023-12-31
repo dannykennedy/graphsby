@@ -7,6 +7,7 @@ tags:
     - hasTag: ritadwyer
     - hasAuthor: ritadwyer
     - hasTag: 22.2
+    - inIssue: 22.2
 type: post
 urlSlug: "dream-cherishing-culture"
 profileImg: post-bcpov6kchers-0.jpg

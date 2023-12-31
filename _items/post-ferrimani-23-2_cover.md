@@ -4,9 +4,10 @@ itemId: bcpov6gii232
 layout: post
 name: "The Silver Tool"
 tags:
- - hasTag: brendaferrimani
- - hasAuthor: brendaferrimani
- - hasTag: 23.2
+    - hasTag: brendaferrimani
+    - hasAuthor: brendaferrimani
+    - hasTag: 23.2
+    - inIssue: 23.2
 type: post
 urlSlug: "brendaferrimani-dnj-23-2_cover"
 profileImg: post-bcpov6grsilv-4.jpg
@@ -17,4 +18,4 @@ profileImg: post-bcpov6grsilv-4.jpg
 
 This painting was featured on the cover of Volume 23, #2 of the Dream Network Journal.
 
-> *Silver Tool depicts a dream of the artist in which she was drawing worlds with a Silver Tool. The spheres each contain energy of the planes of expression, the spiritual, the mental, emotional and physical. The Silver Tool is about imagination and inspiration and how they manifest in our world.* - [brendaferrimanidreamart.com](https://brendaferrimanidreamart.com/art/shop/)
+> _Silver Tool depicts a dream of the artist in which she was drawing worlds with a Silver Tool. The spheres each contain energy of the planes of expression, the spiritual, the mental, emotional and physical. The Silver Tool is about imagination and inspiration and how they manifest in our world._ - [brendaferrimanidreamart.com](https://brendaferrimanidreamart.com/art/shop/)

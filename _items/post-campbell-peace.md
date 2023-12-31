@@ -7,6 +7,7 @@ tags:
     - hasTag: jeancampbell
     - hasAuthor: jeancampbell
     - hasTag: 22.2
+    - inIssue: 22.2
     - featuredIn: dreamnetwork
 type: post
 urlSlug: can-the-world-dream-peace

@@ -7,6 +7,7 @@ tags:
     - hasTag: curtisshoffman
     - hasAuthor: curtisshoffman
     - hasTag: 19.1
+    - inIssue: 19.1
 type: post
 urlSlug: denver-broncos
 profileImg: post-hoffman-broncos-img.jpg

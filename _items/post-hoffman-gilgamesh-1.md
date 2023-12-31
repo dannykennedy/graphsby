@@ -7,6 +7,7 @@ tags:
     - hasTag: curtisshoffman
     - hasAuthor: curtisshoffman
     - hasTag: 30.4
+    - inIssue: 30.4
 type: post
 urlSlug: the-gilgamesh-cantata-a-personal-exploration-of-dreams-and-music-1
 profileImg: post-bcpov6zfgil1-0.jpg

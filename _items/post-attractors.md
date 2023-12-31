@@ -4,9 +4,10 @@ itemId: bcpov6zchaot
 layout: post
 name: "Chaotic Attractors in Myth: Stories told by the Kariri-Xuco Indians"
 tags:
-  - hasTag: stanleykrippner
-  - hasAuthor: stanleykrippner
-  - hasTag: 17.1
+    - hasTag: stanleykrippner
+    - hasAuthor: stanleykrippner
+    - hasTag: 17.1
+    - inIssue: 17.1
 type: post
 urlSlug: "chaotic-attractors-in-myth-stories-told-by-the-kariri-xuco-indians"
 profileImg: post-bcpov6zchaot-0.jpg

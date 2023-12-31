@@ -417,6 +417,7 @@ for pyyam in file_objects:
 
 	# Create a tags array (for info about the post)
 	little_tags = []
+	other_articles_in_issue = []
 	authors = []
 	for lil_tag in tag_query:
 
@@ -438,6 +439,31 @@ for pyyam in file_objects:
 
 		if relation == "hasTag":
 			little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
+		elif relation == "inIssue":
+			# Find the name of the issue and the other articles in it
+			issue_query_string = """
+				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+				SELECT DISTINCT ?issueName ?articleName
+				WHERE {{
+					?issue dnj:itemId "{issue_id}"^^xsd:string .
+					?article dnj:inIssue ?issue .
+					?article dnj:name ?articleName .
+					?issue dnj:name ?issueName .
+				}}""".format(issue_id=tagId, article_id=pyyam["itemId"])
+
+			issue_query = graph.query(issue_query_string)
+
+			for issue in issue_query:
+
+				issue_name = issue[0]
+				article_name = issue[1]
+
+				print("------------*")
+				print(issue_name)
+				print("------------*")
+
+				other_articles_in_issue.append({"issue_name": issue_name, "name": article_name})
+
 		elif relation == "hasAuthor":
 			author = {"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "articles": []}
 			
@@ -476,6 +502,7 @@ for pyyam in file_objects:
 			authors.append(author)
 
 	pyyam["authors"] = authors
+	pyyam["otherArticlesInIssue"] = other_articles_in_issue
 	pyyam["tags"] = little_tags
 
 	if "dateCreated" in pyyam.keys():

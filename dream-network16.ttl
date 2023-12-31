@@ -16341,6 +16341,10 @@ ns1:hasTag a owl:ObjectProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range ns1:Item .
 
+ns1:inIssue a owl:ObjectProperty ;
+    rdfs:domain ns1:Post ;
+    rdfs:range ns1:Item .
+
 ns1:itemId a owl:DatatypeProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range xsd:integer .
@@ -19531,8 +19535,6 @@ ns1:bcphbygiw4g a ns1:Post ;
     ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.2-3"^^xsd:string .
 
-ns1:Item a owl:Class .
-
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
     ns1:description """<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
@@ -19550,6 +19552,8 @@ ns1:bcphbqvstim a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "William R. Stimson"^^xsd:string ;
     ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
+
+ns1:Item a owl:Class .
 
 ns1:bcphbq3krip a ns1:User ;
     ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>

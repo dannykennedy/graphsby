@@ -84,6 +84,17 @@
             {% endif %} {% endfor %}
         </div>
         {% endif %}
+        <!-- Other articles in issue -->
+        {% if render_item.otherArticlesInIssue %}
+        <p>there are other articles</p>
+        <div class="card sidebar-card">
+            {% for article in render_item.otherArticlesInIssue %}
+
+            <p>{{article.name}}</p>
+
+            {% endfor %}
+        </div>
+        {% endif %}
         <div class="card sidebar-card">
             <h2 class="page-subheading page-subheading-1">Website supporters (external links)</h2>
             {% if render_item.supporters %} {% for cardItem in render_item.supporters %} {% include

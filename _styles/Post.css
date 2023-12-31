@@ -56,7 +56,7 @@
 
 .sidebar-card {
     margin-bottom: 1rem;
-    padding: 2rem 1rem;
+    padding: 2rem 1rem 1rem 1rem;
 }
 
 .page-sidebar a {
@@ -125,6 +125,26 @@ a.sidebar-item-card-description {
     font-size: 0.85rem;
     margin-top: 2rem;
     margin-bottom: 0px;
+}
+
+.sidebar-item-card-wrapper.hide {
+    display: none;
+}
+
+.show-more-button-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.show-more-button {
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 2px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 100;
+    font-size: 1rem;
+    cursor: pointer;
 }
 
 /* Tablet/small laptop styles */

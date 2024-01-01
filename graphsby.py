@@ -5,7 +5,7 @@
 #########
 
 # Libraries
-import os, sys, re, jinja2, calendar, html5lib, shutil
+import os, sys, re, jinja2, calendar, html5lib, shutil, random
 # import dateutil.parser # For converting xsd:datetime to something sensible
 from rdflib import Namespace, Literal, ConjunctiveGraph
 from pathlib import Path
@@ -86,6 +86,15 @@ Path(fonts_folderpath).mkdir(parents=True, exist_ok=True)
 Path(fonts_folderpath2).mkdir(parents=True, exist_ok=True)
 copytree(cwd + "/fonts/", cwd + build_folder + "/styles/fonts")
 copytree(cwd + "/fonts/", cwd + build_folder + "/fonts")
+
+# Random images to assign if there's no article image
+random_imgs = [
+	"1.3-sml.jpg",
+	"1.2-sml.jpg",
+	"1.5-sml.jpg",
+	"1.8-sml.jpg",
+	"2.4-sml.jpg",
+]
 
 # TODO: Files
 
@@ -477,7 +486,8 @@ for pyyam in file_objects:
 
 				display_profile_img = article_profile_img
 				if article_profile_img is None:
-					display_profile_img = "1.3-sml.jpg"
+					# Choose a random image for the display_profile_img
+					display_profile_img = random_imgs[random.randint(0, len(random_imgs) - 1)]
 
 				# If it's not the current article, add it to the list of other articles in the issue
 				if article_id != pyyam["itemId"]:
@@ -513,7 +523,8 @@ for pyyam in file_objects:
 
 				display_profile_img = article_profile_img
 				if article_profile_img is None:
-					display_profile_img = "1.3-sml.jpg"
+					# Choose a random image for the display_profile_img
+					display_profile_img = random_imgs[random.randint(0, len(random_imgs) - 1)]
 
 				if article_id != pyyam["itemId"]:
 					author["articles"].append({"name": article_name, "itemId": article_id, "profileImg": display_profile_img, "string_identifier": article_string_identifier, "url": '../' + article_id + '/' + article_string_identifier, "target": "_self"})

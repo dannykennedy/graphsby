@@ -14,6 +14,10 @@ urlSlug: "the-joy-of-dream-groups"
 profileImg: "vlach-bw-portrait.jpg"
 ---
 
+<img src="../images/vlach-bw-portrait.jpg" width="300" height="auto" alt="Victoria Vlach"/>
+<!--nopreview--><div class="caption" style="text-align: center;"><i>Victoria Vlach</i></div><!--/nopreview-->
+<br/>
+
 I get excited about dreams. I like to talk about dreams and explore dreams and dreamstates.
 
 In those first early groups (of the 1980’s), I quickly discovered that people were hungry for information about their dreams. They usually came with the question ‘What does it mean?’, looking for a specific, concrete interpretation of their dreams. At the time, the concept that dreams were mysterious and needed an expert who could interpret them was still very strong. I wanted to share what I knew, but I didn’t want to be the ‘expert’ that ‘interpreted’ dreams – that approach too often takes the power of the dream away from the dreamer and I wanted to help people understand their dreams from the inside. What expertise I had came simply from being a bit further along the path, having a few more tools and resources, and the experience of working with my own dreams. I wanted to connect the heart and the whole body to dreams, as well as the head. And so, like many dreamworkers, I do not ‘interpret’ dreams. What I do is offer some tools, some techniques, some resources, maybe ask a few questions and make a few suggestions along the way – always mindful that an engaged dreamer is an active dreamer, and when a dreamer is actively engaged, the dream unfolds **for the dreamer from the inside**. The connection, the ‘ah ha’, is more deeply felt when it comes from within the dreamer. But you already know this.

@@ -166,5 +166,6 @@ a.sidebar-item-card-description {
         margin-right: 0px;
         margin-left: 0px;
         margin-top: 0rem;
+        max-width: 100%;
     }
 }

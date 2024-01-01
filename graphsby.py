@@ -487,7 +487,10 @@ for pyyam in file_objects:
 				display_profile_img = article_profile_img
 				if article_profile_img is None:
 					# Choose a random image for the display_profile_img
-					display_profile_img = random_imgs[random.randint(0, len(random_imgs) - 1)]
+					# Based on the article name % length of random_imgs
+					# This way, the same article will always have the same image
+					# But it will be random for each article
+					display_profile_img = random_imgs[len(article_name) % len(random_imgs)]
 
 				# If it's not the current article, add it to the list of other articles in the issue
 				if article_id != pyyam["itemId"]:
@@ -524,7 +527,7 @@ for pyyam in file_objects:
 				display_profile_img = article_profile_img
 				if article_profile_img is None:
 					# Choose a random image for the display_profile_img
-					display_profile_img = random_imgs[random.randint(0, len(random_imgs) - 1)]
+					display_profile_img = random_imgs[len(article_name) % len(random_imgs)]
 
 				if article_id != pyyam["itemId"]:
 					author["articles"].append({"name": article_name, "itemId": article_id, "profileImg": display_profile_img, "string_identifier": article_string_identifier, "url": '../' + article_id + '/' + article_string_identifier, "target": "_self"})

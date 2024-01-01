@@ -78,7 +78,7 @@
         <!-- If the author has articles -->
         {% if author.articles|length > 0 %}
         <div class="card sidebar-card">
-            <h2 class="page-subheading page-subheading-{{loop.index}}">Other articles by {{author.name}}</h2>
+            <h2 class="page-subheading page-subheading">Other articles by {{author.name}}</h2>
             {% if author.articles %} {% for cardItem in author.articles %}
             <div
                 class="sidebar-item-card-wrapper card-number-{{loop.index}} {% if loop.index > 2 %}hide{% else %}show{% endif %}"
@@ -93,7 +93,7 @@
         <!-- Other articles in issue -->
         {% if render_item.otherArticlesInIssue %} {% if render_item.otherArticlesInIssue.articles|length > 0 %}
         <div class="card sidebar-card">
-            <h2 class="page-subheading page-subheading-1">
+            <h2 class="page-subheading page-subheading">
                 Other articles in {{render_item.otherArticlesInIssue.issueName}}
             </h2>
             {% for cardItem in render_item.otherArticlesInIssue.articles %}
@@ -109,7 +109,7 @@
         </div>
         {% endif %} {% endif %}
         <div class="card sidebar-card">
-            <h2 class="page-subheading page-subheading-1">Website supporters (external links)</h2>
+            <h2 class="page-subheading page-subheading">Website supporters (external links)</h2>
             {% if render_item.supporters %} {% for cardItem in render_item.supporters %}
             <div class="sidebar-item-card-wrapper card-number-{{loop.index}}">
                 {% include 'sidebar-item-card.html' %}

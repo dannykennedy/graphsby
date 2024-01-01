@@ -64,11 +64,6 @@
 }
 
 .page-sidebar .page-subheading {
-    margin-top: 3rem;
-}
-
-/* First heading doesn't need top margin */
-.page-sidebar .page-subheading.page-subheading-1 {
     margin-top: 0px;
 }
 

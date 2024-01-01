@@ -404,20 +404,6 @@ ns1:bcphbope3kf a ns1:Post ;
     ns1:profileImg "9.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "9.3"^^xsd:string .
 
-ns1:bcphbovuijt a ns1:Post ;
-    ns1:coverImg "9.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1990-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.4-Dream-Network-Journal-Vol-9-No-4.pdf" download="">Download issue 9.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.4-Dream-Network-Journal-Vol-9-No-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoanijcm ;
-    ns1:itemId "bcphbovuijt"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 9, issue 4: Dreams as Gateways to the 'Other Side'"^^xsd:string ;
-    ns1:profileImg "9.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "9.4"^^xsd:string .
-
 ns1:bcphbp7rfno a ns1:Post ;
     ns1:coverImg "11.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1992-10-01T11:32:52"^^xsd:dateTime ;
@@ -10494,6 +10480,81 @@ ns1:bcpov6z0341e a ns1:Post ;
     ns1:name "Editorial: The Resurrection of DNJ"^^xsd:string ;
     ns1:urlSlug "the-resurrection-of-the-dnj"^^xsd:string .
 
+ns1:bcpov6z0e214 a ns1:Post ;
+    ns1:dateCreated "2002-10-18T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><strong>What is the Dream Movement?</strong> One could write an entire book in answer to that question. But then, it could be summed up with these five brilliant, yet simple words gifted the 'movement' by <a href="../@montagueullman">Monte Ullman</a>: "If it were my dream..." Those words typify the movement, the 'socialization' of dreams. The movement from sharing dreams almost exclusively in a therapeutic setting to dreamsharing with friends, in groups, even on the beach or in line at the grocery store. As <a href="../@robertmoss">Robert Moss</a> so accurately <a href="../bcpov6kheart/dreaming-our-way-to-the-heart-of-the-world">states in his article</a>, "...the 'if-it-were-my-dream' protocol for commenting on someone else's dream developed by Montague Ullman, has been a tremendous gift to dreamworkers all over the map."</p>
+
+<p>Thank you, Monte. Please consider this issue one heartfelt tribute to your incredible contribution. Visualize hands clapping and hats tipping to you and surrounding your picture on page 16. They're there!</p>
+
+<p>In a talk I gave a few years ago on dreams and <em>Dream Network Journal</em>, the following was part of the presentation, if I may quote myself:</p>
+
+<blockquote>
+  <p><em>"We have learned that dreams... can be incubated to solve problems, answer questions, provide guidance</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>Dreams often provide timely warnings for ourselves or for another.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>Provide insight! Bring darkness into light.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>Dreams... Awaken us. Frighten us. Shake us up. Puzzle and perplex us.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>Allow us to awaken within them and, if we are inclined, control them.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>In dreams, we can meet together in the Dreamtime reality... a time and space beyond time-place. In dreams, we can FLY! Or Die... and Be Reborn</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>DREAMS... Show us the future, shed light on the past... even past lives.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>We Know dreams are essential and vital tools in therapy, yet they can be engaged in silence, in our journals, with our spouse, our children, our neighbors, in dream groups... because we know that we all dream, every night.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>In dreams, we are often prepared for the death of a loved one, and There!... is provision of ground for contact with them from the 'other side'.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>Dreams are known to have been the catalyst for authoring books, composing music, creating new inventions, inspiring poetry, creating art &amp; sculptings.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>Dreams Prophesy, they Are Spirit's way of speaking to us... Dreams... HEAL.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>Dreams... REVEAL."</em></p>
+</blockquote>
+
+<p>So, where have we been and where are we headed in terms of 'Evolving a Dream Cherishing Culture?' Three+ decades ago, when my own dreams began inspiring and beguiling my attention, there was very little information available to help me understand what was happening, what was being communicated. Though what I shared (above) is brief, there is considerable insight in those few words, gained primarily because the information is there for us, now, and dreams <em>are</em> becoming recognized as a valuable part of our being, of our lives.</p>
+
+<p>As is mentioned throughout this issue, there are organizations, groups, books, publications, movies, etc., that are helping us individually and collectively... but in the final analysis, it is what we each do with the ingenious content presented to us in our dreams that counts. Whether we share with a friend, in a group, in therapy—or simply hold the images/story in mind until the signs and synchronicities in our everyday lives provide the hint or confirmation—dreams <em>are</em> becoming an accepted, and expected, part of our lives and culture. The vast number of people who have been becoming aware of the many functions dreams serve on an every day/every night basis has increased considerably over the past few decades and it is to people—like those contributing to this issue—that credit is to be given. They are among the pioneers in western culture. This, for me, <em>is</em> the Dream Movement.</p>
+
+<p>This publication has been filled for over twenty years with accounts of how dreams have changed and inspired individual lives and I am so grateful to have contributed. This issue contains the voices of many individuals actively involved in achieving our common goal. To each contributor, our gratitude for the experience and knowledge shared, the time and thought given.</p>
+
+<p>Appreciation to <a href="../@janicebaylis">Janice Baylis</a> for her four+-year-old contribution/column "Dreaming Insights Into Relationships, which concludes with this issue. Watch for a compilation of these priceless articles in her new booklet, coming soon. Especial thanks to our Advertisers, past, present and future and to you, readers, a special request to support their work; we need to support one another because regardless of progress made to date, we have a long way to go! To all Regional/Contact Dreamworkers (p. 48), sincere gratitude for offering your services and expertise so willingly.</p>
+
+<p>For giving gift subscriptions and generous contributions, gratitude to Sally Burgin, <a href="../@ritadwyer">Rita Dwyer</a>, Allen Flagg, Mary Flaten, Edith Gilmore, Brooke Heartsong, <a href="../@curtisshoffman">Curtiss Hoffman</a>, Dean McClanahan, Frank Stefano, Rosemary Watts, Noreen Wessling and Leon Van Leeuwen, You... and many others too numerous to mention. Your generous support makes it possible to continue this work. My love to you all.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3ossa ;
+    ns1:hasTag ns1:bcphbq3ossa,
+        ns1:bcphbvecgmx ;
+    ns1:inIssue ns1:bcphbvecgmx ;
+    ns1:itemId "bcpov6z0e214"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Editorial: Issue 21.4"^^xsd:string ;
+    ns1:urlSlug "editorial-issue-21-4--22-1"^^xsd:string .
+
 ns1:bcpov6z0ei28 a ns1:Post ;
     ns1:dateCreated "2009-04-18T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>In this issue, we present a potpourri of articles which cover a broad range of dreaming and alternate states experience. It feels—now that it’s complete and ready for you—much like my own dreaming as of late. I’ve been a <em>frequent flyer, I've met with Barack Obama in a casual environment, where I had the opportunity to take his face in my hands, look him straight in the eyes and offer strong encouragement and appreciation for the incredible work he and his administration are doing, of seeing an eagle-size hummingbird flying around our yard, talking to me!</em> I wonder ‘What’s the Buzz? I’ve dreamt up troubling issues that have apparently not yet been fully resolved, like last night, dreaming <em>I am still engaged in the struggle to purchase land</em>, a battle my neighbors and I lost 3 years ago, etc. Dreaming is prolific and multileveled at this fruitful time for me. I am so grateful.</p>
@@ -10559,9 +10620,9 @@ ns1:bcpov6z0ei94 a ns1:Post ;
 <p>Now it is time for the Autumn harvest. My prayer is that this fruit will revitalize us and elevate the manner in which we regard one another during this (embodied) phase of the mystery. Network consciously and peacefully.</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3ossa ;
-    ns1:hasTag ns1:bcphbq3ossa,
-        ns1:bcphbygiw4g ;
-    ns1:inIssue ns1:bcphbygiw4g ;
+    ns1:hasTag ns1:bcphbovuijt,
+        ns1:bcphbq3ossa ;
+    ns1:inIssue ns1:bcphbovuijt ;
     ns1:itemId "bcpov6z0ei94"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Editorial: Issue 9.4"^^xsd:string ;
@@ -16848,6 +16909,20 @@ ns1:bcphbnagfeb a ns1:Post ;
     ns1:profileImg "6.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.3"^^xsd:string .
 
+ns1:bcphbovuijt a ns1:Post ;
+    ns1:coverImg "9.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1990-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.4-Dream-Network-Journal-Vol-9-No-4.pdf" download="">Download issue 9.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.4-Dream-Network-Journal-Vol-9-No-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoanijcm ;
+    ns1:itemId "bcphbovuijt"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 9, issue 4: Dreams as Gateways to the 'Other Side'"^^xsd:string ;
+    ns1:profileImg "9.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "9.4"^^xsd:string .
+
 ns1:bcphbq3acox a ns1:User ;
     ns1:description """<p>Anna Cox, ACSW,  was a psychotherapist in Arkansas for over 50 years. She is a Buddhist practitioner and began a healing program for those in prisons in 1994, <a href="https://www.alignable.com/little-rock-ar/compassion-works-for-all">Compassion Works for All</a>, which is on-going throughout Arkansas and in many states' prisons. </p>
 """^^xsd:string ;
@@ -18290,20 +18365,6 @@ ns1:bcphbv3fbuv a ns1:Post ;
     ns1:profileImg "23.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "23.1"^^xsd:string .
 
-ns1:bcphbvecgmx a ns1:Post ;
-    ns1:coverImg "21.4-22.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2002-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.4-22-1_evolution.pdf" download="">Download issue 21.4-22.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.4-22-1_evolution.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobs2l3e ;
-    ns1:itemId "bcphbvecgmx"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 21, issue 4: Evolution of the Dream Movement"^^xsd:string ;
-    ns1:profileImg "21.4-22.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "21.4-22.1"^^xsd:string .
-
 ns1:bcphbvvhigo a ns1:Post ;
     ns1:coverImg "22.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2003-10-01T11:32:52"^^xsd:dateTime ;
@@ -18990,6 +19051,20 @@ ns1:bcphbv6y2vp a ns1:Post ;
     ns1:profileImg "23.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "23.2"^^xsd:string .
 
+ns1:bcphbvecgmx a ns1:Post ;
+    ns1:coverImg "21.4-22.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2002-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.4-22-1_evolution.pdf" download="">Download issue 21.4-22.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.4-22-1_evolution.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobs2l3e ;
+    ns1:itemId "bcphbvecgmx"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 21, issue 4: Evolution of the Dream Movement"^^xsd:string ;
+    ns1:profileImg "21.4-22.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "21.4-22.1"^^xsd:string .
+
 ns1:bcphbxjsuyu a ns1:Post ;
     ns1:coverImg "26.1-2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
@@ -19542,6 +19617,20 @@ ns1:bcphbqskoff a ns1:User ;
     ns1:name "Deborah Koff-Chapin"^^xsd:string ;
     ns1:profileImg "author-deborahkoffchapin.jpg"^^xsd:string .
 
+ns1:bcphbygiw4g a ns1:Post ;
+    ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqochapy2 ;
+    ns1:itemId "bcphbygiw4g"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
+    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "28.2-3"^^xsd:string .
+
 ns1:bcphbyukqzw a ns1:Post ;
     ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
@@ -19616,20 +19705,6 @@ ns1:bcphbqsorna a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Orna Ben-Shoshan"^^xsd:string ;
     ns1:profileImg "author-ornabenshoshan.jpg"^^xsd:string .
-
-ns1:bcphbygiw4g a ns1:Post ;
-    ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf" download="">Download issue 28.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_28/28.2-28.3_art_of_dream_sharing.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqochapy2 ;
-    ns1:itemId "bcphbygiw4g"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
-    ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "28.2-3"^^xsd:string .
 
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;

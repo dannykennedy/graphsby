@@ -2,7 +2,7 @@
 dateCreated: "1984-07-01T11:32:52"
 itemId: bcpov6krfise
 layout: post
-name: "Editorial"
+name: "Editorial, Issue 3.4"
 tags:
     - hasTag: chrishudson
     - hasAuthor: chrishudson

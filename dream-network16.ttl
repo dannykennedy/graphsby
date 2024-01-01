@@ -6837,6 +6837,62 @@ ns1:bcpov6krdbf9 a ns1:Post ;
     ns1:profileImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
     ns1:urlSlug "dreams-bones-and-the-future-9"^^xsd:string .
 
+ns1:bcpov6krfi36 a ns1:Post ;
+    ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/editorial-3-6.jpg" width="300" height="auto" alt="Dog standing on its hind legs"/></p>
+
+<p>It is a cold, windy day in Brooklyn as I write this. My dreams this morning remain in the back of my mind, unwritten and unfortunately, soon to be forgotten. But I know that if I took the time to write them down in my journal that new and mysterious possibilities might emerge from that effort. It is a small effort that yields big rewards. Last night I dreamt of a high resolution computor monitor, which meant to me that I'm looking for a high degree of "resolution" in my activities, in which the DNB plays a major part.</p>
+
+<p>The Bulletin has finally been edited, formatted, and laid out on the paste-up boards. Dale has done her last illustration and our weekly dream group has had a chance to look the text over for mistakes. I'm sure there are a few errors we missed. It seems a good issue to me. There is sharing going on from all levels of dreamwork. Each issue is an attempt to speak to those levels, so you will find very different perceptions side by side.</p>
+
+<p>I have been publisher/editor of DNB for a full year now. It has been one of the most rewarding yet emotionally tiring experiences I've had. Some days I wake up thrilled to be a part of this movement toward self-awarenesss through dreams and other weeks when the subscriptions trickle in like molasses I get discouraged and wonder how to pay the printer and post office. I then feel lonely and wonder if DNB is important enough to the readers to help get more subscriptions through friends, gift subscriptions to family, or in feedback through letters and sharing. This is not a pyramidal hiearchy like many publications. We are a network and depend on a high level of committment and communication from those participating. Articles, letters, contacts, poetry... these all come from you. The editors don't go hunting this stuff up to fill in the spaces between slick ads.</p>
+
+<p>One way you can truly help is to resubscribe without me nagging you. Check your label and note the four numbers on the upper right. 0984 means your subscription is due on August '84. 0784 means July '84, and so on. It's a hassle to have to send out a lot of little reminders. Remember, you can resubscribe <em>before</em> your sub is overdue and the remaining time will be credited accordingly.</p>
+
+<p>My usual exhortation: <em>share, share, share!</em> No "dreamland diploma" is required, as Lynn Hallam (page 17) thought. If you are an isolated dreamer who wants to join or start a group, send in your name and address and we'll put your name in the <em>Dream Calendar</em> and crank up Little Blue, our computer, to see who is in your area. If you already are in a group, we'd love to hear about it, even if you're closed to new members. Your experiences are invaluable to others who feel more tentative and need a confidence boost.</p>
+
+<p>Edith Gilmore will be regularly reviewing books starting next issue. We will be featuring an an article by <a href="../@jeremytaylor">Jeremy Taylor</a>, whose book I highly reccommend: <em>Dreamwork</em>, published by Paullist Press. It not only has the best bibliograpy but is the most dedicated to non-professional dreamwork that I've seen in years. He is committed to his work and the reader feels inspired. Look for a review soon. Also recommended is <em>Stillpoint Press</em>, a small publisher of spiritual books from New Hampshire in my old stomping grounds. An excellent selection is available through their catalog. Write:</p>
+
+<blockquote>
+  <p>Stillpoint Publishing</p>
+</blockquote>
+
+<blockquote>
+  <p>PO Box 640 Meetinghouse Road</p>
+</blockquote>
+
+<blockquote>
+  <p>Walpole, NH 03608</p>
+</blockquote>
+
+<p>We are also getting our own book list together. If you don't find one in this issue, look for it soon or write for one. Thank you to the following for contributing $25 or more to our coffers: Kay C. Greene, Will Phillips and Leon Van Leeuwen's dream group. If you want to contribute, the money will go directly into DNB. Please feel free to.</p>
+
+<p>Also needed are more networkers. If you want to become one, write me and I'll keep you well supplied with DNB's, subscription blanks, and info on how to be a contact for your area. Here's a dream I had recently:</p>
+
+<blockquote>
+  <p><em>"I am helping a man with an underwater project. There are some cages that need to be disassembled and brought to the surface. A hysterical woman has tried but was unable to bring them up. Without asking anyone, I strip to my underwear, grab a mask and snorkel and dive in. The water extends under the land. The "cages" aren't deep (they are valuable) and the job is easy. I relish the challenge and can hold my breath for a long time. A dog-companion is underwater with me. I successfully disconnect the cages from one another and they're salvaged"</em></p>
+</blockquote>
+
+<p>What this dream meant to me is that I have an ability to solve emotional problems by examining and taking apart old feelings of negative control (cages). The unconscious, or water, can be entered with confidence and success. The hysterical woman is my own tendency to "flip out" when problems arise, but my dream self easily takes matters in hand. The cages are valuable because of the insights they offer when raised to the surface, brought to waking awareness to be consciously examined much like an archeological dig reveals the lives of ancient inhabitants.</p>
+
+<p>The day I had this dream I was full of confident excitement and anticipation, though I didn't know why. I realized after reflecting on the dream and discussing it with Dale that I had been avoiding looking at some personal problems connected with my past because of the emotions involved. But it turns out the self-examination was successful and <em>fun</em> as well. My "dog companion" is particularly touching. He was there to support me and have fun too!</p>
+
+<p>There are times when I forget to do dreamwork and think that I can solve my problems simply by thinking about them intellectually. The result is the "hysterical woman". Entering the underwater world of my unconscious, where my patterns and feelings are laid out in story-fashion, is the best way to take care of personal problems. The only impediment is fear of the unknown and procrastination. The best attitude (for me) is one of "damn the torpedoes" and diving in.</p>
+
+<p>In waking life I don't have nearly that level of 'confidence. My dream mind is a fearless explorer, eager to help. If only I might heed the message: Confidence furthers success. May you also have such pleasureable adventures!</p>
+
+<p><em>~Chris Hudson</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3huds ;
+    ns1:hasTag ns1:bcphblnikds,
+        ns1:bcphbq3huds ;
+    ns1:inIssue ns1:bcphblnikds ;
+    ns1:itemId "bcpov6krfi36"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Editorial, Issue 3.6"^^xsd:string ;
+    ns1:profileImg "editorial-3-6.jpg"^^xsd:string ;
+    ns1:urlSlug "editorial-3-6"^^xsd:string .
+
 ns1:bcpov6krfise a ns1:Post ;
     ns1:dateCreated "1984-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Another issue in your mailboxes - I hope you like it. If the typeface seems a little uneven it's because we are trying out some different "looks", and would like your reactions. A special thank you to <a href="../@dalegottlieb">Dale Gottlieb</a> for her gorgeous drawings, Jack Maguire for his lead article, editorial and typing assistance, Tom Cowan for editorial work and his regular column, as well as the other contributors and encouragers. The following people/groups have contributed $25 or more to this issue:</p>
@@ -6871,7 +6927,7 @@ ns1:bcpov6krfise a ns1:Post ;
     ns1:inIssue ns1:bcphbliwn3u ;
     ns1:itemId "bcpov6krfise"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
-    ns1:name "Editorial"^^xsd:string ;
+    ns1:name "Editorial, Issue 3.4"^^xsd:string ;
     ns1:urlSlug "editorial"^^xsd:string .
 
 ns1:bcpov6krfish a ns1:Post ;
@@ -17579,20 +17635,6 @@ ns1:bcphbzhpgrg a ns1:Post ;
 ns1:Page a owl:Class ;
     rdfs:subClassOf ns1:Actor .
 
-ns1:bcphblnikds a ns1:Post ;
-    ns1:coverImg "3.6-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf" download="">Download issue 3.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn76e7n5 ;
-    ns1:itemId "bcphblnikds"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 3, issue 6"^^xsd:string ;
-    ns1:profileImg "3.6-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "3.6"^^xsd:string .
-
 ns1:bcphblwwuy6 a ns1:Post ;
     ns1:coverImg "4.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-05-01T11:32:52"^^xsd:dateTime ;
@@ -18678,6 +18720,20 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
 
+ns1:bcphblnikds a ns1:Post ;
+    ns1:coverImg "3.6-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf" download="">Download issue 3.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn76e7n5 ;
+    ns1:itemId "bcphblnikds"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 3, issue 6"^^xsd:string ;
+    ns1:profileImg "3.6-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "3.6"^^xsd:string .
+
 ns1:bcphbq3asay a ns1:User ;
     ns1:description """<p>You can buy a physical copy of Ann's book <em>Satisfy the Image</em>, <a href="https://www.handprintpress.com/product/satisfy-the-image-the-wisdom-of-your-dreams-guided-imagery-for-self-balancing/">from Handprint Press here</a>.</p>
 
@@ -19511,17 +19567,6 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.4"^^xsd:string .
 
-ns1:bcphbq3huds a ns1:User ;
-    ns1:description """<p>Chris Hudson was the second editor of the <em>Dream Network Bulletin</em> in New York from 1983-85. His wife, <a href="../@dalegottlieb">Dale Gottlieb</a>, was the Bulletin's illustrator.</p>
-
-<p>Chris and Dale currently live in Washington, and have two sons, Blake and Hill.</p>
-"""^^xsd:string ;
-    ns1:handle "chrishudson"^^xsd:string ;
-    ns1:itemId "bcphbq3huds"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Chris Hudson"^^xsd:string ;
-    ns1:profileImg "author-chrishudson.jpg"^^xsd:string .
-
 ns1:bcphbvjopd2 a ns1:Post ;
     ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
@@ -19604,6 +19649,17 @@ ns1:bcphbq3ferr a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Brenda Ferrimani"^^xsd:string ;
     ns1:profileImg "author-brendaferrimani.jpg"^^xsd:string .
+
+ns1:bcphbq3huds a ns1:User ;
+    ns1:description """<p>Chris Hudson was the second editor of the <em>Dream Network Bulletin</em> in New York from 1983-85. His wife, <a href="../@dalegottlieb">Dale Gottlieb</a>, was the Bulletin's illustrator.</p>
+
+<p>Chris and Dale currently live in Washington, and have two sons, Blake and Hill.</p>
+"""^^xsd:string ;
+    ns1:handle "chrishudson"^^xsd:string ;
+    ns1:itemId "bcphbq3huds"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Chris Hudson"^^xsd:string ;
+    ns1:profileImg "author-chrishudson.jpg"^^xsd:string .
 
 ns1:bcphbqskoff a ns1:User ;
     ns1:coverImg "cover-author-deborahkoffchapin.jpg"^^xsd:string ;

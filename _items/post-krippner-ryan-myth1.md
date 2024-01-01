@@ -13,7 +13,6 @@ tags:
     - featuredIn: dreamnetwork
 type: post
 urlSlug: "dreams-as-a-mirror-of-change-in-personal-mythology"
-profileImg: post-bcpov6kmyth1-0.jpg
 ---
 
 The word "myth" has been tainted by common usage in which it has come to refer to a falsehood. This is unfortunate for each of us as individuals and for society in general. Rather than being judged as "true" or "false," mythology can be best thought of as a way of making sense of reality - an interpretive tool. As such, a myth can be judged only insofar as it is functional or dysfunctional for positive growth and development at a particular point in time for a given individual, family, or group.

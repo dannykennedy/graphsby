@@ -5221,7 +5221,6 @@ ns1:bcpov6kmyth1 a ns1:Post ;
     ns1:itemId "bcpov6kmyth1"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dreams as a Mirror of Change in Personal Mythology"^^xsd:string ;
-    ns1:profileImg "post-bcpov6kmyth1-0.jpg"^^xsd:string ;
     ns1:urlSlug "dreams-as-a-mirror-of-change-in-personal-mythology"^^xsd:string .
 
 ns1:bcpov6kmyth2 a ns1:Post ;
@@ -16148,7 +16147,7 @@ ns1:bcpov6zvrmut a ns1:Post ;
 
 ns1:bcpov6zwakdg a ns1:Post ;
     ns1:dateCreated "2007-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/vlach-bw-portrait.jpg" width="300" height="auto" alt="Victoria Vlach"/></p>
+    ns1:description """<p><img src="../images/vlach-bw-portrait.jpg" width="200" height="auto" alt="Victoria Vlach"/></p>
 
 <p><!--nopreview--><div class="caption" style="text-align: center;"><i>Victoria Vlach</i></div><!--/nopreview--></p>
 
@@ -16196,7 +16195,6 @@ ns1:bcpov6zwakdg a ns1:Post ;
     ns1:itemId "bcpov6zwakdg"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Joy of Dream Groups ~ & some things to consider"^^xsd:string ;
-    ns1:profileImg "vlach-bw-portrait.jpg"^^xsd:string ;
     ns1:urlSlug "the-joy-of-dream-groups"^^xsd:string .
 
 ns1:bcpov6zwakin a ns1:Post ;
@@ -19757,7 +19755,7 @@ ns1:bcphbq3xdnj a ns1:Page ;
 
 <p>Please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> for questions.</p>
 
-<p>Cover image: <em>Touch Drawing™</em>, by <a href="../@deborahkoffchapin/">Deborah Koff Chapin</a></p>
+<p>Cover image: <em>Mirror</em>, by <a href="../@deborahkoffchapin/">Deborah Koff Chapin</a></p>
 
 <div class="socials">
 

@@ -11,10 +11,9 @@ tags:
     - featuredIn: dreamnetwork
 type: post
 urlSlug: "the-joy-of-dream-groups"
-profileImg: "vlach-bw-portrait.jpg"
 ---
 
-<img src="../images/vlach-bw-portrait.jpg" width="300" height="auto" alt="Victoria Vlach"/>
+<img src="../images/vlach-bw-portrait.jpg" width="200" height="auto" alt="Victoria Vlach"/>
 <!--nopreview--><div class="caption" style="text-align: center;"><i>Victoria Vlach</i></div><!--/nopreview-->
 <br/>
 

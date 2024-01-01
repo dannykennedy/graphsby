@@ -20,7 +20,7 @@ If you'd like to look up an individual author or article, there's a growing [aut
 
 Please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> for questions.
 
-Cover image: _Touch Drawing™_, by [Deborah Koff Chapin](../@deborahkoffchapin/)
+Cover image: _Mirror_, by [Deborah Koff Chapin](../@deborahkoffchapin/)
 
 <div class="socials">
 <div>

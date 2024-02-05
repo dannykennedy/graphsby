@@ -4,9 +4,10 @@ itemId: bcpov6gii332
 layout: post
 name: "The Magnificent Audience"
 tags:
- - hasTag: ornabenshoshan
- - hasAuthor: ornabenshoshan
- - hasTag: 33.2
+    - hasTag: ornabenshoshan
+    - hasAuthor: ornabenshoshan
+    - hasTag: 33.2
+    - inIssue: 33.2
 type: post
 urlSlug: "ornabenshoshan-dnj-33-2_cover"
 profileImg: 33.2_cover.jpg

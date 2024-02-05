@@ -4,9 +4,10 @@ itemId: bcpov6rsgpia
 layout: post
 name: "Jean Piaget - Hybrid Functioning of Dreams"
 tags:
-  - hasTag: linthutchinson
-  - hasAuthor: linthutchinson
-  - hasTag: 5.2
+    - hasTag: linthutchinson
+    - hasAuthor: linthutchinson
+    - hasTag: 5.2
+    - inIssue: 5.2
 type: post
 urlSlug: "jean-piaget-hybrid-functioning-of-dreams"
 ---
@@ -28,4 +29,3 @@ The fifth category is comprised of dreams that function as punishment for action
 Lastly, dreams function as direct translations of organic stimulus from waking reality. One of Piaget's examples is the child's dream of watering a garden which would correspond to a child wetting the bed in reality.
 
 ![Eastbank advertisement](../images/post-bcpov6rsgpia-1.png)
-

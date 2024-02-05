@@ -234,7 +234,7 @@
             </h3>
              
             <div class="card-body-text">
-                <p> <p><em>*Presented at the twenty-third Annual Meeting of the International Association for the Study of Dreams, July 22, 2006</em></p>
+                <p> <p>*<em>Presented at the twenty-third Annual Meeting of the International Association for the Study of Dreams, July 22, 2006</em></p>
 
 <p>I am going to begin with a <span class='read-more'> ...read more</span></p>
 
@@ -276,9 +276,13 @@
   <p><em></em></p>
 </blockquote>
 
+<blockquote>
+  
+</blockquote>
 
-
-
+<blockquote>
+  
+</blockquote>
 
 <h2></h2>
 
@@ -354,19 +358,25 @@
   <p><em></em></p>
 </blockquote>
 
-
+<blockquote>
+  
+</blockquote>
 
 <blockquote>
   <p><em></em></p>
 </blockquote>
 
-
+<blockquote>
+  
+</blockquote>
 
 <blockquote>
   <p><em></em></p>
 </blockquote>
 
-
+<blockquote>
+  
+</blockquote>
 
 <blockquote>
   <p><em></em></p>
@@ -386,7 +396,7 @@
 
 
 
-<p><em></em> </p> </p>
+<p><em></em></p> </p>
             </div>
         </div>
         <div class="card-footer">
@@ -545,12 +555,20 @@
                 <a href="../bcpov6rssull/the-ullman-method-of-dream-analysis">The Ullman Method of Dream Analysis: Content and Context</a>
             </h3>
              
+            <div class="profile-img-container">
+                <img
+                    src="../images/post-bcpov6zfacet-1.jpg"
+                    alt="profile image"
+                    class="Post-profile-img"
+                />
+            </div>
+            
             <div class="card-body-text">
                 <p> 
 
 <p>Five simple words, "if this were my dream" make the Ullman (1996, 1999; Ullman &amp; Zimmerman, 1979) process of Dream Appreciation one of the most <span class='read-more'> ...read more</span> <a href="../@montagueullman"></a> </p>
 
-<p> </p>
+
 
 
 
@@ -561,11 +579,7 @@
 <p> <em></em></p>
 
 <blockquote>
-  <p><em></em></p>
-</blockquote>
-
-<blockquote>
-  <p><em></em></p>
+  <p><em></em>  <em></em></p>
 </blockquote>
 
 
@@ -610,7 +624,7 @@
 
 
 
-<p> </p>
+
 
 <blockquote>
   <p><em></em></p>
@@ -624,11 +638,11 @@
 
 <h2></h2>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
+
+
+
 
  </p>
             </div>
@@ -839,7 +853,7 @@
 
 
 
-<p><em></em> </p> </p>
+<p><em></em></p> </p>
             </div>
         </div>
         <div class="card-footer">
@@ -926,9 +940,9 @@
 
 
 
-<p> </p>
 
-<p> </p>
+
+
 
  </p>
             </div>
@@ -1055,9 +1069,7 @@
 
 
 
-
-
-<p><em></em> </p> </p>
+<p><em></em></p> </p>
             </div>
         </div>
         <div class="card-footer">
@@ -1109,5 +1121,51 @@
                 }
             }, 300);
         };
+
+        // Show more cards
+        function showMoreCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            console.log(sidebarCard);
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Show every sidebar-item-card-wrapper
+            for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.remove("hide");
+            }
+
+            // Change button text to "Show less"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
+
+            // Change onclick function to show less cards
+            button.setAttribute("onclick", "showLessCards(this)");
+        }
+
+        // Show less cards (hide all but the first two)
+        function showLessCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Hide every sidebar-item-card-wrapper after the first two
+            for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.add("hide");
+            }
+
+            // Change button text to "Show more"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
+
+            // Change onclick function to show more cards
+            button.setAttribute("onclick", "showMoreCards(this)");
+        }
     </script>
 </html>

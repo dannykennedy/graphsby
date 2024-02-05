@@ -45,6 +45,7 @@ imageClass = dreamNS['Image']
 
 # Object properties
 hasTag = dreamNS['hasTag']
+inIssue = dreamNS['inIssue']
 hasAuthor = dreamNS['hasAuthor']
 featuredIn = dreamNS['featuredIn']
 
@@ -143,6 +144,11 @@ def createGraph():
 	(hasTag, rdfType, owlObjectProperty),
 	(hasTag, rdfsDomain, itemClass),
 	(hasTag, rdfsRange, itemClass),
+
+	# Issue
+	(inIssue, rdfType, owlObjectProperty),
+	(inIssue, rdfsDomain, postClass),
+	(inIssue, rdfsRange, itemClass),
 
 	# Author
 	(hasAuthor, rdfType, owlObjectProperty),

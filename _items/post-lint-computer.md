@@ -9,6 +9,7 @@ tags:
     - hasTag: beckhutchinson
     - hasAuthor: beckhutchinson
     - hasTag: 1.11
+    - inIssue: 1.11
 type: post
 urlSlug: "computerized-dream-translation"
 ---

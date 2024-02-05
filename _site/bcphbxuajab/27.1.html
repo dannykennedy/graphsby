@@ -255,13 +255,41 @@
             </div>
             
             <div class="card-body-text">
-                <p> <p><em>In a recent issue of Dream Network Journal (<a href="https://dreamnetworkjournal.com/bcphbxm2y5p/26.3">Vol. 26 #3</a> and <a href="https://dreamnetworkjournal.com/bcphbxplpmw/26.4">#4</a>), Russell Lockhart, in his column “Dreams in the News,” described a dream that pictu<span class='read-more'> ...read more</span><strong></strong></em><strong><em></em></strong><em></em></p>
+                <p> <p>*In a recent issue of Dream Network Journal (<a href="https://dreamnetworkjournal.com/bcphbxm2y5p/26.3">Vol. 26 #3</a> and <a href="https://dreamnetworkjournal.com/bcphbxplpmw/26.4">#4</a>), Russell Lockhart, in his column “Dreams in the News,” described a dream that pict<span class='read-more'> ...read more</span><strong><em></em></strong></p>
 
 
 
 <p>
 
-<p><strong></strong>  <em></em> <em></em>  <em></em>  </p>
+<p><strong></strong>  <em></em> <em></em>  <em></em> </p>
+
+
+
+<div style=text-align:center><i></i></div>
+
+<p><strong></strong>  <em></em> <em></em>  <em></em></p>
+
+<p><strong></strong>  <em></em> </p>
+
+
+
+<div style=text-align:center><i></i></div>
+
+<p><strong></strong> </p>
+
+
+
+<div style=text-align:center><i></i></div>
+
+<p><strong></strong>  <a href="http://www.ralockhart.com"></a> </p>
+
+<p><strong></strong>  <em></em> <em></em> </p>
+
+<p><strong></strong> </p>
+
+<p><strong></strong>  <em></em> </p>
+
+<p><strong></strong>  <em></em> <em></em> </p>
 
 
 
@@ -269,47 +297,19 @@
 
 <p><strong></strong>  <em></em> <em></em>  <em></em> </p>
 
-<p><strong></strong>  <em></em>  </p>
+<p><strong></strong>  <em></em></p>
 
+<p><strong></strong> </p>
 
+<p><strong></strong> </p>
 
-<div style=text-align:center><i></i></div>
-
-<p><strong></strong>  </p>
-
-
-
-<div style=text-align:center><i></i></div>
-
-<p><strong></strong>  <a href="http://www.ralockhart.com"></a>  </p>
-
-<p><strong></strong>  <em></em> <em></em>  </p>
-
-<p><strong></strong>  </p>
-
-<p><strong></strong>  <em></em>  </p>
-
-<p><strong></strong>  <em></em> <em></em>  </p>
-
-
-
-<div style=text-align:center><i></i></div>
-
-<p><strong></strong>  <em></em> <em></em>  <em></em>  </p>
+<p><strong></strong> </p>
 
 <p><strong></strong>  <em></em> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
-
-<p><strong></strong>  </p>
-
-<p><strong></strong>  <em></em>  </p>
-
-<p><strong></strong>  </p>
-
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
 <p><strong></strong> </p> </p>
             </div>
@@ -379,5 +379,51 @@
                 }
             }, 300);
         };
+
+        // Show more cards
+        function showMoreCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            console.log(sidebarCard);
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Show every sidebar-item-card-wrapper
+            for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.remove("hide");
+            }
+
+            // Change button text to "Show less"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
+
+            // Change onclick function to show less cards
+            button.setAttribute("onclick", "showLessCards(this)");
+        }
+
+        // Show less cards (hide all but the first two)
+        function showLessCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Hide every sidebar-item-card-wrapper after the first two
+            for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.add("hide");
+            }
+
+            // Change button text to "Show more"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
+
+            // Change onclick function to show more cards
+            button.setAttribute("onclick", "showMoreCards(this)");
+        }
     </script>
 </html>

@@ -4,9 +4,10 @@ itemId: bcpov6grtend
 layout: post
 name: "Dream Tending & Story Telling: An Inter-Generational Process"
 tags:
-  - hasTag: jeanneschul
-  - hasAuthor: jeanneschul
-  - hasTag: 22.2
+    - hasTag: jeanneschul
+    - hasAuthor: jeanneschul
+    - hasTag: 22.2
+    - inIssue: 22.2
 type: post
 urlSlug: "dream-tending-and-story-telling-an-inter-generational-process"
 profileImg: post-bcpov6grtend-0.jpg

@@ -4,10 +4,11 @@ itemId: bcpov6greaiz
 layout: post
 name: "Dream Tending and Story Telling - an interview with Dr. Stephen Aizenstat"
 tags:
-  - hasTag: jeanneschul
-  - hasTag: stephenaizenstat
-  - hasAuthor: jeanneschul
-  - hasTag: 27.3
+    - hasTag: jeanneschul
+    - hasTag: stephenaizenstat
+    - hasAuthor: jeanneschul
+    - hasTag: 27.3
+    - inIssue: 27.3
 type: post
 urlSlug: "dream-tending-and-storytelling"
 profileImg: post-bcpov6greaiz-1.jpg

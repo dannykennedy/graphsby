@@ -4,9 +4,10 @@ itemId: bcpov6grewit
 layout: post
 name: "What is DreamTending?"
 tags:
-  - hasTag: stephenaizenstat
-  - hasAuthor: stephenaizenstat
-  - hasTag: 28.2-3
+    - hasTag: stephenaizenstat
+    - hasAuthor: stephenaizenstat
+    - hasTag: 28.2-3
+    - inIssue: 28.2-3
 type: post
 urlSlug: "dream-tending-and-storytelling"
 profileImg: leaf-dreamtending.jpeg

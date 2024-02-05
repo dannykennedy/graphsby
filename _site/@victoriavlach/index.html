@@ -248,37 +248,37 @@
 
 <p></p>
 
-<p>Let’s assume for a moment that Life is a dream. This means that we can use dream techniques on waking life e<span class='read-more'> ...read more</span> </p>
+<p>Let’s assume for a moment that Life is a dream. This means that we can use dream techniques on waking life e<span class='read-more'> ...read more</span></p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
+
+
+
+
+
+
+
 
 <blockquote>
   <p><em></em></p>
 </blockquote>
 
-<p> <em></em>  </p>
+<p> <em></em> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
+
+
+
+
+
 
  </p>
             </div>
@@ -306,10 +306,109 @@
         </div>
     </div>
 </div>    <div
+    id="bcpov6zwakdg"
+    class="card item-card thumb-card grid-item"
+    onclick="window.location.href = '../bcpov6zwakdg/the-joy-of-dream-groups'"
+    style="transform: translate3d(0px, 500px, 0px);"
+>
+    <div class="inner-card Postcard">
+        
+        <div class="card-header">
+            <div class="card-user-info">
+                <div class="card-avatar tooltip">
+                     
+                    <div
+                        class="avatar-photo"
+                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                    >
+                        
+                        <a href="../@victoriavlach">
+                            <img
+                                src="../images/thumb-author-victoria-vlach.jpg"
+                                alt="Victoria Vlach"
+                                class="post-author-img"
+                            />
+                        </a>
+                        
+                    </div>
+                     
+                </div>
+                <div class="card-header-text" style="padding-left: 10px">
+                    <div class="card-author">
+                          
+
+                        <span>
+                             Victoria Vlach 
+                        </span>
+
+                         
+                    </div>
+                    <div class="card-date"> July 2007 </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card-body">
+            
+            <h3 class="card-title">
+                <a href="../bcpov6zwakdg/the-joy-of-dream-groups">The Joy of Dream Groups ~ & some things to consider</a>
+            </h3>
+             
+            <div class="card-body-text">
+                <p> 
+
+<p>
+
+<p></p>
+
+<p>I get excited about dreams. I like to talk about dreams and explore dreams and dreamstates.</p>
+
+<p>In those first early groups (of the 198<span class='read-more'> ...read more</span> <strong></strong></p>
+
+
+
+<p><a href="https://web.archive.org/web/20081018044102/http://www.meetup.com/AustinDreams/"></a></p>
+
+
+
+
+
+<p> <em></em>  <em></em> </p>
+
+
+
+
+
+<p><em></em></p> </p>
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="tags-area">
+                 
+                <div class="tag PERSON">
+                    <div class="tag-wrapper">
+                        <div class="tag-text">
+                            <span class="tag-name"><a href="../@victoriavlach">Victoria Vlach</a></span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="tag OTHER">
+                    <div class="tag-wrapper">
+                        <div class="tag-text">
+                            <span class="tag-name"><a href="../bcphbxm2y5p/26.3">Volume 26, issue 3: Visionary Activism</a></span>
+                        </div>
+                    </div>
+                </div>
+                 
+            </div>
+        </div>
+    </div>
+</div>    <div
     id="bcpov6zbotdm"
     class="card item-card thumb-card grid-item"
     onclick="window.location.href = '../bcpov6zbotdm/book-review-the-dreamers-book-of-the-dead-by-robert-moss'"
-    style="transform: translate3d(0px, 500px, 0px);"
+    style="transform: translate3d(0px, 1000px, 0px);"
 >
     <div class="inner-card Postcard">
         
@@ -449,5 +548,51 @@
                 }
             }, 300);
         };
+
+        // Show more cards
+        function showMoreCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            console.log(sidebarCard);
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Show every sidebar-item-card-wrapper
+            for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.remove("hide");
+            }
+
+            // Change button text to "Show less"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
+
+            // Change onclick function to show less cards
+            button.setAttribute("onclick", "showLessCards(this)");
+        }
+
+        // Show less cards (hide all but the first two)
+        function showLessCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Hide every sidebar-item-card-wrapper after the first two
+            for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.add("hide");
+            }
+
+            // Change button text to "Show more"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
+
+            // Change onclick function to show more cards
+            button.setAttribute("onclick", "showMoreCards(this)");
+        }
     </script>
 </html>

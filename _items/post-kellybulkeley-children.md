@@ -7,6 +7,7 @@ tags:
     - hasTag: kellybulkeley
     - hasAuthor: kellybulkeley
     - hasTag: 10.1
+    - inIssue: 10.1
 type: post
 urlSlug: "teaching-dreamwork-to-children"
 ---

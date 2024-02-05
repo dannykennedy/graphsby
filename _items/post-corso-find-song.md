@@ -4,9 +4,10 @@ itemId: bcpov6zssong
 layout: post
 name: "Finding My Song through Dreamwork"
 tags:
-  - hasTag: bambicorso
-  - hasAuthor: bambicorso
-  - hasTag: 28.4
+    - hasTag: bambicorso
+    - hasAuthor: bambicorso
+    - hasTag: 28.4
+    - inIssue: 28.4
 type: post
 urlSlug: "finding-my-song-through-dreamwork"
 profileImg: post-bcpov6zssong-0.jpg

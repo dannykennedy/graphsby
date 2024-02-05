@@ -4,9 +4,10 @@ itemId: bcpov6g282-3
 layout: post
 name: "Prophet's Dance"
 tags:
- - hasTag: ornabenshoshan
- - hasAuthor: ornabenshoshan
- - hasTag: 28.2-3
+    - hasTag: ornabenshoshan
+    - hasAuthor: ornabenshoshan
+    - hasTag: 28.2-3
+    - inIssue: 28.2-3
 type: post
 urlSlug: "ornabenshoshan-dnj-28-2_cover"
 profileImg: 28.2-3_cover.jpg

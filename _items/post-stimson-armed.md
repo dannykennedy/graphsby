@@ -8,6 +8,8 @@ tags:
     - hasAuthor: billstimson
     - hasTag: 11.2
     - hasTag: 1.1
+    - inIssue: 11.2
+    - inIssue: 1.1
 type: post
 urlSlug: "dreams-as-a-subversive-activity"
 ---

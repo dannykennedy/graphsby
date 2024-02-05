@@ -1,18 +1,19 @@
 ---
-dateCreated: '1974-10-14T11:32:52'
+dateCreated: "1974-10-14T11:32:52"
 itemId: bcpov6zftran
 layout: post
 name: "The Transformation Process In Dreams"
 tags:
-- hasTag: montagueullman
-- hasAuthor: montagueullman
+    - hasTag: montagueullman
+    - hasAuthor: montagueullman
+    - featuredIn: dreamnetwork
 type: post
 urlSlug: the-transformation-process-in-dreams
 profileImg: post-bcpov6zftran-0.jpg
 ---
 
-*Published in **Ullman on Dreams**, Vol. 19, No. 2, May 1975,  pp. 8-10, The American Academy of Psychoanalysis*
-*Paper delivered at a Conference of Scientists with J. Krishnamurti at Brockwood Park, October 14, 1974.*
+_Published in **Ullman on Dreams**, Vol. 19, No. 2, May 1975,  pp. 8-10, The American Academy of Psychoanalysis_
+_Paper delivered at a Conference of Scientists with J. Krishnamurti at Brockwood Park, October 14, 1974._
 I felt drawn to this theme as a consequence of three significant failures in my own life, which originally I thought were due to my own failings but were related to what I now think are the limitations of science, limitations that each of us in our own way are trying to talk about.
 We start out in this world as more or less undifferentiated globs of protoplasm and our task appears to be to evolve into a human being having a place in a complex technological society. If we shift to a metaphorical mode we are up to our collective necks in deep water. To save ourselves from going under we reach out for support with only our right hand to grasp at what we think are a succession of solid structures. This is the master hand, the hand that enables us to master nature, to see the world as object and deal with the world objectively. This is the hand of science as science has come to be practiced. There is an awareness of the existence of a left hand and, on occasion, it flails about in the water. It is not seen as equal in strength and power to the right hand; rather it is seen in a somewhat negative light. It is labelled the "sinister" hand and is simply regarded as not being the right hand. Using only the right hand we do achieve a differentiated state, but one that never quite gets us out of the water, so that we continue to struggle atomistically against the forces tending to pull us under. Using both hands together in complementary fashion, however, would not only get us to that state of differentiation, but would also enable us to tackle the really important question of coming together on dry land in order to get on with the business of exploring and enjoying the universe. End of metaphor.
 The use of both hands in getting us out of the water can still be called science, I suppose, but it would be quite a bit different from the science we now know. It would move from its preoccupation with nature as object to be mastered to a concern with what it is that has been mastered; and conversely, what it is that has been omitted, i.e., the sensuous aspects of man and nature and the price paid for this one-sidedness in human terms.
@@ -24,7 +25,7 @@ The final failure was linked to, perhaps, the most profound transformation of my
 For some time I had been toying with the idea that what we experienced as a dream had an antecedent history in an event that was beyond time and space ordering, and came upon us in something approaching an instantaneous happening at critical moments in the transformation of one form of consciousness to another. The onset of the dreaming phase is one such critical modal point. The black dot at the left in the accompanying figure represents this event. It may be regarded as a kind of black hole of the psyche containing an enormously condensed information mass. Since this falls completely outside the realm of our ordinary information processing capacities, it is experienced as ineffable. We are forced to let it expand, as it were, or unfold and then deal with it in bits and pieces, ordered as best we can in time and space. These are the visual images that make up the dream as depicted by the various shapes in the figure. The information is still highly condensed, less so than formerly, and is spread out before us. A second transformation occurs when we reach the waking state. Here we try to transform this private experience into a public mode. This requires a further unfolding of the information contained in the images and the translation of this information into a public medium of exchange, namely language. Here is where we get into trouble because the information goes beyond what can be conveyed in a discursive mode. Much of the information is more readily felt than described. Moreover, the engagement with the information at a feeling level is an experiment in growth. That black hole contains within it our personal expanding universe and we do both ourselves and the universe an injustice when we try to reduce it to a play of instincts. Comments by David Bohm have both provided me with a language fitting to this process, namely, the successive transformation of implicate into explicate, as well as the more important sense of support from another domain, the world of physics, for what is simply an intuitive surmise on my part. What is implicate at one stage becomes explicate in the next stage through a process of unfolding, and what is explicate at this stage becomes implicate for the next stage.
 
 ![Implicate to explicate diagram](../images/post-bcpov6zftran-0.jpg)
- 
+
 If we use dreams simply as illustrative of a broader range of phenomena, unattended to or inadequately attended to by the present focus of scientific inquiry, then four general features of these phenomena emerge:
 
 1. They are more readily appreciated than interpreted. Psychiatrists should have courses in dream appreciation rather than dream interpretation.
@@ -37,8 +38,4 @@ The homonomous approach to knowledge, if identified and worked with, provides th
 
 <hr/>
 
-*Copyright © 1975 Montague Ullman, All Rights Reserved.* 
-
-
-
-
+_Copyright © 1975 Montague Ullman, All Rights Reserved._

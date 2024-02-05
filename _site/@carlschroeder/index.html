@@ -227,69 +227,65 @@
             </h3>
              
             <div class="card-body-text">
-                <p> <p>I synchronously received the Part I issue of Dream Network Journal about <a href="https://dreamnetworkjournal.com/bcphbu3wddv/21.1">dream gifted music</a> the day before I was to sing and act one of my greates<span class='read-more'> ...read more</span> <a href="https://web.archive.org/web/20030424213757/http://soulstirring.org/"></a>  </p>
-
-<blockquote>
-  <p><em></em> </p>
-</blockquote>
-
-<p> </p>
-
-<blockquote>
-  <p><em></em> </p>
-</blockquote>
-
-<p> </p>
-
-<blockquote>
-  <p><em></em> </p>
-</blockquote>
-
-<p> </p>
-
-<blockquote>
-  <p><em></em> </p>
-</blockquote>
-
-<p>  </p>
+                <p> <p>I synchronously received the Part I issue of Dream Network Journal about <a href="https://dreamnetworkjournal.com/bcphbu3wddv/21.1">dream gifted music</a> the day before I was to sing and act one of my greates<span class='read-more'> ...read more</span> <a href="https://web.archive.org/web/20030424213757/http://soulstirring.org/"></a> </p>
 
 <blockquote>
   <p><em></em></p>
 </blockquote>
 
-<p> </p>
+
 
 <blockquote>
-  <p><em></em> </p>
+  <p><em></em></p>
 </blockquote>
+
+
+
+<blockquote>
+  <p><em></em></p>
+</blockquote>
+
+
+
+<blockquote>
+  <p><em></em></p>
+</blockquote>
+
+
+
+<blockquote>
+  <p><em></em></p>
+</blockquote>
+
+
 
 <blockquote>
   <p><em></em></p>
 </blockquote>
 
 <blockquote>
-  <p><em></em> </p>
+  <p><em></em>  <em></em></p>
 </blockquote>
 
 <blockquote>
-  <p><em></em> </p>
+  <p><em></em></p>
 </blockquote>
 
 <blockquote>
-  <p><em></em> </p>
+  <p><em></em></p>
 </blockquote>
 
-<p> <a href="https://en.wikipedia.org/wiki/Isha_Upanishad"></a> </p>
-
-<p> </p>
-
-<p> </p>
+<p> <a href="https://en.wikipedia.org/wiki/Isha_Upanishad"></a></p>
 
 
 
-<p> </p>
 
-<p> </p>
+
+
+
+
+
+
 
  </p>
             </div>
@@ -351,5 +347,51 @@
                 }
             }, 300);
         };
+
+        // Show more cards
+        function showMoreCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            console.log(sidebarCard);
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Show every sidebar-item-card-wrapper
+            for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.remove("hide");
+            }
+
+            // Change button text to "Show less"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
+
+            // Change onclick function to show less cards
+            button.setAttribute("onclick", "showLessCards(this)");
+        }
+
+        // Show less cards (hide all but the first two)
+        function showLessCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Hide every sidebar-item-card-wrapper after the first two
+            for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.add("hide");
+            }
+
+            // Change button text to "Show more"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
+
+            // Change onclick function to show more cards
+            button.setAttribute("onclick", "showMoreCards(this)");
+        }
     </script>
 </html>

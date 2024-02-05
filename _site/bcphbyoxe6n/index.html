@@ -240,9 +240,9 @@
 
 <p>
 
-<p>It always fascinates me to hear other people’s stories about their work with dreams and B<span class='read-more'> ...read more</span> <em></em>  </p>
+<p>It always fascinates me to hear other people’s stories about their work with dreams and B<span class='read-more'> ...read more</span> <em></em> </p>
 
-<p> </p>
+
 
 <p><em></em> </p>
 
@@ -368,105 +368,105 @@
 
 <p><em>This is the sixth in a series of excerpts from an ongoing dialogue between Russell Lockhart and Paco Mitchell.</em></p>
 
-<p><strong>PM:</strong> Over the course of our dialogue<span class='read-more'> ...read more</span> <em></em> </p>
+<p><strong>PM:</strong> Over the course of our dialogue<span class='read-more'> ...read more</span> <em></em></p>
+
+<p> <em></em></p>
+
+
+
+
+
+
+
+
 
 <p> <em></em> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
+<p><strong></strong>  <strong></strong></p>
 
-<p> </p>
 
-<p> <em></em>  </p>
 
-<p> </p>
+<p> <em></em></p>
 
-<p><strong></strong>  <strong></strong> </p>
 
-<p> </p>
-
-<p> <em></em> </p>
-
-<p> </p>
-
-<p><strong></strong>  </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
-
-<pre>
-<i></i>
-
-<i></i> 
-
-</pre>
-
-<p><strong></strong>  </p>
-
-<p> </p>
-
-<pre>
-<i></i>
-
-<i></i>
-
-<i></i> 
-
-<i></i> 
-
-<i></i> 
-
-<i></i> 
-
-<i></i> 
-
-<i></i> 
-
-<i></i> 
-
-</pre>
-
-<p> <em></em>  </p>
 
 <p><strong></strong> </p>
 
 
 
-<div style="text-align: center;"><i></i></div> 
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
+<pre>
+<i></i>
+
+<i></i> 
+
+</pre>
+
+<p><strong></strong> </p>
+
+
+
+<pre>
+<i></i>
+
+<i></i>
+
+<i></i> 
+
+<i></i> 
+
+<i></i> 
+
+<i></i> 
+
+<i></i> 
+
+<i></i> 
+
+<i></i> 
+
+</pre>
+
+<p> <em></em> </p>
+
+<p><strong></strong> </p>
+
+
+
+<div style="text-align: center;"><i></i></div>
+
+
+
+
+
+
+
+
 
 <blockquote>
   <p><em></em></p>
 </blockquote>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p><strong></strong>  </p>
 
-<p> </p>
+
+
+
+
+
+<p><strong></strong> </p>
+
+
 
  </p>
             </div>
@@ -619,5 +619,51 @@
                 }
             }, 300);
         };
+
+        // Show more cards
+        function showMoreCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            console.log(sidebarCard);
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Show every sidebar-item-card-wrapper
+            for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.remove("hide");
+            }
+
+            // Change button text to "Show less"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
+
+            // Change onclick function to show less cards
+            button.setAttribute("onclick", "showLessCards(this)");
+        }
+
+        // Show less cards (hide all but the first two)
+        function showLessCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Hide every sidebar-item-card-wrapper after the first two
+            for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.add("hide");
+            }
+
+            // Change button text to "Show more"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
+
+            // Change onclick function to show more cards
+            button.setAttribute("onclick", "showMoreCards(this)");
+        }
     </script>
 </html>

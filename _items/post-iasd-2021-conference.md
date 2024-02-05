@@ -4,10 +4,11 @@ itemId: bcpov6gabnot
 layout: post
 name: "2021 IASD Conference"
 tags:
-  - hasTag: jeancampbell
-  - hasAuthor: jeancampbell
-  - hasTag: noticeboard
-  - hasTag: 34.1
+    - hasTag: jeancampbell
+    - hasAuthor: jeancampbell
+    - hasTag: noticeboard
+    - hasTag: 34.1
+    - inIssue: 34.1
 type: post
 urlSlug: "2021-iasd-conference"
 profileImg: post-bcpov6gabnot-0.jpg

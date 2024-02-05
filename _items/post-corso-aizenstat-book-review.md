@@ -4,10 +4,11 @@ itemId: bcpov6zaizer
 layout: post
 name: "Book Review: Dream Tending by Stephen Aizenstat"
 tags:
-  - hasTag: bambicorso
-  - hasTag: stephenaizenstat
-  - hasAuthor: bambicorso
-  - hasTag: 28.2-3
+    - hasTag: bambicorso
+    - hasTag: stephenaizenstat
+    - hasAuthor: bambicorso
+    - hasTag: 28.2-3
+    - inIssue: 28.2-3
 type: post
 urlSlug: "dream-tending-aizenstat-book-review"
 profileImg: post-bcpov6zaizer-0.jpg
@@ -26,13 +27,13 @@ Whether you are an experienced dreamer or just beginning, this insightful and ri
 
 In addition, Stephen offers his readers a step-by-step guide to access the living power of their dreams to:
 
-- Transform nightmare figures into profound and helpful mentors
-- Bring fresh warmth and intimacy into relationships
-- Overcome obsessions, compulsions, and addictions
-- Engage the healing forces of dreams through imaginal “medicines”
-- Re-imagine careers and cope with difficulties in the workplace
-- Discover the potential of untapped creativity
-- See the world with a new and dynamic perspective
+-   Transform nightmare figures into profound and helpful mentors
+-   Bring fresh warmth and intimacy into relationships
+-   Overcome obsessions, compulsions, and addictions
+-   Engage the healing forces of dreams through imaginal “medicines”
+-   Re-imagine careers and cope with difficulties in the workplace
+-   Discover the potential of untapped creativity
+-   See the world with a new and dynamic perspective
 
 > “_Dream Tending_ is a life practice that healers, storytellers, and poets have known by many different names for thousands of years. Passed on through the generations, the art of tending living dream images emerges in a culture when the call to see the natural world as alive is urgent.” (Quoted from page 11, The Living Image)
 

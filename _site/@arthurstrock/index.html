@@ -333,7 +333,7 @@
             <div class="card-body-text">
                 <p> 
 
-<p> 
+<p>
 
 <p><strong><em>Children are having nightmares related to the coronavirus. Children cannot fully escape from the relentless, graphi<span class='read-more'> ...read more</span></em></strong></p>
 
@@ -422,29 +422,29 @@
             </h3>
              
             <div class="card-body-text">
-                <p> <p>It was time to dig those old dream journals out of the basement. Yes, they were all there stored in plastic storage containers, thirty-three yea<span class='read-more'> ...read more</span> </p>
-
-<p> </p>
-
-<p> </p>
+                <p> <p>It was time to dig those old dream journals out of the basement. Yes, they were all there stored in plastic storage containers, thirty-three yea<span class='read-more'> ...read more</span></p>
 
 
 
-<p> </p>
 
 
 
-<p> </p>
 
 
 
-<p> </p>
-
-<p> </p>
 
 
 
-<p> </p>
+
+
+
+
+
+
+
+
+
+
 
  </p>
             </div>
@@ -521,25 +521,7 @@
             </h3>
              
             <div class="card-body-text">
-                <p> <p><strong>THE OLD MAN</strong> was still working. He had enough money and didn’t need to work, but working was a part of him. He dimly realized that his sparkle of <span class='read-more'> ...read more</span> </p>
-
-
-
-<blockquote>
-  <p> </p>
-</blockquote>
-
-<p> </p>
-
-<blockquote>
-  
-</blockquote>
-
-<p><strong></strong> </p>
-
-<p><strong></strong>  </p>
-
-<p><strong></strong> </p>
+                <p> <p><strong>THE OLD MAN</strong> was still working. He had enough money and didn’t need to work, but working was a part of him. He dimly realized that his sparkle of <span class='read-more'> ...read more</span></p>
 
 
 
@@ -547,15 +529,33 @@
   
 </blockquote>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
+<blockquote>
+  
+</blockquote>
 
-<p> </p>
+<p><strong></strong> </p>
 
-<p> </p>
+<p><strong></strong> </p>
+
+<p><strong></strong> </p>
+
+
+
+<blockquote>
+  
+</blockquote>
+
+
+
+
+
+
+
+
+
+
 
 <p> <em></em> </p> </p>
             </div>
@@ -632,21 +632,21 @@
             </h3>
              
             <div class="card-body-text">
-                <p> <p>Do you ever wish you could have a really <em>BIG DREAM?</em> You might imagine what it would be like: a great opportunity. Some people report having life d<span class='read-more'> ...read more</span> </p>
+                <p> <p>Do you ever wish you could have a really <em>BIG DREAM?</em> You might imagine what it would be like: a great opportunity. Some people report having life d<span class='read-more'> ...read more</span></p>
 
-<p> <em></em>  </p>
+<p> <em></em> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> <a href="../@jeancampbell"></a>  </p>
 
-<p> </p>
 
-<p> </p>
+
+<p> <a href="../@jeancampbell"></a> </p>
+
+
+
+
 
 
 
@@ -725,21 +725,21 @@
             </h3>
              
             <div class="card-body-text">
-                <p> <p>In the process of living, I often incubate a dream to get information. So, in keeping with the current Dream Network theme, I turned to dream in<span class='read-more'> ...read more</span> </p>
+                <p> <p>In the process of living, I often incubate a dream to get information. So, in keeping with the current Dream Network theme, I turned to dream in<span class='read-more'> ...read more</span></p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
+
+
+
+
+
+
+
 
  </p>
             </div>
@@ -818,43 +818,43 @@
             <div class="card-body-text">
                 <p> <p>People are becoming increasingly health conscious. Dreams, however, are often overlooked as a potential aid to good health. The following accoun<span class='read-more'> ...read more</span></p>
 
-<p> </p>
 
 
 
 
 
-<p> </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
 
 
 
-<p> <em></em> <em></em> </p>
 
-<p><em></em></p>
 
-<p> </p>
 
-<p> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p> <em></em> <em></em></p>
 
 <p><em></em></p>
 
-<p> </p>
+
+
+
+
+<p><em></em></p>
+
+
 
 
 
@@ -918,5 +918,51 @@
                 }
             }, 300);
         };
+
+        // Show more cards
+        function showMoreCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            console.log(sidebarCard);
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Show every sidebar-item-card-wrapper
+            for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.remove("hide");
+            }
+
+            // Change button text to "Show less"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
+
+            // Change onclick function to show less cards
+            button.setAttribute("onclick", "showLessCards(this)");
+        }
+
+        // Show less cards (hide all but the first two)
+        function showLessCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Hide every sidebar-item-card-wrapper after the first two
+            for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.add("hide");
+            }
+
+            // Change button text to "Show more"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
+
+            // Change onclick function to show more cards
+            button.setAttribute("onclick", "showMoreCards(this)");
+        }
     </script>
 </html>

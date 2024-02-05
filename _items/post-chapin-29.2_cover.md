@@ -4,9 +4,10 @@ itemId: bcpov6gii292
 layout: post
 name: ""
 tags:
- - hasTag: deborahkoffchapin
- - hasAuthor: deborahkoffchapin
- - hasTag: 29.2
+    - hasTag: deborahkoffchapin
+    - hasAuthor: deborahkoffchapin
+    - hasTag: 29.2
+    - inIssue: 29.2
 type: post
 urlSlug: "deborahkoffchapin-dnj-29-2_cover"
 profileImg: 29.2_cover.jpg

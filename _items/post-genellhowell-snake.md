@@ -4,9 +4,10 @@ itemId: bcpov6zpdlds
 layout: post
 name: "The Richness of Dreams for Self-Exploration: Lizard Devouring Snake"
 tags:
-  - hasTag: genellhowell
-  - hasAuthor: genellhowell
-  - hasTag: 34.1
+    - hasTag: genellhowell
+    - hasAuthor: genellhowell
+    - hasTag: 34.1
+    - inIssue: 34.1
 type: post
 urlSlug: "dreams-for-self-exploration-lizard-devouring-snake"
 keywords: "dream interpretation, association, amplification, animation, active imagination, dream tending, ritual, Jung, Freud, Aizenstat, sandplay"
@@ -110,9 +111,7 @@ Animating my dream Lizard Devouring Snake consisted of inviting the lizard and s
 
 Using dream tending, I invited the snake into dialogue by first asking the question, “who’s visiting now?” (Aizenstat, 2011, p.23). While I held a conversation with the snake, I could feel the somatic sensation of the lizard biting down upon the snake's neck. This somatic recognition was palpable, and in the experience, I recognized that I’m viscerally connected to this snake image. I recognized a felt sensation that noted the snake represented my freedom and autonomy, in addition to my capacity for growth and self-exploration. The following was the response my unconscious uncovered.
 
-> _Dreamer: Who’s visiting now? I noticed a pain a twinge in my somatic response to your presence. I have always been in fear of you since I was bit on the neck as a child. I mourned your devouring. You fought hard. You writhed and struggled, yet you continued to be outpowered. There’s such an awestruck beauty to your pain. How did you feel about it?_ > _There is a silence and a calm presence._
-> _Snake: I feel content. It’s a cycle of life, an important of sacrifice. This is natural. The pain is natural. It’s evolutionary._ > _Dreamer: What’s happening here? What do you need?_
-> _Snake: I need you to be at peace with the shadow with the pain. I need you to embrace its natural cycles and let go of control. Stop planning. Start embracing the unknown. It will be okay. You don’t need to have perfection nor the answers. You can embrace the present moment. I’m an ancestor, a spirit guide. Guiding you on a path._
+> _Dreamer: Who’s visiting now? I noticed a pain a twinge in my somatic response to your presence. I have always been in fear of you since I was bit on the neck as a child. I mourned your devouring. You fought hard. You writhed and struggled, yet you continued to be outpowered. There’s such an awestruck beauty to your pain. How did you feel about it?_ > _There is a silence and a calm presence._ > _Snake: I feel content. It’s a cycle of life, an important of sacrifice. This is natural. The pain is natural. It’s evolutionary._ > _Dreamer: What’s happening here? What do you need?_ > _Snake: I need you to be at peace with the shadow with the pain. I need you to embrace its natural cycles and let go of control. Stop planning. Start embracing the unknown. It will be okay. You don’t need to have perfection nor the answers. You can embrace the present moment. I’m an ancestor, a spirit guide. Guiding you on a path._
 
 <img src="../images/post-bcpov6zpdlds-7.jpg" height="auto" alt="Lizard" style="width: 100%; margin: auto;"/>
 <div class="caption"><span>By Vlad Panov on Unsplash</span></div>
@@ -209,14 +208,14 @@ Furthermore, I recognize the importance of slowing down as I lean into my freedo
 
 ## References
 
-- [Aizenstat, S](../@stephenaizenstat), (2011). Dream tending: awakening to the healing power of dreams. Spring Journal.
-- Andrews, T. (2003). The Magic of the Reptile World. In Animal Speak: The Spiritual and Magical Powers of Creatures Great and Small. Twenty-fourth printings.
-- Atherton, J. (2009). Sand Therapy – Dreams Made Visible. Inside Out: Journal of the Irish Association of Humanistic and Integrative Psychotherapy, (59).
-- Berry, P. (2000). Working with images the theoretical base of archetypal psychology. (S. Benjamin, Ed.). Spring Publications.
-- Boik, B. L., & Goodwin, E. A. (2000). Sandplay Therapy: A step-by-step manual for psychotherapists of diverse orientations. W.W. Norton.
-- Freud, S. (2001). On Dreams. Dover Publications.
-- Johnson, R. A. (1986). Inner Work: Using Dreams and Active Imagination for Personal Growth. HarperOne.
-- Jung, C. (1974). Dreams. Princeton University Press.
-- Ronnberg, A., & Martin, K. (2010). Desert, Snakes. In The book of symbols (pp. 116–117, &194-197).Taschen.
-- [Schul, J.](../@jeanneschul) (2015). Embodied Dreams. In S. Fraleigh (Ed.), Moving consciously: somatic transformations through dance, yoga, and touch (pp. 181–194). essay, University of Illinois Press.
-- Whitmont, E., & Perera, S. (1989). Dreams, A Portal To the Source. Routledge.
+-   [Aizenstat, S](../@stephenaizenstat), (2011). Dream tending: awakening to the healing power of dreams. Spring Journal.
+-   Andrews, T. (2003). The Magic of the Reptile World. In Animal Speak: The Spiritual and Magical Powers of Creatures Great and Small. Twenty-fourth printings.
+-   Atherton, J. (2009). Sand Therapy – Dreams Made Visible. Inside Out: Journal of the Irish Association of Humanistic and Integrative Psychotherapy, (59).
+-   Berry, P. (2000). Working with images the theoretical base of archetypal psychology. (S. Benjamin, Ed.). Spring Publications.
+-   Boik, B. L., & Goodwin, E. A. (2000). Sandplay Therapy: A step-by-step manual for psychotherapists of diverse orientations. W.W. Norton.
+-   Freud, S. (2001). On Dreams. Dover Publications.
+-   Johnson, R. A. (1986). Inner Work: Using Dreams and Active Imagination for Personal Growth. HarperOne.
+-   Jung, C. (1974). Dreams. Princeton University Press.
+-   Ronnberg, A., & Martin, K. (2010). Desert, Snakes. In The book of symbols (pp. 116–117, &194-197).Taschen.
+-   [Schul, J.](../@jeanneschul) (2015). Embodied Dreams. In S. Fraleigh (Ed.), Moving consciously: somatic transformations through dance, yoga, and touch (pp. 181–194). essay, University of Illinois Press.
+-   Whitmont, E., & Perera, S. (1989). Dreams, A Portal To the Source. Routledge.

@@ -1,16 +1,16 @@
 ---
-dateCreated: '2006-07-22T11:32:52'
+dateCreated: "2006-07-22T11:32:52"
 itemId: bcpov6zfabod
 layout: post
 name: "The Dream: In Search of a New Abode"
 tags:
-- hasTag: montagueullman
-- hasAuthor: montagueullman
+    - hasTag: montagueullman
+    - hasAuthor: montagueullman
 type: post
 urlSlug: the-dream-in-search-of-a-new-abode
 ---
 
-**Presented at the twenty-third Annual Meeting of the International Association for the Study of Dreams, July 22, 2006*
+\*_Presented at the twenty-third Annual Meeting of the International Association for the Study of Dreams, July 22, 2006_
 
 I am going to begin with a parable.
 In the current era dreams have come to us as a psychiatric heritage. Mention the word "dream" and two names come to mind, Freud and Jung. In the unique home Freud built for our dream life, the energy source came in the form of the personal unconscious and was located in the basement. Jung came along a bit later and built a quite different style home with a dual energy system in the form of both a personal and a genetically determined collective unconscious. Besides, it was not hidden in the basement but was built into the very obvious facade of the house. These two geniuses took us quite far in explaining the healing potential of the dream. Freud's instinctual theory has been extensively remodeled over time in the direction of a more adaptational model. Jung's home for the dream is still pretty much the way he built it. Both homes provided shelter to people who were in need of it.
@@ -20,12 +20,12 @@ Dreaming is characteristic of all mammals. Just as each of our bodily systems se
 We are better off for discovering the truth about ourselves in any of the four dimensions of our life. In the biological dimension dreams remind us of bodily needs. On occasion, organ pathology appears in a dream before waking awareness. In the psychological dimensions, where most of the subject matter of our dreams comes from, we explore our vices and our virtues. In the social dimension there is both negative and positive fallout from the various "isms" that are swept into our unconscious like sexism, racism, ageism and I might add dreamism, a derogatory attitude toward dreams, prejudging them from the point of view of the waking state as silly, unimportant, or meaningless.
 There is a fourth dimension that has no generally agreed upon designation, e.g. transpersonal, cosmic, spiritual. This has to do with the many unanswered questions about our place in a universe not of our own creation. Religion has attempted to fill in this gap but has not had a good track record in uniting us as the single species that we are.
 Despite the advances in our psychological study of dreams and the current experimental and observational studies, there are many unanswered questions about the nature of dreaming consciousness. Here are a few of them.
-*Where does the inexorable honesty of our dreams come from? It is as if we have a magic camera with an ethical aperture that opens wider while dreaming than in the waking state.*
-*What is the source of the creativity that shapes very original imagistic metaphors in our dreams that embed our true feelings and do so in a way that is oblivious of time, space and causality?*
-*What is it that so instantaneously links our remote past memories in their relevance to the current source of feelings that instigated the dream, something we can't do consciously?*
-*Where do the occasional "big" dreams come from that Jung referred to with imagery that evoke feelings far beyond our ordinary range?*
-*Why do paranormal events such as telepathy occur more often in dreams than in waking life?*
-*Why are we more acutely aware of all four dimensions of our life while dreaming than awake?*
+_Where does the inexorable honesty of our dreams come from? It is as if we have a magic camera with an ethical aperture that opens wider while dreaming than in the waking state._
+_What is the source of the creativity that shapes very original imagistic metaphors in our dreams that embed our true feelings and do so in a way that is oblivious of time, space and causality?_
+_What is it that so instantaneously links our remote past memories in their relevance to the current source of feelings that instigated the dream, something we can't do consciously?_
+_Where do the occasional "big" dreams come from that Jung referred to with imagery that evoke feelings far beyond our ordinary range?_
+_Why do paranormal events such as telepathy occur more often in dreams than in waking life?_
+_Why are we more acutely aware of all four dimensions of our life while dreaming than awake?_
 
 In seeking answers to these questions I have sought help beyond my own field of psychiatry. The last ten years of the twentieth century was known as the "decade of consciousness." Quantum physicists, in concert with many other disciplines, began to focus on "the hard problem" (Chalmers, 1995), namely, the connection of consciousness to its underlying neurophysiological substrate. With only few exceptions, however (Wolf, 1994; Walker, 2000; Eccles, 1953), the focus was exclusively on waking consciousness. Quantum theory was so successful in the light it shed on all its applications to the world of matter, perhaps it could bring us closer to an understanding of the relationship of mind to matter. The problem was that no one understood the strange features that came with it. These included its indeterminism, the wave-particle duality, the jump an electron makes in going from one orbit to another without being in between, the measurement problem where all aspects of the experiment including the observer influence on the end result, and finally the reality of the impossible, namely non-locality, where a signal goes faster than light.
 
@@ -34,9 +34,10 @@ There was something about these puzzling features of quantum theory that suggest
 ## Complementarity
 
 Bohr (1961) sounded a clarion call when he wrote of the relevance of the general concept of complementarity to quantum mechanics and how it might apply to disciplines other than physics, including the life sciences and the mind itself.
-> *The use of apparently contrasting attributes referring to equally important aspects of the human mind present indeed a remarkable analogy to the situation in atomic physics, where complementary phenomena for their definition require different elementary concepts. (p. 77)*
-We do not know what an electron is when it is not being measured. What we do know is that it has a dual nature depending on how we go about measuring it. Under one set of circumstances it becomes manifest as a particle. Under another set of circumstances it appears as a wave. This hidden unity of opposites is known as complementarity. It is also an apt term to describe the dual nature of consciousness. Awake we are in the particle mode facing a world of discrete objects. Asleep and dreaming we are coping with the internal resonant wave-like feelings seeking to embed themselves in symbolic imagery. Both states, while experienced in qualitatively different ways, are derivative of a unity. They are complementary. Both are necessary for a complete description of the individual. To the extent that one is in focus the other is not.
-More specifically, the two different forms of consciousness reflect the unique and paradoxical predicament we are in. We are one with the material fabric of the world and at the same time capable of observing that world, reflecting on it and interacting with it. Awake we function in a world characterized by its discreteness and patterning. Asleep and dreaming we shift to a more diffuse imagistic portrayal of residual feeling tones. Awake, the feeling tones that later surface in dreaming consciousness are dimly felt in a manner akin to a Greek chorus. The latter registers the background dissonance between a particular conscious response to a given experience and the seeming unawareness of its actual felt impact. Asleep and dreaming there is a figure-ground reversal highlighting the feelings involved while the waking ego is assigned to a more reactive role.
+
+> _The use of apparently contrasting attributes referring to equally important aspects of the human mind present indeed a remarkable analogy to the situation in atomic physics, where complementary phenomena for their definition require different elementary concepts. (p. 77)_
+> We do not know what an electron is when it is not being measured. What we do know is that it has a dual nature depending on how we go about measuring it. Under one set of circumstances it becomes manifest as a particle. Under another set of circumstances it appears as a wave. This hidden unity of opposites is known as complementarity. It is also an apt term to describe the dual nature of consciousness. Awake we are in the particle mode facing a world of discrete objects. Asleep and dreaming we are coping with the internal resonant wave-like feelings seeking to embed themselves in symbolic imagery. Both states, while experienced in qualitatively different ways, are derivative of a unity. They are complementary. Both are necessary for a complete description of the individual. To the extent that one is in focus the other is not.
+> More specifically, the two different forms of consciousness reflect the unique and paradoxical predicament we are in. We are one with the material fabric of the world and at the same time capable of observing that world, reflecting on it and interacting with it. Awake we function in a world characterized by its discreteness and patterning. Asleep and dreaming we shift to a more diffuse imagistic portrayal of residual feeling tones. Awake, the feeling tones that later surface in dreaming consciousness are dimly felt in a manner akin to a Greek chorus. The latter registers the background dissonance between a particular conscious response to a given experience and the seeming unawareness of its actual felt impact. Asleep and dreaming there is a figure-ground reversal highlighting the feelings involved while the waking ego is assigned to a more reactive role.
 
 ## The Observer and the Observed
 
@@ -47,7 +48,7 @@ There is, in effect, an actual merging of the observer and the observed as the d
 
 The term non-locality refers to the instantaneous transfer of a signal from one place to another through no known physical means. Non-locality at the quantum level has been subject to experimental proof but still remains a baffling mystery. Non-locality at the macro-level, as cited in dreams, has been supported by the experimental work in parapsychology and also remains a quite mysterious happening. Whether we are catching glimpses of one mystery or two different ones remains to be determined.
 
-> *My own interest in telepathy began in the course of psychoanalytic practice when a patient of mine would report a dream containing striking and non-inferential information of concordant events in my own life. This eventually led to experimentally controlled studies using the REM sleep-monitoring technique resulting in statistically significant findings with regard to both the occurrence of telepathic and precognitive dreaming (Ullman, [Krippner](../@stanleykrippner), Vaughan, 2002).*
+> _My own interest in telepathy began in the course of psychoanalytic practice when a patient of mine would report a dream containing striking and non-inferential information of concordant events in my own life. This eventually led to experimentally controlled studies using the REM sleep-monitoring technique resulting in statistically significant findings with regard to both the occurrence of telepathic and precognitive dreaming (Ullman, [Krippner](../@stanleykrippner), Vaughan, 2002)._
 
 We do strange things with time and space in our dreams as we impress them into metaphorical service. In the case of time the instantaneous condensation of past and present might be looked upon as a kind of subjective non-locality. The paranormal dream, on the other hand, suggests the possibility of an objective non-locality by spanning across space in the telepathic dream and across time in the precognitive dream. The information picked up is literally or symbolically depicted in the dream. At an anecdotal level Louisa E. Rhine (1961) noted that dreaming seems to favor the occurrence of telepathy over waking consciousness.
 
@@ -56,13 +57,14 @@ We do strange things with time and space in our dreams as we impress them into m
 Here there are three strands that seem to fit together, if only by analogy. The first is the assumption that quantum connectedness applies to the universe as a whole. This view has gained support with the experimental proof of the general acceptance of non-locality as a basic feature of quantum mechanics.
 The second is the view of Barlow (1980) who wrote:
 
-> *"Consciousness is not a property of a brain in isolation but is a property of a brain that is and has been in communication with other brains.... I shall suggest that consciousness ... is Nature's method of making humans behave cooperatively."* (p. 82)
+> _"Consciousness is not a property of a brain in isolation but is a property of a brain that is and has been in communication with other brains.... I shall suggest that consciousness ... is Nature's method of making humans behave cooperatively."_ (p. 82)
 
 This implies and I believe correctly that consciousness, awake or dreaming, is contextual in nature and that we lose sight of this in our assumption that it is our unique gift to do with as we want. Awake the capacity to love is the most coherent way of relating to a given context. When that capacity is impaired, efforts at healing are set in motion in a way similar to the efforts at repair when a bodily system is damaged in any way. It is in this sense also that dreaming consciousness as a natural healing system exposes impediments to connectedness and explores the coping resources available. Just as we are not in control of our own natural healing potential in response to trauma, infection or other sources of impairment, dreaming is an unconscious effort at healing in the realm of feelings, biologically enforced and spontaneously set in motion. Dreams shed light on unresolved tensions and in so doing pave the way to a truer sense of connection to one's past and to others in the present. Awake we are the beneficiaries of a biological adaptive mechanism that arose in connection with sleep. Once dream content became oriented to social existence in the human sense, the value of that content found its way into waking life. A prime example is the way preliterate societies have made use of their dreams (Eggan, 1949).
 
 ## Towards a New Abode
 
 What kind of a home is needed for that very special entity known as the dream? As the parable continues, the needs of that occupant are briefly summarized.
+
 <ol>
 <li>The dream needs an abode that is safe, warm and supportive regardless of the emotional weather outside where we encounter the occasional "slings and arrows of outrageous fortune."
 </li>
@@ -103,34 +105,36 @@ We do have to learn a new language to reap these benefits but that is not so bad
 I began with a parable and I'm going to end with one. The dreamer who lives in this new abode gets up in the morning, leaves his new abode and goes to work with his dream safely ensconced in his briefcase. His workplace is a very unusual building. It's a building in progress. It is a skyscraper<sup>3</sup> with no roof leaving room for a limitless supply of additional "stories." The interior is also unusual. There are no private offices for CEO's, managers, etc. There are only large rooms which can accommodate a small group. The chairs are arranged in a circle. One briefcase is opened and dream work begins in a process controlled by the dreamer.
 Four banners are draped over the facade of the building.
 The first was designed by Sigmund Freud. It reads:
-> *"The dream is the royal road to knowledge of the unconscious attributes of the mind."*
-The second was designed by Carl Gustav Jung. It reads:
-> *"So flower-like in its candor and veracity that it puts us to shame for the deceitfulness of our lives."*
-The third is from the abstract impressionist artist Robert Motherwell. It reads:
-> *"Oppression in art, as in life, is when the conclusion to be reached is predetermined by inner or outer a priori notions of how art ought to be."*
-The fourth is a somewhat changed rendering from a well-known call to arms by Karl Marx in the nineteenth century. It reads:
-> *"Dreamers of the world unite! You have nothing to lose but your theories."*
+
+> _"The dream is the royal road to knowledge of the unconscious attributes of the mind."_
+> The second was designed by Carl Gustav Jung. It reads:
+> _"So flower-like in its candor and veracity that it puts us to shame for the deceitfulness of our lives."_
+> The third is from the abstract impressionist artist Robert Motherwell. It reads:
+> _"Oppression in art, as in life, is when the conclusion to be reached is predetermined by inner or outer a priori notions of how art ought to be."_
+> The fourth is a somewhat changed rendering from a well-known call to arms by Karl Marx in the nineteenth century. It reads:
+> _"Dreamers of the world unite! You have nothing to lose but your theories."_
 
 ## Bibliography
-* Barlow, H.B. Nature's joke: A conjecture on the biological role of consciousness. In B.D. Josephson, and V.S. Ramachandran (eds.), "Consciousness and the Physical World, Pergamon Press, New York, 1980, pp. 81-94.
- 
-* Bohm, D. Wholeness and the Implicate Order, Routledge & Kegan Paul, London, 1980.
- 
-* Bohr, N. Atomic Physics and Human Knowledge, New York: Science Editions, Inc., 1961.
- 
-* Chalmers, D. Facing up to the Problem of Consciousness, Journal of Consciousness Studies, Vol. 2, No. 3, 1980, pp. 200-219. Eccles, J.C. The Neurophysiological Basis of Mind, Oxford: Clarendon Press, Chapter VIII, 1953.
- 
-* Eggan, D. The Manifest Content of Dreams. A Challenge to Social Science, 54: 4, 469-485, 1958.
- 
-* Lakoff, G. And Johnson, M. Metaphors We Live By, University of Chicago Press, 1980.
- 
-* Rhine, L.E. Hidden Channels of the Mind, Time Life Books, Alexandria, VA, 1961.
- 
-* Ullman, M., Krippner, S., Vaughan, A., Dream Telepathy, Experiments in National Extrasensory Perception, Hampton Roads, Charlottesville, NH, 2002.
- 
-* Walker, E.H. The Physics of Consciousness, Perseus Books, Cambridge, Massachusetts, 2000.
- 
-* Wolf, F.A. The Dreaming Universe, Simon & Schuster, New York, N.Y., 1994.
+
+-   Barlow, H.B. Nature's joke: A conjecture on the biological role of consciousness. In B.D. Josephson, and V.S. Ramachandran (eds.), "Consciousness and the Physical World, Pergamon Press, New York, 1980, pp. 81-94.
+
+-   Bohm, D. Wholeness and the Implicate Order, Routledge & Kegan Paul, London, 1980.
+
+-   Bohr, N. Atomic Physics and Human Knowledge, New York: Science Editions, Inc., 1961.
+
+-   Chalmers, D. Facing up to the Problem of Consciousness, Journal of Consciousness Studies, Vol. 2, No. 3, 1980, pp. 200-219. Eccles, J.C. The Neurophysiological Basis of Mind, Oxford: Clarendon Press, Chapter VIII, 1953.
+
+-   Eggan, D. The Manifest Content of Dreams. A Challenge to Social Science, 54: 4, 469-485, 1958.
+
+-   Lakoff, G. And Johnson, M. Metaphors We Live By, University of Chicago Press, 1980.
+
+-   Rhine, L.E. Hidden Channels of the Mind, Time Life Books, Alexandria, VA, 1961.
+
+-   Ullman, M., Krippner, S., Vaughan, A., Dream Telepathy, Experiments in National Extrasensory Perception, Hampton Roads, Charlottesville, NH, 2002.
+
+-   Walker, E.H. The Physics of Consciousness, Perseus Books, Cambridge, Massachusetts, 2000.
+
+-   Wolf, F.A. The Dreaming Universe, Simon & Schuster, New York, N.Y., 1994.
 
 ## Footnotes
 
@@ -140,8 +144,4 @@ The fourth is a somewhat changed rendering from a well-known call to arms by Kar
 
 <hr/>
 
-*Copyright © 2006 Montague Ullman, All Rights Reserved.* 
-
-
-
-
+_Copyright © 2006 Montague Ullman, All Rights Reserved._

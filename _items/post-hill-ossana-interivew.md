@@ -4,11 +4,12 @@ itemId: bcpov6mhilli
 layout: post
 name: "Apocalypse as a Rite of Passage - the Coexistence of Beauty & Beast in Psyche, in Culture: an Interview with Michael Ortiz Hill"
 tags:
-  - hasTag: michaelortizhill
-  - hasAuthor: michaelortizhill
-  - hasTag: robertaossana
-  - hasAuthor: robertaossana
-  - hasTag: 14.1-2
+    - hasTag: michaelortizhill
+    - hasAuthor: michaelortizhill
+    - hasTag: robertaossana
+    - hasAuthor: robertaossana
+    - hasTag: 14.1-2
+    - inIssue: 14.1-2
 type: post
 urlSlug: "an-interview-with-michael-ortiz-hill"
 profileImg: post-bcpov6mhilli-0.jpg
@@ -21,13 +22,13 @@ profileImg: post-bcpov6mhilli-0.jpg
 > **Apokalypsis:** (from the Greek) literally "revelation" or "a tearing away of the veil, of that which conceals" (kalyptein)
 > **Enantiodromia:** The qualities or personas, carried to their extremes, tend to become their opposite.
 
-*Editorial preface: When Michael and I were setting up this interview, I mentioned the shocking similarity of the dreams Michael built his book, 'Dreaming the End of the World' around and those received on this end as a result of our call for visionary dreams -resulting in this year's theme, Dreaming Humanity's Path. Similarity sufficient to cause trembling! This phenomenon, for me, confirms the essential message/story Psyche is communicating to the human community in these times.*
+_Editorial preface: When Michael and I were setting up this interview, I mentioned the shocking similarity of the dreams Michael built his book, 'Dreaming the End of the World' around and those received on this end as a result of our call for visionary dreams -resulting in this year's theme, Dreaming Humanity's Path. Similarity sufficient to cause trembling! This phenomenon, for me, confirms the essential message/story Psyche is communicating to the human community in these times._
 
 **Roberta Ossana:** Before we go into the heart of the crucial dreams and messages that you communicate in your book about them, will you share a little about yourself, your interest in dreams/especially dreams of apocalypse, and how the book came about?
 
 **Michael Ortiz Hill:** My background and education have definitely not been traditional. My mother is an artist and Mexican; her family goes back 250 years in Santa Fe, New Mexico My father was a Buddhist/Jungian intellectual. They met in the artist community in Santa Fe back in the 40's... so, I grew up in a certain ferment around artistic and psychic concerns. The beginning of my education was in my father's library, for sure! I was raised Catholic and learned the Buddha Dharma from my father when I was 15.
 
-My own practice has been largely Buddhist. When I was a teenager, I was homeless for three years and I regard that period as the real ground of my education: on one hand it was three years sleeping under freeway bridges, rummaging through garbage cans; on the other hand, I sat in on classes at the university, spending a great deal of time reading in university libraries. Carl Jung and Joseph Campbell were certainly my mentors. When I was homeless, a great deal of what I did was get an education. It was very deep, very rigorous and actually very devastating...  as one can imagine. What I call the apocalyptic rite of passage was first enacted in my life when I was on the street.
+My own practice has been largely Buddhist. When I was a teenager, I was homeless for three years and I regard that period as the real ground of my education: on one hand it was three years sleeping under freeway bridges, rummaging through garbage cans; on the other hand, I sat in on classes at the university, spending a great deal of time reading in university libraries. Carl Jung and Joseph Campbell were certainly my mentors. When I was homeless, a great deal of what I did was get an education. It was very deep, very rigorous and actually very devastating... as one can imagine. What I call the apocalyptic rite of passage was first enacted in my life when I was on the street.
 
 I rather reconstructed myself when I was in my twenties. Got a job working with dying people and began to piece myself together. I trained as a registered nurse and entered into a quasi-monastic Buddhist practice for 6 1/2 years, sitting zazen at the bedside of my patients during graveyard shift. So my work now is what I call curandeeismo, a Spanish word meaning that I do healing, both in the context of the hospital and doing ritual work with my wife, Deena Metzger. Dreams play a big part in all of this. I work very strongly with dreams with my patients/clients, also with the Tarot and doing ritual work. My training the last three years has been in Ifa, which is West African (Yoruba) religious tradition. That's my life in a nutshell.
 
@@ -43,7 +44,7 @@ So, I grew up within the mythology of the bomb, within the duck and cover genera
 
 **Michael:** That's a very good point because one of the startling things is, if you look at the roots of what is called apocalypse in Western culture... if you look, for instance, to the roots of the Gospel and the revelations of St. John about apocalypse in the Old Testament, you go back to the old Babylonian stories of Marduk and the slaying of the primordial dragon, Tiamat. An ordered Universe, the sky and the stars, comes from the body of the slain dragon.
 
-So, the story of apocalypse, at its root, is really the story of creation...not the story of the end of the world. It's the story of the end of one world and the beginning of another. So, you're absolutely right about that. 
+So, the story of apocalypse, at its root, is really the story of creation...not the story of the end of the world. It's the story of the end of one world and the beginning of another. So, you're absolutely right about that.
 
 **Roberta:** That's how this time seems, like an updating of the Creation story and being on the threshold of creation. Let's hope! It can't get too much more chaotic.
 
@@ -51,13 +52,13 @@ There are some quotes from your book that orchestrate these archetypal stories�
 
 ## DEPARTURE
 
-> *"This dream—the (collective) Dream at the End of the World—is the awakening of the Beast."* p.23
+> _"This dream—the (collective) Dream at the End of the World—is the awakening of the Beast."_ p.23
 
-> *"The Beast is an autonomous complex loose in the collective psyche..."* p.33
+> _"The Beast is an autonomous complex loose in the collective psyche..."_ p.33
 
-> *"The Beast is very often associated with the realm under the ground."* p.25
+> _"The Beast is very often associated with the realm under the ground."_ p.25
 
-> *"Very often the Beast's violence is located specifically in its hunger."* p.25
+> _"Very often the Beast's violence is located specifically in its hunger."_ p.25
 
 **Roberta:** What are some alternative, constructive suggestions you might make... what can be done to satisfy the hunger of the beast?
 
@@ -71,17 +72,17 @@ The other thing about feeding the Beast is that the passage through apocalypse i
 
 **Roberta:** So when we're talking about an autonomous complex loose in the collective psyche and how we might satisfy the Beast's hunger...it seems to boil down to the individual and to a recognition of shadow, leading to the rite of passage or the Initiatory stage of the Journey. More quotes from your book:
 
-> *"The Messiah, crazy in his desire to eliminate the enemy, easily becomes the Beast."* p. 31
-> *"In this dream, (at the end of the world) Beast and Messiah co-habit the same image."* p. 42
-> *"It is in coming to terms with the reality of the Beast that our salvation lies."* p. 44
-> *"Sub-scending the madness of the 20th century means descending into the Underworld to be initiated there."* p. 45
-> *"The dream of apocalypse depends on descending into the Beast's lair with tenderness of heart..."* p. 44
-> *"Rather than enacting apocalypse in the world unconsciously, we deliberately enter the apocalypse of the psyche for the sake of the world."* p.53
-> *"We are far more likely to participate in the world's destruction by clinging to the fiction of our innocence than if we have a conscious and living relationship with the darker aspects of our own nature."* p. 53
-> *"...apocalyptic initiation may well require destruction; one's 'world falling apart' can be intrinsic to the way of transformation."* p. 85
-> *"The recognition of apocalypse begins with looking into the face of what is falling apart and finding it unbearable..."* p. 85
-> *"...the project of preserving the fiction of normality in an apocalyptic time is itself the opium of the masses."* p. 85
-> *"These dreams speak of the end of denial, both of what is going on and of our complicity in it."* p. 99
+> _"The Messiah, crazy in his desire to eliminate the enemy, easily becomes the Beast."_ p. 31
+> _"In this dream, (at the end of the world) Beast and Messiah co-habit the same image."_ p. 42
+> _"It is in coming to terms with the reality of the Beast that our salvation lies."_ p. 44
+> _"Sub-scending the madness of the 20th century means descending into the Underworld to be initiated there."_ p. 45
+> _"The dream of apocalypse depends on descending into the Beast's lair with tenderness of heart..."_ p. 44
+> _"Rather than enacting apocalypse in the world unconsciously, we deliberately enter the apocalypse of the psyche for the sake of the world."_ p.53
+> _"We are far more likely to participate in the world's destruction by clinging to the fiction of our innocence than if we have a conscious and living relationship with the darker aspects of our own nature."_ p. 53
+> _"...apocalyptic initiation may well require destruction; one's 'world falling apart' can be intrinsic to the way of transformation."_ p. 85
+> _"The recognition of apocalypse begins with looking into the face of what is falling apart and finding it unbearable..."_ p. 85
+> _"...the project of preserving the fiction of normality in an apocalyptic time is itself the opium of the masses."_ p. 85
+> _"These dreams speak of the end of denial, both of what is going on and of our complicity in it."_ p. 99
 
 **Roberta:** In these quotes, Beast and the Jungian concept of Shadow—or that which is not yet conscious—are relative, almost synonymous, are they not?
 
@@ -109,13 +110,13 @@ Unfortunately, American culture is a fundamentalist culture in many respects. It
 
 ## RETURN
 
-> *"These dreams show that the Beast may well be presenting to us one of the many faces of God."* p. 145
-> *"One cannot behold the birth of light out of darkness without having been first rendered naked."* p.131
-> *"The light is revealed when one no longer knows who one is—when one is a mystery to oneself."* p. 131
-> *"The compassionate one is the archetype at the core of religion itself, in the original sense of the word: religiare, in Latin, 're-binding'."* p. 132
-> *"In two of these dreams, the act of re-binding is storytelling."* p. 133
-> *"The compassionate one is born the moment that self-preservation is no longer one's reason for being."* p. 131
-> *Therefore, Cultivate Compassion!* Title, chapter 13
+> _"These dreams show that the Beast may well be presenting to us one of the many faces of God."_ p. 145
+> _"One cannot behold the birth of light out of darkness without having been first rendered naked."_ p.131
+> _"The light is revealed when one no longer knows who one is—when one is a mystery to oneself."_ p. 131
+> _"The compassionate one is the archetype at the core of religion itself, in the original sense of the word: religiare, in Latin, 're-binding'."_ p. 132
+> _"In two of these dreams, the act of re-binding is storytelling."_ p. 133
+> _"The compassionate one is born the moment that self-preservation is no longer one's reason for being."_ p. 131
+> _Therefore, Cultivate Compassion!_ Title, chapter 13
 
 **Roberta:** Here, in the midst of apocalypse—as we approach the threshold of the new forms/the new creation story—how do we dream, Now, the beginning of the world?
 
@@ -133,16 +134,10 @@ My feeling is that we're moving into a more horizontal mode. We're not looking u
 
 ## The Oceans Above, The Sky Below: A Dream
 
-*I have been to a huge party in some kind of military compound, or military headquarters—either Air Force or NASA—and one of the officers wants to show me something. I sensed that this man was not only lonely but also alone, in that he knew something that nobody else knew. Some sort of secret mission. He wanted to show me what it was.*
+_I have been to a huge party in some kind of military compound, or military headquarters—either Air Force or NASA—and one of the officers wants to show me something. I sensed that this man was not only lonely but also alone, in that he knew something that nobody else knew. Some sort of secret mission. He wanted to show me what it was._
 
-*He takes me into a room that has what looks like an aircraft trainer in it, with seats for a pilot and passenger. He straps me into the passenger seat, makes sure I have a helmet securely strapped on, shows me how to "sight" in something like a rifle sight. (What am I going to be "sighting?") then he gets up into the pilot's seat, presses a button on the stick and we're immediately catapulted into outer space! It happens so fast that it fairly takes my breath away. We hover there for a few minutes, then we're suddenly back in the training room. He mentally tells me to go get something (what?) and come back to do this again. I wander through the halls but don't know which door to go into to get whatever it is I'm supposed to get. Finally, I go into a room full of officers who are just standing around and talking. I ask the one who seems to outrank the others where is this Colonel that I'm supposed to assist. He looks at me with disdain. The others turn around to stare at me as though they thought "Who do you think you are, to be assisting Colonel what's-his-name in such a secret project?" The officer studies me for a minute and then says "Oh, yes, you must be Maria" indicating that he knows this Colonel has need of me. He leads me through the hall toward the training room.*
+_He takes me into a room that has what looks like an aircraft trainer in it, with seats for a pilot and passenger. He straps me into the passenger seat, makes sure I have a helmet securely strapped on, shows me how to "sight" in something like a rifle sight. (What am I going to be "sighting?") then he gets up into the pilot's seat, presses a button on the stick and we're immediately catapulted into outer space! It happens so fast that it fairly takes my breath away. We hover there for a few minutes, then we're suddenly back in the training room. He mentally tells me to go get something (what?) and come back to do this again. I wander through the halls but don't know which door to go into to get whatever it is I'm supposed to get. Finally, I go into a room full of officers who are just standing around and talking. I ask the one who seems to outrank the others where is this Colonel that I'm supposed to assist. He looks at me with disdain. The others turn around to stare at me as though they thought "Who do you think you are, to be assisting Colonel what's-his-name in such a secret project?" The officer studies me for a minute and then says "Oh, yes, you must be Maria" indicating that he knows this Colonel has need of me. He leads me through the hall toward the training room._
 
-*I say, "Yes, we lifted off a while ago and I must admit I was scared pea-green at first but then I began to enjoy it." He smirks and says: "Yes, I guess there are some people who enjoy doing something different." I wonder what he means by this. Suddenly, before we get to the training room, I see we are in this huge room. It is round, like a transparent bubble. There are windows all around, from floor to domed ceiling and the ceiling is also transparent, like a domed skylight. There is something like a ballet bar against the right side of the wall. Suddenly, the entire bubble-room tilts sharply to the right and everything and everybody starts sliding and falling against the opposite wall. Some of them are yelling, all wondering what in the world is going on.*
+_I say, "Yes, we lifted off a while ago and I must admit I was scared pea-green at first but then I began to enjoy it." He smirks and says: "Yes, I guess there are some people who enjoy doing something different." I wonder what he means by this. Suddenly, before we get to the training room, I see we are in this huge room. It is round, like a transparent bubble. There are windows all around, from floor to domed ceiling and the ceiling is also transparent, like a domed skylight. There is something like a ballet bar against the right side of the wall. Suddenly, the entire bubble-room tilts sharply to the right and everything and everybody starts sliding and falling against the opposite wall. Some of them are yelling, all wondering what in the world is going on._
 
-*The officer who was leading me is the most nonplused by it all. I say to him: "Well, there's something different going on right now and we're all experiencing it." I'm frightened, wondering what it is and what all these people think about it and what's going to happen to Planet Earth. Suddenly, in a flash, I know that the Earth's poles are shifting and what was "up" is now going "down" and vice-versa. It's like the oceans will be above and the sky will be below...a complete REVERSAL of what once was and it would probably mean the extinction of life as we now know it. Not "life" per se but "life as we now know it."*
-
-
-
-
-
-
+_The officer who was leading me is the most nonplused by it all. I say to him: "Well, there's something different going on right now and we're all experiencing it." I'm frightened, wondering what it is and what all these people think about it and what's going to happen to Planet Earth. Suddenly, in a flash, I know that the Earth's poles are shifting and what was "up" is now going "down" and vice-versa. It's like the oceans will be above and the sky will be below...a complete REVERSAL of what once was and it would probably mean the extinction of life as we now know it. Not "life" per se but "life as we now know it."_

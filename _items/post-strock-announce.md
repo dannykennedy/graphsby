@@ -4,9 +4,9 @@ itemId: bcpov6zilbyd
 layout: post
 name: "Live By Your Dreams, now available free to download"
 tags:
-  - hasTag: arthurstrock
-  - hasAuthor: dreamnetwork
-  - hasTag: noticeboard
+    - hasTag: arthurstrock
+    - hasAuthor: dreamnetwork
+    - hasTag: noticeboard
 type: post
 profileImg: live-by-your-dreams-book-03-og.png
 urlSlug: "live-by-your-dreams-free-download"

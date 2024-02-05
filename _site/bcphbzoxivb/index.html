@@ -238,76 +238,76 @@
 
 <p></p>
 
-<p> </p>
-
-<p> </p>
-
-<p><strong></strong>  </p>
-
-<blockquote>
-  
-</blockquote>
-
-<blockquote>
-  <p> </p>
-</blockquote>
-
-<p> <a href="../@arnoldmindell"></a> </p>
-
-<p> </p>
-
-<blockquote>
-  <p> </p>
-</blockquote>
-
-<blockquote>
-  <p> </p>
-</blockquote>
-
-<blockquote>
-  <p> </p>
-</blockquote>
-
-<p> <em></em> </p>
-
-<p> <em></em>  <em></em>  <em></em> </p>
 
 
 
-<p> </p>
 
-<p> </p>
-
-<blockquote>
-  <p> </p>
-</blockquote>
-
-<p> </p>
-
-<p> </p>
-
-<blockquote>
-  <p> </p>
-</blockquote>
-
-<p> </p>
-
-<blockquote>
-  <p> </p>
-</blockquote>
-
-<blockquote>
-  <p> </p>
-</blockquote>
-
-<p> <a href="../@stanleykrippner"></a> </p>
+<p><strong></strong> </p>
 
 <blockquote>
   
 </blockquote>
 
 <blockquote>
-  <p> </p>
+  
+</blockquote>
+
+<p> <a href="../@arnoldmindell"></a></p>
+
+
+
+<blockquote>
+  
+</blockquote>
+
+<blockquote>
+  
+</blockquote>
+
+<blockquote>
+  
+</blockquote>
+
+<p> <em></em></p>
+
+<p> <em></em>  <em></em>  <em></em></p>
+
+
+
+
+
+
+
+<blockquote>
+  
+</blockquote>
+
+
+
+
+
+<blockquote>
+  
+</blockquote>
+
+
+
+<blockquote>
+  
+</blockquote>
+
+<blockquote>
+  
+</blockquote>
+
+<p> <a href="../@stanleykrippner"></a></p>
+
+<blockquote>
+  
+</blockquote>
+
+<blockquote>
+  
 </blockquote>
 
 <p> <em></em></p> </p>
@@ -386,62 +386,54 @@
              
             <div class="card-body-text">
                 <p> <blockquote>
-  <p><em>I dream that a conventional appearing middle class woman is calmly and confidently shooting two young lovers with a rifle. She shoots the young <span class='read-more'> ...read more</span></em> </p>
+  <p><em>I dream that a conventional appearing middle class woman is calmly and confidently shooting two young lovers with a rifle. She shoots the young <span class='read-more'> ...read more</span></em>  <em></em>  <em></em></p>
 </blockquote>
+
+
+
+<p> <a href="https://www.truthdig.com/articles/speaking-truth-on-the-fifth-of-july/"><em></em> <em></em></a></p>
 
 <blockquote>
-  <p><em></em> </p>
+  
 </blockquote>
+
+
 
 <blockquote>
-  <p><em></em></p>
+  
 </blockquote>
 
 
 
-<p> <a href="https://www.truthdig.com/articles/speaking-truth-on-the-fifth-of-july/"><em></em><em></em><em></em></a> </p>
+<p><sup></sup></p>
 
 <blockquote>
-  <p> </p>
+  
 </blockquote>
 
-<p> </p>
-
-<blockquote>
-  <p> </p>
-</blockquote>
-
-<p> </p>
-
-<p><sup></sup> </p>
-
-<blockquote>
-  <p> </p>
-</blockquote>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> </p>
 
 
 
-<p><sup></sup> <a href="../@robertmoss"></a> </p>
 
-<p> </p>
 
-<p> <em></em>  <em></em> <em></em> <em></em> <em></em>  <em></em>  <em></em> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><sup></sup> <a href="../@robertmoss"></a></p>
+
+
+
+<p> <em></em>  <em></em> <em></em> <em></em> <em></em>  <em></em>  <em></em></p>
 
 <p><a href="http://deenametzger.net/"> </a></p> </p>
             </div>
@@ -503,5 +495,51 @@
                 }
             }, 300);
         };
+
+        // Show more cards
+        function showMoreCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            console.log(sidebarCard);
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Show every sidebar-item-card-wrapper
+            for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.remove("hide");
+            }
+
+            // Change button text to "Show less"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
+
+            // Change onclick function to show less cards
+            button.setAttribute("onclick", "showLessCards(this)");
+        }
+
+        // Show less cards (hide all but the first two)
+        function showLessCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Hide every sidebar-item-card-wrapper after the first two
+            for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.add("hide");
+            }
+
+            // Change button text to "Show more"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
+
+            // Change onclick function to show more cards
+            button.setAttribute("onclick", "showMoreCards(this)");
+        }
     </script>
 </html>

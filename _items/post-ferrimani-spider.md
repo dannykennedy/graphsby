@@ -4,8 +4,8 @@ itemId: bcpov6grspid
 layout: post
 name: "What do I believe? – Ever Shifting Inner Paradigms"
 tags:
-  - hasTag: brendaferrimani
-  - hasAuthor: brendaferrimani
+    - hasTag: brendaferrimani
+    - hasAuthor: brendaferrimani
 type: post
 urlSlug: "ever-shifting-inner-paradigms"
 profileImg: paradigm-spider.jpg

@@ -7,6 +7,8 @@ tags:
     - hasTag: jeancampbell
     - hasAuthor: jeancampbell
     - hasTag: 22.2
+    - inIssue: 22.2
+    - featuredIn: dreamnetwork
 type: post
 urlSlug: can-the-world-dream-peace
 ---
@@ -23,7 +25,7 @@ Because these questions were primary to my own research as well, it quickly beca
 
 So I began with the premise that we are all psychic, that being psychic is our nature. It wasn’t long before the necessity to examine the nature of time and space became important to me as well, since the psychics I knew often talked about alternate realities, or other areas of time and space.
 
-These were interesting times in the field of dreams, during the 1970s. John Herbert, Richard Wilkerson and others summed some of that history up in articles in the last issue of Dream Network.
+These were interesting times in the field of dreams, during the 1970s. John Herbert, [Richard Wilkerson](../@henryreed) and others summed some of that history up in articles in the last issue of Dream Network.
 
 On the East Coast, [Dr. Henry Reed](../@henryreed) was publishing his _Sundance Community Dream Journal_ for the Association for Research and Enlightenment (ARE). This journal served the function of bringing dreamers into dialogue. So popular was this quarterly journal that, when the ARE stopped its production, a New Yorker by the name of Bill Stimson decided that something needed to be done to keep the grassroots dream community going. He was so convinced, that he started a small publication of his own, the _Dream Network Bulletin_, which was an immediate precursor of the Dream Network you now hold in your hand.
 
@@ -55,7 +57,7 @@ During the decade in which I was away from dreamwork, more dreamers had become c
 
 > “In the days following 9/11, it seemed to me that maybe it was time for a practical experiment. If it were true that we are dreaming the world, and if it were true that dreamers all over the world could come out of isolation via the internet, then perhaps we should join together to explore the possibility of dreaming the world into peace.”
 
-Possibly the single most important development of the decade was the Internet, where almost as soon as longdistance communication was possible, dreamworkers like the Rev. Jeremy Taylor, John Herbert, Jayne Gackenbach, and Richard Wilkerson were communicating globally with dreamers around the world and constructing Internet dream resources which far outshone anything available to dreamers prior to that time.
+Possibly the single most important development of the decade was the Internet, where almost as soon as longdistance communication was possible, dreamworkers like the [Rev. Jeremy Taylor](../@jeremytaylor), John Herbert, Jayne Gackenbach, and Richard Wilkerson were communicating globally with dreamers around the world and constructing Internet dream resources which far outshone anything available to dreamers prior to that time.
 
 When I returned to ASD in 1996, almost the first thing I did was volunteer to moderate the Online Bulletin Board at http://www.asdreams.org. I was fascinated by the potential of the Internet to link dreamers with one another and to provide instant communication. Whereas before, when the _‘Dreams to the Tenth Power’_ research was going on, weeks of sending dream accounts and responses through the mail were discouraging to dreamers. Now communication was instantaneous, free... with the click of a key.
 

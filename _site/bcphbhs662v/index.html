@@ -224,9 +224,15 @@
             </h3>
              
             <div class="card-body-text">
-                <p> <p>De Chirico's paintings come from dimensions of awareness that our kinds of understanding are only imperfect derivatives of. Yet the paintings sp<span class='read-more'> ...read more</span> </p>
+                <p> <p>De Chirico's paintings come from dimensions of awareness that our kinds of understanding are only imperfect derivatives of. Yet the paintings sp<span class='read-more'> ...read more</span></p>
 
-<p> </p>
+
+
+
+
+
+
+<h2></h2>
 
 
 
@@ -234,21 +240,15 @@
 
 <h2></h2>
 
-<p> </p>
 
-
-
-<h2></h2>
-
-<p> </p>
 
 
 
 <h2></h2>
 
-<p> </p>
 
-<p> </p>
+
+
 
 
 
@@ -350,27 +350,27 @@
             </h3>
              
             <div class="card-body-text">
-                <p> <p>Bring to mind how different life seemed when you were younger? Your perspective on the world, your beliefs about What you could accomplish, your<span class='read-more'> ...read more</span> <em></em> </p>
+                <p> <p>Bring to mind how different life seemed when you were younger? Your perspective on the world, your beliefs about What you could accomplish, your<span class='read-more'> ...read more</span> <em></em></p>
 
-<p> </p>
 
-<p> <strong></strong>  </p>
 
-<p> </p>
+<p> <strong></strong> </p>
 
-<p> </p>
 
-<p> </p>
+
+
+
+
 
 <blockquote>
-  <p> </p>
+  
 </blockquote>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
+
+
+
 
 <p> <em></em> </p> </p>
             </div>
@@ -440,5 +440,51 @@
                 }
             }, 300);
         };
+
+        // Show more cards
+        function showMoreCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            console.log(sidebarCard);
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Show every sidebar-item-card-wrapper
+            for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.remove("hide");
+            }
+
+            // Change button text to "Show less"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
+
+            // Change onclick function to show less cards
+            button.setAttribute("onclick", "showLessCards(this)");
+        }
+
+        // Show less cards (hide all but the first two)
+        function showLessCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Hide every sidebar-item-card-wrapper after the first two
+            for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.add("hide");
+            }
+
+            // Change button text to "Show more"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
+
+            // Change onclick function to show more cards
+            button.setAttribute("onclick", "showMoreCards(this)");
+        }
     </script>
 </html>

@@ -240,7 +240,7 @@
 
 <p>
 
-<p>Whether you are a seasoned dream worker or relatively new to exploring the dreamscap<span class='read-more'> ...read more</span> <em></em> <em></em>  </p>
+<p>Whether you are a seasoned dream worker or relatively new to exploring the dreamscap<span class='read-more'> ...read more</span> <em></em> <em></em> </p>
 
  </p>
             </div>
@@ -367,7 +367,7 @@
 
 
 
-<p> </p>
+
 
 <p><a href="https://web.archive.org/web/20041015134406/http://aa.usno.navy.mil/data/docs/EarthSeasons.html"></a></p>
 
@@ -468,7 +468,7 @@
 
 <p>
 
-<p>At once tender and powerful, <em>The Dreaming Way</em> chronicles a two-year relationship be<span class='read-more'> ...read more</span> </p>
+<p>At once tender and powerful, <em>The Dreaming Way</em> chronicles a two-year relationship be<span class='read-more'> ...read more</span></p>
 
 <p> <em></em> </p> </p>
             </div>
@@ -557,41 +557,41 @@
 
 <p><em>Gabrielle Roth began her exploration of trance dance in the mid-1960s and has devoted her life to honoring and communicating the l<span class='read-more'> ...read more</span> <strong></strong> <a href="https://ravenrecording.com/"></a> </em></p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p>  </p>
 
-<p><strong></strong>   </p>
 
-<p><strong></strong>   </p>
 
-<p><strong></strong>   </p>
 
-<p><strong></strong>   </p>
 
-<p><strong></strong>   </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>   </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>   </p>
 
-<p><strong></strong>  </p>
+
+<p><strong></strong> </p>
+
+<p><strong></strong> </p>
+
+
+
+<p><strong></strong> </p>
+
+<p><strong></strong> </p>
 
  </p>
             </div>
@@ -682,71 +682,71 @@
 
 <p><em>Ba<span class='read-more'> ...read more</span></em></p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  <em></em> </p>
+<p><strong></strong>  <em></em></p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
-<p><strong></strong>  </p>
+<p><strong></strong> </p>
 
 <p><strong></strong> </p> </p>
             </div>
@@ -808,5 +808,51 @@
                 }
             }, 300);
         };
+
+        // Show more cards
+        function showMoreCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            console.log(sidebarCard);
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Show every sidebar-item-card-wrapper
+            for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.remove("hide");
+            }
+
+            // Change button text to "Show less"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
+
+            // Change onclick function to show less cards
+            button.setAttribute("onclick", "showLessCards(this)");
+        }
+
+        // Show less cards (hide all but the first two)
+        function showLessCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Hide every sidebar-item-card-wrapper after the first two
+            for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.add("hide");
+            }
+
+            // Change button text to "Show more"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
+
+            // Change onclick function to show more cards
+            button.setAttribute("onclick", "showMoreCards(this)");
+        }
     </script>
 </html>

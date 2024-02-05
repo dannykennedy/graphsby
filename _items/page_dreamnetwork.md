@@ -9,7 +9,7 @@ tags:
 shortDescription: "Welcome to the Dream Network"
 tags:
 profileImg: tree-logo.png
-coverImg: gaia_gazing_snyder.jpg
+coverImg: mirror-crop-3.jpg
 featured: [bcpov6gfgomw,bcpov6shpocw]
 featuredLabel: 'Recent articles'
 ---
@@ -20,7 +20,7 @@ If you'd like to look up an individual author or article, there's a growing [aut
 
 Please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> for questions.
 
-Cover image: _Gaia gazes in the mirror and sees the Earth_, by [Eric Snyder](../@ericsnyder/)
+Cover image: _Mirror_, by [Deborah Koff Chapin](../@deborahkoffchapin/)
 
 <div class="socials">
 <div>

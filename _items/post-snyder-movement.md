@@ -4,9 +4,10 @@ itemId: bcpov6zd3tdm
 layout: post
 name: "The Dreamwork Movement"
 tags:
-  - hasTag: ericsnyder
-  - hasAuthor: ericsnyder
-  - hasTag: 6.4
+    - hasTag: ericsnyder
+    - hasAuthor: ericsnyder
+    - hasTag: 6.4
+    - inIssue: 6.4
 type: post
 profileImg: post-bcpov6zd3tdm-0.jpg
 urlSlug: "the-dreamwork-movement"
@@ -33,9 +34,3 @@ One skill of dreaming which can easily be taught is lucid dreaming. This is the 
 <img src="../images/post-bcpov6zd3tdm-1.jpg" alt="farm house with sun" width="300" height="auto"/>
 
 The scholars and scientists can continue to prove and disprove theories about dreaming. It is their choice and their place to do so. Meantime the dreamworkers will continue developing a broad base, grass-roots network of people interested in dream skills at the nutsand-bolts level. This is fitting because it is high time that an activity such as dreaming, in which we all share, should be given some respectability and a meaningful place in our lives.
-
-
-
-
-
-

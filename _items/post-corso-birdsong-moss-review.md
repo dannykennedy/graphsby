@@ -9,6 +9,7 @@ tags:
     - hasTag: kimbirdsong
     - hasAuthor: kimbirdsong
     - hasTag: 24.2
+    - inIssue: 24.2
 type: post
 urlSlug: "dreamways-of-the-iriquois-book-review"
 profileImg: post-bcpov6mossr2-0.jpg

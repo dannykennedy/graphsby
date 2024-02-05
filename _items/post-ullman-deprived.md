@@ -1,18 +1,18 @@
 ---
-dateCreated: '1997-01-01T11:32:52'
+dateCreated: "1997-01-01T11:32:52"
 itemId: bcpov6zfdepr
 layout: post
 name: "The Significance of Dreams in a Dream Deprived Society"
 tags:
-- hasTag: montagueullman
-- hasAuthor: montagueullman
+    - hasTag: montagueullman
+    - hasAuthor: montagueullman
 type: post
 urlSlug: the-significance-of-dreams-in-a-dream-deprived-society
 ---
 
 (Date unknown, after 1996)
 
-> *Oppression in art, as in life, is when the conclusion to be reached is predetermined by inner or outer a priori motives of how life or art ought to be.* -Robert Motherwell
+> _Oppression in art, as in life, is when the conclusion to be reached is predetermined by inner or outer a priori motives of how life or art ought to be._ -Robert Motherwell
 
 Civilization has posed a difficult task for the dreamer. Born into a society where dreams are of little or no social importance, the dreamer is left with few ways to satisfy a very natural curiosity to learn what the dream is saying. The result is a kind of emotional ecological loss to society, one in which so valuable a resource has gone unappreciated. Some day someone like Rachel Carson may come along to alert us to the price we are paying for this neglect. The repair will depend on the honesty with which we can face up to the general historical developments that have led up to this state of affairs and the current sociocultural forces that perpetuate it.
 
@@ -125,7 +125,6 @@ For too long the public has been taken in by the prevailing mystique that seriou
 
 We are in need of a politics of connectedness. The growing interest in the healing potential of our dream life holds out the hope we may eventually reach the goal of matching our biological unity as a species with a cultural reality of communion and brotherhood. My point is not that dreams will save us from ultimate disaster but they can, if taken seriously, be one among many countervailing efforts.
 
-
 ## Bibliography
 
 Fromm, E. (1951). The Forgotten Language. New York: Rinehart & Co., Inc.
@@ -140,8 +139,4 @@ Ullman, M. (1996). Appreciating Dreams: A Group Approach. Thousand Oaks, Califo
 
 <hr/>
 
-*Copyright © 1997 Montague Ullman, All Rights Reserved.* 
-
-
-
-
+_Copyright © 1997 Montague Ullman, All Rights Reserved._

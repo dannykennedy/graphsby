@@ -4,10 +4,11 @@ itemId: bcpov6zfbsbr
 layout: post
 name: "Book Review: Glimpses From Beyond The Ego: Dreams, Zen, & Nature by Bill Stimson"
 tags:
-  - hasTag: stanleykrippner
-  - hasTag: billstimson
-  - hasAuthor: stanleykrippner
-  - hasTag: 34.1
+    - hasTag: stanleykrippner
+    - hasTag: billstimson
+    - hasAuthor: stanleykrippner
+    - hasTag: 34.1
+    - inIssue: 34.1
 type: post
 urlSlug: "glimpses-from-beyond-the-ego-bill-stimson-book-review"
 profileImg: post-bcpov6zfbsbr-0.jpg

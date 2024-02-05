@@ -232,19 +232,19 @@
             </div>
             
             <div class="card-body-text">
-                <p> <p>"Freud is right," I said to myself, somewhat incredulous as the psychology professor explained the id and the libido. "Freud is right," I said a<span class='read-more'> ...read more</span> </p>
-
-<p> </p>
-
-<p> </p>
-
-<p> <em></em> </p>
+                <p> <p>"Freud is right," I said to myself, somewhat incredulous as the psychology professor explained the id and the libido. "Freud is right," I said a<span class='read-more'> ...read more</span></p>
 
 
 
-<p> </p>
 
-<p> </p>
+
+<p> <em></em></p>
+
+
+
+
+
+
 
 
 
@@ -254,9 +254,9 @@
 
 
 
-<p> </p>
 
-<p> </p>
+
+
 
 <h2></h2>
 
@@ -280,25 +280,25 @@
 
 <h2></h2>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
+
+
+
+
+
 
 <h2></h2>
 
 
 
-<p> <em></em> </p>
+<p> <em></em></p>
 
-<p> </p>
 
-<p> <a href="../@jeremytaylor"></a>   </p>
+
+<p> <a href="../@jeremytaylor"></a> </p>
 
 <h2></h2>
 
@@ -389,33 +389,33 @@
 
 <p>
 
-<p>One of the most important legacies of Sigmund Freud, the great 20th century pioneer of dream exploration and father of the con<span class='read-more'> ...read more</span> </p>
+<p>One of the most important legacies of Sigmund Freud, the great 20th century pioneer of dream exploration and father of the con<span class='read-more'> ...read more</span></p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
+
+
+
 
 
 
 <div class=caption style="text-align: center;"><i></i></div>
 
-<p> </p>
-
-<p> </p>
 
 
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p>
 
-<p> </p> </p>
+
+
+
+
+
+
+
+ </p>
             </div>
         </div>
         <div class="card-footer">
@@ -475,5 +475,51 @@
                 }
             }, 300);
         };
+
+        // Show more cards
+        function showMoreCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            console.log(sidebarCard);
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Show every sidebar-item-card-wrapper
+            for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.remove("hide");
+            }
+
+            // Change button text to "Show less"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
+
+            // Change onclick function to show less cards
+            button.setAttribute("onclick", "showLessCards(this)");
+        }
+
+        // Show less cards (hide all but the first two)
+        function showLessCards(button) {
+            // Get parent of button (sidebar-card)
+            var sidebarCard = button.parentElement.parentElement;
+
+            // Get every sidebar-item-card-wrapper in the sidebar-card
+            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+            console.log(sidebarItemCardWrappers);
+
+            // Hide every sidebar-item-card-wrapper after the first two
+            for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
+                sidebarItemCardWrappers[i].classList.add("hide");
+            }
+
+            // Change button text to "Show more"
+            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
+
+            // Change onclick function to show more cards
+            button.setAttribute("onclick", "showMoreCards(this)");
+        }
     </script>
 </html>

@@ -4,9 +4,10 @@ itemId: bcpov6gii281
 layout: post
 name: "Back to Basics"
 tags:
- - hasTag: ornabenshoshan
- - hasAuthor: ornabenshoshan
- - hasTag: 28.1
+    - hasTag: ornabenshoshan
+    - hasAuthor: ornabenshoshan
+    - hasTag: 28.1
+    - inIssue: 28.1
 type: post
 urlSlug: "ornabenshoshan-dnj-28-1_cover"
 profileImg: 28.1_cover.jpg

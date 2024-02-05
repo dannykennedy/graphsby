@@ -4,28 +4,29 @@ itemId: bcpov6rssull
 layout: post
 name: "The Ullman Method of Dream Analysis: Content and Context"
 tags:
-  - hasTag: sandyselasmith
-  - hasTag: montagueullman
-  - hasAuthor: sandyselasmith
-  - hasTag: 19.1
+    - hasTag: sandyselasmith
+    - hasTag: montagueullman
+    - hasAuthor: sandyselasmith
+    - hasTag: 19.1
+    - inIssue: 19.1
 type: post
 urlSlug: "the-ullman-method-of-dream-analysis"
+profileImg: post-bcpov6zfacet-1.jpg
 ---
 
 <img src="../images/post-bcpov6zfacet-1.jpg" style="max-width: 300px; height: auto" alt="Montague Ullman"/>
 
 Five simple words, "if this were my dream" make the Ullman (1996, 1999; Ullman & Zimmerman, 1979) process of Dream Appreciation one of the most profound instruments I have found to unlock the messages in dreams - and more. I had the privilege of participating in three dreamwork trainings with [Monte Ullman](../@montagueullman) in the late 1990s.
 
-Ullman began his career as a psychiatrist but soon discovered the power of working with dreams and dedicated his life to teaching a method that allows the dreamer, as well as dream group participants, to access the deepest recesses of the unconscious. He believes that there is a species consciousness that is calling for our personal and collective survival and drawing us toward our ongoing evolution. Each of us, according to Ullman's philosophy, contain billions of single-celled organisms that have formed collectives of organs, systems, and functions, as they are learning to live as one, and as species, we are several billions of people also learning to live as one. Just as the human being cannot survive if cells become self-destructive or attack other life giving cells within the body, the species cannot survive if we, as individuals or as social groups, destroy others or ourselves with destructive patterns. 
+Ullman began his career as a psychiatrist but soon discovered the power of working with dreams and dedicated his life to teaching a method that allows the dreamer, as well as dream group participants, to access the deepest recesses of the unconscious. He believes that there is a species consciousness that is calling for our personal and collective survival and drawing us toward our ongoing evolution. Each of us, according to Ullman's philosophy, contain billions of single-celled organisms that have formed collectives of organs, systems, and functions, as they are learning to live as one, and as species, we are several billions of people also learning to live as one. Just as the human being cannot survive if cells become self-destructive or attack other life giving cells within the body, the species cannot survive if we, as individuals or as social groups, destroy others or ourselves with destructive patterns.
 
 I interpret this to mean that for us to survive, cells and human beings must learn to respect life both individually and collectively. We must honor boundaries without creating impermeable walls, be distinct without separating, connect without absorbing or being absorbed, and be flexible without collapsing as we change and grow. We must actively share, nurture, love, and allow each and all to survive and thrive. However, in our development, as individuals and in social units, we have formed patterns that are a danger to ourselves and to our species. Ullman suggests species consciousness, perhaps something akin to Jung's collective unconscious, is the universal force that seeks to bring into awareness those behavior patterns that can lead to destruction. Dreaming is one of the languages of that universal consciousness. Dr. Ullman and Zimmerman (1979) contend that:
 
-> *The dreamer in us keeps urging us on to greater wholeness... Dreams never give up on us. They are with us every night urging us to face the issues that restrict and discourage us, or that limit our inventiveness. (Pp. 318-319)*
+> _The dreamer in us keeps urging us on to greater wholeness... Dreams never give up on us. They are with us every night urging us to face the issues that restrict and discourage us, or that limit our inventiveness. (Pp. 318-319)_
 
-In *Appreciating Dreams*, Ullman (1996) states:
+In _Appreciating Dreams_, Ullman (1996) states:
 
-> *From an evolutionary point of view, there may be another role that our biology plays in connection with our dreams. I think dreamwork brings us into closer touch with a vital aspect of our natural animal heritage.*
-> *Animals depend for survival on the accuracy and truthfulness of their sensorially perceived world. That dependency is still with us in our effort to adapt to a still imperfect human environment. The task is a bit more difficult for us because of the pitfalls and falsehoods that our cultural heritage has subjected us to. To the extent that we are victimized by false notions, we are not free to truly fulfill ourselves. Asleep and dreaming. we are in pursuit of freedom in those areas that have eluded us while awake. The relationship between freedom and truth is the driving force of our dreams. (p. 243)*
+> _From an evolutionary point of view, there may be another role that our biology plays in connection with our dreams. I think dreamwork brings us into closer touch with a vital aspect of our natural animal heritage._ > _Animals depend for survival on the accuracy and truthfulness of their sensorially perceived world. That dependency is still with us in our effort to adapt to a still imperfect human environment. The task is a bit more difficult for us because of the pitfalls and falsehoods that our cultural heritage has subjected us to. To the extent that we are victimized by false notions, we are not free to truly fulfill ourselves. Asleep and dreaming. we are in pursuit of freedom in those areas that have eluded us while awake. The relationship between freedom and truth is the driving force of our dreams. (p. 243)_
 
 Picture, if you will, a group of people coming together who are interested in understanding their dreams. It is possible that no-one has met anyone else in the group and yet, by the end of a process, it is likely they will feel as if they have known each other their whole lives. In that time someone or maybe several of the members will have shared with the group a dream. There will have been careful listening, questioning, and each will have had the opportunity to take the dream that is presented as if it were their own. Feelings and metaphors within the dream will have been explored, and meanings orchestrated. There will be a bond that connects the participants through space and time, simply because they dared to look into the darkness, step into it, and discover what is there for them.
 
@@ -43,7 +44,7 @@ In the third stage part (a) the dreamer takes back the dream and may respond to 
 
 If the group meets again, the next session begins with giving the dreamer in the previous dream group an opportunity to present any additional insights regarding the dream in the intervening period.
 
-## The responsibilities 
+## The responsibilities
 
 Forming, leading, presenting, and participating in a dream group requires attention to a number of responsibilities if integrity is to be maintained. Above all else, the dreamer is to be in control of the process, deciding how deep to go, how much to disclose, and whether or not to advance into each stage. If for any reason at any time in the process the sense of safety feels threatened, the dreamer can stop the process and after expressing the need to stop, can choose to continue or end the process. Recognizing the tension that might exist between safety and discovery, the group and group leader can encourage stretching just a bit beyond the comfort level if the dreamer is willing. Always. a high degree of sensitivity is required to nudge without pushing too hard or too far. It is often in the thoughtful nudge that great insight occurs while a thoughtless push can devastate the dreamer and destroy the process.
 
@@ -69,9 +70,9 @@ It is my belief that recalling and using this particular dream at this particula
 
 Probably the most far-reaching aspect of having "dream group awareness" was when I discovered the dream process can be applied to life experience. I became aware that events in people's waking lives had many of the same characteristics as dreams. When taking notes on clients' "stories," I discovered I could pay attention to all the details with the same attention I held as a participant in a dream group. I examined the setting the client reported, looked for themes, noticed tensions and observed contradictions. I looked for metaphoric potential. I looked for what seemed missing, perhaps emotional responses or pieces that didn't seem to connect because something was left out. I listened for a sense of story, a belief or myth that might be playing itself out in the person's life. I noticed the play on words that were embedded in the telling of the story. I even noticed each of the people the client talked about and began to look for aspects of the client that seemed to be reflected in the characters who "peopled" their report. I could take the stories into my life, and experience them as if they were my own, and notice my own responses. I approached the client's story with the same kind of non-judgmental, loving, respect, as in dreamwork. As I orchestrated projections, clients began to gain profound insight and make significant and immediate changes. I am reminded of a report told by Salk (1983), the developer of the polio vaccine.
 
-He said: 
+He said:
 
-> *Very early in my life I would imagine myself in the position of the object in which I was interested. Later, when I became a scientist, I would picture myself as a virus, or as a cancer cell, for example, and try to sense what it would be like to be either. I would also imagine myself as the immune system, and I would try to reconstruct what I would do as an immune system engaged in combating a virus or cancer cell... Before long, this internal dialogue became second nature to me. (p. 7)*
+> _Very early in my life I would imagine myself in the position of the object in which I was interested. Later, when I became a scientist, I would picture myself as a virus, or as a cancer cell, for example, and try to sense what it would be like to be either. I would also imagine myself as the immune system, and I would try to reconstruct what I would do as an immune system engaged in combating a virus or cancer cell... Before long, this internal dialogue became second nature to me. (p. 7)_
 
 I believe it is this consciousness that is entered in dream group work or in working with clients. Asking clients to look at an issue as if it were a dream and by joining them in the dream by taking it on as if it were mine, we step back to see what is really going on, looking for the myths and belief systems through which they create their lives. The clients recognizes that they have a choice regarding what myths direct their lives and whether or not they will take responsibility for that choice.
 
@@ -81,25 +82,7 @@ Playing on the words of an old favorite Disney song from "Cinderella," I would s
 
 ## References
 
-Salk, J. (1983). Anatomy of reality. New York: Columbia University Press 
-Ullman, M. (1996). Appreciating dreams: A group approach. London: Sage Publications. 
-Ullman, M. (1999). Variety of dream experiences. (2nd Ed.) New York: State U. of New York Press. 
+Salk, J. (1983). Anatomy of reality. New York: Columbia University Press
+Ullman, M. (1996). Appreciating dreams: A group approach. London: Sage Publications.
+Ullman, M. (1999). Variety of dream experiences. (2nd Ed.) New York: State U. of New York Press.
 Ullman, M. & Zimmerman, N. (1979). Working with dreams: Self- understanding, problem solving, and enriched creativity though dream appreciation. NY. G.P. Putnam's Sons.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

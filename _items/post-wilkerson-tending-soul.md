@@ -4,11 +4,12 @@ itemId: bcpov6zftens
 layout: post
 name: "Tending to the Soul of the World: An Interview with Richard Wilkerson"
 tags:
-  - hasTag: richardwilkerson
-  - hasAuthor: richardwilkerson
-  - hasAuthor: ericsnyder
-  - hasTag: ericsnyder
-  - hasTag: 21.4-22.1
+    - hasTag: richardwilkerson
+    - hasAuthor: richardwilkerson
+    - hasAuthor: ericsnyder
+    - hasTag: ericsnyder
+    - hasTag: 21.4-22.1
+    - inIssue: 21.4-22.1
 type: post
 urlSlug: tending-to-the-soul-of-the-world
 ---

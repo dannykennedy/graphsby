@@ -5,12 +5,13 @@
 #########
 
 # Libraries
-import os, sys, re, jinja2, calendar, html5lib, shutil
+import os, sys, re, jinja2, calendar, html5lib, shutil, random
 # import dateutil.parser # For converting xsd:datetime to something sensible
 from rdflib import Namespace, Literal, ConjunctiveGraph
 from pathlib import Path
 from html5lib_truncation import truncate_html
 from graph import *
+from supporters import *
 
 # Custom functions in ./modules
 sys.path.insert(1, './modules')
@@ -86,6 +87,15 @@ Path(fonts_folderpath2).mkdir(parents=True, exist_ok=True)
 copytree(cwd + "/fonts/", cwd + build_folder + "/styles/fonts")
 copytree(cwd + "/fonts/", cwd + build_folder + "/fonts")
 
+# Random images to assign if there's no article image
+random_imgs = [
+	"1.3-sml.jpg",
+	"1.2-sml.jpg",
+	"1.5-sml.jpg",
+	"1.8-sml.jpg",
+	"2.4-sml.jpg",
+]
+
 # TODO: Files
 
 ##############
@@ -114,7 +124,7 @@ for subdir, dirs, files in os.walk(cwd + '/_items'):
 
 
 ##########################################################
-# LOOP ONCE AND ADD INSTANCES (THE ACTUAL ITEMS / CONTENT)
+# 1) LOOP ONCE AND ADD INSTANCES (THE ACTUAL ITEMS / CONTENT)
 ##########################################################
 
 instances = []
@@ -178,7 +188,7 @@ for triple in instances:
 
 
 ###############################################
-# LOOP AGAIN AND ADD TAGS (EDGES BETWEEN ITEMS)
+# 2) LOOP AGAIN AND ADD TAGS (EDGES BETWEEN ITEMS)
 ###############################################
 
 edges = []
@@ -416,6 +426,10 @@ for pyyam in file_objects:
 
 	# Create a tags array (for info about the post)
 	little_tags = []
+	other_articles_in_issue = {
+		"issueName": "",
+		"articles": []
+	}
 	authors = []
 	for lil_tag in tag_query:
 
@@ -437,16 +451,113 @@ for pyyam in file_objects:
 
 		if relation == "hasTag":
 			little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
+		elif relation == "inIssue":
+			# Find the name of the issue and the other articles in it
+			issue_query_string = """
+				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+				SELECT DISTINCT ?issueName ?articleName ?img ?articleId ?stringid
+				WHERE {{
+					?issue dnj:itemId "{issue_id}"^^xsd:string .
+					?article dnj:inIssue ?issue .
+					?article dnj:name ?articleName .
+					?article dnj:itemId ?articleId .
+					?article dnj:handle|dnj:urlSlug ?stringid .
+					?issue dnj:name ?issueName .
+					OPTIONAL {{ ?article dnj:profileImg ?img }}
+				}}""".format(issue_id=tagId, article_id=pyyam["itemId"])
+
+			issue_query = graph.query(issue_query_string)
+
+			# Get issue name
+			issue_name = ""
+			if issue_query:
+				for issue in issue_query:
+					issue_name = issue[0]
+					break
+			other_articles_in_issue.update({"issueName": issue_name})
+
+			for issue in issue_query:
+
+				issue_name = issue[0]
+				article_name = issue[1]
+				article_profile_img = issue[2]
+				article_id = str(issue[3])
+				article_string_identifier = issue[4]
+
+				display_profile_img = article_profile_img
+				if article_profile_img is None:
+					# Choose a random image for the display_profile_img
+					# Based on the article name % length of random_imgs
+					# This way, the same article will always have the same image
+					# But it will be random for each article
+					display_profile_img = random_imgs[len(article_name) % len(random_imgs)]
+
+				# If it's not the current article, add it to the list of other articles in the issue
+				if article_id != pyyam["itemId"]:
+					other_articles_in_issue["articles"].append({"issue_name": issue_name, "name": article_name, "itemId": article_id, "profileImg": display_profile_img, "string_identifier": article_string_identifier, "url": '../' + article_id + '/' + article_string_identifier, "target": "_self"})
+
 		elif relation == "hasAuthor":
-			author = {"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image}
+			author = {"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "articles": []}
+			
+			# RELATED ARTICLES - Find all articles that this author has written
+			query_string = """
+				PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+				SELECT DISTINCT ?item ?name ?itemId ?img ?stringid
+				WHERE {{
+					?item dnj:itemId ?itemId .
+					?item dnj:handle|dnj:urlSlug ?stringid .
+					?item dnj:name ?name .
+					?item dnj:dateCreated ?dateCreated .
+					?item dnj:hasAuthor ?author .
+					?author dnj:itemId "{id}"^^xsd:string
+					OPTIONAL {{ ?item dnj:profileImg ?img }}
+				}}""".format(id=tagId)
+
+			author_query = graph.query(query_string)
+
+			for article in author_query:
+				# Don't add the current article to the list of articles
+				# Convert article[3] (the itemId) to a pure string
+				# Otherwise it's a weird rdflib object
+				article_name = article[1]
+				article_id = str(article[2])
+				article_profile_img = article[3]
+				article_string_identifier = article[4]
+
+				display_profile_img = article_profile_img
+				if article_profile_img is None:
+					# Choose a random image for the display_profile_img
+					display_profile_img = random_imgs[len(article_name) % len(random_imgs)]
+
+				if article_id != pyyam["itemId"]:
+					author["articles"].append({"name": article_name, "itemId": article_id, "profileImg": display_profile_img, "string_identifier": article_string_identifier, "url": '../' + article_id + '/' + article_string_identifier, "target": "_self"})
+
 			authors.append(author)
 
 	pyyam["authors"] = authors
+	pyyam["otherArticlesInIssue"] = other_articles_in_issue
 	pyyam["tags"] = little_tags
 
 	if "dateCreated" in pyyam.keys():
 		dateOfPost = pyyam["dateCreated"]
 		pyyam["dateString"] = formatDate(dateOfPost, "month")
+
+	# Add supporters
+	# If a supporter has a descriptionB, randomly choose one to display
+	# And add the description to the url for AB testing
+	# supporters = []
+	# for supporter in supporters:
+	# 	if "descriptionB" in supporter.keys():
+	# 		# Randomly choose description or descriptionB
+	# 		# 50/50 chance
+	# 		if random.randint(0,1) == 0:
+	# 			supporter["description"] = supporter["descriptionB"]
+	# 			supporter["url"] = supporter["url"] + "&cta=b"
+	# 		else:
+	# 			supporter["url"] = supporter["url"] + "&cta=a"
+			
+	
+	pyyam["supporters"] = supporters
 
 
 	canonical_url = ""
@@ -456,7 +567,7 @@ for pyyam in file_objects:
 		custom_keywords = pyyam["name"] + ", "
 	else: 
 		canonical_url = site_url + str(pyyam["itemId"]) + "/" + pyyam["urlSlug"]
-	# print(canonical_url)
+	
 
 
 	if "layout" in pyyam.keys():

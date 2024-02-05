@@ -4,18 +4,21 @@ itemId: bcpov6rsgsum
 layout: post
 name: "The God-Self Under the Mask: Waking from the Personal and Collective Mythic Sleep"
 tags:
-  - hasTag: sandyselasmith
-  - hasAuthor: sandyselasmith
-  - hasTag: 28.1
+    - hasTag: sandyselasmith
+    - hasAuthor: sandyselasmith
+    - hasTag: 28.1
+    - inIssue: 28.1
 type: post
 urlSlug: "the-god-self-under-the-mask"
+profileImg: post-bcpov6rsgsum-0.jpg
 ---
+
 <a href="../@ornabenshoshan">
 <img src="../images/post-bcpov6rsgsum-0.jpg" style="max-width: 300px; height: auto" alt="Man on a horse"/>
 </a>
 <!--nopreview--><div style="text-align:center"><i>Vanishing Delusions by <a href="../@ornabenshoshan">Orna Ben-Shoshan</a></i></div><!--/nopreview-->
 
-In the summer of 2007, just a few weeks before I began to write my own book, I read an article by [Paul Levy](../@paullevy) in the Dream Network Journal that introduced his book titled *The Madness of George W. Bush*. I was impressed with the beginning of Paul’s article, which held a profoundly significant truth that few seem to fully understand. He stated, “We live in a world where the deeper, underlying mythic patterns that have endlessly reiterated themselves throughout human history are incarnating and revealing themselves through world events for all who have eyes to see.” This is a truth reflected in his book that remains a valuable contribution, despite the fact that Bush is no longer in power. If we are not thoughtful, the mythic patterns Levy addresses will find their way back into our collective experience. I have come to understand that not only do these mythic patterns reveal themselves in world events, as Levy pointed out, but they are continuously revealing themselves in our personal lives, as well.
+In the summer of 2007, just a few weeks before I began to write my own book, I read an article by [Paul Levy](../@paullevy) in the Dream Network Journal that introduced his book titled _The Madness of George W. Bush_. I was impressed with the beginning of Paul’s article, which held a profoundly significant truth that few seem to fully understand. He stated, “We live in a world where the deeper, underlying mythic patterns that have endlessly reiterated themselves throughout human history are incarnating and revealing themselves through world events for all who have eyes to see.” This is a truth reflected in his book that remains a valuable contribution, despite the fact that Bush is no longer in power. If we are not thoughtful, the mythic patterns Levy addresses will find their way back into our collective experience. I have come to understand that not only do these mythic patterns reveal themselves in world events, as Levy pointed out, but they are continuously revealing themselves in our personal lives, as well.
 
 For those of us who have been schooled in Shakespeare or in Jungian, humanistic, transactional, or transpersonal psychology, or even Freudian analysis, it is clear that much of who we think we are, in fact, is comprised of roles we play in a world that is but a stage. Each of us has our own unique dramas and traumas that weave in and out of the not so unique parts we play. We put on the costumes and don the masks that fit the part we play and we live from the roles instead of from our true selves. In As You Like It, Shakespeare described the 7 stages of a man’s life from infant to old man, during which there were expected actions played out. Jung saw us acting out of personality types and subtypes, in the stages of our lives, all with recognizable actions and reactions to the world around us, with the ultimate objective of becoming individuated beings embracing our whole Self.
 
@@ -41,15 +44,6 @@ The Western world holds such a limited understanding of who we are. Its commitme
 
 We are living in a time when we have the opportunity to become conscious of our beliefs by being willing to examine the dreams and the life experiences we draw to us, whether the dream comes to us in our sleep or in our daily life. When we look at what we are individually and collectively creating, we can recognize the masks that we wear and discover who we truly are under the mask. And as the amazing sparks of God that we are, finally, we can be free to choose the lives we want to create.
 
-From the fall of 2007 to the winter of 2008, I wrote a book about my own journey to examine what I created in my life to discover what beliefs prevented me from knowing who I truly am. As this work was coming to a close, I became aware that what I had written was not just for my own journey, but also, was written to offer a perspective that might assist others in discovering who they truly are. This book, *The Meaning of Three: The Mask*, reveals so many of the mythic patterns played out in one individual life and explores ways of becoming free of those patterns. Once we remove the mask to discover and embrace who we truly are, the patterns and roles melt away, and what remains is the essence of who we are, who we have always been, finally uncovered and free to live as the unique being that we are, eternally in union with the Great Mystery…the Creator of all that is… including us. ∞
+From the fall of 2007 to the winter of 2008, I wrote a book about my own journey to examine what I created in my life to discover what beliefs prevented me from knowing who I truly am. As this work was coming to a close, I became aware that what I had written was not just for my own journey, but also, was written to offer a perspective that might assist others in discovering who they truly are. This book, _The Meaning of Three: The Mask_, reveals so many of the mythic patterns played out in one individual life and explores ways of becoming free of those patterns. Once we remove the mask to discover and embrace who we truly are, the patterns and roles melt away, and what remains is the essence of who we are, who we have always been, finally uncovered and free to live as the unique being that we are, eternally in union with the Great Mystery…the Creator of all that is… including us. ∞
 
 ![Ad for The Meaning of Three: The Mask](../images/post-bcpov6rsgsum-1.png)
-
-
-
-
-
-
-
-
-

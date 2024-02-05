@@ -8,7 +8,7 @@
     <div>
         {% if featured_items %}
         <div class="page-section">
-            <h2 class="page-subheading">Recent & featured articles</h2>
+            <h2 class="page-subheading">Featured articles</h2>
             <div class="page-items featured-grid">
                 {% if posts %} {% for post in featured_items %} {% with loop_index = loop.index %} {% include
                 'card.html' %} {% endwith %} {% endfor %} {% endif %}

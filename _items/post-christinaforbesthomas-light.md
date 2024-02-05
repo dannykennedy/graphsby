@@ -4,8 +4,8 @@ itemId: bcpov6grlatt
 layout: post
 name: "Light at the Tunnel"
 tags:
-  - hasTag: christinaforbesthomas
-  - hasAuthor: christinaforbesthomas
+    - hasTag: christinaforbesthomas
+    - hasAuthor: christinaforbesthomas
 type: post
 urlSlug: "light-at-the-tunnel"
 ---

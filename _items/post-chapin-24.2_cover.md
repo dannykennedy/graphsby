@@ -4,9 +4,10 @@ itemId: bcpov6gii242
 layout: post
 name: ""
 tags:
- - hasTag: deborahkoffchapin
- - hasAuthor: deborahkoffchapin
- - hasTag: 24.2
+    - hasTag: deborahkoffchapin
+    - hasAuthor: deborahkoffchapin
+    - hasTag: 24.2
+    - inIssue: 24.2
 type: post
 urlSlug: "deborahkoffchapin-dnj-24-2_cover"
 profileImg: 24.2_cover.jpg
@@ -16,4 +17,3 @@ profileImg: 24.2_cover.jpg
 *Touch drawing by Deborah Koff-Chapin*
 
 This drawing was featured on the cover of Volume 24, #2 of the Dream Network Journal.
-

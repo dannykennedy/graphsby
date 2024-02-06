@@ -10688,6 +10688,37 @@ ns1:bcpov6z0ei28 a ns1:Post ;
     ns1:name "Editorial: Issue 28.2-3"^^xsd:string ;
     ns1:urlSlug "editorial-issue-28-2-3"^^xsd:string .
 
+ns1:bcpov6z0ei29 a ns1:Post ;
+    ns1:dateCreated "2010-07-18T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Since we last met in these pages, the big buzz out there about dreams was the release of the movie, Inception. For insight, whether you’ve seen the movie or not, I highly recommend <a href="../@faribabogzaran">Fariba Bogzaran’s</a> <a href="../bcpov6zincep/inception-movie-review">review</a>, as well as commentary from a good number of dream researchers posted on the IASD website, www.asdreams.org. Here are some of <a href="../@stanleykrippner">Stanley Krippner’s</a> comments:</p>
+
+<blockquote>
+  <p>“Dream sharing certainly happens in the sense that people who know each other well and share life experiences may then both dream about said experiences. That does not mean that they are, in point of fact, “together” in dream space. They may well be, but we really do not know at this point. The advantage of anecdotal experiences is that they serve as a potential source of hypothesis generation. But the disadvantage of the same anecdotal cases is that they give the impression of proof, when in fact they are open to various selfreport biases that psychologists have studied. Radin points to selective memory, wishful thinking, coincidence, misperception, embellishment, and mental illness to name a few.”</p>
+</blockquote>
+
+<p>Having only seen the movie once, I can tell you that once was not enough for me to grasp the complexity of the plot, let alone the various levels of dream-state consciousness explored in the film. What a journey! I will probably watch it several more times for clarity.</p>
+
+<p>From my beginnings with <em>Dream Network Journal</em>, I’ve been intuitively inclined to trust and stay with my own dream-makers’ wisdom, and have resisted pressure to devote more space to the ‘exotic’ realms of dreaming in these pages. I did decide, however, to allow occasional space for explorations into lucid and mutual dreaming. My feeling has been that a larger number of individuals interested in learning more about their dreams would be better served with the kind of information typically provided in this publication, e.g., I had this dream. This is what I learned. This is what it meant to me. This is what I did about it. The section on “Dreaming Humanity’s Path,” of course, is devoted to visionary dreams that affect us all.</p>
+
+<p>I also have personal reasons for my caution with regard to extraordinary dreamstates. Early in my own dreamquest, I was quite attracted to a skilled dreamer who was also a very handsome man. Shortly after meeting him, I began to have a series of dreams, over a period of two or three years. This dream-series started with images of his courting me and ended with a proposal of marriage! In both the first and the final dreams of the series, all members of our families were present as witnesses. I was certain something of great significance was bound to develop between us in waking reality. In the midst of this intriguing dream drama, he invited me to an actual event. That night I had a most stirring dream. I didn’t realize that, in reality, we were sleeping in adjacent quarters. As we both emerged from our respective cabins at the same time the next morning, he immediately made detailed comments about the content of my dream. In effect, he knew what I had dreamed!</p>
+
+<p>It wasn’t until the whole series was complete (after the marriage proposal), that I realized he had—without my knowledge or permission—intentionally entered my dream-space. From this experience, I learned how important ethical boundaries are in this most delicate area of “lucid and mutual dreaming.” If someone intends to enter someone else’s dream-space prior and mutual consent is crucial. Without it, a violation is taking place.</p>
+
+<p>Overall, the experience was valuable. With his creative help, I learned a lot about not having expectations... and we remain friends to this day. But it was a very instructive lesson in the importance of precious and private space! So we, here, primarily stay true and tuned to the dreams that spontaneously emerge and their manifestations in the form of articles, various dream-art forms, poetry, etc.</p>
+
+<p>~ ~ ∞ ~ ∞ ~ ∞ ~ ~</p>
+
+<p>I’ve received many uplifting and complimentary comments in response to my article “Why Was I Called?” published in our summer issue. I thank each and every one of you. ~RO ∞</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3ossa ;
+    ns1:hasTag ns1:bcphbq3ossa,
+        ns1:bcphbyukqzw ;
+    ns1:inIssue ns1:bcphbyukqzw ;
+    ns1:itemId "bcpov6z0ei29"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Editorial: Issue 29.3"^^xsd:string ;
+    ns1:urlSlug "editorial-issue-29-3"^^xsd:string .
+
 ns1:bcpov6z0ei94 a ns1:Post ;
     ns1:dateCreated "1990-09-18T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6z0ei94-0.jpg" width="300" height="auto" alt="Page copy from original printed issue"/></p>
@@ -19803,20 +19834,6 @@ ns1:bcphbygiw4g a ns1:Post ;
     ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.2-3"^^xsd:string .
 
-ns1:bcphbyukqzw a ns1:Post ;
-    ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf" download="">Download issue 29.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocknhzs ;
-    ns1:itemId "bcphbyukqzw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
-    ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "29.3"^^xsd:string .
-
 ns1:bcpqn72unjj a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>
 """^^xsd:string ;
@@ -19878,6 +19895,20 @@ ns1:bcphbqsorna a ns1:User ;
     ns1:name "Orna Ben-Shoshan"^^xsd:string ;
     ns1:profileImg "author-ornabenshoshan.jpg"^^xsd:string .
 
+ns1:bcphbyukqzw a ns1:Post ;
+    ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf" download="">Download issue 29.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocknhzs ;
+    ns1:itemId "bcphbyukqzw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
+    ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "29.3"^^xsd:string .
+
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
     ns1:description """<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
@@ -19919,6 +19950,32 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:name "Dr. Stanley Krippner"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
 
+ns1:bcphbqschul a ns1:User ;
+    ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://thresholdjourneys.squarespace.com">thresholdjourneys</a></p>
+
+<p>Jeanne’s career path has been that of “teacher.” She has taught learners of all ages, focusing on the integration of soma, soul, and psyche. Whether she is teaching dance, dreamwork, body therapy, or hatha yoga, she is passionate about assisting her students in realizing their sense of wholeness. </p>
+
+<p>Jeanne is Associate Chair at Pacifica Graduate Institute in the department of Depth Psychology with a specialization in Somatic Studies. She is the Artistic Director Emeritus of the dance company at Berry College, where she taught and coordinated the dance minor program for 24 years. She earned her doctorate in Depth Psychology at Pacifica Graduate Institute, her M.A. in Dance at Texas Woman’s University, a B.A. in English and Dance from SUNY Brockport, spent a year studying British Literature at Nottingham University, and is a Registered Somatic Movement Therapist with ISMETA.</p>
+"""^^xsd:string ;
+    ns1:handle "jeanneschul"^^xsd:string ;
+    ns1:itemId "bcphbqschul"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jeanne Schul"^^xsd:string ;
+    ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
+
+ns1:bcphbqvbulk a ns1:User ;
+    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://sleepanddreamdatabase.org/">sleepanddreamdatabase.org</a></p>
+
+<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion. He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal <a href="https://www.apa.org/pubs/journals/drm/">Dreaming</a>, and a former President of the International Association for the Study of Dreams. He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School. He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018). He lives in Portland, Oregon.</p>
+"""^^xsd:string ;
+    ns1:handle "kellybulkeley"^^xsd:string ;
+    ns1:itemId "bcphbqvbulk"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Kelly Bulkeley"^^xsd:string ;
+    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
+
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
 
@@ -19953,32 +20010,6 @@ ns1:bcphbq3ossa a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Roberta Ossana"^^xsd:string ;
     ns1:profileImg "roberta_ossana.png"^^xsd:string .
-
-ns1:bcphbqschul a ns1:User ;
-    ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://thresholdjourneys.squarespace.com">thresholdjourneys</a></p>
-
-<p>Jeanne’s career path has been that of “teacher.” She has taught learners of all ages, focusing on the integration of soma, soul, and psyche. Whether she is teaching dance, dreamwork, body therapy, or hatha yoga, she is passionate about assisting her students in realizing their sense of wholeness. </p>
-
-<p>Jeanne is Associate Chair at Pacifica Graduate Institute in the department of Depth Psychology with a specialization in Somatic Studies. She is the Artistic Director Emeritus of the dance company at Berry College, where she taught and coordinated the dance minor program for 24 years. She earned her doctorate in Depth Psychology at Pacifica Graduate Institute, her M.A. in Dance at Texas Woman’s University, a B.A. in English and Dance from SUNY Brockport, spent a year studying British Literature at Nottingham University, and is a Registered Somatic Movement Therapist with ISMETA.</p>
-"""^^xsd:string ;
-    ns1:handle "jeanneschul"^^xsd:string ;
-    ns1:itemId "bcphbqschul"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jeanne Schul"^^xsd:string ;
-    ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
-
-ns1:bcphbqvbulk a ns1:User ;
-    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://sleepanddreamdatabase.org/">sleepanddreamdatabase.org</a></p>
-
-<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion. He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal <a href="https://www.apa.org/pubs/journals/drm/">Dreaming</a>, and a former President of the International Association for the Study of Dreams. He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School. He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018). He lives in Portland, Oregon.</p>
-"""^^xsd:string ;
-    ns1:handle "kellybulkeley"^^xsd:string ;
-    ns1:itemId "bcphbqvbulk"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Kelly Bulkeley"^^xsd:string ;
-    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
 
 ns1:bcphbqawtay a ns1:User ;
     ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;

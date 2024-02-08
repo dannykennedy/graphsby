@@ -12717,6 +12717,7 @@ ns1:bcpov6zfbsbr a ns1:Post ;
     ns1:urlSlug "glimpses-from-beyond-the-ego-bill-stimson-book-review"^^xsd:string .
 
 ns1:bcpov6zfctar a ns1:Post ;
+    ns1:canonicalUrl "https://www.dreamportrayal.com/tarot_in_dream_groups.pdf"^^xsd:string ;
     ns1:dateCreated "2012-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>A Tarot deck can be a transformative participant in a dream group. I discovered this a few years ago at a dream theater workshop I was co-facilitating and realized it again this year at my monthly dream discussion group.</p>
 
@@ -16695,6 +16696,7 @@ ns1:bcpov7kaibpp a ns1:Post ;
     ns1:urlSlug "bush-planetary-pirate"^^xsd:string .
 
 ns1:bcpov7kaioth a ns1:Post ;
+    ns1:canonicalUrl "https://www.awakeninthedream.com/articles/meeting-the-other-within"^^xsd:string ;
     ns1:dateCreated "2006-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>As I point out in my recent book, <em>The Madness of George W. Bush: A Reflection of our Collective Psychosis</em>, withdrawing our shadow projections, the darker part of ourselves that we see reflected in ‘others,’ initiates the process of being able to more effectively deal with the darkness in our world. The question arises: what does owning our shadow and withdrawing our shadow projections look like? When we recognize, own and withdraw our shadow projections from the outside world that we have cast onto ‘others,’ we get in touch with the ‘other’ inside of ourselves. When we stop seeing the ‘other’ who is outside ourselves as separate, but as a reflection of something within ourselves, we become acquainted with the ‘other’ who exists within.</p>
 
@@ -19599,6 +19601,7 @@ ns1:bcphbq3rbck a ns1:User ;
     ns1:profileImg "author-catherinekennedy.jpg"^^xsd:string .
 
 ns1:bcphbq3wagg a ns1:User ;
+    ns1:canonicalUrl "https://www.lucidadvice.com/about-robert/"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>
 
 <p>Robert Waggoner wrote the acclaimed book, <a href="https://www.lucidadvice.com/books/lucid-dreaming-gateway-to-the-inner-self/">Lucid Dreaming – Gateway to the Inner Self</a> (now in its tenth printing), and co-authored <a href="https://www.lucidadvice.com/books/lucid-dreaming-plain-and-simple/">Lucid Dreaming Plain and Simple</a> with Caroline McCready.  Both books are in Audible, Kindle and CD/Mp3.  His books have been translated into French, German, Chinese, Korean, Czech, Finnish and other languages.</p>

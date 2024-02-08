@@ -10,6 +10,7 @@ tags:
     - inIssue: 25.4
 type: post
 urlSlug: "meeting-the-other-within"
+canonicalUrl: "https://www.awakeninthedream.com/articles/meeting-the-other-within"
 ---
 
 As I point out in my recent book, _The Madness of George W. Bush: A Reflection of our Collective Psychosis_, withdrawing our shadow projections, the darker part of ourselves that we see reflected in ‘others,’ initiates the process of being able to more effectively deal with the darkness in our world. The question arises: what does owning our shadow and withdrawing our shadow projections look like? When we recognize, own and withdraw our shadow projections from the outside world that we have cast onto ‘others,’ we get in touch with the ‘other’ inside of ourselves. When we stop seeing the ‘other’ who is outside ourselves as separate, but as a reflection of something within ourselves, we become acquainted with the ‘other’ who exists within.

@@ -60,6 +60,7 @@ profileImg = dreamNS['profileImg']
 coverImg = dreamNS['coverImg']
 urlSlug = dreamNS['urlSlug']
 featuredLabel = dreamNS['featuredLabel']
+canonicalUrl = dreamNS['canonicalUrl']
 
 def createGraph():
 	print("Creating graph")

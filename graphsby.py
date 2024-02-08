@@ -181,6 +181,9 @@ for pyyam in file_objects:
 	# Featured Label
 	if 'featuredLabel' in pyyam.keys():
 		instances.append((newItem, featuredLabel, Literal(pyyam['featuredLabel'], datatype=xsdString)))
+	# Canonical URL
+	if 'canonicalUrl' in pyyam.keys():
+		instances.append((newItem, canonicalUrl, Literal(pyyam['canonicalUrl'], datatype=xsdString)))
 		
 # Add instances to the graph
 for triple in instances:
@@ -562,7 +565,9 @@ for pyyam in file_objects:
 
 	canonical_url = ""
 	custom_keywords = ""
-	if "handle" in pyyam.keys():
+	if "canonicalUrl" in pyyam.keys():
+		canonical_url = pyyam["canonicalUrl"]
+	elif "handle" in pyyam.keys():
 		canonical_url = site_url + "@" + pyyam["handle"]
 		custom_keywords = pyyam["name"] + ", "
 	else: 

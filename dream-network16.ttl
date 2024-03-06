@@ -16812,6 +16812,60 @@ ns1:bcpoz6z0233e a ns1:Post ;
     ns1:name "Editorial: Issue 23.3"^^xsd:string ;
     ns1:urlSlug "issue-23-3-editorial"^^xsd:string .
 
+ns1:bcsoz6zinmiw a ns1:Post ;
+    ns1:dateCreated "1986-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><em>...I stand by the door in a gallery staring at a painting on the wall. It is my painting, however, it looks unfamiliar to me. As I step forward to look at the detail of my work, my dream becomes lucid... The painting, approximately 6 by 7 feet in size, displays an image of a wall destroyed in the middle, but with the four wall corners still intact. An imprint of a triangle and circle are inside it. Inside the circle, a figure of a nude man and woman stand.</em></p>
+
+<p>No sooner had I recorded this image in my mind, than my awareness shifted. I was awake, and began making a sketch of the painting I had experienced in my dream. The painting was different from my usual style of painting; the painting in my dream was surrealistic, and, at the time, I painted in a realistic style.</p>
+
+<p>Why did I have this dream, I asked myself? What did it mean? Maybe I thought, this dream occurred because my painting was rejected from a state-wide art show the previous year. Or, maybe I should interpret the dream to mean that I must devote more time to my art. I concluded, perhaps the dream would bring me personal insight if worked with at a later date.</p>
+
+<p>My last conclusion turned out to be prophetic truth. Exactly a week later while in Minneapolis, I walked into a bookstore which had a special sale on psychology books. The first book which caught my eyes was <em>Man and his Symbols</em>, by Carl Jung. Never having the opportunity to page through it—though I had heard often about aspects of the book for years—I began looking through the book. I stopped suddenly at page 246. My heart started pounding hard and my body filled with twinkling sensations. On that page was an exact duplicate of the painting in my dream (see figure below)!</p>
+
+<p>The description of the painting read: "The symbolic alchemical concept of squared circle symbol of wholeness and the union of opposites." And also further in the page described: "The alchemists not only recorded their work in their writings; they created a wealth of pictures of their dreams and visions—symbolic pictures that are still as profound as they are baffling".</p>
+
+<p><img src="../images/bogzaran-message-1.jpg" alt="Square in circle" width="200" height="auto"/></p>
+
+<p>I bought the book right away.</p>
+
+<p>Soon, I was inspired to paint the image I had dreamt. Weeks went by, planning and preparing for a marathon affair with my canvas and oil paints, but nothing was brushed onto the canvas.</p>
+
+<p>Instead, I started a new. painting which was unfamiliar to me as the one I had dreamt. It was a painting of a brain which was portrayed with symbols that originate from nightly dream images. With fluent ease and content, I sketched the dreams into shapes and figures, and painted them the same day. Soon I realized my painting was filled with symbols and messages that could be. interpreted by its viewers in many ways.</p>
+
+<p>Meanwhile, the deadline for application to the annual State Art Show drew near. I was disappointed in myself-my only piece for the show was the painting of the brain. I was certain the unusual style of the painting would result in its rejection.</p>
+
+<p>Soon, I was surprised with a letter from the director of the gallery stating that my painting was accepted for the show. My elated feeling matched an equally puzzled feeling, for my paintings were rejected from the annual show for several years, and now my first try in a new style was accepted!</p>
+
+<p><img src="../images/bogzaran-message-2.jpg" alt="brain" width="300" height="auto"/></p>
+
+<div class="caption" style="text-align: center;"><i>Note: This picture is a pen-illustration of the original, exhibited oil painting.</i></div>
+
+<p>Before the opening of the show, I realized that my initial dream of the painting could have been a symbolic, and that the painting of the brain was a mysterious product of that dream. If my conclusion was true, then I could arrive at the gallery and know the exact location of the painting.</p>
+
+<p>I stepped into the entrance of the gallery—a deja vu feeling controlled me... I stood in the same place... felt the same expression... stared at the same wall.</p>
+
+<p>At that moment, my life merged into one moment: a sense of unity between my unconscious and conscious, a timeless moment which led me to a never ending process of unfolding the mystery within.</p>
+
+<p>NOTE: The significance of this dream is to confirm the importance of lucid, symbolic, precognitive and creative dreaming.</p>
+
+<p>The painting from my dream is the unique product that comes from the inner self. It unfolded the side of me that was "sleeping" and struggled to be awakened.</p>
+
+<p>The importance of lucid dreaming showed its part in this dream. If I did not experience lucidity, I would not have been able to recreate my dream. In fact, since the time of this event, 1982, I have been painting mainly from my dreams—and lucidity is playing a major part of this process.</p>
+
+<p>The precognitive part of this dream appears In two parts. One is finding the exact painting in a book, the other is the location where the painting was exhibited in the gallery.</p>
+
+<p>Thus, due to this dream and its part in the transformation of my creative potentials, I now share these messages through art forms with others.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3bogz ;
+    ns1:hasTag ns1:bcphbmepnkg,
+        ns1:bcphbq3bogz ;
+    ns1:inIssue ns1:bcphbmepnkg ;
+    ns1:itemId "bcsoz6zinmiw"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "A Message from the Inner World"^^xsd:string ;
+    ns1:profileImg "bogzaran-message-2.jpg"^^xsd:string ;
+    ns1:urlSlug "message-from-the-inner-world"^^xsd:string .
+
 ns1:coverImg a owl:DatatypeProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range xsd:string .
@@ -17194,20 +17248,6 @@ ns1:bcphbmaewem a ns1:Post ;
     ns1:name "Volume 4, issue 6"^^xsd:string ;
     ns1:profileImg "4.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.6"^^xsd:string .
-
-ns1:bcphbmepnkg a ns1:Post ;
-    ns1:coverImg "5.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1986-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.1-Dream-Network-Bulletin_Volume-5-Number-1.pdf" download="">Download issue 5.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.1-Dream-Network-Bulletin_Volume-5-Number-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoact7dh ;
-    ns1:itemId "bcphbmepnkg"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 5, issue 1"^^xsd:string ;
-    ns1:profileImg "5.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "5.1"^^xsd:string .
 
 ns1:bcphbn2j47k a ns1:Post ;
     ns1:coverImg "8.1-cover.jpg"^^xsd:string ;
@@ -18116,6 +18156,20 @@ ns1:bcphbm5mept a ns1:Post ;
     ns1:name "Volume 6, issue 2"^^xsd:string ;
     ns1:profileImg "6.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.2"^^xsd:string .
+
+ns1:bcphbmepnkg a ns1:Post ;
+    ns1:coverImg "5.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1986-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.1-Dream-Network-Bulletin_Volume-5-Number-1.pdf" download="">Download issue 5.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.1-Dream-Network-Bulletin_Volume-5-Number-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
+    ns1:itemId "bcphbmepnkg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 5, issue 1"^^xsd:string ;
+    ns1:profileImg "5.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "5.1"^^xsd:string .
 
 ns1:bcphbmgxd6x a ns1:Post ;
     ns1:coverImg "5.2-cover.jpg"^^xsd:string ;
@@ -19539,24 +19593,6 @@ ns1:bcphbq3norm a ns1:User ;
     ns1:name "Rachel Norment"^^xsd:string ;
     ns1:profileImg "author-rachelnorment.jpg"^^xsd:string .
 
-ns1:bcphbq3bogz a ns1:User ;
-    ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com</a></p>
-
-<p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founded the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with Stephen LaBerge at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: Extraordinary Dreams (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and Integral Dreaming (2012) with Daniel Deslauriers, both published by SUNY Press. She teaches lucid dreaming at CIIS and gives lectures internationally. </p>
-
-<p>Based on her art-based research, <em>Images of the Lucid Mind</em> (1996), she co-founded Lucid Art Foundation (1998) with the surrealist painter Gordon Onslow Ford. She has published numerous essays connecting art and consciousness in major international museums and galleries including: <em>Through the Light: An Exploration into Consciousness</em> (1997); <em>Surrealism Dreams on Canvas</em> (2007); <em>Landscape of Consciousness</em> (2008); <em>Remedios Varo: Dreams of Alchemy in Five Keys to the Secret World of Remedios Varo</em> (2008); <em>Matta: Psychological Morphology</em> (2011), and her award-winning book Gordon Onslow Ford: <em>A Man on a Green Island</em> (2019) <a href="http://www.lucidart.org/publications">www.lucidart.org/publications</a>. </p>
-
-<p>Among many of her own art exhibitions, there are two major publications: <em>The Third Script: Lucidity of Light</em> (2008), Institute of Noetic Sciences and <em>Lucidity: A Retrospective</em> (2013), Meridian Gallery in San Francisco.  </p>
-
-<p>Currently Fariba spends time in her studio writing and creating artworks and is active in earth's preservation. </p>
-"""^^xsd:string ;
-    ns1:handle "faribabogzaran"^^xsd:string ;
-    ns1:itemId "bcphbq3bogz"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Fariba Bogzaran"^^xsd:string ;
-    ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
-
 ns1:bcphbq3gott a ns1:User ;
     ns1:coverImg "cover-img-dale-gottlieb.png"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.dalegottlieb.com/">dalegottlieb.com</a></p>
@@ -19842,6 +19878,24 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:name "Volume 8, issue 4"^^xsd:string ;
     ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.4"^^xsd:string .
+
+ns1:bcphbq3bogz a ns1:User ;
+    ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com</a></p>
+
+<p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founded the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with Stephen LaBerge at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: Extraordinary Dreams (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and Integral Dreaming (2012) with Daniel Deslauriers, both published by SUNY Press. She teaches lucid dreaming at CIIS and gives lectures internationally. </p>
+
+<p>Based on her art-based research, <em>Images of the Lucid Mind</em> (1996), she co-founded Lucid Art Foundation (1998) with the surrealist painter Gordon Onslow Ford. She has published numerous essays connecting art and consciousness in major international museums and galleries including: <em>Through the Light: An Exploration into Consciousness</em> (1997); <em>Surrealism Dreams on Canvas</em> (2007); <em>Landscape of Consciousness</em> (2008); <em>Remedios Varo: Dreams of Alchemy in Five Keys to the Secret World of Remedios Varo</em> (2008); <em>Matta: Psychological Morphology</em> (2011), and her award-winning book Gordon Onslow Ford: <em>A Man on a Green Island</em> (2019) <a href="http://www.lucidart.org/publications">www.lucidart.org/publications</a>. </p>
+
+<p>Among many of her own art exhibitions, there are two major publications: <em>The Third Script: Lucidity of Light</em> (2008), Institute of Noetic Sciences and <em>Lucidity: A Retrospective</em> (2013), Meridian Gallery in San Francisco.  </p>
+
+<p>Currently Fariba spends time in her studio writing and creating artworks and is active in earth's preservation. </p>
+"""^^xsd:string ;
+    ns1:handle "faribabogzaran"^^xsd:string ;
+    ns1:itemId "bcphbq3bogz"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Fariba Bogzaran"^^xsd:string ;
+    ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
 
 ns1:bcphbqfgreg a ns1:User ;
     ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>

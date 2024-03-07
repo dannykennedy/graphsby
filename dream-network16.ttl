@@ -334,20 +334,6 @@ ns1:bcphbnhzqtk a ns1:Post ;
     ns1:profileImg "7.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.1"^^xsd:string .
 
-ns1:bcphbnp3qol a ns1:Post ;
-    ns1:coverImg "7.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.4-Dream-Network-Bulletin_Volume-7-Number-4.pdf" download="">Download issue 7.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.4-Dream-Network-Bulletin_Volume-7-Number-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaivzve ;
-    ns1:itemId "bcphbnp3qol"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 7, issue 4"^^xsd:string ;
-    ns1:profileImg "7.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "7.4"^^xsd:string .
-
 ns1:bcphbntd445 a ns1:Post ;
     ns1:coverImg "7.5-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1988-09-01T11:32:52"^^xsd:dateTime ;
@@ -16812,9 +16798,41 @@ ns1:bcpoz6z0233e a ns1:Post ;
     ns1:name "Editorial: Issue 23.3"^^xsd:string ;
     ns1:urlSlug "issue-23-3-editorial"^^xsd:string .
 
+ns1:bcsoz6zinlmu a ns1:Post ;
+    ns1:dateCreated "1988-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/bogzaran-lucid-1.jpg" alt="brain" width="400" height="auto"/></p>
+
+<p><strong>Incubation question:</strong></p>
+
+<p>I am illustrating the book <em>Dreamworking</em> by <a href="../@stanleykrippner">Stanley Krippner</a> and Joseph Dillard. For chapter one, they have asked me to do an illustration of someone looking through a wall from one world to another. I try many different ways to illustrate the two worlds but am not too happy with the results. Therefore I decide to ask my night dreams for assistance.</p>
+
+<p><strong>Dream: LUCID ENCOUNTER</strong></p>
+
+<p>I am sitting by a river in a dark forest carrying on a conversation with a person (man or woman) to whom I feel close but do not recognize. While we are conversing, the river starts to flow in the opposite direction. I am fascinated, looking at the movement, and start to walk by the riverside following the water. Soon the water turns into the solid form of moving gelatin and moves onto the land.</p>
+
+<p>While I am watching, I tell myself, "This is an odd phenomenon". As soon as I say this, I become aware that this is a dream. To lower the excitement of my lucidity, I decide to run through the forest while thinking about a wall. A wall appears in the distance as soon as I think about it. I climb up a hill to look through the wall. While I am climbing the hill, I remember the title of a painting that I did in 1984: "Lucidity and Meeting the Unknown." I am eager to experience the Great Mystery, the Divine. Can it be a person, a form or what?</p>
+
+<p>I reach the top of the hill and look through the open section of the wall. I am surprised to find that there is nothing there except some particles of colorless light coming toward me. They pass straight through me. My body begins to feel an incredible sense of lightness. My hands tingle. A stream of strong energy begins to move from the top of my head down to my legs. I feel as if I cannot move. The experience is ineffable.</p>
+
+<p>Soon after, I woke up gently with similar sensations. My hands were still tingling. The stream of energy warmed my body and the experience left the residue of a smile on my face.</p>
+
+<p>The small particles in this picture, which represent the Unknown for me, became the theme for most of the illustrations for the book <em>Dreamworking</em>.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3bogz ;
+    ns1:hasTag ns1:bcphbnp3qol,
+        ns1:bcphbq3bogz ;
+    ns1:inIssue ns1:bcphbnp3qol ;
+    ns1:itemId "bcsoz6zinlmu"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Lucidity and Meeting in the Unknown"^^xsd:string ;
+    ns1:profileImg "bogzaran-lucid-1.jpg"^^xsd:string ;
+    ns1:urlSlug "lucidity-and-meeting-in-the-unknown"^^xsd:string .
+
 ns1:bcsoz6zinmiw a ns1:Post ;
     ns1:dateCreated "1986-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><em>...I stand by the door in a gallery staring at a painting on the wall. It is my painting, however, it looks unfamiliar to me. As I step forward to look at the detail of my work, my dream becomes lucid... The painting, approximately 6 by 7 feet in size, displays an image of a wall destroyed in the middle, but with the four wall corners still intact. An imprint of a triangle and circle are inside it. Inside the circle, a figure of a nude man and woman stand.</em></p>
+    ns1:description """<blockquote>
+  <p><em>I stand by the door in a gallery staring at a painting on the wall. It is my painting, however, it looks unfamiliar to me. As I step forward to look at the detail of my work, my dream becomes lucid... The painting, approximately 6 by 7 feet in size, displays an image of a wall destroyed in the middle, but with the four wall corners still intact. An imprint of a triangle and circle are inside it. Inside the circle, a figure of a nude man and woman stand.</em></p>
+</blockquote>
 
 <p>No sooner had I recorded this image in my mind, than my awareness shifted. I was awake, and began making a sketch of the painting I had experienced in my dream. The painting was different from my usual style of painting; the painting in my dream was surrealistic, and, at the time, I painted in a realistic style.</p>
 
@@ -17262,6 +17280,20 @@ ns1:bcphbn2j47k a ns1:Post ;
     ns1:name "Volume 8, issue 1"^^xsd:string ;
     ns1:profileImg "8.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.1"^^xsd:string .
+
+ns1:bcphbnp3qol a ns1:Post ;
+    ns1:coverImg "7.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.4-Dream-Network-Bulletin_Volume-7-Number-4.pdf" download="">Download issue 7.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.4-Dream-Network-Bulletin_Volume-7-Number-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaivzve ;
+    ns1:itemId "bcphbnp3qol"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 7, issue 4"^^xsd:string ;
+    ns1:profileImg "7.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "7.4"^^xsd:string .
 
 ns1:bcphbovuijt a ns1:Post ;
     ns1:coverImg "9.4-cover.jpg"^^xsd:string ;
@@ -19879,24 +19911,6 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.4"^^xsd:string .
 
-ns1:bcphbq3bogz a ns1:User ;
-    ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com</a></p>
-
-<p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founded the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with Stephen LaBerge at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: Extraordinary Dreams (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and Integral Dreaming (2012) with Daniel Deslauriers, both published by SUNY Press. She teaches lucid dreaming at CIIS and gives lectures internationally. </p>
-
-<p>Based on her art-based research, <em>Images of the Lucid Mind</em> (1996), she co-founded Lucid Art Foundation (1998) with the surrealist painter Gordon Onslow Ford. She has published numerous essays connecting art and consciousness in major international museums and galleries including: <em>Through the Light: An Exploration into Consciousness</em> (1997); <em>Surrealism Dreams on Canvas</em> (2007); <em>Landscape of Consciousness</em> (2008); <em>Remedios Varo: Dreams of Alchemy in Five Keys to the Secret World of Remedios Varo</em> (2008); <em>Matta: Psychological Morphology</em> (2011), and her award-winning book Gordon Onslow Ford: <em>A Man on a Green Island</em> (2019) <a href="http://www.lucidart.org/publications">www.lucidart.org/publications</a>. </p>
-
-<p>Among many of her own art exhibitions, there are two major publications: <em>The Third Script: Lucidity of Light</em> (2008), Institute of Noetic Sciences and <em>Lucidity: A Retrospective</em> (2013), Meridian Gallery in San Francisco.  </p>
-
-<p>Currently Fariba spends time in her studio writing and creating artworks and is active in earth's preservation. </p>
-"""^^xsd:string ;
-    ns1:handle "faribabogzaran"^^xsd:string ;
-    ns1:itemId "bcphbq3bogz"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Fariba Bogzaran"^^xsd:string ;
-    ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
-
 ns1:bcphbqfgreg a ns1:User ;
     ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>
 
@@ -19973,6 +19987,24 @@ ns1:bcpqn7zvpei a ns1:Post ;
     ns1:name "Volume 1"^^xsd:string ;
     ns1:profileImg "volume-1.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-1"^^xsd:string .
+
+ns1:bcphbq3bogz a ns1:User ;
+    ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com</a></p>
+
+<p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founded the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with Stephen LaBerge at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: Extraordinary Dreams (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and Integral Dreaming (2012) with Daniel Deslauriers, both published by SUNY Press. She teaches lucid dreaming at CIIS and gives lectures internationally. </p>
+
+<p>Based on her art-based research, <em>Images of the Lucid Mind</em> (1996), she co-founded Lucid Art Foundation (1998) with the surrealist painter Gordon Onslow Ford. She has published numerous essays connecting art and consciousness in major international museums and galleries including: <em>Through the Light: An Exploration into Consciousness</em> (1997); <em>Surrealism Dreams on Canvas</em> (2007); <em>Landscape of Consciousness</em> (2008); <em>Remedios Varo: Dreams of Alchemy in Five Keys to the Secret World of Remedios Varo</em> (2008); <em>Matta: Psychological Morphology</em> (2011), and her award-winning book Gordon Onslow Ford: <em>A Man on a Green Island</em> (2019) <a href="http://www.lucidart.org/publications">www.lucidart.org/publications</a>. </p>
+
+<p>Among many of her own art exhibitions, there are two major publications: <em>The Third Script: Lucidity of Light</em> (2008), Institute of Noetic Sciences and <em>Lucidity: A Retrospective</em> (2013), Meridian Gallery in San Francisco.  </p>
+
+<p>Currently Fariba spends time in her studio writing and creating artworks and is active in earth's preservation. </p>
+"""^^xsd:string ;
+    ns1:handle "faribabogzaran"^^xsd:string ;
+    ns1:itemId "bcphbq3bogz"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Fariba Bogzaran"^^xsd:string ;
+    ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
 
 ns1:bcphbq3ferr a ns1:User ;
     ns1:description """<p>Website: <a href="https://brendaferrimanidreamart.com/">brendaferrimanidreamart.com</a></p>

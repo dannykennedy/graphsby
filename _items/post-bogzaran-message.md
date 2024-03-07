@@ -13,7 +13,7 @@ urlSlug: message-from-the-inner-world
 profileImg: bogzaran-message-2.jpg
 ---
 
-_...I stand by the door in a gallery staring at a painting on the wall. It is my painting, however, it looks unfamiliar to me. As I step forward to look at the detail of my work, my dream becomes lucid... The painting, approximately 6 by 7 feet in size, displays an image of a wall destroyed in the middle, but with the four wall corners still intact. An imprint of a triangle and circle are inside it. Inside the circle, a figure of a nude man and woman stand._
+> _I stand by the door in a gallery staring at a painting on the wall. It is my painting, however, it looks unfamiliar to me. As I step forward to look at the detail of my work, my dream becomes lucid... The painting, approximately 6 by 7 feet in size, displays an image of a wall destroyed in the middle, but with the four wall corners still intact. An imprint of a triangle and circle are inside it. Inside the circle, a figure of a nude man and woman stand._
 
 No sooner had I recorded this image in my mind, than my awareness shifted. I was awake, and began making a sketch of the painting I had experienced in my dream. The painting was different from my usual style of painting; the painting in my dream was surrealistic, and, at the time, I painted in a realistic style.
 

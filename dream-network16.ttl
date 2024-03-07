@@ -16751,6 +16751,35 @@ ns1:bcpov7kaioth a ns1:Post ;
     ns1:name "Meeting the 'Other' Within"^^xsd:string ;
     ns1:urlSlug "meeting-the-other-within"^^xsd:string .
 
+ns1:bcpov8giwfod a ns1:Post ;
+    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>It was great! What a day! 22 of the leading Bay Area dreamworkers joined together to present the "Coat of Many Colors, II", sponsored by the Bay Area Professional Dreamworkers Network and the Marin Dream Workshop. This all day event took place on May 30th at the Marin Fellowship of Unitarians in San Rafael, California.</p>
+
+<p>Participants enjoyed the opportunity to attend a variety of workshops, receive private dream consultation, explore the dream creativity center and obtain a biofeedback reading conducted during a therapeutic dreamwork mini-session. They also got a rare chance to personally meet many dreamworkers and find out what is happening in the fast-growing field of dreamwork today.</p>
+
+<p>Beginning at 9 a.m. with registration, refreshments and a welcome from <a href="../@jeremytaylor">Jeremy Taylor</a> of the Marin Dream Workshop and Marje Park, Chair of the Board of Marin Fellowship, the festival got underway with Kent Smith of the Dream Training Institute introducing presenters. And what an array of presenters it was! Dream artists such as <a href="../@ericsnyder">Eric Snyder</a>, Lezlie Skeetz, Susan Boulet, <a href="../@faribabogzaran">Fariba Bogzaran</a>, Suzanna Hart and Dorothy Rossi displayed dream-based art in a variety of mediums and shared their understanding of transforming one's dreams and one's life through the creative process. With Suzanna, dreams could be reworked in clay and Phyllis Green invited re-creation of dreams using Sand Tray techniques. Lezlie provided a healing experience with Tibetan bowls and bells while Grant Rudolph led a dream-singing workshop. Alexa Singer inspired those attending her workshop to express their dreams through movement and dance. Cathleen Cox Weber taught how to use dreams in writing. Alex Palau and Jessica Allen took participants into the exciting adventure of bringing dream characters to life through the energy of drama.</p>
+
+<p>Other workshops focused on understanding dreams with Ilona Marshall presenting the Delaney Dream Definition Method, Kent Smith teaching Intuitive Management Through Dreams, and Jeremy Taylor discussing Creative Archetypal Dreaming. Still others addressed benefitting one's life through connection and awareness of dreams. <a href="../@bobtrowbridge">Bob Trowbridge</a> introduced his dream activation method of embracing our positive dream symbols and transforming our negative symbols. Strephon Kaplan Williams spoke on Dreams and Healing.</p>
+
+<p>Consciousness and dreams was another area well-presented. Janice O'Brien led an experience in conscious dreaming in which participants were invited to find their Inner Sanctum and meet their GodSelf. <a href="../@jillgregory">Jill Gregory</a> and <a href="../@caseyflyer">Linda Magallón</a> shared their lucid dreaming adventures and tips on how to encourage, maintain and utilize lucid dreams. While listening to a meditative music tape, the opportunity was offered to practice lucid dreaming in the conscious dream state. Ken Keizer told of his many experiments with lucid dreaming and how dream lucidity has benefitted his life.</p>
+
+<p>Throughout the day in fifteen minute intervals, Festival-goers were hooked-up to Dr. Iver Juster's biofeedback equipment which monitored their physiological responses during dreamwork with <a href="../@fredolsen">Fred Olsen</a> who used his Waking Dream Re-Entry and Re-Imaging Process on their dreams or physical symptoms.</p>
+
+<p>Marin Day Catering served the lunch, an hour time-slot which found most people outdoors enjoying the courtyard, fish pond and sunny weather. Following the afternoon workshops, closing ceremonies took place with Jeremy Taylor officiating. As a parting gift, Lezlie Skeetz sang a song given to her in a dream. John Van Damm, of the Coat of Many Colors Dream Group and of the Sausalito Houseboat Community (a dream-based community) captured the Festival on video.</p>
+
+<p>The first Dream Festival held in the same location on March 28 of this year saw ten dreamworkers presenting with 35 persons attending. This second Festival had 50 attendees. At a Chinese dinner afterward, the dreamworkers scheduled another Festival to take place during October in San Francisco.</p>
+
+<p>The true excitement of the day lies not in the numbers nor just in the topics presented. It lies in the significance of this Festival in the life of dreamwork in the Bay Area. The seed that was planted two years ago, when Fred Olsen and Linda Magallón talked of their need for a dreamworker support group, sprouted into the 40 member Bay Area Professional Dreamworkers Network. Aspects of that group now include the Dream House, the Novato Center for Dreams, Dream Theatre and the West Coast editorship and staffing of Dream Network Bulletin. On March 28th, with the appearance of the first Festival of Dreams, a new spirit was released, a spirit which grew to express itself even more powerfully on May 30th. This family of dreamworkers is committed to bringing dreams to the public in that spirit of joy and service.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqfgreg ;
+    ns1:hasTag ns1:bcphbm5mept,
+        ns1:bcphbqfgreg ;
+    ns1:inIssue ns1:bcphbm5mept ;
+    ns1:itemId "bcpov8giwfod"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Festival of Dreams"^^xsd:string ;
+    ns1:urlSlug "festival-of-dreams"^^xsd:string .
+
 ns1:bcpovdreamg a ns1:Post ;
     ns1:dateCreated "2020-10-03T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>This is a regularly updated list of Dream Sharing groups. If you've never tried a dream sharing group before, we thoroughly recommend it. Most groups use some variety of the <a href="../bcpov6rssull/the-ullman-method-of-dream-analysis">Ullman method</a>. </p>
@@ -18175,20 +18204,6 @@ ns1:bcphbliwn3u a ns1:Post ;
     ns1:profileImg "3.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "3.4"^^xsd:string .
 
-ns1:bcphbm5mept a ns1:Post ;
-    ns1:coverImg "6.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.2-Dream-Network-Bulletin_Volume-6-Number-2.pdf" download="">Download issue 6.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.2-Dream-Network-Bulletin_Volume-6-Number-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaf5sto ;
-    ns1:itemId "bcphbm5mept"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 6, issue 2"^^xsd:string ;
-    ns1:profileImg "6.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "6.2"^^xsd:string .
-
 ns1:bcphbmepnkg a ns1:Post ;
     ns1:coverImg "5.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1986-01-01T11:32:52"^^xsd:dateTime ;
@@ -19222,6 +19237,20 @@ ns1:bcphbhe6wex a ns1:Post ;
     ns1:profileImg "1.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.1"^^xsd:string .
 
+ns1:bcphbm5mept a ns1:Post ;
+    ns1:coverImg "6.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.2-Dream-Network-Bulletin_Volume-6-Number-2.pdf" download="">Download issue 6.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_6/6.2-Dream-Network-Bulletin_Volume-6-Number-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaf5sto ;
+    ns1:itemId "bcphbm5mept"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 6, issue 2"^^xsd:string ;
+    ns1:profileImg "6.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "6.2"^^xsd:string .
+
 ns1:bcphbndh32i a ns1:Post ;
     ns1:coverImg "6.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1987-11-01T11:32:52"^^xsd:dateTime ;
@@ -19911,17 +19940,6 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.4"^^xsd:string .
 
-ns1:bcphbqfgreg a ns1:User ;
-    ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>
-
-<p>Jill Gregory is a dream networker and educator who founded the Novato Center for Dreams in 1987.  A charter member of the Bay Area Dreamworkers Group, she has served in leadership positions since 1987. She was the Dream Network Bulletin's interviewer from 1987 to 1989, working with <a href="../@caseyflyer">Linda Magallón</a> and <a href="../@bobtrowbridge">Bob Trowbridge</a>.</p>
-"""^^xsd:string ;
-    ns1:handle "jillgregory"^^xsd:string ;
-    ns1:itemId "bcphbqfgreg"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jill Gregory"^^xsd:string ;
-    ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
-
 ns1:bcphbvjopd2 a ns1:Post ;
     ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
@@ -20033,6 +20051,17 @@ ns1:bcphbq3huds a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Chris Hudson"^^xsd:string ;
     ns1:profileImg "author-chrishudson.jpg"^^xsd:string .
+
+ns1:bcphbqfgreg a ns1:User ;
+    ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>
+
+<p>Jill Gregory is a dream networker and educator who founded the Novato Center for Dreams in 1987.  A charter member of the Bay Area Dreamworkers Group, she has served in leadership positions since 1987. She was the Dream Network Bulletin's interviewer from 1987 to 1989, working with <a href="../@caseyflyer">Linda Magallón</a> and <a href="../@bobtrowbridge">Bob Trowbridge</a>.</p>
+"""^^xsd:string ;
+    ns1:handle "jillgregory"^^xsd:string ;
+    ns1:itemId "bcphbqfgreg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jill Gregory"^^xsd:string ;
+    ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
 
 ns1:bcphbqskoff a ns1:User ;
     ns1:coverImg "cover-author-deborahkoffchapin.jpg"^^xsd:string ;

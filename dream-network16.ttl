@@ -16827,6 +16827,29 @@ ns1:bcpoz6z0233e a ns1:Post ;
     ns1:name "Editorial: Issue 23.3"^^xsd:string ;
     ns1:urlSlug "issue-23-3-editorial"^^xsd:string .
 
+ns1:bcpoz6z0261e a ns1:Post ;
+    ns1:dateCreated "2007-01-01T09:32:52"^^xsd:dateTime ;
+    ns1:description """<p>This is truly <a href="../@stanleykrippner">Stanley Krippner’s</a> issue! So many outstanding individuals in the ‘Dream Movement’ came forward to pay tribute to Stanley, it was impossible to exclude any of the articles submitted. It is my hope that you, Stanley, bask in the deeply moving, sometimes downright hilarious and all ways well deserved praise within and that those of our readers not aware of him are enriched through this introduction to his life-work via his colleagues, former students and friends.</p>
+
+<p>You will learn that he definitely became aware of his ‘Purpose’ in this lifetime at a very early age; that he has and continues to fulfill the profound tasks to which he was set and destined.</p>
+
+<p>Though I bowed to him in the last editorial, I do want to share one of my first, meaningful experiences with Stan in my early days as steward of DNJ. I was having difficulty with one of the Advisors, had a dream about that person and consulted with Stan. He wrote back: “Some of my best friends don’t like one another”. I continue to learn from that beautifully succinct, wise response. I must also say that I have learned much more about him than I knew before inviting this tribute and probably would have been too shy to attempt to do justice to his accomplishments in this way.</p>
+
+<p>Among the author-artists extraordinaire sharing their friendship with Stanley is <a href="../@faribabogzaran">Fariba Bogzaran</a>. Her article reveals that it was a very <a href="../bcpov6zfbost/a-precognitive-dream-and-meeting-an-extra-ordinary-human-being">important precognitive dream which initiated their relationship</a>. Her article heads up a section of moving precognitive dream-stories in response to the invitation in our last issue for readers to share their ‘Most Important Precognitive Dreams’. Thank you, Fariba, for your creative blending and to each of you who share your special dreams revealing yet-to-beexperienced in day-reality information and events.</p>
+
+<p>It is a precognitive dream that set my own feet firmly on this path, nearly 30 years ago. It was the first, Big Dream that I recalled as an adult and it was like attending a full-blown, full-length movie. Upon awakening, I was overwhelmed with the event I had just ‘seen’ and hadn’t a clue as to what was happening to me, what the dream meant. It wasn’t until five years later that the dream became manifest in a community event to honor an anniversary (in Autumn 1981) of the founding of the United Nations, a very successful event which I was stimulated to coordinate. Doing so was not a conscious decision; I virtually had no choice!</p>
+
+<p>In summer, 1993, I was fortunate to attend a predominantly Native American event in <a href="https://en.wikipedia.org/wiki/Bella_Bella,_British_Columbia">Bella-Bella, Canada</a> and was invited to share this dream-event with the Nations who gathered there. This, my ‘First Dream’ is a continuing prayer for Peace on Earth and unity among all nations and nationalities who reside on this beautiful planet. The dream required that I take action in the community, which brings up the ‘Focus’ Question for our Autumn issue: <a href="../bcphbxm2y5p/26.3">Visionary Activism</a>: How have your dreams compelled you to take action, personally or politically? Now is the time!</p>
+
+<p><em>Please note: Because of the ‘move’ we’ve made over the past several months, there will be only three issues published this year (2007). We will advance your subscription by one issue to compensate you rightly.</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3ossa ;
+    ns1:hasTag ns1:bcphbq3ossa ;
+    ns1:itemId "bcpoz6z0261e"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Editorial: Issue 26.1"^^xsd:string ;
+    ns1:urlSlug "issue-26-1-editorial"^^xsd:string .
+
 ns1:bcsoz6zinlda a ns1:Post ;
     ns1:dateCreated "2000-10-02T11:33:52"^^xsd:dateTime ;
     ns1:description """<p>Five years ago I had a very disturbing dream and I knew I had to do something about it. Perhaps it was a precognitive dream, but even more so, it felt like a telepathic dream. I began to actively pursue the dream, trying to find out what it means. What I have learned since, is that the dream was not only symbolic but had a literal concern. In order to work with this dream more effectively, I need to reach out to as many people as possible, thus I seek your help.</p>
@@ -20304,6 +20327,22 @@ ns1:bcphbqvcors a ns1:User ;
     ns1:name "Bambi Corso"^^xsd:string ;
     ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
 
+ns1:bcphbq3rpac a ns1:User ;
+    ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
+    ns1:description """<p>On Academia.edu: <a href="https://independent.academia.edu/PacoMitchell">academia.edu/PacoMitchell</a></p>
+
+<p>Paco Mitchell is a Jungian author, artist, therapist and editor, dedicated to the study of dreams, essay- and fiction-writing, and creative ventures in general. His interest in dreams focuses primarily on emergent levels of psychic development that take shape in the collective unconscious, and strive toward consciousness in the dreams and lives of individuals. Many of Paco's dream-related essays have been published in Dream Network Journal and Depth Insights, as well as The Angels (The Entities Trilogy), ed. by Robert Sardello. In addition to his Jungian studies and practice, Paco also taught Romance Languages (Spanish and French); worked as a sculptor and owner/operator of the Blue Heron Foundry (Art Bronze Casting); and for many years taught and performed on the flamenco guitar, both as a soloist, and as an accompanist to flamenco dancers and singers. He is co-editor of the Owl &amp; Heron Press with <a href="../@ral">Russell A. Lockhart</a>, with whom he has co-authored the first two volumes of a trilogy, Dreams, Bones &amp; the Future, subtitled A Dialogue and Queries &amp; Speculations, respectively. The third volume, subtitled Endings, is under way and will be published in 2020. His latest release is The Paraclete of Caborca: A Collision with Destiny, available on Amazon.com at:</p>
+
+<p><a href="https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm_pap_new_olp_0?ie=UTF8&condition=new">https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm<em>pap</em>new<em>olp</em>0?ie=UTF8&amp;condition=new</a></p>
+
+<p>Paco lives in Santa Fe, New Mexico. He may be reached at mitchell@cybermesa.com</p>
+"""^^xsd:string ;
+    ns1:handle "paco"^^xsd:string ;
+    ns1:itemId "bcphbq3rpac"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Paco Mitchell"^^xsd:string ;
+    ns1:profileImg "author-paco.jpg"^^xsd:string .
+
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
 
@@ -20338,22 +20377,6 @@ ns1:bcphbq3ossa a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Roberta Ossana"^^xsd:string ;
     ns1:profileImg "roberta_ossana.png"^^xsd:string .
-
-ns1:bcphbq3rpac a ns1:User ;
-    ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
-    ns1:description """<p>On Academia.edu: <a href="https://independent.academia.edu/PacoMitchell">academia.edu/PacoMitchell</a></p>
-
-<p>Paco Mitchell is a Jungian author, artist, therapist and editor, dedicated to the study of dreams, essay- and fiction-writing, and creative ventures in general. His interest in dreams focuses primarily on emergent levels of psychic development that take shape in the collective unconscious, and strive toward consciousness in the dreams and lives of individuals. Many of Paco's dream-related essays have been published in Dream Network Journal and Depth Insights, as well as The Angels (The Entities Trilogy), ed. by Robert Sardello. In addition to his Jungian studies and practice, Paco also taught Romance Languages (Spanish and French); worked as a sculptor and owner/operator of the Blue Heron Foundry (Art Bronze Casting); and for many years taught and performed on the flamenco guitar, both as a soloist, and as an accompanist to flamenco dancers and singers. He is co-editor of the Owl &amp; Heron Press with <a href="../@ral">Russell A. Lockhart</a>, with whom he has co-authored the first two volumes of a trilogy, Dreams, Bones &amp; the Future, subtitled A Dialogue and Queries &amp; Speculations, respectively. The third volume, subtitled Endings, is under way and will be published in 2020. His latest release is The Paraclete of Caborca: A Collision with Destiny, available on Amazon.com at:</p>
-
-<p><a href="https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm_pap_new_olp_0?ie=UTF8&condition=new">https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm<em>pap</em>new<em>olp</em>0?ie=UTF8&amp;condition=new</a></p>
-
-<p>Paco lives in Santa Fe, New Mexico. He may be reached at mitchell@cybermesa.com</p>
-"""^^xsd:string ;
-    ns1:handle "paco"^^xsd:string ;
-    ns1:itemId "bcphbq3rpac"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Paco Mitchell"^^xsd:string ;
-    ns1:profileImg "author-paco.jpg"^^xsd:string .
 
 ns1:bcphbqvruss a ns1:User ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;

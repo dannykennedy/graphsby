@@ -13,7 +13,7 @@ urlSlug: lucidity-and-meeting-in-the-unknown
 profileImg: bogzaran-lucid-1.jpg
 ---
 
-<img src="../images/bogzaran-lucid-1.jpg" alt="brain" width="400" height="auto"/>
+<img src="../images/bogzaran-lucid-1.jpg" alt="brain" width="500" height="auto"/>
 
 **Incubation question:**
 

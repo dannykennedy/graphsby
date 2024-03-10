@@ -746,6 +746,46 @@ ns1:bcphbyl3dut a ns1:Post ;
     ns1:profileImg "29.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.1"^^xsd:string .
 
+ns1:bcplz7zfbrsl a ns1:Post ;
+    ns1:dateCreated "1993-10-04T11:32:52"^^xsd:dateTime ;
+    ns1:description """<div style="text-align:center; margin-bottom: 2rem;"><i>Review by Stanley Krippner, PhD and Sarah Dubin-Vaughn, PhD</i></div>
+
+<p><a href="https://www.goodreads.com/book/show/50109"></p>
+
+<p><img src="../images/krippner-avebury.jpeg" width="300px" height="auto" alt="Book cover"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Symbolic Landscapes: The Dreamtime Earth and Avebury's Open Secrets. Glastonbury, Somerset, England: Gothic Image, 1992; 183 pages</i></div><!--/nopreview--></p>
+
+<p>Taking the position that "ancient peoples are still offering us their wisdom through their sacred sites and landscapes," <a href="https://en.wikipedia.org/wiki/Paul_Devereux">Paul Devereux</a> has written an excellent book. Devereux's stated aim is to offer a "transcultural perennial manual of how to understand our minds and our planet - the two sides of the same coin."</p>
+
+<p>Readers will appreciate this book. It contains an intelligent, well-documented approach to views of the natural world as viewed from two perspectives. One of these is the physical landscape as constituted by consensual agreement, i.e., the ordinary reality of the world. The other perspective is the visionary landscape of the human mind.</p>
+
+<p>In addition to his own extensive explorations into these two realms, Devereux draws on the reports of an admirably diverse range of personal accounts, folklore, and scholarship. He states that he has written both "from a mental framework that embraces the legitimate demands for informed, intellectual accountability and the legitimate need to recognize inner reality."</p>
+
+<p>Well referenced and nicely illustrated with photographs and diagrams, this book summarizes literature that describes the "Dreamtime Earth," and suggests a means by which the reader can begin to comprehend the workings of consciousness in the process of switching back and forth between views or images of the outer and inner landscapes. The <a href="https://en.wikipedia.org/wiki/Balinese_language">Balinese language</a> contains a well-developed sensibility of dual worlds <a href="https://balivillasforrentals.blogspot.com/2014/05/sekala-dan-nikala-seen-and-unseen.html">("niskala" and "sekala")</a>. But English, in contrast, can only call the alternative visionary world "symbolic," at best. By whatever name it is called, Devereux suggests that a rediscovery of the human capacity to "see" as the ancients could "see," would assist residents of industrialized societies to understand that the existence of these other landscapes rests essentially on one's willingness to believe in them.</p>
+
+<p>To explain the creation of the symbolic landscape as a living reality, Julian Jaynes' speculation about <a href="https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind">"the bicameral mind"</a> is deftly summarized. Although controversial, Jaynes' theory is persuasive in the context of Devereux's argument, especially as he described the ubiquitous stone monuments and other natural forms, as well as the deities that are reported to have talked to those who approached them. Also pertinent to this discussion are the many means and gateways that native people had for entering into the "Dreamtime."</p>
+
+<p>Devereux does not simply dismiss the phenomenon of the symbolic reality as existing only in the mind; he also documents the presence of naturally magnetic stones at a variety of recognized sacred spots. In addition, he presents reasonable explanations for the verified presence of exceptionally bright lights at some "power spots." This topic was more fully developed in Devereux's previous book, Places of Power, where he dealt in detail with magnetic stones, surmising that they were employed both for healing work and for altering people's consciousness.</p>
+
+<p>This slender, but riveting, volume is divided into two essays. The first surveys symbolic landscapes from around the world and explores Jaynes' theory. The second examines, in concrete detail, the well-preserved <a href="https://en.wikipedia.org/wiki/Avebury">Neolithic landscape of Avebury</a> in southern England as well as the process of its exploration. This examination serves well to demonstrate the themes raised in the first essay. Since Avebury is undeniably recognized as having been a ceremonial landscape for its ancient inhabitants, it follows (from Devereux's argument) that it was also a landscape of the mind.</p>
+
+<p>While both parts of this book will interest its readers, the second part will be invaluable to anyone traveling to Avebury. Devereux gives suggestions for exploring the inherent mystery of both landscapes and taking a "Dreamtime" perspective on Avebury may bring the visitor close to the thoughts and feelings of the early inhabitants.</p>
+
+<p>As Devereux aptly suggests, members of industrialized societies might, by gaining a greater intimacy with the physical Earth, more readily "see the Earth as an Angel." This amounts to "an alchemical shift of perception that transforms Earth into Mind." Such is the legacy that "the Ancient peoples left us in their sacred sites and landscapes."</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3krip ;
+    ns1:hasTag ns1:bcphbq3krip,
+        ns1:bcphbqp3hfp ;
+    ns1:inIssue ns1:bcphbqp3hfp ;
+    ns1:itemId "bcplz7zfbrsl"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: Symbolic Landscapes: The Dreamtime Earth and Avebury's Open Secrets by Paul Devereux"^^xsd:string ;
+    ns1:profileImg "krippner-avebury.jpeg"^^xsd:string ;
+    ns1:urlSlug "symbolic-landscapes-the-dreamtime-earth-and-aveburys-open-secrets"^^xsd:string .
+
 ns1:bcplz7zfedam a ns1:Post ;
     ns1:dateCreated "1990-09-02T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Paradigms are world views that arise from epistemologies which, in turn, are generated by the motivations that control them. In the 17th century, Europe adopted the epistemology of empiricism (i.e., the modern scientific method) that led to scientific principles that purport to be repeatable and dependable. To a significant degree, science was able to control nature, predict behavior, and explain a multitude of phenomena.</p>
@@ -18156,20 +18196,6 @@ ns1:bcphbqiclur a ns1:User ;
     ns1:name "Irene Clurman"^^xsd:string ;
     ns1:profileImg "author-ireneclurman.jpg"^^xsd:string .
 
-ns1:bcphbqp3hfp a ns1:Post ;
-    ns1:coverImg "12.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1993-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf" download="">Download issue 12.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoauztyp ;
-    ns1:itemId "bcphbqp3hfp"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 12, issue 4: Water, Earth, Air & Fire in Dreams"^^xsd:string ;
-    ns1:profileImg "12.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "12.4"^^xsd:string .
-
 ns1:bcphbqpionk a ns1:User ;
     ns1:description """<p>Patricia Pionke is a long time reader of and occasional contributor to the Dream Network Journal. </p>
 """^^xsd:string ;
@@ -19138,6 +19164,20 @@ ns1:bcphbqhutch a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Lint Hutchinson"^^xsd:string ;
     ns1:profileImg "author-linton-hutchinson.jpg"^^xsd:string .
+
+ns1:bcphbqp3hfp a ns1:Post ;
+    ns1:coverImg "12.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1993-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf" download="">Download issue 12.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoauztyp ;
+    ns1:itemId "bcphbqp3hfp"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 12, issue 4: Water, Earth, Air & Fire in Dreams"^^xsd:string ;
+    ns1:profileImg "12.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "12.4"^^xsd:string .
 
 ns1:bcphbqvckd7 a ns1:Post ;
     ns1:coverImg "13.1-cover.jpg"^^xsd:string ;
@@ -20880,6 +20920,22 @@ ns1:bcphbqvcors a ns1:User ;
     ns1:name "Bambi Corso"^^xsd:string ;
     ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
 
+ns1:bcphbq3rpac a ns1:User ;
+    ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
+    ns1:description """<p>On Academia.edu: <a href="https://independent.academia.edu/PacoMitchell">academia.edu/PacoMitchell</a></p>
+
+<p>Paco Mitchell is a Jungian author, artist, therapist and editor, dedicated to the study of dreams, essay- and fiction-writing, and creative ventures in general. His interest in dreams focuses primarily on emergent levels of psychic development that take shape in the collective unconscious, and strive toward consciousness in the dreams and lives of individuals. Many of Paco's dream-related essays have been published in Dream Network Journal and Depth Insights, as well as The Angels (The Entities Trilogy), ed. by Robert Sardello. In addition to his Jungian studies and practice, Paco also taught Romance Languages (Spanish and French); worked as a sculptor and owner/operator of the Blue Heron Foundry (Art Bronze Casting); and for many years taught and performed on the flamenco guitar, both as a soloist, and as an accompanist to flamenco dancers and singers. He is co-editor of the Owl &amp; Heron Press with <a href="../@ral">Russell A. Lockhart</a>, with whom he has co-authored the first two volumes of a trilogy, Dreams, Bones &amp; the Future, subtitled A Dialogue and Queries &amp; Speculations, respectively. The third volume, subtitled Endings, is under way and will be published in 2020. His latest release is The Paraclete of Caborca: A Collision with Destiny, available on Amazon.com at:</p>
+
+<p><a href="https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm_pap_new_olp_0?ie=UTF8&condition=new">https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm<em>pap</em>new<em>olp</em>0?ie=UTF8&amp;condition=new</a></p>
+
+<p>Paco lives in Santa Fe, New Mexico. He may be reached at mitchell@cybermesa.com</p>
+"""^^xsd:string ;
+    ns1:handle "paco"^^xsd:string ;
+    ns1:itemId "bcphbq3rpac"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Paco Mitchell"^^xsd:string ;
+    ns1:profileImg "author-paco.jpg"^^xsd:string .
+
 ns1:bcphbq3krip a ns1:User ;
     ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
 
@@ -20900,22 +20956,6 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dr. Stanley Krippner"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
-
-ns1:bcphbq3rpac a ns1:User ;
-    ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
-    ns1:description """<p>On Academia.edu: <a href="https://independent.academia.edu/PacoMitchell">academia.edu/PacoMitchell</a></p>
-
-<p>Paco Mitchell is a Jungian author, artist, therapist and editor, dedicated to the study of dreams, essay- and fiction-writing, and creative ventures in general. His interest in dreams focuses primarily on emergent levels of psychic development that take shape in the collective unconscious, and strive toward consciousness in the dreams and lives of individuals. Many of Paco's dream-related essays have been published in Dream Network Journal and Depth Insights, as well as The Angels (The Entities Trilogy), ed. by Robert Sardello. In addition to his Jungian studies and practice, Paco also taught Romance Languages (Spanish and French); worked as a sculptor and owner/operator of the Blue Heron Foundry (Art Bronze Casting); and for many years taught and performed on the flamenco guitar, both as a soloist, and as an accompanist to flamenco dancers and singers. He is co-editor of the Owl &amp; Heron Press with <a href="../@ral">Russell A. Lockhart</a>, with whom he has co-authored the first two volumes of a trilogy, Dreams, Bones &amp; the Future, subtitled A Dialogue and Queries &amp; Speculations, respectively. The third volume, subtitled Endings, is under way and will be published in 2020. His latest release is The Paraclete of Caborca: A Collision with Destiny, available on Amazon.com at:</p>
-
-<p><a href="https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm_pap_new_olp_0?ie=UTF8&condition=new">https://www.amazon.com/gp/offer-listing/0911738096/ref=tmm<em>pap</em>new<em>olp</em>0?ie=UTF8&amp;condition=new</a></p>
-
-<p>Paco lives in Santa Fe, New Mexico. He may be reached at mitchell@cybermesa.com</p>
-"""^^xsd:string ;
-    ns1:handle "paco"^^xsd:string ;
-    ns1:itemId "bcphbq3rpac"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Paco Mitchell"^^xsd:string ;
-    ns1:profileImg "author-paco.jpg"^^xsd:string .
 
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>

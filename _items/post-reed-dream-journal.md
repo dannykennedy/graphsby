@@ -33,4 +33,4 @@ Dr. Child chooses five books written by psychologists on the topic of parapsycho
 
 Dr. Child does not speculate about any possible reasons or motivations the reviewers might have had for distorting the facts. He does, however, point out how often the reviewers are committing the very sin they accuse the Maimonides researchers of committing. For example, the researchers are accused of "shoe fitting," or twisting the facts to fit the interpretation that is desired. Dr. Child asserts that the Maimonides researchers are innocent of this charge, but that the reviewers are quite guilty of it themselves.
 
-<img src="../images/hr-dj.jpg" width="400" height="auto" alt="address correction requested"/>
+<img src="../images/hr-dj-2.jpg" width="400" height="auto" alt="address correction requested"/>

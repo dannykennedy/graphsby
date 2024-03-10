@@ -798,6 +798,51 @@ ns1:bcplz7zfedam a ns1:Post ;
     ns1:name "Exploring Dreams and Myth"^^xsd:string ;
     ns1:urlSlug "exploring-dreams-and-myth"^^xsd:string .
 
+ns1:bcplz7zfedvd a ns1:Post ;
+    ns1:dateCreated "1990-01-03T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Curtis Colliver was a 24-year-old substance abuser when he entered a residential treatment program and began keeping a dream diary. Once he finished the 28-day program, he shared three dreams from his diary with me that took place at approximately weekly intervals:</p>
+
+<ol>
+<li><p><em>I get out of prison and run into some people who smoke crack. I buy some and leave it on a table. When I return, a group of men are smoking it. They give it back and I go off looking for a place to smoke.</em></p></li>
+<li><p><em>I am in a bus station with two other men. One man is shooting speed. I say that I want some. He gives the other guy a shot first. He pulls the needle out and then puts the rest in my arm. I am thinking that it is going to be way too much and that I will overdose. When he put the needle in, it looked like a hook going into a worm and reminded me of a worn-out vagina eating up a penis. I waited for the taste in my mouth and death—but they never came. I looked at him with surprise and disappointment.</em></p></li>
+<li><p><em>I go into a doghouse and find a gorilla who is a crack dealer. He tries to sell me a block of coke. He breaks off a piece, spilling some on his chest and flicking it onto the floor with his finger. I put some in a pipe and put it to my mouth. I am thinking about losing my sobriety and decide not to smoke.</em></p></li>
+</ol>
+
+<p>On one level, the dreams reflect his involvement with crack, speed, and cocaine. At another level, they represent three stages in his personal growth, moving from blatant use in the first dream to concern over the consequences in the second dream, to maintaining sobriety in the third.</p>
+
+<p>In our discussions, Curtis retold the dreams in the following way:</p>
+
+<ol>
+<li><p>I get out of the treatment center and run into some of my crack-smoking buddies. I buy some but am not sure if I want to relapse so I put it aside. When I come back, a group of crack dealers have started to smoke it. They know that if I see them smoking, they will hook me again. So they give me what is left over and I take off looking for a place to smoke where people from the treatment center won't find me.</p></li>
+<li><p>My life is in transition, and I am with two speed dealers. One of them is shooting speed. This is an inducement for me to want to use it, but he gives the other guy a shot first, knowing that the dealer will make me want it even more. He pulls the needle out of the other guy's arm and puts the rest of the speed in my arm. I am thinking that I don't have tolerance for it anymore and that I will overdose. When he put the needle in my arm, it looked like he had me hooked on his bait. It also reminded me of the almost sexual comfort I got from drugs, a sexual seduction that should be worn out by now but which is still eating up my vitality and destroying my manly resolve. I waited for the characteristic taste of speed in my mouth and the death I knew was coming. But they never came. I was surprised but also disappointed because "ego-death" – forgetting my identity and therefore, my problems – is one of the drug effects I enjoyed most.</p></li>
+<li><p>I'm in the doghouse because I'm tempted to use drugs again. The crack dealer is a real animal, and I don't dare turn him down. He tries to sell me a block of crack. He breaks off a piece, spilling some on his chest and flicking it onto the floor with his finger – demonstrating to me that he has an abundant supply, that there's always more where this block came from. I put some crack in a pipe and put it to my mouth. But I realize that I would lose my sobriety so I decide not to smoke. This is the first time I can remember that I ever took responsibility for myself in a dream and am not passive and powerless.</p></li>
+</ol>
+
+<p>I have found this dreamworking technique to be simple yet useful. The dreamer simply retells the dream as if it were a story about his or her life (Krippner &amp; Dillard, 1988). The dream story can be written or expressed verbally. Sometimes it helps for each story to be given a title. The dreamworker can ask simple questions about the content of the story, e.g., "What emotional feeling did you experience when you decided not to smoke the pipeful of crack?" "What would you do or say if the gorilla tried to force you to smoke the crack?" In addition, the stories can initiate the discussion of crucial issues: the desire for ego death in the second dream could lead to a discourse on what has been called "a caricature of the transcendental state" (Kiley, 1988, p. 15) and a discussion of better ways to fulfill one's spiritual needs.</p>
+
+<p>In the 12 months since completing the treatment program, Curtis has only relapsed three times, once with marijuana, once with cocaine, and once with alcohol. He continues to work with his dreams. One day he told me that he remembered a dream in which he relapsed and felt very depressed because he thought this might presage a relapse in waking life. However, I told Curtis about the Choi study in which 83% of the alcoholics who had been sober for more than one year had dreamed about relapsing at least once, as compared with 37% who had not been abstinent for a year. Although there are several possible interpretations for this finding, the data themselves were reassuring to Curtis. Like the subject in Choi's study, Colliver did not enjoy the drug experience in his dream. In fact, the dream preceded Curtis' current period of complete sobriety.</p>
+
+<p><em>Author's note:</em> Curtis is still sober. This is quite an accomplishment, given the relapse rate for cocaine addiction. He dreams about addictive drugs from time to time, but the frequency is less.</p>
+
+<h3>References:</h3>
+
+<ul>
+<li><p>Choi, S.Y. (1973), Dreams as a prognostic factor in alcoholism. American Journal of Psychiatry, 130, 699-702.</p></li>
+<li><p>Kiley, L. (1988). Addiction and consciousness: Exploring the relationship. Addiction and Consciousness Journal, 3, 3-4, 15.</p></li>
+<li><p>Krippner, S., &amp; Dillard, J. (1988). Dreamworking: How to Use Your Dreams for Creative Problem-Solving. Buffalo, NY: Bearly.</p></li>
+</ul>
+
+<p><em>This article originally appeared in the ASD Newsletter, Vol. 6, No. 5, Sept/Oct 1989. It is reprinted here with the author's permission and the addition of an author's note.</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3krip ;
+    ns1:hasTag ns1:bcphbpntuo4,
+        ns1:bcphbq3krip ;
+    ns1:inIssue ns1:bcphbpntuo4 ;
+    ns1:itemId "bcplz7zfedvd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Storytelling and Sobriety: Dreams Vs. Drugs"^^xsd:string ;
+    ns1:urlSlug "storytelling-and-sobriety-dreams-vs-drugs"^^xsd:string .
+
 ns1:bcpot5kidnbt a ns1:Post ;
     ns1:dateCreated "1986-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>It has been a difficult job attempting to evaluate and integrate the responses sent in about this project. One of the primary obstacles has been to determine what to consider as the telepathic <strong>"stimulus"</strong>. In many ways, the obvious choice would be the original black and white photograph that I focused on the night of November 17. However, I did have some dreams that night and an argument could be made that the pictorial images arising from my unconscious would provide a more potent source of energy transmission than would the conscious awareness of the graphic properties of the photograph. And then we get into the issue as to whether it's relevant to even conceptualize the process as a causal stimulus-response type of connection.</p>
@@ -18857,20 +18902,6 @@ ns1:bcphbp2b6gy a ns1:Post ;
     ns1:profileImg "11.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "11.3"^^xsd:string .
 
-ns1:bcphbpntuo4 a ns1:Post ;
-    ns1:coverImg "10.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1991-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.4-Dream-Network-Journal_Volume-10_No-4.pdf" download="">Download issue 10.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.4-Dream-Network-Journal_Volume-10_No-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaqcodk ;
-    ns1:itemId "bcphbpntuo4"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 10, issue 4: Overcoming Addictions: Can our Dreams Help?"^^xsd:string ;
-    ns1:profileImg "10.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "10.4"^^xsd:string .
-
 ns1:bcphbpumr2x a ns1:Post ;
     ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
@@ -19876,6 +19907,20 @@ ns1:bcphbpfnwcb a ns1:Post ;
     ns1:profileImg "10.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "10.2-3"^^xsd:string .
 
+ns1:bcphbpntuo4 a ns1:Post ;
+    ns1:coverImg "10.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1991-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.4-Dream-Network-Journal_Volume-10_No-4.pdf" download="">Download issue 10.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_10/10.4-Dream-Network-Journal_Volume-10_No-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaqcodk ;
+    ns1:itemId "bcphbpntuo4"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 10, issue 4: Overcoming Addictions: Can our Dreams Help?"^^xsd:string ;
+    ns1:profileImg "10.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "10.4"^^xsd:string .
+
 ns1:bcphbpqyqpo a ns1:Post ;
     ns1:coverImg "11.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1992-01-01T11:32:52"^^xsd:dateTime ;
@@ -20793,27 +20838,6 @@ ns1:bcphbqvbulk a ns1:User ;
     ns1:name "Kelly Bulkeley"^^xsd:string ;
     ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
 
-ns1:bcphbq3krip a ns1:User ;
-    ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
-
-<p>Fundraiser: <a href="https://www.gofundme.com/f/support-for-dr-stanley-krippner">Support For Dr. Stanley Krippner</a></p>
-
-<p>Stanley Krippner was the Alan Watts Professor of Psychology at Saybrook University for 47 years. He is a Fellow in five American Psychological Association (APA) divisions, and past-president of two divisions. Formerly, he was director of the Kent State University Child Study Center, Kent Ohio, and the Maimonides Medical Center Dream Research Laboratory, Brooklyn New York. Currently, he is Affiliated Distinguished Faculty, California Institute of Integral Studies in San Francisco.</p>
-
-<p>He is co-author of <em>Extraordinary Dreams, Personal Mythology, Dream Telepathy, Sex and Love in the 21st Century, The Voice of Rolling Thunder, Demystifying Shamans and Their World, A Psychiatrist in Paradise: Treating Mental Illness in Bali, Post-Traumatic Stress Disorder: Biography of a Disease, Dreamworking: How to Use Your Dreams for Creative Problem-Solving, and Haunted by Combat: Understanding PTSD in War Veterans, and co-editor of Holistic Treatment in Mental Health: A Handbook of Practitioners’ Perspectives, Healing Tales, Healing Stories, Mysterious Minds, Debating Psychic Experience, The Psychological Impact of War on Civilians: An International Perspective, Dreamscaping: New and Creative Ways to Work with Your Dreams, Broken Images, Broken Selves: Dissociative Narratives in Clinical Practice,</em> and <em>Varieties of Anomalous Experience: Examining the Scientific Evidence.</em> He edited or co-edited ten volumes of <em>Advances in Parapsychological Research</em>. </p>
-
-<p>He received the APA Award for Distinguished Contributions to the International Development of Psychology in 2002, the Society for Psychological Hypnosis Award for Distinguished Contributions to Professional Hypnosis in 2002, the Ashley Montagu Peace Award in 2003, and lifetime achievement awards from the International Association for the Study of Dreams, The International Network on Personal Meaning, the Society for Humanistic Psychology, the Parapsychological Association, and the J.B. Rhine Lifetime Achievement in Parapsychology Award .He received that Award for Distinguished Contributions to Professional Hypnosis from the Society for Psychological Hypnosis, the Senior Contributor Award from the Society for Counseling Psychology, the Pathfinder Award from the Association for Humanistic Psychology, and the Charlotte and Karl Buhler Award from the Society for Humanistic Psychology.</p>
-
-<p>In addition to his APA listings, he holds Fellow status in several other organizations including, the Society for the Scientific Study of Religion, the Society for the Scientific Study of Sexuality, the American Educational Research Association, the Western Psychological Association, the Society of Clinical and Experimental Hypnosis, and the American Society of Clinical Hypnosis. He is a Founding Fellow of the Association for Psychological Science and the American Academy of Clinical Sexologists. He holds Diplomate status in the American Board of Sexology and the International Academy of Behavioral Medicine, Counseling, and Psychotherapy. He is certified as an Advanced Alcohol and Drug Counselor.</p>
-
-<p>Krippner has conducted workshops and seminars on dreams and/or hypnosis in Argentina, Brazil, Canada, China, Colombia, Cuba, Cyprus, Ecuador, Finland, France, Germany, Great Britain, Italy, Japan, Lithuania, Mexico, the Netherlands, Panama, the Philippines, Portugal, Puerto Rico, Russia, South Africa, Spain, Sweden, Venezuela, and at four congresses of the Interamerican Psychological Association. He is a member of the editorial board for the <em>Revista Argentina de Psicologia Paranormal</em>, and the advisory board for International School for Psychotherapy, Counseling, and Group Leadership (St. Petersburg) and the Czech Unitaria (Prague). He holds faculty appointments at the Universidade Holistica Internacional (Brasilia), El Universidad Transpersonal (Puebla, México), and the Instituto de Medicina y Tecnologia Avanzada de la Conducta (Ciudad Juarez). He has given invited addresses for the Chinese Academy of Sciences, the Russian Academy of Pedagogical Sciences, and the School for Diplomatic Studies, Montevideo, Uruguay. In 1959, he received the Service to Youth Award from the Young Men’s Christian Association in Richmond, Virginia, his first award.</p>
-"""^^xsd:string ;
-    ns1:handle "stanleykrippner"^^xsd:string ;
-    ns1:itemId "bcphbq3krip"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dr. Stanley Krippner"^^xsd:string ;
-    ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
-
 ns1:bcphbqawtay a ns1:User ;
     ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
@@ -20855,6 +20879,27 @@ ns1:bcphbqvcors a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bambi Corso"^^xsd:string ;
     ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
+
+ns1:bcphbq3krip a ns1:User ;
+    ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
+
+<p>Fundraiser: <a href="https://www.gofundme.com/f/support-for-dr-stanley-krippner">Support For Dr. Stanley Krippner</a></p>
+
+<p>Stanley Krippner was the Alan Watts Professor of Psychology at Saybrook University for 47 years. He is a Fellow in five American Psychological Association (APA) divisions, and past-president of two divisions. Formerly, he was director of the Kent State University Child Study Center, Kent Ohio, and the Maimonides Medical Center Dream Research Laboratory, Brooklyn New York. Currently, he is Affiliated Distinguished Faculty, California Institute of Integral Studies in San Francisco.</p>
+
+<p>He is co-author of <em>Extraordinary Dreams, Personal Mythology, Dream Telepathy, Sex and Love in the 21st Century, The Voice of Rolling Thunder, Demystifying Shamans and Their World, A Psychiatrist in Paradise: Treating Mental Illness in Bali, Post-Traumatic Stress Disorder: Biography of a Disease, Dreamworking: How to Use Your Dreams for Creative Problem-Solving, and Haunted by Combat: Understanding PTSD in War Veterans, and co-editor of Holistic Treatment in Mental Health: A Handbook of Practitioners’ Perspectives, Healing Tales, Healing Stories, Mysterious Minds, Debating Psychic Experience, The Psychological Impact of War on Civilians: An International Perspective, Dreamscaping: New and Creative Ways to Work with Your Dreams, Broken Images, Broken Selves: Dissociative Narratives in Clinical Practice,</em> and <em>Varieties of Anomalous Experience: Examining the Scientific Evidence.</em> He edited or co-edited ten volumes of <em>Advances in Parapsychological Research</em>. </p>
+
+<p>He received the APA Award for Distinguished Contributions to the International Development of Psychology in 2002, the Society for Psychological Hypnosis Award for Distinguished Contributions to Professional Hypnosis in 2002, the Ashley Montagu Peace Award in 2003, and lifetime achievement awards from the International Association for the Study of Dreams, The International Network on Personal Meaning, the Society for Humanistic Psychology, the Parapsychological Association, and the J.B. Rhine Lifetime Achievement in Parapsychology Award .He received that Award for Distinguished Contributions to Professional Hypnosis from the Society for Psychological Hypnosis, the Senior Contributor Award from the Society for Counseling Psychology, the Pathfinder Award from the Association for Humanistic Psychology, and the Charlotte and Karl Buhler Award from the Society for Humanistic Psychology.</p>
+
+<p>In addition to his APA listings, he holds Fellow status in several other organizations including, the Society for the Scientific Study of Religion, the Society for the Scientific Study of Sexuality, the American Educational Research Association, the Western Psychological Association, the Society of Clinical and Experimental Hypnosis, and the American Society of Clinical Hypnosis. He is a Founding Fellow of the Association for Psychological Science and the American Academy of Clinical Sexologists. He holds Diplomate status in the American Board of Sexology and the International Academy of Behavioral Medicine, Counseling, and Psychotherapy. He is certified as an Advanced Alcohol and Drug Counselor.</p>
+
+<p>Krippner has conducted workshops and seminars on dreams and/or hypnosis in Argentina, Brazil, Canada, China, Colombia, Cuba, Cyprus, Ecuador, Finland, France, Germany, Great Britain, Italy, Japan, Lithuania, Mexico, the Netherlands, Panama, the Philippines, Portugal, Puerto Rico, Russia, South Africa, Spain, Sweden, Venezuela, and at four congresses of the Interamerican Psychological Association. He is a member of the editorial board for the <em>Revista Argentina de Psicologia Paranormal</em>, and the advisory board for International School for Psychotherapy, Counseling, and Group Leadership (St. Petersburg) and the Czech Unitaria (Prague). He holds faculty appointments at the Universidade Holistica Internacional (Brasilia), El Universidad Transpersonal (Puebla, México), and the Instituto de Medicina y Tecnologia Avanzada de la Conducta (Ciudad Juarez). He has given invited addresses for the Chinese Academy of Sciences, the Russian Academy of Pedagogical Sciences, and the School for Diplomatic Studies, Montevideo, Uruguay. In 1959, he received the Service to Youth Award from the Young Men’s Christian Association in Richmond, Virginia, his first award.</p>
+"""^^xsd:string ;
+    ns1:handle "stanleykrippner"^^xsd:string ;
+    ns1:itemId "bcphbq3krip"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dr. Stanley Krippner"^^xsd:string ;
+    ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
 
 ns1:bcphbq3rpac a ns1:User ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;

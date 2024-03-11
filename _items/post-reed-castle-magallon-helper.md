@@ -19,7 +19,7 @@ profileImg: helper-reed-castle.jpg
 
 <img src="../images/helper-reed-castle.jpg" width="400" height="auto" alt="Dream helper ceremony illustration"/>
 
-> _"In continued celebration of ten+ years in print, we present this intriguing dialogue. In doing so, we have the privilege and advantage of honoring three of this publication's previous editors. To each of you, deep gratitude from all dreamers! For an account by a dreamer who was the subject of a Dream Helper Ceremony, see DNB Vol. 5 No. 4 pp 6. (Editor)"_
+> _"In continued celebration of ten+ years in print, we present this intriguing dialogue. In doing so, we have the privilege and advantage of honoring three of this publication's previous editors. To each of you, deep gratitude from all dreamers! For an account by a dreamer who was the subject of a Dream Helper Ceremony, see [DNB Vol. 5 No. 4](../bcphbmmohfo/5.4) pp 6-7. (Editor)"_
 
 **Henry:** Back in the mid '70s, I was working with a dream incubation ritual at an [A.R.E.](https://en.wikipedia.org/wiki/Association_for_Research_and_Enlightenment) (Association For Research and Enlightenment / the Edgar Cayce Foundation) camp where young people would spend a week or so engaged in various activities. I had a tent down by a river in view of the cafeteria, and I let it be known to the community that, should one of the kids want, they could work with me in the tent and have a special dream. At dinner time, the rest of the kids would see the volunteer incubant and I walk down to the tent and stay there until after dark. In the morning, when the kids were having breakfast, they'd see me walk down to the tent again, be there for a while, and then come back with the volunteer.
 

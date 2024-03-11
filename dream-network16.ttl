@@ -17092,6 +17092,96 @@ Neglect of the Facts</strong></p>
     ns1:profileImg "hr-dj.jpg"^^xsd:string ;
     ns1:urlSlug "henry-reeds-dream-journal"^^xsd:string .
 
+ns1:bcpoz5rshdhc a ns1:Post ;
+    ns1:dateCreated "1992-07-02T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/helper-reed-castle.jpg" width="400" height="auto" alt="Dream helper ceremony illustration"/></p>
+
+<blockquote>
+  <p><em>"In continued celebration of ten+ years in print, we present this intriguing dialogue. In doing so, we have the privilege and advantage of honoring three of this publication's previous editors. To each of you, deep gratitude from all dreamers! For an account by a dreamer who was the subject of a Dream Helper Ceremony, see DNB Vol. 5 No. 4 pp 6. (Editor)"</em></p>
+</blockquote>
+
+<p><strong>Henry:</strong> Back in the mid '70s, I was working with a dream incubation ritual at an <a href="https://en.wikipedia.org/wiki/Association_for_Research_and_Enlightenment">A.R.E.</a> (Association For Research and Enlightenment / the Edgar Cayce Foundation) camp where young people would spend a week or so engaged in various activities. I had a tent down by a river in view of the cafeteria, and I let it be known to the community that, should one of the kids want, they could work with me in the tent and have a special dream. At dinner time, the rest of the kids would see the volunteer incubant and I walk down to the tent and stay there until after dark. In the morning, when the kids were having breakfast, they'd see me walk down to the tent again, be there for a while, and then come back with the volunteer.</p>
+
+<p>Naturally, there was a lot of curiosity. "What happens in the tent, Henry? What happens when the person's sleeping there?" Also, kids would come up to me and say, "I had a dream last night..." and proceed to tell me their dreams. I could recognize that the kids were picking up the issue that the incubant, the questor, was working on and dreaming about. Perhaps because of curiosity, they had "tuned in" to that person and had a similar type of dream. I thought this was very interesting. I didn't know what to do with it, except to note that there was a lot of incubation going on and much vicarious participation in the healing. <a href="../@bobvandecastle">Bob Van de Castle</a> and I were once together at this camp. We were given the assignment to do a demonstration of dream telepathy for the kids, involve them in some kind of experiment. As we brainstormed on what kind of experiment to conduct, we brought our background relationship to bear.</p>
+
+<p>I had a dream the night of our first committee meeting in which a group of us had gathered at A.R.E. We were in the dark, fumbling around, and didn't know what to do. Then, through some unknown way, we started a circular dance. Everyone had a circular dream shield, like a mandala with some kind of a symbol on it. As we would meet each other, passing in the dance, we would show our insignia and the person would recognize us by our symbol. In the middle of the dance, a fountain of sparks suddenly appeared, we were surrounded by light, and we could see. We realized that in the dance was the research method we were seeking which would lead to our enlightenment. I called this <em>"The Dream of the Research Dance."</em></p>
+
+<p>I had studied a little about similar patterns. For example, in the Sundance Indian ceremony, there's a group of dancers around a pole who are seeking visions. The pole serves as their common ideal. By contrast, in a traditional kind of dream telepathy experiment, there is a subject who is asleep in a laboratory and someone else who is awake, staring at pictures, who's trying to impress upon the sleeper images that hopefully will appear in the dream. Bob had done such a demonstration at camp in a previous summer. But that approach didn't fit our ideal because there wasn't the feeling that the various people involved—experimenter, sender, and receiver—were cooperating for acknowledgment. It was set up primarily to "prove" the existence of ESP.</p>
+
+<p>One of the things that <a href="https://en.wikipedia.org/wiki/Edgar_Cayce">Cayce</a> had indicated was that we would never understand ESP if our orientation was to "prove" its existence, because by the very act of trying to do it, we were singling out and separating people to examine their mental contents. Rather, he said, if we wished to understand telepathy, we should get people together in such a way that they had a desire to help one another but had no other way of doing it except through telepathy. Then they'd focus on the telepathy, focus on the follow-through of being helpful.</p>
+
+<p>So Bob and I bounced these ideas around with my dream and the incidents of kids "spying" on others in the dream tent. We brainstormed what we called the "Dream Helper Ceremony."</p>
+
+<p><strong>Bob:</strong> I had been involved with investigations of dream telepathy in three different labs. When working with <a href="https://en.wikipedia.org/wiki/Calvin_S._Hall">Calvin Hall</a> in Miami, I turned out to be one of his better subjects. He got sufficiently intrigued to try it with some others and published a paper in one of the parapsychological journals about the very positive results. I'd also been a subject up at Maimonides Medical Center in a series of studies that was written up in the book, <em>Dream Telepathy</em> by <a href="../@montagueullman">Ullman</a>, <a href="../@stanleykrippner">Krippner</a>, and Vaughn. Later on, because I'd been so successful at Maimonides, I went out to Wyoming to Dave Foulkes' lab to see if I could be as equally successful there. Looking at that literature, I think there's a solid, substantial case that can be made for the empirical evidence supporting the telepathic hypothesis. So I'd had a lot of experience in having electrodes attached and finding ways of dreaming about the target. When I was at Maimonides, my motivation was clearly narcissistic, clearly wanting to get the highest scores that had ever been attained, come up "numero uno."</p>
+
+<p>The Dream Helper Ceremony isn't to learn how to work with your dreams, though. It uses selfless motivation: to use your dreams to better help others.</p>
+
+<p><strong>Henry:</strong> The Dream Helper Ceremony is simply this: for one night, your dreams do not belong to you, but will belong to someone else, someone in your dream group who is suffering from some kind of personal problem, who has a serious dilemma in their life, who is willing to step forward and without revealing the nature of that problem, ask for help. Then dreamers form a circle around that person, dedicating their dreams to try to divine information or bless that person. The dreams are brought in the morning as gifts to help that person with whatever their dilemma might be.</p>
+
+<p>We suggest that the dreamers' recall will be very good because they don't want to let the target person down. For some, the person will appear in the dream or they'll have a special dream which will give them a feeling that they really connected with the person and have found something of value. But most will feel that they've failed the person, that their dreams couldn't really have much to do with the person they're dreaming for. They might expect that if they were successful at this they'd have a dream in which they saw an X-ray portrait of the target person, saw into their past, and had voices describing what's wrong, but that's the rarity. Some people, like Bob, are so vigilant for their dreams that they're waking up every few minutes and writing down notes. I'd like to think that I'm a caring person but I still seem to wake up with only a sentence or two.</p>
+
+<p>Invariably, however, when we start hearing everybody's dreams, by the time we're around the circle, people will be exclaiming about how there's so much in common. For example, if one person dreamt of finding an orange on the sidewalk, we'd think nothing of it. But when someone else reports a dream of an orange banner and still another person reports finding an apple on the sidewalk and somebody else dreams about a beautiful orange sunset, all of a sudden the orange in the dream starts to feel significant. We had one instance where my group had sex and aggression occurring together in dreams. The woman volunteer was concerned about her lack of direction with her creative talents. She had started a lot of different career directions, but nothing ever came of them and she was thinking that perhaps she had some kind of fear of success. She heard the dreams and though it hadn't been particularly on her mind, she recognized that the dreams were tuning in on the fact that she had been sexually molested as a child by a relative. It took place in a basement that appeared in a couple of people's dreams.</p>
+
+<p>A person may say they want help with "X," but dreamers don't stop just at the surface level, they go deep into the problem. In this case, it was her childhood.</p>
+
+<p>In the second group facilitated by Bob, the woman was concerned about a family incident in which one of her sons was discovered dead, and the other son was suspected, somehow, of being involved. Although the police had investigated the incident and cleared the son from any wrongdoing, the family had not been the same since. The living son was withdrawing and starting to show problems, and the family was showing doubt. So her secret question was, "How did my son die?"</p>
+
+<p>In that group, most of the dreams had to do with accidents: tripping, crossed wires and communication, but not one image of violence. By all Hall and Van de Castle content analysis standards, there should have been some violence in those dreams. On the basis of the dreams, the group said, "Your son died by accident, perhaps tripped." The woman really wanted to believe that, but could she trust these dreams?</p>
+
+<p>The two groups came together and compared the dreams. In the one circle, there was a woman who was asking about creativity and careers, and the response was violence in our dreams. Clearly, we were capable of dreaming of violence if we wanted to. But in the other circle, where the target person was concerned about violence, there was none to be found. It was as if we were saying, "Lady, we couldn't come up with violence, so perhaps you can take some confidence in that."</p>
+
+<p><strong>Bob:</strong> Nor any sexuality. The one group had all daughters, no sons; the other group had all sons, no daughters.</p>
+
+<p>I was also able to point out to the woman that I did think the helpers picked up on her because that night she had a dream about a vacuum cleaner catching on fire. She was trying to look for a special kind of fire extinguisher because she had heard if you used water, it wouldn't do. One of the dream helpers had a dream about a vacuum cleaner that caught on fire and was concerned about not using water for it. If you were to go into our norms (for <a href="https://dreams.ucsc.edu/Library/fmid2.html">Hall and Van de Castle content analysis</a>), vacuum cleaner isn't even listed. Then if you take a vacuum cleaner that's on fire and inject how it's going to be extinguished, I think we've picked up on you. According to our norms, you should have had aggression in 50% of the dreams; out of 12 people, 6 aggressive dreams, and yet we had zero. But the other group was loaded with aggression. So we were able to make a fairly compelling case for her.</p>
+
+<p>When we saw her later at a dream convention, she was a totally different woman. Before, she had looked depressed, with her face sagging; a year later she looked exuberant.</p>
+
+<p><strong>Henry:</strong> Ever since that occasion, we opened up the size of the workshop so we could form two groups. Beforehand we liked to work together, but we realized it was more important to have the contrasts to look at afterward. The impact was reinforced.</p>
+
+<p>The target person from each group will write out a statement of their question or problem and stick it under their pillows to sleep on it. After we share dreams the next morning, we will form a group consensus before we let the target person speak. There's a good reason for that. In the first years, the people would say that those consensus were very wrong, but that our dreams were blowing them away. Then we'd start to probe into what the dreams were really trying to get at. Also, without some sort of structure, after the problem is revealed there is a tendency for people to start throwing in their advice and ignore what the dreams are saying.</p>
+
+<p>The last thing we do is come back together as one large group and hear a bit of feedback from the two people. Bob and I share with the group as a whole some of the common themes that are in each subgroup and point out the differentiation between the two issues. Whether or not there is resolution of the problem after the dream ceremony varies with the people involved. Some people have an immediate sense of resolution; some people are left scratching their heads; it's a delayed reaction.</p>
+
+<p>Most work in telepathy is great the first few times you do the research, and then it peters out. With the Dream Helper Ceremony, over the years the effects have only grown rather than deteriorated. I guess it's a tribute to Cayce's insight, but one of the things that's so valuable about this and why it works is that the ceremony really invokes caring as well as curiosity.</p>
+
+<p><strong>Bob:</strong> A target person from last year recently told me that she felt that the Dream Helper Ceremony was one of the most important events in her life in highlighting different things and turning her around. I can't give any green stamp guarantee that that's going to happen, but there's certainly been some very powerful results, if it's done with a certain sense of honor and not being treated frivolously. You can't use it to ask "How can I make a million bucks?" You can't do it as a personal or classified ad, like "Where can I find a job?" or "Where can I find a 32-year-old hunk of a guy?" It goes far, far deeper than that.</p>
+
+<p>When we did the one several years ago at Charlottesville, a woman asked a relatively superficial question. The group's dreams had a great deal of violence in them. One man had been a member of my dream group all year long, and I don't ever remember him ever having much in the way of violence. But in his dream he's pounding on someone's head with a hammer, and blood is pouring out. Another dreamt of a mother duck and a bunch of dead baby ducks in the water.</p>
+
+<p>In terms of her alleged question, the dreams had nothing to do with it. This puts me in an awkward spot as a leader, because I'd like to have it work out that there's some relevance. But then, as we hung in there, she began to say things like, "I thought I got through all of that stuff in therapy; I've been in therapy for years trying to deal with it." When she was younger, she and her mother had a great deal of difficulty in their relationship. There was a time when the mother tried to put her in scalding hot water and kill her.</p>
+
+<p>People can tune in on much deeper levels than one would choose. So it's important to pick the question wisely.</p>
+
+<p>A desirable target person is someone who feels they have a problem of some emotional significance and would like help from the group. The best issues are usually something dealing with one's past, something dealing with relationships, something that's of deep significance. The target person doesn't have to disclose what that problem is if it's too personally embarrassing. So far, it's never happened, though. If we have a larger group of people volunteer than we need for the two, we put our names on pieces of paper, put them in a hat, and select two.</p>
+
+<p><strong>Henry:</strong> Then we have the two target people step out of the room while we create groups for them. We suggest they grab personal objects to entrust to each member of the group for the night: a ring, a key, a watch, whatever, that we will sleep with for their "vibes." Alternative "B", which is equally effective, is for them to get out a piece of paper, tear it into pieces and sign their name on each one.</p>
+
+<p><strong>Bob:</strong> Legibly. We have to have something, so that the Dream Helpers can take something of their essence back to their bedrooms tonight to link up with.</p>
+
+<p>We write our dreams down, too, or it'd be too tempting to say the next day, oh, yeah, I did have a dream like that. It's best to have it documented ahead of time; otherwise, we could talk ourselves into all sorts of subjective judgments. Plus, we'll be giving those reports to the target people so that they'll have more of a chance to read them at their leisure or refer to them later.</p>
+
+<p>It's important not to withhold anything. We can't embarrass ourselves because it's not our dreams. If we have any kind of "X" rated dreams, any kind of violent dreams, it's their dreams. So no matter how improbable, bizarre, or off the wall it seems, we report it.</p>
+
+<p>The next day, people say, "I know this couldn't possibly have anything to do with it", but until we can see what the context is with the other dreams, we never know. One dream is like a point on a blackboard. It doesn't go anywhere until we get other dreams and start to see whether we've actually got a square, a triangle, or a parallelogram.</p>
+
+<p>The target person is telling us, by virtue of volunteering, that they need help. And we're offering what is the most individual, precious, unique thing that we have coming from our souls: our dreams. To receive this God-given, powerful message that we could provide but to keep snoring and sleeping through, will make us feel very guilty the next morning! Certainly, if we don't remember, we can still show up at the group meeting the next day. So, I'm making it heavy on both sides: don't be a target person unless you're willing to let people walk all around and through the secret recesses of your mind and don't agree to be a Dream Helper unless you have a greater motivation than curiosity.</p>
+
+<p><em><a href="../@henryreed">Henry Reed</a> and <a href="../@bobvandecastle">Robert Van de Castle</a> are the creators of the Dream Helper Ceremony, a group experiment involving dream telepathy. Their statements have been edited from a Ceremony held at an Association for the Study of Dreams conference in Santa Cruz, California. <a href="../@caseyflyer">Linda Magallón</a>, who lives, dreams, and writes from San Jose, CA., recorded and edited this conversation. All three are previous Editors of the Dream Network journal (formerly Dream Network Bulletin).</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3vand,
+        ns1:bcphbqflyer,
+        ns1:bcphbqvreed ;
+    ns1:hasTag ns1:bcphbp2b6gy,
+        ns1:bcphbq3vand,
+        ns1:bcphbqflyer,
+        ns1:bcphbqvreed ;
+    ns1:inIssue ns1:bcphbp2b6gy ;
+    ns1:itemId "bcpoz5rshdhc"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dream Helper Ceremony: Dreaming FOR Another"^^xsd:string ;
+    ns1:profileImg "helper-reed-castle.jpg"^^xsd:string ;
+    ns1:urlSlug "dream-helper-ceremony-dreaming-for-another"^^xsd:string .
+
 ns1:bcpoz6z0233e a ns1:Post ;
     ns1:dateCreated "2004-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Up front, may I make brief mention of the 'Healing Heart' image on our cover, which has little to do with the contents of this issue. It is what begged to be 'said', what is happening <strong>now</strong> and conveys beautifully and simply how the world feels, on the continuum from personal to the planetary. Oh, <em>Thank You</em> to all the helping hands. See pg. 7 for a statement from artist, Rose McClarren.</p>
@@ -18914,20 +19004,6 @@ ns1:bcphbovuijt a ns1:Post ;
     ns1:profileImg "9.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "9.4"^^xsd:string .
 
-ns1:bcphbp2b6gy a ns1:Post ;
-    ns1:coverImg "11.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1992-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.3-Dream-Network_Volume-11_No-3.pdf" download="">Download issue 11.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.3-Dream-Network_Volume-11_No-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoash2jt ;
-    ns1:itemId "bcphbp2b6gy"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 11, issue 3: Relationships"^^xsd:string ;
-    ns1:profileImg "11.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "11.3"^^xsd:string .
-
 ns1:bcphbpumr2x a ns1:Post ;
     ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
@@ -19933,6 +20009,20 @@ ns1:bcphbohoqoq a ns1:Post ;
     ns1:profileImg "9.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "9.1"^^xsd:string .
 
+ns1:bcphbp2b6gy a ns1:Post ;
+    ns1:coverImg "11.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1992-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.3-Dream-Network_Volume-11_No-3.pdf" download="">Download issue 11.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.3-Dream-Network_Volume-11_No-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoash2jt ;
+    ns1:itemId "bcphbp2b6gy"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 11, issue 3: Relationships"^^xsd:string ;
+    ns1:profileImg "11.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "11.3"^^xsd:string .
+
 ns1:bcphbpfnwcb a ns1:Post ;
     ns1:coverImg "10.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1991-04-01T11:32:52"^^xsd:dateTime ;
@@ -20374,28 +20464,6 @@ ns1:bcphbq3rbck a ns1:User ;
     ns1:name "Catherine Kennedy"^^xsd:string ;
     ns1:profileImg "author-catherinekennedy.jpg"^^xsd:string .
 
-ns1:bcphbq3vand a ns1:User ;
-    ns1:coverImg "cover-author-bobvandecastle.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html">ourdreamingmind.com</a></p>
-
-<p>Robert L. Van de Castle made his transition from this world on Wednesday, January 29, 2014.</p>
-
-<p>Dr. Van de Castle's life work was devoted to dreams and dream research. He received his B.A in General Psychology at Syracuse University in 1951, his M.A. in Clinical Psychology at University of Missouri in 1953, and his PhD in Clinical Psychology from University of North Carolina in 1959. He was a Professor Emeritus at University of Virginia Health Sciences Center (retired 1993) where he was the Professor of Behavioral Medicine and Psychiatry (1986-1992), Director of the Clinical Psychology Internship Project (1980-1992) and Director of the Sleep and Dream Laboratory (1967-1985).</p>
-
-<p>He is the author of the book, Our Dreaming Mind, which was described as a "landmark" by <a href="../@montagueullman">Monte Ullman</a>, a "masterpiece" by <a href="../@henryreed">Henry Reed</a>, and "a sweeping compilation unsurpassed in the literature for its scope" by <a href="../@stanleykrippner">Stan Krippner</a>. With Calvin Hall, he co-authored The Content Analysis of Dreams, which became a standard reference book and a "how-to-do-it" manual for investigators wishing to examine dream content in a quantitative fashion that could be statistically evaluated.</p>
-
-<p>In addition, he always felt that trying to familiarize the public with the fascinating realm of dreams was important. He discussed dreams on such national TV shows as Phil Donahue, Barbara Walters, David Letterman, Tom Snyder, and Mike Douglas. He also presented at two programs involving dreams hosted by Rita Dwyer at the Smithsonian Institution, spoke on the Voice of America radio show, and his articles appeared in prominent newspapers such as The Washington Post, USA Today, and Chicago Tribune and in a wide variety of popular magazines, such as Psychology Today and Ladies Home Journal. He also presented talks and workshops on dreams in Belgium, Canada, Latvia, Mexico and Russia, and attended and presented papers at most of the IASD conferences throughout the years, including those in Holland and Denmark.</p>
-
-<p>He was most proud of his efforts to develop the IASD as an organization that represents a "rainbow coalition" of dreamers from around the world. He was honored to present at the first annual international ASD conference in San Francisco in 1984 and then become the next ASD president. He introduced active participation in dream workshops, the infamous Dream Ball, a Dream Telepathy contest, and sessions on lucid dreaming. He was the recipient of IASD’s first Lifetime Achievement Award. In addition, he was a Past President of the Parapsychological Association (1970). Most recently, he was on the Advisory Board of DreamsCloud, the world's foremost dream related website.</p>
-
-<p>He is survived by his sons, Drake Cameron Van de Castle and Keith Dawson Van de Castle; daughter, Parker Mary York and daughter-in-law, Teresa Spigle Van de Castle. He is also survived by his sister, Mary Elizabeth Hinton; his loving partner of five plus years, <a href="../@bobbieannpimm">Bobbie Ann Pimm</a>, and three grandchildren.</p>
-"""^^xsd:string ;
-    ns1:handle "bobvandecastle"^^xsd:string ;
-    ns1:itemId "bcphbq3vand"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Robert Van de Castle"^^xsd:string ;
-    ns1:profileImg "author-bobvandecastle.jpg"^^xsd:string .
-
 ns1:bcphbq3wagg a ns1:User ;
     ns1:canonicalUrl "https://www.lucidadvice.com/about-robert/"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>
@@ -20570,28 +20638,27 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.4"^^xsd:string .
 
-ns1:bcphbqflyer a ns1:User ;
-    ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
+ns1:bcphbq3vand a ns1:User ;
+    ns1:coverImg "cover-author-bobvandecastle.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html">ourdreamingmind.com</a></p>
 
-<p>Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams. She was editor of the Dream Network Bulletin alongside <a href="../@bobtrowbridge">Bob Trowbridge</a> from 1987-1989. </p>
+<p>Robert L. Van de Castle made his transition from this world on Wednesday, January 29, 2014.</p>
 
-<p>Practicing under the discipline of the "Dream-Art Scientist" (a model based on the Jane Roberts' Seth material), she has mastered many dreaming skills and dreamwork techniques.</p>
+<p>Dr. Van de Castle's life work was devoted to dreams and dream research. He received his B.A in General Psychology at Syracuse University in 1951, his M.A. in Clinical Psychology at University of Missouri in 1953, and his PhD in Clinical Psychology from University of North Carolina in 1959. He was a Professor Emeritus at University of Virginia Health Sciences Center (retired 1993) where he was the Professor of Behavioral Medicine and Psychiatry (1986-1992), Director of the Clinical Psychology Internship Project (1980-1992) and Director of the Sleep and Dream Laboratory (1967-1985).</p>
 
-<p>Linda authored the ground-breaking book, <a href="https://web.archive.org/web/20050308133701/http://members.aol.com/DreamPsi/archive/mutualdreaming.html">Mutual Dreaming</a> (Pocket Books, 1997). She served as editor and publisher of the principal magazine in the dream field, Dream Network. Having written articles for such magazines as FATE, American Psychic Magazine and the OMNI newsletter, she most recently wrote "Dream Trek," a column in the Internet E-zine <a href="http://dreamgate.com/dream/electric-dreams/edreams-g01.htm">Electric Dreams</a>.</p>
+<p>He is the author of the book, Our Dreaming Mind, which was described as a "landmark" by <a href="../@montagueullman">Monte Ullman</a>, a "masterpiece" by <a href="../@henryreed">Henry Reed</a>, and "a sweeping compilation unsurpassed in the literature for its scope" by <a href="../@stanleykrippner">Stan Krippner</a>. With Calvin Hall, he co-authored The Content Analysis of Dreams, which became a standard reference book and a "how-to-do-it" manual for investigators wishing to examine dream content in a quantitative fashion that could be statistically evaluated.</p>
 
-<p>Active in the dreamwork community since 1984, Linda was a founding board member and wrote the first mission statement of the multidisciplinary (and highly academic) <a href="https://www.asdreams.org/">Association For the Study of Dreams</a> (ASD). She has presented papers and hosted panels at several of ASD's annual conferences. In 2001, she helped design the conference web site, the Computer Café, and created the four picture targets for the Dream Telepathy Contest.</p>
+<p>In addition, he always felt that trying to familiarize the public with the fascinating realm of dreams was important. He discussed dreams on such national TV shows as Phil Donahue, Barbara Walters, David Letterman, Tom Snyder, and Mike Douglas. He also presented at two programs involving dreams hosted by Rita Dwyer at the Smithsonian Institution, spoke on the Voice of America radio show, and his articles appeared in prominent newspapers such as The Washington Post, USA Today, and Chicago Tribune and in a wide variety of popular magazines, such as Psychology Today and Ladies Home Journal. He also presented talks and workshops on dreams in Belgium, Canada, Latvia, Mexico and Russia, and attended and presented papers at most of the IASD conferences throughout the years, including those in Holland and Denmark.</p>
 
-<p>With Fred Olsen, she co-founded the Bay Area Dreamworkers Group (BADG), to provide support for her dreamwork peers in the San Francisco area. There, she practiced dream sharing, perfected dreamwork techniques and uncovered the basic values of the Partnership Paradigm. After BADG presented her with an honorary "Doctoral Degree in Social Dreamology," Linda graduated from dreamworker to dreamplayer.</p>
+<p>He was most proud of his efforts to develop the IASD as an organization that represents a "rainbow coalition" of dreamers from around the world. He was honored to present at the first annual international ASD conference in San Francisco in 1984 and then become the next ASD president. He introduced active participation in dream workshops, the infamous Dream Ball, a Dream Telepathy contest, and sessions on lucid dreaming. He was the recipient of IASD’s first Lifetime Achievement Award. In addition, he was a Past President of the Parapsychological Association (1970). Most recently, he was on the Advisory Board of DreamsCloud, the world's foremost dream related website.</p>
 
-<p>The observer-participant brand of research has required that Linda dream along with the other members of her dreaming team. Searching for active participants in a sleepy field like dreams is not an easy task, whether on-line or off. To help find such dreamers for her half a hundred group dreaming projects and dream telepathy experiments, Linda served as coordinator of the Seth Dream Network and dipped into the lucid dream community before founding the <a href="https://web.archive.org/web/20050305230701/http://members.aol.com/lucidflier/project/fbnc.html">Fly-By-Night Club research group</a>.</p>
-
-<p>Linda's goal has been to encourage the emergence of the Super Self through dreams. Her research has lead her to experiment with such flying and floating variations as virtual reality games, scuba diving, ballooning, gliding, hang gliding and flying a Piper Tomahawk. She has found flying dreams to be both extremely practical (resolving nightmares) and highly inspirational (launching further extraordinary dreams). She believes flying dreams to be at the hub of dream understanding and appreciation.</p>
+<p>He is survived by his sons, Drake Cameron Van de Castle and Keith Dawson Van de Castle; daughter, Parker Mary York and daughter-in-law, Teresa Spigle Van de Castle. He is also survived by his sister, Mary Elizabeth Hinton; his loving partner of five plus years, <a href="../@bobbieannpimm">Bobbie Ann Pimm</a>, and three grandchildren.</p>
 """^^xsd:string ;
-    ns1:handle "caseyflyer"^^xsd:string ;
-    ns1:itemId "bcphbqflyer"^^xsd:string ;
+    ns1:handle "bobvandecastle"^^xsd:string ;
+    ns1:itemId "bcphbq3vand"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Linda Magallón"^^xsd:string ;
-    ns1:profileImg "author-linda-magallon.jpg"^^xsd:string .
+    ns1:name "Robert Van de Castle"^^xsd:string ;
+    ns1:profileImg "author-bobvandecastle.jpg"^^xsd:string .
 
 ns1:bcphbvjopd2 a ns1:Post ;
     ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
@@ -20702,6 +20769,29 @@ ns1:bcphbq3huds a ns1:User ;
     ns1:name "Chris Hudson"^^xsd:string ;
     ns1:profileImg "author-chrishudson.jpg"^^xsd:string .
 
+ns1:bcphbqflyer a ns1:User ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
+
+<p>Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams. She was editor of the Dream Network Bulletin alongside <a href="../@bobtrowbridge">Bob Trowbridge</a> from 1987-1989. </p>
+
+<p>Practicing under the discipline of the "Dream-Art Scientist" (a model based on the Jane Roberts' Seth material), she has mastered many dreaming skills and dreamwork techniques.</p>
+
+<p>Linda authored the ground-breaking book, <a href="https://web.archive.org/web/20050308133701/http://members.aol.com/DreamPsi/archive/mutualdreaming.html">Mutual Dreaming</a> (Pocket Books, 1997). She served as editor and publisher of the principal magazine in the dream field, Dream Network. Having written articles for such magazines as FATE, American Psychic Magazine and the OMNI newsletter, she most recently wrote "Dream Trek," a column in the Internet E-zine <a href="http://dreamgate.com/dream/electric-dreams/edreams-g01.htm">Electric Dreams</a>.</p>
+
+<p>Active in the dreamwork community since 1984, Linda was a founding board member and wrote the first mission statement of the multidisciplinary (and highly academic) <a href="https://www.asdreams.org/">Association For the Study of Dreams</a> (ASD). She has presented papers and hosted panels at several of ASD's annual conferences. In 2001, she helped design the conference web site, the Computer Café, and created the four picture targets for the Dream Telepathy Contest.</p>
+
+<p>With Fred Olsen, she co-founded the Bay Area Dreamworkers Group (BADG), to provide support for her dreamwork peers in the San Francisco area. There, she practiced dream sharing, perfected dreamwork techniques and uncovered the basic values of the Partnership Paradigm. After BADG presented her with an honorary "Doctoral Degree in Social Dreamology," Linda graduated from dreamworker to dreamplayer.</p>
+
+<p>The observer-participant brand of research has required that Linda dream along with the other members of her dreaming team. Searching for active participants in a sleepy field like dreams is not an easy task, whether on-line or off. To help find such dreamers for her half a hundred group dreaming projects and dream telepathy experiments, Linda served as coordinator of the Seth Dream Network and dipped into the lucid dream community before founding the <a href="https://web.archive.org/web/20050305230701/http://members.aol.com/lucidflier/project/fbnc.html">Fly-By-Night Club research group</a>.</p>
+
+<p>Linda's goal has been to encourage the emergence of the Super Self through dreams. Her research has lead her to experiment with such flying and floating variations as virtual reality games, scuba diving, ballooning, gliding, hang gliding and flying a Piper Tomahawk. She has found flying dreams to be both extremely practical (resolving nightmares) and highly inspirational (launching further extraordinary dreams). She believes flying dreams to be at the hub of dream understanding and appreciation.</p>
+"""^^xsd:string ;
+    ns1:handle "caseyflyer"^^xsd:string ;
+    ns1:itemId "bcphbqflyer"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Linda Magallón"^^xsd:string ;
+    ns1:profileImg "author-linda-magallon.jpg"^^xsd:string .
+
 ns1:bcphbqskoff a ns1:User ;
     ns1:coverImg "cover-author-deborahkoffchapin.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://touchdrawing.com/">touchdrawing.com</a></p>
@@ -20794,26 +20884,6 @@ ns1:bcphbyukqzw a ns1:Post ;
     ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.3"^^xsd:string .
 
-ns1:bcphbqvreed a ns1:User ;
-    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
-
-<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
-
-<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
-
-<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
-
-<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net.</p>
-
-<div class="media-item resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-"""^^xsd:string ;
-    ns1:handle "henryreed"^^xsd:string ;
-    ns1:itemId "bcphbqvreed"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Henry Reed"^^xsd:string ;
-    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
-
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
     ns1:description """<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
@@ -20851,6 +20921,26 @@ ns1:bcphbq3bogz a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Fariba Bogzaran"^^xsd:string ;
     ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
+
+ns1:bcphbqvreed a ns1:User ;
+    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
+
+<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
+
+<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
+
+<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
+
+<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net.</p>
+
+<div class="media-item resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+"""^^xsd:string ;
+    ns1:handle "henryreed"^^xsd:string ;
+    ns1:itemId "bcphbqvreed"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Henry Reed"^^xsd:string ;
+    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
 ns1:bcphbqschul a ns1:User ;
     ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;

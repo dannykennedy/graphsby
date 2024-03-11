@@ -492,20 +492,6 @@ ns1:bcphbr7xrtd a ns1:Post ;
     ns1:profileImg "15.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "15.4"^^xsd:string .
 
-ns1:bcphbrnlz5j a ns1:Post ;
-    ns1:coverImg "14.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1995-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_14/14.3-Dream-Network-Vol-14-No-3.pdf" download="">Download issue 14.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_14/14.3-Dream-Network-Vol-14-No-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoa3iell ;
-    ns1:itemId "bcphbrnlz5j"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 14, issue 3: Dreaming Humanity's Path: Visions of Guidance for Humanity"^^xsd:string ;
-    ns1:profileImg "14.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "14.3"^^xsd:string .
-
 ns1:bcphbshc2lb a ns1:Post ;
     ns1:coverImg "16.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1997-04-01T11:32:52"^^xsd:dateTime ;
@@ -17196,6 +17182,68 @@ ns1:bcpoz1zmwots a ns1:Post ;
     ns1:profileImg "krippner-shamans-1.jpg"^^xsd:string ;
     ns1:urlSlug "mythic-world-of-the-shaman"^^xsd:string .
 
+ns1:bcpoz2zmwopd a ns1:Post ;
+    ns1:dateCreated "1995-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><em>"Psychic Dreams are reports of nighttime mentation, emotions and/or imagery that involve anomalous (i.e., unexplained) interchanges of information or influence that appears to exist apart from those mechanisms identified by mainstream science." Stanley Krippner, Ph.D.</em></p>
+
+<p><img src="../images/krippner-portrait.jpg" width="300px" height="auto" alt="Stanley Krippner"/></p>
+
+<p>On the morning of 4 October 1980, <a href="https://www.law.umich.edu/special/exoneration/Pages/casedetail.aspx?caseid=3385">Steve Linscott</a> woke up and recalled the following dream:</p>
+
+<blockquote>
+  <p><em>"I saw a man face on... he was in his early 30s... short blond hair... light features, not muscular, but sort of square chested... I was a little taller than he... he was about 5'5" to 5'7"... He was very friendly... at least... not... distressed with whoever he was talking to... There was a light on behind him to his left... kind of a soft glow in the room... a little ways into the dream he started to change... in his attitude... becoming more evil in intent... he produced an object... he got it from behind his back... metallic, dark-type instrument... blunt and rather thick and tapered down toward one end... I got the impression he was talking to a girl... in her mid-20s... he was showing this object to her and starting to smile... I got the impression this is something... not all that healthy... so I woke up and tried to shake it."</em></p>
+</blockquote>
+
+<p>Linscott recalls checking the time on his watch, noting "it was 2 A.M." He fell back to sleep and the dream continued:</p>
+
+<blockquote>
+  <p><em>"I then dreamed this person had this object and was beating this (other) person downward, that this person... being beaten was below his waist and... knees... he was beating her on the head... quite a bit... she was on her hands and knees... and didn't resist... rapid stroke... blood flying everywhere... and that is when I woke up a second time."</em> (Police Department, 1980)</p>
+</blockquote>
+
+<p>That afternoon, police officers questioned people in the area, asking them if they had observed anything unusual during the early morning. A young woman had been beaten and murdered at about 1:00AM. Linscott thought that his dream was a premonition. His wife and two coworkers encouraged him to report the dream to the police, which he did a few days later. On 12 October 1980, he was charged with murder.</p>
+
+<p>The police had no direct evidence against Linscott. There was no motive, there were no fingerprints, there were no witnesses. However, a tire iron was used to murder the woman, who was young and had been savagely beaten on the head, dying on her living room floor. The jury agreed with the police who declared, "This is not a dream. This is a murder" (Wagner-Pacifici &amp; Bershady, 1993, p. 134).</p>
+
+<p>In 1985, an Appeals Court ordered Linscott released from jail, stating, "Murder conviction reversed in absence of any direct evidence of guilt, notwithstanding State's attempt to elevate defendant's declaration of dream about murder to status of confession" (ibid., p. 135). The Illinois Supreme Court sent the case back to the Appeals Court which remanded it for a new trial. Cook County canceled the retrial in 1990 because they deemed the evidence was inadequate to obtain a conviction; nevertheless, a subsequent appeal by the State of Illinois occurred in 1991 and the litigation may continue.</p>
+
+<p>Linscott, a young Euro-American male, married, the father of two children and a "born-again" counselor at a Christian halfway house, frequently asserted his belief that the dream was part of" God's personal plan for my life" (ibid., p. 137).</p>
+
+<p>This case has been featured on several television shows which pointed out that Linscott was a conscientious family man who had top-secret clearance during his time in the U.S. Navy. He also had considerable arm strength and had experienced near-suicidal depression and bitterness toward God before his conversion. I was asked to appear on one of these programs, the "Today Show," because of my work with "psychic" dreams at a sleep laboratory in the 1960s (<a href="../@montagueullman">Ullman</a>, Krippner &amp; Vaughan, 1988). Our research team obtained data strongly suggesting that, under controlled conditions, some dreamers were able to obtain information about future events (i.e., precognition), distant events (i.e., clairvoyance), or other people's cognitive processes (i.e., telepathy). On the show, I disagreed with a psychologist who insisted that the clarity of Linscott's dream was unusual because "Dreams are always distorted" (Wagner-Pacifici &amp; Bershady, 1993, p. 136). In fact, I pointed out, some dreams are remarkably clear and life-like (Hunt, 1989).</p>
+
+<p>Although Linscott's report (might) have been a precognitive, clairvoyant, or telepathic dream, it may also have reflected a somnambulistic episode in which he murdered the young woman. Telling the police about his dream may have been an unconscious way of "confessing" and expiating his guilt. A case could be made for each of these possibilities, but I made the point that the evidence was not strong enough to convict Linscott of murder and send him to prison. Instead, I pointed out that dreams about violence and aggression are not uncommon (e.g., Rubinstein &amp; Krippner, 1991) and that the congruence might have been coincidental. There is a tendency to underestimate the role of chance and coincidence in human affairs and with the hundreds of dreams occurring in a given neighborhood on any particular night, it would not be unlikely that at least one of them would resemble a dramatic event (Neher, 1990, pp. 48-49).</p>
+
+<p>There have been other instances in which a well-meaning offer to the police, based on information obtained through "psychic" means, has resulted in the informant's arrest. In 1980, Etta Louise Smith <a href="https://www.latimes.com/archives/la-xpm-1987-03-27-me-381-story.html">told the Los Angeles Police Department</a> about her "psychic vision" of a murder. She had "seen" the canyon where a missing nurse's body lay and pointed it out on a map. Smith's "vision" happened to have been correct, and she was booked for murder. Smith had also correctly described the circumstances of the crime, saying that the nurse had been raped and killed with a blow to her head. After three men were arrested and convicted, Smith successfully sued the city for her treatment, which had included four days of detention (Lyon &amp; Truzzi, 1991, p. 4).</p>
+
+<p>The lesson one carries away from these episodes can be simply stated, "If you think you have a psychic or intuitive hunch about an important event, be careful who you tell!" As Foucault (1980) pointed out, powerful institutions construct the experiences of people under their domain. Private experiences, such as dreams, if shared, can lead to imprisonment in one culture and to an elevation in social status in another. There are native cultures in which Linscott's dream would have demonstrated his suitability for shamanic or priestly status (e.g., Krippner, 1990).</p>
+
+<p>Wagner-Pacifici and Bershady (1993) have produced a brilliant analysis of the Linscott case pointing out that he had spoken about an intimate event to the police, with whom he was not on intimate terms. Whether this was a tacit confession or an error in judgment can not be decided at this point but it does point out that there were multiple, coexisting paradigms of Linscott's dream. This multiplicity is true not only of dreams but operates generally in the ways people make sense of their experiences. Wagner-Pacifici and Bershady conclude, "Interpretive authority is diverse and also situationally activated. Authority is always hierarchical... Our understanding of authority-which is a crucial element of our interpretative paradigms- needs to be situationally framed" (p. 141). An error in this understanding, as was the case with Linscott, can be calamitous.</p>
+
+<p>Once again, be careful who you tell!</p>
+
+<h3>References</h3>
+
+<ul>
+<li><p>Foucault, M. (1980). Power and Knowledge (C. Gordon, Trans. &amp; Ed.). New York: Pantheon Books.</p></li>
+<li><p>Hunt, H.T (1989). The Multiplicity of Dreams. New Haven, CT: Yale University Press.</p></li>
+<li><p>Krippner, S. (1990). Tribal shamans and their travels into dreamtime. InS. Krippner (Ed.), Dream time and Dreamwork (pp. 185-193). Los Angeles: Tarcher.</p></li>
+<li><p>Lyons, A., &amp; Truzzi, M. (1991 ). The blue sense: Psychic detectives and crime. New York: Mysterious Books.</p></li>
+<li><p>Neher, A. (1990). The Psychology of Transcendence (2nd ed. ). New York: Dover.</p></li>
+<li><p>Police Department. (1988). Tapes of interviews with Steven Linscott, October 8-10. Oak Park, IL.</p></li>
+<li><p>Rubinstein, K., &amp; Krippner, S. (1991 ). Gender differences and geographical differences in content from dreams elicited by a television announcement. International journal of Psychosomatics, {38},40-44.</p></li>
+<li><p>Ullman, M., Krippner, S., &amp; Vaughan, A. (1988). Dream Telepathy (2nd ed.).Jefferson, NC: McFarland.</p></li>
+<li><p>Wagner-Pacifici, R., &amp; Bershady, H.J. (1993). Portents or confessions: Authoritative readings of a dream text. Symbolic Interaction, {16}, 129- 143.</p></li>
+</ul>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3krip ;
+    ns1:hasTag ns1:bcphbq3krip,
+        ns1:bcphbrnlz5j ;
+    ns1:inIssue ns1:bcphbrnlz5j ;
+    ns1:itemId "bcpoz2zmwopd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "A Psychic Dream? Be Careful Who You Tell!"^^xsd:string ;
+    ns1:profileImg "krippner-portrait.jpg"^^xsd:string ;
+    ns1:urlSlug "a-psychic-dream-be-careful-who-you-tell"^^xsd:string .
+
 ns1:bcpoz5rshdhc a ns1:Post ;
     ns1:dateCreated "1992-07-02T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/helper-reed-castle.jpg" width="400" height="auto" alt="Dream helper ceremony illustration"/></p>
@@ -18625,6 +18673,20 @@ ns1:bcphbrfqwml a ns1:Post ;
     ns1:name "Volume 14, issue 1: Dreaming Humanity's Path: Protecting the Children & Warning Dreams"^^xsd:string ;
     ns1:profileImg "14.1-2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "14.1-2"^^xsd:string .
+
+ns1:bcphbrnlz5j a ns1:Post ;
+    ns1:coverImg "14.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1995-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_14/14.3-Dream-Network-Vol-14-No-3.pdf" download="">Download issue 14.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_14/14.3-Dream-Network-Vol-14-No-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoa3iell ;
+    ns1:itemId "bcphbrnlz5j"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 14, issue 3: Dreaming Humanity's Path: Visions of Guidance for Humanity"^^xsd:string ;
+    ns1:profileImg "14.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "14.3"^^xsd:string .
 
 ns1:bcphbrptpuy a ns1:Post ;
     ns1:coverImg "14.4-cover.jpg"^^xsd:string ;
@@ -21130,27 +21192,6 @@ ns1:bcphbq3rpac a ns1:User ;
     ns1:name "Paco Mitchell"^^xsd:string ;
     ns1:profileImg "author-paco.jpg"^^xsd:string .
 
-ns1:bcphbq3krip a ns1:User ;
-    ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
-
-<p>Fundraiser: <a href="https://www.gofundme.com/f/support-for-dr-stanley-krippner">Support For Dr. Stanley Krippner</a></p>
-
-<p>Stanley Krippner was the Alan Watts Professor of Psychology at Saybrook University for 47 years. He is a Fellow in five American Psychological Association (APA) divisions, and past-president of two divisions. Formerly, he was director of the Kent State University Child Study Center, Kent Ohio, and the Maimonides Medical Center Dream Research Laboratory, Brooklyn New York. Currently, he is Affiliated Distinguished Faculty, California Institute of Integral Studies in San Francisco.</p>
-
-<p>He is co-author of <em>Extraordinary Dreams, Personal Mythology, Dream Telepathy, Sex and Love in the 21st Century, The Voice of Rolling Thunder, Demystifying Shamans and Their World, A Psychiatrist in Paradise: Treating Mental Illness in Bali, Post-Traumatic Stress Disorder: Biography of a Disease, Dreamworking: How to Use Your Dreams for Creative Problem-Solving, and Haunted by Combat: Understanding PTSD in War Veterans, and co-editor of Holistic Treatment in Mental Health: A Handbook of Practitioners’ Perspectives, Healing Tales, Healing Stories, Mysterious Minds, Debating Psychic Experience, The Psychological Impact of War on Civilians: An International Perspective, Dreamscaping: New and Creative Ways to Work with Your Dreams, Broken Images, Broken Selves: Dissociative Narratives in Clinical Practice,</em> and <em>Varieties of Anomalous Experience: Examining the Scientific Evidence.</em> He edited or co-edited ten volumes of <em>Advances in Parapsychological Research</em>. </p>
-
-<p>He received the APA Award for Distinguished Contributions to the International Development of Psychology in 2002, the Society for Psychological Hypnosis Award for Distinguished Contributions to Professional Hypnosis in 2002, the Ashley Montagu Peace Award in 2003, and lifetime achievement awards from the International Association for the Study of Dreams, The International Network on Personal Meaning, the Society for Humanistic Psychology, the Parapsychological Association, and the J.B. Rhine Lifetime Achievement in Parapsychology Award .He received that Award for Distinguished Contributions to Professional Hypnosis from the Society for Psychological Hypnosis, the Senior Contributor Award from the Society for Counseling Psychology, the Pathfinder Award from the Association for Humanistic Psychology, and the Charlotte and Karl Buhler Award from the Society for Humanistic Psychology.</p>
-
-<p>In addition to his APA listings, he holds Fellow status in several other organizations including, the Society for the Scientific Study of Religion, the Society for the Scientific Study of Sexuality, the American Educational Research Association, the Western Psychological Association, the Society of Clinical and Experimental Hypnosis, and the American Society of Clinical Hypnosis. He is a Founding Fellow of the Association for Psychological Science and the American Academy of Clinical Sexologists. He holds Diplomate status in the American Board of Sexology and the International Academy of Behavioral Medicine, Counseling, and Psychotherapy. He is certified as an Advanced Alcohol and Drug Counselor.</p>
-
-<p>Krippner has conducted workshops and seminars on dreams and/or hypnosis in Argentina, Brazil, Canada, China, Colombia, Cuba, Cyprus, Ecuador, Finland, France, Germany, Great Britain, Italy, Japan, Lithuania, Mexico, the Netherlands, Panama, the Philippines, Portugal, Puerto Rico, Russia, South Africa, Spain, Sweden, Venezuela, and at four congresses of the Interamerican Psychological Association. He is a member of the editorial board for the <em>Revista Argentina de Psicologia Paranormal</em>, and the advisory board for International School for Psychotherapy, Counseling, and Group Leadership (St. Petersburg) and the Czech Unitaria (Prague). He holds faculty appointments at the Universidade Holistica Internacional (Brasilia), El Universidad Transpersonal (Puebla, México), and the Instituto de Medicina y Tecnologia Avanzada de la Conducta (Ciudad Juarez). He has given invited addresses for the Chinese Academy of Sciences, the Russian Academy of Pedagogical Sciences, and the School for Diplomatic Studies, Montevideo, Uruguay. In 1959, he received the Service to Youth Award from the Young Men’s Christian Association in Richmond, Virginia, his first award.</p>
-"""^^xsd:string ;
-    ns1:handle "stanleykrippner"^^xsd:string ;
-    ns1:itemId "bcphbq3krip"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dr. Stanley Krippner"^^xsd:string ;
-    ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
-
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
 
@@ -21185,6 +21226,27 @@ ns1:bcphbq3ossa a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Roberta Ossana"^^xsd:string ;
     ns1:profileImg "roberta_ossana.png"^^xsd:string .
+
+ns1:bcphbq3krip a ns1:User ;
+    ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
+
+<p>Fundraiser: <a href="https://www.gofundme.com/f/support-for-dr-stanley-krippner">Support For Dr. Stanley Krippner</a></p>
+
+<p>Stanley Krippner was the Alan Watts Professor of Psychology at Saybrook University for 47 years. He is a Fellow in five American Psychological Association (APA) divisions, and past-president of two divisions. Formerly, he was director of the Kent State University Child Study Center, Kent Ohio, and the Maimonides Medical Center Dream Research Laboratory, Brooklyn New York. Currently, he is Affiliated Distinguished Faculty, California Institute of Integral Studies in San Francisco.</p>
+
+<p>He is co-author of <em>Extraordinary Dreams, Personal Mythology, Dream Telepathy, Sex and Love in the 21st Century, The Voice of Rolling Thunder, Demystifying Shamans and Their World, A Psychiatrist in Paradise: Treating Mental Illness in Bali, Post-Traumatic Stress Disorder: Biography of a Disease, Dreamworking: How to Use Your Dreams for Creative Problem-Solving, and Haunted by Combat: Understanding PTSD in War Veterans, and co-editor of Holistic Treatment in Mental Health: A Handbook of Practitioners’ Perspectives, Healing Tales, Healing Stories, Mysterious Minds, Debating Psychic Experience, The Psychological Impact of War on Civilians: An International Perspective, Dreamscaping: New and Creative Ways to Work with Your Dreams, Broken Images, Broken Selves: Dissociative Narratives in Clinical Practice,</em> and <em>Varieties of Anomalous Experience: Examining the Scientific Evidence.</em> He edited or co-edited ten volumes of <em>Advances in Parapsychological Research</em>. </p>
+
+<p>He received the APA Award for Distinguished Contributions to the International Development of Psychology in 2002, the Society for Psychological Hypnosis Award for Distinguished Contributions to Professional Hypnosis in 2002, the Ashley Montagu Peace Award in 2003, and lifetime achievement awards from the International Association for the Study of Dreams, The International Network on Personal Meaning, the Society for Humanistic Psychology, the Parapsychological Association, and the J.B. Rhine Lifetime Achievement in Parapsychology Award .He received that Award for Distinguished Contributions to Professional Hypnosis from the Society for Psychological Hypnosis, the Senior Contributor Award from the Society for Counseling Psychology, the Pathfinder Award from the Association for Humanistic Psychology, and the Charlotte and Karl Buhler Award from the Society for Humanistic Psychology.</p>
+
+<p>In addition to his APA listings, he holds Fellow status in several other organizations including, the Society for the Scientific Study of Religion, the Society for the Scientific Study of Sexuality, the American Educational Research Association, the Western Psychological Association, the Society of Clinical and Experimental Hypnosis, and the American Society of Clinical Hypnosis. He is a Founding Fellow of the Association for Psychological Science and the American Academy of Clinical Sexologists. He holds Diplomate status in the American Board of Sexology and the International Academy of Behavioral Medicine, Counseling, and Psychotherapy. He is certified as an Advanced Alcohol and Drug Counselor.</p>
+
+<p>Krippner has conducted workshops and seminars on dreams and/or hypnosis in Argentina, Brazil, Canada, China, Colombia, Cuba, Cyprus, Ecuador, Finland, France, Germany, Great Britain, Italy, Japan, Lithuania, Mexico, the Netherlands, Panama, the Philippines, Portugal, Puerto Rico, Russia, South Africa, Spain, Sweden, Venezuela, and at four congresses of the Interamerican Psychological Association. He is a member of the editorial board for the <em>Revista Argentina de Psicologia Paranormal</em>, and the advisory board for International School for Psychotherapy, Counseling, and Group Leadership (St. Petersburg) and the Czech Unitaria (Prague). He holds faculty appointments at the Universidade Holistica Internacional (Brasilia), El Universidad Transpersonal (Puebla, México), and the Instituto de Medicina y Tecnologia Avanzada de la Conducta (Ciudad Juarez). He has given invited addresses for the Chinese Academy of Sciences, the Russian Academy of Pedagogical Sciences, and the School for Diplomatic Studies, Montevideo, Uruguay. In 1959, he received the Service to Youth Award from the Young Men’s Christian Association in Richmond, Virginia, his first award.</p>
+"""^^xsd:string ;
+    ns1:handle "stanleykrippner"^^xsd:string ;
+    ns1:itemId "bcphbq3krip"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dr. Stanley Krippner"^^xsd:string ;
+    ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
 
 ns1:bcphbqvruss a ns1:User ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;

@@ -30,7 +30,7 @@ To begin this interview, would you provide yet another, more basic definition? W
 
 **Stanley Krippner:** The word "shaman" probably came into the English language by way of a German translation of a Russian version of the [Tungus](https://en.wikipedia.org/wiki/Tungusic_languages) term 'saman,' meaning 'one who is excited, moved, or raised.'
 
-Another meaning of this term is '"inner heat.' And there is a nearly identical Sanskrit word meaning 'singer of songs.' All of these terms describe shamanic activities
+Another meaning of this term is 'inner heat'. And there is a nearly identical Sanskrit word meaning 'singer of songs'. All of these terms describe shamanic activities.
 
 **DNJ:** What part does dreaming play in being "called" to be a shaman?
 

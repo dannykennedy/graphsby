@@ -5,7 +5,6 @@ layout: post
 name: "Book review: Steps to save lives by healing psychological scars"
 tags:
     - hasTag: dan
-    - hasTag: stanleykrippner
     - hasTag: debbiejoffeellis
     - hasTag: lindariebel
     - hasAuthor: dan

@@ -334,20 +334,6 @@ ns1:bcphbnhzqtk a ns1:Post ;
     ns1:profileImg "7.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.1"^^xsd:string .
 
-ns1:bcphbnxwzvo a ns1:Post ;
-    ns1:coverImg "7.6-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1988-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.6-Dream-Network-Bulletin_Volume-7-Number-6.pdf" download="">Download issue 7.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.6-Dream-Network-Bulletin_Volume-7-Number-6.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaivzve ;
-    ns1:itemId "bcphbnxwzvo"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 7, issue 6"^^xsd:string ;
-    ns1:profileImg "7.6-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "7.6"^^xsd:string .
-
 ns1:bcphboajs77 a ns1:Post ;
     ns1:coverImg "8.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1989-05-01T11:32:52"^^xsd:dateTime ;
@@ -17301,6 +17287,71 @@ ns1:bcpoz3zmewdq a ns1:Post ;
     ns1:profileImg "krippner-quimbo-1.jpg"^^xsd:string ;
     ns1:urlSlug "an-evening-with-don-quimbo-a-shaman-from-ecuador"^^xsd:string .
 
+ns1:bcpoz3zussdb a ns1:Post ;
+    ns1:dateCreated "1988-05-02T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpoz3zussdb-1.jpg" width="400px" height="auto" alt="letters"/></p>
+
+<p>Dear Friends:</p>
+
+<p>The message in the boxed area, or its equivalent, will be distributed late this May to Soviet peace groups and the Russian press, by the international peace organization Global Family. In the meantime I am searching for sponsors for the <em>U.S.-Soviet Dream Bridge.</em></p>
+
+<p>If your organization, your local chapter, or you as an individual would like to be included in our list of sponsors, please write and let me know. Sponsorship entails no duties and represents no financial commitment.</p>
+
+<p>The benefits of sponsorship are:</p>
+
+<ol>
+<li><p>Sponsors will receive copies of the dreams we receive from Soviet and American dreamers;</p></li>
+<li><p>Sponsors will be invited to be part of a team which, early in 1989, will meet to interpret these dreams, strategize on the basis of them, and plant the seeds of new projects, networks, and resources.</p></li>
+</ol>
+
+<!--nopreview-->
+
+<div style="border: 2px solid #555; padding: 1rem; margin-top: 2rem; margin-bottom: 2rem;">
+
+<h3>U.S.-SOVIET DREAM BRIDGE</h3>
+
+
+
+<p>The Irish poet W.B. Yeats once wrote, "In dreams begin responsibilities." Several major technical and scientific discoveries have emerged from dreams, including the design for the first sewing machine and the structure of the benzene molecule. Artists have conceived their future works, generals planned their subsequent victories, lovers met their destined beloveds, in dreams. This leads me to ask, "Would it be possible to conceive of new ways to bring peace to the world by submitting enquiries to the Mind of the Night, by enlisting the aid of dreams?"</p>
+
+<p> Recent experiments in this country, both in dream laboratories (notably the one at Stanford University) and among independent "dreamworkers," have proven three things possible: 1) It is possible to get answers to pre-determined questions through the dream state; we call this "dream incubation." 2) It is possible to learn how to realize that one is dreaming while one is still dreaming, and thus to act as consciously and deliberately in the dream-state as in waking life; we call this "lucid dreaming." 3) It is possible (though more difficult) for two or more dreamers to learn how to meet one another in their dreams, on a pre-determined night, and be able to recount similar experiences in a similar imaginary environment upon waking. We call this "shared dreaming."</p>
+
+<p> I propose that we perform an experiment with the easiest of these three possibilities, "dream incubation." All that this requires is enthusiasm, motivation, a little faith, and the willingness to "work the night shift." (Interestingly enough, one is usually refreshed rather than fatigued after this kind of work.) I propose that, during October, November and December of this year, we set ourselves to dream about how lasting peace can be established between our two countries, and in the world at large, and how our massive global challenges can be met. I can promise you that many of us here will be dreaming of you during these three months; we can only hope that you will also be dreaming of us. We extend this invitation to all of Russia, to both psychotherapists and laymen. Let us write to each other, and tell each other our dreams; let us each collect in one place the dreams of both nations; let both nations recruit teams of interested and knowledgeable persons to read what we've dreamt, interpret it, and strategize on the basis of it, so as to develop new plans for making peace between our two nations, and healing our wounded earth.</p>
+
+<p>There has been a great polarity between our two nations, and polarity often leads to conflict--but this is not the inevitable outcome. Polarity can also lead to union, to a higher synthesis, to the birth of the Child of the Future. Polarity is simply the precondition for a flow of energy--for war, and for love too. Let us now use this great polarity between us to bring to birth the next Aeon of Humanity.
+
+</p>
+
+<p> All primitive myths relate the Moon to the world of dreams. Some tribes believe that we should incubate dreams on the New Moon, and keep dreaming on whatever problems we wish to solve until the Full Moon. Twentieth century science has discovered something that may throw light on this belief. The earth's atmosphere increases in negative ionization during the waxing moon and in positive ionization during the waning moon. Negative ions are known to produce an elevation of mood, and speed the healing of wounds. So our suggestion is that you begin to incubate dreams on the three New Moons of October, November and December, and carry this on until the three Full Moons, as we will be doing here in the United States.
+
+</p>
+
+<p>Also, it wouldn't hurt to pray.</p>
+
+</div>
+
+<!--/nopreview-->
+
+<p>Also, if you have any contacts with groups or individuals in the Soviet Union who you think would be interested in participating in the Dream Bridge, you can either send me their addresses, or write to me requesting copies of the message in its Russian translation, which you are free to send to whomever you want.</p>
+
+<p>The idea for a <em>U.S.-Soviet Dream Bridge</em> grew out of my work with <em>Gate of Horn: A Global Issues Dream Network</em>. Since December of 1987 we have been dreaming, from the New Moon to the Full Moon each month, on major issues of global significance, asking for guidance on how to deal with them. If you'd like more information on <em>Gate of Horn</em>, please let me know. Any request for material should be accompanied by a stamped, self-addressed envelope.</p>
+
+<p><em>Peace,</em></p>
+
+<p><em>Charles Upton</em></p>
+
+<p>P.S. If you are unable to make a decision on sponsorship before May 21, you are welcome to enter the process at any time in the future.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3kupt ;
+    ns1:hasTag ns1:bcphbnodjs2,
+        ns1:bcphbq3kupt ;
+    ns1:inIssue ns1:bcphbnodjs2 ;
+    ns1:itemId "bcpoz3zussdb"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "U.S.-Soviet Dream Bridge"^^xsd:string ;
+    ns1:profileImg "post-bcpoz3zussdb-1.jpg"^^xsd:string ;
+    ns1:urlSlug "us-soviet-dream-bridge"^^xsd:string .
+
 ns1:bcpoz4zmiwsk a ns1:Post ;
     ns1:dateCreated "2000-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/krippner-ossana-interview.jpg" width="400px" height="auto" alt="Stanley Krippner"/></p>
@@ -17381,7 +17432,7 @@ ns1:bcpoz4zmwwmu a ns1:Post ;
 
 <p>Monte was a longtime friend of <a href="https://en.wikipedia.org/wiki/David_Bohm">David Bohm</a>, the Nobel Prize winning quantum physicist, and often related our work to Bohm's notion of "holomovement," a subtle, underlying, interpenetrating component of the universe that he described as an "implicit order." This "implicit order" represented the dynamic expression of the interconnectedness of the universe, and this "order" could involve an inherent awareness that might be the foundation for anomalous events such as the anomalous dreams we studied in our laboratory at Maimonides. Monte has described how, in the interest of fostering connections with other people and the natural environment, dreams are often confronted with parts of their lives that are "disconnected." The honest part of a dream's confrontation contains a potential for positive change. Therefore, we felt that our studies of anomalous dreams had practical implications, not only for psychotherapists who try to help their clients connect the torn patterns of their lives, but for everyone who seeks ways to to affirm their liaisons with other people, with nature, and with whatever they consider their spiritual groundings.</p>
 
-<p>Once the Maimonides laboratory ran out of funding, Monte and I continued our "dream relationship." I attended one of his celebrated leadership training weekends, and urged my students at Saybrook Graduate School to trek to Ardsley, New York, for a similar experience. The unanimous feedback was that the weekend was unforgettable, transformational, and that they would be able to use what they learned to appreciate their own dreams as well as those of their clients or friends. Monte is too modest to admit it, but -- more than anyone else -- he pioneered what has been known as the "grassroots dream movement," an interest in dreams that has spawned the International Association for the Study of Dreams, as well as "leaderless" dream groups all around the world. These groups follow the procedures outlined in Monte's weekend seminars as well as his books on the topic.</p>
+<p>Once the Maimonides laboratory ran out of funding, Monte and I continued our "dream relationship." I attended one of his celebrated leadership training weekends, and urged my students at Saybrook Graduate School to trek to Ardsley, New York, for a similar experience. The unanimous feedback was that the weekend was unforgettable, transformational, and that they would be able to use what they learned to appreciate their own dreams as well as those of their clients or friends. Monte is too modest to admit it, but—more than anyone else—he pioneered what has been known as the "grassroots dream movement," an interest in dreams that has spawned the International Association for the Study of Dreams, as well as "leaderless" dream groups all around the world. These groups follow the procedures outlined in Monte's weekend seminars as well as his books on the topic.</p>
 
 <p>I was more fortunate than the recent participants in these seminars, because I was able to enjoy not only Montes' company but that of his beloved wife, Janet. She and I had many interests in common, including contemporary art, "al fresco" dining, and our opposition to the involvement of the United States in the civil war raging in southern Vietnam. Janet and Monte made a lively (and lovely) team, and the vibrancy of their relationship was a wonder to behold. Monte and I still collaborate together on subjects of mutual interest and, when we do, I have the sense that—in some way—Janet is still with us.</p>
 """^^xsd:string ;
@@ -17394,6 +17445,28 @@ ns1:bcpoz4zmwwmu a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Working with Monte Ullman at Maimonides: Reflections on a Dream Relationship"^^xsd:string ;
     ns1:urlSlug "working-with-monte-ullman-at-maimonides-reflections-on-a-dream-relationship"^^xsd:string .
+
+ns1:bcpoz4zusdbc a ns1:Post ;
+    ns1:dateCreated "1988-05-02T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpoz4zusdbc-1.jpg" width="400px" height="auto" alt="letters"/></p>
+
+<p>A few months ago, an Idea popped into my head: Why not dedicate the last three months of 1988 to a group dreaming project, in which dreamers in the U.S. and Russia would try to incubate dreams on how to bring peace between our two nations, and deal with other pressing global problems? (Cf. U.S.Soviet Dream Bridge in the May/June DNB.) I contacted Dr. Stanley Krippner about this idea, and he generously provided me with 17 addresses of Soviet parapsychologists. In June, members of the international peace group Global Family distributed the Dream Bridge proposal to Dr. Krippner's contacts, and others, in Russia. It was now time to wait. But in the meantime, the dreamwork on the "Bridge" continued. Valerie Felice, a member of our Gate of Horn dream network, dreamed that a family-sized group of Americans was traveling around Russia, sitting down at table with Russian families, and talking about how to bring peace. This was previous to Global Family's trip to the USSR, and was likely part of the "resonance" of the event. Another member, Lenore Melillo, had the following two dreams: "LM Has Difficulty Finding School In Russia" (May 4, 1988) I am in Russia and have to go to a certain place of education, but I don't know how to get there. I have a basic idea of the vicinity, but the specifics-the names of the street and the building-/ don't know. Someone is trying to help and gives me a book of poetry, feeling the answer may be in there. It seems simple enough to read, several one or two liners per page with words highlighted in bold; almost dictionary entries, but I don't find any direct references to the school; maybe just an obscure one. Now I find myself on a bus and tell the bus driver where I want to go. He also has sort of an idea where I am headed. However, I feel I am approaching the place where I should get off, but he is not aware of this until/ tell him.</p>
+
+<p>"Ultimate Restaurant" (June 13, 1988) A man is showing me a picture of a Russian restaurant where he ate that is about as grand as they come. It is very large, filled with diners and appears as a multi-tiered opera hall with lavish decorations. The first dream parallels in several ways my last-minute chase around San Francisco looking for someone to translate the Dream Bridge proposal into Russian, decipher the rather garbled addresses</p>
+
+<p>from Dr. Krippner's list, and address 17 envelopes. The "dictionary entries" remind me of the address list; the "book of poetry" may relate to the book written by the translator I finally contacted, Andrei, a Russian dissident, about his flight from the Soviet Union, which he showed to me in his tiny office. And the Ultimate Restaurant seems to bode well for the project-once we get our addresses straight. Meanwhile, the Russians were getting interested. To date I've received three letters. One was from Victor Krivorotov, a well-known Russian healer mentioned in Stanley Krippner's book Human Possibilities, who tells me that his psychology</p>
+
+<p>research groups in Moscow and Tibilisi will be participating in the Dream Bridge. The second letter was from Vladimir Zhikarentsev, an organizer of the Peace Vigil movement in the USSR, which is active in several cities, including Moscow and Kiev. He promised to share the Dream Bridge at a conference, and include a notice in his bulletin. The third letter was from Constantin lvanenko, whom I can only describe as a visionary genius living on the fringes of Russian society, a fine poet and a partisan of "psionics for peace." (He is a colleague of Dr. Krippner, and was also visited by the Global Family delegation.) I've heard him described as ''the Jose Arguelles of Russia." He also will be participating, in Leningrad. By the time this article appears, the Dream Bridge will be under way. Let anyone who's interested come in whenever they want. We're using the basic "Senoi" form, beginning dream incubation on the New Moon of each month, and carrying it on until the Full Moon, leaving the two weeks of the Waning Moon as a latency and rest period. (Note: Even if dream incubation on the New Moon isn't "Senoi," it is traditional-! found it in Women's Mysteries by Esther Harding.) Remaining dates: November 9 (1:35pm PST), New Moon; December 21 (9 :29 pm PST), Full Moon. Also, why not write to the Russians? Their addresses are : Victor A. Krivorotov Pr. Plekhanova 63, #3 Tbilisi, USSR Vladimir Zhikarentsev Garkavogo St. 20-2-28 Leningrad, 198264, USSR Constantin lvanenko 3 Kotelnikov Alley, Fl. 331 Leningrad, USSR We're also thinking about a conference based on the dreams we receive. If you're interested in participating, or have dreams to share, contact me at the address below. Charles Upton I Gate of Horn 28 Marine Drive San Rafael, CA 94901</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3kupt ;
+    ns1:hasTag ns1:bcphbnxwzvo,
+        ns1:bcphbq3kupt ;
+    ns1:inIssue ns1:bcphbnxwzvo ;
+    ns1:itemId "bcpoz4zusdbc"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dream Bridge Complete"^^xsd:string ;
+    ns1:profileImg "post-bcpoz4zusdbc-1.jpg"^^xsd:string ;
+    ns1:urlSlug "dream-bridge-complete"^^xsd:string .
 
 ns1:bcpoz5rshdhc a ns1:Post ;
     ns1:dateCreated "1992-07-02T11:32:52"^^xsd:dateTime ;
@@ -18342,6 +18415,20 @@ ns1:bcphbntd445 a ns1:Post ;
     ns1:name "Volume 7, issue 5"^^xsd:string ;
     ns1:profileImg "7.5-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.5"^^xsd:string .
+
+ns1:bcphbnxwzvo a ns1:Post ;
+    ns1:coverImg "7.6-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1988-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.6-Dream-Network-Bulletin_Volume-7-Number-6.pdf" download="">Download issue 7.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.6-Dream-Network-Bulletin_Volume-7-Number-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaivzve ;
+    ns1:itemId "bcphbnxwzvo"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 7, issue 6"^^xsd:string ;
+    ns1:profileImg "7.6-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "7.6"^^xsd:string .
 
 ns1:bcphbq3acox a ns1:User ;
     ns1:description """<p>Anna Cox, ACSW,  was a psychotherapist in Arkansas for over 50 years. She is a Buddhist practitioner and began a healing program for those in prisons in 1994, <a href="https://www.alignable.com/little-rock-ar/compassion-works-for-all">Compassion Works for All</a>, which is on-going throughout Arkansas and in many states' prisons. </p>
@@ -19359,6 +19446,21 @@ ns1:bcphbq3king a ns1:User ;
     ns1:name "Marlene King"^^xsd:string ;
     ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
 
+ns1:bcphbq3kupt a ns1:User ;
+    ns1:description """<p>Website: <a href="https://charles-upton.com/">charles-upton.com</a></p>
+
+<p>Charles Upton was born in San Francisco, and lived most of his life in Marin County, California. He is an American Sufi Muslim, author of 13 books on metaphysics and spirituality, including “metaphysics and social criticism,” 4 of poetry, and 3 on Islam. He was raised Catholic in an essentially pre-Vatican II Church, his only formal schooling being Catholic School from kindergarten through high school. He participated in the “spiritual revolution” and peace movements of the 1960’s and 70’s, investigated kundalini yoga, siddha-yoga, psychedelic drugs, neo-shamanism (so called), the Philippine psychic surgeons in both the Philippines and California, and Tibetan Buddhism, and became a protégé of Beat Generation poet Lew Welch; his first book, the short epic poem Panic Grass, was published by Lawrence Ferlinghetti through City Lights Books.</p>
+
+<p>In the 1980’s he joined the Sanctuary Movement for Central American Refugees as elder of a small Presbyterian church, where he produced a video of refugee testimonies called “Through the Needle’s Eye,” thereby becoming briefly associated with the American Left. Also in the 80’s he took a “tour of duty” through the New Age movement, participating in citizen diplomacy with the Soviet Union in partnership with the New Age group Global Family during the glasnost years, initiating such projects as the U.S./Soviet Dream Bridge and a group dreaming experiment to deal with global challenges called Gate of Horn, as well as collecting dreams from all over the world that people dreamed on August 16th and 17th, 1987—the nights of the Harmonic Convergence. He bound this collection into a xerox edition entitled The Harmonic Convergence Book of Dreams, but he no longer possesses a copy of it since it went up in smoke in his “Bonfire of the New Age Vanities” in (probably) 1988. Soon afterwards he became associated with the Traditionalist/Perennialist School founded by René Guénon and then headed in the English-speaking world by Frithjof Schuon, eventually becoming a recognized writer of that School.</p>
+
+<p>In 1988 he converted to Islam and was received into the Nimatullahi Sufi Order under Dr. Javad Nurbakhsh; in 2010, after Nurbakhsh’s death, he maintained his connection with Sufism by taking ba’yat with a lesser-known silsila of the ‘Alawiyya Tariqa, with which Frithjof Schuon had been associated. In 2013 he conceived the Covenants Initiative, based on the groundbreaking book The Covenants of the Prophet Muhammad with the Christians of the World by John Andrew Morrow, which has since become an international peace movement in the Muslim world during the rise of ISIS. He is presently Executive Director of the Covenants of the Prophet Foundation. He now resides with his wife Jennifer Doane Upton, a poet and author of two books on Dante’s Divine Comedy, in Lexington, Kentucky.</p>
+"""^^xsd:string ;
+    ns1:handle "charlesupton"^^xsd:string ;
+    ns1:itemId "bcphbq3kupt"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Charles Upton"^^xsd:string ;
+    ns1:profileImg "author-charles-upton.jpg"^^xsd:string .
+
 ns1:bcphbq3msa a ns1:User ;
     ns1:coverImg "cover-author-stephen-aizenstat.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://dreamtending.com/stephen-aizenstat-ph-d/">Dream Tending</a></p>
@@ -20270,20 +20372,6 @@ ns1:bcphbndh32i a ns1:Post ;
     ns1:profileImg "6.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "6.4"^^xsd:string .
 
-ns1:bcphbnodjs2 a ns1:Post ;
-    ns1:coverImg "7.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1988-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.3-Dream-Network-Bulletin_Volume-7-Number-3.pdf" download="">Download issue 7.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.3-Dream-Network-Bulletin_Volume-7-Number-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaivzve ;
-    ns1:itemId "bcphbnodjs2"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 7, issue 3"^^xsd:string ;
-    ns1:profileImg "7.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "7.3"^^xsd:string .
-
 ns1:bcphbohoqoq a ns1:Post ;
     ns1:coverImg "9.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
@@ -20692,6 +20780,20 @@ ns1:bcphbq3norm a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Rachel Norment"^^xsd:string ;
     ns1:profileImg "author-rachelnorment.jpg"^^xsd:string .
+
+ns1:bcphbnodjs2 a ns1:Post ;
+    ns1:coverImg "7.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1988-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.3-Dream-Network-Bulletin_Volume-7-Number-3.pdf" download="">Download issue 7.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.3-Dream-Network-Bulletin_Volume-7-Number-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaivzve ;
+    ns1:itemId "bcphbnodjs2"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 7, issue 3"^^xsd:string ;
+    ns1:profileImg "7.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "7.3"^^xsd:string .
 
 ns1:bcphbq3gott a ns1:User ;
     ns1:coverImg "cover-img-dale-gottlieb.png"^^xsd:string ;

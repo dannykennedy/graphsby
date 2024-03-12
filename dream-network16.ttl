@@ -20532,7 +20532,7 @@ ns1:bcphbq3kupt a ns1:User ;
     ns1:itemId "bcphbq3kupt"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Charles Upton"^^xsd:string ;
-    ns1:profileImg "author-charles-upton.jpg"^^xsd:string .
+    ns1:profileImg "author-charles-upton-3.jpg"^^xsd:string .
 
 ns1:bcphbq3olse a ns1:User ;
     ns1:coverImg "cover-author-fredolsen.jpg"^^xsd:string ;

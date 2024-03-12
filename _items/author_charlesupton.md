@@ -7,7 +7,7 @@ name: "Charles Upton"
 shortDescription: ""
 tags:
 date: 2015-03-24
-profileImg: author-charles-upton.jpg
+profileImg: author-charles-upton-3.jpg
 coverImg: cover-author-charles-upton.jpg
 ---
 

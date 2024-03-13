@@ -1,5 +1,5 @@
 ---
-dateCreated: "2007-10-01T11:32:52"
+dateCreated: "2007-07-01T11:32:52"
 itemId: bcpoz9zrmoei
 layout: post
 name: "The Remaining Mysteries of Easter Island"
@@ -128,6 +128,8 @@ In 1934, a team from Belgium and France moved a six ton statue with a sledge pul
 4. Varua. Rather than attributing the feat to extraterrestrials, a few writers (e.g., Gray, 2004; Van Auken, 2005) have put forward the idea that some type of anomalous energy was used to move the moai to their positions. One version of this position has the statues being moved to rafts by varua, then taken to their approximate location and lifted into place with varua again. The tangential “evidence” for this feat is said to include a “road” near one of the ahu that leads into the water. Although eccentric, this explanation has the virtue of attributing varua to indigenous people rather than to extraterrestrials; von Daniken’s conjecture belittles the abilities and ingenuity of indigenous people in favor of a “superior” species from outer space. Flenley and Bahn (2001) have taken one element of this proposal seriously; they have suggested that some figures might have been transported the short distance from the quarry to the shore and then floated on timbers or rafts around the coast to their platforms. Fragments of Rano Ruraku tuff on a platform-like structure have been found on an offshore island (p. 132).
 
 It is likely that no single explanation will suffice for all the moai; different techniques may have been used for various sizes and styles of the statues. Because the roadbed surfaces were, in all likelihood, too rough to easily accommodate dragging, skidding, or tilting, as well as sledges, rollers, or slides. Flenley and Bahn conclude that “the mystery of statue transportation remains intact” (p. 133).
+
+<img src="../images/krippner-easter-island-4.jpg" width="400px" height="auto" alt="statue toppled"/>
 
 ### Why Were the Statues Toppled?
 

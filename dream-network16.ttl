@@ -18153,7 +18153,7 @@ ns1:bcpoz7zfasad a ns1:Post ;
     ns1:urlSlug "shamanism-and-dreams"^^xsd:string .
 
 ns1:bcpoz9zrmoei a ns1:Post ;
-    ns1:dateCreated "2007-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2007-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><em>by <a href="https://stanleykrippner.weebly.com/">Stanley Krippner</a> &amp; Charles A. Winstead III</em></p>
 
 <p><img src="../images/krippner-easter-island-1.jpg" width="400px" height="auto" alt="statues"/></p>
@@ -18276,6 +18276,8 @@ ns1:bcpoz9zrmoei a ns1:Post ;
 </ol>
 
 <p>It is likely that no single explanation will suffice for all the moai; different techniques may have been used for various sizes and styles of the statues. Because the roadbed surfaces were, in all likelihood, too rough to easily accommodate dragging, skidding, or tilting, as well as sledges, rollers, or slides. Flenley and Bahn conclude that “the mystery of statue transportation remains intact” (p. 133).</p>
+
+<p><img src="../images/krippner-easter-island-4.jpg" width="400px" height="auto" alt="statue toppled"/></p>
 
 <h3>Why Were the Statues Toppled?</h3>
 

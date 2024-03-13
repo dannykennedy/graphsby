@@ -17319,7 +17319,7 @@ ns1:bcpoz1zmwots a ns1:Post ;
     ns1:itemId "bcpoz1zmwots"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Mythic World of the Shaman"^^xsd:string ;
-    ns1:profileImg "krippner-shamans-1.jpg"^^xsd:string ;
+    ns1:profileImg "krippner-shamans-2.jpg"^^xsd:string ;
     ns1:urlSlug "mythic-world-of-the-shaman"^^xsd:string .
 
 ns1:bcpoz2jotcos a ns1:Post ;
@@ -22389,13 +22389,14 @@ ns1:bcphb2kq341 a ns1:Post ;
     ns1:urlSlug "34.1"^^xsd:string .
 
 ns1:bcphbq3krip a ns1:User ;
+    ns1:coverImg "cover-author-stanley-krippner.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
 
 <p>Fundraiser: <a href="https://www.gofundme.com/f/support-for-dr-stanley-krippner">Support For Dr. Stanley Krippner</a></p>
 
 <p>Stanley Krippner was the Alan Watts Professor of Psychology at Saybrook University for 47 years. He is a Fellow in five American Psychological Association (APA) divisions, and past-president of two divisions. Formerly, he was director of the Kent State University Child Study Center, Kent Ohio, and the Maimonides Medical Center Dream Research Laboratory, Brooklyn New York. Currently, he is Affiliated Distinguished Faculty, California Institute of Integral Studies in San Francisco.</p>
 
-<p>He is co-author of <em>Extraordinary Dreams, Personal Mythology, Dream Telepathy, Sex and Love in the 21st Century, The Voice of Rolling Thunder, Demystifying Shamans and Their World, A Psychiatrist in Paradise: Treating Mental Illness in Bali, Post-Traumatic Stress Disorder: Biography of a Disease, Dreamworking: How to Use Your Dreams for Creative Problem-Solving, and Haunted by Combat: Understanding PTSD in War Veterans, and co-editor of Holistic Treatment in Mental Health: A Handbook of Practitioners’ Perspectives, Healing Tales, Healing Stories, Mysterious Minds, Debating Psychic Experience, The Psychological Impact of War on Civilians: An International Perspective, Dreamscaping: New and Creative Ways to Work with Your Dreams, Broken Images, Broken Selves: Dissociative Narratives in Clinical Practice,</em> and <em>Varieties of Anomalous Experience: Examining the Scientific Evidence.</em> He edited or co-edited ten volumes of <em>Advances in Parapsychological Research</em>. </p>
+<p>He is co-author of <em>Extraordinary Dreams, Personal Mythology, Dream Telepathy, Sex and Love in the 21st Century, The Voice of Rolling Thunder, Demystifying Shamans and Their World, A Psychiatrist in Paradise: Treating Mental Illness in Bali, Post-Traumatic Stress Disorder: Biography of a Disease, Dreamworking: How to Use Your Dreams for Creative Problem-Solving, and Haunted by Combat: Understanding PTSD in War Veterans, and co-editor of Holistic Treatment in Mental Health: A Handbook of Practitioners’ Perspectives, Healing Tales, Healing Stories, Mysterious Minds, Debating Psychic Experience, The Psychological Impact of War on Civilians: An International Perspective, Dreamscaping: New and Creative Ways to Work with Your Dreams, Broken Images, Broken Selves: Dissociative Narratives in Clinical Practice,</em> and <em>Varieties of Anomalous Experience: Examining the Scientific Evidence.</em> He edited or co-edited ten volumes of <em>Advances in Parapsychological Research</em>.</p>
 
 <p>He received the APA Award for Distinguished Contributions to the International Development of Psychology in 2002, the Society for Psychological Hypnosis Award for Distinguished Contributions to Professional Hypnosis in 2002, the Ashley Montagu Peace Award in 2003, and lifetime achievement awards from the International Association for the Study of Dreams, The International Network on Personal Meaning, the Society for Humanistic Psychology, the Parapsychological Association, and the J.B. Rhine Lifetime Achievement in Parapsychology Award .He received that Award for Distinguished Contributions to Professional Hypnosis from the Society for Psychological Hypnosis, the Senior Contributor Award from the Society for Counseling Psychology, the Pathfinder Award from the Association for Humanistic Psychology, and the Charlotte and Karl Buhler Award from the Society for Humanistic Psychology.</p>
 

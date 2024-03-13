@@ -2,16 +2,14 @@
 dateCreated: "2004-04-01T10:32:52"
 itemId: bcpoz1jotrtm
 layout: post
-name: "Jinns on the Road to Morocco"
+name: "The Circle of Sex in Mythology and Folklore"
 tags:
     - hasTag: stanleykrippner
     - hasAuthor: stanleykrippner
-    - hasAuthor: chrisryan
-    - hasTag: chrisryan
-    - hasTag: 23.2
-    - inIssue: 23.2
+    - hasTag: 22.3
+    - inIssue: 22.3
 type: post
-urlSlug: "jinns-on-the-road-to-morocco"
+urlSlug: "the-circle-of-sex-in-mythology-and-folklore"
 profileImg: krippner-jinns-1.jpg
 ---
 

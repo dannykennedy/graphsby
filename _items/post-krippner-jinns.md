@@ -15,12 +15,12 @@ urlSlug: "jinns-on-the-road-to-morocco"
 profileImg: krippner-jinns-1.jpg
 ---
 
-<img src="../images/krippner-jinns-1.jpg" width="300px" height="auto" alt="Stanley Krippner and a Sheik"/>
-<!--nopreview--><div class="caption" style="text-align: center;">A sheik in Agadir displays his medical libraray to Krippner</div><!--/nopreview-->
+<img src="../images/krippner-jinns-1.jpg" width="576px" height="auto" alt="Stanley Krippner and a Sheik"/>
+<!--nopreview--><div class="caption" style="text-align: center;">A sheik in Agadir displays his medical library to <a href="https://dreamnetworkjournal.com/@stanleykrippner/">Stanley Krippner</a></div><!--/nopreview-->
 
 The World Health Organization (WHO) finds that traditional medicine has maintained its popularity in all regions of the developing world, and is spreading rapidly in industrialized countries for preventative and palliative care. Worldwide, $60 billion is spent per year on traditional medicine, $17 billion in the U.S. alone (Traditional, 2003).
 
-This essay will focus both on Islamic Medicine and a trip we made to Morocco in 1998. Yes, this is the same country that has an outpost in Epcot Center, and that was brought to public attention half-acentury ago in a Hope-Crosby-Lamour film, ["The Road to Morocco"](https://en.wikipedia.org/wiki/Road_to_Morocco). Contemporary Morocco is one of the most open and stable countries in the Arab world. Two years after our visit, [King Hassan II](https://en.wikipedia.org/wiki/Hassan_II_of_Morocco) passed away and was succeeded by his son, [Mohammed VI](https://en.wikipedia.org/wiki/Mohammed_VI_of_Morocco) whose attempts at social betterment have already earned him the sobriquet, "The King of the Poor". Some 70 percent of the population are under the age of thirty, providing an impetus for societal change. Time will tell.
+This essay will focus both on Islamic Medicine and a trip we made to Morocco in 1998. Yes, this is the same country that has an outpost in Epcot Center, and that was brought to public attention half a century ago in a Hope-Crosby-Lamour film, ["The Road to Morocco"](https://en.wikipedia.org/wiki/Road_to_Morocco). Contemporary Morocco is one of the most open and stable countries in the Arab world. Two years after our visit, [King Hassan II](https://en.wikipedia.org/wiki/Hassan_II_of_Morocco) passed away and was succeeded by his son, [Mohammed VI](https://en.wikipedia.org/wiki/Mohammed_VI_of_Morocco) whose attempts at social betterment have already earned him the sobriquet, "The King of the Poor". Some 70 percent of the population are under the age of thirty, providing an impetus for societal change. Time will tell.
 
 Our expedition was initiated by Hassan Amir, a Saybrook alumnus who wanted us to meet several sheiks (i.e., spiritual counselors) who claimed to work with _jnun_, the plural form for [jinn](https://en.wikipedia.org/wiki/Jinn) (also spelled djinn, and known in Western popular culture as "genie"). _Jnun_, or jinns (to use the Anglicized term) are legendary creatures who are very much alive today, at least in the imagination of those who call upon them for healing, succor, and good fortune. They also live on for unfortunate believers who attribute bad luck and misfortune to their interventions. They exist below the level of both angels and devils, and have been featured in literature since the appearance of the classic anthology, [_The Arabian Nights_](https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights). More recently, "genies" have been featured in the Walt Disney movie, Aladdin (with Robin Williams playing the role of the blue "genie"). In addition, Barbara Eden played the role of a "genie" in a long-lasting television sitcom, ["I Dream of Jeannie"](https://en.wikipedia.org/wiki/I_Dream_of_Jeannie).
 
@@ -72,14 +72,14 @@ There are Muslim jinns and non-Muslim (e.g., Jewish and Christian) jinns. Some j
 
 ### The Sheiks of Agadir
 
-<img src="../images/krippner-jinns-2.jpg" width="300px" height="auto" alt="man in discussion"/>
+<img src="../images/krippner-jinns-2.jpg" width="250px" height="auto" alt="man in discussion"/>
 <!--nopreview--><div class="caption" style="text-align: center;">Krippner and his student (Hassan Amer) drinking coffee in Agadir with a sheik.</div><!--/nopreview-->
 
 Upon our arrival in Agadir on 10 December 1999, we stopped in a coffee shop for our first appointment with a sheik, a spiritual advisor who, in Morocco, often gives medical advice as well. In fact, this sheik had a cell phone and told us that he made house calls. He would not let us use his name, but spoke freely about the jinns who, he claimed, had been created from fire (in contrast with humans who were created from the earth). He told us that there were two ways of manifesting jinns. For a fee of $3,000 he would manifest a jinn from the palm of someone's hand, or would recite a specific verse of the _Quran_ several times, taking a person into an altered state of consciousness in which the jinn would appear.
 
 Later the same day, we had an appointment with another sheik, Fawadane Mohammed M'bark, a 70-year-old Bedouin with 45 years of counseling experience who claimed that he had been certified by a governmental religious board. He began his discourse by stating that "purification of the heart leads to gifts from Allah".
 
-<img src="../images/krippner-jinns-3.jpg" width="300px" height="auto" alt="man talking"/>
+<img src="../images/krippner-jinns-3.jpg" width="150px" height="auto" alt="man talking"/>
 <!--nopreview--><div class="caption" style="text-align: center;">In Aligar a sheik presents a discourse on jinns.</div><!--/nopreview-->
 
 This purification consists of healthy living, loving relationships, direct person-to-person communication, and sound business practices. His family line goes back to the Prophet Idres; teachings have been passed along the male line of the family with young men being tutored by their grandfathers. We were informed that clients come from all over Morocco to consult with him, as well as from France, Italy, and Saudi Arabia.
@@ -88,14 +88,14 @@ M'bark informed us that Allah sent 113 prophets to spread the words of the _Qura
 
 M'bark also engaged in business consulting. If an item is not selling, he will give the merchant a verse from the _Quran_ and this is generally hung over the door of the shop. It can also be placed on the merchant's left arm; however, if there is an item that is not to be sold, the verse is placed on the right arm. M'bark deals with a variety of health problems, most notably diabetes; if a physician has diagnosed someone as a diabetic, M'bark prepares a special tea made from fig tree shoots to assist recovery.
 
-<img src="../images/krippner-jinns-1.jpg" width="300px" height="auto" alt="Stanley Krippner and a Sheik"/>
+<img src="../images/krippner-jinns-1.jpg" width="250px" height="auto" alt="Stanley Krippner and a Sheik"/>
 <!--nopreview--><div class="caption" style="text-align: center;">A sheik in Agadir displays his medical libraray</div><!--/nopreview-->
 
 When people come to him, their "destiny" determines whether or not they need his help. He insists that his clients try to help themselves, only coming to him when their own efforts have been exhausted. Then he listens to their story, and will tell them whether or not he can be of assistance. If so, he uses both Muslim and Indian astrology to learn about the client's temperament. He has worked with foreigners, as long as they manifest faith in God. When we asked about jinns, he told us that some sheiks work with these entities but he has not found them to be reliable allies. Further, the assistance they give is not long lasting. His concluding remarks were, "Ignorance is the enemy of humanity; people should keep seeking knowledge until the moment of their death". We were quite impressed by Fawadane Mohammed M'bark, and his commitment to ethical principles; for example, he told us that he would not refer us to practitioners whose work with jinns relied on the use of negative forces. His work is only with what he called "positive energies" and with the Holy Quran.
 
 ### Three Sheiks of Aligar
 
-<img src="../images/krippner-jinns-4.jpg" width="300px" height="auto" alt="Sheik"/>
+<img src="../images/krippner-jinns-4.jpg" width="250px" height="auto" alt="Sheik"/>
 <!--nopreview--><div class="caption" style="text-align: center;">A sheik in Aligar at a desk in his office</div><!--/nopreview-->
 
 The next day we arrived in Aligar, and our colleague had arranged a series of appointments with local sheiks who were knowledgeable on the topic of jinns. The first was Bounamt Haj Ahmed of the St. Akouchar Agency of Medical Plants. He had no hesitation in telling us that some sheiks use the services of jinns simply to "play games", others for "financial gain", and still others "to serve spiritual purposes". He described two types of jinns: "There are those who help and heal people, and those who hurt people or play tricks on them". He cited the example of a jinn who hit a client when he was sleeping, leaving him with a dislocated jaw; however, Ahmed recited a verse from the Quran, and the jaw returned to its normal state. If one encounters a malevolent jinn while awake, less damage can be done.
@@ -126,13 +126,15 @@ Western psychotherapists often are called upon to treat patients with belief sys
 
 In a world that is becoming increasingly multi-cultural, it is important that therapists become acquainted with the mythologies that their patients bring along to the therapy session. Furthermore, there are interesting parallels between the appearance and behavior of the jinns and those of goblins, leprechauns, and UFO aliens.
 
-The Western psychotherapeutic literature contains several articles that describe cases of mental illness attributed to jinns. For example, Mohia (1986) described a case of "jinn hysteria" in which a 23-yearold woman whose delirium and agitation was attributed to "possession" by a jinn, and how the psychotherapist worked with the patient with this attribution in mind. Bilu (1979) described the plight of two Moroccan Jews living in Israel who were convinced that jinns had evoked a malady named sira, marked by somatic disturbances and symptoms of anxiety. And in 2000, a Pakistani newspaper reported that a 17-yearold girl had eloped with a jinn (Anonymous, 2000).
+The Western psychotherapeutic literature contains several articles that describe cases of mental illness attributed to jinns. For example, Mohia (1986) described a case of "jinn hysteria" in which a 23-year-old woman whose delirium and agitation was attributed to "possession" by a jinn, and how the psychotherapist worked with the patient with this attribution in mind. Bilu (1979) described the plight of two Moroccan Jews living in Israel who were convinced that jinns had evoked a malady named sira, marked by somatic disturbances and symptoms of anxiety. And in 2000, a Pakistani newspaper reported that a 17-year-old girl had eloped with a jinn (Anonymous, 2000).
 
 Some Arabian traditions categorize jinns into ghul (shape-shifters), ifrit (evil spirits), and sila (trickster spirits) (Coleman, 2002). However, one of the surprises of our short visit was the discovery that the sheiks we interviewed felt that many jinns were benevolent, and could be useful in treating patients, while other jinns who were less compassionate could be exploited with the proper magical procedures. It was our misfortune that we had to leave Aligar for Fez on Saturday morning; furthermore, our budget could not cover the costs involved in persuading a jinn to join us on the Road to Morocco.
 
 But there was an unexpected turn in the road when we came across a book written by [Ken Wilber (1991), Grace and Grit](https://www.goodreads.com/book/show/177175.Grace_Grit), in which he describes the fatal illness of his wife, Treya, and her search for her daemon. This Greek word describes "the god within", one's inner deity or guiding spirit, also known as a djinn or genie once the Arab world became the custodian of the Greek classics. According to Wilber, this daemon or djinn "is indeed one's guiding spirit; those who bear a god within bring genius to their work. When, however, one's daemon is heard but unheeded, it is said that the daemon becomes a demon, or evil spirit—divine energy and talent degenerates into self-destructive activity" (p. 58).
 
-As is often the case with ancient myths, one can find direct applications to one's daily life. Our search for jinns on the road to Morocco culminated in a renewed acquaintanceship with our inner jinns, the guiding spirits that have helped us find our life's direction. And we managed this for much less than a thousand dollars per session. We learned that in Morocco, every price is open to negotiation—even the price of selfknowledge.
+As is often the case with ancient myths, one can find direct applications to one's daily life. Our search for jinns on the road to Morocco culminated in a renewed acquaintanceship with our inner jinns, the guiding spirits that have helped us find our life's direction. And we managed this for much less than a thousand dollars per session. We learned that in Morocco, every price is open to negotiation—even the price of self-knowledge.
+
+<img src="../images/krippner-jinns-6.jpg" width="576px" height="auto" alt="Stanley Krippner in a medicine room"/>
 
 ### References
 

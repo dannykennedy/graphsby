@@ -5,7 +5,7 @@ layout: post
 name: "A Man Beyond the Seasons"
 tags:
     - hasTag: sandyselasmith
-    - hasTag: stanleykrippner
+    - hasTopic: stanleykrippner
     - hasAuthor: sandyselasmith
     - hasTag: 26.1-2
     - inIssue: 26.1-2

@@ -9372,9 +9372,9 @@ ns1:bcpov6rsmbts a ns1:Post ;
 <p>White, R.A. (1999). How to write an EHE autobiography (3rd Ed.). New Bern, NC. Exceptional Human Experiences Network. The latest version of this piece appears on the Exceptional Human Experiences Network’s website at <a href="https://www.ehe.org/display/ehe-pagefe1e.html?ID=84">ehe.org</a>.</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbssmith ;
-    ns1:hasTag ns1:bcphbq3krip,
-        ns1:bcphbssmith,
+    ns1:hasTag ns1:bcphbssmith,
         ns1:bcphbxjsuyu ;
+    ns1:hasTopic ns1:bcphbq3krip ;
     ns1:inIssue ns1:bcphbxjsuyu ;
     ns1:itemId "bcpov6rsmbts"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -12849,8 +12849,8 @@ ns1:bcpov6zfbost a ns1:Post ;
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3bogz ;
     ns1:hasTag ns1:bcphbq3bogz,
-        ns1:bcphbq3krip,
         ns1:bcphbxjsuyu ;
+    ns1:hasTopic ns1:bcphbq3krip ;
     ns1:inIssue ns1:bcphbxjsuyu ;
     ns1:itemId "bcpov6zfbost"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -21990,9 +21990,9 @@ ns1:bcphbxjsuyu a ns1:Post ;
     ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf" download="">Download issue 26.1-2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf">View online</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3krip,
-        ns1:bcphbq3xdnj,
+    ns1:hasTag ns1:bcphbq3xdnj,
         ns1:bcpqocbmxkx ;
+    ns1:hasTopic ns1:bcphbq3krip ;
     ns1:itemId "bcphbxjsuyu"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 26, issue 1: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
@@ -22392,17 +22392,15 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:coverImg "cover-author-stanley-krippner.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
 
-<p>Fundraiser: <a href="https://www.gofundme.com/f/support-for-dr-stanley-krippner">Support For Dr. Stanley Krippner</a></p>
+<p>Stanley Krippner is a psychologist, parapsychologist and author. He was the <a href="https://en.wikipedia.org/wiki/Alan_Watts">Alan Watts</a> Professor of Psychology at <a href="https://www.saybrook.edu/">Saybrook University</a> from 1972 to 2019, and was previously director of the Dream Research Laboratory at <a href="https://en.wikipedia.org/wiki/Maimonides_Medical_Center">Maimonides Medical Center</a> (1964-1972) and director of the Child Study Center at Kent State University (1961-1964). He was an advisor to the Dream Network Journal from <a href="../bcphbolab5r/9.2">Issue 9.2</a> (1990) until the Journal ceased print publication in 2016. Currently, he is Affiliated Distinguished Faculty at the <a href="https://www.ciis.edu/">California Institute of Integral Studies</a> in San Francisco.</p>
 
-<p>Stanley Krippner was the Alan Watts Professor of Psychology at Saybrook University for 47 years. He is a Fellow in five American Psychological Association (APA) divisions, and past-president of two divisions. Formerly, he was director of the Kent State University Child Study Center, Kent Ohio, and the Maimonides Medical Center Dream Research Laboratory, Brooklyn New York. Currently, he is Affiliated Distinguished Faculty, California Institute of Integral Studies in San Francisco.</p>
+<p>He has authored and co-authored many books in fields ranging from dreams and dream telepathy to <a href="https://en.wikipedia.org/wiki/Personal_mythology">personal mythology</a>, shamanism, and PTSD. His publications include the well-known <a href="https://www.goodreads.com/book/show/8030410-personal-mythology"><em>Personal Mythology: Using Ritual, Dreams, and Imagination to Discover Your Inner Story</em></a> (1988) with <a href="../@davidfeinstein">David Feinstein</a>, and other books on dreams including <a href="https://www.goodreads.com/book/show/118480.Extraordinary_Dreams_and_How_to_Work_with_Them">Extraordinary Dreams and How to Work with Them</a> (2001) with <a href="../@faribabogzaran">Fariba Bogzaran</a> and Andre Percia De Carvalho, Perchance to Dream: The Frontiers of Dream Psychology with <a href="../@debbiejoffeellis">Debbie Joffe Ellis</a>.</p>
 
-<p>He is co-author of <em>Extraordinary Dreams, Personal Mythology, Dream Telepathy, Sex and Love in the 21st Century, The Voice of Rolling Thunder, Demystifying Shamans and Their World, A Psychiatrist in Paradise: Treating Mental Illness in Bali, Post-Traumatic Stress Disorder: Biography of a Disease, Dreamworking: How to Use Your Dreams for Creative Problem-Solving, and Haunted by Combat: Understanding PTSD in War Veterans, and co-editor of Holistic Treatment in Mental Health: A Handbook of Practitioners’ Perspectives, Healing Tales, Healing Stories, Mysterious Minds, Debating Psychic Experience, The Psychological Impact of War on Civilians: An International Perspective, Dreamscaping: New and Creative Ways to Work with Your Dreams, Broken Images, Broken Selves: Dissociative Narratives in Clinical Practice,</em> and <em>Varieties of Anomalous Experience: Examining the Scientific Evidence.</em> He edited or co-edited ten volumes of <em>Advances in Parapsychological Research</em>.</p>
+<p>He is also the recipient of many awards, including the <a href="https://en.wikipedia.org/wiki/APA_Award_for_Distinguished_Contributions_to_the_International_Advancement_of_Psychology">Americal Psychological Association's Award for Distinguished Contributions to the International Advancement of Psychology</a> (2002), which recognized among other things his service as president of the APA's humanistic psychology and psychological hypnosis divisions.</p>
 
-<p>He received the APA Award for Distinguished Contributions to the International Development of Psychology in 2002, the Society for Psychological Hypnosis Award for Distinguished Contributions to Professional Hypnosis in 2002, the Ashley Montagu Peace Award in 2003, and lifetime achievement awards from the International Association for the Study of Dreams, The International Network on Personal Meaning, the Society for Humanistic Psychology, the Parapsychological Association, and the J.B. Rhine Lifetime Achievement in Parapsychology Award .He received that Award for Distinguished Contributions to Professional Hypnosis from the Society for Psychological Hypnosis, the Senior Contributor Award from the Society for Counseling Psychology, the Pathfinder Award from the Association for Humanistic Psychology, and the Charlotte and Karl Buhler Award from the Society for Humanistic Psychology.</p>
+<p>Krippner has travelled and lectured extensively <a href="https://stanleykrippner.weebly.com/--photos.html">around the world</a>, and is a member of the editorial board for the <em>Revista Argentina de Psicologia Paranormal</em>, the advisory board for the St. Petersburg <a href="https://inharmony.ru/harmony-institute/international-school-for-psychotherapy-counseling-and-group-leadership/">International School for Psychotherapy, Counseling, and Group Leadership</a>, and the Prague-based Czech Unitaria.</p>
 
-<p>In addition to his APA listings, he holds Fellow status in several other organizations including, the Society for the Scientific Study of Religion, the Society for the Scientific Study of Sexuality, the American Educational Research Association, the Western Psychological Association, the Society of Clinical and Experimental Hypnosis, and the American Society of Clinical Hypnosis. He is a Founding Fellow of the Association for Psychological Science and the American Academy of Clinical Sexologists. He holds Diplomate status in the American Board of Sexology and the International Academy of Behavioral Medicine, Counseling, and Psychotherapy. He is certified as an Advanced Alcohol and Drug Counselor.</p>
-
-<p>Krippner has conducted workshops and seminars on dreams and/or hypnosis in Argentina, Brazil, Canada, China, Colombia, Cuba, Cyprus, Ecuador, Finland, France, Germany, Great Britain, Italy, Japan, Lithuania, Mexico, the Netherlands, Panama, the Philippines, Portugal, Puerto Rico, Russia, South Africa, Spain, Sweden, Venezuela, and at four congresses of the Interamerican Psychological Association. He is a member of the editorial board for the <em>Revista Argentina de Psicologia Paranormal</em>, and the advisory board for International School for Psychotherapy, Counseling, and Group Leadership (St. Petersburg) and the Czech Unitaria (Prague). He holds faculty appointments at the Universidade Holistica Internacional (Brasilia), El Universidad Transpersonal (Puebla, México), and the Instituto de Medicina y Tecnologia Avanzada de la Conducta (Ciudad Juarez). He has given invited addresses for the Chinese Academy of Sciences, the Russian Academy of Pedagogical Sciences, and the School for Diplomatic Studies, Montevideo, Uruguay. In 1959, he received the Service to Youth Award from the Young Men’s Christian Association in Richmond, Virginia, his first award.</p>
+<p>Recently he has collaborated with Sidian Jones on the book <a href="https://mymythos.org/"><em>Mythic Color</em></a>, the first book of an upcoming <em>Personal Mythologist’s Guide series</em> that refreshes Krippner's ongoing exploration of personal mythology.</p>
 """^^xsd:string ;
     ns1:handle "stanleykrippner"^^xsd:string ;
     ns1:itemId "bcphbq3krip"^^xsd:string ;

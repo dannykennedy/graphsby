@@ -5,8 +5,8 @@ layout: post
 name: "A Precognitive Dream & Meeting An Extra-Ordinary Human Being"
 tags:
     - hasTag: faribabogzaran
-    - hasTag: stanleykrippner
     - hasAuthor: faribabogzaran
+    - hasTopic: stanleykrippner
     - hasTag: 26.1-2
     - inIssue: 26.1-2
 type: post

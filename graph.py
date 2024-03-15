@@ -48,6 +48,7 @@ hasTag = dreamNS['hasTag']
 inIssue = dreamNS['inIssue']
 hasAuthor = dreamNS['hasAuthor']
 featuredIn = dreamNS['featuredIn']
+hasTopic = dreamNS['hasTopic']
 
 # Datatype properties
 name = dreamNS['name']
@@ -61,6 +62,8 @@ coverImg = dreamNS['coverImg']
 urlSlug = dreamNS['urlSlug']
 featuredLabel = dreamNS['featuredLabel']
 canonicalUrl = dreamNS['canonicalUrl']
+metaDescription = dreamNS['metaDescription']
+metaKeywords = dreamNS['metaKeywords']
 
 def createGraph():
 	print("Creating graph")
@@ -139,6 +142,26 @@ def createGraph():
 	(coverImg, rdfsDomain, itemClass),
 	(coverImg, rdfsRange, xsdString),
 
+	# Featured label
+	(featuredLabel, rdfType, owlDatatypeProperty),
+	(featuredLabel, rdfsDomain, itemClass),
+	(featuredLabel, rdfsRange, xsdString),
+
+	# Canonical URL
+	(canonicalUrl, rdfType, owlDatatypeProperty),
+	(canonicalUrl, rdfsDomain, itemClass),
+	(canonicalUrl, rdfsRange, xsdString),
+
+	# Meta description
+	(metaDescription, rdfType, owlDatatypeProperty),
+	(metaDescription, rdfsDomain, itemClass),
+	(metaDescription, rdfsRange, xsdString),
+
+	# Meta keywords
+	(metaKeywords, rdfType, owlDatatypeProperty),
+	(metaKeywords, rdfsDomain, itemClass),
+	(metaKeywords, rdfsRange, xsdString),
+
 	# OBJECT PROPERTIES
 
 	# Tag
@@ -160,6 +183,11 @@ def createGraph():
 	(featuredIn, rdfType, owlObjectProperty),
 	(featuredIn, rdfsDomain, itemClass),
 	(featuredIn, rdfsRange, itemClass),
+
+	# Topic
+	(hasTopic, rdfType, owlObjectProperty),
+	(hasTopic, rdfsDomain, itemClass),
+	(hasTopic, rdfsRange, itemClass)
 
 	]
 

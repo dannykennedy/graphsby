@@ -18856,6 +18856,10 @@ ns1:bcsoz6zinmiw a ns1:Post ;
     ns1:profileImg "bogzaran-message-2.jpg"^^xsd:string ;
     ns1:urlSlug "message-from-the-inner-world"^^xsd:string .
 
+ns1:canonicalUrl a owl:DatatypeProperty ;
+    rdfs:domain ns1:Item ;
+    rdfs:range xsd:string .
+
 ns1:coverImg a owl:DatatypeProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range xsd:string .
@@ -18872,6 +18876,10 @@ ns1:featuredIn a owl:ObjectProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range ns1:Item .
 
+ns1:featuredLabel a owl:DatatypeProperty ;
+    rdfs:domain ns1:Item ;
+    rdfs:range xsd:string .
+
 ns1:handle a owl:DatatypeProperty ;
     rdfs:domain ns1:Actor ;
     rdfs:range xsd:string .
@@ -18884,6 +18892,10 @@ ns1:hasTag a owl:ObjectProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range ns1:Item .
 
+ns1:hasTopic a owl:ObjectProperty ;
+    rdfs:domain ns1:Item ;
+    rdfs:range ns1:Item .
+
 ns1:inIssue a owl:ObjectProperty ;
     rdfs:domain ns1:Post ;
     rdfs:range ns1:Item .
@@ -18893,6 +18905,14 @@ ns1:itemId a owl:DatatypeProperty ;
     rdfs:range xsd:integer .
 
 ns1:layout a owl:DatatypeProperty ;
+    rdfs:domain ns1:Item ;
+    rdfs:range xsd:string .
+
+ns1:metaDescription a owl:DatatypeProperty ;
+    rdfs:domain ns1:Item ;
+    rdfs:range xsd:string .
+
+ns1:metaKeywords a owl:DatatypeProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range xsd:string .
 
@@ -22184,8 +22204,6 @@ ns1:bcphbqvstim a ns1:User ;
     ns1:name "William R. Stimson"^^xsd:string ;
     ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
 
-ns1:Item a owl:Class .
-
 ns1:bcphbq3bogz a ns1:User ;
     ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com</a></p>
@@ -22291,6 +22309,8 @@ ns1:bcphbqvcors a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bambi Corso"^^xsd:string ;
     ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
+
+ns1:Item a owl:Class .
 
 ns1:bcphbq3rpac a ns1:User ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
@@ -22405,6 +22425,8 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:handle "stanleykrippner"^^xsd:string ;
     ns1:itemId "bcphbq3krip"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
+    ns1:metaDescription "Stanley Krippner is a psychologist and parapsychologist, and author of the well-known book 'Personal Mythology'. This page gathers all his articles for the Dream Network Journal."^^xsd:string ;
+    ns1:metaKeywords "Stanley Krippner, Krippner, Dr. Krippner, Dream Network"^^xsd:string ;
     ns1:name "Dr. Stanley Krippner"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
 

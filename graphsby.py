@@ -184,6 +184,14 @@ for pyyam in file_objects:
 	# Canonical URL
 	if 'canonicalUrl' in pyyam.keys():
 		instances.append((newItem, canonicalUrl, Literal(pyyam['canonicalUrl'], datatype=xsdString)))
+
+	# metaDescription
+	if 'metaDescription' in pyyam.keys():
+		instances.append((newItem, metaDescription, Literal(pyyam['metaDescription'], datatype=xsdString)))
+	
+	# metaKeywords
+	if 'metaKeywords' in pyyam.keys():
+		instances.append((newItem, metaKeywords, Literal(pyyam['metaKeywords'], datatype=xsdString)))
 		
 # Add instances to the graph
 for triple in instances:

@@ -316,21 +316,24 @@ for pyyam in file_objects:
 
 	q = graph.query(query_string)
 
-	tagged_items = []
+	tagged_items = {
+		"hasTag": [],
+		"hasAuthor": [],
+		"hasTopic": [],
+	}
 	featured_items = []
 	for row in q:
+
 		# item_to_page_relation is the predicate that links the item to the page
 		# e.g. hasAuthor, hasTag, featuredIn
 		item_to_page_relation = ""
 		if 0 <= 8 < len(row):
-
-
 			item_to_page_relation = row[8].split("#")[1]
 			# Check if row[8] includes the string "featured"
 			# If so, add to featured items
-			if "featured" in row[8]:
-				print("featured")
-				print(row[8])
+			if item_to_page_relation == 'hasTopic':
+				print('item_to_page_relation: ', end="")
+				print(item_to_page_relation)
 
 		# Now find everything that this item is tagged with
 		# This is literally Inception
@@ -402,7 +405,9 @@ for pyyam in file_objects:
 			featured_items.append(item_to_add)
 		# Fix this hack
 		elif item_to_page_relation == "hasTag" or is_contributors_page:
-			tagged_items.append(item_to_add)
+			tagged_items["hasTag"].append(item_to_add)
+		elif item_to_page_relation == "hasTopic":
+			tagged_items["hasTopic"].append(item_to_add)
 		elif item_to_page_relation == "hasAuthor":
 			continue
 		else:
@@ -577,11 +582,11 @@ for pyyam in file_objects:
 
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
+			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
 		else:
-			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
+			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
 	else:
-		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items, site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
+		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"

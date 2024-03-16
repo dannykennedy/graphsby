@@ -1,0 +1,41 @@
+function showArticles(articleTypeToShow) {
+    console.log("showArticles called", articleTypeToShow);
+
+    // Show only the articles of the type that was clicked
+    var articles = document.querySelectorAll(".article-wrapper");
+    for (var i = 0; i < articles.length; i++) {
+        if (articles[i].getAttribute("data-type") === articleTypeToShow) {
+            // Add show class, remove hide class
+            articles[i].classList.add("show");
+            articles[i].classList.remove("hide");
+        } else {
+            // Add hide class, remove show class
+            articles[i].classList.add("hide");
+            articles[i].classList.remove("show");
+        }
+    }
+
+    // Set button to selected
+    var buttons = document.querySelectorAll(".type-toggle-pill");
+    for (var i = 0; i < buttons.length; i++) {
+        // If button classlist includes articleTypeToShow, add the active class
+        if (buttons[i].classList.contains(articleTypeToShow)) {
+            buttons[i].classList.add("active");
+        } else {
+            buttons[i].classList.remove("active");
+        }
+    }
+
+    // // Initialize MiniMasonry
+    // var masonry = new MiniMasonry({
+    //     container: ".card-container",
+    //     baseWidth: 300,
+    //     gutter: 10,
+    // });
+
+    // // Layout the articles
+    // masonry.layout();
+
+    // // Remove MiniMasonry
+    // masonry.destroy();
+}

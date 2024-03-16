@@ -6,7 +6,7 @@ name: "Book review: The Variety of Dream Experience, by Montague Ullman and Clai
 tags:
     - hasTag: suzannahart
     - hasAuthor: suzannahart
-    - hasTag: montagueullman
+    - hasTopic: montagueullman
     - hasTag: 7.3
     - inIssue: 7.3
 type: post

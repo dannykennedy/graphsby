@@ -9968,9 +9968,9 @@ ns1:bcpov6rssull a ns1:Post ;
 <p>Ullman, M. &amp; Zimmerman, N. (1979). Working with dreams: Self- understanding, problem solving, and enriched creativity though dream appreciation. NY. G.P. Putnam's Sons.</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbssmith ;
-    ns1:hasTag ns1:bcphbqflull,
-        ns1:bcphbssmith,
+    ns1:hasTag ns1:bcphbssmith,
         ns1:bcphbt7x4uv ;
+    ns1:hasTopic ns1:bcphbqflull ;
     ns1:inIssue ns1:bcphbt7x4uv ;
     ns1:itemId "bcpov6rssull"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -11390,8 +11390,8 @@ ns1:bcpov6zdbrvd a ns1:Post ;
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqerish ;
     ns1:hasTag ns1:bcphbnodjs2,
-        ns1:bcphbqerish,
-        ns1:bcphbqflull ;
+        ns1:bcphbqerish ;
+    ns1:hasTopic ns1:bcphbqflull ;
     ns1:inIssue ns1:bcphbnodjs2 ;
     ns1:itemId "bcpov6zdbrvd"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -17694,8 +17694,8 @@ ns1:bcpoz4zmwwmu a ns1:Post ;
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3krip ;
     ns1:hasTag ns1:bcphbq3krip,
-        ns1:bcphbqflull,
         ns1:bcphbw4yscz ;
+    ns1:hasTopic ns1:bcphbqflull ;
     ns1:inIssue ns1:bcphbw4yscz ;
     ns1:itemId "bcpoz4zmwwmu"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -20653,8 +20653,8 @@ ns1:bcphbw4yscz a ns1:Post ;
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcphbqflull,
         ns1:bcpqob4y4gj ;
+    ns1:hasTopic ns1:bcphbqflull ;
     ns1:itemId "bcphbw4yscz"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 25, issue 2: A Tribute to Monte Ullman"^^xsd:string ;

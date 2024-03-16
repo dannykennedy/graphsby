@@ -32,6 +32,14 @@
     display: none;
 }
 
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
 #item-heading {
     text-align: center;
     font-family: "Passion", "Courier New", serif;
@@ -129,35 +137,6 @@
     box-sizing: border-box; /* Opera/IE 8+ */
 }
 
-@media (max-width: 1100px) {
-    /* .page-items {
-    grid-template-columns: 1fr 1fr;
-    column-gap: 10px;
-    -webkit-column-gap: 10px;
-    -moz-column-gap: 10px;
-  } */
-}
-
-@media (max-width: 800px) {
-    #page {
-        grid-template-areas: "description" "items";
-        grid-template-columns: 100%;
-        grid-template-rows: auto auto;
-    }
-    /* .page-items {
-    padding: 0px;
-  } */
-}
-
-@media (max-width: 400px) {
-    /* .page-items {
-    grid-template-columns: 100%;
-    column-gap: 0px;
-    -webkit-column-gap: 0px;
-    -moz-column-gap: 0px;
-  } */
-}
-
 /* Gammin style for front page */
 
 .scans {
@@ -222,4 +201,53 @@ li p {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+/* TOGGLE BUTTONS */
+
+.type-toggle-pill-area {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+    padding-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+button.type-toggle-pill {
+    cursor: pointer;
+    padding: 0.4rem 0.8rem;
+}
+
+button.type-toggle-pill.active {
+    color: #f8f8f8;
+    background-color: #444;
+}
+
+@media (max-width: 1100px) {
+    /* .page-items {
+    grid-template-columns: 1fr 1fr;
+    column-gap: 10px;
+    -webkit-column-gap: 10px;
+    -moz-column-gap: 10px;
+  } */
+}
+
+@media (max-width: 800px) {
+    #page {
+        grid-template-areas: "description" "items";
+        grid-template-columns: 100%;
+        grid-template-rows: auto auto;
+    }
+}
+
+@media (max-width: 600px) {
+    .type-toggle-pill-area {
+        justify-content: center;
+        flex-direction: column;
+    }
+    button.type-toggle-pill {
+        width: 90%;
+        margin: auto;
+    }
 }

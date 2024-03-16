@@ -5,7 +5,7 @@ layout: post
 name: "The Ullman Method of Dream Analysis: Content and Context"
 tags:
     - hasTag: sandyselasmith
-    - hasTag: montagueullman
+    - hasTopic: montagueullman
     - hasAuthor: sandyselasmith
     - hasTag: 19.1
     - inIssue: 19.1

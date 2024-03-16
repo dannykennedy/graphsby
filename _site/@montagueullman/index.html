@@ -42,8 +42,8 @@
         />
         <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet" />
         <!-- SCRIPTS -->
-        <!-- <script src="../scripts/masonry.min.js"></script> -->
         <script src="../scripts/minimasonry.min.js"></script>
+        <script src="../scripts/toggle-type.js"></script>
         <!-- FAVICON -->
         <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
         <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
@@ -168,7 +168,6 @@
         </div>
         
         <h1 id="item-heading">Montague Ullman</h1>
-
         <div id="page-description-text"><p>Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
 
 <p>More information on Montague Ullman and selected writings on Judy Gardiner's website, <a href="http://www.cosmicdreaming.com/meetdrullman.html">cosmicdreaming.com</a></p>
@@ -186,58 +185,74 @@
         
         <!-- hacks -->
         
-        <div class="page-items main-grid">
-               <div
-    id="bcpov6zfabod"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zfabod/the-dream-in-search-of-a-new-abode'"
-    style="transform: translate3d(0px, 0px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@montagueullman">
-                            <img
-                                src="../images/thumb-author-montagueullman.jpg"
-                                alt="Montague Ullman"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+        <div class="page-section">
+            <!-- Only show toggles for users -->
+            
+            <!-- If there are topicPosts, and more than zero of them -->
+             
+            <div class="type-toggle-pill-area">
+                <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
+                    Articles by Montague Ullman
+                </button>
+
+                <button class="tag type-toggle-pill hasTopic" onclick="showArticles('hasTopic')">
+                    Articles about Montague Ullman
+                </button>
+            </div>
+              
+            <div class="page-items main-grid">
+                  
+                <div
+                    id="bcpov6zfabod"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6zfabod/the-dream-in-search-of-a-new-abode'"
+                    style="transform: translate3d(0px, 0px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@montagueullman">
+                        <img
+                            src="../images/thumb-author-montagueullman.jpg"
+                            alt="Montague Ullman"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Montague Ullman 
+                    </span>
+
                      
                 </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Montague Ullman 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> July 2006 </div>
-                </div>
+                <div class="card-date"> July 2006 </div>
             </div>
         </div>
+    </div>
+    
+    <div class="card-body">
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zfabod/the-dream-in-search-of-a-new-abode">The Dream: In Search of a New Abode</a>
-            </h3>
-             
-            <div class="card-body-text">
-                <p> <p>*<em>Presented at the twenty-third Annual Meeting of the International Association for the Study of Dreams, July 22, 2006</em></p>
+        <h3 class="card-title">
+            <a href="../bcpov6zfabod/the-dream-in-search-of-a-new-abode">The Dream: In Search of a New Abode</a>
+        </h3>
+         
+        <div class="card-body-text">
+            <p> <p>*<em>Presented at the twenty-third Annual Meeting of the International Association for the Study of Dreams, July 22, 2006</em></p>
 
 <p>I am going to begin with a <span class='read-more'> ...read more</span></p>
 
@@ -400,430 +415,75 @@
 
 
 <p><em></em></p> </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@montagueullman">Montague Ullman</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@montagueullman">Montague Ullman</a></span>
                     </div>
                 </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6zfdepr"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6zfdepr/the-significance-of-dreams-in-a-dream-deprived-society'"
+                    style="transform: translate3d(0px, 500px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@montagueullman">
+                        <img
+                            src="../images/thumb-author-montagueullman.jpg"
+                            alt="Montague Ullman"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Montague Ullman 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> January 1997 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcphbw4yscz"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcphbw4yscz/25.2'"
-    style="transform: translate3d(0px, 500px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@dreamnetwork">
-                            <img
-                                src="../images/thumb-tree-logo.png"
-                                alt="Dream Network"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Dream Network 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> April 2006 </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcphbw4yscz/25.2">Volume 25, issue 2: A Tribute to Monte Ullman</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/25.2-rect.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> <p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.2_monte_ullman.pdf" download="">Download issue 25.2</a><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.2_monte_ullman.pdf">View online</a></p>
-
-<p>This is a tribute issue dedicated to <a href="../@montagueullman">Monte Ullman</a>.</p> </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@montagueullman">Montague Ullman</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag PAGE">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@dreamnetwork">Dream Network</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcpqob4y4gj/dream-network-volume-25">Volume 25</a></span>
-                        </div>
-                    </div>
-                </div>
-                 
-            </div>
-        </div>
-    </div>
-</div>    <div
-    id="bcpoz4zmwwmu"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpoz4zmwwmu/working-with-monte-ullman-at-maimonides-reflections-on-a-dream-relationship'"
-    style="transform: translate3d(0px, 1000px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@stanleykrippner">
-                            <img
-                                src="../images/thumb-author-stanley-krippner.jpg"
-                                alt="Dr. Stanley Krippner"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Dr. Stanley Krippner 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> April 2006 </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpoz4zmwwmu/working-with-monte-ullman-at-maimonides-reflections-on-a-dream-relationship">Working with Monte Ullman at Maimonides: Reflections on a Dream Relationship</a>
-            </h3>
-             
-            <div class="card-body-text">
-                <p> <p>In 1964 I accepted <a href="../@montagueullman">Montague Ullman’s</a> invitation to direct the Dream Laboratory at the <a href="https://psi-encyclopedia.spr.ac.uk/articles/maimonides-dream-telepathy-research">Maimonides Medical Center in Brooklyn, New York</a>. I had met Mo<span class='read-more'> ...read more</span></p>
-
-
-
-
-
-<p> <a href="https://en.wikipedia.org/wiki/David_Bohm"></a></p>
-
-
-
- </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@stanleykrippner">Dr. Stanley Krippner</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@montagueullman">Montague Ullman</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbw4yscz/25.2">Volume 25, issue 2: A Tribute to Monte Ullman</a></span>
-                        </div>
-                    </div>
-                </div>
-                 
-            </div>
-        </div>
-    </div>
-</div>    <div
-    id="bcpov6rssull"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6rssull/the-ullman-method-of-dream-analysis'"
-    style="transform: translate3d(0px, 1500px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@sandyselasmith">
-                            <img
-                                src="../images/thumb-author-sandy-sela-smith.jpg"
-                                alt="Sandy Sela-Smith"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Sandy Sela-Smith 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> January 2000 </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6rssull/the-ullman-method-of-dream-analysis">The Ullman Method of Dream Analysis: Content and Context</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/post-bcpov6zfacet-1.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
-
-<p>Five simple words, "if this were my dream" make the Ullman (1996, 1999; Ullman &amp; Zimmerman, 1979) process of Dream Appreciation one of the most <span class='read-more'> ...read more</span> <a href="../@montagueullman"></a> </p>
-
-
-
-
-
-<blockquote>
-  <p><em></em></p>
-</blockquote>
-
-<p> <em></em></p>
-
-<blockquote>
-  <p><em></em>  <em></em></p>
-</blockquote>
-
-
-
-
-
-<h2></h2>
-
-
-
-
-
-
-
-
-
-
-
-<h2></h2>
-
-
-
-
-
-
-
-
-
-<h2></h2>
-
-<p> <a href="../@stanleykrippner"></a> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<blockquote>
-  <p><em></em></p>
-</blockquote>
-
-
-
-
-
-
-
-<h2></h2>
-
-
-
-
-
-
-
- </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@montagueullman">Montague Ullman</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@sandyselasmith">Sandy Sela-Smith</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbt7x4uv/19.1">Volume 19, issue 1: Animals in Dreams: What do they Symbolize?</a></span>
-                        </div>
-                    </div>
-                </div>
-                 
-            </div>
-        </div>
-    </div>
-</div>    <div
-    id="bcpov6zfdepr"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zfdepr/the-significance-of-dreams-in-a-dream-deprived-society'"
-    style="transform: translate3d(0px, 2000px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@montagueullman">
-                            <img
-                                src="../images/thumb-author-montagueullman.jpg"
-                                alt="Montague Ullman"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Montague Ullman 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> January 1997 </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zfdepr/the-significance-of-dreams-in-a-dream-deprived-society">The Significance of Dreams in a Dream Deprived Society</a>
-            </h3>
-             
-            <div class="card-body-text">
-                <p> <p>(Date unknown, after 1996)</p>
+        <h3 class="card-title">
+            <a href="../bcpov6zfdepr/the-significance-of-dreams-in-a-dream-deprived-society">The Significance of Dreams in a Dream Deprived Society</a>
+        </h3>
+         
+        <div class="card-body-text">
+            <p> <p>(Date unknown, after 1996)</p>
 
 <blockquote>
   <p><em>Oppression in art, as in life, is when the conclusion to be reached is predetermined by inner or outer a priori motive<span class='read-more'> ...read more</span></em> </p>
@@ -950,188 +610,79 @@
 
 
 <p><em></em></p> </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@montagueullman">Montague Ullman</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@montagueullman">Montague Ullman</a></span>
                     </div>
                 </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6zftran"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6zftran/the-transformation-process-in-dreams'"
+                    style="transform: translate3d(0px, 1000px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@montagueullman">
+                        <img
+                            src="../images/thumb-author-montagueullman.jpg"
+                            alt="Montague Ullman"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Montague Ullman 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> October 1974 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6zdbrvd"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zdbrvd/book-review-the-variety-of-dream-experience-ullman-limmer'"
-    style="transform: translate3d(0px, 2500px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@suzannahart">
-                            <img
-                                src="../images/thumb-author-suzannahart.jpg"
-                                alt="Suzanna Hart"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Suzanna Hart 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> May 1988 </div>
-                </div>
-            </div>
+        <h3 class="card-title">
+            <a href="../bcpov6zftran/the-transformation-process-in-dreams">The Transformation Process In Dreams</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/post-bcpov6zftran-0.jpg" alt="profile image" class="Post-profile-img" />
         </div>
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zdbrvd/book-review-the-variety-of-dream-experience-ullman-limmer">Book review: The Variety of Dream Experience, by Montague Ullman and Claire Limmer</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/post-bcpov6zdbrvd-0.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
-
-<p>
-
-<p> <a href="../@montagueullman"></a>  <em></em></p>
-
-<p> <em></em> </p>
-
-<p> <em></em></p>
-
-
-
-
-
-
-
- </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@suzannahart">Suzanna Hart</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@montagueullman">Montague Ullman</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbnodjs2/7.3">Volume 7, issue 3</a></span>
-                        </div>
-                    </div>
-                </div>
-                 
-            </div>
-        </div>
-    </div>
-</div>    <div
-    id="bcpov6zftran"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zftran/the-transformation-process-in-dreams'"
-    style="transform: translate3d(0px, 3000px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@montagueullman">
-                            <img
-                                src="../images/thumb-author-montagueullman.jpg"
-                                alt="Montague Ullman"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Montague Ullman 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> October 1974 </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zftran/the-transformation-process-in-dreams">The Transformation Process In Dreams</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/post-bcpov6zftran-0.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> <p><em>Published in <strong>Ullman on Dreams</strong>, Vol. 19, No. 2, May 1975,  pp. 8-10, The American Academy of Psychoanalysis</em></p>
+        <div class="card-body-text">
+            <p> <p><em>Published in <strong>Ullman on Dreams</strong>, Vol. 19, No. 2, May 1975,  pp. 8-10, The American Academy of Psychoanalysis</em></p>
 
 <p><em>Paper delivered at a Conference of Scie<span class='read-more'> ...read more</span></em></p>
 
@@ -1166,23 +717,455 @@
 
 
 <p><em></em></p> </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@montagueullman">Montague Ullman</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@montagueullman">Montague Ullman</a></span>
                     </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <!-- Posts about the thing -->
+                  
+                <div
+                    id="bcphbw4yscz"
+                    class="card item-card thumb-card grid-item hasTopic hide"
+                    onclick="window.location.href = '../bcphbw4yscz/25.2'"
+                    style="transform: translate3d(0px, 0px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@dreamnetwork">
+                        <img
+                            src="../images/thumb-tree-logo.png"
+                            alt="Dream Network"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
                 </div>
                  
             </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Dream Network 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> April 2006 </div>
+            </div>
         </div>
     </div>
-</div>   
+    
+    <div class="card-body">
+        
+        <h3 class="card-title">
+            <a href="../bcphbw4yscz/25.2">Volume 25, issue 2: A Tribute to Monte Ullman</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/25.2-rect.jpg" alt="profile image" class="Post-profile-img" />
+        </div>
+        
+        <div class="card-body-text">
+            <p> <p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.2_monte_ullman.pdf" download="">Download issue 25.2</a><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.2_monte_ullman.pdf">View online</a></p>
+
+<p>This is a tribute issue dedicated to <a href="../@montagueullman">Monte Ullman</a>.</p> </p>
+        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PAGE">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@dreamnetwork">Dream Network</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcpqob4y4gj/dream-network-volume-25">Volume 25</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpoz4zmwwmu"
+                    class="card item-card thumb-card grid-item hasTopic hide"
+                    onclick="window.location.href = '../bcpoz4zmwwmu/working-with-monte-ullman-at-maimonides-reflections-on-a-dream-relationship'"
+                    style="transform: translate3d(0px, 500px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@stanleykrippner">
+                        <img
+                            src="../images/thumb-author-stanley-krippner.jpg"
+                            alt="Dr. Stanley Krippner"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Dr. Stanley Krippner 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> April 2006 </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card-body">
+        
+        <h3 class="card-title">
+            <a href="../bcpoz4zmwwmu/working-with-monte-ullman-at-maimonides-reflections-on-a-dream-relationship">Working with Monte Ullman at Maimonides: Reflections on a Dream Relationship</a>
+        </h3>
+         
+        <div class="card-body-text">
+            <p> <p>In 1964 I accepted <a href="../@montagueullman">Montague Ullman’s</a> invitation to direct the Dream Laboratory at the <a href="https://psi-encyclopedia.spr.ac.uk/articles/maimonides-dream-telepathy-research">Maimonides Medical Center in Brooklyn, New York</a>. I had met Mo<span class='read-more'> ...read more</span></p>
+
+
+
+
+
+<p> <a href="https://en.wikipedia.org/wiki/David_Bohm"></a></p>
+
+
+
+ </p>
+        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@stanleykrippner">Dr. Stanley Krippner</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbw4yscz/25.2">Volume 25, issue 2: A Tribute to Monte Ullman</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6rssull"
+                    class="card item-card thumb-card grid-item hasTopic hide"
+                    onclick="window.location.href = '../bcpov6rssull/the-ullman-method-of-dream-analysis'"
+                    style="transform: translate3d(0px, 1000px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@sandyselasmith">
+                        <img
+                            src="../images/thumb-author-sandy-sela-smith.jpg"
+                            alt="Sandy Sela-Smith"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Sandy Sela-Smith 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> January 2000 </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card-body">
+        
+        <h3 class="card-title">
+            <a href="../bcpov6rssull/the-ullman-method-of-dream-analysis">The Ullman Method of Dream Analysis: Content and Context</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/post-bcpov6zfacet-1.jpg" alt="profile image" class="Post-profile-img" />
+        </div>
+        
+        <div class="card-body-text">
+            <p> 
+
+<p>Five simple words, "if this were my dream" make the Ullman (1996, 1999; Ullman &amp; Zimmerman, 1979) process of Dream Appreciation one of the most <span class='read-more'> ...read more</span> <a href="../@montagueullman"></a> </p>
+
+
+
+
+
+<blockquote>
+  <p><em></em></p>
+</blockquote>
+
+<p> <em></em></p>
+
+<blockquote>
+  <p><em></em>  <em></em></p>
+</blockquote>
+
+
+
+
+
+<h2></h2>
+
+
+
+
+
+
+
+
+
+
+
+<h2></h2>
+
+
+
+
+
+
+
+
+
+<h2></h2>
+
+<p> <a href="../@stanleykrippner"></a> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<blockquote>
+  <p><em></em></p>
+</blockquote>
+
+
+
+
+
+
+
+<h2></h2>
+
+
+
+
+
+
+
+ </p>
+        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@sandyselasmith">Sandy Sela-Smith</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbt7x4uv/19.1">Volume 19, issue 1: Animals in Dreams: What do they Symbolize?</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6zdbrvd"
+                    class="card item-card thumb-card grid-item hasTopic hide"
+                    onclick="window.location.href = '../bcpov6zdbrvd/book-review-the-variety-of-dream-experience-ullman-limmer'"
+                    style="transform: translate3d(0px, 1500px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@suzannahart">
+                        <img
+                            src="../images/thumb-author-suzannahart.jpg"
+                            alt="Suzanna Hart"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Suzanna Hart 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> May 1988 </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="card-body">
+        
+        <h3 class="card-title">
+            <a href="../bcpov6zdbrvd/book-review-the-variety-of-dream-experience-ullman-limmer">Book review: The Variety of Dream Experience, by Montague Ullman and Claire Limmer</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/post-bcpov6zdbrvd-0.jpg" alt="profile image" class="Post-profile-img" />
+        </div>
+        
+        <div class="card-body-text">
+            <p> 
+
+<p>
+
+<p> <a href="../@montagueullman"></a>  <em></em></p>
+
+<p> <em></em> </p>
+
+<p> <em></em></p>
+
+
+
+
+
+
+
+ </p>
+        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@suzannahart">Suzanna Hart</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbnodjs2/7.3">Volume 7, issue 3</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+            </div>
         </div>
         
     </div>

@@ -55,10 +55,4 @@ function showArticles(articleTypeToShow) {
     });
 
     mainMasonry.layout();
-
-    // // Layout the articles
-    // masonry.layout();
-
-    // // Remove MiniMasonry
-    // masonry.destroy();
 }

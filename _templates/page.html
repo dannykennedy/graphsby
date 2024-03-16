@@ -10,8 +10,16 @@
         <div class="page-section">
             <h2 class="page-subheading">Featured articles</h2>
             <div class="page-items featured-grid">
-                {% if posts %} {% for post in featured_items %} {% with loop_index = loop.index %} {% include
-                'card.html' %} {% endwith %} {% endfor %} {% endif %}
+                {% if posts %} {% for post in featured_items %} {% with loop_index = loop.index %}
+                <div
+                    id="{{post.itemId}}"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../{{post.card_link}}'"
+                    style="transform: translate3d(0px, {{(loop_index -1) * 500}}px, 0px);"
+                >
+                    {% include 'card.html' %}
+                </div>
+                {% endwith %} {% endfor %} {% endif %}
             </div>
         </div>
         {% endif %}
@@ -20,20 +28,34 @@
         <div class="page-section">
             <h2 class="page-subheading">Dream Network Issues</h2>
             <div class="page-items main-grid">
-                {% if posts %} {% for post in posts %} {% with loop_index = loop.index %} {% include 'card.html' %} {%
-                endwith %} {% endfor %} {% endif %}
+                {% if posts %} {% for post in posts %} {% with loop_index = loop.index %}
+                <div
+                    id="{{post.itemId}}"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../{{post.card_link}}'"
+                    style="transform: translate3d(0px, {{(loop_index -1) * 500}}px, 0px);"
+                >
+                    {% include 'card.html' %}
+                </div>
+                {% endwith %} {% endfor %} {% endif %}
             </div>
         </div>
         {% else %}
         <div class="page-section">
+            <!-- Only show toggles for users -->
+            {% if render_item.type == 'user' %}
+            <!-- If there are topicPosts, and more than zero of them -->
+            {% if topicPosts %} {% if topicPosts|length > 0 %}
             <div class="type-toggle-pill-area">
                 <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
                     Articles by {{render_item.name}}
                 </button>
+
                 <button class="tag type-toggle-pill hasTopic" onclick="showArticles('hasTopic')">
                     Articles about {{render_item.name}}
                 </button>
             </div>
+            {% endif %} {% endif %} {% endif %}
             <div class="page-items main-grid">
                 {% if posts %} {% for post in posts %} {% with loop_index = loop.index %}
                 <div

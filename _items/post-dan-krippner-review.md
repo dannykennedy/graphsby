@@ -7,6 +7,7 @@ tags:
     - hasTag: dan
     - hasTag: debbiejoffeellis
     - hasTag: lindariebel
+    - hasTopic: stanleykrippner
     - hasAuthor: dan
     - hasTag: 34.1
     - inIssue: 34.1

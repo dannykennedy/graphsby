@@ -6,7 +6,7 @@ name: "Working with Monte Ullman at Maimonides: Reflections on a Dream Relations
 tags:
     - hasTag: stanleykrippner
     - hasAuthor: stanleykrippner
-    - hasTag: montagueullman
+    - hasTopic: montagueullman
     - hasTag: 25.2
     - inIssue: 25.2
 type: post

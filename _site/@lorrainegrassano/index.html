@@ -42,8 +42,8 @@
         />
         <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet" />
         <!-- SCRIPTS -->
-        <!-- <script src="../scripts/masonry.min.js"></script> -->
         <script src="../scripts/minimasonry.min.js"></script>
+        <script src="../scripts/toggle-type.js"></script>
         <!-- FAVICON -->
         <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
         <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
@@ -168,7 +168,6 @@
         </div>
         
         <h1 id="item-heading">Lorraine Grassano</h1>
-
         <div id="page-description-text"><p>Lorraine Grassano was born in Paterson, New Jersey in 1951 and graduated from Rutgers University with a B.A. in Journalism. She has been an Acquisitions Editor for Spinster/Aunt Lute Press and writer and Copy Editor for Dream Network Journal. She was founding editor of The Gay Old Times, The Lavender Express, and Natural Lighting.</p>
 
 <p>Since 2008, she has been working on The Au Revoir Memoirs, a saga of unrequited love and the search for redemption and resolution. She self-published the first two volumes: <a href="https://www.amazon.com/Vows-Unspoken-Revoir-Memoirs-Book-ebook/dp/B07CNN857P/">With Vows Unspoken</a> and <a href="https://www.amazon.com/Chains-Unbroken-Revoir-Memoirs-Book-ebook/dp/B078CXDVPC/">With Chains Unbroken</a>, and is in the infant stages of creating a trilogy.</p>
@@ -187,66 +186,71 @@
         <!-- hacks -->
         
         <div class="page-section">
+            <div class="type-toggle-pill-area">
+                <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
+                    Articles by Lorraine Grassano
+                </button>
+                <button class="tag type-toggle-pill hasTopic" onclick="showArticles('hasTopic')">
+                    Articles about Lorraine Grassano
+                </button>
+            </div>
             <div class="page-items main-grid">
-                   <div
-    id="bcpov6zfkiss"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zfkiss/kissing-the-bear'"
-    style="transform: translate3d(0px, 0px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@lorrainegrassano">
-                            <img
-                                src="../images/thumb-author-lorraine-grassano.jpg"
-                                alt="Lorraine Grassano"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+                  
+                <div
+                    id="bcpov6zfkiss"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6zfkiss/kissing-the-bear'"
+                    style="transform: translate3d(0px, 0px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@lorrainegrassano">
+                        <img
+                            src="../images/thumb-author-lorraine-grassano.jpg"
+                            alt="Lorraine Grassano"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Lorraine Grassano 
+                    </span>
+
                      
                 </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Lorraine Grassano 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> July 2014 </div>
-                </div>
+                <div class="card-date"> July 2014 </div>
             </div>
         </div>
+    </div>
+    
+    <div class="card-body">
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zfkiss/kissing-the-bear">Kissing the Bear</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/post-bcpov6zfkiss-0.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
+        <h3 class="card-title">
+            <a href="../bcpov6zfkiss/kissing-the-bear">Kissing the Bear</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/post-bcpov6zfkiss-0.jpg" alt="profile image" class="Post-profile-img" />
+        </div>
+        
+        <div class="card-body-text">
+            <p> 
 
 <p>
 
@@ -285,89 +289,87 @@
 
 
  </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@lorrainegrassano">Lorraine Grassano</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@lorrainegrassano">Lorraine Grassano</a></span>
                     </div>
                 </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphb2huxmr/33.3">Volume 33, issue 3: Dreams are Agents for Change</a></span>
-                        </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphb2huxmr/33.3">Volume 33, issue 3: Dreams are Agents for Change</a></span>
                     </div>
                 </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6zfgluc"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6zfgluc/the-afterglow-of-letting-go'"
+                    style="transform: translate3d(0px, 500px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@lorrainegrassano">
+                        <img
+                            src="../images/thumb-author-lorraine-grassano.jpg"
+                            alt="Lorraine Grassano"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Lorraine Grassano 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> July 1992 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6zfgluc"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zfgluc/the-afterglow-of-letting-go'"
-    style="transform: translate3d(0px, 500px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@lorrainegrassano">
-                            <img
-                                src="../images/thumb-author-lorraine-grassano.jpg"
-                                alt="Lorraine Grassano"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Lorraine Grassano 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> July 1992 </div>
-                </div>
-            </div>
+        <h3 class="card-title">
+            <a href="../bcpov6zfgluc/the-afterglow-of-letting-go">The Afterglow of Letting Go: Beginning, Transforming and Healing Relationships in Lucid Dreams</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/bcpov6zfgluc-1.jpg" alt="profile image" class="Post-profile-img" />
         </div>
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zfgluc/the-afterglow-of-letting-go">The Afterglow of Letting Go: Beginning, Transforming and Healing Relationships in Lucid Dreams</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/bcpov6zfgluc-1.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
+        <div class="card-body-text">
+            <p> 
 
 <p>Letting go of control in lucid dreams has helped me to begin a beautiful friendship, guide a lover relationship through a healthy transformation<span class='read-more'> ...read more</span></p>
 
@@ -408,39 +410,42 @@
 
 
  </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@lorrainegrassano">Lorraine Grassano</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbp2b6gy/11.3">Volume 11, issue 3: Relationships</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbs4b6on/17.1">Volume 17, issue 1: Lucid, Mutual, WILD Dreaming</a></span>
-                        </div>
-                    </div>
-                </div>
-                 
-            </div>
         </div>
     </div>
-</div>   
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@lorrainegrassano">Lorraine Grassano</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbp2b6gy/11.3">Volume 11, issue 3: Relationships</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbs4b6on/17.1">Volume 17, issue 1: Lucid, Mutual, WILD Dreaming</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <!-- Posts about the thing -->
+                
             </div>
         </div>
         

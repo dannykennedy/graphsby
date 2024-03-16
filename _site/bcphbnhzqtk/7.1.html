@@ -42,8 +42,8 @@
         />
         <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet" />
         <!-- SCRIPTS -->
-        <!-- <script src="../scripts/masonry.min.js"></script> -->
         <script src="../scripts/minimasonry.min.js"></script>
+        <script src="../scripts/toggle-type.js"></script>
         <!-- FAVICON -->
         <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
         <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
@@ -166,7 +166,6 @@
         </div>
         
         <h1 id="item-heading">Volume 7, issue 1</h1>
-
         <div id="page-description-text"><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.1-Dream-Network-Bulletin_Volume-7-Number-1.pdf" download="">Download issue 7.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.1-Dream-Network-Bulletin_Volume-7-Number-1.pdf">View online</a></p>
 </div>
     </div>
@@ -177,7 +176,17 @@
         <!-- hacks -->
         
         <div class="page-section">
+            <div class="type-toggle-pill-area">
+                <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
+                    Articles by Volume 7, issue 1
+                </button>
+                <button class="tag type-toggle-pill hasTopic" onclick="showArticles('hasTopic')">
+                    Articles about Volume 7, issue 1
+                </button>
+            </div>
             <div class="page-items main-grid">
+                
+                <!-- Posts about the thing -->
                 
             </div>
         </div>

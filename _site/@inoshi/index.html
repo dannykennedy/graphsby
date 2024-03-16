@@ -42,8 +42,8 @@
         />
         <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet" />
         <!-- SCRIPTS -->
-        <!-- <script src="../scripts/masonry.min.js"></script> -->
         <script src="../scripts/minimasonry.min.js"></script>
+        <script src="../scripts/toggle-type.js"></script>
         <!-- FAVICON -->
         <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
         <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
@@ -166,7 +166,6 @@
         </div>
         
         <h1 id="item-heading">Inoshi</h1>
-
         <div id="page-description-text"><p>Website: <a href="https://eastwest.works/Inoshi.html">eastwest.works</a></p>
 
 <p>EastWest Works <a href="https://eastwest.works/lists/?p=subscribe">newsletter</a></p>
@@ -185,58 +184,67 @@
         <!-- hacks -->
         
         <div class="page-section">
+            <div class="type-toggle-pill-area">
+                <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
+                    Articles by Inoshi
+                </button>
+                <button class="tag type-toggle-pill hasTopic" onclick="showArticles('hasTopic')">
+                    Articles about Inoshi
+                </button>
+            </div>
             <div class="page-items main-grid">
-                   <div
-    id="bcpov6zi341e"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zi341e/volume-34-issue-1-editorial-inoshi-denizen'"
-    style="transform: translate3d(0px, 0px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@inoshi">
-                            <img
-                                src="../images/thumb-author-inoshi-zoomout-sml.jpg"
-                                alt="Inoshi"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+                  
+                <div
+                    id="bcpov6zi341e"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6zi341e/volume-34-issue-1-editorial-inoshi-denizen'"
+                    style="transform: translate3d(0px, 0px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@inoshi">
+                        <img
+                            src="../images/thumb-author-inoshi-zoomout-sml.jpg"
+                            alt="Inoshi"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Inoshi 
+                    </span>
+
                      
                 </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Inoshi 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> May 2021 </div>
-                </div>
+                <div class="card-date"> May 2021 </div>
             </div>
         </div>
+    </div>
+    
+    <div class="card-body">
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zi341e/volume-34-issue-1-editorial-inoshi-denizen">Editorial</a>
-            </h3>
-             
-            <div class="card-body-text">
-                <p> <p>It was an unremarkable and doubtless chilly midweek winter evening in January 2019 when our regular <a href="https://eastwest.works/Intui.html#content4-2p">Dream Share</a> met in midtown E of Manhattan just<span class='read-more'> ...read more</span></p>
+        <h3 class="card-title">
+            <a href="../bcpov6zi341e/volume-34-issue-1-editorial-inoshi-denizen">Editorial</a>
+        </h3>
+         
+        <div class="card-body-text">
+            <p> <p>It was an unremarkable and doubtless chilly midweek winter evening in January 2019 when our regular <a href="https://eastwest.works/Intui.html#content4-2p">Dream Share</a> met in midtown E of Manhattan just<span class='read-more'> ...read more</span></p>
 
 
 
@@ -267,31 +275,34 @@
 
 
  </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@inoshi">Inoshi</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphb2kq341/34.1">Volume 34, issue 1: New Beginnings</a></span>
-                        </div>
-                    </div>
-                </div>
-                 
-            </div>
         </div>
     </div>
-</div>   
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@inoshi">Inoshi</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphb2kq341/34.1">Volume 34, issue 1: New Beginnings</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <!-- Posts about the thing -->
+                
             </div>
         </div>
         

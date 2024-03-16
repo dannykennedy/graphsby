@@ -42,8 +42,8 @@
         />
         <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet" />
         <!-- SCRIPTS -->
-        <!-- <script src="../scripts/masonry.min.js"></script> -->
         <script src="../scripts/minimasonry.min.js"></script>
+        <script src="../scripts/toggle-type.js"></script>
         <!-- FAVICON -->
         <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
         <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
@@ -168,7 +168,6 @@
         </div>
         
         <h1 id="item-heading">David Sparenberg</h1>
-
         <div id="page-description-text"><p>International Eco Ebook, Author OVI Bookshop, Director-Scriptwriter for CROSSING the THRESHOLD TOGETHER video project</p>
 
 <p>David's <a href="https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww">YouTube</a> channel</p>
@@ -181,89 +180,94 @@
         <!-- hacks -->
         
         <div class="page-section">
+            <div class="type-toggle-pill-area">
+                <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
+                    Articles by David Sparenberg
+                </button>
+                <button class="tag type-toggle-pill hasTopic" onclick="showArticles('hasTopic')">
+                    Articles about David Sparenberg
+                </button>
+            </div>
             <div class="page-items main-grid">
-                   <div
-    id="bcpov6shaman"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6shaman/a-shamaness-in-devonshire-an-interview-with-christa-mackinnon'"
-    style="transform: translate3d(0px, 0px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@davidsparenberg">
-                            <img
-                                src="../images/thumb-author-david-sparenberg.jpg"
-                                alt="David Sparenberg"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+                  
+                <div
+                    id="bcpov6shaman"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6shaman/a-shamaness-in-devonshire-an-interview-with-christa-mackinnon'"
+                    style="transform: translate3d(0px, 0px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 20px"
-                    >
-                        
-                        <a href="../@christamackinnon">
-                            <img
-                                src="../images/thumb-author-christa-mackinnon.jpg"
-                                alt="Christa Mackinnon"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+                    <a href="../@davidsparenberg">
+                        <img
+                            src="../images/thumb-author-david-sparenberg.jpg"
+                            alt="David Sparenberg"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 20px"
+                >
+                    
+                    <a href="../@christamackinnon">
+                        <img
+                            src="../images/thumb-author-christa-mackinnon.jpg"
+                            alt="Christa Mackinnon"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 30px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         David Sparenberg 
+                    </span>
+
+                     
+                    <span>,</span>
+                    
+
+                    <span>
+                         Christa Mackinnon 
+                    </span>
+
                      
                 </div>
-                <div class="card-header-text" style="padding-left: 30px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             David Sparenberg 
-                        </span>
-
-                         
-                        <span>,</span>
-                        
-
-                        <span>
-                             Christa Mackinnon 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> April 2013 </div>
-                </div>
+                <div class="card-date"> April 2013 </div>
             </div>
         </div>
+    </div>
+    
+    <div class="card-body">
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6shaman/a-shamaness-in-devonshire-an-interview-with-christa-mackinnon">A Shamaness in Devonshire: An Interview with Christa Mackinnon</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/post-bcpov6shaman-0.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
+        <h3 class="card-title">
+            <a href="../bcpov6shaman/a-shamaness-in-devonshire-an-interview-with-christa-mackinnon">A Shamaness in Devonshire: An Interview with Christa Mackinnon</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/post-bcpov6shaman-0.jpg" alt="profile image" class="Post-profile-img" />
+        </div>
+        
+        <div class="card-body-text">
+            <p> 
 
 <blockquote>
   <p><em>Here is a dialog with Christa Mackinnon. Christa is author of SHAMANISM &amp; SPIRITUALITY IN THERAPEUTIC PRACTICE, An Introduction. She lives and w<span class='read-more'> ...read more</span></em></p>
@@ -334,97 +338,95 @@
 <p><strong></strong> </p>
 
  </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@davidsparenberg">David Sparenberg</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@christamackinnon">Christa Mackinnon</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbz2bump/32.2-3">Volume 32, issue 2: Shamanic Dreams</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6zfredb"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6zfredb/reading-the-red-book-review'"
+                    style="transform: translate3d(0px, 500px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@davidsparenberg">David Sparenberg</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@christamackinnon">Christa Mackinnon</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbz2bump/32.2-3">Volume 32, issue 2: Shamanic Dreams</a></span>
-                        </div>
-                    </div>
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@davidsparenberg">
+                        <img
+                            src="../images/thumb-author-david-sparenberg.jpg"
+                            alt="David Sparenberg"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
                 </div>
                  
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         David Sparenberg 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> October 2012 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6zfredb"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zfredb/reading-the-red-book-review'"
-    style="transform: translate3d(0px, 500px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@davidsparenberg">
-                            <img
-                                src="../images/thumb-author-david-sparenberg.jpg"
-                                alt="David Sparenberg"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             David Sparenberg 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> October 2012 </div>
-                </div>
-            </div>
+        <h3 class="card-title">
+            <a href="../bcpov6zfredb/reading-the-red-book-review">Reading the Red Book: An Interpretive Guide to CG Jung’s Liber Novus by Sanford L. Drob</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/post-bcpov6zfredb-0.jpg" alt="profile image" class="Post-profile-img" />
         </div>
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zfredb/reading-the-red-book-review">Reading the Red Book: An Interpretive Guide to CG Jung’s Liber Novus by Sanford L. Drob</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/post-bcpov6zfredb-0.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
+        <div class="card-body-text">
+            <p> 
 
 <p>
 
@@ -457,89 +459,87 @@
 <p><strong></strong> </p>
 
 <p><strong></strong> </p> </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@davidsparenberg">David Sparenberg</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@davidsparenberg">David Sparenberg</a></span>
                     </div>
                 </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbzrw57c/31.4">Volume 31, issue 4: Dreaming Humanity's Path</a></span>
-                        </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbzrw57c/31.4">Volume 31, issue 4: Dreaming Humanity's Path</a></span>
                     </div>
                 </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6zftber"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6zftber/thomas-berry-dreamer-of-the-earth-book-review'"
+                    style="transform: translate3d(0px, 1000px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@davidsparenberg">
+                        <img
+                            src="../images/thumb-author-david-sparenberg.jpg"
+                            alt="David Sparenberg"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         David Sparenberg 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> July 2012 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6zftber"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zftber/thomas-berry-dreamer-of-the-earth-book-review'"
-    style="transform: translate3d(0px, 1000px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@davidsparenberg">
-                            <img
-                                src="../images/thumb-author-david-sparenberg.jpg"
-                                alt="David Sparenberg"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             David Sparenberg 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> July 2012 </div>
-                </div>
-            </div>
+        <h3 class="card-title">
+            <a href="../bcpov6zftber/thomas-berry-dreamer-of-the-earth-book-review">We are the Stones Dancing: Review of 'Thomas Berry, Dreamer of the Earth'</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/post-bcpov6zftber-0.jpg" alt="profile image" class="Post-profile-img" />
         </div>
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zftber/thomas-berry-dreamer-of-the-earth-book-review">We are the Stones Dancing: Review of 'Thomas Berry, Dreamer of the Earth'</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/post-bcpov6zftber-0.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
+        <div class="card-body-text">
+            <p> 
 
 <p>
 
@@ -618,31 +618,34 @@
 </blockquote>
 
 <p> <em></em></p> </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@davidsparenberg">David Sparenberg</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbzoxivb/31.3">Volume 31, issue 3: Dreaming Politics</a></span>
-                        </div>
-                    </div>
-                </div>
-                 
-            </div>
         </div>
     </div>
-</div>   
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@davidsparenberg">David Sparenberg</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbzoxivb/31.3">Volume 31, issue 3: Dreaming Politics</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <!-- Posts about the thing -->
+                
             </div>
         </div>
         

@@ -42,8 +42,8 @@
         />
         <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet" />
         <!-- SCRIPTS -->
-        <!-- <script src="../scripts/masonry.min.js"></script> -->
         <script src="../scripts/minimasonry.min.js"></script>
+        <script src="../scripts/toggle-type.js"></script>
         <!-- FAVICON -->
         <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
         <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
@@ -168,7 +168,6 @@
         </div>
         
         <h1 id="item-heading">Laura Atkinson</h1>
-
         <div id="page-description-text"><p>Website: <a href="http://camerawilltravel.com/">camerawilltravel.com</a></p>
 
 <p>My career started as a photojournalist for a weekly town newspaper. My style has evolved to include nature, dreamscapes, landscapes, and travel &amp; tourism. I’ve been awarded grants and won awards for my imagery, and have exhibited on both coasts of the United States.</p>
@@ -189,58 +188,67 @@
         <!-- hacks -->
         
         <div class="page-section">
+            <div class="type-toggle-pill-area">
+                <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
+                    Articles by Laura Atkinson
+                </button>
+                <button class="tag type-toggle-pill hasTopic" onclick="showArticles('hasTopic')">
+                    Articles about Laura Atkinson
+                </button>
+            </div>
             <div class="page-items main-grid">
-                   <div
-    id="bcpov6zflies"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zflies/if-nothing-ever-changed-there-would-be-no-butterflies'"
-    style="transform: translate3d(0px, 0px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@lauraatkinson">
-                            <img
-                                src="../images/thumb-author-laura-atkinson.jpg"
-                                alt="Laura Atkinson"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+                  
+                <div
+                    id="bcpov6zflies"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6zflies/if-nothing-ever-changed-there-would-be-no-butterflies'"
+                    style="transform: translate3d(0px, 0px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@lauraatkinson">
+                        <img
+                            src="../images/thumb-author-laura-atkinson.jpg"
+                            alt="Laura Atkinson"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Laura Atkinson 
+                    </span>
+
                      
                 </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Laura Atkinson 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> July 2010 </div>
-                </div>
+                <div class="card-date"> July 2010 </div>
             </div>
         </div>
+    </div>
+    
+    <div class="card-body">
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zflies/if-nothing-ever-changed-there-would-be-no-butterflies">If Nothing Ever Changed, There Would Be No Butterflies: Reflections on Butterflies, Dreams & Synchronicity</a>
-            </h3>
-             
-            <div class="card-body-text">
-                <p> 
+        <h3 class="card-title">
+            <a href="../bcpov6zflies/if-nothing-ever-changed-there-would-be-no-butterflies">If Nothing Ever Changed, There Would Be No Butterflies: Reflections on Butterflies, Dreams & Synchronicity</a>
+        </h3>
+         
+        <div class="card-body-text">
+            <p> 
 
 <p>
 
@@ -283,31 +291,34 @@
 
 
  </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@lauraatkinson">Laura Atkinson</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbyukqzw/29.3">Volume 29, issue 3: Dreams and Art</a></span>
-                        </div>
-                    </div>
-                </div>
-                 
-            </div>
         </div>
     </div>
-</div>   
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@lauraatkinson">Laura Atkinson</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbyukqzw/29.3">Volume 29, issue 3: Dreams and Art</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <!-- Posts about the thing -->
+                
             </div>
         </div>
         

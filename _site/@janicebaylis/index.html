@@ -42,8 +42,8 @@
         />
         <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet" />
         <!-- SCRIPTS -->
-        <!-- <script src="../scripts/masonry.min.js"></script> -->
         <script src="../scripts/minimasonry.min.js"></script>
+        <script src="../scripts/toggle-type.js"></script>
         <!-- FAVICON -->
         <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
         <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
@@ -168,7 +168,6 @@
         </div>
         
         <h1 id="item-heading">Janice Baylis</h1>
-
         <div id="page-description-text"><p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." <a href="../@stanleykrippner">Stanley Krippner, PhD.</a> Professor of Psychology, Saybrook University</p>
 
 <p>How I, Janice Baylis, got interested in dreams: In 1959 a fellow teacher had major surgery. We set up a car pool where I picked her up in a strip mall parking lot and drove the 30 miles to our school.  One morning Mabel phoned and asked me to meet her around the corner on the residential street.  She said she didn't like her car taking up space in the store lot all day. I said, "Okay."</p>
@@ -189,91 +188,99 @@
         <!-- hacks -->
         
         <div class="page-section">
+            <div class="type-toggle-pill-area">
+                <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
+                    Articles by Janice Baylis
+                </button>
+                <button class="tag type-toggle-pill hasTopic" onclick="showArticles('hasTopic')">
+                    Articles about Janice Baylis
+                </button>
+            </div>
             <div class="page-items main-grid">
-                   <div
-    id="bcpov6pacmm"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6pacmm/relationship-dreams'"
-    style="transform: translate3d(0px, 0px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@janicebaylis">
-                            <img
-                                src="../images/thumb-author-janicebaylis.jpg"
-                                alt="Janice Baylis"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Janice Baylis 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> January 2005 </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6pacmm/relationship-dreams">Relationship Dreams: Insight into Family - Friends - Co-workers</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/relationship-dreams-sml.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> <p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf">View online</a> </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
+                  
+                <div
+                    id="bcpov6pacmm"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6pacmm/relationship-dreams'"
+                    style="transform: translate3d(0px, 0px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@janicebaylis">Janice Baylis</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcpov6pspec/special-publications">Special publications</a></span>
-                        </div>
-                    </div>
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@janicebaylis">
+                        <img
+                            src="../images/thumb-author-janicebaylis.jpg"
+                            alt="Janice Baylis"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
                 </div>
                  
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Janice Baylis 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> January 2005 </div>
             </div>
         </div>
     </div>
-</div>   
+    
+    <div class="card-body">
+        
+        <h3 class="card-title">
+            <a href="../bcpov6pacmm/relationship-dreams">Relationship Dreams: Insight into Family - Friends - Co-workers</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/relationship-dreams-sml.jpg" alt="profile image" class="Post-profile-img" />
+        </div>
+        
+        <div class="card-body-text">
+            <p> <p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf" download="">Download</a><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.relationship-dreams.pdf">View online</a> </p>
+        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@janicebaylis">Janice Baylis</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcpov6pspec/special-publications">Special publications</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <!-- Posts about the thing -->
+                
             </div>
         </div>
         

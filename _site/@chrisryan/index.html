@@ -42,8 +42,8 @@
         />
         <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet" />
         <!-- SCRIPTS -->
-        <!-- <script src="../scripts/masonry.min.js"></script> -->
         <script src="../scripts/minimasonry.min.js"></script>
+        <script src="../scripts/toggle-type.js"></script>
         <!-- FAVICON -->
         <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
         <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
@@ -166,7 +166,6 @@
         </div>
         
         <h1 id="item-heading">Christopher Ryan</h1>
-
         <div id="page-description-text"><p>Website: <a href="https://chrisryanphd.com/">chrisryanphd.com</a></p>
 
 <p>Christopher and his work have been featured just about everywhere, including Netflix, HBO, MSNBC, Fox News, CNN, NPR, <strong><em>The New York Times</em></strong>, <strong><em>The Times of London</em></strong>, <strong><em>Playboy</em></strong>, <strong><em>The Washington Post</em></strong>, <strong><em>Time</em></strong>, <strong><em>Newsweek</em></strong>, and <strong><em>The Atlantic</em></strong>. Chris has been a featured speaker at TED, SXSW, The Festival of Dangerous Ideas at the Sydney Opera House, the Einstein Forum in Pottsdam, Germany, and is a frequent guest on The Joe Rogan Experience and many other podcasts. He’s also provided expert testimony in a Canadian constitutional hearing and appeared in dozens of documentary films and television shows.</p>
@@ -182,89 +181,95 @@
         
         <!-- hacks -->
         
-        <div class="page-items main-grid">
-               <div
-    id="bcpoz1jotrtm"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpoz1jotrtm/jinns-on-the-road-to-morocco'"
-    style="transform: translate3d(0px, 0px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@stanleykrippner">
-                            <img
-                                src="../images/thumb-author-stanley-krippner.jpg"
-                                alt="Dr. Stanley Krippner"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+        <div class="page-section">
+            <div class="type-toggle-pill-area">
+                <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
+                    Articles by Christopher Ryan
+                </button>
+                <button class="tag type-toggle-pill hasTopic" onclick="showArticles('hasTopic')">
+                    Articles about Christopher Ryan
+                </button>
+            </div>
+            <div class="page-items main-grid">
+                  
+                <div
+                    id="bcpoz1jotrtm"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpoz1jotrtm/jinns-on-the-road-to-morocco'"
+                    style="transform: translate3d(0px, 0px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 20px"
-                    >
-                        
-                        <a href="../@chrisryan">
-                            <img
-                                src="../images/thumb-author-chris-ryan.jpg"
-                                alt="Christopher Ryan"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+                    <a href="../@stanleykrippner">
+                        <img
+                            src="../images/thumb-author-stanley-krippner.jpg"
+                            alt="Dr. Stanley Krippner"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 20px"
+                >
+                    
+                    <a href="../@chrisryan">
+                        <img
+                            src="../images/thumb-author-chris-ryan.jpg"
+                            alt="Christopher Ryan"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 30px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Dr. Stanley Krippner 
+                    </span>
+
+                     
+                    <span>,</span>
+                    
+
+                    <span>
+                         Christopher Ryan 
+                    </span>
+
                      
                 </div>
-                <div class="card-header-text" style="padding-left: 30px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Dr. Stanley Krippner 
-                        </span>
-
-                         
-                        <span>,</span>
-                        
-
-                        <span>
-                             Christopher Ryan 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> April 2004 </div>
-                </div>
+                <div class="card-date"> April 2004 </div>
             </div>
         </div>
+    </div>
+    
+    <div class="card-body">
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpoz1jotrtm/jinns-on-the-road-to-morocco">Jinns on the Road to Morocco</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/krippner-jinns-1.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
+        <h3 class="card-title">
+            <a href="../bcpoz1jotrtm/jinns-on-the-road-to-morocco">Jinns on the Road to Morocco</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/krippner-jinns-1.jpg" alt="profile image" class="Post-profile-img" />
+        </div>
+        
+        <div class="card-body-text">
+            <p> 
 
 <p>
 
@@ -311,112 +316,114 @@
 
 
 <p><em> <a href="https://www.saybrook.edu/"></a> </em></p> </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@stanleykrippner">Dr. Stanley Krippner</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@stanleykrippner">Dr. Stanley Krippner</a></span>
                     </div>
+                </div>
+            </div>
+            
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@chrisryan">Christopher Ryan</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbv6y2vp/23.2">Volume 23, issue 2: Creative Dreamwork</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6kmyth2"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6kmyth2/personal-mythology-part-II'"
+                    style="transform: translate3d(0px, 500px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@stanleykrippner">
+                        <img
+                            src="../images/thumb-author-stanley-krippner.jpg"
+                            alt="Dr. Stanley Krippner"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
                 </div>
                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@chrisryan">Christopher Ryan</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbv6y2vp/23.2">Volume 23, issue 2: Creative Dreamwork</a></span>
-                        </div>
-                    </div>
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 20px"
+                >
+                    
+                    <a href="../@chrisryan">
+                        <img
+                            src="../images/thumb-author-chris-ryan.jpg"
+                            alt="Christopher Ryan"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
                 </div>
                  
+            </div>
+            <div class="card-header-text" style="padding-left: 30px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Dr. Stanley Krippner 
+                    </span>
+
+                     
+                    <span>,</span>
+                    
+
+                    <span>
+                         Christopher Ryan 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> July 1999 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6kmyth2"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6kmyth2/personal-mythology-part-II'"
-    style="transform: translate3d(0px, 500px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@stanleykrippner">
-                            <img
-                                src="../images/thumb-author-stanley-krippner.jpg"
-                                alt="Dr. Stanley Krippner"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                    
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 20px"
-                    >
-                        
-                        <a href="../@chrisryan">
-                            <img
-                                src="../images/thumb-author-chris-ryan.jpg"
-                                alt="Christopher Ryan"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 30px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Dr. Stanley Krippner 
-                        </span>
-
-                         
-                        <span>,</span>
-                        
-
-                        <span>
-                             Christopher Ryan 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> July 1999 </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6kmyth2/personal-mythology-part-II">Personal Mythology Part II</a>
-            </h3>
-             
-            <div class="card-body-text">
-                <p> <p>In <a href="../bcpov6kmyth1">Part 1 of this article</a> (Dream Network, Vol. 17 No. 3), we presented some concepts and techniques you can use to recognize several different typ<span class='read-more'> ...read more</span></p>
+        <h3 class="card-title">
+            <a href="../bcpov6kmyth2/personal-mythology-part-II">Personal Mythology Part II</a>
+        </h3>
+         
+        <div class="card-body-text">
+            <p> <p>In <a href="../bcpov6kmyth1">Part 1 of this article</a> (Dream Network, Vol. 17 No. 3), we presented some concepts and techniques you can use to recognize several different typ<span class='read-more'> ...read more</span></p>
 
 
 
@@ -473,112 +480,114 @@
 
 
 <p><em> <a href="../@davidfeinstein"></a>  <a href="../bcpov6kmyth1"></a> </em></p> </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@stanleykrippner">Dr. Stanley Krippner</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@stanleykrippner">Dr. Stanley Krippner</a></span>
                     </div>
+                </div>
+            </div>
+            
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@chrisryan">Christopher Ryan</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbt33uhn/18.4">Volume 18, issue 4: Preparing for the Millennium</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6kmyth1"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6kmyth1/dreams-as-a-mirror-of-change-in-personal-mythology'"
+                    style="transform: translate3d(0px, 1000px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@stanleykrippner">
+                        <img
+                            src="../images/thumb-author-stanley-krippner.jpg"
+                            alt="Dr. Stanley Krippner"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
                 </div>
                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@chrisryan">Christopher Ryan</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbt33uhn/18.4">Volume 18, issue 4: Preparing for the Millennium</a></span>
-                        </div>
-                    </div>
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 20px"
+                >
+                    
+                    <a href="../@chrisryan">
+                        <img
+                            src="../images/thumb-author-chris-ryan.jpg"
+                            alt="Christopher Ryan"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
                 </div>
                  
+            </div>
+            <div class="card-header-text" style="padding-left: 30px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Dr. Stanley Krippner 
+                    </span>
+
+                     
+                    <span>,</span>
+                    
+
+                    <span>
+                         Christopher Ryan 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> July 1998 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6kmyth1"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6kmyth1/dreams-as-a-mirror-of-change-in-personal-mythology'"
-    style="transform: translate3d(0px, 1000px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@stanleykrippner">
-                            <img
-                                src="../images/thumb-author-stanley-krippner.jpg"
-                                alt="Dr. Stanley Krippner"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                    
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 20px"
-                    >
-                        
-                        <a href="../@chrisryan">
-                            <img
-                                src="../images/thumb-author-chris-ryan.jpg"
-                                alt="Christopher Ryan"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 30px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Dr. Stanley Krippner 
-                        </span>
-
-                         
-                        <span>,</span>
-                        
-
-                        <span>
-                             Christopher Ryan 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> July 1998 </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6kmyth1/dreams-as-a-mirror-of-change-in-personal-mythology">Dreams as a Mirror of Change in Personal Mythology</a>
-            </h3>
-             
-            <div class="card-body-text">
-                <p> <p>The word "myth" has been tainted by common usage in which it has come to refer to a falsehood. This is unfortunate for each of us as individuals<span class='read-more'> ...read more</span></p>
+        <h3 class="card-title">
+            <a href="../bcpov6kmyth1/dreams-as-a-mirror-of-change-in-personal-mythology">Dreams as a Mirror of Change in Personal Mythology</a>
+        </h3>
+         
+        <div class="card-body-text">
+            <p> <p>The word "myth" has been tainted by common usage in which it has come to refer to a falsehood. This is unfortunate for each of us as individuals<span class='read-more'> ...read more</span></p>
 
 
 
@@ -615,39 +624,43 @@
 
 
 <p><em> <a href="../@davidfeinstein"></a>  <a href="../bcpov6kmyth2"></a> </em></p> </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@stanleykrippner">Dr. Stanley Krippner</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@chrisryan">Christopher Ryan</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbte5ugv/17.3">Volume 17, issue 3: Exploring Dreams' Relationship to Mythology</a></span>
-                        </div>
-                    </div>
-                </div>
-                 
-            </div>
         </div>
     </div>
-</div>   
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@stanleykrippner">Dr. Stanley Krippner</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@chrisryan">Christopher Ryan</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbte5ugv/17.3">Volume 17, issue 3: Exploring Dreams' Relationship to Mythology</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <!-- Posts about the thing -->
+                
+            </div>
         </div>
         
     </div>

@@ -42,8 +42,8 @@
         />
         <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet" />
         <!-- SCRIPTS -->
-        <!-- <script src="../scripts/masonry.min.js"></script> -->
         <script src="../scripts/minimasonry.min.js"></script>
+        <script src="../scripts/toggle-type.js"></script>
         <!-- FAVICON -->
         <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
         <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
@@ -168,7 +168,6 @@
         </div>
         
         <h1 id="item-heading">Bob Trowbridge</h1>
-
         <div id="page-description-text"><p>Website: <a href="http://www.bobtrowbridge.com/about.html">bobtrowbridge.com</a></p>
 
 <p>Bob was editor of the Dream Network Bulletin alongside Linda Magallón from 1987-1989. He graduated from San Francisco Theological Seminary in 1968 and was ordained as a Presbyterian minister. His ongoing spiritual seeking led him to leave the ministery. Since that time he has studied many spiritual systems and is a perpetual spiritual seeker. </p>
@@ -185,89 +184,94 @@
         <!-- hacks -->
         
         <div class="page-section">
+            <div class="type-toggle-pill-area">
+                <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
+                    Articles by Bob Trowbridge
+                </button>
+                <button class="tag type-toggle-pill hasTopic" onclick="showArticles('hasTopic')">
+                    Articles about Bob Trowbridge
+                </button>
+            </div>
             <div class="page-items main-grid">
-                   <div
-    id="bcpov6trowi2"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6trowi2/dream-wizard-an-interview-with-bob-trowbridge'"
-    style="transform: translate3d(0px, 0px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@jillgregory">
-                            <img
-                                src="../images/thumb-author-jill-gregory.jpg"
-                                alt="Jill Gregory"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+                  
+                <div
+                    id="bcpov6trowi2"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6trowi2/dream-wizard-an-interview-with-bob-trowbridge'"
+                    style="transform: translate3d(0px, 0px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 20px"
-                    >
-                        
-                        <a href="../@bobtrowbridge">
-                            <img
-                                src="../images/thumb-author-bob-trowbridge.jpg"
-                                alt="Bob Trowbridge"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+                    <a href="../@jillgregory">
+                        <img
+                            src="../images/thumb-author-jill-gregory.jpg"
+                            alt="Jill Gregory"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 20px"
+                >
+                    
+                    <a href="../@bobtrowbridge">
+                        <img
+                            src="../images/thumb-author-bob-trowbridge.jpg"
+                            alt="Bob Trowbridge"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 30px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Jill Gregory 
+                    </span>
+
+                     
+                    <span>,</span>
+                    
+
+                    <span>
+                         Bob Trowbridge 
+                    </span>
+
                      
                 </div>
-                <div class="card-header-text" style="padding-left: 30px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Jill Gregory 
-                        </span>
-
-                         
-                        <span>,</span>
-                        
-
-                        <span>
-                             Bob Trowbridge 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> July 1987 </div>
-                </div>
+                <div class="card-date"> July 1987 </div>
             </div>
         </div>
+    </div>
+    
+    <div class="card-body">
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6trowi2/dream-wizard-an-interview-with-bob-trowbridge">Dream Wizard: An Interview of DNB Editor Bob Trowbridge</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/post-bcpov6trowi2-0.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
+        <h3 class="card-title">
+            <a href="../bcpov6trowi2/dream-wizard-an-interview-with-bob-trowbridge">Dream Wizard: An Interview of DNB Editor Bob Trowbridge</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/post-bcpov6trowi2-0.jpg" alt="profile image" class="Post-profile-img" />
+        </div>
+        
+        <div class="card-body-text">
+            <p> 
 
 <p>
 
@@ -310,39 +314,42 @@
 </blockquote>
 
 <p> <em></em>  <em></em> </p> </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@jillgregory">Jill Gregory</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@bobtrowbridge">Bob Trowbridge</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbm5mept/6.2">Volume 6, issue 2</a></span>
-                        </div>
-                    </div>
-                </div>
-                 
-            </div>
         </div>
     </div>
-</div>   
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@jillgregory">Jill Gregory</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@bobtrowbridge">Bob Trowbridge</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbm5mept/6.2">Volume 6, issue 2</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <!-- Posts about the thing -->
+                
             </div>
         </div>
         

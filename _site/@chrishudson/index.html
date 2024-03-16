@@ -42,8 +42,8 @@
         />
         <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet" />
         <!-- SCRIPTS -->
-        <!-- <script src="../scripts/masonry.min.js"></script> -->
         <script src="../scripts/minimasonry.min.js"></script>
+        <script src="../scripts/toggle-type.js"></script>
         <!-- FAVICON -->
         <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
         <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
@@ -168,7 +168,6 @@
         </div>
         
         <h1 id="item-heading">Chris Hudson</h1>
-
         <div id="page-description-text"><p>Chris Hudson was the second editor of the <em>Dream Network Bulletin</em> in New York from 1983-85. His wife, <a href="../@dalegottlieb">Dale Gottlieb</a>, was the Bulletin's illustrator.</p>
 
 <p>Chris and Dale currently live in Washington, and have two sons, Blake and Hill.</p>
@@ -180,66 +179,72 @@
         
         <!-- hacks -->
         
-        <div class="page-items main-grid">
-               <div
-    id="bcpov6krfish"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6krfish/fishing'"
-    style="transform: translate3d(0px, 0px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@chrishudson">
-                            <img
-                                src="../images/thumb-author-chrishudson.jpg"
-                                alt="Chris Hudson"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+        <div class="page-section">
+            <div class="type-toggle-pill-area">
+                <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
+                    Articles by Chris Hudson
+                </button>
+                <button class="tag type-toggle-pill hasTopic" onclick="showArticles('hasTopic')">
+                    Articles about Chris Hudson
+                </button>
+            </div>
+            <div class="page-items main-grid">
+                  
+                <div
+                    id="bcpov6krfish"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6krfish/fishing'"
+                    style="transform: translate3d(0px, 0px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@chrishudson">
+                        <img
+                            src="../images/thumb-author-chrishudson.jpg"
+                            alt="Chris Hudson"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Chris Hudson 
+                    </span>
+
                      
                 </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Chris Hudson 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> April 1990 </div>
-                </div>
+                <div class="card-date"> April 1990 </div>
             </div>
         </div>
+    </div>
+    
+    <div class="card-body">
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6krfish/fishing">Fishing</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/post-bcpov6krfish-0.png"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
+        <h3 class="card-title">
+            <a href="../bcpov6krfish/fishing">Fishing</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/post-bcpov6krfish-0.png" alt="profile image" class="Post-profile-img" />
+        </div>
+        
+        <div class="card-body-text">
+            <p> 
 
 <p>I have two sons. Hill is 6 months and Blake, 3 years old. They have caused my wife, Dale and I many happy days with much pleasure, as well as ma<span class='read-more'> ...read more</span></p>
 
@@ -260,81 +265,83 @@
 
 
  </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@chrishudson">Chris Hudson</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@chrishudson">Chris Hudson</a></span>
                     </div>
                 </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbolab5r/9.2">Volume 9, issue 2: Dreams, Passages & The Family</a></span>
-                        </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbolab5r/9.2">Volume 9, issue 2: Dreams, Passages & The Family</a></span>
                     </div>
                 </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6kruten"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6kruten/ten-reasons-to-get-help-from-a-dream-group'"
+                    style="transform: translate3d(0px, 500px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@chrishudson">
+                        <img
+                            src="../images/thumb-author-chrishudson.jpg"
+                            alt="Chris Hudson"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Chris Hudson 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> January 1990 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6kruten"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6kruten/ten-reasons-to-get-help-from-a-dream-group'"
-    style="transform: translate3d(0px, 500px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@chrishudson">
-                            <img
-                                src="../images/thumb-author-chrishudson.jpg"
-                                alt="Chris Hudson"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Chris Hudson 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> January 1990 </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6kruten/ten-reasons-to-get-help-from-a-dream-group">Ten Reasons to Get Help from a Dream Group</a>
-            </h3>
-             
-            <div class="card-body-text">
-                <p> <p>According to a front page article in the July 1988 <em>New York Times</em>, an estimated 12 to 15 million North Americans are members of self-help organiz<span class='read-more'> ...read more</span></p>
+        <h3 class="card-title">
+            <a href="../bcpov6kruten/ten-reasons-to-get-help-from-a-dream-group">Ten Reasons to Get Help from a Dream Group</a>
+        </h3>
+         
+        <div class="card-body-text">
+            <p> <p>According to a front page article in the July 1988 <em>New York Times</em>, an estimated 12 to 15 million North Americans are members of self-help organiz<span class='read-more'> ...read more</span></p>
 
 
 
@@ -381,89 +388,87 @@
 
 
  </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@chrishudson">Chris Hudson</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@chrishudson">Chris Hudson</a></span>
                     </div>
                 </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbohoqoq/9.1">Volume 9, issue 1: Making Dreams Real</a></span>
-                        </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbohoqoq/9.1">Volume 9, issue 1: Making Dreams Real</a></span>
                     </div>
                 </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6krudnb"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6krudnb/the-dream-network-bulletin'"
+                    style="transform: translate3d(0px, 1000px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@chrishudson">
+                        <img
+                            src="../images/thumb-author-chrishudson.jpg"
+                            alt="Chris Hudson"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Chris Hudson 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> May 1985 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6krudnb"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6krudnb/the-dream-network-bulletin'"
-    style="transform: translate3d(0px, 1000px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@chrishudson">
-                            <img
-                                src="../images/thumb-author-chrishudson.jpg"
-                                alt="Chris Hudson"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Chris Hudson 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> May 1985 </div>
-                </div>
-            </div>
+        <h3 class="card-title">
+            <a href="../bcpov6krudnb/the-dream-network-bulletin">The Dream Network Bulletin</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/post-bcpov6krudnb-0.png" alt="profile image" class="Post-profile-img" />
         </div>
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6krudnb/the-dream-network-bulletin">The Dream Network Bulletin</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/post-bcpov6krudnb-0.png"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
+        <div class="card-body-text">
+            <p> 
 
 <p>
 
@@ -480,89 +485,87 @@
 
 
 <p> <em></em> </p> </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@chrishudson">Chris Hudson</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@chrishudson">Chris Hudson</a></span>
                     </div>
                 </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphblwwuy6/4.3">Volume 4, issue 3</a></span>
-                        </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphblwwuy6/4.3">Volume 4, issue 3</a></span>
                     </div>
                 </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6krfi36"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6krfi36/editorial-3-6'"
+                    style="transform: translate3d(0px, 1500px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@chrishudson">
+                        <img
+                            src="../images/thumb-author-chrishudson.jpg"
+                            alt="Chris Hudson"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Chris Hudson 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> November 1984 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6krfi36"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6krfi36/editorial-3-6'"
-    style="transform: translate3d(0px, 1500px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@chrishudson">
-                            <img
-                                src="../images/thumb-author-chrishudson.jpg"
-                                alt="Chris Hudson"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Chris Hudson 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> November 1984 </div>
-                </div>
-            </div>
+        <h3 class="card-title">
+            <a href="../bcpov6krfi36/editorial-3-6">Editorial, Issue 3.6</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/editorial-3-6.jpg" alt="profile image" class="Post-profile-img" />
         </div>
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6krfi36/editorial-3-6">Editorial, Issue 3.6</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/editorial-3-6.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
+        <div class="card-body-text">
+            <p> 
 
 <p>It is a cold, windy day in Brooklyn as I write this. My dreams this morning remain in the back of my mind, unwritten and unfortunately, soon to <span class='read-more'> ...read more</span></p>
 
@@ -605,81 +608,83 @@
 
 
 <p><em></em></p> </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@chrishudson">Chris Hudson</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@chrishudson">Chris Hudson</a></span>
                     </div>
                 </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphblnikds/3.6">Volume 3, issue 6</a></span>
-                        </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphblnikds/3.6">Volume 3, issue 6</a></span>
                     </div>
                 </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6krfise"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6krfise/editorial'"
+                    style="transform: translate3d(0px, 2000px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@chrishudson">
+                        <img
+                            src="../images/thumb-author-chrishudson.jpg"
+                            alt="Chris Hudson"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Chris Hudson 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> July 1984 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6krfise"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6krfise/editorial'"
-    style="transform: translate3d(0px, 2000px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@chrishudson">
-                            <img
-                                src="../images/thumb-author-chrishudson.jpg"
-                                alt="Chris Hudson"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Chris Hudson 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> July 1984 </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6krfise/editorial">Editorial, Issue 3.4</a>
-            </h3>
-             
-            <div class="card-body-text">
-                <p> <p>Another issue in your mailboxes - I hope you like it. If the typeface seems a little uneven it's because we are trying out some different "looks<span class='read-more'> ...read more</span> <a href="../@dalegottlieb"></a> </p>
+        <h3 class="card-title">
+            <a href="../bcpov6krfise/editorial">Editorial, Issue 3.4</a>
+        </h3>
+         
+        <div class="card-body-text">
+            <p> <p>Another issue in your mailboxes - I hope you like it. If the typeface seems a little uneven it's because we are trying out some different "looks<span class='read-more'> ...read more</span> <a href="../@dalegottlieb"></a> </p>
 
 <p> <a href="../@billstimson"></a> <a href="../@robertwaggoner"></a></p>
 
@@ -704,81 +709,83 @@
 <p> <strong></strong> </p>
 
 <p><em></em></p> </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@chrishudson">Chris Hudson</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@chrishudson">Chris Hudson</a></span>
                     </div>
                 </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbliwn3u/3.4">Volume 3, issue 4</a></span>
-                        </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbliwn3u/3.4">Volume 3, issue 4</a></span>
                     </div>
                 </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6krusep"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6krusep/separation-is-the-problem'"
+                    style="transform: translate3d(0px, 2500px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@chrishudson">
+                        <img
+                            src="../images/thumb-author-chrishudson.jpg"
+                            alt="Chris Hudson"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Chris Hudson 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> December 1983 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6krusep"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6krusep/separation-is-the-problem'"
-    style="transform: translate3d(0px, 2500px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@chrishudson">
-                            <img
-                                src="../images/thumb-author-chrishudson.jpg"
-                                alt="Chris Hudson"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Chris Hudson 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> December 1983 </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6krusep/separation-is-the-problem">Separation is the Problem</a>
-            </h3>
-             
-            <div class="card-body-text">
-                <p> <p>[Letter to the editor] </p>
+        <h3 class="card-title">
+            <a href="../bcpov6krusep/separation-is-the-problem">Separation is the Problem</a>
+        </h3>
+         
+        <div class="card-body-text">
+            <p> <p>[Letter to the editor] </p>
 
 <p>The crucial aspect of dreamwork to me is its personal, humane approach. Our dreams help us to understand ourselves and rel<span class='read-more'> ...read more</span> </p>
 
@@ -789,31 +796,35 @@
 <p> </p>
 
  </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@chrishudson">Chris Hudson</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbklgsln/2.11">Volume 2, issue 11</a></span>
-                        </div>
-                    </div>
-                </div>
-                 
-            </div>
         </div>
     </div>
-</div>   
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@chrishudson">Chris Hudson</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbklgsln/2.11">Volume 2, issue 11</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <!-- Posts about the thing -->
+                
+            </div>
         </div>
         
     </div>

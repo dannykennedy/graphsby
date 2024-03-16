@@ -32,6 +32,14 @@
     display: none;
 }
 
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
 #item-heading {
     text-align: center;
     font-family: "Passion", "Courier New", serif;
@@ -222,4 +230,22 @@ li p {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+/* TOGGLE BUTTONS */
+
+.type-toggle-pill-area {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 1rem;
+}
+
+button.type-toggle-pill {
+    cursor: pointer;
+}
+
+button.type-toggle-pill.active {
+    color: #f8f8f8;
+    background-color: #444;
 }

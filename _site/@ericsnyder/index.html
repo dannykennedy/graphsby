@@ -42,8 +42,8 @@
         />
         <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet" />
         <!-- SCRIPTS -->
-        <!-- <script src="../scripts/masonry.min.js"></script> -->
         <script src="../scripts/minimasonry.min.js"></script>
+        <script src="../scripts/toggle-type.js"></script>
         <!-- FAVICON -->
         <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
         <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
@@ -166,7 +166,6 @@
         </div>
         
         <h1 id="item-heading">Eric Snyder</h1>
-
         <div id="page-description-text"><p>Eric Snyder is an artist, visionary, and culinarian. After studying art in North Carolina, he moved to the San Francisco Bay Area mentoring under renowned painters Bill Martin, Helvi Wamsley and Charles Becker. Working with master chefs in private clubs and restaurants he learned the art of fine cuisine.</p>
 
 <p>Snyder’s lifelong interest in dreams includes fifty years of dream journaling, published articles, and conference presentations. Leading the Bay Area Dreamworkers Group, he promoted dreamwork to the larger community, published the quarterly “Dream Newzzz”, and facilitated formation of peer dream sharing groups.</p>
@@ -181,81 +180,90 @@
         <!-- hacks -->
         
         <div class="page-section">
+            <div class="type-toggle-pill-area">
+                <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
+                    Articles by Eric Snyder
+                </button>
+                <button class="tag type-toggle-pill hasTopic" onclick="showArticles('hasTopic')">
+                    Articles about Eric Snyder
+                </button>
+            </div>
             <div class="page-items main-grid">
-                   <div
-    id="bcpov6zftens"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zftens/tending-to-the-soul-of-the-world'"
-    style="transform: translate3d(0px, 0px, 0px);"
->
-    <div class="inner-card Postcard">
-        
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@richardwilkerson">
-                            <img
-                                src="../images/thumb-author-richard-wilkerson.jpg"
-                                alt="Richard Wilkerson"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+                  
+                <div
+                    id="bcpov6zftens"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6zftens/tending-to-the-soul-of-the-world'"
+                    style="transform: translate3d(0px, 0px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
+                 
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 20px"
-                    >
-                        
-                        <a href="../@ericsnyder">
-                            <img
-                                src="../images/thumb-author-ericsnyder.jpg"
-                                alt="Eric Snyder"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
+                    <a href="../@richardwilkerson">
+                        <img
+                            src="../images/thumb-author-richard-wilkerson.jpg"
+                            alt="Richard Wilkerson"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 20px"
+                >
+                    
+                    <a href="../@ericsnyder">
+                        <img
+                            src="../images/thumb-author-ericsnyder.jpg"
+                            alt="Eric Snyder"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 30px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Richard Wilkerson 
+                    </span>
+
+                     
+                    <span>,</span>
+                    
+
+                    <span>
+                         Eric Snyder 
+                    </span>
+
                      
                 </div>
-                <div class="card-header-text" style="padding-left: 30px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Richard Wilkerson 
-                        </span>
-
-                         
-                        <span>,</span>
-                        
-
-                        <span>
-                             Eric Snyder 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> October 2002 </div>
-                </div>
+                <div class="card-date"> October 2002 </div>
             </div>
         </div>
+    </div>
+    
+    <div class="card-body">
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zftens/tending-to-the-soul-of-the-world">Tending to the Soul of the World: An Interview with Richard Wilkerson</a>
-            </h3>
-             
-            <div class="card-body-text">
-                <p> <p><strong>Eric Snyder:</strong> What, in your view, are the most significant benchmarks/ successes in terms of educating the public about dreams in the past 30-40 y<span class='read-more'> ...read more</span></p>
+        <h3 class="card-title">
+            <a href="../bcpov6zftens/tending-to-the-soul-of-the-world">Tending to the Soul of the World: An Interview with Richard Wilkerson</a>
+        </h3>
+         
+        <div class="card-body-text">
+            <p> <p><strong>Eric Snyder:</strong> What, in your view, are the most significant benchmarks/ successes in terms of educating the public about dreams in the past 30-40 y<span class='read-more'> ...read more</span></p>
 
 <p><strong></strong>  <em></em></p>
 
@@ -294,97 +302,95 @@
 
 
  </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@richardwilkerson">Richard Wilkerson</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@ericsnyder">Eric Snyder</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbvecgmx/21.4-22.1">Volume 21, issue 4: Evolution of the Dream Movement</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6zd3tcr"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6zd3tcr/dreams-and-creative-expression'"
+                    style="transform: translate3d(0px, 500px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@richardwilkerson">Richard Wilkerson</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@ericsnyder">Eric Snyder</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbvecgmx/21.4-22.1">Volume 21, issue 4: Evolution of the Dream Movement</a></span>
-                        </div>
-                    </div>
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@ericsnyder">
+                        <img
+                            src="../images/thumb-author-ericsnyder.jpg"
+                            alt="Eric Snyder"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
                 </div>
                  
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Eric Snyder 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> May 1988 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6zd3tcr"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zd3tcr/dreams-and-creative-expression'"
-    style="transform: translate3d(0px, 500px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@ericsnyder">
-                            <img
-                                src="../images/thumb-author-ericsnyder.jpg"
-                                alt="Eric Snyder"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Eric Snyder 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> May 1988 </div>
-                </div>
-            </div>
+        <h3 class="card-title">
+            <a href="../bcpov6zd3tcr/dreams-and-creative-expression">Dreams & Creative Expression</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/post-bcpov6zd3tcr-1.jpg" alt="profile image" class="Post-profile-img" />
         </div>
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zd3tcr/dreams-and-creative-expression">Dreams & Creative Expression</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/post-bcpov6zd3tcr-1.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> <p>Dreams provide us with an endless array of creative possibilities and promptings. Because they are unfettered with the limitations we put on our<span class='read-more'> ...read more</span></p>
+        <div class="card-body-text">
+            <p> <p>Dreams provide us with an endless array of creative possibilities and promptings. Because they are unfettered with the limitations we put on our<span class='read-more'> ...read more</span></p>
 
 
 
@@ -415,89 +421,87 @@
 
 
 </div> </p>
-            </div>
         </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@ericsnyder">Eric Snyder</a></span>
-                        </div>
+    </div>
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@ericsnyder">Eric Snyder</a></span>
                     </div>
                 </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbnodjs2/7.3">Volume 7, issue 3</a></span>
-                        </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbnodjs2/7.3">Volume 7, issue 3</a></span>
                     </div>
                 </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <div
+                    id="bcpov6zd3tdm"
+                    class="card item-card thumb-card grid-item hasTag show"
+                    onclick="window.location.href = '../bcpov6zd3tdm/the-dreamwork-movement'"
+                    style="transform: translate3d(0px, 1000px, 0px);"
+                >
+                    <div class="inner-card Postcard">
+    
+    <div class="card-header">
+        <div class="card-user-info">
+            <div class="card-avatar tooltip">
                  
+                <div
+                    class="avatar-photo"
+                    style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
+                >
+                    
+                    <a href="../@ericsnyder">
+                        <img
+                            src="../images/thumb-author-ericsnyder.jpg"
+                            alt="Eric Snyder"
+                            class="post-author-img"
+                        />
+                    </a>
+                    
+                </div>
+                 
+            </div>
+            <div class="card-header-text" style="padding-left: 10px">
+                <div class="card-author">
+                      
+
+                    <span>
+                         Eric Snyder 
+                    </span>
+
+                     
+                </div>
+                <div class="card-date"> November 1987 </div>
             </div>
         </div>
     </div>
-</div>    <div
-    id="bcpov6zd3tdm"
-    class="card item-card thumb-card grid-item"
-    onclick="window.location.href = '../bcpov6zd3tdm/the-dreamwork-movement'"
-    style="transform: translate3d(0px, 1000px, 0px);"
->
-    <div class="inner-card Postcard">
+    
+    <div class="card-body">
         
-        <div class="card-header">
-            <div class="card-user-info">
-                <div class="card-avatar tooltip">
-                     
-                    <div
-                        class="avatar-photo"
-                        style="background-color: rgb(246, 173, 97); position: absolute; left: 0px"
-                    >
-                        
-                        <a href="../@ericsnyder">
-                            <img
-                                src="../images/thumb-author-ericsnyder.jpg"
-                                alt="Eric Snyder"
-                                class="post-author-img"
-                            />
-                        </a>
-                        
-                    </div>
-                     
-                </div>
-                <div class="card-header-text" style="padding-left: 10px">
-                    <div class="card-author">
-                          
-
-                        <span>
-                             Eric Snyder 
-                        </span>
-
-                         
-                    </div>
-                    <div class="card-date"> November 1987 </div>
-                </div>
-            </div>
+        <h3 class="card-title">
+            <a href="../bcpov6zd3tdm/the-dreamwork-movement">The Dreamwork Movement</a>
+        </h3>
+         
+        <div class="profile-img-container">
+            <img src="../images/post-bcpov6zd3tdm-0.jpg" alt="profile image" class="Post-profile-img" />
         </div>
         
-        <div class="card-body">
-            
-            <h3 class="card-title">
-                <a href="../bcpov6zd3tdm/the-dreamwork-movement">The Dreamwork Movement</a>
-            </h3>
-             
-            <div class="profile-img-container">
-                <img
-                    src="../images/post-bcpov6zd3tdm-0.jpg"
-                    alt="profile image"
-                    class="Post-profile-img"
-                />
-            </div>
-            
-            <div class="card-body-text">
-                <p> 
+        <div class="card-body-text">
+            <p> 
 
 <p>Dreamwork has moved out of the ivory towers and into the neighborhoods. No longer does one need to lie on a psychiatrist's couch or study at a u<span class='read-more'> ...read more</span></p>
 
@@ -518,31 +522,34 @@
 
 
  </p>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="tags-area">
-                 
-                <div class="tag PERSON">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../@ericsnyder">Eric Snyder</a></span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="tag OTHER">
-                    <div class="tag-wrapper">
-                        <div class="tag-text">
-                            <span class="tag-name"><a href="../bcphbndh32i/6.4">Volume 6, issue 4</a></span>
-                        </div>
-                    </div>
-                </div>
-                 
-            </div>
         </div>
     </div>
-</div>   
+    <div class="card-footer">
+        <div class="tags-area">
+             
+            <div class="tag PERSON">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../@ericsnyder">Eric Snyder</a></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tag OTHER">
+                <div class="tag-wrapper">
+                    <div class="tag-text">
+                        <span class="tag-name"><a href="../bcphbndh32i/6.4">Volume 6, issue 4</a></span>
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</div>
+                </div>
+                  
+                <!-- Posts about the thing -->
+                
             </div>
         </div>
         

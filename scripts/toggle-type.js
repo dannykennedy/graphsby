@@ -2,9 +2,9 @@ function showArticles(articleTypeToShow) {
     console.log("showArticles called", articleTypeToShow);
 
     // Show only the articles of the type that was clicked
-    var articles = document.querySelectorAll(".article-wrapper");
+    var articles = document.querySelectorAll(".item-card");
     for (var i = 0; i < articles.length; i++) {
-        if (articles[i].getAttribute("data-type") === articleTypeToShow) {
+        if (articles[i].classList.contains(articleTypeToShow)) {
             // Add show class, remove hide class
             articles[i].classList.add("show");
             articles[i].classList.remove("hide");
@@ -27,11 +27,15 @@ function showArticles(articleTypeToShow) {
     }
 
     // // Initialize MiniMasonry
-    // var masonry = new MiniMasonry({
-    //     container: ".card-container",
-    //     baseWidth: 300,
-    //     gutter: 10,
-    // });
+    var mainMasonry = new MiniMasonry({
+        container: ".main-grid",
+        minify: false,
+        basewidth: 350,
+        gutterX: 20,
+        gutterY: 20,
+    });
+
+    mainMasonry.layout();
 
     // // Layout the articles
     // masonry.layout();

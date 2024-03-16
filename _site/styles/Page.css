@@ -247,6 +247,7 @@ button.type-toggle-pill.active {
         flex-direction: column;
     }
     button.type-toggle-pill {
-        width: 100%;
+        width: 90%;
+        margin: auto;
     }
 }

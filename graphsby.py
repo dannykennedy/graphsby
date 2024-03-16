@@ -339,9 +339,9 @@ for pyyam in file_objects:
 			item_to_page_relation = row[8].split("#")[1]
 			# Check if row[8] includes the string "featured"
 			# If so, add to featured items
-			if item_to_page_relation == 'hasTopic':
-				print('item_to_page_relation: ', end="")
-				print(item_to_page_relation)
+			# if item_to_page_relation == 'hasTopic':
+			# 	print('item_to_page_relation: ', end="")
+			# 	print(item_to_page_relation)
 
 		# Now find everything that this item is tagged with
 		# This is literally Inception

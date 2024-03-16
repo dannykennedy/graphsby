@@ -11390,8 +11390,8 @@ ns1:bcpov6zdbrvd a ns1:Post ;
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqerish ;
     ns1:hasTag ns1:bcphbnodjs2,
-        ns1:bcphbqerish,
-        ns1:bcphbqflull ;
+        ns1:bcphbqerish ;
+    ns1:hasTopic ns1:bcphbqflull ;
     ns1:inIssue ns1:bcphbnodjs2 ;
     ns1:itemId "bcpov6zdbrvd"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;

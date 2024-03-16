@@ -10,7 +10,7 @@ tags:
     - inIssue: 11.2
 type: post
 urlSlug: "mythic-world-of-the-shaman"
-profileImg: krippner-shamans-1.jpg
+profileImg: krippner-shamans-2.jpg
 ---
 
 <img src="../images/krippner-shamans-2.jpg" width="300px" height="auto" alt="mask"/>

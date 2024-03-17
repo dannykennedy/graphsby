@@ -16,6 +16,11 @@ p {
     line-height: 1.5rem;
 }
 
+h1 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+}
+
 #wrapper {
     padding: 75px 0px 15px 15px;
 }

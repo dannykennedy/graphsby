@@ -28,10 +28,10 @@
         />
         {% endif %}
         <meta name="author" content="Dream Network Journal" />
-        {% if render_item.coverImg %}
-        <meta property="og:image" content="../images/{{render_item.coverImg}}" />
-        {% elif render_item.profileImg %}
+        {% if render_item.profileImg %}
         <meta property="og:image" content="../images/{{render_item.profileImg}}" />
+        {% elif render_item.coverImg %}
+        <meta property="og:image" content="../images/{{render_item.coverImg}}" />
         {% else %}
         <meta property="og:image" content="../images/banner.jpg" />
         {% endif %}

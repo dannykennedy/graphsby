@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1"> 
         <title>{{render_item.name}} | The Dream Network Journal</title>
-        <link rel="canonical" href="{{canonical_url}}" />
+        <link rel="canonical" href="{{canonical_url}}">
         {% if render_item.metaDescription %}
-        <meta name="description" content="{{render_item.metaDescription}}" />
+        <meta name="description" content="{{render_item.metaDescription}}">
         {% else %}
         <meta
             name="description"
@@ -16,21 +16,21 @@
         {% endif %}
         <!-- Keywords -->
         {% if render_item.metaKeywords %}
-        <meta name="keywords" content="{{render_item.metaKeywords}}" />
+        <meta name="keywords" content="{{render_item.metaKeywords}}">
         {% else %}
         <meta
             name="keywords"
             content="{{custom_keywords}}dreams,Dream Network Journal,Dream Network Bulletin,DNJ,dreaming,magazine,journal"
         />
         {% endif %}
-        <meta name="author" content="Dream Network Journal" />
+        <meta name="author" content="Dream Network Journal">
 
         <!-- Open Graph things -->
         <!-- og:title -->
-        <meta property="og:title" content="{{render_item.name}} | The Dream Network Journal" />
+        <meta property="og:title" content="{{render_item.name}} | The Dream Network Journal">
         <!-- og:description -->
         {% if render_item.metaDescription %}
-        <meta property="og:description" content="{{render_item.metaDescription}}" />
+        <meta property="og:description" content="{{render_item.metaDescription}}">
         {% else %}
         <meta
             property="og:description"
@@ -39,43 +39,43 @@
         {% endif %}
         <!-- og:image -->
         {% if render_item.profileImg %}
-        <meta property="og:image" content="http://dreamnetworkjournal.com/images/{{render_item.profileImg}}" />
+        <meta property="og:image" content="http://dreamnetworkjournal.com/images/{{render_item.profileImg}}">
         {% elif render_item.coverImg %}
-        <meta property="og:image" content="http://dreamnetworkjournal.com/images/{{render_item.coverImg}}" />
+        <meta property="og:image" content="http://dreamnetworkjournal.com/images/{{render_item.coverImg}}">
         {% else %}
-        <meta property="og:image" content="http://dreamnetworkjournal.com/images/banner.jpg" />
+        <meta property="og:image" content="http://dreamnetworkjournal.com/images/banner.jpg">
         {% endif %}
         <!-- og:site_name -->
-        <meta property="og:site_name" content="The Dream Network Journal" />
+        <meta property="og:site_name" content="The Dream Network Journal">
         <!-- og:url -->
-        <meta property="og:url" content="{{og_url}}" />
+        <meta property="og:url" content="{{og_url}}">
         <!-- og:type -->
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content="website">
 
         <!-- Styles -->
-        <link rel="stylesheet" type="text/css" href="../styles/Fonts.css" />
-        <link rel="stylesheet" type="text/css" href="../styles/Navbar.css" />
-        <link rel="stylesheet" type="text/css" href="../styles/Card.css" />
-        <link rel="stylesheet" type="text/css" href="../styles/Tag.css" />
-        <link rel="stylesheet" type="text/css" href="../styles/App.css" />
-        <link rel="stylesheet" type="text/css" href="../styles/Page.css" />
-        <link rel="stylesheet" type="text/css" href="../styles/Post.css" />
+        <link rel="stylesheet" type="text/css" href="../styles/Fonts.css">
+        <link rel="stylesheet" type="text/css" href="../styles/Navbar.css">
+        <link rel="stylesheet" type="text/css" href="../styles/Card.css">
+        <link rel="stylesheet" type="text/css" href="../styles/Tag.css">
+        <link rel="stylesheet" type="text/css" href="../styles/App.css">
+        <link rel="stylesheet" type="text/css" href="../styles/Page.css">
+        <link rel="stylesheet" type="text/css" href="../styles/Post.css">
         <link
             rel="stylesheet"
             href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
             integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
             crossorigin="anonymous"
         />
-        <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet">
         <!-- SCRIPTS -->
         <script src="../scripts/minimasonry.min.js"></script>
         <script src="../scripts/toggle-type.js"></script>
         <!-- FAVICON -->
-        <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
-        <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
-        <link rel="icon" type="image/png" href="../images/favicon-32x32.png" sizes="32x32" />
-        <link rel="icon" type="image/png" href="../images/favicon-16x16.png" sizes="16x16" />
-        <link rel="icon" type="image/png" href="../images/favicon-128.png" sizes="128x128" />
+        <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196">
+        <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="../images/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="../images/favicon-16x16.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="../images/favicon-128.png" sizes="128x128">
         <!-- Analytics -->
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158857063-1"></script>
@@ -93,7 +93,7 @@
         <header id="navbar">
             <div id="app-name-container">
                 <a href="../@dreamnetwork" id="app-name-link">
-                    <img src="../images/thumb-tree-logo.png" alt="Dream Network logo" id="app-logo" />
+                    <img src="../images/thumb-tree-logo.png" alt="Dream Network logo" id="app-logo">
                     <span id="navbar-site-title">Dream Network</span>
                 </a>
             </div>
@@ -171,80 +171,80 @@
             </div>
         </header>
         <div id="wrapper">{% block body_contents %} {% endblock %}</div>
-    </body>
-    <!-- Scripts -->
-    <script>
-        var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-        var mainMasonry = new MiniMasonry({
-            container: ".main-grid",
-            minify: false,
-            basewidth: 350,
-            gutterX: 20,
-            gutterY: 20,
-        });
-        var featuredMasonry = hasFeaturedItems
-            ? new MiniMasonry({
-                  container: ".featured-grid",
-                  minify: false,
-                  basewidth: 350,
-                  gutterX: 20,
-                  gutterY: 20,
-              })
-            : null;
+        <!-- Scripts -->
+        <script>
+            var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
+            var mainMasonry = new MiniMasonry({
+                container: ".main-grid",
+                minify: false,
+                basewidth: 350,
+                gutterX: 20,
+                gutterY: 20,
+            });
+            var featuredMasonry = hasFeaturedItems
+                ? new MiniMasonry({
+                      container: ".featured-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
 
-        window.onload = function () {
-            setTimeout(function () {
-                mainMasonry.layout();
-                if (hasFeaturedItems) {
-                    featuredMasonry.layout();
+            window.onload = function () {
+                setTimeout(function () {
+                    mainMasonry.layout();
+                    if (hasFeaturedItems) {
+                        featuredMasonry.layout();
+                    }
+                }, 300);
+            };
+
+            // Show more cards
+            function showMoreCards(button) {
+                // Get parent of button (sidebar-card)
+                var sidebarCard = button.parentElement.parentElement;
+
+                console.log(sidebarCard);
+
+                // Get every sidebar-item-card-wrapper in the sidebar-card
+                var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+                console.log(sidebarItemCardWrappers);
+
+                // Show every sidebar-item-card-wrapper
+                for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
+                    sidebarItemCardWrappers[i].classList.remove("hide");
                 }
-            }, 300);
-        };
 
-        // Show more cards
-        function showMoreCards(button) {
-            // Get parent of button (sidebar-card)
-            var sidebarCard = button.parentElement.parentElement;
+                // Change button text to "Show less"
+                button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
 
-            console.log(sidebarCard);
-
-            // Get every sidebar-item-card-wrapper in the sidebar-card
-            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
-
-            console.log(sidebarItemCardWrappers);
-
-            // Show every sidebar-item-card-wrapper
-            for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
-                sidebarItemCardWrappers[i].classList.remove("hide");
+                // Change onclick function to show less cards
+                button.setAttribute("onclick", "showLessCards(this)");
             }
 
-            // Change button text to "Show less"
-            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
+            // Show less cards (hide all but the first two)
+            function showLessCards(button) {
+                // Get parent of button (sidebar-card)
+                var sidebarCard = button.parentElement.parentElement;
 
-            // Change onclick function to show less cards
-            button.setAttribute("onclick", "showLessCards(this)");
-        }
+                // Get every sidebar-item-card-wrapper in the sidebar-card
+                var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
 
-        // Show less cards (hide all but the first two)
-        function showLessCards(button) {
-            // Get parent of button (sidebar-card)
-            var sidebarCard = button.parentElement.parentElement;
+                console.log(sidebarItemCardWrappers);
 
-            // Get every sidebar-item-card-wrapper in the sidebar-card
-            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+                // Hide every sidebar-item-card-wrapper after the first two
+                for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
+                    sidebarItemCardWrappers[i].classList.add("hide");
+                }
 
-            console.log(sidebarItemCardWrappers);
+                // Change button text to "Show more"
+                button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
 
-            // Hide every sidebar-item-card-wrapper after the first two
-            for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
-                sidebarItemCardWrappers[i].classList.add("hide");
+                // Change onclick function to show more cards
+                button.setAttribute("onclick", "showMoreCards(this)");
             }
-
-            // Change button text to "Show more"
-            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
-
-            // Change onclick function to show more cards
-            button.setAttribute("onclick", "showMoreCards(this)");
-        }
-    </script>
+        </script>
+    </body>
 </html>

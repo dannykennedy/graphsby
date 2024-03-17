@@ -466,80 +466,80 @@
 </div>
 
 </div>
-    </body>
-    <!-- Scripts -->
-    <script>
-        var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-        var mainMasonry = new MiniMasonry({
-            container: ".main-grid",
-            minify: false,
-            basewidth: 350,
-            gutterX: 20,
-            gutterY: 20,
-        });
-        var featuredMasonry = hasFeaturedItems
-            ? new MiniMasonry({
-                  container: ".featured-grid",
-                  minify: false,
-                  basewidth: 350,
-                  gutterX: 20,
-                  gutterY: 20,
-              })
-            : null;
+        <!-- Scripts -->
+        <script>
+            var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
+            var mainMasonry = new MiniMasonry({
+                container: ".main-grid",
+                minify: false,
+                basewidth: 350,
+                gutterX: 20,
+                gutterY: 20,
+            });
+            var featuredMasonry = hasFeaturedItems
+                ? new MiniMasonry({
+                      container: ".featured-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
 
-        window.onload = function () {
-            setTimeout(function () {
-                mainMasonry.layout();
-                if (hasFeaturedItems) {
-                    featuredMasonry.layout();
+            window.onload = function () {
+                setTimeout(function () {
+                    mainMasonry.layout();
+                    if (hasFeaturedItems) {
+                        featuredMasonry.layout();
+                    }
+                }, 300);
+            };
+
+            // Show more cards
+            function showMoreCards(button) {
+                // Get parent of button (sidebar-card)
+                var sidebarCard = button.parentElement.parentElement;
+
+                console.log(sidebarCard);
+
+                // Get every sidebar-item-card-wrapper in the sidebar-card
+                var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+
+                console.log(sidebarItemCardWrappers);
+
+                // Show every sidebar-item-card-wrapper
+                for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
+                    sidebarItemCardWrappers[i].classList.remove("hide");
                 }
-            }, 300);
-        };
 
-        // Show more cards
-        function showMoreCards(button) {
-            // Get parent of button (sidebar-card)
-            var sidebarCard = button.parentElement.parentElement;
+                // Change button text to "Show less"
+                button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
 
-            console.log(sidebarCard);
-
-            // Get every sidebar-item-card-wrapper in the sidebar-card
-            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
-
-            console.log(sidebarItemCardWrappers);
-
-            // Show every sidebar-item-card-wrapper
-            for (var i = 0; i < sidebarItemCardWrappers.length; i++) {
-                sidebarItemCardWrappers[i].classList.remove("hide");
+                // Change onclick function to show less cards
+                button.setAttribute("onclick", "showLessCards(this)");
             }
 
-            // Change button text to "Show less"
-            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show less ↑";
+            // Show less cards (hide all but the first two)
+            function showLessCards(button) {
+                // Get parent of button (sidebar-card)
+                var sidebarCard = button.parentElement.parentElement;
 
-            // Change onclick function to show less cards
-            button.setAttribute("onclick", "showLessCards(this)");
-        }
+                // Get every sidebar-item-card-wrapper in the sidebar-card
+                var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
 
-        // Show less cards (hide all but the first two)
-        function showLessCards(button) {
-            // Get parent of button (sidebar-card)
-            var sidebarCard = button.parentElement.parentElement;
+                console.log(sidebarItemCardWrappers);
 
-            // Get every sidebar-item-card-wrapper in the sidebar-card
-            var sidebarItemCardWrappers = sidebarCard.getElementsByClassName("sidebar-item-card-wrapper");
+                // Hide every sidebar-item-card-wrapper after the first two
+                for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
+                    sidebarItemCardWrappers[i].classList.add("hide");
+                }
 
-            console.log(sidebarItemCardWrappers);
+                // Change button text to "Show more"
+                button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
 
-            // Hide every sidebar-item-card-wrapper after the first two
-            for (var i = 2; i < sidebarItemCardWrappers.length; i++) {
-                sidebarItemCardWrappers[i].classList.add("hide");
+                // Change onclick function to show more cards
+                button.setAttribute("onclick", "showMoreCards(this)");
             }
-
-            // Change button text to "Show more"
-            button.getElementsByClassName("show-more-button-text")[0].innerHTML = "Show more ↓";
-
-            // Change onclick function to show more cards
-            button.setAttribute("onclick", "showMoreCards(this)");
-        }
-    </script>
+        </script>
+    </body>
 </html>

@@ -332,6 +332,8 @@ for pyyam in file_objects:
 	featured_items = []
 	for row in q:
 
+		item_id = row[3]
+
 		# item_to_page_relation is the predicate that links the item to the page
 		# e.g. hasAuthor, hasTag, featuredIn
 		item_to_page_relation = ""
@@ -356,7 +358,7 @@ for pyyam in file_objects:
 				?littleTag dnj:handle|dnj:urlSlug ?textId .
 				?littleTag a ?tagType .
 				?littleTag dnj:profileImg ?image
-			}}""".format(id=row[3])
+			}}""".format(id=item_id)
 		tag_query = graph.query(query_string)
 
 		# Create a tags array (for dem little tags on the cards)
@@ -392,7 +394,7 @@ for pyyam in file_objects:
 
 		post_description = row[2]
 		# Truncate
-		truncated_desc = truncatePost(post_description, POST_SNIPPET_LENGTH).replace("...", "<span class='read-more'> ...read more</span>")
+		truncated_desc = truncatePost(post_description, POST_SNIPPET_LENGTH, item_id).replace("...", "<span class='read-more'> ...read more</span>")
 
 		card_type = row[7]
 		string_identifier = row[6]
@@ -601,6 +603,7 @@ for pyyam in file_objects:
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"
 	folderpath2 = cwd + "/site/no-type"
+	folderpath3 = cwd + "/site/no-type"
 	writepaths = []
 
 	if "type" in pyyam.keys():
@@ -609,8 +612,10 @@ for pyyam in file_objects:
 		if pyyam["type"] == "user" or pyyam["type"] == "page":
 			folderpath = cwd + build_folder + "/@" + pyyam["handle"]
 			folderpath2 = cwd + build_folder + "/" + str(pyyam["itemId"])
+			folderpath3 = cwd + build_folder + "/" + str(pyyam["itemId"]) + "/@" + pyyam["handle"] 
 			writepaths.append(folderpath + "/index.html")
 			writepaths.append(folderpath2 + "/index.html")
+			writepaths.append(folderpath3 + "/index.html")
 		elif pyyam["type"] == "post":
 			folderpath = cwd + build_folder + "/" + str(pyyam["itemId"])
 			writepaths.append(folderpath + "/index.html")
@@ -619,6 +624,7 @@ for pyyam in file_objects:
 	# Make the folder for the posts
 	Path(folderpath).mkdir(parents=True, exist_ok=True)
 	Path(folderpath2).mkdir(parents=True, exist_ok=True)
+	Path(folderpath3).mkdir(parents=True, exist_ok=True)
 
 
 	# Add post file(s) to the folder

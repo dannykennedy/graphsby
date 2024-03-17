@@ -15,7 +15,7 @@ urlSlug: the-afterglow-of-letting-go
 profileImg: bcpov6zfgluc-1.jpg
 ---
 
-<img src="../images/bcpov6zfgluc-0.jpg" style="width:400px; margin: auto" />
+<img src="../images/bcpov6zfgluc-0.jpg" style="width:400px; margin: auto">
 
 Letting go of control in lucid dreams has helped me to begin a beautiful friendship, guide a lover relationship through a healthy transformation and facilitate healing between my conscious and unconscious self.
 
@@ -47,4 +47,4 @@ So now I am letting go of this desperate need to lucid dream about my abuse and 
 
 Although I still have a long way to go in my healing and in learning about creating and maintaining intimate relationships, I feel blessed by the help I am receiving through my dreams.∞
 
-<img src="../images/bcpov6zfgluc-1.jpg" style="width:400px; margin: auto" />
+<img src="../images/bcpov6zfgluc-1.jpg" style="width:400px; margin: auto">

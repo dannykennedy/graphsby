@@ -1,7 +1,7 @@
 import re, html5lib
 from html5lib_truncation import truncate_html
 
-def truncatePost(post_description, length):
+def truncatePost(post_description, length, pageId):
 	truncated_desc = truncate_html(post_description, length, end="...", break_words=True)
 	# Remove lists
 	truncated_desc = re.sub("(<ol.*?ol>)", "", truncated_desc, 0, re.IGNORECASE | re.DOTALL | re.MULTILINE)

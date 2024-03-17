@@ -12955,7 +12955,7 @@ ns1:bcpov6zfctar a ns1:Post ;
 
 <p>When Jane pulled the Tarot’s Hierophant/Pope card to reflect the dream, her first reaction was discomfort. She the air. He’s from the cast of the musical “Hair,” had left the Catholic faith of her youth and had no positive associations with a Pope. But Hierophant/Pope also “This is the dawning of the Age of Aquarius!” is her Year Card for the current year. Like it or not, that archetype was asking for attention.</p>
 
-<p><img src="../images/post-bcpov6zfctar-0.jpg" style="width:200px; margin: auto" /></p>
+<p><img src="../images/post-bcpov6zfctar-0.jpg" style="width:200px; margin: auto"></p>
 
 <p>I pointed out that the <em>Tarot Life Cards</em> deck combines the term “Hierophant” with “Pope” to evoke a broader form of moral authority. (A Hierophant was a priest in ancient Greece who acted as an intermediary between humans and the divine.) I also suggested that Jane consider Connie’s unconventional approach to the image.</p>
 
@@ -12975,7 +12975,7 @@ ns1:bcpov6zfctar a ns1:Post ;
 
 <p>In traditional versions of the Star, a demure nude woman in a Grecian drape pours jugs of water on the earth and into a stream. However, Connie’s card shows a woman giving birth to a five-pointed star with another large star on her head.</p>
 
-<p><img src="../images/post-bcpov6zfctar-1.jpg" style="width:200px; margin: auto" /></p>
+<p><img src="../images/post-bcpov6zfctar-1.jpg" style="width:200px; margin: auto"></p>
 
 <p>Marilyn beamed, and the group cheered, when I read aloud the book’s description of the card: “Star squats boldly in the dark, unafraid. She knows that her newborn will light up the night.” ∞</p>
 """^^xsd:string ;
@@ -13826,7 +13826,7 @@ ns1:bcpov6zfgil1 a ns1:Post ;
 
 ns1:bcpov6zfgluc a ns1:Post ;
     ns1:dateCreated "1992-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/bcpov6zfgluc-0.jpg" style="width:400px; margin: auto" /></p>
+    ns1:description """<p><img src="../images/bcpov6zfgluc-0.jpg" style="width:400px; margin: auto"></p>
 
 <p>Letting go of control in lucid dreams has helped me to begin a beautiful friendship, guide a lover relationship through a healthy transformation and facilitate healing between my conscious and unconscious self.</p>
 
@@ -13866,7 +13866,7 @@ ns1:bcpov6zfgluc a ns1:Post ;
 
 <p>Although I still have a long way to go in my healing and in learning about creating and maintaining intimate relationships, I feel blessed by the help I am receiving through my dreams.∞</p>
 
-<p><img src="../images/bcpov6zfgluc-1.jpg" style="width:400px; margin: auto" /></p>
+<p><img src="../images/bcpov6zfgluc-1.jpg" style="width:400px; margin: auto"></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3gras ;
     ns1:hasTag ns1:bcphbp2b6gy,

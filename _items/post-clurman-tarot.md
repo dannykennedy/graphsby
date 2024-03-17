@@ -34,7 +34,7 @@ The young medical professional in the dream reminded Jane of a nephew she had se
 
 When Jane pulled the Tarot’s Hierophant/Pope card to reflect the dream, her first reaction was discomfort. She the air. He’s from the cast of the musical “Hair,” had left the Catholic faith of her youth and had no positive associations with a Pope. But Hierophant/Pope also “This is the dawning of the Age of Aquarius!” is her Year Card for the current year. Like it or not, that archetype was asking for attention.
 
-<img src="../images/post-bcpov6zfctar-0.jpg" style="width:200px; margin: auto" />
+<img src="../images/post-bcpov6zfctar-0.jpg" style="width:200px; margin: auto">
 
 I pointed out that the _Tarot Life Cards_ deck combines the term “Hierophant” with “Pope” to evoke a broader form of moral authority. (A Hierophant was a priest in ancient Greece who acted as an intermediary between humans and the divine.) I also suggested that Jane consider Connie’s unconventional approach to the image.
 
@@ -52,6 +52,6 @@ When she pulled a card at random to reflect the dream, “Star” came up. A sym
 
 In traditional versions of the Star, a demure nude woman in a Grecian drape pours jugs of water on the earth and into a stream. However, Connie’s card shows a woman giving birth to a five-pointed star with another large star on her head.
 
-<img src="../images/post-bcpov6zfctar-1.jpg" style="width:200px; margin: auto" />
+<img src="../images/post-bcpov6zfctar-1.jpg" style="width:200px; margin: auto">
 
 Marilyn beamed, and the group cheered, when I read aloud the book’s description of the card: “Star squats boldly in the dark, unafraid. She knows that her newborn will light up the night.” ∞

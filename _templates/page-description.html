@@ -2,12 +2,12 @@
     {% if render_item.coverImg %}
 
     <div class="cover-image-container">
-        <img class="cover-image" src="{{'../images/' + render_item.coverImg}}" alt="cover image">
+        <img class="cover-image" src="{{'../images/' + render_item.coverImg}}" alt="cover image" />
     </div>
     {% else %}
     <div class="cover-image-container">
         <a href="../@brendaferrimani">
-            <img class="cover-image" src="{{'../images/' + 'banner.jpg'}}" alt="cover image">
+            <img class="cover-image" src="{{'../images/' + 'banner.jpg'}}" alt="cover image" />
         </a>
     </div>
 
@@ -20,7 +20,7 @@
                 class="{{'profile-image-' + render_item.type}}"
                 src="{{'../images/' + render_item.profileImg}}"
                 alt="profile image"
-            />
+            >
         </div>
         {% endif %}
         <h1 id="item-heading">{{render_item.name}}</h1>

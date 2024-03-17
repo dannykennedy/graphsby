@@ -612,7 +612,7 @@ for pyyam in file_objects:
 		if pyyam["type"] == "user" or pyyam["type"] == "page":
 			folderpath = cwd + build_folder + "/@" + pyyam["handle"]
 			folderpath2 = cwd + build_folder + "/" + str(pyyam["itemId"])
-			folderpath3 = cwd + build_folder + "/" + str(pyyam["itemId"]) + "/@" + pyyam["handle"] 
+			folderpath3 = cwd + build_folder + "/" + str(pyyam["itemId"]) + "-test"
 			writepaths.append(folderpath + "/index.html")
 			writepaths.append(folderpath2 + "/index.html")
 			writepaths.append(folderpath3 + "/index.html")

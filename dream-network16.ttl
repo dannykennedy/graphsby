@@ -22454,7 +22454,7 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:metaDescription "Stanley Krippner is a psychologist and parapsychologist, and author of the well-known book 'Personal Mythology'. This page gathers all his articles for the Dream Network Journal."^^xsd:string ;
     ns1:metaKeywords "Stanley Krippner, Krippner, Dr. Krippner, Dream Network"^^xsd:string ;
-    ns1:name "Stanley Krippner, Ph.D."^^xsd:string ;
+    ns1:name "Stanley Krippner, Ph.D"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
 
 ns1:User rdfs:subClassOf ns1:Actor,

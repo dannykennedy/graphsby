@@ -3,7 +3,7 @@ layout: page
 type: user
 itemId: bcphbq3krip
 handle: stanleykrippner
-name: "Stanley Krippner, Ph.D."
+name: "Stanley Krippner, Ph.D"
 shortDescription: ""
 metaDescription: "Stanley Krippner is a psychologist and parapsychologist, and author of the well-known book 'Personal Mythology'. This page gathers all his articles for the Dream Network Journal."
 metaKeywords: "Stanley Krippner, Krippner, Dr. Krippner, Dream Network"

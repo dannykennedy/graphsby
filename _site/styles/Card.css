@@ -1,248 +1,246 @@
 /* CARD THINGS */
 
 .inner-card {
-  display: grid;
-  transition: 0.2s;
-  height: 100%;
-  width: 100%;
-  align-self: center;
-  justify-self: center;
+    display: grid;
+    transition: 0.2s;
+    height: 100%;
+    width: 100%;
+    align-self: center;
+    justify-self: center;
 }
 
 .Postcard {
-  grid-template-rows: 40px 1fr auto;
+    grid-template-rows: 40px 1fr auto;
 }
 
 .Usercard {
-  grid-template-rows: 1fr auto;
+    grid-template-rows: 1fr auto;
 }
 
 .User-profile-img {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
 
 .card-body blockquote {
-  border-left: 5px solid #f1f1f1;
-  padding-left: 5px;
+    border-left: 5px solid #f1f1f1;
+    padding-left: 5px;
 }
 
 .make-div-a-link {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: 1;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
 }
 
 .card {
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
-  background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    background-color: white;
 }
 
 .item-card {
-  border-radius: 2px;
-  /* Absolute position needed for mini masonry */
-  /* Container is relative */
-  position: absolute;
-  transition: 0.2s;
-  font-family: "Lora", serif;
-  font-weight: 100;
-  box-sizing: border-box;
-  padding: 24px;
-  /* max-width: 600px; */
+    border-radius: 2px;
+    /* Absolute position needed for mini masonry */
+    /* Container is relative */
+    position: absolute;
+    transition: 0.2s;
+    font-family: "Lora", serif;
+    font-weight: 100;
+    box-sizing: border-box;
+    padding: 24px;
+    /* max-width: 600px; */
 }
 
 @media (max-width: 400px) {
-  .item-card {
-    margin-bottom: 1px;
-  }
+    .item-card {
+        margin-bottom: 1px;
+    }
 }
 
 .thumb-card {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 .item-card pre {
-  font-family: Lora, serif;
-  line-height: 0.8em;
+    font-family: Lora, serif;
+    line-height: 0.8em;
 }
 
 .item-card:hover {
-  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
 }
 
 .card-header {
-  height: 40px;
+    height: 40px;
 }
 .card-user-info {
-  display: grid;
-  height: inherit;
-  grid-template-columns: 40px 1fr;
+    display: grid;
+    height: inherit;
+    grid-template-columns: 40px 1fr;
 }
 .card-body {
-  margin-top: 15px;
+    margin-top: 16px;
+    margin-bottom: 16px;
 }
 
 .card-journal-img {
-  width: 130px;
-  margin-bottom: 15px;
+    width: 130px;
+    margin-bottom: 15px;
 }
 
-.card-footer {
-  /*    background-color: rgba(0,0,0,.03);*/
-}
 .card-options {
-  display: grid;
-  align-items: center;
-  justify-content: center;
-  height: 40px;
-  width: 20px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 20px;
 }
 .card-avatar {
-  height: 40px;
+    height: 40px;
 }
 .card-header-text {
-  height: 40px;
-  padding-left: 20px;
-  grid-template-rows: 50% 50%;
-  display: inline-block;
-  font-size: 0.9em;
-  font-family: "Open Sans", sans-serif;
+    height: 40px;
+    padding-left: 20px;
+    grid-template-rows: 50% 50%;
+    display: inline-block;
+    font-size: 0.9em;
+    font-family: "Open Sans", sans-serif;
 }
 
 .post-author-img {
-  border-radius: 50%;
-  display: block;
-  width: 40px;
-  height: 40px;
+    border-radius: 50%;
+    display: block;
+    width: 40px;
+    height: 40px;
 }
 
 .avatar-photo {
-  height: 100%;
-  width: 100%;
-  display: inline-block;
-  align-content: center;
-  justify-content: center;
-  cursor: pointer;
-  border-radius: 50%;
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    align-content: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 50%;
 }
 .avatar-text {
-  color: white;
-  border-radius: 50%;
-  background-color: rgb(246, 173, 97);
-  width: 100%;
+    color: white;
+    border-radius: 50%;
+    background-color: rgb(246, 173, 97);
+    width: 100%;
 }
 .more-icon {
-  margin-top: 10px;
-  margin-left: 5px;
+    margin-top: 10px;
+    margin-left: 5px;
 }
 
 .card-edit-area {
-  margin-top: 20px;
+    margin-top: 20px;
 }
 
 .card-title a {
-  text-decoration: none;
-  color: inherit;
+    text-decoration: none;
+    color: inherit;
 }
 
 .card-edit-area {
-  display: none;
+    display: none;
 }
 
 .dropbtn {
-  background-color: transparent;
+    background-color: transparent;
 }
 
 /* IMAGES */
 
 img {
-  max-width: 100%;
-  margin: auto;
-  display: block;
+    max-width: 100%;
+    margin: auto;
+    display: block;
 }
 
 .profile-img-container {
-  height: 250px;
-  width: 100%;
-  max-width: 350px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    height: 250px;
+    width: 100%;
+    max-width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .Post-profile-img {
-  max-width: 100%;
-  max-height: 100%;
-  height: auto;
-  width: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  filter: saturate(0.9);
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    filter: saturate(0.9);
 }
 
 /* TOOLTIP TEXT */
 
 .tooltip {
-  position: relative;
-  display: inline-block;
+    position: relative;
+    display: inline-block;
 }
 .tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-  /* Position the tooltip */
-  position: absolute;
-  z-index: 3;
-  /* Top tooltip */
-  bottom: 100%;
-  left: 50%;
-  margin-left: -60px;
-  /* Use half of the width (120/2 = 60), to center the tooltip */
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 3;
+    /* Top tooltip */
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+    /* Use half of the width (120/2 = 60), to center the tooltip */
 }
 .tooltip:hover .tooltiptext {
-  visibility: visible;
+    visibility: visible;
 }
 .tooltip .tooltiptext::after {
-  content: " ";
-  position: absolute;
-  top: 100%;
-  /* At the bottom of the tooltip */
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: black transparent transparent transparent;
+    content: " ";
+    position: absolute;
+    top: 100%;
+    /* At the bottom of the tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
 }
 .graph-tooltip {
-  position: absolute;
-  background: black;
-  color: #fff;
-  opacity: 0;
-  padding: 5px;
-  pointer-events: none !important;
-  font-size: 1em;
-  font-family: "Lora", serif;
-  font-weight: 100;
-  -webkit-font-smoothing: antialiased;
-  border-radius: 6px;
+    position: absolute;
+    background: black;
+    color: #fff;
+    opacity: 0;
+    padding: 5px;
+    pointer-events: none !important;
+    font-size: 1em;
+    font-family: "Lora", serif;
+    font-weight: 100;
+    -webkit-font-smoothing: antialiased;
+    border-radius: 6px;
 }
 
 .read-more {
-  text-decoration: underline;
-  color: #0000ee;
+    text-decoration: underline;
+    color: #0000ee;
 }
 
 /* END TOOLTIP */

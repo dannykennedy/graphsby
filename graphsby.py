@@ -600,13 +600,17 @@ for pyyam in file_objects:
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"
+	folderpath2 = cwd + "/site/no-type"
 	writepaths = []
 
 	if "type" in pyyam.keys():
 		# If type is a user or page, make @handle/index.html
+		# And an alternate one just at the id
 		if pyyam["type"] == "user" or pyyam["type"] == "page":
 			folderpath = cwd + build_folder + "/@" + pyyam["handle"]
+			folderpath2 = cwd + build_folder + "/" + str(pyyam["itemId"])
 			writepaths.append(folderpath + "/index.html")
+			writepaths.append(folderpath2 + "/index.html")
 		elif pyyam["type"] == "post":
 			folderpath = cwd + build_folder + "/" + str(pyyam["itemId"])
 			writepaths.append(folderpath + "/index.html")
@@ -614,6 +618,8 @@ for pyyam in file_objects:
 
 	# Make the folder for the posts
 	Path(folderpath).mkdir(parents=True, exist_ok=True)
+	Path(folderpath2).mkdir(parents=True, exist_ok=True)
+
 
 	# Add post file(s) to the folder
 	for path in writepaths:

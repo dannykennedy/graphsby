@@ -252,6 +252,7 @@ button.type-toggle-pill.active {
         margin-bottom: 0.5rem;
     }
     #page-description-area {
-        padding: 15px;
+        padding: 16px;
+        padding-top: 50px;
     }
 }

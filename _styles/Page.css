@@ -68,16 +68,6 @@
     padding-left: 20px;
 }
 
-/* .page-items {
-  grid-area: items;
-  padding: 0px 10px 30px 30px;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-auto-rows: min-content;
-  column-gap: 15px;
-  -webkit-column-gap: 15px;
-  -moz-column-gap: 15px;
-} */
 #profile-image {
     height: 180px;
 }
@@ -252,6 +242,7 @@ button.type-toggle-pill.active {
         margin-bottom: 0.5rem;
     }
     #page-description-area {
-        padding: 15px;
+        padding: 16px;
+        padding-top: 50px;
     }
 }

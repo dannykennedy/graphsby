@@ -249,5 +249,9 @@ button.type-toggle-pill.active {
     button.type-toggle-pill {
         width: 90%;
         margin: auto;
+        margin-bottom: 0.5rem;
+    }
+    #page-description-area {
+        padding: 15px;
     }
 }

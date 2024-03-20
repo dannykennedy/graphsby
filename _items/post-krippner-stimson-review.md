@@ -14,9 +14,8 @@ urlSlug: "glimpses-from-beyond-the-ego-bill-stimson-book-review"
 profileImg: post-bcpov6zfbsbr-0.jpg
 ---
 
-<a href="https://www.goodreads.com/book/show/54774415-glimpses-from-beyond-the-ego">
-<img src="../images/post-bcpov6zfbsbr-0.jpg" width="300px" height="auto" alt="Notes from a Dreamer on Dreaming"/>
-</a>
+<a href="https://www.goodreads.com/book/show/54774415-glimpses-from-beyond-the-ego"><img src="../images/post-bcpov6zfbsbr-0.jpg" width="300px" height="auto" alt="Notes from a Dreamer on Dreaming"/></a>
+
 <!--nopreview--><div class="caption"><i>Glimpses From Beyond The Ego: Dreams, Zen, & Nature by <a href="../@ billstimson">William Stimson</a>, 327pp, published July 2020</i></div><!--/nopreview-->
 
 It is remarkable how many books about dreams have been published in recent years. In part, this is the result of the efforts of the International Association for the Study of Dreams, which has created a world-wide network that has linked dream scientists, dream therapists, dream artists, and dreamers with no qualifications other than their interest in the topic. One would have thought that everything that could be written about dreams had already found its niche in publishers’ catalogs and people’s bookcases.

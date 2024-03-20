@@ -12901,11 +12901,7 @@ ns1:bcpov6zfbowd a ns1:Post ;
 
 ns1:bcpov6zfbsbr a ns1:Post ;
     ns1:dateCreated "2021-05-12T12:32:52"^^xsd:dateTime ;
-    ns1:description """<p><a href="https://www.goodreads.com/book/show/54774415-glimpses-from-beyond-the-ego"></p>
-
-<p><img src="../images/post-bcpov6zfbsbr-0.jpg" width="300px" height="auto" alt="Notes from a Dreamer on Dreaming"/></p>
-
-<p></a></p>
+    ns1:description """<p><a href="https://www.goodreads.com/book/show/54774415-glimpses-from-beyond-the-ego"><img src="../images/post-bcpov6zfbsbr-0.jpg" width="300px" height="auto" alt="Notes from a Dreamer on Dreaming"/></a></p>
 
 <p><!--nopreview--><div class="caption"><i>Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature by <a href="../@ billstimson">William Stimson</a>, 327pp, published July 2020</i></div><!--/nopreview--></p>
 
@@ -17423,6 +17419,36 @@ ns1:bcpoz2jotcos a ns1:Post ;
     ns1:name "The Circle of Sex in Mythology and Folklore"^^xsd:string ;
     ns1:profileImg "gavin_arthur.jpg"^^xsd:string ;
     ns1:urlSlug "the-circle-of-sex-in-mythology-and-folklore"^^xsd:string .
+
+ns1:bcpoz2zapitt a ns1:Post ;
+    ns1:dateCreated "2007-01-22T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Both <a href="https://en.wikipedia.org/wiki/William_James">William James</a> and <a href="https://en.wikipedia.org/wiki/Gardner_Murphy">Gardner Murphy</a> reached the height of their profession as psychologists. Both had the prestige and courage to confront the scientific community with what, in James’ time, was known as psychic phenomena and in Murphy’s time as parapsychology. Murphy was also a remarkable teacher and spawned a whole new generation of researchers. <a href="../@stanleykrippner">Stanley Krippner</a> has followed in the tracks of both James and Murphy.</p>
+
+<p>In 1961, I made a critical decision that led to my connection with Stan. I gave up my psychoanalytic practice to accept a full-time position at the Maimonides Medical Center to develop a department of psychiatry there. What was so tempting about the offer was that it held out the possibility of setting up a sleep laboratory to study dream telepathy.</p>
+
+<p>The discovery in 1953 of the connection of dreaming to Rapid Eye Movement (REM) sleep offered the opportunity to capture dreams at the time they occur. This was precisely what was needed for a dream telepathy experiment. Murphy came through with the money to fund the laboratory. More importantly, he found exactly the right person to direct it. He plucked Stan out from his position as director of the Child Study Center at Kent State University in Ohio. So, in 1964, Stan found himself in Brooklyn with the task of organizing a laboratory and developing a research staff. Thus began the nocturnal approach to dream telepathy. It was an experiment that had to be done under airtight conditions that excluded all possible sensory cues to the specific target. Stan was meticulous about this. No one has ever been able to challenge the methodology he worked out to eliminate sensory clues to the target. Stan was a veritable Pied Piper. His stewardship of the dream laboratory attracted many young, eager assistants. At one point, <a href="https://en.wikipedia.org/wiki/Charles_Honorton">Charles (Chuck) Honorton</a>—who had worked at <a href="https://en.wikipedia.org/wiki/Joseph_Banks_Rhine">J. B. Rhine’s</a> laboratory in Durham, North Carolina—became a full-time member of Stan’s staff. Chuck originated one of the most successful series of experiments in parapsychology, namely, the <a href="https://en.wikipedia.org/wiki/Ganzfeld_experiment">“Ganzfeld” effect</a>, in which partial sensory deprivation in the form of eliminating visual perception resulted in striking statistical results.</p>
+
+<p>The end result of our nocturnal pursuit of ESP appeared in the book <a href="https://www.goodreads.com/en/book/show/10661300"><em>Dream Telepathy</em></a>, written by Alan Vaughan in collaboration with Stan and myself, summarizing the work of the laboratory experiment.</p>
+
+<p>The laboratory folded in 1973 when our funding ran out. Stan left to join the Saybrook Graduate School, where he found a most favorable environment for his many talents. At Saybrook, he was and is able to fulfill his passion for helping and teaching young psychologists and at the same time has the opportunity to pursue his own special interests. These encompass his studies in the field of anomalous experiences that are outside the ken of orthodox science.</p>
+
+<p>Saybrook is the natural home for the full range of Stan’s talents. In pursuit of his various projects, he roams the world as a lecturer and as the extended laboratory he needs for the vast range of his interests... a range that covers the field of anomalous behavior from shamanism to hypnosis, as well as his continued interest in dreams and the paranormal.</p>
+
+<p>In short, Stan pursues areas closest to his heart, areas swept under the rug by orthodox science. He has written about his observations in a steady flow of papers and books, often co-authored or co-edited with others. These include essays on spiritual consciousness and the many books he has written on dreams and parapsychology.</p>
+
+<p>The most recent book he has coedited is a masterful encyclopedic volume entitled <a href="https://www.goodreads.com/book/show/194090.Varieties_of_Anomalous_Experience"><em>Varieties of Anomalous Experience</em></a>. It will serve as a source book for a new generation of explorers concerned with the vast and limitless range of human potential.</p>
+
+<p>Stan and I have kept in touch over the years. A number of his doctoral students have based their Ph.D. theses on dreams and the application of group dreamwork, in some instances targeting areas such as a geriatric population and patients with AIDS. Their admiration for Stan as a teacher, as reported to me, knows no bounds. Teacher, exemplar, pathfinder and explorer of the still unknown, Stan continues his quest. Not very many have accomplished so much on their own or given so much of themselves to others as teacher, role-model and explorer of phenomena that may ultimately expand the range of scientific inquiry.</p>
+
+<p>I am happy to have been there with you, Stan, when you began this remarkable journey and we all hope to be kept informed of your continuing adventures.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqflull ;
+    ns1:hasTag ns1:bcphbqflull ;
+    ns1:hasTopic ns1:bcphbq3krip ;
+    ns1:itemId "bcpoz2zapitt"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "A Psychologist in the Tradition of William James and Gardner Murphy"^^xsd:string ;
+    ns1:urlSlug "a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy"^^xsd:string .
 
 ns1:bcpoz2zmwopd a ns1:Post ;
     ns1:dateCreated "1995-07-01T11:32:52"^^xsd:dateTime ;
@@ -21948,23 +21974,6 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.4"^^xsd:string .
 
-ns1:bcphbqflull a ns1:User ;
-    ns1:description """<p>Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
-
-<p>More information on Montague Ullman and selected writings on Judy Gardiner's website, <a href="http://www.cosmicdreaming.com/meetdrullman.html">cosmicdreaming.com</a></p>
-
-<p>Montague Ullman (1916 – 2008) was a renowned psychiatrist, psychoanalyst and parapsychologist who founded the Dream Laboratory at the Maimonides Medical Center in Brooklyn, New York and for over three decades promoted public interest in dreams and dream sharing groups. He published around 20 articles in the Dream Network, several of which were first published here. </p>
-
-<p>These writings are reproduced with the permission of <a href="http://www.cosmicdreaming.com/abouttheauthor.html">Judy Gardiner</a>, Literary Executor, Estate of Montague Ullman. Profile image by Judy Gardiner - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=17845039">commons.wikimedia.org</a></p>
-
-<p><em>The following papers are under different copyrights. Their content may not be copied or e-mailed to multiple sites or posted to listservers without the copyright holder's express written permission. However, users may print, download or email articles for individual use.</em></p>
-"""^^xsd:string ;
-    ns1:handle "montagueullman"^^xsd:string ;
-    ns1:itemId "bcphbqflull"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Montague Ullman"^^xsd:string ;
-    ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
-
 ns1:bcphbvjopd2 a ns1:Post ;
     ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2003-04-01T11:32:52"^^xsd:dateTime ;
@@ -22080,6 +22089,23 @@ ns1:bcphbq3vand a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert Van de Castle"^^xsd:string ;
     ns1:profileImg "author-bobvandecastle.jpg"^^xsd:string .
+
+ns1:bcphbqflull a ns1:User ;
+    ns1:description """<p>Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
+
+<p>More information on Montague Ullman and selected writings on Judy Gardiner's website, <a href="http://www.cosmicdreaming.com/meetdrullman.html">cosmicdreaming.com</a></p>
+
+<p>Montague Ullman (1916 – 2008) was a renowned psychiatrist, psychoanalyst and parapsychologist who founded the Dream Laboratory at the Maimonides Medical Center in Brooklyn, New York and for over three decades promoted public interest in dreams and dream sharing groups. He published around 20 articles in the Dream Network, several of which were first published here. </p>
+
+<p>These writings are reproduced with the permission of <a href="http://www.cosmicdreaming.com/abouttheauthor.html">Judy Gardiner</a>, Literary Executor, Estate of Montague Ullman. Profile image by Judy Gardiner - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=17845039">commons.wikimedia.org</a></p>
+
+<p><em>The following papers are under different copyrights. Their content may not be copied or e-mailed to multiple sites or posted to listservers without the copyright holder's express written permission. However, users may print, download or email articles for individual use.</em></p>
+"""^^xsd:string ;
+    ns1:handle "montagueullman"^^xsd:string ;
+    ns1:itemId "bcphbqflull"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Montague Ullman"^^xsd:string ;
+    ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
 
 ns1:bcphbqflyer a ns1:User ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>

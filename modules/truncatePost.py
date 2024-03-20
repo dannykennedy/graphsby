@@ -2,7 +2,8 @@ import re, html5lib
 from html5lib_truncation import truncate_html
 
 def truncatePost(post_description, length, itemId):
-	if itemId == 'bcpov6zfbsbr':
+	# print("Truncating post with id: " + itemId)
+	if str(itemId) == 'bcpov6zfbsbr':
 		print("Truncating post with id: " + itemId)
 		print(post_description)
 

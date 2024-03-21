@@ -6,6 +6,7 @@ name: "Honouring Stan the Man"
 tags:
     - hasTag: ritadwyer
     - hasAuthor: ritadwyer
+    - hasTopic: stanleykrippner
     - hasTag: 26.1-2
     - inIssue: 26.1-2
 type: post

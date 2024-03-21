@@ -937,6 +937,33 @@ ns1:bcpot5kidnbt a ns1:Post ;
     ns1:profileImg "vandecastle-telepahy-1.jpg"^^xsd:string ;
     ns1:urlSlug "the-dnb-telepathy-project"^^xsd:string .
 
+ns1:bcpov4kchstm a ns1:Post ;
+    ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Others have done a superb job of describing <a href="../@stanleykrippner">Stanley Krippner</a> and his reputation as an inveterate traveler and good-will ambassador, making impactful connections throughout our world. Stan is truly “The Man” when it comes to pioneering and researching new frontiers of mind and space—a fearless cosmonaut.</p>
+
+<p>At IASD’s first conference in San Franciso in 1984, Stan spoke on <a href="../bcpoz7zfasad/shamanism-and-dreams"><em>Dreams and the Shamanic Tradition</em></a>, another interest of mine, the spiritual and healing aspects of dreams. Subsequently I have spent nearly 24 years touching in with Stan at our IASD conferences, but also by phone and online.</p>
+
+<p>No matter how busy, Stan never turned away a query that I sent him from our Central Office in Virginia. He was always open and friendly, though keeping to the business at hand with a professionalism that was striking. As IASD’s President in 1993-1994, he was an exemplary leader and guided us to proper decisions and actions. He continues to share his wisdom at board meetings and online. Coming back from his many trips, he faces hundreds of e-mails which he answers, supporting everyone from beginning students to established colleagues and researchers. Serious when need be, Stan can also be great fun—watch him at IASD Dream Balls!</p>
+
+<p>Despite his fame and well-deserved awards, Stan is a humble hard worker. An example: Years ago <a href="../@bobvandecastle">Bob Van de Castle</a> came to Washington DC for a meeting. On the day we’d planned to lunch together, he called to say he’d bumped into Stan and could we three eat together? Fine!</p>
+
+<p>I met them in the lobby of the hotel. Having no place special lined up, we just decided to walk up the street and look around for a likely place. It was a very hot and humid, typical DC summer weather. I asked Stan if he didn’t find it overwhelming. No problem. He said he had learned to be agreeable to the environment wherever he was. Hmmm.</p>
+
+<p>He was carrying a seemingly heavy bag and when I wondered why he didn’t leave it behind at the hotel, he explained it was full of papers written by his students at Saybrook which he was reviewing and using any spare minutes to work on them. Hmmm.</p>
+
+<p>As we walked up the street, we saw a restaurant, <a href="https://wtop.com/dc/2018/09/duke-zeiberts-dominion-how-an-iconic-restaurant-brought-old-dc-together/">Duke Zeibert’s</a>, an establishment where the power people of Washington used to meet. It surely was a convenient location, but I doubted we could get in without reservations. As we walked up the elegant entry stairs, there at the top was the host himself, <a href="https://en.wikipedia.org/wiki/Duke_Zeibert">Duke Zeibert</a>, a man of great influence in DC.</p>
+
+<p>“Stan!” Duke called out with great surprise and delight, running forward to embrace him in a warm hug! Stan had never mentioned that he knew Duke, who led us to one of the best tables in the house. We had a simple lunch and enjoyed our time together, no fuss, no fanfare. I was reminded of the advice given by an Old Testament prophet: <em>Act justly, love tenderly and walk humbly on one’s path.</em> Thanks, Stan, for leading us so well.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3pdwy ;
+    ns1:hasTag ns1:bcphbq3pdwy,
+        ns1:bcphbxjsuyu ;
+    ns1:inIssue ns1:bcphbxjsuyu ;
+    ns1:itemId "bcpov4kchstm"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Honouring Stan the Man"^^xsd:string ;
+    ns1:urlSlug "honouring-stan-the-man"^^xsd:string .
+
 ns1:bcpov6christ a ns1:Post ;
     ns1:dateCreated "2001-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6christ-0.jpg" alt="Face of Jesus" width="350" height="auto"/></p>
@@ -17443,8 +17470,10 @@ ns1:bcpoz2zapitt a ns1:Post ;
 <p>I am happy to have been there with you, Stan, when you began this remarkable journey and we all hope to be kept informed of your continuing adventures.</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqflull ;
-    ns1:hasTag ns1:bcphbqflull ;
+    ns1:hasTag ns1:bcphbqflull,
+        ns1:bcphbxjsuyu ;
     ns1:hasTopic ns1:bcphbq3krip ;
+    ns1:inIssue ns1:bcphbxjsuyu ;
     ns1:itemId "bcpoz2zapitt"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "A Psychologist in the Tradition of William James and Gardner Murphy"^^xsd:string ;
@@ -20384,21 +20413,6 @@ ns1:bcphbq3msa a ns1:User ;
     ns1:name "Stephen Aizenstat, Ph.D."^^xsd:string ;
     ns1:profileImg "author-stephen-aizenstat.jpg"^^xsd:string .
 
-ns1:bcphbq3pdwy a ns1:User ;
-    ns1:description """<p>Consider the words of astronaut Edgar Mitchell, <em>"There are no unnatural or supernatural phenomena, only very large gaps in our knowledge of what is natural."</em></p>
-
-<p>I used to say I was a convert from outer space to inner space, having a professional life in the aerospace industry during its early years, and eventually ending up much later fully immersed in the dreamwork field. I've become aware that all of my life experiences and interests have led to a greater understanding of myself and the world in which I live, as well as the many possibilites that exist beyond, yet to be explored.</p>
-
-<p>In 1959, I nearly burned to death in an industrial accident, the explosion of rocket fuel in a laboratory in which I worked for one of our earliest pioneers in the aerospace industry. My life was saved by Ed Butler, a co-worker, who had repeated nightmares about the accident and rescuing me. When it happened in waking reality, he did as he had in the dreams, and I am alive because of his "dream rehearsals", as he calls them. Much of my life since that time has been a search to understand and use these wonderful gifts we are given nightly, particularly those mysterious experiences, such as telepathy, precognition, and other anomalous phenomena which current scientific theories can't fully explain but which happen to persons of all ages, cultures and belief systems. This search has led to a deeper understanding of the connectedness of all humans/dreamers and all of life, animate as well as what we label inanimate, which is nonetheless brimming with energy. We have enormous powers of the mind, waking and sleeping, and we're not using them... because we don't know we can. That is my current goal, to spread the good news and to make others aware not only of the collective unconscious which Carl Jung described, but also of a collective consciousness that drives our actions and our society. Beyond that, there is a sense of the universal collective that impacts upon everything in our universe.</p>
-
-<p>In 1983, the same year that we founded the Metro D.C. Dream Community (MDCDC) in Vienna, VA, a Washington, DC suburb, I read of plans to hold an international multidisciplinary meeting on dreams. Persons were invited to send financial backing and thus become Founding Life Members of what was to become the International Association for the Study of Dreams (IASD). I sent in my $100 and have been hooked on MDCDC and IASD ever since! </p>
-"""^^xsd:string ;
-    ns1:handle "ritadwyer"^^xsd:string ;
-    ns1:itemId "bcphbq3pdwy"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Rita Dwyer"^^xsd:string ;
-    ns1:profileImg "author_ritadwyer.jpg"^^xsd:string .
-
 ns1:bcphbq3rcwi a ns1:User ;
     ns1:description """<p>Website: <a href="http://dreamgate.com/">dreamgate.com</a></p>
 
@@ -21370,6 +21384,21 @@ ns1:bcphbq3olse a ns1:User ;
     ns1:name "Fred Olsen"^^xsd:string ;
     ns1:profileImg "author-fredolsen.jpg"^^xsd:string .
 
+ns1:bcphbq3pdwy a ns1:User ;
+    ns1:description """<p>Consider the words of astronaut Edgar Mitchell, <em>"There are no unnatural or supernatural phenomena, only very large gaps in our knowledge of what is natural."</em></p>
+
+<p>I used to say I was a convert from outer space to inner space, having a professional life in the aerospace industry during its early years, and eventually ending up much later fully immersed in the dreamwork field. I've become aware that all of my life experiences and interests have led to a greater understanding of myself and the world in which I live, as well as the many possibilites that exist beyond, yet to be explored.</p>
+
+<p>In 1959, I nearly burned to death in an industrial accident, the explosion of rocket fuel in a laboratory in which I worked for one of our earliest pioneers in the aerospace industry. My life was saved by Ed Butler, a co-worker, who had repeated nightmares about the accident and rescuing me. When it happened in waking reality, he did as he had in the dreams, and I am alive because of his "dream rehearsals", as he calls them. Much of my life since that time has been a search to understand and use these wonderful gifts we are given nightly, particularly those mysterious experiences, such as telepathy, precognition, and other anomalous phenomena which current scientific theories can't fully explain but which happen to persons of all ages, cultures and belief systems. This search has led to a deeper understanding of the connectedness of all humans/dreamers and all of life, animate as well as what we label inanimate, which is nonetheless brimming with energy. We have enormous powers of the mind, waking and sleeping, and we're not using them... because we don't know we can. That is my current goal, to spread the good news and to make others aware not only of the collective unconscious which Carl Jung described, but also of a collective consciousness that drives our actions and our society. Beyond that, there is a sense of the universal collective that impacts upon everything in our universe.</p>
+
+<p>In 1983, the same year that we founded the Metro D.C. Dream Community (MDCDC) in Vienna, VA, a Washington, DC suburb, I read of plans to hold an international multidisciplinary meeting on dreams. Persons were invited to send financial backing and thus become Founding Life Members of what was to become the International Association for the Study of Dreams (IASD). I sent in my $100 and have been hooked on MDCDC and IASD ever since! </p>
+"""^^xsd:string ;
+    ns1:handle "ritadwyer"^^xsd:string ;
+    ns1:itemId "bcphbq3pdwy"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Rita Dwyer"^^xsd:string ;
+    ns1:profileImg "author_ritadwyer.jpg"^^xsd:string .
+
 ns1:bcphbq3rste a ns1:User ;
     ns1:coverImg "cover-author-star-edwards.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.starharp.com/" target="_blank">starharp.com</a></p>
@@ -22142,21 +22171,6 @@ ns1:bcphbqskoff a ns1:User ;
     ns1:name "Deborah Koff-Chapin"^^xsd:string ;
     ns1:profileImg "author-deborahkoffchapin.jpg"^^xsd:string .
 
-ns1:bcphbxjsuyu a ns1:Post ;
-    ns1:coverImg "26.1-2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf" download="">Download issue 26.1-2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocbmxkx ;
-    ns1:hasTopic ns1:bcphbq3krip ;
-    ns1:itemId "bcphbxjsuyu"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 26, issue 1: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
-    ns1:profileImg "26.1-2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "26.1-2"^^xsd:string .
-
 ns1:bcphbygiw4g a ns1:Post ;
     ns1:coverImg "28.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
@@ -22272,6 +22286,21 @@ ns1:bcphbq3bogz a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Fariba Bogzaran"^^xsd:string ;
     ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
+
+ns1:bcphbxjsuyu a ns1:Post ;
+    ns1:coverImg "26.1-2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf" download="">Download issue 26.1-2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocbmxkx ;
+    ns1:hasTopic ns1:bcphbq3krip ;
+    ns1:itemId "bcphbxjsuyu"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 26, issue 1: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
+    ns1:profileImg "26.1-2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "26.1-2"^^xsd:string .
 
 ns1:bcphbqvreed a ns1:User ;
     ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;

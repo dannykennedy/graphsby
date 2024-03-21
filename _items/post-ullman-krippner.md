@@ -7,6 +7,8 @@ tags:
     - hasTag: montagueullman
     - hasAuthor: montagueullman
     - hasTopic: stanleykrippner
+    - hasTag: 26.1-2
+    - inIssue: 26.1-2
 type: post
 urlSlug: a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy
 ---

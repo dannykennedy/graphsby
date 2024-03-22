@@ -308,7 +308,7 @@ for pyyam in file_objects:
 		# Find all items that have tagged the current page
 		query_string = """
 					PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-			   		SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid ?type ?relationship
+			   		SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid ?type ?relationship ?metaDescription
 			   		WHERE {{
 			   		?currentItem dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
 			   		?item ?relationship ?currentItem .
@@ -319,6 +319,7 @@ for pyyam in file_objects:
 					?item dnj:handle|dnj:urlSlug ?stringid .
 					?item a ?type .
 					OPTIONAL {{ ?item dnj:profileImg ?img }}
+					OPTIONAL {{ ?item dnj:metaDescription ?metaDescription }}
 			   		}}
 					ORDER BY DESC(?dateCreated)""".format(string_identifier=item_string_identifier)
 
@@ -333,6 +334,9 @@ for pyyam in file_objects:
 	for row in q:
 
 		item_id = row[3]
+		meta_desc = ""
+		if 9 < len(row):
+			meta_desc = row[9]
 
 		# item_to_page_relation is the predicate that links the item to the page
 		# e.g. hasAuthor, hasTag, featuredIn
@@ -349,7 +353,7 @@ for pyyam in file_objects:
 		# This is literally Inception
 		query_string = """
 			PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-			SELECT DISTINCT ?littleTag ?tagName ?tagId ?textId ?tagType ?property ?image
+			SELECT DISTINCT ?littleTag ?tagName ?tagId ?textId ?tagType ?property ?image ?metaDescription
 			WHERE {{
 				?item dnj:itemId "{id}"^^xsd:string .
 				?item ?property ?littleTag .
@@ -358,6 +362,7 @@ for pyyam in file_objects:
 				?littleTag dnj:handle|dnj:urlSlug ?textId .
 				?littleTag a ?tagType .
 				?littleTag dnj:profileImg ?image
+				OPTIONAL {{ ?littleTag dnj:metaDescription ?metaDescription }}
 			}}""".format(id=item_id)
 		tag_query = graph.query(query_string)
 
@@ -373,6 +378,7 @@ for pyyam in file_objects:
 			tagType = lil_tag[4].split("#")[1]
 			relation = lil_tag[5].split("#")[1]
 			image = lil_tag[6]
+			meta_description = lil_tag[7]
 
 			tagLink = ""
 			if tagType == "Page" or tagType == "User":
@@ -383,9 +389,9 @@ for pyyam in file_objects:
 			cssTagClass = map_class_to_css_tag(tagType)
 
 			if relation == "hasTag":
-				little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
+				little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "metaDescription": meta_description})
 			elif relation == "hasAuthor":
-				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image})
+				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "metaDescription": meta_description})
 
 		dateOfPost = row[4]
 		date_string = ""
@@ -409,7 +415,7 @@ for pyyam in file_objects:
 			card_type_literal = "Post"
 
 		# Add to array
-		item_to_add = {"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link, "card_type": card_type_literal}
+		item_to_add = {"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link, "card_type": card_type_literal, "metaDescription": meta_desc}
 
 		if item_to_page_relation == "featuredIn":
 			featured_items.append(item_to_add)

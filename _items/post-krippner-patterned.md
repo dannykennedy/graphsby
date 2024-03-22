@@ -10,6 +10,7 @@ tags:
     - inIssue: 26.4
 type: post
 urlSlug: "dreams-are-patterned-and-have-meaning"
+metaDescription: "Dream narratives are not meaningless, but reflect a basic continuity with waking life. By Stanley Krippner and Allan Combs."
 ---
 
 _by [Stanley Krippner](https://stanleykrippner.weebly.com/) & [Allan Combs](https://sourceintegralis.org/)_

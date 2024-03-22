@@ -17984,6 +17984,7 @@ ns1:bcpoz5zchdap a ns1:Post ;
     ns1:inIssue ns1:bcphbxplpmw ;
     ns1:itemId "bcpoz5zchdap"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
+    ns1:metaDescription "Dream narratives are not meaningless, but reflect a basic continuity with waking life. By Stanley Krippner and Allan Combs."^^xsd:string ;
     ns1:name "Dreams Are Patterned and Have Meaning: An Argument for Continuity Between Dream Life and Waking Life"^^xsd:string ;
     ns1:urlSlug "dreams-are-patterned-and-have-meaning"^^xsd:string .
 

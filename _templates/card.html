@@ -51,6 +51,8 @@
         <div class="profile-img-container">
             <img src="{{'../images/' + post.profileImg}}" alt="profile image" class="{{post.card_type}}-profile-img" />
         </div>
+        {% endif %} {% if post.metaDescription %}
+        <p class="card-text">{{post.metaDescription}}</p>
         {% endif %}
     </div>
     <div class="card-footer">

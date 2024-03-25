@@ -11,6 +11,7 @@ tags:
 date: 2015-03-24
 profileImg: author-stanley-krippner.jpg
 coverImg: cover-author-stanley-krippner.jpg
+ogImg: ogimage-author-stanley-krippner.jpg
 ---
 
 Website: [stanleykrippner.weebly.com](https://stanleykrippner.weebly.com)

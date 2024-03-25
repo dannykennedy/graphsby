@@ -20,7 +20,9 @@
         />
         {% endif %}
         <!-- og:image -->
-        {% if render_item.coverImg %}
+        {% if render_item.ogImg %}
+        <meta property="og:image" content="https://dreamnetworkjournal.com/images/{{render_item.ogImg}}" />
+        {% elif render_item.coverImg %}
         <meta property="og:image" content="https://dreamnetworkjournal.com/images/{{render_item.coverImg}}" />
         {% elif render_item.profileImg %}
         <meta property="og:image" content="https://dreamnetworkjournal.com/images/{{render_item.profileImg}}" />

@@ -19002,6 +19002,10 @@ ns1:name a owl:DatatypeProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range xsd:string .
 
+ns1:ogImg a owl:DatatypeProperty ;
+    rdfs:domain ns1:Item ;
+    rdfs:range xsd:string .
+
 ns1:post a ns1:Post ;
     ns1:dateCreated "2004-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6grcdan-0.jpg" width="500px" height="auto"/><!--nopreview--><div style="text-align:center"><i>Berry College Dance Troupe, directed by Jeanne Schul Elkins. Photo: Chris Love</i></div><!--/nopreview--></p>
@@ -22392,8 +22396,6 @@ ns1:bcphbqvcors a ns1:User ;
     ns1:name "Bambi Corso"^^xsd:string ;
     ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
 
-ns1:Item a owl:Class .
-
 ns1:bcphbq3rpac a ns1:User ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
     ns1:description """<p>On Academia.edu: <a href="https://independent.academia.edu/PacoMitchell">academia.edu/PacoMitchell</a></p>
@@ -22409,6 +22411,8 @@ ns1:bcphbq3rpac a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Paco Mitchell"^^xsd:string ;
     ns1:profileImg "author-paco.jpg"^^xsd:string .
+
+ns1:Item a owl:Class .
 
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
@@ -22512,6 +22516,7 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:metaDescription "Stanley Krippner is a psychologist and parapsychologist, and author of the well-known book 'Personal Mythology'. This page gathers all his articles for the Dream Network Journal."^^xsd:string ;
     ns1:metaKeywords "Stanley Krippner, Krippner, Dr. Krippner, Dream Network"^^xsd:string ;
     ns1:name "Stanley Krippner, Ph.D."^^xsd:string ;
+    ns1:ogImg "ogimage-author-stanley-krippner.jpg"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
 
 ns1:User rdfs:subClassOf ns1:Actor,

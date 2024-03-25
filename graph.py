@@ -59,6 +59,7 @@ dateCreated = dreamNS['dateCreated']
 layout = dreamNS['layout']
 profileImg = dreamNS['profileImg']
 coverImg = dreamNS['coverImg']
+ogImg = dreamNS['ogImg']
 urlSlug = dreamNS['urlSlug']
 featuredLabel = dreamNS['featuredLabel']
 canonicalUrl = dreamNS['canonicalUrl']
@@ -141,6 +142,11 @@ def createGraph():
 	(coverImg, rdfType, owlDatatypeProperty),
 	(coverImg, rdfsDomain, itemClass),
 	(coverImg, rdfsRange, xsdString),
+
+	# Open Graph image
+	(ogImg, rdfType, owlDatatypeProperty),
+	(ogImg, rdfsDomain, itemClass),
+	(ogImg, rdfsRange, xsdString),
 
 	# Featured label
 	(featuredLabel, rdfType, owlDatatypeProperty),

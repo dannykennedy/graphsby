@@ -177,6 +177,9 @@ for pyyam in file_objects:
 	# Cover image
 	if 'coverImg' in pyyam.keys():
 		instances.append((newItem, coverImg, Literal(pyyam['coverImg'], datatype=xsdString)))
+	# Og:image
+	if 'ogImg' in pyyam.keys():
+		instances.append((newItem, ogImg, Literal(pyyam['ogImg'], datatype=xsdString)))
 
 	# Featured Label
 	if 'featuredLabel' in pyyam.keys():

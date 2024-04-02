@@ -17,7 +17,7 @@ profileImg: corso-schneider.jpg
 
 ![Lauren Schneider and Bambi Corso](../images/corso-schneider.jpg)
 
-<!--nopreview--><div class="caption" style="text-align: center;"><i>You can read the original PDF version of this article <a href="https://www.dreamsandtarotpy.com/s/Beyond-the-Veil-Interview-2014.pdf">here</a></i></div><!--/nopreview-->
+<!--nopreview--><div class="caption" style="text-align: center; margin-bottom: 3rem;"><i>You can read the original PDF version of this article <a href="https://www.dreamsandtarotpy.com/s/Beyond-the-Veil-Interview-2014.pdf">here</a></i></div><!--/nopreview-->
 
 [Lauren](../@laurenschneider) is the founder of the [Institute of Dreams and Tarotpy®](https://www.dreamsandtarotpy.com/) where she offers a 6-month training and certification program titled _Tarotpy: An Innovative Approach to Depth Therapy and Dreamwork_. She is also a contributing author for the book _Ecotherapy: Healing with Nature in Mind_. Tarotpy is included in the _Encyclopedia for Sleep and Dreams_, compiled out of Harvard.
 

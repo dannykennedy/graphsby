@@ -24,6 +24,6 @@ This sample of lucid dreams were also split into high and low dream control pres
 -   Gackenbach, J.I., Sachau, D., & Rakes, L. _Vestibular Sensitivity and Dynamic and Static Motor Balance as a Function of Sex and Lucid Dreaming Frequency_, Sleep Research , 1982, in press.
 -   Gackenbach, J.I., & Schillig, B. _Lucid Dreams: The Content of Conscious Awareness of Dreaming during the Dream_, Journal of Mental Imagery, 1982, in press.
 
-_This article was reprinted with permission from the "Lucidity Letter", vol. 1, no. 4, October, 1982._
+_This article was reprinted with permission from the ["Lucidity Letter"](https://journals.macewan.ca/lucidity/home), vol. 1, no. 4, October, 1982. You can find the PDF [here](https://journals.macewan.ca/lucidity/article/view/574/489)_
 
 <img src="../images/gackenback-types-article.jpg" width="500">

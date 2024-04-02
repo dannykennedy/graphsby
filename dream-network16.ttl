@@ -138,20 +138,6 @@ ns1:bcphbje2mwm a ns1:Post ;
     ns1:profileImg "2.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "2.3"^^xsd:string .
 
-ns1:bcphbjilydj a ns1:Post ;
-    ns1:coverImg "2.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf" download="">Download issue 2.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn72unjj ;
-    ns1:itemId "bcphbjilydj"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 2, issue 4"^^xsd:string ;
-    ns1:profileImg "2.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "2.4"^^xsd:string .
-
 ns1:bcphbjmcifx a ns1:Post ;
     ns1:coverImg "2.5-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-05-01T11:32:52"^^xsd:dateTime ;
@@ -17032,6 +17018,34 @@ ns1:bcpov8giwfod a ns1:Post ;
     ns1:name "Festival of Dreams"^^xsd:string ;
     ns1:urlSlug "festival-of-dreams"^^xsd:string .
 
+ns1:bcpov9rsgdbt a ns1:Post ;
+    ns1:dateCreated "1983-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Undergraduate psychology students described 313 lucid dreams and their situational determinants over a 16-week period. In terms of techniques used to determine lucidity the dreamlike quality (48.2%) was reported most frequently followed by incongruent element (19.2%), and nightmare-initiated (15%) with other techniques constituting the remainder. When these three types of lucid dreams were compared in terms of situational constraints both the day before and the day after the dream and in terms of the content of these dreams, an interesting pattern of results emerged for the dreamlike-initiated lucids versus the nightmare initiated lucids. The day before the nightmare-initiated lucid subjects reported more tests and depressed feelings and fewer non-hostile feelings, feelings of attention and secure feelings than on days before lucid dreams which were initiated by the dreamlike quality of the dream.</p>
+
+<p>Likewise, on the day after these two types lucid dreams, nightmare-initiated lucid dreams were followed by more anxiety, hostility, depression, insecurity, and lack of attention than dreamlike-initiated lucids. Not surprisingly, nightmare-initiated lucids were viewed as having fewer positive and more negative emotions than dreamlike-initiated lucids. Finally, nightmare-initiated lucids were reported as having less of a sense of dream control than the dreamlike lucids. Incongruent element initiated lucid dreams in some instances fell with dreamlike-initiated lucids. For instance, incongruent lucids were reported as having the same amount of positive emotions as nightmare-initiated lucids but significantly fewer negative emotions than nightmare-initiated lucids. In sum, dreamlike-initiated lucids represent the most experientially positive lucid dream experience. They are preceded by "good days" and result in the same.</p>
+
+<p>This sample of lucid dreams were also split into high and low dream control present in the dream groups and compared on the same set of situational and content variables. As with the previous lucid dream distinction, a clear pattern of results emerged with these data. Highly controllable lucid dreams were more likely to be characterized by a lack of anxiety on the day preceding the dream, and non-hostile and secure feelings on the day after the dream. Regarding content differences between these two types of lucid dreams, those reported as high in control were also higher in positive emotions, voices in the dream, and body sensations in the dream than those reported as low in control. The combination of auditory (voices) and kinesthetic (body sensations) sensations suggest the balance dimension in lucid dreams reported by Gackenbach and Schillig (1982) and verified by Gackenbach, Sachau, and Rakes (1982)</p>
+
+<h2>References</h2>
+
+<ul>
+<li><p>Gackenbach, J.I., Sachau, D., &amp; Rakes, L. <em>Vestibular Sensitivity and Dynamic and Static Motor Balance as a Function of Sex and Lucid Dreaming Frequency</em>, Sleep Research , 1982, in press.</p></li>
+<li><p>Gackenbach, J.I., &amp; Schillig, B. <em>Lucid Dreams: The Content of Conscious Awareness of Dreaming during the Dream</em>, Journal of Mental Imagery, 1982, in press.</p></li>
+</ul>
+
+<p>* This article was reprinted with permission from the "Lucidity Letter", vol. 1, no. 4, October, 1982.</p>
+
+<p><img src="../images/gackenback-types-article.jpg" width="700"></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqchjgb ;
+    ns1:hasTag ns1:bcphbjilydj,
+        ns1:bcphbqchjgb ;
+    ns1:inIssue ns1:bcphbjilydj ;
+    ns1:itemId "bcpov9rsgdbt"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Differences Between Types of Lucid Dreams"^^xsd:string ;
+    ns1:urlSlug "differences-between-types-of-lucid-dreams"^^xsd:string .
+
 ns1:bcpovdreamg a ns1:Post ;
     ns1:dateCreated "2020-10-03T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>This is a regularly updated list of Dream Sharing groups. If you've never tried a dream sharing group before, we thoroughly recommend it. Most groups use some variety of the <a href="../bcpov6rssull/the-ullman-method-of-dream-analysis">Ullman method</a>. </p>
@@ -19365,6 +19379,20 @@ ns1:bcphbivy3pu a ns1:Post ;
     ns1:profileImg "1.11-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.11"^^xsd:string .
 
+ns1:bcphbjilydj a ns1:Post ;
+    ns1:coverImg "2.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf" download="">Download issue 2.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
+    ns1:itemId "bcphbjilydj"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 2, issue 4"^^xsd:string ;
+    ns1:profileImg "2.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "2.4"^^xsd:string .
+
 ns1:bcphbjpp3z2 a ns1:Post ;
     ns1:coverImg "2.6-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-06-01T11:32:52"^^xsd:dateTime ;
@@ -19709,6 +19737,20 @@ ns1:bcphbqchher a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "John W. Herbert, Ph.D."^^xsd:string ;
     ns1:profileImg "author-john-herbert.jpg"^^xsd:string .
+
+ns1:bcphbqchjgb a ns1:User ;
+    ns1:coverImg "cover-author-jayne-gackenbach.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://jaynegackenbach.ca/">jaynegackenbach.ca</a></p>
+
+<p>Jayne Gackenbach earned her Ph.D. in Experimental Psychology in 1978 and is a retired <a href="https://www.macewan.ca/academics/academic-departments/psychology/our-people/profile/?profileid=gackenbachj">Emeritus Professor in Psychology</a> from MacEwan University. She remains actively involved in the field, teaching online for Athabasca University. Gackenbach has had a prominent role in dream research, serving as the past-president of the International Association for the Study of Dreams and authoring several pivotal books on the subject including <a href="https://www.goodreads.com/en/book/show/345114">“Control Your Dreams”</a> and contributing to volumes such as “Conscious Mind, Sleeping Brain: Perspectives on Lucid Dreaming” and “Sleep and Dreams: A Sourcebook”. She presented her research on lucid dreams to the Dalai Lama in 1992.</p>
+
+<p>In addition to her work on dreams, Gackenbach's professional interests expanded into the realm of digital communications and the psychological implications of internet use. She edited <a href="https://www.amazon.com.au/Psychology-Internet-Intrapersonal-Interpersonal-Transpersonal/dp/0123694256">“Psychology and the Internet: Intrapersonal, Interpersonal, and Transpersonal Implications”</a> and co-authored <a href="https://www.amazon.com/Cyber-Rules-Really-About-Internet/dp/039370484X">“cyber.rules”</a>. Bridging her two areas of expertise, her later research has focused on the intersection of dreams and technology, particularly investigating the dreams of video game players. This culminated in the publication of the publication of two notable works in 2012: <a href="https://www.amazon.com/Play-Reality-Video-Changing-Everything-ebook/dp/B007ARWUCW/?_encoding=UTF8&pd_rd_w=huNLC&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=140-3392018-6006703&pd_rd_wg=pLaRB&pd_rd_r=d650fb76-8f2a-41c2-a941-d19036d0201a&ref_=aufs_ap_sc_dsk">“Play Reality”</a>, which she co-authored with her son Teace Snyder and examines the impact of video game play on reality perception, and the edited volume <a href="https://www.amazon.com/Consciousness-Perspectives-Psychology-Technology-Applications/dp/1620811138">“Video Game Play and Consciousness”</a> from NOVA publishers. These books reflect Gackenbach's approach to studying the effects of immersive digital environments on the subconscious experiences within dreams, contributing to a deeper understanding of the modern psyche as it interfaces with technology.</p>
+"""^^xsd:string ;
+    ns1:handle "jaynegackenbach"^^xsd:string ;
+    ns1:itemId "bcphbqchjgb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jayne Gackenbach"^^xsd:string ;
+    ns1:profileImg "author-jayne-gackenbach.jpg"^^xsd:string .
 
 ns1:bcphbqfhill a ns1:User ;
     ns1:coverImg "cover-author-deena-metzger.jpg"^^xsd:string ;

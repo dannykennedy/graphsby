@@ -923,6 +923,38 @@ ns1:bcpot5kidnbt a ns1:Post ;
     ns1:profileImg "vandecastle-telepahy-1.jpg"^^xsd:string ;
     ns1:urlSlug "the-dnb-telepathy-project"^^xsd:string .
 
+ns1:bcpov1rsjwpt a ns1:Post ;
+    ns1:dateCreated "1988-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://en.wikipedia.org/wiki/Paul_Tholey">Paul Tholey</a> is a German sports psychologist. At age 40 he was the national skateboarding champion. He also does trick skiing and unicycling, activities high on risk and balance. He claims to perfect his athletic ability in lucid dreams and he has trained an Olympic equestrian from South America using lucidity.</p>
+
+<p>Tholey has been working with lucid dreams since 1969. With psychotherapist Norbert Sattler, Tholey has developed a program of psychotherapy within the lucid dream.</p>
+
+<p>Sattler first screens his clients for psychopathology using psychometric tests. Then he introduces them to the concept of lucidity and the idea of working therapeutically within the lucid dream. About one/third take him up on the idea. He then trains those clients in lucidity, using some ten variations, including induction devices, which Tholey has developed over the years.</p>
+
+<p>Tholey uses a very stringent definition of lucidity: dreamers know they are dreaming, have full awareness of where they are and of the waking state, are in possession of all of their senses and in full control of what is going on within the dream.</p>
+
+<p>It is Tholey's contention that the best psychotherapeutic technique is working with dream characters. He follows the Gestalt Theory that personality exists in a field, and aspects of the personality are the characters in the dream. Dialoguing with them permits resolution and integration of the personality. A question begins the dialogue. Tholey suggests the best wording is "Who Am I?".</p>
+
+<p>Tholey is especially enamored of confrontive characters, preferably hostile ones, to enable conflict resolution. He suggests if the dreamer doesn't have one, to get one. He argues strongly that the dream has a builtin safety mechanism and is convinced that dreamers will only encounter that which they are prepared to encounter. He claims that lucidity provides quick resolution of inner conflicts.</p>
+
+<p>He also argues that lucidity is preferable to the therapist's relationship because it is the dreamers' own self-contained field, their own dynamic, which is involved. The therapist is there to teach lucid dream techniques and to answer questions that come up in the process. In order to use the lucid state as an athletic training ground, he suggests the following 3 steps:</p>
+
+<ul>
+<li><p>Model Building - Find a person to emulate, then take that model into the dream. Follow the dream character around (like a skier down a mountain) to discover the subtleties of movement and copy them.</p></li>
+<li><p>Practice - Perfect those movements without danger of injury.</p></li>
+<li><p>Expansion of Self - Stretch the peripheral senses (In skiing, expand the self to the tip of the ski and experience from there). Tholey believes this last point is the key to excellence.</p></li>
+</ul>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqchjgb ;
+    ns1:hasTag ns1:bcphbnp3qol,
+        ns1:bcphbqchjgb ;
+    ns1:inIssue ns1:bcphbnp3qol ;
+    ns1:itemId "bcpov1rsjwpt"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:metaDescription "Jayne Gackenbach reports on the work of Paul Tholey, a German sports psychologist who has been working with lucid dreams since 1969. Tholey has developed a program of psychotherapy within the lucid dream and has trained an Olympic equestrian from South America using lucidity."^^xsd:string ;
+    ns1:name "Jayne Gackenbach's Report On The Work Of Paul Tholey"^^xsd:string ;
+    ns1:urlSlug "gackenbach-report-on-tholey"^^xsd:string .
+
 ns1:bcpov4kchstm a ns1:Post ;
     ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Others have done a superb job of describing <a href="../@stanleykrippner">Stanley Krippner</a> and his reputation as an inveterate traveler and good-will ambassador, making impactful connections throughout our world. Stan is truly “The Man” when it comes to pioneering and researching new frontiers of mind and space—a fearless cosmonaut.</p>
@@ -17033,7 +17065,7 @@ ns1:bcpov9rsgdbt a ns1:Post ;
 <li><p>Gackenbach, J.I., &amp; Schillig, B. <em>Lucid Dreams: The Content of Conscious Awareness of Dreaming during the Dream</em>, Journal of Mental Imagery, 1982, in press.</p></li>
 </ul>
 
-<p>* This article was reprinted with permission from the "Lucidity Letter", vol. 1, no. 4, October, 1982.</p>
+<p><em>This article was reprinted with permission from the "Lucidity Letter", vol. 1, no. 4, October, 1982.</em></p>
 
 <p><img src="../images/gackenback-types-article.jpg" width="500"></p>
 """^^xsd:string ;
@@ -17043,6 +17075,7 @@ ns1:bcpov9rsgdbt a ns1:Post ;
     ns1:inIssue ns1:bcphbjilydj ;
     ns1:itemId "bcpov9rsgdbt"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
+    ns1:metaDescription "Jayne Gackenbach reports on the differences between types of lucid dreams. She describes the situational determinants of lucid dreams and the techniques used to determine lucidity."^^xsd:string ;
     ns1:name "Differences Between Types of Lucid Dreams"^^xsd:string ;
     ns1:urlSlug "differences-between-types-of-lucid-dreams"^^xsd:string .
 
@@ -17121,11 +17154,12 @@ ns1:bcpov9rsjgsl a ns1:Post ;
 <p><strong>LaBerge:</strong> You will access different parts of your memory depending on your current state. Memory is designed to be used in a given context. If you have a different understanding of what's going on, you'll access a different set of memories. So as soon as you become lucid, you say, "What's going on here? I'm asleep in bed" and that brings up memories about lucid dreaming, for example, and principles that you've learned and things that you can do in the dream state.</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqchjgb ;
-    ns1:hasTag ns1:bcphbjilydj,
+    ns1:hasTag ns1:bcphbnp3qol,
         ns1:bcphbqchjgb ;
-    ns1:inIssue ns1:bcphbjilydj ;
+    ns1:inIssue ns1:bcphbnp3qol ;
     ns1:itemId "bcpov9rsjgsl"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
+    ns1:metaDescription "Jayne Gackenbach and Stephen LaBerge present their views and research on lucid dreaming. Gackenbach has produced and gathered normative data using experimental methods to answer three important questions about lucidity. LaBerge believes the primary determinant of dream experience is expectation."^^xsd:string ;
     ns1:name "Lucidity reports from Jayne Gackenbach & Stephen LaBerge"^^xsd:string ;
     ns1:urlSlug "lucidity-reports-from-jayne-gackenbach-and-stephen-laberge"^^xsd:string .
 
@@ -19462,6 +19496,20 @@ ns1:bcphbivy3pu a ns1:Post ;
     ns1:profileImg "1.11-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.11"^^xsd:string .
 
+ns1:bcphbjilydj a ns1:Post ;
+    ns1:coverImg "2.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf" download="">Download issue 2.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
+    ns1:itemId "bcphbjilydj"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 2, issue 4"^^xsd:string ;
+    ns1:profileImg "2.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "2.4"^^xsd:string .
+
 ns1:bcphbjpp3z2 a ns1:Post ;
     ns1:coverImg "2.6-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-06-01T11:32:52"^^xsd:dateTime ;
@@ -19545,20 +19593,6 @@ ns1:bcphbmaewem a ns1:Post ;
     ns1:name "Volume 4, issue 6"^^xsd:string ;
     ns1:profileImg "4.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "4.6"^^xsd:string .
-
-ns1:bcphbnp3qol a ns1:Post ;
-    ns1:coverImg "7.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.4-Dream-Network-Bulletin_Volume-7-Number-4.pdf" download="">Download issue 7.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.4-Dream-Network-Bulletin_Volume-7-Number-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaivzve ;
-    ns1:itemId "bcphbnp3qol"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 7, issue 4"^^xsd:string ;
-    ns1:profileImg "7.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "7.4"^^xsd:string .
 
 ns1:bcphbntd445 a ns1:Post ;
     ns1:coverImg "7.5-cover.jpg"^^xsd:string ;
@@ -20465,20 +20499,6 @@ ns1:bcphbhs662v a ns1:Post ;
     ns1:profileImg "1.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.3"^^xsd:string .
 
-ns1:bcphbjilydj a ns1:Post ;
-    ns1:coverImg "2.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf" download="">Download issue 2.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn72unjj ;
-    ns1:itemId "bcphbjilydj"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 2, issue 4"^^xsd:string ;
-    ns1:profileImg "2.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "2.4"^^xsd:string .
-
 ns1:bcphbliwn3u a ns1:Post ;
     ns1:coverImg "3.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1984-07-01T11:32:52"^^xsd:dateTime ;
@@ -20754,20 +20774,6 @@ ns1:bcphbqbynum a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Edward Bruce Bynum, Ph.D., ABPP"^^xsd:string ;
     ns1:profileImg "author-edward-bynum.jpg"^^xsd:string .
-
-ns1:bcphbqchjgb a ns1:User ;
-    ns1:coverImg "cover-author-jayne-gackenbach.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://jaynegackenbach.ca/">jaynegackenbach.ca</a></p>
-
-<p>Jayne Gackenbach earned her Ph.D. in Experimental Psychology in 1978 and is a retired <a href="https://www.macewan.ca/academics/academic-departments/psychology/our-people/profile/?profileid=gackenbachj">Emeritus Professor in Psychology</a> from MacEwan University. She remains actively involved in the field, teaching online for Athabasca University. Gackenbach has had a prominent role in dream research, serving as the past-president of the International Association for the Study of Dreams and authoring several pivotal books on the subject including <a href="https://www.goodreads.com/en/book/show/345114">“Control Your Dreams”</a> and contributing to volumes such as “Conscious Mind, Sleeping Brain: Perspectives on Lucid Dreaming” and “Sleep and Dreams: A Sourcebook”. She presented her research on lucid dreams to the Dalai Lama in 1992.</p>
-
-<p>In addition to her work on dreams, Gackenbach's professional interests expanded into the realm of digital communications and the psychological implications of internet use. She edited <a href="https://www.amazon.com.au/Psychology-Internet-Intrapersonal-Interpersonal-Transpersonal/dp/0123694256">“Psychology and the Internet: Intrapersonal, Interpersonal, and Transpersonal Implications”</a> and co-authored <a href="https://www.amazon.com/Cyber-Rules-Really-About-Internet/dp/039370484X">“cyber.rules”</a>. Bridging her two areas of expertise, her later research has focused on the intersection of dreams and technology, particularly investigating the dreams of video game players. This culminated in the publication of the publication of two notable works in 2012: <a href="https://www.amazon.com/Play-Reality-Video-Changing-Everything-ebook/dp/B007ARWUCW/?_encoding=UTF8&pd_rd_w=huNLC&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=140-3392018-6006703&pd_rd_wg=pLaRB&pd_rd_r=d650fb76-8f2a-41c2-a941-d19036d0201a&ref_=aufs_ap_sc_dsk">“Play Reality”</a>, which she co-authored with her son Teace Snyder and examines the impact of video game play on reality perception, and the edited volume <a href="https://www.amazon.com/Consciousness-Perspectives-Psychology-Technology-Applications/dp/1620811138">“Video Game Play and Consciousness”</a> from NOVA publishers. These books reflect Gackenbach's approach to studying the effects of immersive digital environments on the subconscious experiences within dreams, contributing to a deeper understanding of the modern psyche as it interfaces with technology.</p>
-"""^^xsd:string ;
-    ns1:handle "jaynegackenbach"^^xsd:string ;
-    ns1:itemId "bcphbqchjgb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jayne Gackenbach"^^xsd:string ;
-    ns1:profileImg "author-jayne-gackenbach.jpg"^^xsd:string .
 
 ns1:bcphbqerish a ns1:User ;
     ns1:coverImg "cover-author-suzannahart.jpg"^^xsd:string ;
@@ -21484,6 +21490,20 @@ ns1:bcphbnlbw5k a ns1:Post ;
     ns1:profileImg "7.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.2"^^xsd:string .
 
+ns1:bcphbnp3qol a ns1:Post ;
+    ns1:coverImg "7.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.4-Dream-Network-Bulletin_Volume-7-Number-4.pdf" download="">Download issue 7.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.4-Dream-Network-Bulletin_Volume-7-Number-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaivzve ;
+    ns1:itemId "bcphbnp3qol"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 7, issue 4"^^xsd:string ;
+    ns1:profileImg "7.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "7.4"^^xsd:string .
+
 ns1:bcphbohoqoq a ns1:Post ;
     ns1:coverImg "9.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1990-01-01T11:32:52"^^xsd:dateTime ;
@@ -21663,6 +21683,22 @@ ns1:bcphbq3ryan a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Christopher Ryan"^^xsd:string ;
     ns1:profileImg "author-chris-ryan.jpg"^^xsd:string .
+
+ns1:bcphbqchjgb a ns1:User ;
+    ns1:coverImg "cover-author-jayne-gackenbach.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://jaynegackenbach.ca/">jaynegackenbach.ca</a></p>
+
+<p>Jayne Gackenbach earned her Ph.D. in Experimental Psychology in 1978 and is a retired <a href="https://www.macewan.ca/academics/academic-departments/psychology/our-people/profile/?profileid=gackenbachj">Emeritus Professor in Psychology</a> from MacEwan University. She remains actively involved in the field, teaching online for Athabasca University. Gackenbach has had a prominent role in dream research, serving as the past-president of the International Association for the Study of Dreams and authoring several pivotal books on the subject including <a href="https://www.goodreads.com/en/book/show/345114">“Control Your Dreams”</a> and contributing to volumes such as “Conscious Mind, Sleeping Brain: Perspectives on Lucid Dreaming” and “Sleep and Dreams: A Sourcebook”. She <a href="https://jaynegackenbach.ca/dalai-lama-trip-long-essay/">presented her research</a> on lucid dreams to the Dalai Lama in 1992.</p>
+
+<p>In addition to her work on dreams, Gackenbach's professional interests expanded into the realm of digital communications and the psychological implications of internet use. She edited <a href="https://www.amazon.com.au/Psychology-Internet-Intrapersonal-Interpersonal-Transpersonal/dp/0123694256">“Psychology and the Internet: Intrapersonal, Interpersonal, and Transpersonal Implications”</a> and co-authored <a href="https://www.amazon.com/Cyber-Rules-Really-About-Internet/dp/039370484X">“cyber.rules”</a>. Bridging her two areas of expertise, her later research has focused on the intersection of dreams and technology, particularly investigating the dreams of video game players. This culminated in the publication of the publication of two notable works in 2012: <a href="https://www.amazon.com/Play-Reality-Video-Changing-Everything-ebook/dp/B007ARWUCW/?_encoding=UTF8&pd_rd_w=huNLC&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=140-3392018-6006703&pd_rd_wg=pLaRB&pd_rd_r=d650fb76-8f2a-41c2-a941-d19036d0201a&ref_=aufs_ap_sc_dsk">“Play Reality”</a>, which she co-authored with her son Teace Snyder and examines the impact of video game play on reality perception, and the edited volume <a href="https://www.amazon.com/Consciousness-Perspectives-Psychology-Technology-Applications/dp/1620811138">“Video Game Play and Consciousness”</a> from NOVA publishers. These books reflect Gackenbach's approach to studying the effects of immersive digital environments on the subconscious experiences within dreams, contributing to a deeper understanding of the modern psyche as it interfaces with technology.</p>
+
+<p><em>Cover art by Jayne Gackenbach</em></p>
+"""^^xsd:string ;
+    ns1:handle "jaynegackenbach"^^xsd:string ;
+    ns1:itemId "bcphbqchjgb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jayne Gackenbach"^^xsd:string ;
+    ns1:profileImg "author-jayne-gackenbach.jpg"^^xsd:string .
 
 ns1:bcphbqerics a ns1:User ;
     ns1:coverImg "gaia_gazing_snyder.jpg"^^xsd:string ;

@@ -10,6 +10,7 @@ tags:
     - inIssue: 2.4
 type: post
 urlSlug: "differences-between-types-of-lucid-dreams"
+metaDescription: "Jayne Gackenbach reports on the differences between types of lucid dreams. She describes the situational determinants of lucid dreams and the techniques used to determine lucidity."
 ---
 
 Undergraduate psychology students described 313 lucid dreams and their situational determinants over a 16-week period. In terms of techniques used to determine lucidity the dreamlike quality (48.2%) was reported most frequently followed by incongruent element (19.2%), and nightmare-initiated (15%) with other techniques constituting the remainder. When these three types of lucid dreams were compared in terms of situational constraints both the day before and the day after the dream and in terms of the content of these dreams, an interesting pattern of results emerged for the dreamlike-initiated lucids versus the nightmare initiated lucids. The day before the nightmare-initiated lucid subjects reported more tests and depressed feelings and fewer non-hostile feelings, feelings of attention and secure feelings than on days before lucid dreams which were initiated by the dreamlike quality of the dream.
@@ -23,6 +24,6 @@ This sample of lucid dreams were also split into high and low dream control pres
 -   Gackenbach, J.I., Sachau, D., & Rakes, L. _Vestibular Sensitivity and Dynamic and Static Motor Balance as a Function of Sex and Lucid Dreaming Frequency_, Sleep Research , 1982, in press.
 -   Gackenbach, J.I., & Schillig, B. _Lucid Dreams: The Content of Conscious Awareness of Dreaming during the Dream_, Journal of Mental Imagery, 1982, in press.
 
-\* This article was reprinted with permission from the "Lucidity Letter", vol. 1, no. 4, October, 1982.
+_This article was reprinted with permission from the "Lucidity Letter", vol. 1, no. 4, October, 1982._
 
 <img src="../images/gackenback-types-article.jpg" width="500">

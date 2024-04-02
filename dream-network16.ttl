@@ -2288,7 +2288,7 @@ ns1:bcpov6greaiz a ns1:Post ;
     ns1:dateCreated "2008-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6greaiz-2.jpg" width="500px" height="auto"/></p>
 
-<p><em>Stephen Aizenstat, Ph.D. is the founding president of Pacifica Graduate Institute, a private graduate school offering masters and doctoral programs in psychology, mythological studies, and the humanities. Dr. Aizenstat is a Clinical Psychologist, a Marriage and Family Therapist, and the creator of Dream Tending, which is a method of working with the figures and landscapes of dreams as “living images.” Dr. Aizenstat regularly conducts Dream Tending workshops; a calendar of upcoming events can be accessed at <a href="https://dreamtending.com/">dreamtending.com</a>. He also has a DVD on Dream Tending produced by Bison Films and an audio CD series on Dream Tending available through Sounds True. His book, Dream Tending, will soon be released.</em></p>
+<p><em><a href="../@stephenaizenstat">Stephen Aizenstat, Ph.D.</a> is the founding president of Pacifica Graduate Institute, a private graduate school offering masters and doctoral programs in psychology, mythological studies, and the humanities. Dr. Aizenstat is a Clinical Psychologist, a Marriage and Family Therapist, and the creator of Dream Tending, which is a method of working with the figures and landscapes of dreams as “living images.” Dr. Aizenstat regularly conducts Dream Tending workshops; a calendar of upcoming events can be accessed at <a href="https://dreamtending.com/">dreamtending.com</a>. He also has a DVD on Dream Tending produced by Bison Films and an audio CD series on Dream Tending available through Sounds True. His book, Dream Tending, will soon be released.</em></p>
 
 <p><strong>Jeanne:</strong> When I watch you dream tending, what fascinates me most is how you shape-shift; the manner in which you physically change your physical being as you listen to the dream. I have witnessed you seeing the image, sometimes when it is not even in the narrative of the dream. So, if you could speak to that magical ability, I think it would serve anyone attempting to work with dreams.</p>
 
@@ -17247,11 +17247,11 @@ ns1:bcpoz1tarotp a ns1:Post ;
     ns1:dateCreated "2014-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/corso-schneider.jpg" alt="Lauren Schneider" /></p>
 
-<p>Lauren is the founder of the Institute of Dreams and Tarotpy® where she offers a 6-month training and certification program titled <em>Tarotpy: An Innovative Approach to Depth Therapy and Dreamwork</em>. She is also a contributing author for the book <em>Ecotherapy: Healing with Nature in Mind</em>. Tarotpy is included in the <em>Encyclopedia for Sleep and Dreams</em>, compiled out of Harvard.</p>
+<p><a href="../@laurenschneider">Lauren</a> is the founder of the <a href="https://www.dreamsandtarotpy.com/">Institute of Dreams and Tarotpy®</a> where she offers a 6-month training and certification program titled <em>Tarotpy: An Innovative Approach to Depth Therapy and Dreamwork</em>. She is also a contributing author for the book <em>Ecotherapy: Healing with Nature in Mind</em>. Tarotpy is included in the <em>Encyclopedia for Sleep and Dreams</em>, compiled out of Harvard.</p>
 
 <p>Pioneered in 1983 by Lauren Z. Schneider, M.A., M.F.T., <a href="https://www.dreamsandtarotpy.com/tarotpy">Tarotpy</a> combines psychotherapy practices such as family systems, hypnotherapy, narrative therapy and dream work with ancient metaphysical tools for accessing our inner wisdom and innate capacity for healing. Tarotpy uses the rich archetypal imagery of Tarot, Dream Cards, Soul Cards, etc. to lay the unconscious on the table and engage the creative imagination in problem solving and psycho-spiritual development. While on the one hand, Tarotpy is a useful projective tool; on the other hand, there is evidence of an unconscious mastermind at play in the “random” selection of specific images. Like dreams, Tarotpy goes quickly to the heart of the matter, bringing into awareness emotional, behavioral and relationship patterns. For therapists, this is a highly effective method for individual and relationship counseling; and for laypersons Tarotpy is a powerful tool for meditation, guidance and transformation.</p>
 
-<p><strong>Bambi Corso:</strong> Having originally met you at a <a href="../bcpov6grewit/dream-tending-and-storytelling">DreamTending</a> training back in 1997, I have watched you develop your practice of Tarotpy and dreamwork. Can you share with the readers how this all began?</p>
+<p><strong>Bambi Corso:</strong> Having originally met you at a <a href="../bcpov6greaiz/dream-tending-and-storytelling">DreamTending</a> training back in 1997, I have watched you develop your practice of Tarotpy and dreamwork. Can you share with the readers how this all began?</p>
 
 <p><strong>Lauren Schneider:</strong> In the summer of 1983, I left a well-paid job in television. Like the Fool of the Tarot deck, I walked off the conventional track and had no idea where I was going. One day, while I was standing at a bookstore, a stranger struck up a conversation. He held up this thick yellow book with tattered edges and explained that this was an ancient tool for guidance. He shared with me that thousands of years ago, the Chinese observed Nature with such great precision that they therefore came to understand the laws of the Universe. They observed that the same patterns in nature influence every level of existence, including family relationships, politics, social structures, and the individual psyche. Guided by these universal laws one could walk in harmony with life. Then, the man handed me his cherished traveling companion with the color pencil drawings in the inside flap, and diagrams for how to use the tool, and said, “You are supposed to walk with this now.”</p>
 
@@ -17300,6 +17300,8 @@ ns1:bcpoz1tarotp a ns1:Post ;
 <p><strong>BC:</strong> We have discussed our mutual belief that everything is connected, that there is a relationship between all living things and that so many of us are feeling the effects of what is happening to the environment and the creatures that share this earth. Do you see this playing out in your Tarotpy and dreamwork sessions as well?</p>
 
 <p><strong>LS:</strong> Many of my clients are super sensitive; like the “canaries in the mine”, they feel deeply affected by the destruction taking place all over the world to people, the environment, and animals. We see signs of dysfunction daily in financial institutions, governmental bodies, shocking current events and apocalyptic movies that reflect our collective nightmares. Whether or not people consciously identify the source of their distress, there is now an official diagnosis called Eco-anxiety. <a href="https://vimeo.com/279525880">Ecotherapy</a> has become a large part of my practice as I work with clients to create inner balance and core resilience while living in an unstable world. I believe that the essence of pathology is the illusion of separation from oneself, significant others, community and nature. Dream work and Tarotpy restore the experience of wholeness and belonging to an intelligent, interconnected field; and offer healing images, not only for the individual client, but also for the culture as a whole.</p>
+
+<p><img src="post-bcpoz1tarotp-1.jpg" width="300"></img></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqvcors,
         ns1:bcphbqvcsch ;
@@ -17310,6 +17312,7 @@ ns1:bcpoz1tarotp a ns1:Post ;
     ns1:itemId "bcpoz1tarotp"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Tarotpy®, An Innovative Approach to Depth Therapy and Dreamwork: An Interview with Lauren Z. Schneider"^^xsd:string ;
+    ns1:profileImg "corso-schneider.jpg"^^xsd:string ;
     ns1:urlSlug "tarotpy-an-interview-with-lauren-schneider"^^xsd:string .
 
 ns1:bcpoz1zmwots a ns1:Post ;
@@ -19822,7 +19825,9 @@ ns1:bcphbqvcomz a ns1:User ;
 
 ns1:bcphbqvcsch a ns1:User ;
     ns1:coverImg "cover-author-lauren-schneider.jpg"^^xsd:string ;
-    ns1:description """<p>Laurie Zemelman Schneider, MA, MFT, also known as Lauren Z. Schneider, has over thirty years of experience in the field of psychotherapy. She employs a combination of family systems, hypnotherapy, dream analysis, and her own system, Tarotpy®. Tarotpy® is a spiritual psychotherapy technique using tarot, dream, soul and other image cards to "lay the unconscious on the table." She uses these tools tap into the inner knowledge, imaginative creativity, and elevated awareness that can provide assistance in healing and addressing challenges.</p>
+    ns1:description """<p>Website: <a href="https://www.dreamsandtarotpy.com/">dreamsandtarotpy.com</a></p>
+
+<p>Laurie Zemelman Schneider, MA, MFT, also known as Lauren Z. Schneider, has over thirty years of experience in the field of psychotherapy. She employs a combination of family systems, hypnotherapy, dream analysis, and her own system, Tarotpy®. Tarotpy® is a spiritual psychotherapy technique using tarot, dream, soul and other image cards to "lay the unconscious on the table." She uses these tools tap into the inner knowledge, imaginative creativity, and elevated awareness that can provide assistance in healing and addressing challenges.</p>
 
 <p>Schneider operates her practice in Santa Barbara, California, where she offers individual sessions. Additionally, she organizes and leads workshops, trains professionals, and hosts regular meetings for both therapeutic professionals and general audiences. Her insights on dreams and Tarotpy have been featured in the <a href="https://www.amazon.com/Encyclopedia-Sleep-Dreams-volumes-Evolution/dp/0313386641">Encyclopedia of Sleep and Dreams</a> and <a href="https://www.amazon.com.au/Ecotherapy-Healing-Nature-Linda-Buzzell/dp/1578051614">Eco Therapy: Healing With Nature in Mind</a>.</p>
 

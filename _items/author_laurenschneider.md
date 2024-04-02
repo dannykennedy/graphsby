@@ -3,7 +3,7 @@ layout: page
 type: user
 itemId: bcphbqvcsch
 handle: laurenschneider
-name: "Lauren Schneider"
+name: "Lauren Z. Schneider"
 shortDescription: ""
 tags:
 date: 2015-03-24

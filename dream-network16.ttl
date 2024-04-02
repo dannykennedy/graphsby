@@ -2320,7 +2320,7 @@ ns1:bcpov6greaiz a ns1:Post ;
 
 <p><strong>Jeanne:</strong> What can you tell us about it?</p>
 
-<p><strong>Steve:</strong> The book is called Dream Tending, and it documents the approach that I use with dreams. It is woven around a personal story. There are some personal reflections about my experience and my relationship to dream and how it has affected my own life. There are many teaching points. So, it covers the primary ideas that anchor Dream Tending. It talks about the concept of the “living image.” The book has a full chapter about tending nightmares. It has a section about tending images as medicines for work with physiological aliments and illness. Part of the book describes in detail Dream Council, which is a way of sustaining relationship in a long-term way with dreams. And too, the book talks about the World’s Dream, an eco-psychological approach to dream work. In addition to the teaching points, there is an experiential component, so that people who are reading the book will have an opportunity to work with their dreams. There are particular exercises or methods that are presented—tools that are embedded all throughout the text that will help people work with their dreams and have an actual experience of what tending to a dream is and how that is different than simply interpreting or analyzing a dream. When tending a dream, there is an immediate correspondence to the challenges presented by daily life. In fact, in the book I have a section on the practical applications of working with dreams. I offer skills, elaborations, and case examples of working with dreams in the workplace, in intimate love relationships, in relation to money, and vocation. So, there are a lot of practical applications of how to work with this material in relationship to issues of everyday life.</p>
+<p><strong>Steve:</strong> The book is called <a href="https://www.amazon.com.au/Dream-Tending-Awakening-Healing-Dreams/dp/1935528114">Dream Tending</a>, and it documents the approach that I use with dreams. It is woven around a personal story. There are some personal reflections about my experience and my relationship to dream and how it has affected my own life. There are many teaching points. So, it covers the primary ideas that anchor Dream Tending. It talks about the concept of the “living image.” The book has a full chapter about tending nightmares. It has a section about tending images as medicines for work with physiological aliments and illness. Part of the book describes in detail Dream Council, which is a way of sustaining relationship in a long-term way with dreams. And too, the book talks about the World’s Dream, an eco-psychological approach to dream work. In addition to the teaching points, there is an experiential component, so that people who are reading the book will have an opportunity to work with their dreams. There are particular exercises or methods that are presented—tools that are embedded all throughout the text that will help people work with their dreams and have an actual experience of what tending to a dream is and how that is different than simply interpreting or analyzing a dream. When tending a dream, there is an immediate correspondence to the challenges presented by daily life. In fact, in the book I have a section on the practical applications of working with dreams. I offer skills, elaborations, and case examples of working with dreams in the workplace, in intimate love relationships, in relation to money, and vocation. So, there are a lot of practical applications of how to work with this material in relationship to issues of everyday life.</p>
 
 <p><strong>Jeanne:</strong> How does the book play into the huge following of people who have taken the Dream Tending classes and those who are interested but haven’t yet participated?</p>
 
@@ -17245,7 +17245,9 @@ ns1:bcpoz1jotrtm a ns1:Post ;
 
 ns1:bcpoz1tarotp a ns1:Post ;
     ns1:dateCreated "2014-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/corso-schneider.jpg" alt="Lauren Schneider" /></p>
+    ns1:description """<p><img src="../images/corso-schneider.jpg" alt="Lauren Schneider and Bambi Corso" /></p>
+
+<p><em>You can read the original PDF version of this article <a href="https://www.dreamsandtarotpy.com/s/Beyond-the-Veil-Interview-2014.pdf">here</a></em></p>
 
 <p><a href="../@laurenschneider">Lauren</a> is the founder of the <a href="https://www.dreamsandtarotpy.com/">Institute of Dreams and Tarotpy®</a> where she offers a 6-month training and certification program titled <em>Tarotpy: An Innovative Approach to Depth Therapy and Dreamwork</em>. She is also a contributing author for the book <em>Ecotherapy: Healing with Nature in Mind</em>. Tarotpy is included in the <em>Encyclopedia for Sleep and Dreams</em>, compiled out of Harvard.</p>
 
@@ -17301,7 +17303,7 @@ ns1:bcpoz1tarotp a ns1:Post ;
 
 <p><strong>LS:</strong> Many of my clients are super sensitive; like the “canaries in the mine”, they feel deeply affected by the destruction taking place all over the world to people, the environment, and animals. We see signs of dysfunction daily in financial institutions, governmental bodies, shocking current events and apocalyptic movies that reflect our collective nightmares. Whether or not people consciously identify the source of their distress, there is now an official diagnosis called Eco-anxiety. <a href="https://vimeo.com/279525880">Ecotherapy</a> has become a large part of my practice as I work with clients to create inner balance and core resilience while living in an unstable world. I believe that the essence of pathology is the illusion of separation from oneself, significant others, community and nature. Dream work and Tarotpy restore the experience of wholeness and belonging to an intelligent, interconnected field; and offer healing images, not only for the individual client, but also for the culture as a whole.</p>
 
-<p><img src="post-bcpoz1tarotp-1.jpg" width="300"></img></p>
+<p><img src="../images/post-bcpoz1tarotp-1.jpg" width="300"></img></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqvcors,
         ns1:bcphbqvcsch ;
@@ -19836,7 +19838,7 @@ ns1:bcphbqvcsch a ns1:User ;
     ns1:handle "laurenschneider"^^xsd:string ;
     ns1:itemId "bcphbqvcsch"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Lauren Schneider"^^xsd:string ;
+    ns1:name "Lauren Z. Schneider"^^xsd:string ;
     ns1:profileImg "author-lauren-schneider.jpg"^^xsd:string .
 
 ns1:bcphbqvicjs a ns1:User ;

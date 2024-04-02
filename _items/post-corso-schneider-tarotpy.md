@@ -15,7 +15,9 @@ urlSlug: "tarotpy-an-interview-with-lauren-schneider"
 profileImg: corso-schneider.jpg
 ---
 
-![Lauren Schneider](../images/corso-schneider.jpg)
+![Lauren Schneider and Bambi Corso](../images/corso-schneider.jpg)
+
+_You can read the original PDF version of this article [here](https://www.dreamsandtarotpy.com/s/Beyond-the-Veil-Interview-2014.pdf)_
 
 [Lauren](../@laurenschneider) is the founder of the [Institute of Dreams and Tarotpy®](https://www.dreamsandtarotpy.com/) where she offers a 6-month training and certification program titled _Tarotpy: An Innovative Approach to Depth Therapy and Dreamwork_. She is also a contributing author for the book _Ecotherapy: Healing with Nature in Mind_. Tarotpy is included in the _Encyclopedia for Sleep and Dreams_, compiled out of Harvard.
 
@@ -71,4 +73,4 @@ The same creative resource for problem solving that comes in dreams also comes t
 
 **LS:** Many of my clients are super sensitive; like the “canaries in the mine”, they feel deeply affected by the destruction taking place all over the world to people, the environment, and animals. We see signs of dysfunction daily in financial institutions, governmental bodies, shocking current events and apocalyptic movies that reflect our collective nightmares. Whether or not people consciously identify the source of their distress, there is now an official diagnosis called Eco-anxiety. [Ecotherapy](https://vimeo.com/279525880) has become a large part of my practice as I work with clients to create inner balance and core resilience while living in an unstable world. I believe that the essence of pathology is the illusion of separation from oneself, significant others, community and nature. Dream work and Tarotpy restore the experience of wholeness and belonging to an intelligent, interconnected field; and offer healing images, not only for the individual client, but also for the culture as a whole.
 
-<img src="post-bcpoz1tarotp-1.jpg" width="300"></img>
+<img src="../images/post-bcpoz1tarotp-1.jpg" width="300"></img>

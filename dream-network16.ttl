@@ -17024,7 +17024,7 @@ ns1:bcpov9rsgdbt a ns1:Post ;
 
 <p>Likewise, on the day after these two types lucid dreams, nightmare-initiated lucid dreams were followed by more anxiety, hostility, depression, insecurity, and lack of attention than dreamlike-initiated lucids. Not surprisingly, nightmare-initiated lucids were viewed as having fewer positive and more negative emotions than dreamlike-initiated lucids. Finally, nightmare-initiated lucids were reported as having less of a sense of dream control than the dreamlike lucids. Incongruent element initiated lucid dreams in some instances fell with dreamlike-initiated lucids. For instance, incongruent lucids were reported as having the same amount of positive emotions as nightmare-initiated lucids but significantly fewer negative emotions than nightmare-initiated lucids. In sum, dreamlike-initiated lucids represent the most experientially positive lucid dream experience. They are preceded by "good days" and result in the same.</p>
 
-<p>This sample of lucid dreams were also split into high and low dream control present in the dream groups and compared on the same set of situational and content variables. As with the previous lucid dream distinction, a clear pattern of results emerged with these data. Highly controllable lucid dreams were more likely to be characterized by a lack of anxiety on the day preceding the dream, and non-hostile and secure feelings on the day after the dream. Regarding content differences between these two types of lucid dreams, those reported as high in control were also higher in positive emotions, voices in the dream, and body sensations in the dream than those reported as low in control. The combination of auditory (voices) and kinesthetic (body sensations) sensations suggest the balance dimension in lucid dreams reported by Gackenbach and Schillig (1982) and verified by Gackenbach, Sachau, and Rakes (1982)</p>
+<p>This sample of lucid dreams were also split into high and low dream control present in the dream groups and compared on the same set of situational and content variables. As with the previous lucid dream distinction, a clear pattern of results emerged with these data. Highly controllable lucid dreams were more likely to be characterized by a lack of anxiety on the day preceding the dream, and non-hostile and secure feelings on the day after the dream. Regarding content differences between these two types of lucid dreams, those reported as high in control were also higher in positive emotions, voices in the dream, and body sensations in the dream than those reported as low in control. The combination of auditory (voices) and kinesthetic (body sensations) sensations suggest the balance dimension in lucid dreams reported by <a href="https://psycnet.apa.org/record/1985-08587-001">Gackenbach and Schillig (1982)</a> and verified by Gackenbach, Sachau, and Rakes (1982)</p>
 
 <h2>References</h2>
 
@@ -17035,7 +17035,7 @@ ns1:bcpov9rsgdbt a ns1:Post ;
 
 <p>* This article was reprinted with permission from the "Lucidity Letter", vol. 1, no. 4, October, 1982.</p>
 
-<p><img src="../images/gackenback-types-article.jpg" width="700"></p>
+<p><img src="../images/gackenback-types-article.jpg" width="500"></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqchjgb ;
     ns1:hasTag ns1:bcphbjilydj,
@@ -17045,6 +17045,89 @@ ns1:bcpov9rsgdbt a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Differences Between Types of Lucid Dreams"^^xsd:string ;
     ns1:urlSlug "differences-between-types-of-lucid-dreams"^^xsd:string .
+
+ns1:bcpov9rsjgsl a ns1:Post ;
+    ns1:dateCreated "1988-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>At a recent talk at the Dream House in San Francisco, dreamworkers Jayne Gackenbach and Stephen LaBerge presented their views and research on lucid dreaming.</p>
+
+<h2>Jayne Gackenbach</h2>
+
+<p><a href="../@jaynegackenbach">Jayne Gackenbach</a> is a social psychologist from the University of Northern Iowa and editor of the <em>Lucidity Letter</em>. She has produced and gathered normative data using experimental methods in order to answer three important questions about lucidity.</p>
+
+<h3>Who's Likely To Have Lucid Dreams?</h3>
+
+<p>According to the statistical studies, lucid dreamers tend to be:</p>
+
+<ul>
+<li><p>Internal Risk Takers—open to hypnosis and tranquilizers.</p></li>
+<li><p>Field Independent—having a bodily sense of whether a rod is parallel to a wall despite distorted cues. Such testing demonstrates the ability to remove the self from surroundings—the same process involved in becoming lucid.</p></li>
+<li><p>Vestibular System Intact—having good inner ear/body balance. Those with borderline pathology were non lucid dreamers.</p></li>
+<li><p>Meditators—especially long time meditators.</p></li>
+<li><p>Able To Remember Dreams—the single most powerful predictor of lucidity.</p></li>
+</ul>
+
+<h3>What's "Normal" In Lucid (Vs. Nonlucid) Dreams?</h3>
+
+<p>This data was gathered from dream diaries, questionnaires and some laboratory studies. Either people evaluated their own experiences or independent judges analyzed the data using the <a href="https://dreams.ucsc.edu/Library/fmid2.html">Hall and Van de Castle method</a> of content analysis. It was found that lucid and non lucid dreams were more alike than different. However, lucid dreams contained:</p>
+
+<ul>
+<li><p>Conscious cognition</p></li>
+<li><p>Fewer dream characters</p></li>
+<li><p>An increase in bizarreness (such as persons with purple faces) at state transitions and at higher levels of lucid development.</p></li>
+</ul>
+
+<p>In addition, Gackenbach has been extensively interviewing people, as well as using lab and research studies, and has gathered some statistical data in order to answer the following question.</p>
+
+<h3>What Is The Difference Between Lucidity and Dream Witnessing?</h3>
+
+<p><em>Dream witnessing</em> is a phenomenon reported extensively by persons who are also involved in transcendental meditation. In dream witnessing the observer role is more dominant than the actor role. The dreamer is passive and quiet, watching the dream as if on a movie screen. A single monitored subject reported fewer of everything (characters, interactions, etc.) than the norm for lucid dreamers. In lucidity the dreamer enters the movie. The actor role is more dominant than the observer role. The range of experience encountered includes: awareness of the dream, body awareness, content awareness and concept awareness.</p>
+
+<h2>Stephen LaBerge</h2>
+
+<p>Stephen LaBerge is a sleep researcher at Stanford University and author of <em>Lucid Dreaming</em>. LaBerge's definition of lucid dreaming includes the explicit realization that "this is a dream", a verbal and conceptual understanding which is a left brain function. He may have tacit knowledge of the fact of dreaming but never spell it out. Later, he may notice that he knows, and that's when he becomes lucid. His own process involves an intent to clean up his thinking in the dream state, a waking type of reflection on what is happening in the dream, and conscious shaping of how he wants to be in a lucid dream.</p>
+
+<p>Lucidity doesn't always imply active manipulation of the dream state, however. The dreamer can also choose to let go-actively choose with active expectations, such as being guided into a higher state. LaBerge sees dream characters as parts of himself that need first to be owned, then integrated within.</p>
+
+<p>LaBerge believes the primary determinant of dream experience is expectation. For example, if a dreamer expects to awake after the lucid dream ends, then that expectation can be manifested in a series of false awakenings. Goals determine context and progress in lucid dreaming.</p>
+
+<p>LaBerge has studied two types of lucid dreams: dream initiated and wake initiated—involving a return to sleep during a rapid eye movement (REM) period. He says it is typical to encounter a period of darkness when reentering sleep and before entering the lucid dream.</p>
+
+<p>When asked about atypical sleep habits, LaBerge said that the body's circadian rhythms indicate there is a high REM period 10 to 12 hours after a normal bedtime. Wakefulness so close to sleep primes the brain for conscious activity. Therefore, lucid dreaming is more possible in late morning when REM density is at its maximum.</p>
+
+<p><strong>Question:</strong> Why are we not lucid every time we dream?</p>
+
+<p><strong>LaBerge:</strong> We tend to overestimate our critical powers in the waking state. I have a simple illustration of this: My father-in-law was telling me about a recurrent dream he had where he'd find money in the streets. He told me about one time more recently having found the money and saying, "I used to have dreams about this!" So I thought I'd play a little trick on him.</p>
+
+<p>I asked him, "What kind of money was it?" and he said, "Well, it was always four quarters". So I took four quarters and put them down in the corner of the bathroom where I suspected he'd be eventually.</p>
+
+<p>Naturally, after he'd been in the bathroom, I went in and looked. The quarters were gone. Not a word. So I said, "Um, did you find anything in the bathroom?"</p>
+
+<p>It finally dawned on him that I'd put them there. He had the thought, "Oh, those must have fallen out of my pocket". And he wondered why they were lined up so neatly. But it didn't occur to him to go further: "But, wait a minute—how would those fall out of my pocket just like that?"</p>
+
+<p>I think that's typical of the way that we think because we're not used to carefully understanding what's going on in our situation. So we're not that different from the way we are in the dream state.</p>
+
+<p>There are variations in the metabolism of the brain during REM sleep. Larger pupil dilation indicates the brain is involved in more complex cognitive tasks. The lucid state seems to be more activated than on the average in REM. This may have to do with the kinds of activities we were having people do in our lab studies, for example, dream sex or signalling tasks. Fifteen to 20 seconds before the signal and realization, there's a relative activation of the brain. What it looks like is that the brain has to be "turned up" enough in order to realize, "This is a dream!"</p>
+
+<p>During a good part of REM our brains are just not in good enough operating condition to be that discriminating—to notice that kind of event, or to make anything of it. So it seems that reflective consciousness is higher order mental function—it takes energy to do. Yet the suggestion is that during every REM period there is sufficient physiological activation so that at some point along the line we could become lucid. If we really wanted to become lucid and had a good reason for it, then we could probably develop it.</p>
+
+<p><strong>Comment:</strong> My dreaming self has a different awareness than I do. He knows people that I don't know. He knows things that I don't know. He has a different history. He lives in different places. So my waking consciousness is somehow quite different from my sleeping consciousness.</p>
+
+<p><strong>LaBerge:</strong> The way I see this is that it's not my dream self, he. Simply because he knows different things, we think he's a different person. My understanding is that right now we're creating an ego or self representation—this body, this person who's talking with you.</p>
+
+<p>If I were dreaming I would think, "This is Stephen LaBerge". I would be doing the same kind of construction that I am right now. My brain would be generalizing an image and a set of understandings and assumptions about what life is and what I am and so on. I would have different kinds of knowledge, perhaps, depending on what the unconscious parts are presenting. I don't think it is a different self just because there is an apparent dissociation. I think it's actually the same constructive process of building a self.</p>
+
+<p><strong>Comment:</strong> Related to that is whether those two selves ever merge and if you've experienced that. I've had a lot of dreams in which my dreaming self remembered prior events that took place before the dream and then I've had later dreams that referred back to that same history. But in my lucid dream I remember who I am as a sleeper but I've never plugged into the dream history that way. It makes me think those 2 parts of myself are not merging.</p>
+
+<p><strong>LaBerge:</strong> You will access different parts of your memory depending on your current state. Memory is designed to be used in a given context. If you have a different understanding of what's going on, you'll access a different set of memories. So as soon as you become lucid, you say, "What's going on here? I'm asleep in bed" and that brings up memories about lucid dreaming, for example, and principles that you've learned and things that you can do in the dream state.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqchjgb ;
+    ns1:hasTag ns1:bcphbjilydj,
+        ns1:bcphbqchjgb ;
+    ns1:inIssue ns1:bcphbjilydj ;
+    ns1:itemId "bcpov9rsjgsl"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Lucidity reports from Jayne Gackenbach & Stephen LaBerge"^^xsd:string ;
+    ns1:urlSlug "lucidity-reports-from-jayne-gackenbach-and-stephen-laberge"^^xsd:string .
 
 ns1:bcpovdreamg a ns1:Post ;
     ns1:dateCreated "2020-10-03T11:32:52"^^xsd:dateTime ;
@@ -19379,20 +19462,6 @@ ns1:bcphbivy3pu a ns1:Post ;
     ns1:profileImg "1.11-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.11"^^xsd:string .
 
-ns1:bcphbjilydj a ns1:Post ;
-    ns1:coverImg "2.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf" download="">Download issue 2.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn72unjj ;
-    ns1:itemId "bcphbjilydj"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 2, issue 4"^^xsd:string ;
-    ns1:profileImg "2.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "2.4"^^xsd:string .
-
 ns1:bcphbjpp3z2 a ns1:Post ;
     ns1:coverImg "2.6-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-06-01T11:32:52"^^xsd:dateTime ;
@@ -19737,20 +19806,6 @@ ns1:bcphbqchher a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "John W. Herbert, Ph.D."^^xsd:string ;
     ns1:profileImg "author-john-herbert.jpg"^^xsd:string .
-
-ns1:bcphbqchjgb a ns1:User ;
-    ns1:coverImg "cover-author-jayne-gackenbach.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://jaynegackenbach.ca/">jaynegackenbach.ca</a></p>
-
-<p>Jayne Gackenbach earned her Ph.D. in Experimental Psychology in 1978 and is a retired <a href="https://www.macewan.ca/academics/academic-departments/psychology/our-people/profile/?profileid=gackenbachj">Emeritus Professor in Psychology</a> from MacEwan University. She remains actively involved in the field, teaching online for Athabasca University. Gackenbach has had a prominent role in dream research, serving as the past-president of the International Association for the Study of Dreams and authoring several pivotal books on the subject including <a href="https://www.goodreads.com/en/book/show/345114">“Control Your Dreams”</a> and contributing to volumes such as “Conscious Mind, Sleeping Brain: Perspectives on Lucid Dreaming” and “Sleep and Dreams: A Sourcebook”. She presented her research on lucid dreams to the Dalai Lama in 1992.</p>
-
-<p>In addition to her work on dreams, Gackenbach's professional interests expanded into the realm of digital communications and the psychological implications of internet use. She edited <a href="https://www.amazon.com.au/Psychology-Internet-Intrapersonal-Interpersonal-Transpersonal/dp/0123694256">“Psychology and the Internet: Intrapersonal, Interpersonal, and Transpersonal Implications”</a> and co-authored <a href="https://www.amazon.com/Cyber-Rules-Really-About-Internet/dp/039370484X">“cyber.rules”</a>. Bridging her two areas of expertise, her later research has focused on the intersection of dreams and technology, particularly investigating the dreams of video game players. This culminated in the publication of the publication of two notable works in 2012: <a href="https://www.amazon.com/Play-Reality-Video-Changing-Everything-ebook/dp/B007ARWUCW/?_encoding=UTF8&pd_rd_w=huNLC&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=140-3392018-6006703&pd_rd_wg=pLaRB&pd_rd_r=d650fb76-8f2a-41c2-a941-d19036d0201a&ref_=aufs_ap_sc_dsk">“Play Reality”</a>, which she co-authored with her son Teace Snyder and examines the impact of video game play on reality perception, and the edited volume <a href="https://www.amazon.com/Consciousness-Perspectives-Psychology-Technology-Applications/dp/1620811138">“Video Game Play and Consciousness”</a> from NOVA publishers. These books reflect Gackenbach's approach to studying the effects of immersive digital environments on the subconscious experiences within dreams, contributing to a deeper understanding of the modern psyche as it interfaces with technology.</p>
-"""^^xsd:string ;
-    ns1:handle "jaynegackenbach"^^xsd:string ;
-    ns1:itemId "bcphbqchjgb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jayne Gackenbach"^^xsd:string ;
-    ns1:profileImg "author-jayne-gackenbach.jpg"^^xsd:string .
 
 ns1:bcphbqfhill a ns1:User ;
     ns1:coverImg "cover-author-deena-metzger.jpg"^^xsd:string ;
@@ -20410,6 +20465,20 @@ ns1:bcphbhs662v a ns1:Post ;
     ns1:profileImg "1.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "1.3"^^xsd:string .
 
+ns1:bcphbjilydj a ns1:Post ;
+    ns1:coverImg "2.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf" download="">Download issue 2.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.4-Dream-Network-Bulletin-Vol.2-No.4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
+    ns1:itemId "bcphbjilydj"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 2, issue 4"^^xsd:string ;
+    ns1:profileImg "2.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "2.4"^^xsd:string .
+
 ns1:bcphbliwn3u a ns1:Post ;
     ns1:coverImg "3.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1984-07-01T11:32:52"^^xsd:dateTime ;
@@ -20685,6 +20754,20 @@ ns1:bcphbqbynum a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Edward Bruce Bynum, Ph.D., ABPP"^^xsd:string ;
     ns1:profileImg "author-edward-bynum.jpg"^^xsd:string .
+
+ns1:bcphbqchjgb a ns1:User ;
+    ns1:coverImg "cover-author-jayne-gackenbach.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://jaynegackenbach.ca/">jaynegackenbach.ca</a></p>
+
+<p>Jayne Gackenbach earned her Ph.D. in Experimental Psychology in 1978 and is a retired <a href="https://www.macewan.ca/academics/academic-departments/psychology/our-people/profile/?profileid=gackenbachj">Emeritus Professor in Psychology</a> from MacEwan University. She remains actively involved in the field, teaching online for Athabasca University. Gackenbach has had a prominent role in dream research, serving as the past-president of the International Association for the Study of Dreams and authoring several pivotal books on the subject including <a href="https://www.goodreads.com/en/book/show/345114">“Control Your Dreams”</a> and contributing to volumes such as “Conscious Mind, Sleeping Brain: Perspectives on Lucid Dreaming” and “Sleep and Dreams: A Sourcebook”. She presented her research on lucid dreams to the Dalai Lama in 1992.</p>
+
+<p>In addition to her work on dreams, Gackenbach's professional interests expanded into the realm of digital communications and the psychological implications of internet use. She edited <a href="https://www.amazon.com.au/Psychology-Internet-Intrapersonal-Interpersonal-Transpersonal/dp/0123694256">“Psychology and the Internet: Intrapersonal, Interpersonal, and Transpersonal Implications”</a> and co-authored <a href="https://www.amazon.com/Cyber-Rules-Really-About-Internet/dp/039370484X">“cyber.rules”</a>. Bridging her two areas of expertise, her later research has focused on the intersection of dreams and technology, particularly investigating the dreams of video game players. This culminated in the publication of the publication of two notable works in 2012: <a href="https://www.amazon.com/Play-Reality-Video-Changing-Everything-ebook/dp/B007ARWUCW/?_encoding=UTF8&pd_rd_w=huNLC&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=140-3392018-6006703&pd_rd_wg=pLaRB&pd_rd_r=d650fb76-8f2a-41c2-a941-d19036d0201a&ref_=aufs_ap_sc_dsk">“Play Reality”</a>, which she co-authored with her son Teace Snyder and examines the impact of video game play on reality perception, and the edited volume <a href="https://www.amazon.com/Consciousness-Perspectives-Psychology-Technology-Applications/dp/1620811138">“Video Game Play and Consciousness”</a> from NOVA publishers. These books reflect Gackenbach's approach to studying the effects of immersive digital environments on the subconscious experiences within dreams, contributing to a deeper understanding of the modern psyche as it interfaces with technology.</p>
+"""^^xsd:string ;
+    ns1:handle "jaynegackenbach"^^xsd:string ;
+    ns1:itemId "bcphbqchjgb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jayne Gackenbach"^^xsd:string ;
+    ns1:profileImg "author-jayne-gackenbach.jpg"^^xsd:string .
 
 ns1:bcphbqerish a ns1:User ;
     ns1:coverImg "cover-author-suzannahart.jpg"^^xsd:string ;

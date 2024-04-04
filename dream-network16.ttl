@@ -2287,9 +2287,9 @@ ns1:bcpov6grddtd a ns1:Post ;
 
 <p>Depending on how long you have kept your dreams on your computer, this mode of inquiry affords instant access in a way that paper bound journals cannot. The immediacy of the data's appearance on the computer monitor's screen affords a view of dreams that cannot be had by merely thumbing back through the tattered pages of a dream journal scrawled with nearly incoherent, pre coffee writing and searching for recognizable patterns of reoccurrence. Using the Find File command, I have discovered that not only the people and animals in the dreams themselves reoccur, but plots, outcomes, environments, atmospheres and even feeling tones as well.</p>
 
-<p>The synchronicities have led me to believe that dreams are not purely acausal or random as they have been described to be by some of the founding forepeople of psychotherapy. Perhaps when one looks at an individual dream and its lack of continuity and at times coherency, that may seem to be the case. But when one pulls back, opens the camera lens wide and looks at the larger composition of dream cycles, a recognizable pattern pattern/ paradigm can indeed be discerned. Then, with an expanded perspective, the patterns become meaningful. Computer dream journals can help promote this kind of enhanced, chronological appreciation of dreams, adding a new dimension to interpretation and understanding. Our electronic dream journals can become, after a few years, a Farmer's Almanac of the unconscious. We can access such an almanac when we want to plant, cultivate and harvest our dreams according to the waxing and waning of our inner moon.</p>
+<p>The synchronicities have led me to believe that dreams are not purely acausal or random as they have been described to be by some of the founding forepeople of psychotherapy. Perhaps when one looks at an individual dream and its lack of continuity and at times coherency, that may seem to be the case. But when one pulls back, opens the camera lens wide and looks at the larger composition of dream cycles, a recognizable pattern pattern/paradigm can indeed be discerned. Then, with an expanded perspective, the patterns become meaningful. Computer dream journals can help promote this kind of enhanced, chronological appreciation of dreams, adding a new dimension to interpretation and understanding. Our electronic dream journals can become, after a few years, a Farmer's Almanac of the unconscious. We can access such an almanac when we want to plant, cultivate and harvest our dreams according to the waxing and waning of our inner moon.</p>
 
-<p>The discoveries of such timely reoccurrences in dream patterns via the computer has inspired me to regard such dream cycles as being universal in nature. Within our personal dreams lie some important clues to the larger and broader cycles, meta-patterns of reoccurrence over vast distances of time, from the Nimesha (eye blink) of the Big Bang birth to the final minutes of the Day of Brahmin which consists of 4,320,000,000 years. (Imagine a dream journal kept for that many years! Imagine the galactic synchronicities one could discover!) Appreciating the cycles of the universe's dream, enables us to expand our awareness to these vast cosmological levels. We can then regard our dreams as being a part of such extensive cycles much more expansive than we normally do. We can appreciate that our dreams actually influence these larger cycles.</p>
+<p>The discoveries of such timely reoccurrences in <a href="../theme~dream-apps-and-online-dreamsharing">dream patterns via the computer</a> has inspired me to regard such dream cycles as being universal in nature. Within our personal dreams lie some important clues to the larger and broader cycles, meta-patterns of reoccurrence over vast distances of time, from the Nimesha (eye blink) of the Big Bang birth to the final minutes of the Day of Brahmin which consists of 4,320,000,000 years. (Imagine a dream journal kept for that many years! Imagine the galactic synchronicities one could discover!) Appreciating the cycles of the universe's dream, enables us to expand our awareness to these vast cosmological levels. We can then regard our dreams as being a part of such extensive cycles much more expansive than we normally do. We can appreciate that our dreams actually influence these larger cycles.</p>
 
 <p>With practice, using the Find File mode of investigation, whether on our physical computers or through active imagination, we may be able to pinpoint a decade, a year, perhaps even a moment of quality time in the Precambrian era. We may be able to hone in on a morphogenetic field of a Trilobite and see what it was dreaming way back when and see if it in any way corresponds to what we dreamt about last night or last year.</p>
 """^^xsd:string ;
@@ -5105,7 +5105,7 @@ ns1:bcpov6kfutur a ns1:Post ;
 
 <p>There are dreams that I have heard which I think people need to hear. One of the things I want to do is to try and make some kind of place for such dreams, so that these dreams can be heard. I want to do that in some way which is not going to be influenced by the dollar; I don't know how to accomplish that but it's a project I have in mind. I don't want to interpret these dreams; I don't want to write a professional or Jungian commentary about those dreams. I could surely do that, but I don't want to. I want the dreams to be heard. I would like, somehow, for the dreams to be heard all over the place!</p>
 
-<p>So, some of the things that are going on, because of the computer network, the global highways, the ways we are able now to instantly communicate with vast numbers of people, I want to be able to use it. I don't want to sit back and just say that's horrible, because it's not. I do want to make use of computer technology as a way and means for the psyche to be heard. I think that psyche is going to be heard, in any event. The problem is whether we can hear it and get the message... or have the message forced on us.</p>
+<p>So, some of the things that are going on, because of the computer network, the global highways, the ways we are able now to instantly communicate with vast numbers of people, I want to be able to use it. I don't want to sit back and just say that's horrible, because it's not. I do want to make use of <a href="../theme~dream-apps-and-online-dreamsharing">computer technology as a way and means for the psyche to be heard</a>. I think that psyche is going to be heard, in any event. The problem is whether we can hear it and get the message... or have the message forced on us.</p>
 
 <p>The psyche doesn't stand for not being heard for very long, whether that's in an individual's life, a group's life or a culture's life. The kind of community that can be generated from genuinely hearing what's going on in the psyche is an extraordinary community. This doesn't have to be in the same place, geographically, because we're not in the same place geographically anymore. That idea is I gone. Your real community in the future is going to be with you in Utah, me in Lake Stevens, X in Nova Scotia and Y in New Zealand and somehow we are going to be able to communicate and be an organic community, even though we're not in the same place. Finding ways of facilitating that sense of community is going to be a very interesting thing to do.</p>
 
@@ -8969,7 +8969,7 @@ ns1:bcpov6rs24hr a ns1:Post ;
 
 ns1:bcpov6rsgcdt a ns1:Post ;
     ns1:dateCreated "1983-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>Traditionally, technology is not linked to the world of visualization, regenerative processes or dreams. Technology is thought to be too narrow to contain or support that delicate, yet ever-so-strong inner world. It would seem that the binary, on-off logic would render dreams lifeless and bruised. Yet the computer provides qualities that surprisingly lend themselves to dream work. Two of these qualities are storage and retrieval of the dream report, and text editing.</p>
+    ns1:description """<p>Traditionally, technology is not linked to the world of visualization, regenerative processes or dreams. Technology is thought to be too narrow to contain or support that delicate, yet ever-so-strong inner world. It would seem that the binary, on-off logic would render dreams lifeless and bruised. Yet the <a href="../theme~dream-apps-and-online-dreamsharing">computer provides qualities that surprisingly lend themselves to dream work</a>. Two of these qualities are storage and retrieval of the dream report, and text editing.</p>
 
 <p>In the development of a dream translation program for the Apple Computer, these two qualities have been incorporated. The software is designed to translate the dream report into a format that substitutes meaning for symbology. This is accomplished through the creation of an expanded, second dream report using the individual's personal symbology.</p>
 
@@ -11536,7 +11536,7 @@ Look like success!
 
 ns1:bcpov6zdeeps a ns1:Post ;
     ns1:dateCreated "1996-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>A little while ago, I was approached by <em>America Online</em> (AOL) to host a regular, live, real time, virtual dream group, Monday through Friday at 9:00a.m. Eastern Time. I agreed to give it a try, even though it means that I have to be bright-eyed and bushy-tailed and in front of my computer at 6:00am, Pacific Time... which up until now has <em>not</em> been my habit.</p>
+    ns1:description """<p>A little while ago, I was approached by <em>America Online</em> (AOL) to host a regular, live, real time, <a href="../theme~dream-apps-and-online-dreamsharing">virtual dream group</a>, Monday through Friday at 9:00a.m. Eastern Time. I agreed to give it a try, even though it means that I have to be bright-eyed and bushy-tailed and in front of my computer at 6:00am, Pacific Time... which up until now has <em>not</em> been my habit.</p>
 
 <p>Initially, I had some reservations about working dreams through this distinctly cool and physically isolating medium: the Internet. When I imagined as carefully as I could what it might be like, I was particularly concerned that the flat and highly compressed computer communication format might inhibit the flow of imagination, relational intimacy and mutual respect so necessary for good dreamwork.</p>
 
@@ -13092,7 +13092,7 @@ ns1:bcpov6zfcybr a ns1:Post ;
 
 <p>Many people are wary of the Internet and the promises of its being just the latest in a series of 19th and 20th Century technological solutions that end up causing more harm than good. I agree with this caution and feel the Net will probably bring with it more problems than solutions. Just like democracy and Rock &amp; Roll. I'm afraid it is already past the point of trying to pack it up and send it back to National Science Foundation. What we can do is become involved and shape the way that online interaction occurs. For example, just as with off-line dreamsharing, on line dreamsharing continues the valuing of inner resourcefulness, of intuitive perception, of supporting each person in being his or her own authority in matters of meaning and value and bringing those out into the community at large.</p>
 
-<p>I don't mean to offer online dreamsharing as better than off-line. I'd rather not set up a feeling of competition here; I personally love the physical embodiments of dream drama and the risky emotional contact and personal closeness of face-to-face meetings. This is just not available at this time on the Net. Rather, I'd like to present online dreamsharing as something new, opening a new niche, a new wavelength that is different from face-to-face dream sharing. Online dreamsharing complements and supports all other kinds of dream sharing through the more specific development of reflective skills and more general global dissemination of the benefits of communities tied together through the sharing of dreams.</p>
+<p>I don't mean to offer <a href="../theme~dream-apps-and-online-dreamsharing">online dreamsharing</a> as better than off-line. I'd rather not set up a feeling of competition here; I personally love the physical embodiments of dream drama and the risky emotional contact and personal closeness of face-to-face meetings. This is just not available at this time on the Net. Rather, I'd like to present online dreamsharing as something new, opening a new niche, a new wavelength that is different from face-to-face dream sharing. Online dreamsharing complements and supports all other kinds of dream sharing through the more specific development of reflective skills and more general global dissemination of the benefits of communities tied together through the sharing of dreams.</p>
 
 <h2>Bibliography</h2>
 
@@ -14391,7 +14391,7 @@ ns1:bcpov6zfpeac a ns1:Post ;
 
 <p>Possibly the single most important development of the decade was the Internet, where almost as soon as longdistance communication was possible, dreamworkers like the <a href="../@jeremytaylor">Rev. Jeremy Taylor</a>, <a href="../@johnherbert">John Herbert</a>, <a href="../@jaynegackenbach">Jayne Gackenbach</a>, and <a href="../@richardwilkerson">Richard Wilkerson</a> were communicating globally with dreamers around the world and constructing Internet dream resources which far outshone anything available to dreamers prior to that time.</p>
 
-<p>When I returned to ASD in 1996, almost the first thing I did was volunteer to moderate the Online Bulletin Board at <a href="https://www.asdreams.org/">http://www.asdreams.org</a>. I was fascinated by the potential of the Internet to link dreamers with one another and to provide instant communication. Whereas before, when the <em>‘Dreams to the Tenth Power’</em> research was going on, weeks of sending dream accounts and responses through the mail were discouraging to dreamers. Now communication was instantaneous, free... with the click of a key.</p>
+<p>When I returned to ASD in 1996, almost the first thing I did was volunteer to moderate the Online Bulletin Board at <a href="https://www.asdreams.org/">http://www.asdreams.org</a>. I was fascinated by the <a href="../theme~dream-apps-and-online-dreamsharing">potential of the Internet to link dreamers</a> with one another and to provide instant communication. Whereas before, when the <em>‘Dreams to the Tenth Power’</em> research was going on, weeks of sending dream accounts and responses through the mail were discouraging to dreamers. Now communication was instantaneous, free... with the click of a key.</p>
 
 <p>As soon as I began to moderate the Online Bulletin Board, I noticed one less-than-surprising thing: a majority of the questions—from kids writing school papers, from adults with sleep disorders, from dreamers all over the globe—focused on subjects which, heretofore, had been classified under ‘paranormal’ dreaming or ‘anomalous’ dreams. There were questions about out-of-body experiences, about dream telepathy, about mutual dreams and experiences of sleep paralysis. It seemed that this type of dreaming, far from being paranormal, was — if we were to believe the people who came to the Bulletin Board — very normal indeed.</p>
 
@@ -16128,19 +16128,19 @@ ns1:bcpov6zphras a ns1:Post ;
 
 <p>Many of us use dream dictionaries for finding meanings to one-word symbols. One-word symbol meanings can be helpful and fun to use, but there is also danger of taking dream dictionary meanings as absolute. Dream symbol meanings often vary depending on particular situations, and vary greatly from person to person, which is why understanding your own personal meanings for dream symbols is so important to interpreting your own dreams.</p>
 
-<p>An important key in understanding your own dream symbolism and your personal meanings in dreams are what we call “symbol phrases” — learning the meanings of your symbols by examining the context beyond simple one-word objects. To understand the importance of symbol phrases just consider how often we use context in our waking life. Even a simple “Hello” can carry infinite meanings based on the event that precipitates this one-word greeting, the listener’s thoughts and attitudes about the person speaking, and so on. The same is just as true for dreams.</p>
+<p>An important key in understanding your own dream symbolism and your personal meanings in dreams are what we call "symbol phrases" — learning the meanings of your symbols by examining the context beyond simple one-word objects. To understand the importance of symbol phrases just consider how often we use context in our waking life. Even a simple "Hello" can carry infinite meanings based on the event that precipitates this one-word greeting, the listener’s thoughts and attitudes about the person speaking, and so on. The same is just as true for dreams.</p>
 
 <p>We will tell you more about symbol phrases later, but first a quick background of how we became co-researchers and how Evelyn became so deeply steeped in dreamwork that it led her to the six step Personalized Method for Interpreting Dreams (PMID™) (1) that she teaches and we research today.</p>
 
-<p>A dream about a “quiet Black man with an unshaven beard” led Evelyn to inquire of Bruce Bynum’s interest in helping research the PMID™ dream interpretation method. Dr. Bynum said yes. We now conduct ongoing projects with students; so you see our research is not limited to the experimental lab. Dreams accommodate to essentially any theory (2) and the PMID ™ dream interpretation method accommodates to essentially any type learning – especially self-facilitation.</p>
+<p>A dream about a "quiet Black man with an unshaven beard" led Evelyn to inquire of Bruce Bynum’s interest in helping research the PMID™ dream interpretation method. Dr. Bynum said yes. We now conduct ongoing projects with students; so you see our research is not limited to the experimental lab. Dreams accommodate to essentially any theory (2) and the PMID ™ dream interpretation method accommodates to essentially any type learning – especially self-facilitation.</p>
 
-<p>Evelyn’s dream about a “many colored ‘dream’ cloth” over her shoulders (prompted by her husband’s question “Wonder if Ev’s dreams could be helpful to her”), gave her confidence to begin intense work with her dreams. In the process, Evelyn developed the PMID™ dream interpretation method. Although she was a highly rated accounting professor at the time, she followed her heart (and her dreams) into earning a counselor education masters degree to support her credibility for teaching dreamwork. Today teaching others how to interpret their own dreams is the “ loveliest and most fulfilling work I have done.”</p>
+<p>Evelyn’s dream about a "many colored ‘dream’ cloth" over her shoulders (prompted by her husband’s question "Wonder if Ev’s dreams could be helpful to her"), gave her confidence to begin intense work with her dreams. In the process, Evelyn developed the PMID™ dream interpretation method. Although she was a highly rated accounting professor at the time, she followed her heart (and her dreams) into earning a counselor education masters degree to support her credibility for teaching dreamwork. Today teaching others how to interpret their own dreams is the " loveliest and most fulfilling work I have done".</p>
 
 <p>Now back to explaining what symbol phrases are and how they greatly accelerate your understanding of your dream symbols.</p>
 
 <h2>Awakening Personal Meanings with Symbol Phrases</h2>
 
-<p>We have found the dreamer’s ability to bridge the gap from defining one-word symbols to defining the phrase that contains the symbol is very often a major key to capturing the “unique-to- theindividual meanings.” An example of a one-word symbol is door. One universal meaning of the word, door, is “opportunity.” An example of a symbol phrase is “I lock the car doors,” which one dreamer understood to mean, “I think I have to protect myself from danger without my husband with me ‘on the road of life.’” Another dreamer understood “I closed the door” to mean he had overcome a difficult relationship issue that was represented in his dream.</p>
+<p>We have found the dreamer’s ability to bridge the gap from defining one-word symbols to defining the phrase that contains the symbol is very often a major key to capturing the "unique-to-the-individual meanings". An example of a one-word symbol is door. One universal meaning of the word, door, is "opportunity". An example of a symbol phrase is "I lock the car doors," which one dreamer understood to mean, "I think I have to protect myself from danger without my husband with me ‘on the road of life.’" Another dreamer understood "I closed the door" to mean he had overcome a difficult relationship issue that was represented in his dream.</p>
 
 <p>The phrase that contains the symbol helps the dreamer connect definitions to the context of the dream, the context being pre- dream events, pre-dream thoughts and experiences with people, places and objects. Selecting key symbol phrases is a judgment evaluation by the dreamer as to which dream phrases are the most personally meaningful. Dreamers’ spontaneous feelings are the best gages for knowing the relative accuracy of meanings she or he has developed.</p>
 
@@ -16148,39 +16148,39 @@ ns1:bcpov6zphras a ns1:Post ;
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<p>“Decide to be friendly with person:” Way to overcome trace of stressful emotions about the person in this dream is to think friendly thoughts about her. (She was also implicated in a dream that I revisited last night.)</p>
+<p>"Decide to be friendly with person:" Way to overcome trace of stressful emotions about the person in this dream is to think friendly thoughts about her. (She was also implicated in a dream that I revisited last night.)</p>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<p>“Did not spend time with my friend Sara Emerson:” Reprimands me for skipping meditation yesterday after I decided my uninterrupted work was more important. Sara’s last name “Emerson” reflects my appreciation for Ralph Waldo Emerson’s philosophy to think from the highest perspective, something meditation helps me do.</p>
+<p>"Did not spend time with my friend Sara Emerson:" Reprimands me for skipping meditation yesterday after I decided my uninterrupted work was more important. Sara’s last name "Emerson" reflects my appreciation for Ralph Waldo Emerson’s philosophy to think from the highest perspective, something meditation helps me do.</p>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<p>“Does not want to hear what I have to say:” Be cautious about reminiscing in remorseful ways. In the dream, a childhood friend thinks I am going to talk about activities that she might have been involved in. Last night I almost went into talking remorsefully about this friend.</p>
+<p>"Does not want to hear what I have to say:" Be cautious about reminiscing in remorseful ways. In the dream, a childhood friend thinks I am going to talk about activities that she might have been involved in. Last night I almost went into talking remorsefully about this friend.</p>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<p>“Finally tell Joleatha that I need to bring my spouse home:” Successful overcoming of unfounded worry thoughts about whether my spouse was upset by my actions early this morning. Joleatha tends toward gross overreaction.</p>
+<p>"Finally tell Joleatha that I need to bring my spouse home:" Successful overcoming of unfounded worry thoughts about whether my spouse was upset by my actions early this morning. Joleatha tends toward gross overreaction.</p>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<p>“Healthy mom urges me to dress well:” After working through mothering issues, get on with wearing those personality characteristics.</p>
+<p>"Healthy mom urges me to dress well:" After working through mothering issues, get on with wearing those personality characteristics.</p>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<p>“House being cold:” The sadness and heaviness that was felt throughout our house when we argued last night.</p>
+<p>"House being cold:" The sadness and heaviness that was felt throughout our house when we argued last night.</p>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<p>“I missed our very fine little girl friendship:” These words that I say to a childhood friend in the dream lets me know the true way I felt when my very fine childhood friend began preferring other friends. Last night I thought about the friendship but decided not to talk remorsefully about it.</p>
+<p>"I missed our very fine little girl friendship:" These words that I say to a childhood friend in the dream lets me know the true way I felt when my very fine childhood friend began preferring other friends. Last night I thought about the friendship but decided not to talk remorsefully about it.</p>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<p>“Lack of food:” Lack of food seemed to me to be saying I’m not getting enough emotional nourishment. All there was, was booze. I’m wondering where’s the meat (the substance). This ties to my last night’s worry thoughts about Victor’s alcohol consumption.</p>
+<p>"Lack of food:" Lack of food seemed to me to be saying I’m not getting enough emotional nourishment. All there was, was booze. I’m wondering where’s the meat (the substance). This ties to my last night’s worry thoughts about Victor’s alcohol consumption.</p>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<p><a href="http://www.yourguidingdreams.com/">YourGuidingDreams.com</a> offers our <a href="http://www.yourguidingdreams.com/public/dreamscan.htm">DreamScan™</a> (latest technology to instantly finding meanings to one-word symbols), for use as “thought-starters.’ DreamScan™, free to visitors on the site, is fun to use, and many of those meanings reflect the context of the dream.. HOWEVER, the best way to find “unique-to-the-individual” meanings is to go beyond one-word symbols to defining symbol phrases. YourGuidingDreams.com gives instructions to members for defining symbol phrases. The Dreamwork Systems Perspective PMID™ step 6 uses a dreamwork systems approach to understanding dreams about relationships. A dreamwork systems approach is mindful of family systemic models, except, instead of the family or other major relationships coming together in personal counseling sessions, an individual studies series of dreams about various major relationships, primarily the family. (See the PMID™ steps in the box).</p>
+<p><a href="http://www.yourguidingdreams.com/">YourGuidingDreams.com</a> offers our <a href="http://www.yourguidingdreams.com/public/dreamscan.htm">DreamScan™</a> (latest technology to instantly finding meanings to one-word symbols), for use as "thought-starters.’ DreamScan™, free to visitors on the site, is fun to use, and many of those meanings reflect the context of the dream.. HOWEVER, the best way to find "unique-to-the-individual" meanings is to go beyond one-word symbols to defining symbol phrases. YourGuidingDreams.com gives instructions to members for defining symbol phrases. The Dreamwork Systems Perspective PMID™ step 6 uses a dreamwork systems approach to understanding dreams about relationships. A dreamwork systems approach is mindful of family systemic models, except, instead of the family or other major relationships coming together in personal counseling sessions, an individual studies series of dreams about various major relationships, primarily the family. (See the PMID™ steps in the box).</p>
 
 <p><img src="../images/post-bcpov6zphras-1.jpg" alt="YourGuidingDreams.com" width="500" height="auto"/></p>
 
@@ -16200,11 +16200,11 @@ ns1:bcpov6zphras a ns1:Post ;
 
 <p>To demonstrate the dreamwork systems perspective, we present a synopsis of Katharine’s series of dreams. After each of the first four dreams and interpretations, Evelyn gave feedback (through the instructor-facilitated university course) on Katharine’s PMID method use. Katharine interpreted her remaining dreams without facilitation.</p>
 
-<p>To set the background for the primary relationship issues Katharine faced, we take a couple sentences from Katharine’s first dreamwork. “I have recurrent emotions of guilt and responsibility. I often feel like I need to keep everyone happy and not cause conflict, and that I must take on other people’s views on certain things.” Then, well into her work with dreams, Katharine wrote, “A common thread (in my dreams) seems to be that I am not responsible for other people’s feelings and I cannot carry that burden of feeling like I need to make people feel a certain way.” Dream series follows:</p>
+<p>To set the background for the primary relationship issues Katharine faced, we take a couple sentences from Katharine’s first dreamwork. "I have recurrent emotions of guilt and responsibility. I often feel like I need to keep everyone happy and not cause conflict, and that I must take on other people’s views on certain things". Then, well into her work with dreams, Katharine wrote, "A common thread (in my dreams) seems to be that I am not responsible for other people’s feelings and I cannot carry that burden of feeling like I need to make people feel a certain way". Dream series follows:</p>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<h3>Dream One: “Family Crash.”</h3>
+<h3>Dream One: "Family Crash".</h3>
 
 <blockquote>
   <p><em>Katharine is driving, the whole family is in the car, she loses control and the car crashes. The night before the dream, Katherine felt guilty for letting her family down because she could not go with them to a football game.</em></p>
@@ -16212,23 +16212,23 @@ ns1:bcpov6zphras a ns1:Post ;
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<h3>Dream Two: “Victorian Mansion.”</h3>
+<h3>Dream Two: "Victorian Mansion".</h3>
 
 <blockquote>
-  <p><em>“Victorian vs. present day,” could symbolize being out of place… me caretaking my mom… which is out of place.” On one floor are children who “died at about age four.” “I can remember at a very young age, about four, being left at daycare, and being so upset that my mom was leaving, and wanting to cry, but not letting myself, because I knew that would make it hard for her to leave.” The night before this dream, Katharine worried about her mom’s “too quiet” attitude.</em></p>
+  <p><em>"Victorian vs. present day," could symbolize being out of place… me caretaking my mom… which is out of place". On one floor are children who "died at about age four". "I can remember at a very young age, about four, being left at daycare, and being so upset that my mom was leaving, and wanting to cry, but not letting myself, because I knew that would make it hard for her to leave". The night before this dream, Katharine worried about her mom’s "too quiet" attitude.</em></p>
 </blockquote>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<h3>Dream Three: “Blocked Path.”</h3>
+<h3>Dream Three: "Blocked Path".</h3>
 
 <blockquote>
-  <p><em>Katharine is the only family member brave enough to leave the house to make a delivery to a neighbor.. Dead animals in her path (“possibly any negative emotions/ situations my family is unwilling to deal with”) prevent her from getting back to the family. The family watches with “we told you so” looks on their faces. “I feel guilty… and very alone… and scared.”</em></p>
+  <p><em>Katharine is the only family member brave enough to leave the house to make a delivery to a neighbor.. Dead animals in her path ("possibly any negative emotions/ situations my family is unwilling to deal with") prevent her from getting back to the family. The family watches with "we told you so" looks on their faces. "I feel guilty… and very alone… and scared".</em></p>
 </blockquote>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<h3>Dream Four: “Bullets.”</h3>
+<h3>Dream Four: "Bullets".</h3>
 
 <blockquote>
   <p><em>A roommate is shot. Katharine tries to stop the bleeding. The night before the dream, Katherine tried to stand up for a roommate who did not defend herself.</em></p>
@@ -16236,33 +16236,33 @@ ns1:bcpov6zphras a ns1:Post ;
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<h3>Dream Five: “Going Back to High School”</h3>
+<h3>Dream Five: "Going Back to High School"</h3>
 
 <blockquote>
-  <p>A breakthrough dream. <em>Katharine gathers courage to give a dead cat back to a high school boyfriend after he leaves the dead cat in her locker. “As I walk back down the hall, I feel very relieved and freed.” The night before the dream the friend, now several years past high school, “pouted” when she declined a date with him, as he did during high school days. “I need to put Marshall’s childish behavior back on him and… refuse to carry around that worry.”</em></p>
+  <p>A breakthrough dream. <em>Katharine gathers courage to give a dead cat back to a high school boyfriend after he leaves the dead cat in her locker. "As I walk back down the hall, I feel very relieved and freed". The night before the dream the friend, now several years past high school, "pouted" when she declined a date with him, as he did during high school days. "I need to put Marshall’s childish behavior back on him and… refuse to carry around that worry".</em></p>
 </blockquote>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<h3>Dream Six: “Painting in the Basement”</h3>
+<h3>Dream Six: "Painting in the Basement"</h3>
 
 <blockquote>
-  <p>-came one night after Katharine, for the first time, told a long-time friend, Paige, that she disapproved of Paige’s treatment of a young man. In the dream, <em>Katharine invites Paige to “paint in the basement.” Paige resists. “Me eventually going back upstairs:” “Represents me (Katharine) realizing I can’t force Paige to look deeper into herself….”</em></p>
+  <p>-came one night after Katharine, for the first time, told a long-time friend, Paige, that she disapproved of Paige’s treatment of a young man. In the dream, <em>Katharine invites Paige to "paint in the basement". Paige resists. "Me eventually going back upstairs:" "Represents me (Katharine) realizing I can’t force Paige to look deeper into herself…".</em></p>
 </blockquote>
 
 <div style="text-align: center">≈ ≈ ≈ ∞ ≈ ∞ ≈ ≈ ≈<span></span></div>
 
-<h3>Dream Seven: “Nobody Believes Me”</h3>
+<h3>Dream Seven: "Nobody Believes Me"</h3>
 
 <blockquote>
-  <p>(a dream she had before the course, but was “too freaked out” to work with it, came again during the course). <em>Katharine first watches a sister bury a dead person in the back yard. Finally, Katharine comes out from “ Hiding behind a bush: My own fear of not knowing how to confront my sister” and “Stands next to my sister: This represents me confronting my sister, but also supporting her with this problem.” Before the dream, Katharine asked her parents to talk with this daughter about a disorder that seemed quite plain to Katharine. “They didn’t believe me.”</em> (They don’t believe her in the dream either.)</p>
+  <p>(a dream she had before the course, but was "too freaked out" to work with it, came again during the course). <em>Katharine first watches a sister bury a dead person in the back yard. Finally, Katharine comes out from " Hiding behind a bush: My own fear of not knowing how to confront my sister" and "Stands next to my sister: This represents me confronting my sister, but also supporting her with this problem". Before the dream, Katharine asked her parents to talk with this daughter about a disorder that seemed quite plain to Katharine. "They didn’t believe me".</em> (They don’t believe her in the dream either.)</p>
 </blockquote>
 
-<p><strong>(Dreamer’s Summary):</strong> “Common with other dreams is the focus on me expressing myself more even if it is scary because I am not used to it. In “Family Crash,” I am in the driver’s seat, and in the “Blocked Path” dream, I am the one to be brave, and in “Nobody Believes Me,” I am the one to take charge and go stand by my sister. This message is very clear to me that I have the power to change things that I don’t like, even if I may not necessarily change how others respond. I can change my own actions, which does affect the system.”</p>
+<p><strong>(Dreamer’s Summary):</strong> "Common with other dreams is the focus on me expressing myself more even if it is scary because I am not used to it. In "Family Crash," I am in the driver’s seat, and in the "Blocked Path" dream, I am the one to be brave, and in "Nobody Believes Me," I am the one to take charge and go stand by my sister. This message is very clear to me that I have the power to change things that I don’t like, even if I may not necessarily change how others respond. I can change my own actions, which does affect the system".</p>
 
-<p>A major aim for the PMID™ method is to help people in the current generation make healthful differences in their own lives, thus terminating potential unhealthful patterns. For several years, coauthor E. Bruce Bynum has suggested a “personalized” view of an extended familial system. In his explorations of dreams with individuals and with families in therapy, he has found people in close association, such as the family, resonate with each other in such a way that dreams of each family member express the family’s emotional situations. This shared matrix that exists within and between us, interlaces us all in an enfolding field, in a Family Unconscious. Though dreams of each family member reflect the family constellation, individual’s dreams differ, depending on the individual’s particular skew or perception of the family constellation and conflicts (4, 5).</p>
+<p>A major aim for the PMID™ method is to help people in the current generation make healthful differences in their own lives, thus terminating potential unhealthful patterns. For several years, coauthor E. Bruce Bynum has suggested a "personalized" view of an extended familial system. In his explorations of dreams with individuals and with families in therapy, he has found people in close association, such as the family, resonate with each other in such a way that dreams of each family member express the family’s emotional situations. This shared matrix that exists within and between us, interlaces us all in an enfolding field, in a Family Unconscious. Though dreams of each family member reflect the family constellation, individual’s dreams differ, depending on the individual’s particular skew or perception of the family constellation and conflicts (4, 5).</p>
 
-<p>Though we concentrate on relationship dreams, the PMID™ Method is equally useful for “everyday” guidance in common activities, such as home, work, recreation, career, education, and health. Simply eliminate PMID™ Step 6. Examples of what we call everyday dreams are the <a href="../bcpov6zprofe">two dreams published by Dream Network</a> (6).</p>
+<p>Though we concentrate on relationship dreams, the PMID™ Method is equally useful for "everyday" guidance in common activities, such as home, work, recreation, career, education, and health. Simply eliminate PMID™ Step 6. Examples of what we call everyday dreams are the <a href="../bcpov6zprofe">two dreams published by Dream Network</a> (6).</p>
 
 <h2>How to Become Involved in Understanding Your Dreams with the PMID™ Method</h2>
 
@@ -16298,9 +16298,9 @@ ns1:bcpov6zphras a ns1:Post ;
 
 <p>To sign-up for either option, click on Sign-up from the home page of <a href="http://www.yourguidingdreams.com/">www.yourguidingdreams.com</a>.</p>
 
-<p>Dreams are “personal.” Your dreams are personal. All member dreams and interpretations are kept confidential and are available for viewing only by the individual dreamer member and select members of YourGuidingDreams staff.</p>
+<p>Dreams are "personal". Your dreams are personal. All member dreams and interpretations are kept confidential and are available for viewing only by the individual dreamer member and select members of YourGuidingDreams staff.</p>
 
-<p>Whether you use the website, or record your dreams in a journal, the PMID™ dream interpretation method could benefit you. Think about it. You likely already sense that many of your pre- dream events and thoughts connect to your dreams. You possibly have heard about comparing dreaming emotions and waking emotions, and that dreams contain solutions. The PMID™ dream interpretation method does all those and more—from inviting you to define dream symbol phrases based on personal experiences, to inviting you to explore whether stressful reactions to others stem from your reactions in prior experiences. ℘</p>
+<p>Whether you use the website, or record your dreams in a journal, the PMID™ dream interpretation method could benefit you. Think about it. You likely already sense that many of your pre-dream events and thoughts connect to your dreams. You possibly have heard about comparing dreaming emotions and waking emotions, and that dreams contain solutions. The PMID™ dream interpretation method does all those and more—from inviting you to define dream symbol phrases based on personal experiences, to inviting you to explore whether stressful reactions to others stem from your reactions in prior experiences. ℘</p>
 
 <h2>References:</h2>
 
@@ -18947,7 +18947,7 @@ ns1:bcppw4zftpdi a ns1:Post ;
 
 <p>I feel a parallel situation exists in the realm of dreamwork: there are those who have experienced the power of working with dreams and those who have not. I feel the biggest challenge that we have is to find ways to introduce and encourage the have-nots to take the plunge and join the haves. I feel this effort needs to be on a one-to-one or one-to-many basis. But we, the privileged haves, need to explain why dreamwork can be so powerful and helpful.</p>
 
-<p>For the have-nots, the subject of dreaming and dreams is often confusing. Bob Haden recently commented that people frequently dismiss dreams "because they are unfamiliar with the dreamworld and don't know what to do or say, much less sense that there is usually gold in this metaphorical message from the divine". [Dream Network 21(3) p.39]. I agree.</p>
+<p>For the have-nots, the subject of dreaming and dreams is often confusing. Bob Haden recently commented that people frequently dismiss dreams "because they are unfamiliar with the dreamworld and don't know what to do or say, much less sense that there is usually gold in this metaphorical message from the divine". (Dream Network 21.3 p.39). I agree.</p>
 
 <p>I think we can take several steps to help the have-nots to become engaged with their dreams. The most common questions I am asked about imagery involve being pursued or threat of death. Explaining that these metaphors can relate to a call for change in one's life may allow the dreamer to be more comfortable with the dreaming process and therefore ease their exploration of possible issues of concern.</p>
 
@@ -19009,7 +19009,7 @@ ns1:bcppw4zftpdi a ns1:Post ;
 
 <p>Much has happened in this 40-year time span. Jump ahead to today: in the writings of Gayle Delaney, Ann Faraday, <a href="../@jaynegackenbach">Jayne Gackenbach</a>, Patricia Garfield, <a href="../@stanleykrippner">Stanley Krippner</a>, Charles Mc- Phee, Alan Siegel, Jeremy Taylor, <a href="../@montagueullman">Montague Ullman</a>, <a href="../@bobvandecastle">Robert Van de Castle</a>, and many others, or in the articles of <em>Dream Network</em>, one can find a treasure of information about dreams, and how to work with dream content. Today we have a myriad of ways of working with dreams, both within and without the confines of a therapist's office.</p>
 
-<p>A major transition has taken place in working with dream content. No longer does the interpretation of a dream rest with an outside authority who tells the dreamer what the dream "means". Today, there are much more cooperative processes available, whereby the dreamer can find help from another dreamer or dreamworker. One of the early pioneer influences in the grass roots movement to get dreamwork out of the analyst's office and into the public has been the work of Montague Ullman, who developed a <a href="../bcpov6rssull/the-ullman-method-of-dream-analysis">protocol</a> by which the dreamwork was shared by persons within a group. Although Ullman has a very specific protocol for working with his method, the basic approach of sharing in dreamwork on the basis of "If it were my dream" or "In my dream" has been utilized by many other dreamworkers. My computer online dreamwork also draws from parts of his methodology.</p>
+<p>A major transition has taken place in working with dream content. No longer does the interpretation of a dream rest with an outside authority who tells the dreamer what the dream "means". Today, there are much more cooperative processes available, whereby the dreamer can find help from another dreamer or dreamworker. One of the early pioneer influences in the grass roots movement to get dreamwork out of the analyst's office and into the public has been the work of Montague Ullman, who developed a <a href="../bcpov6rssull/the-ullman-method-of-dream-analysis">protocol by which the dreamwork was shared</a> by persons within a group. Although Ullman has a very specific protocol for working with his method, the basic approach of sharing in dreamwork on the basis of "If it were my dream" or "In my dream" has been utilized by many other dreamworkers. My computer <a href="../theme~dream-apps-and-online-dreamsharing">online dreamwork</a> also draws from parts of his methodology.</p>
 
 <p>There are wonderful aids and many Internet online sources, that can stimulate thinking about a dream, helping one "to look at it in another way", which is essentially the task we have as dreamworkers.</p>
 """^^xsd:string ;

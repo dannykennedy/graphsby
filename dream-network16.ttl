@@ -18394,6 +18394,7 @@ ns1:bcpoz6zpttmu a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3king ;
     ns1:hasTag ns1:bcphbq3king,
         ns1:bcphbw4yscz ;
+    ns1:hasTopic ns1:bcphbqflull ;
     ns1:inIssue ns1:bcphbw4yscz ;
     ns1:itemId "bcpoz6zpttmu"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -22545,23 +22546,6 @@ ns1:bcphbq3vand a ns1:User ;
     ns1:name "Robert Van de Castle"^^xsd:string ;
     ns1:profileImg "author-bobvandecastle.jpg"^^xsd:string .
 
-ns1:bcphbqflull a ns1:User ;
-    ns1:description """<p>Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
-
-<p>More information on Montague Ullman and selected writings on Judy Gardiner's website, <a href="http://www.cosmicdreaming.com/meetdrullman.html">cosmicdreaming.com</a></p>
-
-<p>Montague Ullman (1916 – 2008) was a renowned psychiatrist, psychoanalyst and parapsychologist who founded the Dream Laboratory at the Maimonides Medical Center in Brooklyn, New York and for over three decades promoted public interest in dreams and dream sharing groups. He published around 20 articles in the Dream Network, several of which were first published here. </p>
-
-<p>These writings are reproduced with the permission of <a href="http://www.cosmicdreaming.com/abouttheauthor.html">Judy Gardiner</a>, Literary Executor, Estate of Montague Ullman. Profile image by Judy Gardiner - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=17845039">commons.wikimedia.org</a></p>
-
-<p><em>The following papers are under different copyrights. Their content may not be copied or e-mailed to multiple sites or posted to listservers without the copyright holder's express written permission. However, users may print, download or email articles for individual use.</em></p>
-"""^^xsd:string ;
-    ns1:handle "montagueullman"^^xsd:string ;
-    ns1:itemId "bcphbqflull"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Montague Ullman"^^xsd:string ;
-    ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
-
 ns1:bcphbqflyer a ns1:User ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
 
@@ -22633,6 +22617,23 @@ ns1:bcphbq3arts a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Arthur Strock"^^xsd:string ;
     ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
+
+ns1:bcphbqflull a ns1:User ;
+    ns1:description """<p>Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
+
+<p>More information on Montague Ullman and selected writings on Judy Gardiner's website, <a href="http://www.cosmicdreaming.com/meetdrullman.html">cosmicdreaming.com</a></p>
+
+<p>Montague Ullman (1916 – 2008) was a renowned psychiatrist, psychoanalyst and parapsychologist who founded the Dream Laboratory at the Maimonides Medical Center in Brooklyn, New York and for over three decades promoted public interest in dreams and dream sharing groups. He published around 20 articles in the Dream Network, several of which were first published here. </p>
+
+<p>These writings are reproduced with the permission of <a href="http://www.cosmicdreaming.com/abouttheauthor.html">Judy Gardiner</a>, Literary Executor, Estate of Montague Ullman. Profile image by Judy Gardiner - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=17845039">commons.wikimedia.org</a></p>
+
+<p><em>The following papers are under different copyrights. Their content may not be copied or e-mailed to multiple sites or posted to listservers without the copyright holder's express written permission. However, users may print, download or email articles for individual use.</em></p>
+"""^^xsd:string ;
+    ns1:handle "montagueullman"^^xsd:string ;
+    ns1:itemId "bcphbqflull"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Montague Ullman"^^xsd:string ;
+    ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
 
 ns1:bcphbqfgreg a ns1:User ;
     ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>

@@ -6,7 +6,7 @@ name: "A Personal Tribute to Monte Ullman"
 tags:
     - hasTag: marleneking
     - hasAuthor: marleneking
-    - hasTopic: monteullman
+    - hasTopic: montagueullman
     - hasTag: 25.2
     - inIssue: 25.2
 type: post

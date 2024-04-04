@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jeremytaylor
     - hasTag: 15.1
     - inIssue: 15.1
+    - hasTopic: theme~dream-apps-and-online-dreamsharing
 type: post
 urlSlug: dreamwork-community-in-cyberspace
 profileImg: post-bcpov6christ-1.jpg

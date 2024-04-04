@@ -2296,6 +2296,7 @@ ns1:bcpov6grddtd a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqbeldo ;
     ns1:hasTag ns1:bcphbqbeldo,
         ns1:bcphbs4b6on ;
+    ns1:hasTopic ns1:bcpovcredja ;
     ns1:inIssue ns1:bcphbs4b6on ;
     ns1:itemId "bcpov6grddtd"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -5110,7 +5111,7 @@ ns1:bcpov6kfutur a ns1:Post ;
 
 <p>I feel more in community with people I've never met, never seen, who are in Europe, or in Russia or South Africa, than I do with my neighbor across the road. And I can have two reactions about that: I can say that's horrible, we've got to have community right around us; but, what I've come to feel is that I don't want to insist on that anymore. First of all it's not happening organically. What is happening organically is a kind of psychic inner connection with people all over the world and I feel very connected with them.</p>
 
-<p>Certainly, I'm not in opposition to having community close at hand in my small town, but it doesn't seem to · be happening. I don't know whether that's peculiar to me or...</p>
+<p>Certainly, I'm not in opposition to having community close at hand in my small town, but it doesn't seem to be happening. I don't know whether that's peculiar to me or...</p>
 
 <p><strong>R.O.:</strong> I don't believe so. I'm hearing everywhere I go that there is no such thing as community anymore, except when a crisis occurs. I am experiencing it myself. It's a great loss, whatever the causes. I wasn't I aware of how much I miss a sense of community until attending the gathering I mentioned earlier. The setting was on an island in British Columbia. There, most people do not have, nor need, cars. Every day was a celebration of people in the streets, walking and genuinely greeting one another. That in itself was incredibly nourishing and made me painfully nostalgic because that's the way it used to be...</p>
 
@@ -5198,6 +5199,7 @@ ns1:bcpov6kfutur a ns1:Post ;
     ns1:hasTag ns1:bcphbq3ossa,
         ns1:bcphbqp3hfp,
         ns1:bcphbqvruss ;
+    ns1:hasTopic ns1:bcpovcredja ;
     ns1:inIssue ns1:bcphbqp3hfp ;
     ns1:itemId "bcpov6kfutur"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -9004,6 +9006,7 @@ ns1:bcpov6rsgcdt a ns1:Post ;
     ns1:hasTag ns1:bcphbbhutch,
         ns1:bcphbivy3pu,
         ns1:bcphbqhutch ;
+    ns1:hasTopic ns1:bcpovcredja ;
     ns1:inIssue ns1:bcphbivy3pu ;
     ns1:itemId "bcpov6rsgcdt"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -9018,7 +9021,7 @@ ns1:bcpov6rsgdnp a ns1:Post ;
 
 <p>Upon request, your computer displays text and pictures concerning universal aspects of particular symbols in your dream, selected on the basis of your personal associative context. To help you distinguish between aspects of your dream symbols that are personal and those aspects at are more universal, the computer displays dreams from a large dream bank containing the same symbols appearing in your dream, and helps you discover your dream's relationship to these more typical patterns. If your dream contained some important references to apparently external events, the computer would provide you with a survey of dream themes and symbols collected over the past 24 hours from around the world, and by providing you with visual statistics, help you determine if your dream was unusual and idiosyncratic, or if a significant number of other people were currently having dreams with similar themes or symbols. You could determine if your "earthquake" dream this morning, for example, was conveying a personal upset in terms of a personal metaphor or in terms of an objective event that was being used as a symbol around the world. If the nature of the dream was such that you wanted to contact others who were having similar dreams, the computer would promptly inform you of how to contact those individuals.</p>
 
-<p>This bit of science fiction fantasy may or may not seem appealing. Dreams are intimate and from the "right brain", while computers are definitely extensions of the "left brain" world. Dreams and computers have in common, however, the ability to process enormous amounts of information in order to create their respective products. When trying to interpret our dreams, our limited conscious knowledge is often meager compared to the amount of information condensed in a dream. What would happen if the computer's information processing ability were put into the service of helping us understand the information the dream has processed?</p>
+<p>This bit of science fiction fantasy may or may not seem appealing. Dreams are intimate and from the "right brain", while computers are definitely extensions of the "left brain" world. <a href="../theme~dream-apps-and-online-dreamsharing">Dreams and computers</a> have in common, however, the ability to process enormous amounts of information in order to create their respective products. When trying to interpret our dreams, our limited conscious knowledge is often meager compared to the amount of information condensed in a dream. What would happen if the computer's information processing ability were put into the service of helping us understand the information the dream has processed?</p>
 
 <p>Everything described in the above imaginary scenario is possible, either now or with computer systems of the not-so-distant future. Working toward this future, I have been administering a far-reaching program called the "Dream Net Project". Like the initiation of the space program, it is ambitious, requiring the coordination of many different component projects under development by many different people and should lead to many interesting beneficial spinoffs in the process. It certainly has some profound implications for networking among our community of dreamers. Even if the "Dream Net" project can not, for some years to come, yield the type of incredible results depicted in the above imaginary scenario, there are many useful things that today's personal computer can do to relieve some of the drudgery of dream collecting and analysis, both for a dreamer's personal use and for research purposes. For example, a dream journal word-processing and filing system would make it easier to write down dreams (it is easier on a word processor), to modify and manipulate the dream text in the process of written interpretive work, and to store, sort, and retrieve past dreams that may be relevant to the dreamwork at hand. That much is quite possible today.</p>
 
@@ -9043,6 +9046,7 @@ ns1:bcpov6rsgdnp a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvreed ;
     ns1:hasTag ns1:bcphblnikds,
         ns1:bcphbqvreed ;
+    ns1:hasTopic ns1:bcpovcredja ;
     ns1:inIssue ns1:bcphblnikds ;
     ns1:itemId "bcpov6rsgdnp"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -11577,6 +11581,7 @@ ns1:bcpov6zdeeps a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqawtay ;
     ns1:hasTag ns1:bcphbqawtay,
         ns1:bcphbrw63cp ;
+    ns1:hasTopic ns1:bcpovcredja ;
     ns1:inIssue ns1:bcphbrw63cp ;
     ns1:itemId "bcpov6zdeeps"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -13116,6 +13121,7 @@ ns1:bcpov6zfcybr a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3rcwi ;
     ns1:hasTag ns1:bcphbq3rcwi,
         ns1:bcphbrw63cp ;
+    ns1:hasTopic ns1:bcpovcredja ;
     ns1:inIssue ns1:bcphbrw63cp ;
     ns1:itemId "bcpov6zfcybr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -13859,6 +13865,7 @@ ns1:bcpov6zfgil1 a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3curt ;
     ns1:hasTag ns1:bcphbq3curt,
         ns1:bcphbzdzrug ;
+    ns1:hasTopic ns1:bcpovcredja ;
     ns1:inIssue ns1:bcphbzdzrug ;
     ns1:itemId "bcpov6zfgil1"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -14384,7 +14391,7 @@ ns1:bcpov6zfpeac a ns1:Post ;
 
 <p>Possibly the single most important development of the decade was the Internet, where almost as soon as longdistance communication was possible, dreamworkers like the <a href="../@jeremytaylor">Rev. Jeremy Taylor</a>, <a href="../@johnherbert">John Herbert</a>, <a href="../@jaynegackenbach">Jayne Gackenbach</a>, and <a href="../@richardwilkerson">Richard Wilkerson</a> were communicating globally with dreamers around the world and constructing Internet dream resources which far outshone anything available to dreamers prior to that time.</p>
 
-<p>When I returned to ASD in 1996, almost the first thing I did was volunteer to moderate the Online Bulletin Board at http://www.asdreams.org. I was fascinated by the potential of the Internet to link dreamers with one another and to provide instant communication. Whereas before, when the <em>‘Dreams to the Tenth Power’</em> research was going on, weeks of sending dream accounts and responses through the mail were discouraging to dreamers. Now communication was instantaneous, free... with the click of a key.</p>
+<p>When I returned to ASD in 1996, almost the first thing I did was volunteer to moderate the Online Bulletin Board at <a href="https://www.asdreams.org/">http://www.asdreams.org</a>. I was fascinated by the potential of the Internet to link dreamers with one another and to provide instant communication. Whereas before, when the <em>‘Dreams to the Tenth Power’</em> research was going on, weeks of sending dream accounts and responses through the mail were discouraging to dreamers. Now communication was instantaneous, free... with the click of a key.</p>
 
 <p>As soon as I began to moderate the Online Bulletin Board, I noticed one less-than-surprising thing: a majority of the questions—from kids writing school papers, from adults with sleep disorders, from dreamers all over the globe—focused on subjects which, heretofore, had been classified under ‘paranormal’ dreaming or ‘anomalous’ dreams. There were questions about out-of-body experiences, about dream telepathy, about mutual dreams and experiences of sleep paralysis. It seemed that this type of dreaming, far from being paranormal, was — if we were to believe the people who came to the Bulletin Board — very normal indeed.</p>
 
@@ -14410,7 +14417,7 @@ ns1:bcpov6zfpeac a ns1:Post ;
 
 <p>What struck me about the dream was that, although I was in the control tower, I was only an observer. My dream reminded me that I had the ability to respond, a response-ability to be in control, as we all do if we believe that we are dreaming the world.</p>
 
-<p>In the last issue of <em>Dream Network</em>, Richard Wilkerson labeled this emerging attitude as Dream Activism. In fact, there are other groups now following the model of the World Dreams Peace Bridge, and there are a growing number of dream activists. Is this a new concept? Not entirely. During the time between the emergence of ‘grass roots’ dreamwork and today, many dreamers have recognized that — from a certain position in the dream, often a lucid dream, and sometimes a group or mutual dream — it is possible to act consciously from the dream state, to communicate with others and to participate in creating the magic of reality.</p>
+<p>In the last issue of <em>Dream Network</em>, Richard Wilkerson labeled this emerging attitude as <a href="../bcpov6zfcybr/dreaming-online-the-global-cyberspace-dreamsharing-community">Dream Activism</a>. In fact, there are other groups now following the model of the World Dreams Peace Bridge, and there are a growing number of dream activists. Is this a new concept? Not entirely. During the time between the emergence of ‘grass roots’ dreamwork and today, many dreamers have recognized that — from a certain position in the dream, often a lucid dream, and sometimes a group or mutual dream — it is possible to act consciously from the dream state, to communicate with others and to participate in creating the magic of reality.</p>
 
 <p>The World Dreams Peace Bridge, which maintains an active membership of around fifty people, is composed of dreamers from around the world: Australia, Japan, the Netherlands, Austria, New Zealand, the U.S. and many other places. In its waking form, as a discussion group, the Peace Bridge operates as a support system for dreamers. New ideas are explored; dreams are told; because of its international membership, news is often reported from one country or another before it is picked up by the press.</p>
 
@@ -14434,6 +14441,7 @@ ns1:bcpov6zfpeac a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3jean ;
     ns1:hasTag ns1:bcphbq3jean,
         ns1:bcphbvjopd2 ;
+    ns1:hasTopic ns1:bcpovcredja ;
     ns1:inIssue ns1:bcphbvjopd2 ;
     ns1:itemId "bcpov6zfpeac"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -16313,6 +16321,7 @@ ns1:bcpov6zphras a ns1:Post ;
     ns1:hasTag ns1:bcphbq3dues,
         ns1:bcphbqbynum,
         ns1:bcphbv3fbuv ;
+    ns1:hasTopic ns1:bcpovcredja ;
     ns1:inIssue ns1:bcphbv3fbuv ;
     ns1:itemId "bcpov6zphras"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -19007,6 +19016,7 @@ ns1:bcppw4zftpdi a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqchher ;
     ns1:hasTag ns1:bcphbqchher,
         ns1:bcphbvecgmx ;
+    ns1:hasTopic ns1:bcpovcredja ;
     ns1:inIssue ns1:bcphbvecgmx ;
     ns1:itemId "bcppw4zftpdi"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -19477,6 +19487,9 @@ ns1:urlSlug a owl:DatatypeProperty ;
     rdfs:range xsd:string .
 
 ns1:Person a owl:Class ;
+    rdfs:subClassOf ns1:Item .
+
+ns1:Theme a owl:Class ;
     rdfs:subClassOf ns1:Item .
 
 ns1:bcphbklgsln a ns1:Post ;
@@ -22485,6 +22498,16 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:name "Volume 28, issue 1: Chaos & Apocalypse"^^xsd:string ;
     ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.1"^^xsd:string .
+
+ns1:bcpovcredja a ns1:Theme ;
+    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
+    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomena. But check out these articles, and see that for as long as dreams, computers and the internet have coexisted (since the 60s), there's been a dream to digitize dreams.</p>
+"""^^xsd:string ;
+    ns1:handle "theme~dream-apps-and-online-dreamsharing"^^xsd:string ;
+    ns1:itemId "bcpovcredja"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string ;
+    ns1:profileImg "theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string .
 
 ns1:bcpqn7zvpei a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>

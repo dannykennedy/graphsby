@@ -5,7 +5,7 @@ def truncatePost(post_description, length, itemId):
 	# print("Truncating post with id: " + itemId)
 	if str(itemId) == 'bcpov6zfbsbr':
 		print("Truncating post with id: " + itemId)
-		print(post_description)
+		# print(post_description)
 
 
 	truncated_desc = truncate_html(post_description, length, end="...", break_words=True)

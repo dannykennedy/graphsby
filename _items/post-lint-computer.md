@@ -8,13 +8,14 @@ tags:
     - hasAuthor: linthutchinson
     - hasTag: beckhutchinson
     - hasAuthor: beckhutchinson
+    - hasTopic: theme~dream-apps-and-online-dreamsharing
     - hasTag: 1.11
     - inIssue: 1.11
 type: post
 urlSlug: "computerized-dream-translation"
 ---
 
-Traditionally, technology is not linked to the world of visualization, regenerative processes or dreams. Technology is thought to be too narrow to contain or support that delicate, yet ever-so-strong inner world. It would seem that the binary, on-off logic would render dreams lifeless and bruised. Yet the computer provides qualities that surprisingly lend themselves to dream work. Two of these qualities are storage and retrieval of the dream report, and text editing.
+Traditionally, technology is not linked to the world of visualization, regenerative processes or dreams. Technology is thought to be too narrow to contain or support that delicate, yet ever-so-strong inner world. It would seem that the binary, on-off logic would render dreams lifeless and bruised. Yet the [computer provides qualities that surprisingly lend themselves to dream work](../theme~dream-apps-and-online-dreamsharing). Two of these qualities are storage and retrieval of the dream report, and text editing.
 
 In the development of a dream translation program for the Apple Computer, these two qualities have been incorporated. The software is designed to translate the dream report into a format that substitutes meaning for symbology. This is accomplished through the creation of an expanded, second dream report using the individual's personal symbology.
 

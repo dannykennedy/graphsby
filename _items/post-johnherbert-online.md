@@ -8,6 +8,7 @@ tags:
     - hasAuthor: johnherbert
     - hasTag: 21.4-22.1
     - inIssue: 21.4-22.1
+    - hasTopic: theme~dream-apps-and-online-dreamsharing
 type: post
 urlSlug: "pioneering-dreamwork-online"
 ---

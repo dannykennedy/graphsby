@@ -10,7 +10,6 @@ shortDescription: "Welcome to the Dream Network"
 tags:
 profileImg: tree-logo.png
 coverImg: mirror-crop-3.jpg
-featured: [bcpov6gfgomw,bcpov6shpocw]
 featuredLabel: 'Recent articles'
 ---
 

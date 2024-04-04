@@ -9,6 +9,7 @@ tags:
     - hasTag: 22.2
     - inIssue: 22.2
     - featuredIn: dreamnetwork
+    - hasTopic: theme~dream-apps-and-online-dreamsharing
 type: post
 urlSlug: can-the-world-dream-peace
 ---
@@ -59,7 +60,7 @@ During the decade in which I was away from dreamwork, more dreamers had become c
 
 Possibly the single most important development of the decade was the Internet, where almost as soon as longdistance communication was possible, dreamworkers like the [Rev. Jeremy Taylor](../@jeremytaylor), [John Herbert](../@johnherbert), [Jayne Gackenbach](../@jaynegackenbach), and [Richard Wilkerson](../@richardwilkerson) were communicating globally with dreamers around the world and constructing Internet dream resources which far outshone anything available to dreamers prior to that time.
 
-When I returned to ASD in 1996, almost the first thing I did was volunteer to moderate the Online Bulletin Board at http://www.asdreams.org. I was fascinated by the potential of the Internet to link dreamers with one another and to provide instant communication. Whereas before, when the _‘Dreams to the Tenth Power’_ research was going on, weeks of sending dream accounts and responses through the mail were discouraging to dreamers. Now communication was instantaneous, free... with the click of a key.
+When I returned to ASD in 1996, almost the first thing I did was volunteer to moderate the Online Bulletin Board at [http://www.asdreams.org](https://www.asdreams.org/). I was fascinated by the potential of the Internet to link dreamers with one another and to provide instant communication. Whereas before, when the _‘Dreams to the Tenth Power’_ research was going on, weeks of sending dream accounts and responses through the mail were discouraging to dreamers. Now communication was instantaneous, free... with the click of a key.
 
 As soon as I began to moderate the Online Bulletin Board, I noticed one less-than-surprising thing: a majority of the questions—from kids writing school papers, from adults with sleep disorders, from dreamers all over the globe—focused on subjects which, heretofore, had been classified under ‘paranormal’ dreaming or ‘anomalous’ dreams. There were questions about out-of-body experiences, about dream telepathy, about mutual dreams and experiences of sleep paralysis. It seemed that this type of dreaming, far from being paranormal, was — if we were to believe the people who came to the Bulletin Board — very normal indeed.
 
@@ -85,7 +86,7 @@ In October of 2001, I sent an e-mail to approximately one hundred people: friend
 
 What struck me about the dream was that, although I was in the control tower, I was only an observer. My dream reminded me that I had the ability to respond, a response-ability to be in control, as we all do if we believe that we are dreaming the world.
 
-In the last issue of _Dream Network_, Richard Wilkerson labeled this emerging attitude as Dream Activism. In fact, there are other groups now following the model of the World Dreams Peace Bridge, and there are a growing number of dream activists. Is this a new concept? Not entirely. During the time between the emergence of ‘grass roots’ dreamwork and today, many dreamers have recognized that — from a certain position in the dream, often a lucid dream, and sometimes a group or mutual dream — it is possible to act consciously from the dream state, to communicate with others and to participate in creating the magic of reality.
+In the last issue of _Dream Network_, Richard Wilkerson labeled this emerging attitude as [Dream Activism](../bcpov6zfcybr/dreaming-online-the-global-cyberspace-dreamsharing-community). In fact, there are other groups now following the model of the World Dreams Peace Bridge, and there are a growing number of dream activists. Is this a new concept? Not entirely. During the time between the emergence of ‘grass roots’ dreamwork and today, many dreamers have recognized that — from a certain position in the dream, often a lucid dream, and sometimes a group or mutual dream — it is possible to act consciously from the dream state, to communicate with others and to participate in creating the magic of reality.
 
 The World Dreams Peace Bridge, which maintains an active membership of around fifty people, is composed of dreamers from around the world: Australia, Japan, the Netherlands, Austria, New Zealand, the U.S. and many other places. In its waking form, as a discussion group, the Peace Bridge operates as a support system for dreamers. New ideas are explored; dreams are told; because of its international membership, news is often reported from one country or another before it is picked up by the press.
 

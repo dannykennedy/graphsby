@@ -9,6 +9,7 @@ tags:
 - hasAuthor: richardwilkerson
 - hasTag: 15.1
 - inIssue: 15.1
+- hasTopic: theme~dream-apps-and-online-dreamsharing
 type: post
 urlSlug: dreaming-online-the-global-cyberspace-dreamsharing-community
 ---

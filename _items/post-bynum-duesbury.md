@@ -10,6 +10,7 @@ tags:
     - hasAuthor: evelynduesbury
     - hasTag: 23.1
     - inIssue: 23.1
+    - hasTopic: theme~dream-apps-and-online-dreamsharing
 type: post
 urlSlug: "awakening-personal-meanings-with-symbol-phrases-systems-effects-and-more"
 ---

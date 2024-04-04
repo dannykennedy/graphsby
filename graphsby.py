@@ -137,7 +137,8 @@ for pyyam in file_objects:
 		"person": personClass,
 		"page": pageClass,
 		"user": userClass,
-		"post": postClass
+		"post": postClass,
+		"theme": themeClass,
 	}
 
 	# When you find an item, store it by its ID
@@ -153,7 +154,7 @@ for pyyam in file_objects:
 		instances.append((newItem, rdfType, classMap[itemType]))
 
 	# Add handle, if type is person or page
-	if itemType == "user" or itemType == "page":
+	if itemType == "user" or itemType == "page" or itemType == "theme":
 		if "handle" in pyyam.keys():
 			instances.append((newItem, handle, Literal(pyyam['handle'], datatype=xsdString)))
 
@@ -270,8 +271,10 @@ for pyyam in file_objects:
 
 	item_string_identifier = ""
 	item_type = pyyam["type"]
-	if item_type == "user" or item_type == "page":
+	if item_type == "user" or item_type == "page" or item_type == "theme":
 		item_string_identifier = pyyam["handle"]
+		if item_type == "theme":
+			print("Theme!!!!!!!!!: " + item_string_identifier)
 	elif item_type == "post":
 		item_string_identifier = pyyam["urlSlug"]
 
@@ -348,9 +351,11 @@ for pyyam in file_objects:
 			item_to_page_relation = row[8].split("#")[1]
 			# Check if row[8] includes the string "featured"
 			# If so, add to featured items
-			# if item_to_page_relation == 'hasTopic':
-			# 	print('item_to_page_relation: ', end="")
-			# 	print(item_to_page_relation)
+			if item_to_page_relation == 'hasTopic':
+				print('item_to_page_relation: ', end="")
+				print(item_to_page_relation)
+				print('name: ', end="")
+				print(row[1])
 
 		# Now find everything that this item is tagged with
 		# This is literally Inception
@@ -625,6 +630,11 @@ for pyyam in file_objects:
 			writepaths.append(folderpath + "/index.html")
 			writepaths.append(folderpath2 + "/index.html")
 			writepaths.append(folderpath3 + "/index.html")
+		# If type is a theme, make a folder at the handle
+		elif pyyam["type"] == "theme":
+			folderpath = cwd + build_folder + "/" + pyyam["handle"]
+			writepaths.append(folderpath + "/index.html")
+		# If type is a post, make a folder at the id
 		elif pyyam["type"] == "post":
 			folderpath = cwd + build_folder + "/" + str(pyyam["itemId"])
 			writepaths.append(folderpath + "/index.html")

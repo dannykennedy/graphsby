@@ -991,6 +991,72 @@ ns1:bcpov3zdnicc a ns1:Post ;
     ns1:profileImg "post-bcpov3zdnicc-0.jpg"^^xsd:string ;
     ns1:urlSlug "i-choose-companion"^^xsd:string .
 
+ns1:bcpov3zdqode a ns1:Post ;
+    ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><em>What is dream education? Who is a 'dream educator'? How does one - or can one- educate others about dreams? Do we need 'letters'?' Certification'? Who will provide the guidelines and/or determine the curriculum? How will those gifted with the natural ability to help others understand the meaning of their dreams, fit in? Do we want to create 'hoops' that are difficult for some to leap through by virtue of geographic or economic circumstances? These are questions that have been floating around unanswered for some time.</em></p>
+
+<p><em>We see the distinctions - and proposals - made by <a href="../@jeremytaylor">Jeremy Taylor</a> in this article as being important and timely; they have never before been put forth in this country. If his proposals are accepted, if the time is right, it will require cooperation of the highest order among the various groups and publications in the "field of dreams". DNJ will invite dialogue via articles from existing dream educators and dream workers; we are committed to carrying the dialogue forward toward resolution of these questions... and to cooperation of the highest order.</em></p>
+
+<p><em>We invite <strong>your</strong> response to these ideas and proposals via letters to the editor and/or articles. Share your opinions and response! (Ed.)</em></p>
+
+<p>It appears that the progress of the dream movement has been slowed somewhat by the ambiguity inherent in the term "dream education". In the early years of the Dream Network Bulletin/journal, there was a spontaneous sub-grouping calling itself "The Dream Educator's Network". This network faltered in large measure, it seems to me, because although it was founded by classroom teachers primarily interested in sharing curriculum materials and lesson planning ideas using dreams, it attracted a preponderance of people who were mainly interested in getting "educated" (and certified) as "trained" dream workers. I believe the main reason for this failure was the inherent ambiguity of the name. Both of these seem to me to be completely legitimate but essentially separate needs and desires. I think it has been demonstrated that these diverse needs can not be adequately served by a single sub-group.</p>
+
+<p>I teach, and have taught for more than 20 years, a series of formal classes at several different accredited institutions of higher learning in the San Francisco Bay Area specifically designed to help adults learn how to do dream work. I have also consulted over the years with a number of professional educators about integrating dream work into school curricula in public, private, Sunday school, and summer camp settings. In my experience, although the ethical sensitivity and pedagogical skills required to make good use of dreams in teaching young people are fundamentally related to the theory and practice of training adults to work with their own and other people's dreams, these two activities are also different enough to warrant quite different approaches.</p>
+
+<p>I would like to propose that from here on, for the sake of clarity in our discussions about "dream education", we all make a clear distinction between the needs and desires of classroom teachers who use dreams in their teaching work with children and adolescents, and those other "dream educators" who work with adults in various settings. Working with dreams in classroom settings with children and young adults I would call "dream education", and working with adults informing them about dreams and preparing them to do dreamwork, I would like to call "dreamwork training".</p>
+
+<p>There is clearly a great and growing need for both of these activities.</p>
+
+<p>It seems to me that the <em>Dream Network Journal</em> is the most appropriate place to initiate this discussion and to begin the basic organizing necessary to meet the needs of both of these sub-groupings of specialized interest. <em>DNJ</em> is an ideal place for the networking and information sharing about what lesson plans and curriculum materials are already available for "dream education" and "dreamwork training". I believe <em>DNJ</em> is also the place to begin the discussion about what different models and programs for professional dreamwork training might look like, how the movement as a whole might best support a wide diversity of such efforts, as well as exert some sort of collective" quality control" over the various programs purporting to train people in these professional skills.</p>
+
+<p>However, it also seems to me that the organization most appropriate for formulation of any suggested guidelines and "certification" procedures for dream work training is probably the <a href="https://www.asdreams.org/">Association for the Study of Dreams</a>. When Strephon Williams, Patricia Garfield, Gayle Delaney and I originally met and founded the A.S.D., our intent was to create a democratic, face-to-face forum where precisely these kinds of issues could be discussed, and practical, concrete programs could be proposed and implemented with coherent, broad based collective input, criticism and support.</p>
+
+<p>Over the ensuing decade and more, the internal struggles within the A.S.D. between the people whose primary focus is on academic research in university and laboratory settings, and the non-academic dream workers who run small groups and engage in one-to-one consulting, have distracted many people from these original goals. However, I believe that we have reached a point where the obvious need for open and wide ranging discussion of these questions is greater than the need to continue struggling over issues of "credibility" and "prestige" that have, in my view, preoccupied the A.S.D. for the past ten years.</p>
+
+<p>To this end, let me make three concrete proposals:</p>
+
+<h3>I. INITIATING THE DISCUSSION IN PRINT</h3>
+
+<p>I would like to propose that the DNJ inaugurate two regular columns, one devoted to the sharing of information among classroom teachers about "what works" and the other devoted to the discussion of the needs and desires people have for coherent high quality training in how to work with dreams. Perhaps these regular features could begin with contributions from people already directly concerned with and active in these two important areas.</p>
+
+<h3>II. GATHER THE INFORMATION</h3>
+
+<p>I would also like to propose that a two-pronged information gathering project be initiated, hopefully in a joint cooperative effort involving the <em>DNJ</em>, the ASD, the ASD <em>Newsletter</em> and the more formal A.S.D. journal, Dreaming, designed to find out about:</p>
+
+<ol>
+<li><p><strong>Dream Educators</strong></p>
+
+<p>a. Who is currently doing any sort of formal "classroom" dream education with children and young adults?</p>
+
+<p>b. What strategies and techniques have they found to be particularly useful and effective?</p>
+
+<p>c. Who would be interested in making use of such information if it were made available?</p></li>
+<li><p><strong>Dream Work Training</strong></p>
+
+<p>a. Who currently offers any sort of formal dream work training?</p>
+
+<p>b. What curricula, text books, classroom, internship, etc., experiences do they offer and require?</p>
+
+<p>c. Who would be interested in availing themselves of such training if it were available?</p></li>
+</ol>
+
+<p>I imagine that designing and distributing a simple questionnaire through the three primary periodicals mentioned (plus asking any others who might be interested to distribute them to their readers as well) would, in less than a year's time, give us all a fairly firm basis of information from which to begin making educated inferences and concrete programmatic suggestions.</p>
+
+<h3>III. CONTINUE THE DISCUSSION WITH AN EYE TO COLLECTIVE ACTION</h3>
+
+<p>Finally, I would like to suggest that the planners of future A.S.D. international conferences be strongly encouraged to create special times in the conference schedules for people interested in these two important questions to meet face to face and discuss the issues and implication for action. This might even culminate in the creation of standing subcommittees focused on these two important issues that could formulate action proposals for the A.S.D. as a whole.</p>
+
+<p>I believe the <a href="../bcpov6kbcoup/the-soviet-coup-dream-myth-and-reality">recent trip to the Soviet Union</a> focused on dream related sharing marks a tremendously important step in the development of the dream work movement as an authentic global, international phenomenon. The newly reorganized nations of Eastern Europe and the former Soviet Union are increasingly looking to the West for ideas and techniques for non-violent social, economic, cultural, psychological and, ultimately, spiritual transformation. The dream work movement has an extremely significant contribution to make in precisely these areas; developing coherent institutional and organizational structures to address and disseminate information and training - particularly in the areas of dream education in the classroom and training in the basic issues and techniques of dream work among "consenting adults"- could be of genuinely historic importance as we enter the 21st century.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbpumr2x,
+        ns1:bcphbqawtay ;
+    ns1:inIssue ns1:bcphbpumr2x ;
+    ns1:itemId "bcpov3zdqode"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Nagging Question of \"Dream Education\""^^xsd:string ;
+    ns1:urlSlug "the-nagging-question-of-dream-education"^^xsd:string .
+
 ns1:bcpov3zdtlli a ns1:Post ;
     ns1:dateCreated "1988-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov3zdtlli-0.jpg" alt="Jeremy Taylor"/></p>
@@ -21827,20 +21893,6 @@ ns1:bcphbpqyqpo a ns1:Post ;
     ns1:profileImg "11.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "11.1"^^xsd:string .
 
-ns1:bcphbpumr2x a ns1:Post ;
-    ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf" download="">Download issue 11.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoash2jt ;
-    ns1:itemId "bcphbpumr2x"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 11, issue 2: Men's Dreams"^^xsd:string ;
-    ns1:profileImg "11.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "11.2"^^xsd:string .
-
 ns1:bcphbq3dues a ns1:User ;
     ns1:description """<p>Websites: <a href="http://www.yourguidingdreams.com/">yourguidingdreams.com</a>, <a href="https://www.livingdreams.life/">livingdreams.life</a></p>
 
@@ -22340,6 +22392,20 @@ ns1:bcphbnodjs2 a ns1:Post ;
     ns1:name "Volume 7, issue 3"^^xsd:string ;
     ns1:profileImg "7.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.3"^^xsd:string .
+
+ns1:bcphbpumr2x a ns1:Post ;
+    ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1992-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf" download="">Download issue 11.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_11/11.2-Dream-Network-Vol-11-No-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoash2jt ;
+    ns1:itemId "bcphbpumr2x"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 11, issue 2: Men's Dreams"^^xsd:string ;
+    ns1:profileImg "11.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "11.2"^^xsd:string .
 
 ns1:bcphbq3gott a ns1:User ;
     ns1:coverImg "cover-img-dale-gottlieb.png"^^xsd:string ;
@@ -23026,22 +23092,6 @@ ns1:bcphbqvcors a ns1:User ;
 
 ns1:Item a owl:Class .
 
-ns1:bcphbqawtay a ns1:User ;
-    ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
-
-<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President from 1994-1995. </p>
-
-<p>He is the author of <a href="https://www.amazon.com/Wisdom-Your-Dreams-Unconscious-Transform/dp/1585427543">The Wisdom of Your Dreams: Using Dreams to Tap Into Your Unconscious and Transform Your Life</a> (Penguin/Tarcher, 2009); <a href="https://www.amazon.com/gp/product/B005GJ7XGY">Living Labyrinth: Universal Themes in Myths, Dreams and Waking Life</a> (Paulist Press, Mahwah, NJ, 1998); <a href="https://www.amazon.com/gp/product/0446394629">Where People Fly and Water Runs Uphill: Using Dreams to Tap the Wisdom of the Unconscious</a> (Warner Books, New York, 1992); and <a href="https://www.amazon.com/gp/product/0809125250">DreamWork: Techniques for Discovering the Creative Power in Dreams</a> (Paulist Press, Mahwah NJ, 1983). He taught at schools of the Graduate Theological Union (Berkeley, CA) for over thirty years, and led workshops all over the US and Canada, as well as in Mexico, Peru, Greece, England, South Korea and China.</p>
-
-<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>. </p>
-"""^^xsd:string ;
-    ns1:handle "jeremytaylor"^^xsd:string ;
-    ns1:itemId "bcphbqawtay"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jeremy Taylor"^^xsd:string ;
-    ns1:profileImg "author-jeremy-taylor.jpg"^^xsd:string .
-
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
 
@@ -23090,6 +23140,22 @@ ns1:bcphbqvruss a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Russell Lockhart"^^xsd:string ;
     ns1:profileImg "author-ral.jpg"^^xsd:string .
+
+ns1:bcphbqawtay a ns1:User ;
+    ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
+
+<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President from 1994-1995. </p>
+
+<p>He is the author of <a href="https://www.amazon.com/Wisdom-Your-Dreams-Unconscious-Transform/dp/1585427543">The Wisdom of Your Dreams: Using Dreams to Tap Into Your Unconscious and Transform Your Life</a> (Penguin/Tarcher, 2009); <a href="https://www.amazon.com/gp/product/B005GJ7XGY">Living Labyrinth: Universal Themes in Myths, Dreams and Waking Life</a> (Paulist Press, Mahwah, NJ, 1998); <a href="https://www.amazon.com/gp/product/0446394629">Where People Fly and Water Runs Uphill: Using Dreams to Tap the Wisdom of the Unconscious</a> (Warner Books, New York, 1992); and <a href="https://www.amazon.com/gp/product/0809125250">DreamWork: Techniques for Discovering the Creative Power in Dreams</a> (Paulist Press, Mahwah NJ, 1983). He taught at schools of the Graduate Theological Union (Berkeley, CA) for over thirty years, and led workshops all over the US and Canada, as well as in Mexico, Peru, Greece, England, South Korea and China.</p>
+
+<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>. </p>
+"""^^xsd:string ;
+    ns1:handle "jeremytaylor"^^xsd:string ;
+    ns1:itemId "bcphbqawtay"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jeremy Taylor"^^xsd:string ;
+    ns1:profileImg "author-jeremy-taylor.jpg"^^xsd:string .
 
 ns1:bcphb2kq341 a ns1:Post ;
     ns1:coverImg "image-bcpov6gid34p-1.jpg"^^xsd:string ;

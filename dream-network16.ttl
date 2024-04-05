@@ -320,20 +320,6 @@ ns1:bcphboajs77 a ns1:Post ;
     ns1:profileImg "8.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.3"^^xsd:string .
 
-ns1:bcphbope3kf a ns1:Post ;
-    ns1:coverImg "9.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1990-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.3-Dream-Network-Journal_Volume-9_No-3.pdf" download="">Download issue 9.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.3-Dream-Network-Journal_Volume-9_No-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoanijcm ;
-    ns1:itemId "bcphbope3kf"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 9, issue 3: The Variety of Dreams & Dream Guidance"^^xsd:string ;
-    ns1:profileImg "9.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "9.3"^^xsd:string .
-
 ns1:bcphbp7rfno a ns1:Post ;
     ns1:coverImg "11.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1992-10-01T11:32:52"^^xsd:dateTime ;
@@ -974,6 +960,36 @@ ns1:bcpov3zdngdt a ns1:Post ;
     ns1:name "The \"Garbage Disposal\" Theory of Dreams: An Aside"^^xsd:string ;
     ns1:profileImg "post-bcpov3zdngdt-0.jpg"^^xsd:string ;
     ns1:urlSlug "the-garbage-disposal-theory-of-dreams-an-aside"^^xsd:string .
+
+ns1:bcpov3zdnicc a ns1:Post ;
+    ns1:dateCreated "1990-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov3zdnicc-0.jpg" alt="Man processing grapes" width="350" height="auto"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i>Focus question for issue 9.3, in issue 9.2</i></div><!--/nopreview--></p>
+
+<p>I would rather not answer the Question posed for the upcoming issue focusing on a Dream Guide. To me, the word "guide" is biased toward authoritarian/hierarchical assumptions. It is the same argument I have with the technical term "spiritual direction". From my point of view, "Companion" is a much preferable term in both instances. And the criteria people develop for their chosen life's companions must of necessity personal, and idiosyncratic. It is both a spiritual and political question.</p>
+
+<p>The best answer I can give is the TOOL KIT from my booklet <em>Basic Hints for Dream Work</em>:</p>
+
+<ol>
+<li><p>All dreams speak a universal language and come in the service of health and wholeness. There is no such thing as a "bad dream" - only dreams that sometimes take a dramatically negative form in order to grab our attention.</p></li>
+<li><p>Only the dreamer can say with any certainty what meanings his or her dream may have. This certainty usually comes in the form of a wordless "aha!" of recognition. This "aha" is a function of memory, and is the only reliable touchstone of dream work.</p></li>
+<li><p>There is no such thing as a dream with only one meaning. All dreams and dream images are "overdetermined" and have multiple meanings and layers of significance.</p></li>
+<li><p>Whenever you are going to say something to someone else about the meanings you seem his/her dreams, it is both wise and polite to preface your remarks with words to the effect of "Well, if it were my dream...", and to keep this commentary in the first person as much as possible. This means that even relatively challenging and confrontive comments can be made in such a way that the dreamer may actually be able to hear and internalize them. It also can become a profound psychospiritual discipline: "walking a mile in your neighbor's moccasins".</p></li>
+<li><p>All dream group participants should agree at the outset to maintain anonymity in all discussions of dream work outside the group, and to respect any and all requests for confidentiality when they arise. From my point of view, the selection of a "guide" depends on whether or not one views these assertions as accurate. If one does, then any chosen guide should be a person who subscribes to these principles... the rest has to do with "personal chemistry".</p></li>
+</ol>
+
+<p><em>~Jeremy Taylor, San Rafael, CA</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbope3kf,
+        ns1:bcphbqawtay ;
+    ns1:inIssue ns1:bcphbope3kf ;
+    ns1:itemId "bcpov3zdnicc"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "I Choose \"Companion\" (Letter to the Editor)"^^xsd:string ;
+    ns1:profileImg "post-bcpov3zdnicc-0.jpg"^^xsd:string ;
+    ns1:urlSlug "i-choose-companion"^^xsd:string .
 
 ns1:bcpov4kchstm a ns1:Post ;
     ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
@@ -19778,6 +19794,20 @@ ns1:bcphbnxwzvo a ns1:Post ;
     ns1:profileImg "7.6-rect.jpg"^^xsd:string ;
     ns1:urlSlug "7.6"^^xsd:string .
 
+ns1:bcphbope3kf a ns1:Post ;
+    ns1:coverImg "9.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1990-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.3-Dream-Network-Journal_Volume-9_No-3.pdf" download="">Download issue 9.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.3-Dream-Network-Journal_Volume-9_No-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoanijcm ;
+    ns1:itemId "bcphbope3kf"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 9, issue 3: The Variety of Dreams & Dream Guidance"^^xsd:string ;
+    ns1:profileImg "9.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "9.3"^^xsd:string .
+
 ns1:bcphbq3acox a ns1:User ;
     ns1:description """<p>Anna Cox, ACSW,  was a psychotherapist in Arkansas for over 50 years. She is a Buddhist practitioner and began a healing program for those in prisons in 1994, <a href="https://www.alignable.com/little-rock-ar/compassion-works-for-all">Compassion Works for All</a>, which is on-going throughout Arkansas and in many states' prisons. </p>
 """^^xsd:string ;
@@ -22851,22 +22881,6 @@ ns1:bcphbq3rpac a ns1:User ;
     ns1:name "Paco Mitchell"^^xsd:string ;
     ns1:profileImg "author-paco.jpg"^^xsd:string .
 
-ns1:bcphbqawtay a ns1:User ;
-    ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
-
-<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President from 1994-1995. </p>
-
-<p>He is the author of <a href="https://www.amazon.com/Wisdom-Your-Dreams-Unconscious-Transform/dp/1585427543">The Wisdom of Your Dreams: Using Dreams to Tap Into Your Unconscious and Transform Your Life</a> (Penguin/Tarcher, 2009); <a href="https://www.amazon.com/gp/product/B005GJ7XGY">Living Labyrinth: Universal Themes in Myths, Dreams and Waking Life</a> (Paulist Press, Mahwah, NJ, 1998); <a href="https://www.amazon.com/gp/product/0446394629">Where People Fly and Water Runs Uphill: Using Dreams to Tap the Wisdom of the Unconscious</a> (Warner Books, New York, 1992); and <a href="https://www.amazon.com/gp/product/0809125250">DreamWork: Techniques for Discovering the Creative Power in Dreams</a> (Paulist Press, Mahwah NJ, 1983). He taught at schools of the Graduate Theological Union (Berkeley, CA) for over thirty years, and led workshops all over the US and Canada, as well as in Mexico, Peru, Greece, England, South Korea and China.</p>
-
-<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>. </p>
-"""^^xsd:string ;
-    ns1:handle "jeremytaylor"^^xsd:string ;
-    ns1:itemId "bcphbqawtay"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jeremy Taylor"^^xsd:string ;
-    ns1:profileImg "author-jeremy-taylor.jpg"^^xsd:string .
-
 ns1:bcphbqvcors a ns1:User ;
     ns1:coverImg "cover-author-bambi-corso.jpg"^^xsd:string ;
     ns1:description """<p>Author, DreamTracker, Law of Attraction Certified Coach</p>
@@ -22894,6 +22908,22 @@ ns1:bcphbqvcors a ns1:User ;
     ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
 
 ns1:Item a owl:Class .
+
+ns1:bcphbqawtay a ns1:User ;
+    ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
+
+<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President from 1994-1995. </p>
+
+<p>He is the author of <a href="https://www.amazon.com/Wisdom-Your-Dreams-Unconscious-Transform/dp/1585427543">The Wisdom of Your Dreams: Using Dreams to Tap Into Your Unconscious and Transform Your Life</a> (Penguin/Tarcher, 2009); <a href="https://www.amazon.com/gp/product/B005GJ7XGY">Living Labyrinth: Universal Themes in Myths, Dreams and Waking Life</a> (Paulist Press, Mahwah, NJ, 1998); <a href="https://www.amazon.com/gp/product/0446394629">Where People Fly and Water Runs Uphill: Using Dreams to Tap the Wisdom of the Unconscious</a> (Warner Books, New York, 1992); and <a href="https://www.amazon.com/gp/product/0809125250">DreamWork: Techniques for Discovering the Creative Power in Dreams</a> (Paulist Press, Mahwah NJ, 1983). He taught at schools of the Graduate Theological Union (Berkeley, CA) for over thirty years, and led workshops all over the US and Canada, as well as in Mexico, Peru, Greece, England, South Korea and China.</p>
+
+<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>. </p>
+"""^^xsd:string ;
+    ns1:handle "jeremytaylor"^^xsd:string ;
+    ns1:itemId "bcphbqawtay"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jeremy Taylor"^^xsd:string ;
+    ns1:profileImg "author-jeremy-taylor.jpg"^^xsd:string .
 
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>

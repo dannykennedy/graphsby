@@ -1019,6 +1019,33 @@ ns1:bcpov4kchstm a ns1:Post ;
     ns1:name "Honouring Stan the Man"^^xsd:string ;
     ns1:urlSlug "honouring-stan-the-man"^^xsd:string .
 
+ns1:bcpov5rcotll a ns1:Post ;
+    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov5rcotll-0.jpeg" alt="The Living Labyrinth book cover" width="250" height="auto"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i>The Living Labyrinth: Exploring Universal Themes in Myths, Dreams, and the Symbolism of Waking Life: Exploring Universal Themes and Dreams by Jeremy Taylor, Paulist Press, 1998, 336 pp.</i></div><!--/nopreview--></p>
+
+<p>All humans tend to live by some sort of story, even when we are not aware of it. Many of us who pick up this journal have learned to see our own story reflected in our nightly dreams. We may even be aware of some general connection between those personal dreams and myths from around the world. In this book, Jeremy dives right into the common ground between dreams and myths, by examining the archetypal stories, symbols and energies they share. During the journey, we see precisely how these energies are present right now, in our inner worlds, our lives and the world around us. This is no abstract discussion, this stuff is alive and surprisingly present!</p>
+
+<p>The author is a warm and engaging storyteller, writing with a strong personal voice. Many readers will not even notice that this is an ambitious and challenging work. Ranging from the collective repression of the Great Mother to the deeper significance of vampires and UFOs, this journey covers a lot of territory. Yet by showing how stories revealed in myth and dreams continue to shape our daily lives, it all holds together very well.</p>
+
+<p>There is no fear of controversy here. The introduction launches into the dream research of Crick and Mitchison which suggested that dreams were essentially meaningless "downloading the junk from our computers". The biting criticism reveals both the fighting spirit with which we can approach the subject, as well as the urgent need to combat the ongoing efforts to dismiss dreams and myth which regularly assert themselves in our modern world.</p>
+
+<p>He also boldly challenges Jung's view of the Trickster archetype as "archaic", with a diminishing relevance to our contemporary world. "All the archetypes are "archaic", "timeless", and regularly "take shape and assert themselves" as repeating patterns in our contemporary lives and circumstances. The Trickster in particular, far from being a "vanishing" archetypal energy, dominates the course of contemporary life." Further, the point that such an academic approach to an important archetype amounts to a kind of unconscious repression, which results in the energy reappearing in new and darker forms... could explain a lot in our current situation. Certainly this is a useful perspective to keep in mind when we watch the daily news.</p>
+
+<p>This book explores rich new territory, and should leave most readers with a fresh perspective on their lives, and the stories that move just below the surface. The stories continue... and the conversation has just begun.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3mcle ;
+    ns1:hasTag ns1:bcphbq3mcle,
+        ns1:bcphbtj7a2e ;
+    ns1:hasTopic ns1:bcphbqawtay ;
+    ns1:inIssue ns1:bcphbtj7a2e ;
+    ns1:itemId "bcpov5rcotll"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: The Living Labyrinth by Jeremy Taylor"^^xsd:string ;
+    ns1:profileImg "post-bcpov5rcotll-0.jpeg"^^xsd:string ;
+    ns1:urlSlug "the-living-labyrinth-book-review"^^xsd:string .
+
 ns1:bcpov6christ a ns1:Post ;
     ns1:dateCreated "2001-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6christ-0.jpg" alt="Face of Jesus" width="350" height="auto"/></p>
@@ -21077,20 +21104,6 @@ ns1:bcphbte5ugv a ns1:Post ;
     ns1:profileImg "17.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.3"^^xsd:string .
 
-ns1:bcphbtj7a2e a ns1:Post ;
-    ns1:coverImg "17.4-18.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&-18-No-1.pdf" download="">Download issue 17.4-18.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&-18-No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobdubou ;
-    ns1:itemId "bcphbtj7a2e"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 17, issue 4: Creative Dreamwork in the Central Corridor"^^xsd:string ;
-    ns1:profileImg "17.4-18.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "17.4-18.1"^^xsd:string .
-
 ns1:bcphbugth7l a ns1:Post ;
     ns1:coverImg "19.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
@@ -21969,6 +21982,20 @@ ns1:bcphbt7x4uv a ns1:Post ;
     ns1:profileImg "19.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "19.1"^^xsd:string .
 
+ns1:bcphbtj7a2e a ns1:Post ;
+    ns1:coverImg "17.4-18.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&-18-No-1.pdf" download="">Download issue 17.4-18.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&-18-No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobdubou ;
+    ns1:itemId "bcphbtj7a2e"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 17, issue 4: Creative Dreamwork in the Central Corridor"^^xsd:string ;
+    ns1:profileImg "17.4-18.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "17.4-18.1"^^xsd:string .
+
 ns1:bcphbuzcgu3 a ns1:Post ;
     ns1:coverImg "20.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
@@ -22250,20 +22277,6 @@ ns1:bcphbq3mart a ns1:User ;
     ns1:name "Dr. Kathy Martone"^^xsd:string ;
     ns1:profileImg "author-kathy-martone.jpg"^^xsd:string .
 
-ns1:bcphbq3mcle a ns1:User ;
-    ns1:coverImg "cover-author-dickmcleester.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://changingworld.com">changingworld.com</a></p>
-
-<p>Once upon a time, there were no humans on the planet. You may be too young to remember, but it seems the earth did just fine in those days. The earth gave birth to an incredible, rich diversity of life, and yet maintained a delicate, sustainable balance between it all. Even in the early days of human life, it seemed that we could be part of this magical balance as we found our niche and explored our possibilities. Sure, we made mistakes in those days, but we could usually learn from those mistakes and try to do better in the next generation.</p>
-
-<p>But recently the humans seem to be acting like the worst kind of invasive species, spreading all over the planet, dominating, killing and destroying everything in sight. The delicate balance of life has been seriously disrupted by humans. What is happening here? Will the humans finally win their war against nature and thus destroy all chance for balance to be restored? What will it take for humans to change our ways, to strive again for some kind of balance?</p>
-"""^^xsd:string ;
-    ns1:handle "dickmcleester"^^xsd:string ;
-    ns1:itemId "bcphbq3mcle"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dick McLeester"^^xsd:string ;
-    ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
-
 ns1:bcphbq3plvy a ns1:User ;
     ns1:coverImg "cover-author-paullevy.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.awakeninthedream.com">awakeninthedream.com</a></p>
@@ -22506,6 +22519,20 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:name "Volume 8, issue 4"^^xsd:string ;
     ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "8.4"^^xsd:string .
+
+ns1:bcphbq3mcle a ns1:User ;
+    ns1:coverImg "cover-author-dickmcleester.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://changingworld.com">changingworld.com</a></p>
+
+<p>Once upon a time, there were no humans on the planet. You may be too young to remember, but it seems the earth did just fine in those days. The earth gave birth to an incredible, rich diversity of life, and yet maintained a delicate, sustainable balance between it all. Even in the early days of human life, it seemed that we could be part of this magical balance as we found our niche and explored our possibilities. Sure, we made mistakes in those days, but we could usually learn from those mistakes and try to do better in the next generation.</p>
+
+<p>But recently the humans seem to be acting like the worst kind of invasive species, spreading all over the planet, dominating, killing and destroying everything in sight. The delicate balance of life has been seriously disrupted by humans. What is happening here? Will the humans finally win their war against nature and thus destroy all chance for balance to be restored? What will it take for humans to change our ways, to strive again for some kind of balance?</p>
+"""^^xsd:string ;
+    ns1:handle "dickmcleester"^^xsd:string ;
+    ns1:itemId "bcphbq3mcle"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dick McLeester"^^xsd:string ;
+    ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
 
 ns1:bcphbvjopd2 a ns1:Post ;
     ns1:coverImg "22.2-cover.jpg"^^xsd:string ;

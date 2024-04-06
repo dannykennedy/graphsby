@@ -17453,6 +17453,52 @@ ns1:bcpovdreamg a ns1:Post ;
     ns1:name "Dreamsharing groups"^^xsd:string ;
     ns1:urlSlug "dream-groups"^^xsd:string .
 
+ns1:bcpox5dsrtdt a ns1:Post ;
+    ns1:dateCreated "2001-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpox5dsrtdt-0.jpeg" width="200" height="auto" alt="Dream Toolbox screen"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align:center"><i>The Dream ToolBox, by Jason S. Zack, Ph.D. and Clara E. Hill, Ph.D. The Ampersand Group, LLC, Coconut Grove, FL 33233</i></div><!--/nopreview--></p>
+
+<p>Few of us can share every dream with a friend, in our dream group or with a therapist. And often, important dreams are gifted when none of these resources are readily available. We can tell, from the residual <em>feelings</em>, that the sooner we gain insight and take action, the better.</p>
+
+<p>For those of you with computers, the <strong>Dream Toolbox (DTB)</strong> is available to help with the click of a mouse. It’s the next best thing to having a good friend, group or therapist.</p>
+
+<p>The DTB is an interactive system designed to help you explore your dreams, determine what they mean to you, and to use what you’ve discovered to make positive changes in your life. It is a system that blends many of the major theories of dream work (e.g., <a href="../bcpov6rssull/the-ullman-method-of-dream-analysis">Ullman</a>, <a href="../bcpov6twhint/twenty-basic-hints-for-dreamwork">Taylor</a>, Delaney) and is developed based on empirical research. The model is fully elaborated in <a href="https://en.wikipedia.org/wiki/Clara_E._Hill">Clara E. Hill’s</a> book <em>Working with Dreams in Psychotherapy</em>, Guilford Press: 1996. The software walks one through a dreamsharing process that’s as user friendly as 1, 2, 3:</p>
+
+<ol>
+<li><p>Exploring the significant images/symbols and making associations to each,</p></li>
+<li><p>Dialoguing re: insight received from step one on two levels, the literal and symbolic and</p></li>
+<li><p>Clarifying with yourself how to manifest the dream’s wisdom in waking reality.</p></li>
+</ol>
+
+<p>In the Exploration/Association phase, you are guided through a process that helps you identify each of the significant symbols, objects, persons and images in your dream. Then you are asked to rate the dream on an emotional response level. Now, with each image, you ‘DRAW’: Describe, Reenter, Associate, and identify Waking life events that may have triggered the dream. Finally, you are asked to write a narrative, given insight gained, as to what the dream means to you now.</p>
+
+<p>Taking it to step two, the LightBulb/Insight stage, you are asked to consider your dream on two levels: How the dream relates to your waking life and how each image or the overall dream might be projections of parts of yourself. Throughout this exercise, most of the right questions are asked re: present day challenges, how past events have created them, what this might be saying or mean in the future, how the dream relates to family, friends, job, physical health, spirituality, or financial affairs in your life.</p>
+
+<p>Finally, you are asked to determine what Action the dream is asking of you... you are asked to identify some way in which to honor the dream by bringing into manifestation in a constructive, positive and/or creative way. Never is there an attempt to tell you what your dream means. Nor is there integrated a ‘symbol dictionary’. This would be difficult if not impossible for any software program to do, needless to say... but I mention this because this is the essence of Dream Network’s Statement of Purpose: ‘It is our birthright to learn to understand the meaning of our dreams.’ The Dream Tool Box is a valuable tool, indeed, in achieving this highly desirable goal.</p>
+
+<p>A free demo version, available for both MacOS and Windows platforms, can be downloaded at <a href="https://web.archive.org/web/20020202191745/http://www.jasonzack.com/DreamToolbox/">www.theampersandgroup.com/DreamToolbox</a>. Registered users will be able to:</p>
+
+<ul>
+<li><p>Save dreams</p></li>
+<li><p>Edit dreams</p></li>
+<li><p>Print a summary report from each dream interpretation session</p></li>
+<li><p>Access informative statistics about all of your dreams.</p></li>
+</ul>
+
+<p><img src="../images/post-bcpox5dsrtdt-1.jpeg" width="200" height="auto" alt="Dream Toolbox screen"/></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3ossa ;
+    ns1:hasTag ns1:bcphbq3ossa,
+        ns1:bcphbusgyjg ;
+    ns1:hasTopic ns1:bcpovcredja ;
+    ns1:inIssue ns1:bcphbusgyjg ;
+    ns1:itemId "bcpox5dsrtdt"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreamwork Software Review: The Dream Toolbox"^^xsd:string ;
+    ns1:profileImg "post-bcpox5dsrtdt-0.jpeg"^^xsd:string ;
+    ns1:urlSlug "dreamwork-software-review-the-dream-toolbox"^^xsd:string .
+
 ns1:bcpoy8rshrdj a ns1:Post ;
     ns1:dateCreated "1984-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/hr-dj.jpg" width="500" height="auto" alt="heading"/></p>
@@ -20627,20 +20673,6 @@ ns1:bcphbu3wddv a ns1:Post ;
     ns1:profileImg "21.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "21.1"^^xsd:string .
 
-ns1:bcphbusgyjg a ns1:Post ;
-    ns1:coverImg "20.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2001-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.3_poetry.pdf" download="">Download issue 20.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.3_poetry.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobpf6pi ;
-    ns1:itemId "bcphbusgyjg"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 20, issue 3: Dream Inspired Poetry"^^xsd:string ;
-    ns1:profileImg "20.3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "20.3"^^xsd:string .
-
 ns1:bcphbvbqspq a ns1:Post ;
     ns1:coverImg "21.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2002-07-01T11:32:52"^^xsd:dateTime ;
@@ -21358,6 +21390,20 @@ ns1:bcphbuj7fdh a ns1:Post ;
     ns1:profileImg "19.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "19.3"^^xsd:string .
 
+ns1:bcphbusgyjg a ns1:Post ;
+    ns1:coverImg "20.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2001-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.3_poetry.pdf" download="">Download issue 20.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.3_poetry.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobpf6pi ;
+    ns1:itemId "bcphbusgyjg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 20, issue 3: Dream Inspired Poetry"^^xsd:string ;
+    ns1:profileImg "20.3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "20.3"^^xsd:string .
+
 ns1:bcphbv3fbuv a ns1:Post ;
     ns1:coverImg "23.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2004-01-01T11:32:52"^^xsd:dateTime ;
@@ -21530,10 +21576,10 @@ ns1:bcpovcsetdg a ns1:Theme ;
 <ol>
 <li><p><strong>Encourages</strong> those who have not yet discovered, or who are yet only beginning to discover, the magic, revelation and enrichment which comes from valuing their dreams. Not that they may know our dreams, but that they may know their own. <em>John Ashbaugh</em></p></li>
 <li><p><strong>Honors</strong> the dream, the dreamer and the dreamsharing process. <em>Ingrid M. Luke</em></p></li>
-<li><p>Encourages any dreamer's personal connection to, relationship with and understanding of dreams and the mystery from which dreams emerge. <em>Catherine Knapp</em></p></li>
+<li><p><strong>Encourages</strong> any dreamer's personal connection to, relationship with and understanding of dreams and the mystery from which dreams emerge. <em>Catherine Knapp</em></p></li>
 <li><p><strong>Offers</strong> encouragement to the dreamer for their efforts, knowing that any effort will bear fruit. Regards all dreams and dreamers as sacred and as such, treats them with respect, joy and humility. <em>Jan Janzen</em></p></li>
 <li><p><strong>Engages</strong> in the Art of Listening. This involves listening to all that a dreamer says and above all, listening while keeping one's own ideas about the dream on hold. <a href="../@montagueullman"><em>Montague Ullman</em></a></p></li>
-<li><p>Respects the integrity of dreamers; their vulnerability, weaknesses and sexuality are to be honored, never exploited. It is often useful to preface any remark with the idea: "if it were my dream ... " <a href="../@jeremytaylor"><em>Jeremy Taylor</em></a></p></li>
+<li><p><strong>Respects</strong> the integrity of dreamers; their vulnerability, weaknesses and sexuality are to be honored, never exploited. It is often useful to preface any remark with the idea: "if it were my dream... " <a href="../@jeremytaylor"><em>Jeremy Taylor</em></a></p></li>
 <li><p><strong>Honors and respects</strong> the dreamer's anonymity and confidentiality. <em>Will Phillips</em></p></li>
 <li><p><strong>Intuits</strong> the dreamer's boundaries and does not push the dreamer to go beyond what feels safe. <em>Deborah Jay Hillman</em></p></li>
 <li><p><strong>Keeps in mind</strong> that dreams are more a mystery to behold than a puzzle to solve. Dreams are about wonder, awe and imagination, in lieu of logic and literal thinking. <em>Chuck Freeman</em></p></li>
@@ -22866,8 +22912,7 @@ ns1:bcpovcredja a ns1:Theme ;
     ns1:handle "theme~dream-apps-and-online-dreamsharing"^^xsd:string ;
     ns1:itemId "bcpovcredja"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string ;
-    ns1:profileImg "theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string .
+    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string .
 
 ns1:bcpqn7zvpei a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
@@ -23214,6 +23259,20 @@ ns1:bcphbqvcors a ns1:User ;
 
 ns1:Item a owl:Class .
 
+ns1:bcphbqvruss a ns1:User ;
+    ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://ralockhart.com/">ralockhart.com</a></p>
+
+<p>Los Angeles-born Russell Lockhart has a doctoral degree (human psychophysiology) from the University of Southern California. In 1974 he graduated from the C.G. Jung Institute of Los Angeles, where he served as Director of Analyst Training from 1979 to 1982. Since 1974 he has been in private practice. He has served on the faculties at the University of California, Santa Barbara, and University of California, Berkeley. He was a research psychologist at the University of California, Los Angeles, and Director of the Psychophysiological Research Laboratory at Camarillo State Hospital. </p>
+
+<p>Dr. Lockhart is the author of <a href="https://www.amazon.com/Words-As-Eggs-Russell-Lockhart/dp/0911783008">Words as Eggs: Psyche in Language and Clinic</a>; <a href="https://www.amazon.com/Psyche-Speaks-Jungian-Approach-Paperback/dp/1630512699">Psyche Speaks: A Jungian Approach to Self and World</a>; <a href="https://www.amazon.com/Secrets-Undergroundtrader-Jea-Yu/dp/0071417370">Secrets of the Undergroundtrader</a> (with Jea Yu), and two books in progress: Gleanings from the Dreamfield and <a href="http://ralockhart.com/orderinfo.htm">Hints and Helps for Daytraders</a>. He and his wife Frankie have four children.</p>
+"""^^xsd:string ;
+    ns1:handle "ral"^^xsd:string ;
+    ns1:itemId "bcphbqvruss"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Russell Lockhart"^^xsd:string ;
+    ns1:profileImg "author-ral.jpg"^^xsd:string .
+
 ns1:bcphbq3ossa a ns1:User ;
     ns1:description """<p>By way of introduction, may I share two of the dreams/experiences that compelled me onto this path, an abbreviated dream autobiography. It is, of course, an ongoing adventure.</p>
 
@@ -23248,20 +23307,6 @@ ns1:bcphbq3ossa a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Roberta Ossana"^^xsd:string ;
     ns1:profileImg "roberta_ossana.png"^^xsd:string .
-
-ns1:bcphbqvruss a ns1:User ;
-    ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://ralockhart.com/">ralockhart.com</a></p>
-
-<p>Los Angeles-born Russell Lockhart has a doctoral degree (human psychophysiology) from the University of Southern California. In 1974 he graduated from the C.G. Jung Institute of Los Angeles, where he served as Director of Analyst Training from 1979 to 1982. Since 1974 he has been in private practice. He has served on the faculties at the University of California, Santa Barbara, and University of California, Berkeley. He was a research psychologist at the University of California, Los Angeles, and Director of the Psychophysiological Research Laboratory at Camarillo State Hospital. </p>
-
-<p>Dr. Lockhart is the author of <a href="https://www.amazon.com/Words-As-Eggs-Russell-Lockhart/dp/0911783008">Words as Eggs: Psyche in Language and Clinic</a>; <a href="https://www.amazon.com/Psyche-Speaks-Jungian-Approach-Paperback/dp/1630512699">Psyche Speaks: A Jungian Approach to Self and World</a>; <a href="https://www.amazon.com/Secrets-Undergroundtrader-Jea-Yu/dp/0071417370">Secrets of the Undergroundtrader</a> (with Jea Yu), and two books in progress: Gleanings from the Dreamfield and <a href="http://ralockhart.com/orderinfo.htm">Hints and Helps for Daytraders</a>. He and his wife Frankie have four children.</p>
-"""^^xsd:string ;
-    ns1:handle "ral"^^xsd:string ;
-    ns1:itemId "bcphbqvruss"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Russell Lockhart"^^xsd:string ;
-    ns1:profileImg "author-ral.jpg"^^xsd:string .
 
 ns1:bcphbqawtay a ns1:User ;
     ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;

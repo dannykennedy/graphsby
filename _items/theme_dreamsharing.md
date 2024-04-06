@@ -16,10 +16,10 @@ The Dream Network Journal published the following _ethical guidelines for dreamw
 
 1. **Encourages** those who have not yet discovered, or who are yet only beginning to discover, the magic, revelation and enrichment which comes from valuing their dreams. Not that they may know our dreams, but that they may know their own. _John Ashbaugh_
 2. **Honors** the dream, the dreamer and the dreamsharing process. _Ingrid M. Luke_
-3. Encourages any dreamer's personal connection to, relationship with and understanding of dreams and the mystery from which dreams emerge. _Catherine Knapp_
+3. **Encourages** any dreamer's personal connection to, relationship with and understanding of dreams and the mystery from which dreams emerge. _Catherine Knapp_
 4. **Offers** encouragement to the dreamer for their efforts, knowing that any effort will bear fruit. Regards all dreams and dreamers as sacred and as such, treats them with respect, joy and humility. _Jan Janzen_
 5. **Engages** in the Art of Listening. This involves listening to all that a dreamer says and above all, listening while keeping one's own ideas about the dream on hold. [_Montague Ullman_](../@montagueullman)
-6. Respects the integrity of dreamers; their vulnerability, weaknesses and sexuality are to be honored, never exploited. It is often useful to preface any remark with the idea: "if it were my dream ... " [_Jeremy Taylor_](../@jeremytaylor)
+6. **Respects** the integrity of dreamers; their vulnerability, weaknesses and sexuality are to be honored, never exploited. It is often useful to preface any remark with the idea: "if it were my dream... " [_Jeremy Taylor_](../@jeremytaylor)
 7. **Honors and respects** the dreamer's anonymity and confidentiality. _Will Phillips_
 8. **Intuits** the dreamer's boundaries and does not push the dreamer to go beyond what feels safe. _Deborah Jay Hillman_
 9. **Keeps in mind** that dreams are more a mystery to behold than a puzzle to solve. Dreams are about wonder, awe and imagination, in lieu of logic and literal thinking. _Chuck Freeman_

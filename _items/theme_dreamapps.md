@@ -7,7 +7,6 @@ name: "Dream Journal Apps & Online Dreamsharing"
 tags:
 type: theme
 urlSlug: theme~dream-apps-and-online-dreamsharing
-profileImg: theme-dream-apps-and-online-dreamsharing.jpg
 coverImg: cover-theme-dream-apps-and-online-dreamsharing.jpg
 ---
 

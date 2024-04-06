@@ -8,7 +8,7 @@ tags:
     - hasAuthor: robertaossana
     - hasTag: 20.3
     - inIssue: 20.3
-    - hasTopic: theme~dream-apps-and-online-dreamsharing
+    - hasTopic: topic~dream-apps-and-online-dreamsharing
 type: post
 urlSlug: "dreamwork-software-review-the-dream-toolbox"
 profileImg: post-bcpox5dsrtdt-0.jpeg

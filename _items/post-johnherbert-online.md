@@ -8,7 +8,7 @@ tags:
     - hasAuthor: johnherbert
     - hasTag: 21.4-22.1
     - inIssue: 21.4-22.1
-    - hasTopic: theme~dream-apps-and-online-dreamsharing
+    - hasTopic: topic~dream-apps-and-online-dreamsharing
 type: post
 urlSlug: "pioneering-dreamwork-online"
 ---
@@ -71,6 +71,6 @@ Needless to say, we found professional managers, I returned to school, and in 20
 
 Much has happened in this 40-year time span. Jump ahead to today: in the writings of Gayle Delaney, Ann Faraday, [Jayne Gackenbach](../@jaynegackenbach), Patricia Garfield, [Stanley Krippner](../@stanleykrippner), Charles Mc- Phee, Alan Siegel, Jeremy Taylor, [Montague Ullman](../@montagueullman), [Robert Van de Castle](../@bobvandecastle), and many others, or in the articles of _Dream Network_, one can find a treasure of information about dreams, and how to work with dream content. Today we have a myriad of ways of working with dreams, both within and without the confines of a therapist's office.
 
-A major transition has taken place in working with dream content. No longer does the interpretation of a dream rest with an outside authority who tells the dreamer what the dream "means". Today, there are much more cooperative processes available, whereby the dreamer can find help from another dreamer or dreamworker. One of the early pioneer influences in the grass roots movement to get dreamwork out of the analyst's office and into the public has been the work of Montague Ullman, who developed a [protocol by which the dreamwork was shared](../bcpov6rssull/the-ullman-method-of-dream-analysis) by persons within a group. Although Ullman has a very specific protocol for working with his method, the basic approach of sharing in dreamwork on the basis of "If it were my dream" or "In my dream" has been utilized by many other dreamworkers. My computer [online dreamwork](../theme~dream-apps-and-online-dreamsharing) also draws from parts of his methodology.
+A major transition has taken place in working with dream content. No longer does the interpretation of a dream rest with an outside authority who tells the dreamer what the dream "means". Today, there are much more cooperative processes available, whereby the dreamer can find help from another dreamer or dreamworker. One of the early pioneer influences in the grass roots movement to get dreamwork out of the analyst's office and into the public has been the work of Montague Ullman, who developed a [protocol by which the dreamwork was shared](../bcpov6rssull/the-ullman-method-of-dream-analysis) by persons within a group. Although Ullman has a very specific protocol for working with his method, the basic approach of sharing in dreamwork on the basis of "If it were my dream" or "In my dream" has been utilized by many other dreamworkers. My computer [online dreamwork](../topic~dream-apps-and-online-dreamsharing) also draws from parts of his methodology.
 
 There are wonderful aids and many Internet online sources, that can stimulate thinking about a dream, helping one "to look at it in another way", which is essentially the task we have as dreamworkers.

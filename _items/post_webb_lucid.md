@@ -8,6 +8,7 @@ tags:
     - hasAuthor: craigwebb
     - hasTag: 30.4
     - inIssue: 30.4
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: lucid-never-felt-as-good
 ---

@@ -2,11 +2,11 @@
 dateCreated: "2020-10-03T11:32:52"
 itemId: bcpovcredja
 layout: page
-handle: theme~dream-apps-and-online-dreamsharing
+handle: topic~dream-apps-and-online-dreamsharing
 name: "Dream Journal Apps & Online Dreamsharing"
 tags:
 type: theme
-urlSlug: theme~dream-apps-and-online-dreamsharing
+urlSlug: topic~dream-apps-and-online-dreamsharing
 coverImg: cover-theme-dream-apps-and-online-dreamsharing.jpg
 ---
 

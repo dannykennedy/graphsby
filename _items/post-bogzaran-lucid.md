@@ -8,6 +8,7 @@ tags:
     - hasAuthor: faribabogzaran
     - hasTag: 7.4
     - inIssue: 7.4
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: lucidity-and-meeting-in-the-unknown
 profileImg: bogzaran-lucid-1.jpg

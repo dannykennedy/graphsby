@@ -7,7 +7,7 @@ tags:
     - hasTag: bambicorso
     - hasAuthor: bambicorso
     - hasTag: rachelnorment
-    - hasTopic: theme~dream-books
+    - hasTopic: topic~dream-books
 type: post
 urlSlug: "dream-explorations-by-rachel-norment-book-review"
 profileImg: post-bcpov6znormr-0.jpg

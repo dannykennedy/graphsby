@@ -2,11 +2,11 @@
 dateCreated: "2020-10-03T11:32:52"
 itemId: bcpovcretdb
 layout: page
-handle: theme~dream-books
+handle: topic~dream-books
 name: "Books about Dreams and Dreaming"
 tags:
 type: theme
-urlSlug: theme~dream-books
+urlSlug: topic~dream-books
 coverImg: theme_books_cover.jpg
 ---
 

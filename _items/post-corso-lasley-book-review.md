@@ -8,7 +8,7 @@ tags:
     - hasAuthor: bambicorso
     - hasTag: 33.4
     - inIssue: 33.4
-    - hasTopic: theme~dream-books
+    - hasTopic: topic~dream-books
 type: post
 urlSlug: "wake-up-justina-lasley-book-review"
 profileImg: post-bcpov6zlaslr-0.jpg

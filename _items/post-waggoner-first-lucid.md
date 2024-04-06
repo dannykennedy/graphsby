@@ -9,6 +9,7 @@ tags:
     - hasTag: 8.1
     - inIssue: 8.1
     - hasTag: "lucid dreaming"
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: first-lucid-dreams
 profileImg: stovepipe-man.jpg

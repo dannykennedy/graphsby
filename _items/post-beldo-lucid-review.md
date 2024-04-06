@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jayeb
     - hasTag: 24.4-25.1
     - inIssue: 24.4-25.1
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: "the-lucid-dreaming-kit-by-bradley-thompson-review"
 profileImg: post-bcpov6grlrev-0.jpg

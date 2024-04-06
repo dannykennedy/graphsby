@@ -9,7 +9,7 @@ tags:
     - hasTag: 26.3
     - inIssue: 26.3
     - featuredIn: dreamnetwork
-    - hasTopic: theme~dreamsharing-groups
+    - hasTopic: topic~dreamsharing-groups
 type: post
 urlSlug: "the-joy-of-dream-groups"
 ---
@@ -22,7 +22,7 @@ I get excited about dreams. I like to talk about dreams and explore dreams and d
 
 In those first early groups (of the 1980’s), I quickly discovered that people were hungry for information about their dreams. They usually came with the question ‘What does it mean?’, looking for a specific, concrete interpretation of their dreams. At the time, the concept that dreams were mysterious and needed an expert who could interpret them was still very strong. I wanted to share what I knew, but I didn’t want to be the ‘expert’ that ‘interpreted’ dreams – that approach too often takes the power of the dream away from the dreamer and I wanted to help people understand their dreams from the inside. What expertise I had came simply from being a bit further along the path, having a few more tools and resources, and the experience of working with my own dreams. I wanted to connect the heart and the whole body to dreams, as well as the head. And so, like many dreamworkers, I do not ‘interpret’ dreams. What I do is offer some tools, some techniques, some resources, maybe ask a few questions and make a few suggestions along the way – always mindful that an engaged dreamer is an active dreamer, and when a dreamer is actively engaged, the dream unfolds **for the dreamer from the inside**. The connection, the ‘ah ha’, is more deeply felt when it comes from within the dreamer. But you already know this.
 
-I’ve had a number of [dream groups](../theme~dreamsharing-groups) since the '80s. I can’t help it – if there isn’t a dream group in my life, I’ll go looking for one and will put one together if necessary. I’ve been to a number of dream groups, classes, and workshops over the years, and have had lunch-time dream groups as well as weeknight and weekend groups. I still do dream workshops on occasion. My approach is very eclectic – if it works, I’ll use it!
+I’ve had a number of [dream groups](../topic~dreamsharing-groups) since the '80s. I can’t help it – if there isn’t a dream group in my life, I’ll go looking for one and will put one together if necessary. I’ve been to a number of dream groups, classes, and workshops over the years, and have had lunch-time dream groups as well as weeknight and weekend groups. I still do dream workshops on occasion. My approach is very eclectic – if it works, I’ll use it!
 
 These days, I am Organizer for a dream group on meetup.com ([dreams.meetup.com/128](https://web.archive.org/web/20081018044102/http://www.meetup.com/AustinDreams/)). I learned about Meetup through Dream Network and took a look to see what Meetup was all about. A number of people were interested in a dream group but no one had stepped up as Organizer. It seemed pretty simple to set things up on Meetup, so I started the Austin Dreams Meetup group.
 
@@ -42,7 +42,7 @@ When I first began organizing dream groups, there were few models or guidelines 
 
 5. Advertising: Get the word out — put up fliers around town at places you enjoy visiting, especially bookstores and local shops with clientele who may be more likely to be interested in dreams. Place ads in the local free paper, on Craigslist, etc. Become a dream group organizer on meetup.com or one of the other on-line networking services. Include day, time, location, and contact info on the flier or ad.
 
-6. Expect a good turnout and be prepared that it may take some time for a ‘regular’ group to form. It took about three months before our meetup group had more than one or two people on a regular basis. Sometimes it would be me and just one other person – and not always the same person. Sometimes it would be just me. But I made the commitment to be there and even if no one else showed up, that time was not wasted – I’d work with my own dreams, read the current issue of Dream Network, or catch up on one or the many [dream books](../theme~dream-books) calling my name.
+6. Expect a good turnout and be prepared that it may take some time for a ‘regular’ group to form. It took about three months before our meetup group had more than one or two people on a regular basis. Sometimes it would be me and just one other person – and not always the same person. Sometimes it would be just me. But I made the commitment to be there and even if no one else showed up, that time was not wasted – I’d work with my own dreams, read the current issue of Dream Network, or catch up on one or the many [dream books](../topic~dream-books) calling my name.
 
 7. Keep working with your own dreams. Take dream workshop and classes. Talk to other people about dreams and dreaming! Enjoy!
 

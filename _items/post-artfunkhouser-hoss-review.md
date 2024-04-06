@@ -8,7 +8,7 @@ tags:
     - hasAuthor: artfunkhouser
     - hasTag: 24.4-25.1
     - inIssue: 24.4-25.1
-    - hasTopic: theme~dream-books
+    - hasTopic: topic~dream-books
 type: post
 urlSlug: "dream-theories-of-deja-vu"
 profileImg: post-bcpov6kohoss-0.jpg

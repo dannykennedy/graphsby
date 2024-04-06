@@ -9,7 +9,7 @@ tags:
     - hasTag: robertmoss
     - hasTag: 31.2
     - inIssue: 31.2
-    - hasTopic: theme~dream-books
+    - hasTopic: topic~dream-books
 type: post
 urlSlug: "dreaming-the-soul-back-home-robert-moss-book-review"
 profileImg: post-bcpov6zmossr-0.jpg

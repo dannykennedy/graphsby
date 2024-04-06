@@ -9,7 +9,7 @@ tags:
     - hasTag: henryreed
     - hasTag: 24.3
     - inIssue: 24.3
-    - hasTopic: theme~dream-books
+    - hasTopic: topic~dream-books
 type: post
 urlSlug: "henry-reed-dream-medicine-book-review"
 profileImg: post-bcpov6zreedr-0.jpg

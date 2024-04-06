@@ -8,6 +8,7 @@ tags:
     - hasAuthor: faribabogzaran
     - hasTag: 29.3
     - inIssue: 29.3
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: inception-movie-review
 profileImg: post-bcpov6zincep-0.jpg

@@ -9,7 +9,8 @@ tags:
     - hasAuthor: dickmcleester
     - hasTag: 19.4
     - inIssue: 19.4
-    - hasTopic: theme~dream-books
+    - hasTopic: topic~dream-books
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: "book-review-dreaming-while-awake-arnold-mindell"
 profileImg: post-bcpov6rs24hr-0.jpg

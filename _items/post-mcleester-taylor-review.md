@@ -9,7 +9,7 @@ tags:
     - hasTag: 17.4-18.1
     - inIssue: 17.4-18.1
     - hasTopic: jeremytaylor
-    - hasTopic: theme~dream-books
+    - hasTopic: topic~dream-books
 type: post
 urlSlug: "the-living-labyrinth-book-review"
 profileImg: post-bcpov5rcotll-0.jpeg

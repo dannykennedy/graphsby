@@ -8,13 +8,13 @@ tags:
     - hasAuthor: jeremytaylor
     - hasTag: 15.1
     - inIssue: 15.1
-    - hasTopic: theme~dream-apps-and-online-dreamsharing
+    - hasTopic: topic~dream-apps-and-online-dreamsharing
 type: post
 urlSlug: dreamwork-community-in-cyberspace
 profileImg: post-bcpov6christ-1.jpg
 ---
 
-A little while ago, I was approached by _America Online_ (AOL) to host a regular, live, real time, [virtual dream group](../theme~dream-apps-and-online-dreamsharing), Monday through Friday at 9:00a.m. Eastern Time. I agreed to give it a try, even though it means that I have to be bright-eyed and bushy-tailed and in front of my computer at 6:00am, Pacific Time... which up until now has _not_ been my habit.
+A little while ago, I was approached by _America Online_ (AOL) to host a regular, live, real time, [virtual dream group](../topic~dream-apps-and-online-dreamsharing), Monday through Friday at 9:00a.m. Eastern Time. I agreed to give it a try, even though it means that I have to be bright-eyed and bushy-tailed and in front of my computer at 6:00am, Pacific Time... which up until now has _not_ been my habit.
 
 Initially, I had some reservations about working dreams through this distinctly cool and physically isolating medium: the Internet. When I imagined as carefully as I could what it might be like, I was particularly concerned that the flat and highly compressed computer communication format might inhibit the flow of imagination, relational intimacy and mutual respect so necessary for good dreamwork.
 

@@ -8,7 +8,7 @@ tags:
     - hasAuthor: jeremytaylor
     - hasTag: the-art-of-dream-sharing
     - inIssue: the-art-of-dream-sharing
-    - hasTopic: theme~dreamsharing-groups
+    - hasTopic: topic~dreamsharing-groups
 type: post
 urlSlug: twenty-basic-hints-for-dreamwork
 ---

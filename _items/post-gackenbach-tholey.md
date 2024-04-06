@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jaynegackenbach
     - hasTag: 7.4
     - inIssue: 7.4
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: "gackenbach-report-on-tholey"
 metaDescription: "Jayne Gackenbach reports on the work of Paul Tholey, a German sports psychologist who has been working with lucid dreams since 1969. Tholey has developed a program of psychotherapy within the lucid dream and has trained an Olympic equestrian from South America using lucidity."

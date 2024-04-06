@@ -920,6 +920,7 @@ ns1:bcpov1rsjwpt a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqchjgb ;
     ns1:hasTag ns1:bcphbnp3qol,
         ns1:bcphbqchjgb ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbnp3qol ;
     ns1:itemId "bcpov1rsjwpt"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -2510,7 +2511,7 @@ ns1:bcpov6grddtd a ns1:Post ;
 
 <p>The synchronicities have led me to believe that dreams are not purely acausal or random as they have been described to be by some of the founding forepeople of psychotherapy. Perhaps when one looks at an individual dream and its lack of continuity and at times coherency, that may seem to be the case. But when one pulls back, opens the camera lens wide and looks at the larger composition of dream cycles, a recognizable pattern pattern/paradigm can indeed be discerned. Then, with an expanded perspective, the patterns become meaningful. Computer dream journals can help promote this kind of enhanced, chronological appreciation of dreams, adding a new dimension to interpretation and understanding. Our electronic dream journals can become, after a few years, a Farmer's Almanac of the unconscious. We can access such an almanac when we want to plant, cultivate and harvest our dreams according to the waxing and waning of our inner moon.</p>
 
-<p>The discoveries of such timely reoccurrences in <a href="../theme~dream-apps-and-online-dreamsharing">dream patterns via the computer</a> has inspired me to regard such dream cycles as being universal in nature. Within our personal dreams lie some important clues to the larger and broader cycles, meta-patterns of reoccurrence over vast distances of time, from the Nimesha (eye blink) of the Big Bang birth to the final minutes of the Day of Brahmin which consists of 4,320,000,000 years. (Imagine a dream journal kept for that many years! Imagine the galactic synchronicities one could discover!) Appreciating the cycles of the universe's dream, enables us to expand our awareness to these vast cosmological levels. We can then regard our dreams as being a part of such extensive cycles much more expansive than we normally do. We can appreciate that our dreams actually influence these larger cycles.</p>
+<p>The discoveries of such timely reoccurrences in <a href="../topic~dream-apps-and-online-dreamsharing">dream patterns via the computer</a> has inspired me to regard such dream cycles as being universal in nature. Within our personal dreams lie some important clues to the larger and broader cycles, meta-patterns of reoccurrence over vast distances of time, from the Nimesha (eye blink) of the Big Bang birth to the final minutes of the Day of Brahmin which consists of 4,320,000,000 years. (Imagine a dream journal kept for that many years! Imagine the galactic synchronicities one could discover!) Appreciating the cycles of the universe's dream, enables us to expand our awareness to these vast cosmological levels. We can then regard our dreams as being a part of such extensive cycles much more expansive than we normally do. We can appreciate that our dreams actually influence these larger cycles.</p>
 
 <p>With practice, using the Find File mode of investigation, whether on our physical computers or through active imagination, we may be able to pinpoint a decade, a year, perhaps even a moment of quality time in the Precambrian era. We may be able to hone in on a morphogenetic field of a Trilobite and see what it was dreaming way back when and see if it in any way corresponds to what we dreamt about last night or last year.</p>
 """^^xsd:string ;
@@ -2580,7 +2581,7 @@ ns1:bcpov6greaiz a ns1:Post ;
 
 <p><strong>Jeanne:</strong> What else would you like to share? What have we not touched?</p>
 
-<p><strong>Steve:</strong> About 30 years ago, when I first started working with dreams, dreaming was very popular. Working with dreams was a popular phenomenon. I think it started all those years back with Carlos Castaneda and lucid dreaming, going back years now. There was a kind of curiosity in the interest of dreams. It was all the rage. <a href="../theme~dream-books">Dream books</a> were selling as soon as they hit the shelves. The field of Depth Psychology was coming forward through the Human Potential Movement. The work of Jung was beginning to take hold in this country and other places. The mythology of Joseph Campbell became popular. There was a kind of move toward imagination and dream. Over the last ten or fifteen years, much of the popular interest vanished. People were not as interested. But in the last year or so, there seems to be a resurgence of fascination in dreaming and in the imagination in general. The imaginative processes are again capturing the curiosity of so many people. Everywhere from Oprah to late night radio, we’re beginning to hear people talk about dream and getting interested in dream. As I travel around the country, workshops are much more highly attended. So, I think there is a renaissance of interest at the moment. What I advocate is that people get into small dream groups. I know that for a long time that was frowned upon and people thought it was best only to work with dream one-on-one. But now, more than ever, I think there’s a kind of a call back to the earlier times in human experience where people gathered together in small groups and talked story and talked dream. We all don’t need to be psychoanalysts or trained therapists. It’s just okay to sit and tell about our dreams, to let the dreams get to know one another. The fear is that we are going to hurt each other; we’re going to get overly psychological. But if we don’t intrude or we don’t impose or we don’t leverage dream, we can just simply listen to each other’s stories. People have been doing that for thousands and thousands of years. I think it’s a way of making contact. It’s a way of accessing imagination. It’s a way of guarding against the era of too much programmed information and too many video screens. When I watch my kids and others kids, they’re in screen time so much of the time that they (we) lose contact with the spontaneous imaginative process that is indigenous to each of us. If nothing else, talking dream opens up story and evokes imagination. I think it’s a wonderful thing to see the return of an interest in dreams and a return to an engagement with the dreaming psyche. ∞</p>
+<p><strong>Steve:</strong> About 30 years ago, when I first started working with dreams, dreaming was very popular. Working with dreams was a popular phenomenon. I think it started all those years back with Carlos Castaneda and lucid dreaming, going back years now. There was a kind of curiosity in the interest of dreams. It was all the rage. <a href="../topic~dream-books">Dream books</a> were selling as soon as they hit the shelves. The field of Depth Psychology was coming forward through the Human Potential Movement. The work of Jung was beginning to take hold in this country and other places. The mythology of Joseph Campbell became popular. There was a kind of move toward imagination and dream. Over the last ten or fifteen years, much of the popular interest vanished. People were not as interested. But in the last year or so, there seems to be a resurgence of fascination in dreaming and in the imagination in general. The imaginative processes are again capturing the curiosity of so many people. Everywhere from Oprah to late night radio, we’re beginning to hear people talk about dream and getting interested in dream. As I travel around the country, workshops are much more highly attended. So, I think there is a renaissance of interest at the moment. What I advocate is that people get into small dream groups. I know that for a long time that was frowned upon and people thought it was best only to work with dream one-on-one. But now, more than ever, I think there’s a kind of a call back to the earlier times in human experience where people gathered together in small groups and talked story and talked dream. We all don’t need to be psychoanalysts or trained therapists. It’s just okay to sit and tell about our dreams, to let the dreams get to know one another. The fear is that we are going to hurt each other; we’re going to get overly psychological. But if we don’t intrude or we don’t impose or we don’t leverage dream, we can just simply listen to each other’s stories. People have been doing that for thousands and thousands of years. I think it’s a way of making contact. It’s a way of accessing imagination. It’s a way of guarding against the era of too much programmed information and too many video screens. When I watch my kids and others kids, they’re in screen time so much of the time that they (we) lose contact with the spontaneous imaginative process that is indigenous to each of us. If nothing else, talking dream opens up story and evokes imagination. I think it’s a wonderful thing to see the return of an interest in dreams and a return to an engagement with the dreaming psyche. ∞</p>
 
 <hr/>
 
@@ -3101,6 +3102,7 @@ ns1:bcpov6grlrev a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqbeldo ;
     ns1:hasTag ns1:bcphbqbeldo,
         ns1:bcphbwv4jtr ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbwv4jtr ;
     ns1:itemId "bcpov6grlrev"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -3715,6 +3717,7 @@ ns1:bcpov6kalawa a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3plvy ;
     ns1:hasTag ns1:bcphbq3plvy,
         ns1:bcphbvvhigo ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbvvhigo ;
     ns1:itemId "bcpov6kalawa"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -5327,7 +5330,7 @@ ns1:bcpov6kfutur a ns1:Post ;
 
 <p>There are dreams that I have heard which I think people need to hear. One of the things I want to do is to try and make some kind of place for such dreams, so that these dreams can be heard. I want to do that in some way which is not going to be influenced by the dollar; I don't know how to accomplish that but it's a project I have in mind. I don't want to interpret these dreams; I don't want to write a professional or Jungian commentary about those dreams. I could surely do that, but I don't want to. I want the dreams to be heard. I would like, somehow, for the dreams to be heard all over the place!</p>
 
-<p>So, some of the things that are going on, because of the computer network, the global highways, the ways we are able now to instantly communicate with vast numbers of people, I want to be able to use it. I don't want to sit back and just say that's horrible, because it's not. I do want to make use of <a href="../theme~dream-apps-and-online-dreamsharing">computer technology as a way and means for the psyche to be heard</a>. I think that psyche is going to be heard, in any event. The problem is whether we can hear it and get the message... or have the message forced on us.</p>
+<p>So, some of the things that are going on, because of the computer network, the global highways, the ways we are able now to instantly communicate with vast numbers of people, I want to be able to use it. I don't want to sit back and just say that's horrible, because it's not. I do want to make use of <a href="../topic~dream-apps-and-online-dreamsharing">computer technology as a way and means for the psyche to be heard</a>. I think that psyche is going to be heard, in any event. The problem is whether we can hear it and get the message... or have the message forced on us.</p>
 
 <p>The psyche doesn't stand for not being heard for very long, whether that's in an individual's life, a group's life or a culture's life. The kind of community that can be generated from genuinely hearing what's going on in the psyche is an extraordinary community. This doesn't have to be in the same place, geographically, because we're not in the same place geographically anymore. That idea is I gone. Your real community in the future is going to be with you in Utah, me in Lake Stevens, X in Nova Scotia and Y in New Zealand and somehow we are going to be able to communicate and be an organic community, even though we're not in the same place. Finding ways of facilitating that sense of community is going to be a very interesting thing to do.</p>
 
@@ -8207,7 +8210,7 @@ ns1:bcpov6mausef a ns1:Post ;
 
 <p>"If it is a dream," I reasoned with myself, "then I can fly because in dreams I can fly." Whereupon, remembering how I had done it in previous dreams, I looked down at the floor and, sure enough. with some kind of intentional energy I caused myself to lift up off the floor. I flew right out of that nightmare into a wonderful odyssey of different dreams and adventures that seemed to last throughout the night. I awoke in the morning wonderfully refreshed, feeling I had visited another reality. I had had my first major lucid dream.</p>
 
-<p>Ever since l read Patricia Garfield's <em>Creative Dreaming</em> years ago I had been trying unsuccessfully to dream lucidly. It happened a few nights after THE DREAM COMMUNITY OF NEW YORK had a preliminary meeting with Bill Surgio with regard to the lucid dream machine we are going to test out for him. This illustrates an interesting paradox of human nature. The individual functions at his creative best when part of a group. Individual dreamwork, which the best dreamwork must be, progresses most rapidly when one is working on a regular basis with a dream group. For this reason we have taken it upon ourselves to publicize existing dream groups as they come to our attention. If you know of any that are not listed below or if you are forming one yourself please let us know so we may include it in future issues of our newsletter.</p>
+<p>Ever since I read Patricia Garfield's <em>Creative Dreaming</em> years ago I had been trying unsuccessfully to dream lucidly. It happened a few nights after THE DREAM COMMUNITY OF NEW YORK had a preliminary meeting with Bill Surgio with regard to the lucid dream machine we are going to test out for him. This illustrates an interesting paradox of human nature. The individual functions at his creative best when part of a group. Individual dreamwork, which the best dreamwork must be, progresses most rapidly when one is working on a regular basis with a dream group. For this reason we have taken it upon ourselves to publicize existing dream groups as they come to our attention. If you know of any that are not listed below or if you are forming one yourself please let us know so we may include it in future issues of our newsletter.</p>
 
 <p><img src="../images/post-bcpov6mausef-0.jpg" style="max-width:500px; height: auto; margin-bottom:0px" alt="Dream Groups 1"/></p>
 
@@ -8216,6 +8219,7 @@ ns1:bcpov6mausef a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvstim ;
     ns1:hasTag ns1:bcphbhe6wex,
         ns1:bcphbqvstim ;
+    ns1:hasTopic ns1:bcpovcsetdg ;
     ns1:inIssue ns1:bcphbhe6wex ;
     ns1:itemId "bcpov6mausef"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -9188,7 +9192,8 @@ ns1:bcpov6rs24hr a ns1:Post ;
     ns1:hasTag ns1:bcphbq3amin,
         ns1:bcphbq3mcle,
         ns1:bcphbumhc4e ;
-    ns1:hasTopic ns1:bcpovcretdb ;
+    ns1:hasTopic ns1:bcpovcretdb,
+        ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbumhc4e ;
     ns1:itemId "bcpov6rs24hr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -9198,7 +9203,7 @@ ns1:bcpov6rs24hr a ns1:Post ;
 
 ns1:bcpov6rsgcdt a ns1:Post ;
     ns1:dateCreated "1983-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>Traditionally, technology is not linked to the world of visualization, regenerative processes or dreams. Technology is thought to be too narrow to contain or support that delicate, yet ever-so-strong inner world. It would seem that the binary, on-off logic would render dreams lifeless and bruised. Yet the <a href="../theme~dream-apps-and-online-dreamsharing">computer provides qualities that surprisingly lend themselves to dream work</a>. Two of these qualities are storage and retrieval of the dream report, and text editing.</p>
+    ns1:description """<p>Traditionally, technology is not linked to the world of visualization, regenerative processes or dreams. Technology is thought to be too narrow to contain or support that delicate, yet ever-so-strong inner world. It would seem that the binary, on-off logic would render dreams lifeless and bruised. Yet the <a href="../topic~dream-apps-and-online-dreamsharing">computer provides qualities that surprisingly lend themselves to dream work</a>. Two of these qualities are storage and retrieval of the dream report, and text editing.</p>
 
 <p>In the development of a dream translation program for the Apple Computer, these two qualities have been incorporated. The software is designed to translate the dream report into a format that substitutes meaning for symbology. This is accomplished through the creation of an expanded, second dream report using the individual's personal symbology.</p>
 
@@ -9250,7 +9255,7 @@ ns1:bcpov6rsgdnp a ns1:Post ;
 
 <p>Upon request, your computer displays text and pictures concerning universal aspects of particular symbols in your dream, selected on the basis of your personal associative context. To help you distinguish between aspects of your dream symbols that are personal and those aspects at are more universal, the computer displays dreams from a large dream bank containing the same symbols appearing in your dream, and helps you discover your dream's relationship to these more typical patterns. If your dream contained some important references to apparently external events, the computer would provide you with a survey of dream themes and symbols collected over the past 24 hours from around the world, and by providing you with visual statistics, help you determine if your dream was unusual and idiosyncratic, or if a significant number of other people were currently having dreams with similar themes or symbols. You could determine if your "earthquake" dream this morning, for example, was conveying a personal upset in terms of a personal metaphor or in terms of an objective event that was being used as a symbol around the world. If the nature of the dream was such that you wanted to contact others who were having similar dreams, the computer would promptly inform you of how to contact those individuals.</p>
 
-<p>This bit of science fiction fantasy may or may not seem appealing. Dreams are intimate and from the "right brain", while computers are definitely extensions of the "left brain" world. <a href="../theme~dream-apps-and-online-dreamsharing">Dreams and computers</a> have in common, however, the ability to process enormous amounts of information in order to create their respective products. When trying to interpret our dreams, our limited conscious knowledge is often meager compared to the amount of information condensed in a dream. What would happen if the computer's information processing ability were put into the service of helping us understand the information the dream has processed?</p>
+<p>This bit of science fiction fantasy may or may not seem appealing. Dreams are intimate and from the "right brain", while computers are definitely extensions of the "left brain" world. <a href="../topic~dream-apps-and-online-dreamsharing">Dreams and computers</a> have in common, however, the ability to process enormous amounts of information in order to create their respective products. When trying to interpret our dreams, our limited conscious knowledge is often meager compared to the amount of information condensed in a dream. What would happen if the computer's information processing ability were put into the service of helping us understand the information the dream has processed?</p>
 
 <p>Everything described in the above imaginary scenario is possible, either now or with computer systems of the not-so-distant future. Working toward this future, I have been administering a far-reaching program called the "Dream Net Project". Like the initiation of the space program, it is ambitious, requiring the coordination of many different component projects under development by many different people and should lead to many interesting beneficial spinoffs in the process. It certainly has some profound implications for networking among our community of dreamers. Even if the "Dream Net" project can not, for some years to come, yield the type of incredible results depicted in the above imaginary scenario, there are many useful things that today's personal computer can do to relieve some of the drudgery of dream collecting and analysis, both for a dreamer's personal use and for research purposes. For example, a dream journal word-processing and filing system would make it easier to write down dreams (it is easier on a word processor), to modify and manipulate the dream text in the process of written interpretive work, and to store, sort, and retrieve past dreams that may be relevant to the dreamwork at hand. That much is quite possible today.</p>
 
@@ -10168,7 +10173,7 @@ ns1:bcpov6rssull a ns1:Post ;
 
 <p>Five simple words, "if this were my dream" make the Ullman (1996, 1999; Ullman &amp; Zimmerman, 1979) process of Dream Appreciation one of the most profound instruments I have found to unlock the messages in dreams - and more. I had the privilege of participating in three dreamwork trainings with <a href="../@montagueullman">Monte Ullman</a> in the late 1990s.</p>
 
-<p>Ullman began his career as a psychiatrist but soon discovered the power of working with dreams and dedicated his life to teaching a method that allows the dreamer, as well as <a href="../theme~dreamsharing-groups">dream group</a> participants, to access the deepest recesses of the unconscious. He believes that there is a species consciousness that is calling for our personal and collective survival and drawing us toward our ongoing evolution. Each of us, according to Ullman's philosophy, contain billions of single-celled organisms that have formed collectives of organs, systems, and functions, as they are learning to live as one, and as species, we are several billions of people also learning to live as one. Just as the human being cannot survive if cells become self-destructive or attack other life giving cells within the body, the species cannot survive if we, as individuals or as social groups, destroy others or ourselves with destructive patterns.</p>
+<p>Ullman began his career as a psychiatrist but soon discovered the power of working with dreams and dedicated his life to teaching a method that allows the dreamer, as well as <a href="../topic~dreamsharing-groups">dream group</a> participants, to access the deepest recesses of the unconscious. He believes that there is a species consciousness that is calling for our personal and collective survival and drawing us toward our ongoing evolution. Each of us, according to Ullman's philosophy, contain billions of single-celled organisms that have formed collectives of organs, systems, and functions, as they are learning to live as one, and as species, we are several billions of people also learning to live as one. Just as the human being cannot survive if cells become self-destructive or attack other life giving cells within the body, the species cannot survive if we, as individuals or as social groups, destroy others or ourselves with destructive patterns.</p>
 
 <p>I interpret this to mean that for us to survive, cells and human beings must learn to respect life both individually and collectively. We must honor boundaries without creating impermeable walls, be distinct without separating, connect without absorbing or being absorbed, and be flexible without collapsing as we change and grow. We must actively share, nurture, love, and allow each and all to survive and thrive. However, in our development, as individuals and in social units, we have formed patterns that are a danger to ourselves and to our species. Ullman suggests species consciousness, perhaps something akin to Jung's collective unconscious, is the universal force that seeks to bring into awareness those behavior patterns that can lead to destruction. Dreaming is one of the languages of that universal consciousness. Dr. Ullman and Zimmerman (1979) contend that:</p>
 
@@ -11095,7 +11100,7 @@ ns1:bcpov6z0e102 a ns1:Post ;
 
 ns1:bcpov6z0e214 a ns1:Post ;
     ns1:dateCreated "2002-10-18T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><strong>What is the Dream Movement?</strong> One could write an entire book in answer to that question. But then, it could be summed up with these five brilliant, yet simple words gifted the 'movement' by <a href="../@montagueullman">Monte Ullman</a>: "If it were my dream..." Those words typify the movement, the 'socialization' of dreams. The movement from sharing dreams almost exclusively in a therapeutic setting to <a href="../theme~dreamsharing-groups">dreamsharing with friends, in groups</a>, even on the beach or in line at the grocery store. As <a href="../@robertmoss">Robert Moss</a> so accurately <a href="../bcpov6kheart/dreaming-our-way-to-the-heart-of-the-world">states in his article</a>, "...the 'if-it-were-my-dream' protocol for commenting on someone else's dream developed by Montague Ullman, has been a tremendous gift to dreamworkers all over the map."</p>
+    ns1:description """<p><strong>What is the Dream Movement?</strong> One could write an entire book in answer to that question. But then, it could be summed up with these five brilliant, yet simple words gifted the 'movement' by <a href="../@montagueullman">Monte Ullman</a>: "If it were my dream..." Those words typify the movement, the 'socialization' of dreams. The movement from sharing dreams almost exclusively in a therapeutic setting to <a href="../topic~dreamsharing-groups">dreamsharing with friends, in groups</a>, even on the beach or in line at the grocery store. As <a href="../@robertmoss">Robert Moss</a> so accurately <a href="../bcpov6kheart/dreaming-our-way-to-the-heart-of-the-world">states in his article</a>, "...the 'if-it-were-my-dream' protocol for commenting on someone else's dream developed by Montague Ullman, has been a tremendous gift to dreamworkers all over the map."</p>
 
 <p>Thank you, Monte. Please consider this issue one heartfelt tribute to your incredible contribution. Visualize hands clapping and hats tipping to you and surrounding your picture on page 16. They're there!</p>
 
@@ -11792,7 +11797,7 @@ Look like success!
 
 ns1:bcpov6zdeeps a ns1:Post ;
     ns1:dateCreated "1996-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>A little while ago, I was approached by <em>America Online</em> (AOL) to host a regular, live, real time, <a href="../theme~dream-apps-and-online-dreamsharing">virtual dream group</a>, Monday through Friday at 9:00a.m. Eastern Time. I agreed to give it a try, even though it means that I have to be bright-eyed and bushy-tailed and in front of my computer at 6:00am, Pacific Time... which up until now has <em>not</em> been my habit.</p>
+    ns1:description """<p>A little while ago, I was approached by <em>America Online</em> (AOL) to host a regular, live, real time, <a href="../topic~dream-apps-and-online-dreamsharing">virtual dream group</a>, Monday through Friday at 9:00a.m. Eastern Time. I agreed to give it a try, even though it means that I have to be bright-eyed and bushy-tailed and in front of my computer at 6:00am, Pacific Time... which up until now has <em>not</em> been my habit.</p>
 
 <p>Initially, I had some reservations about working dreams through this distinctly cool and physically isolating medium: the Internet. When I imagined as carefully as I could what it might be like, I was particularly concerned that the flat and highly compressed computer communication format might inhibit the flow of imagination, relational intimacy and mutual respect so necessary for good dreamwork.</p>
 
@@ -12941,6 +12946,7 @@ ns1:bcpov6zfafld a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3wagg ;
     ns1:hasTag ns1:bcphbn2j47k,
         ns1:bcphbq3wagg ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbn2j47k ;
     ns1:itemId "bcpov6zfafld"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -13086,6 +13092,7 @@ ns1:bcpov6zfawar a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3wagg ;
     ns1:hasTag ns1:bcphbq3wagg,
         ns1:bcphbygiw4g ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbygiw4g ;
     ns1:itemId "bcpov6zfawar"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -13212,7 +13219,7 @@ ns1:bcpov6zfbsbr a ns1:Post ;
 
 <p><!--nopreview--><div class="caption"><i>Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature by <a href="../@ billstimson">William Stimson</a>, 327pp, published July 2020</i></div><!--/nopreview--></p>
 
-<p>It is remarkable how many <a href="../theme~dream-books">books about dreams</a> have been published in recent years. In part, this is the result of the efforts of the International Association for the Study of Dreams, which has created a world-wide network that has linked dream scientists, dream therapists, dream artists, and dreamers with no qualifications other than their interest in the topic. One would have thought that everything that could be written about dreams had already found its niche in publishers’ catalogs and people’s bookcases.</p>
+<p>It is remarkable how many <a href="../topic~dream-books">books about dreams</a> have been published in recent years. In part, this is the result of the efforts of the International Association for the Study of Dreams, which has created a world-wide network that has linked dream scientists, dream therapists, dream artists, and dreamers with no qualifications other than their interest in the topic. One would have thought that everything that could be written about dreams had already found its niche in publishers’ catalogs and people’s bookcases.</p>
 
 <p>Not quite. <a href="../@billstimson">William Stimson</a> has produced a unique personal account of how dreams shaped his life, taking him on a heroic journey that will serve as a manual for many readers who desire to use their dreams as a vehicle for their own spiritual, emotional, intellectual, and creative development.</p>
 
@@ -13349,7 +13356,7 @@ ns1:bcpov6zfcybr a ns1:Post ;
 
 <p>Many people are wary of the Internet and the promises of its being just the latest in a series of 19th and 20th Century technological solutions that end up causing more harm than good. I agree with this caution and feel the Net will probably bring with it more problems than solutions. Just like democracy and Rock &amp; Roll. I'm afraid it is already past the point of trying to pack it up and send it back to National Science Foundation. What we can do is become involved and shape the way that online interaction occurs. For example, just as with off-line dreamsharing, on line dreamsharing continues the valuing of inner resourcefulness, of intuitive perception, of supporting each person in being his or her own authority in matters of meaning and value and bringing those out into the community at large.</p>
 
-<p>I don't mean to offer <a href="../theme~dream-apps-and-online-dreamsharing">online dreamsharing</a> as better than off-line. I'd rather not set up a feeling of competition here; I personally love the physical embodiments of dream drama and the risky emotional contact and personal closeness of face-to-face meetings. This is just not available at this time on the Net. Rather, I'd like to present online dreamsharing as something new, opening a new niche, a new wavelength that is different from face-to-face dream sharing. Online dreamsharing complements and supports all other kinds of dream sharing through the more specific development of reflective skills and more general global dissemination of the benefits of communities tied together through the sharing of dreams.</p>
+<p>I don't mean to offer <a href="../topic~dream-apps-and-online-dreamsharing">online dreamsharing</a> as better than off-line. I'd rather not set up a feeling of competition here; I personally love the physical embodiments of dream drama and the risky emotional contact and personal closeness of face-to-face meetings. This is just not available at this time on the Net. Rather, I'd like to present online dreamsharing as something new, opening a new niche, a new wavelength that is different from face-to-face dream sharing. Online dreamsharing complements and supports all other kinds of dream sharing through the more specific development of reflective skills and more general global dissemination of the benefits of communities tied together through the sharing of dreams.</p>
 
 <h2>Bibliography</h2>
 
@@ -13933,6 +13940,7 @@ ns1:bcpov6zffelt a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3webb ;
     ns1:hasTag ns1:bcphbq3webb,
         ns1:bcphbzdzrug ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbzdzrug ;
     ns1:itemId "bcpov6zffelt"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -14179,6 +14187,7 @@ ns1:bcpov6zfgluc a ns1:Post ;
     ns1:hasTag ns1:bcphbp2b6gy,
         ns1:bcphbq3gras,
         ns1:bcphbs4b6on ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbp2b6gy,
         ns1:bcphbs4b6on ;
     ns1:itemId "bcpov6zfgluc"^^xsd:string ;
@@ -14649,7 +14658,7 @@ ns1:bcpov6zfpeac a ns1:Post ;
 
 <p>Possibly the single most important development of the decade was the Internet, where almost as soon as longdistance communication was possible, dreamworkers like the <a href="../@jeremytaylor">Rev. Jeremy Taylor</a>, <a href="../@johnherbert">John Herbert</a>, <a href="../@jaynegackenbach">Jayne Gackenbach</a>, and <a href="../@richardwilkerson">Richard Wilkerson</a> were communicating globally with dreamers around the world and constructing Internet dream resources which far outshone anything available to dreamers prior to that time.</p>
 
-<p>When I returned to ASD in 1996, almost the first thing I did was volunteer to moderate the Online Bulletin Board at <a href="https://www.asdreams.org/">http://www.asdreams.org</a>. I was fascinated by the <a href="../theme~dream-apps-and-online-dreamsharing">potential of the Internet to link dreamers</a> with one another and to provide instant communication. Whereas before, when the <em>‘Dreams to the Tenth Power’</em> research was going on, weeks of sending dream accounts and responses through the mail were discouraging to dreamers. Now communication was instantaneous, free... with the click of a key.</p>
+<p>When I returned to ASD in 1996, almost the first thing I did was volunteer to moderate the Online Bulletin Board at <a href="https://www.asdreams.org/">http://www.asdreams.org</a>. I was fascinated by the <a href="../topic~dream-apps-and-online-dreamsharing">potential of the Internet to link dreamers</a> with one another and to provide instant communication. Whereas before, when the <em>‘Dreams to the Tenth Power’</em> research was going on, weeks of sending dream accounts and responses through the mail were discouraging to dreamers. Now communication was instantaneous, free... with the click of a key.</p>
 
 <p>As soon as I began to moderate the Online Bulletin Board, I noticed one less-than-surprising thing: a majority of the questions—from kids writing school papers, from adults with sleep disorders, from dreamers all over the globe—focused on subjects which, heretofore, had been classified under ‘paranormal’ dreaming or ‘anomalous’ dreams. There were questions about out-of-body experiences, about dream telepathy, about mutual dreams and experiences of sleep paralysis. It seemed that this type of dreaming, far from being paranormal, was — if we were to believe the people who came to the Bulletin Board — very normal indeed.</p>
 
@@ -15001,7 +15010,7 @@ ns1:bcpov6zftens a ns1:Post ;
 
 <p>This evolution was fueled in the 1970s by researchers and their books. Writers like Patricia Garfield with <em>Creative Dreaming</em>, Ann Faraday with <em>Dream Power</em>, and <a href="../@henryreed">Henry Reed’s</a> <em>Sundance Community Dream Journal</em> synthesized the emerging ideas, techniques and experiments of the movement and put them into a media form (books and journals) accessible to the general public.</p>
 
-<p>The 1980s might be called the Dream Movement Decade. The number of books on dreams and dreaming proliferated. The <em>Dream Network</em> brought dreamers ideas together from around the US and the world. The pioneers in dreaming got together and started the Association for the Study of Dreams, and dream groups could be found in all the US states and major cities. Lucid dreaming had moved from the category of the occult to science, and New Age spirituality reinforced the notion of the dreamer being the final authority on the meaning and value of their own inner experiences. Orthodox religious institutions that had persecuted people sharing dreams for centuries began to offer <a href="../theme~dreamsharing-groups">dream groups</a>. The ASD <em>Dreaming</em> journal found its way into major educational libraries and international and regional conferences were held on a regular basis, bringing together anthropologists, scientists and researchers, clinical therapists, religious leaders, writers, and dream-inspired artists.</p>
+<p>The 1980s might be called the Dream Movement Decade. The number of books on dreams and dreaming proliferated. The <em>Dream Network</em> brought dreamers ideas together from around the US and the world. The pioneers in dreaming got together and started the Association for the Study of Dreams, and dream groups could be found in all the US states and major cities. Lucid dreaming had moved from the category of the occult to science, and New Age spirituality reinforced the notion of the dreamer being the final authority on the meaning and value of their own inner experiences. Orthodox religious institutions that had persecuted people sharing dreams for centuries began to offer <a href="../topic~dreamsharing-groups">dream groups</a>. The ASD <em>Dreaming</em> journal found its way into major educational libraries and international and regional conferences were held on a regular basis, bringing together anthropologists, scientists and researchers, clinical therapists, religious leaders, writers, and dream-inspired artists.</p>
 
 <p>The 1990s saw the advent of the Internet and the ability for anyone who wanted to share dreams to quickly develop a group of peers from anywhere around the world and discuss their dreams. The number of people who are now interested in dreams has grown geometrically since the 1960s, and the educational outreach to interested individuals and groups has been greatly enhanced by the Internet and other networking organizations. The ability to network across the globe has advanced the feeling that dreams are a treasure crossing all national and religious boundaries. This has led to a sophistication in relation to dreams and dreaming that is unparalleled in history. There are many institutes, schools and organizations that study dreams in relation to science, anthropology, psychology, religion, the arts and humanities... and see dreams as a crucial part of these studies.</p>
 
@@ -15133,7 +15142,7 @@ ns1:bcpov6zfwhat a ns1:Post ;
 
 <p>Her question: <strong>What is a dream?</strong></p>
 
-<p>I thought back. Had any of the so called dream “experts” answered that question? I have noticed that most writers of <a href="../theme~dream-books">dream books</a> dive right in, assuming everyone knows what they are talking about when they discuss dreams.</p>
+<p>I thought back. Had any of the so called dream “experts” answered that question? I have noticed that most writers of <a href="../topic~dream-books">dream books</a> dive right in, assuming everyone knows what they are talking about when they discuss dreams.</p>
 
 <p>The question is definitely worthy of a thoughtful answer. So here is my take on it. My response draws on my understanding of ancient wisdom and eastern philosophy. Our personalities have three aspects: the physical, the emotional, and the mental. The brain is part of the physical aspect. When we die, the physical aspect ceases to exist, but for some time we continue to experience emotion and retain our mental capabilities.</p>
 
@@ -15281,7 +15290,7 @@ ns1:bcpov6zi3ldl a ns1:Post ;
 
 <p><img src="../images/post-bcpov6zi3ldl-2.jpg" alt="Star in front of her library" width="300" height="auto"/></p>
 
-<p>While making dinner and cutting carrots I thought, why not, make a little library with a focus on dreams? This can include animal books, fairy tales, myths, legends, fiction, non-fiction and <a href="../theme~dream-books">books about dreaming</a>. Needless to say, I got very little sleep that night and went about creating the plan and design of the Dream Library. I found a used portable wine rack from a thrift store just the size I needed and only had to modify one wall panel and give it a roof and doors. The library is stocked with free dream journals, free bookmarks that tell people of the importance of dreams and free wallet sized cards that give people tips on how to remember their dreams. I purchased used dream books from Amazon. It’s very exciting watching people take a book, flip through the books and leave with anticipation of learning about their dreams. And it’s all in view of my front door!</p>
+<p>While making dinner and cutting carrots I thought, why not, make a little library with a focus on dreams? This can include animal books, fairy tales, myths, legends, fiction, non-fiction and <a href="../topic~dream-books">books about dreaming</a>. Needless to say, I got very little sleep that night and went about creating the plan and design of the Dream Library. I found a used portable wine rack from a thrift store just the size I needed and only had to modify one wall panel and give it a roof and doors. The library is stocked with free dream journals, free bookmarks that tell people of the importance of dreams and free wallet sized cards that give people tips on how to remember their dreams. I purchased used dream books from Amazon. It’s very exciting watching people take a book, flip through the books and leave with anticipation of learning about their dreams. And it’s all in view of my front door!</p>
 
 <p><img src="../images/post-bcpov6zi3ldl-0.jpg" alt="Star in front of her library" width="300" height="auto"/></p>
 """^^xsd:string ;
@@ -15425,6 +15434,7 @@ ns1:bcpov6zincep a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3bogz ;
     ns1:hasTag ns1:bcphbq3bogz,
         ns1:bcphbyukqzw ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbyukqzw ;
     ns1:itemId "bcpov6zincep"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -17043,7 +17053,7 @@ ns1:bcpov6zwakdg a ns1:Post ;
 
 <p>In those first early groups (of the 1980’s), I quickly discovered that people were hungry for information about their dreams. They usually came with the question ‘What does it mean?’, looking for a specific, concrete interpretation of their dreams. At the time, the concept that dreams were mysterious and needed an expert who could interpret them was still very strong. I wanted to share what I knew, but I didn’t want to be the ‘expert’ that ‘interpreted’ dreams – that approach too often takes the power of the dream away from the dreamer and I wanted to help people understand their dreams from the inside. What expertise I had came simply from being a bit further along the path, having a few more tools and resources, and the experience of working with my own dreams. I wanted to connect the heart and the whole body to dreams, as well as the head. And so, like many dreamworkers, I do not ‘interpret’ dreams. What I do is offer some tools, some techniques, some resources, maybe ask a few questions and make a few suggestions along the way – always mindful that an engaged dreamer is an active dreamer, and when a dreamer is actively engaged, the dream unfolds <strong>for the dreamer from the inside</strong>. The connection, the ‘ah ha’, is more deeply felt when it comes from within the dreamer. But you already know this.</p>
 
-<p>I’ve had a number of <a href="../theme~dreamsharing-groups">dream groups</a> since the '80s. I can’t help it – if there isn’t a dream group in my life, I’ll go looking for one and will put one together if necessary. I’ve been to a number of dream groups, classes, and workshops over the years, and have had lunch-time dream groups as well as weeknight and weekend groups. I still do dream workshops on occasion. My approach is very eclectic – if it works, I’ll use it!</p>
+<p>I’ve had a number of <a href="../topic~dreamsharing-groups">dream groups</a> since the '80s. I can’t help it – if there isn’t a dream group in my life, I’ll go looking for one and will put one together if necessary. I’ve been to a number of dream groups, classes, and workshops over the years, and have had lunch-time dream groups as well as weeknight and weekend groups. I still do dream workshops on occasion. My approach is very eclectic – if it works, I’ll use it!</p>
 
 <p>These days, I am Organizer for a dream group on meetup.com (<a href="https://web.archive.org/web/20081018044102/http://www.meetup.com/AustinDreams/">dreams.meetup.com/128</a>). I learned about Meetup through Dream Network and took a look to see what Meetup was all about. A number of people were interested in a dream group but no one had stepped up as Organizer. It seemed pretty simple to set things up on Meetup, so I started the Austin Dreams Meetup group.</p>
 
@@ -17064,7 +17074,7 @@ ns1:bcpov6zwakdg a ns1:Post ;
 
 <li><p>Advertising: Get the word out — put up fliers around town at places you enjoy visiting, especially bookstores and local shops with clientele who may be more likely to be interested in dreams. Place ads in the local free paper, on Craigslist, etc. Become a dream group organizer on meetup.com or one of the other on-line networking services. Include day, time, location, and contact info on the flier or ad.</p></li>
 
-<li><p>Expect a good turnout and be prepared that it may take some time for a ‘regular’ group to form. It took about three months before our meetup group had more than one or two people on a regular basis. Sometimes it would be me and just one other person – and not always the same person. Sometimes it would be just me. But I made the commitment to be there and even if no one else showed up, that time was not wasted – I’d work with my own dreams, read the current issue of Dream Network, or catch up on one or the many <a href="../theme~dream-books">dream books</a> calling my name.</p></li>
+<li><p>Expect a good turnout and be prepared that it may take some time for a ‘regular’ group to form. It took about three months before our meetup group had more than one or two people on a regular basis. Sometimes it would be me and just one other person – and not always the same person. Sometimes it would be just me. But I made the commitment to be there and even if no one else showed up, that time was not wasted – I’d work with my own dreams, read the current issue of Dream Network, or catch up on one or the many <a href="../topic~dream-books">dream books</a> calling my name.</p></li>
 
 <li><p>Keep working with your own dreams. Take dream workshop and classes. Talk to other people about dreams and dreaming! Enjoy!</p></li>
 </ol>
@@ -17108,7 +17118,7 @@ ns1:bcpov6zwakin a ns1:Post ;
 
 <p>How do you work with dreams? What are your favorite techniques? However you look at dreams, use those tools to look at waking life. See the people, places, actions, emotions, etc. in a waking life event or situation as if it were a dream event or dream fragment. What do you notice? What do you see? What do you learn about yourself in this exercise? What do you learn about your relationship(s)? Your body? Your job? Your life’s calling? Your choices?</p>
 
-<p>In the 1980’s, I spent hours each day/week recording dreams and working with the dream tools and techniques I was learning. I incubated dream questions, intended lucid dream experiences, wrote about my dreams, read <a href="../theme~dream-books">dream books</a>, etc. In short, I immersed myself in the world of dreams and dove deep with the intention of dissolving the culturally-constructed barrier between waking life and dreaming life. Somewhere in all this dreamwork, I began to intentionally look at unusual or out of the ordinary waking life events and situations: a child’s doll, lost/discarded along a wet curb; an argument with a co-worker; found money; odd objects that caught my attention for some reason. What happened ‘woke me up’ more than I expected!</p>
+<p>In the 1980’s, I spent hours each day/week recording dreams and working with the dream tools and techniques I was learning. I incubated dream questions, intended lucid dream experiences, wrote about my dreams, read <a href="../topic~dream-books">dream books</a>, etc. In short, I immersed myself in the world of dreams and dove deep with the intention of dissolving the culturally-constructed barrier between waking life and dreaming life. Somewhere in all this dreamwork, I began to intentionally look at unusual or out of the ordinary waking life events and situations: a child’s doll, lost/discarded along a wet curb; an argument with a co-worker; found money; odd objects that caught my attention for some reason. What happened ‘woke me up’ more than I expected!</p>
 
 <p>As anyone who works with dreams knows, the more attention one pays to dreams, the more detailed and vivid they can become. Coupled with a desire to become lucid while awake in consensus reality, this intensive dreamwork began to thin the veil between worlds. My waking life became richer and spoke to me in surprising and personally meaningful ways. My dream life became more alive. Using several methods to remind myself that I was dreaming (while sleeping and while awake), the pre-lucid and lucid dreams became more frequent. Then, one day, the dream-world appeared in waking-life reality—I literally walked into a recurring dream-image!</p>
 
@@ -17346,6 +17356,7 @@ ns1:bcpov9rsgdbt a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqchjgb ;
     ns1:hasTag ns1:bcphbjilydj,
         ns1:bcphbqchjgb ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbjilydj ;
     ns1:itemId "bcpov9rsgdbt"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -17430,6 +17441,7 @@ ns1:bcpov9rsjgsl a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqchjgb ;
     ns1:hasTag ns1:bcphbnp3qol,
         ns1:bcphbqchjgb ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbnp3qol ;
     ns1:itemId "bcpov9rsjgsl"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -18077,6 +18089,7 @@ ns1:bcpoz2mameta a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqchcel ;
     ns1:hasTag ns1:bcphbhs662v,
         ns1:bcphbqchcel ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbhs662v ;
     ns1:itemId "bcpoz2mameta"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -19345,7 +19358,7 @@ ns1:bcppw4zftpdi a ns1:Post ;
 
 <p>Much has happened in this 40-year time span. Jump ahead to today: in the writings of Gayle Delaney, Ann Faraday, <a href="../@jaynegackenbach">Jayne Gackenbach</a>, Patricia Garfield, <a href="../@stanleykrippner">Stanley Krippner</a>, Charles Mc- Phee, Alan Siegel, Jeremy Taylor, <a href="../@montagueullman">Montague Ullman</a>, <a href="../@bobvandecastle">Robert Van de Castle</a>, and many others, or in the articles of <em>Dream Network</em>, one can find a treasure of information about dreams, and how to work with dream content. Today we have a myriad of ways of working with dreams, both within and without the confines of a therapist's office.</p>
 
-<p>A major transition has taken place in working with dream content. No longer does the interpretation of a dream rest with an outside authority who tells the dreamer what the dream "means". Today, there are much more cooperative processes available, whereby the dreamer can find help from another dreamer or dreamworker. One of the early pioneer influences in the grass roots movement to get dreamwork out of the analyst's office and into the public has been the work of Montague Ullman, who developed a <a href="../bcpov6rssull/the-ullman-method-of-dream-analysis">protocol by which the dreamwork was shared</a> by persons within a group. Although Ullman has a very specific protocol for working with his method, the basic approach of sharing in dreamwork on the basis of "If it were my dream" or "In my dream" has been utilized by many other dreamworkers. My computer <a href="../theme~dream-apps-and-online-dreamsharing">online dreamwork</a> also draws from parts of his methodology.</p>
+<p>A major transition has taken place in working with dream content. No longer does the interpretation of a dream rest with an outside authority who tells the dreamer what the dream "means". Today, there are much more cooperative processes available, whereby the dreamer can find help from another dreamer or dreamworker. One of the early pioneer influences in the grass roots movement to get dreamwork out of the analyst's office and into the public has been the work of Montague Ullman, who developed a <a href="../bcpov6rssull/the-ullman-method-of-dream-analysis">protocol by which the dreamwork was shared</a> by persons within a group. Although Ullman has a very specific protocol for working with his method, the basic approach of sharing in dreamwork on the basis of "If it were my dream" or "In my dream" has been utilized by many other dreamworkers. My computer <a href="../topic~dream-apps-and-online-dreamsharing">online dreamwork</a> also draws from parts of his methodology.</p>
 
 <p>There are wonderful aids and many Internet online sources, that can stimulate thinking about a dream, helping one "to look at it in another way", which is essentially the task we have as dreamworkers.</p>
 """^^xsd:string ;
@@ -19579,6 +19592,7 @@ ns1:bcsoz6zinlmu a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3bogz ;
     ns1:hasTag ns1:bcphbnp3qol,
         ns1:bcphbq3bogz ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbnp3qol ;
     ns1:itemId "bcsoz6zinlmu"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -20759,9 +20773,6 @@ ns1:bcpov6tqqf6 a ns1:Post ;
 ns1:Page a owl:Class ;
     rdfs:subClassOf ns1:Actor .
 
-ns1:Theme a owl:Class ;
-    rdfs:subClassOf ns1:Item .
-
 ns1:bcphblqvj7h a ns1:Post ;
     ns1:coverImg "4.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-01-01T11:32:52"^^xsd:dateTime ;
@@ -20944,6 +20955,9 @@ ns1:bcpqocs2uhp a ns1:Post ;
     ns1:urlSlug "dream-network-volume-32"^^xsd:string .
 
 ns1:Actor a owl:Class ;
+    rdfs:subClassOf ns1:Item .
+
+ns1:Theme a owl:Class ;
     rdfs:subClassOf ns1:Item .
 
 ns1:bcphb2eggje a ns1:Post ;
@@ -21567,35 +21581,6 @@ ns1:bcpov6zfsra a ns1:Post ;
     ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
     ns1:urlSlug "coat-of-many-colors"^^xsd:string .
 
-ns1:bcpovcsetdg a ns1:Theme ;
-    ns1:coverImg "cover-dreamsharing-groups.jpg"^^xsd:string ;
-    ns1:description """<p>The Dream Network Journal published the following <em>ethical guidelines for dreamworkers and dreamsharing groups</em> in <a href="../bcphbqvckd7/13.1">Volume 13, Issue 1</a>, and different versions in subsequent issues.</p>
-
-<h3>An ethical dreamworker:</h3>
-
-<ol>
-<li><p><strong>Encourages</strong> those who have not yet discovered, or who are yet only beginning to discover, the magic, revelation and enrichment which comes from valuing their dreams. Not that they may know our dreams, but that they may know their own. <em>John Ashbaugh</em></p></li>
-<li><p><strong>Honors</strong> the dream, the dreamer and the dreamsharing process. <em>Ingrid M. Luke</em></p></li>
-<li><p><strong>Encourages</strong> any dreamer's personal connection to, relationship with and understanding of dreams and the mystery from which dreams emerge. <em>Catherine Knapp</em></p></li>
-<li><p><strong>Offers</strong> encouragement to the dreamer for their efforts, knowing that any effort will bear fruit. Regards all dreams and dreamers as sacred and as such, treats them with respect, joy and humility. <em>Jan Janzen</em></p></li>
-<li><p><strong>Engages</strong> in the Art of Listening. This involves listening to all that a dreamer says and above all, listening while keeping one's own ideas about the dream on hold. <a href="../@montagueullman"><em>Montague Ullman</em></a></p></li>
-<li><p><strong>Respects</strong> the integrity of dreamers; their vulnerability, weaknesses and sexuality are to be honored, never exploited. It is often useful to preface any remark with the idea: "if it were my dream... " <a href="../@jeremytaylor"><em>Jeremy Taylor</em></a></p></li>
-<li><p><strong>Honors and respects</strong> the dreamer's anonymity and confidentiality. <em>Will Phillips</em></p></li>
-<li><p><strong>Intuits</strong> the dreamer's boundaries and does not push the dreamer to go beyond what feels safe. <em>Deborah Jay Hillman</em></p></li>
-<li><p><strong>Keeps in mind</strong> that dreams are more a mystery to behold than a puzzle to solve. Dreams are about wonder, awe and imagination, in lieu of logic and literal thinking. <em>Chuck Freeman</em></p></li>
-<li><p><strong>Enters</strong> a relationship with a dreamer and a dream, holding regard for the mystery of the dream process and respect for the sacredness of the individual's personal discovery of truth. <em>Valerie Meluskey</em></p></li>
-<li><p><strong>Refrains</strong> from telling the dreamer what his or her dream means; we never know anyway. When we feel that we do know, at best we know what it would mean if it were our own dream. <a href="../@dickmcleester"><em>Dick McLeester</em></a></p></li>
-<li><p><strong>Recognizes</strong> that dreams can be viewed as holograms, offering various levels of meaning and significance. Therefore, our challenge, when working with dreams is to continue searching for the layers within the dream and to allow the dream to "live" with us. <em>Rosemary Watts</em></p></li>
-<li><p><strong>Encourages</strong> each member in a dream group to take responsibility for the healthy functioning of the group. This includes: setting rules for the group; speaking up when rules are broken and/or the group is not working for you; checking from time to time to make sure the group's process is working for everyone. <em>Micki Seltzer</em></p></li>
-<li><p>Relaxes when working on another's dream and trusts that s/he does not have to know the answers. <em>Karen Surman Paley</em></p></li>
-<li><p><strong>Respects</strong> the dreamer's right to end the dreamwork at any time. <em>Will Phillips</em></p></li>
-</ol>
-"""^^xsd:string ;
-    ns1:handle "theme~dreamsharing-groups"^^xsd:string ;
-    ns1:itemId "bcpovcsetdg"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dreamsharing Groups"^^xsd:string .
-
 ns1:bcpqoaf5sto a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_6.zip" download>Volume 6 (.zip file, 14mb)</a></p>
 """^^xsd:string ;
@@ -21841,6 +21826,35 @@ ns1:bcpov6pspec a ns1:Post ;
     ns1:name "Special publications"^^xsd:string ;
     ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
     ns1:urlSlug "special-publications"^^xsd:string .
+
+ns1:bcpovcsetdg a ns1:Theme ;
+    ns1:coverImg "cover-dreamsharing-groups.jpg"^^xsd:string ;
+    ns1:description """<p>The Dream Network Journal published the following <em>ethical guidelines for dreamworkers and dreamsharing groups</em> in <a href="../bcphbqvckd7/13.1">Volume 13, Issue 1</a>, and different versions in subsequent issues.</p>
+
+<h3>An ethical dreamworker:</h3>
+
+<ol>
+<li><p><strong>Encourages</strong> those who have not yet discovered, or who are yet only beginning to discover, the magic, revelation and enrichment which comes from valuing their dreams. Not that they may know our dreams, but that they may know their own. <em>John Ashbaugh</em></p></li>
+<li><p><strong>Honors</strong> the dream, the dreamer and the dreamsharing process. <em>Ingrid M. Luke</em></p></li>
+<li><p><strong>Encourages</strong> any dreamer's personal connection to, relationship with and understanding of dreams and the mystery from which dreams emerge. <em>Catherine Knapp</em></p></li>
+<li><p><strong>Offers</strong> encouragement to the dreamer for their efforts, knowing that any effort will bear fruit. Regards all dreams and dreamers as sacred and as such, treats them with respect, joy and humility. <em>Jan Janzen</em></p></li>
+<li><p><strong>Engages</strong> in the Art of Listening. This involves listening to all that a dreamer says and above all, listening while keeping one's own ideas about the dream on hold. <a href="../@montagueullman"><em>Montague Ullman</em></a></p></li>
+<li><p><strong>Respects</strong> the integrity of dreamers; their vulnerability, weaknesses and sexuality are to be honored, never exploited. It is often useful to preface any remark with the idea: "if it were my dream... " <a href="../@jeremytaylor"><em>Jeremy Taylor</em></a></p></li>
+<li><p><strong>Honors and respects</strong> the dreamer's anonymity and confidentiality. <em>Will Phillips</em></p></li>
+<li><p><strong>Intuits</strong> the dreamer's boundaries and does not push the dreamer to go beyond what feels safe. <em>Deborah Jay Hillman</em></p></li>
+<li><p><strong>Keeps in mind</strong> that dreams are more a mystery to behold than a puzzle to solve. Dreams are about wonder, awe and imagination, in lieu of logic and literal thinking. <em>Chuck Freeman</em></p></li>
+<li><p><strong>Enters</strong> a relationship with a dreamer and a dream, holding regard for the mystery of the dream process and respect for the sacredness of the individual's personal discovery of truth. <em>Valerie Meluskey</em></p></li>
+<li><p><strong>Refrains</strong> from telling the dreamer what his or her dream means; we never know anyway. When we feel that we do know, at best we know what it would mean if it were our own dream. <a href="../@dickmcleester"><em>Dick McLeester</em></a></p></li>
+<li><p><strong>Recognizes</strong> that dreams can be viewed as holograms, offering various levels of meaning and significance. Therefore, our challenge, when working with dreams is to continue searching for the layers within the dream and to allow the dream to "live" with us. <em>Rosemary Watts</em></p></li>
+<li><p><strong>Encourages</strong> each member in a dream group to take responsibility for the healthy functioning of the group. This includes: setting rules for the group; speaking up when rules are broken and/or the group is not working for you; checking from time to time to make sure the group's process is working for everyone. <em>Micki Seltzer</em></p></li>
+<li><p>Relaxes when working on another's dream and trusts that s/he does not have to know the answers. <em>Karen Surman Paley</em></p></li>
+<li><p><strong>Respects</strong> the dreamer's right to end the dreamwork at any time. <em>Will Phillips</em></p></li>
+</ol>
+"""^^xsd:string ;
+    ns1:handle "topic~dreamsharing-groups"^^xsd:string ;
+    ns1:itemId "bcpovcsetdg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dreamsharing Groups"^^xsd:string .
 
 ns1:bcphb2huxmr a ns1:Post ;
     ns1:coverImg "33.3-cover.jpg"^^xsd:string ;
@@ -22909,7 +22923,7 @@ ns1:bcpovcredja a ns1:Theme ;
     ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
     ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomena. But check out these articles, and see that for as long as dreams, computers and the internet have coexisted (since the 60s), there's been a dream to digitize dreams.</p>
 """^^xsd:string ;
-    ns1:handle "theme~dream-apps-and-online-dreamsharing"^^xsd:string ;
+    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
     ns1:itemId "bcpovcredja"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string .
@@ -23066,6 +23080,15 @@ ns1:bcphbqflull a ns1:User ;
     ns1:name "Montague Ullman"^^xsd:string ;
     ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
 
+ns1:bcpovcretld a ns1:Theme ;
+    ns1:coverImg "cover-lucid-dreaming.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together all the areticles about lucid dreaming that have appeared in the Dream Network Journal over the years.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~lucid-dreaming"^^xsd:string ;
+    ns1:itemId "bcpovcretld"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Articles about Lucid Dreaming"^^xsd:string .
+
 ns1:bcphbqfgreg a ns1:User ;
     ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>
 
@@ -23210,7 +23233,7 @@ ns1:bcpovcretdb a ns1:Theme ;
     ns1:coverImg "theme_books_cover.jpg"^^xsd:string ;
     ns1:description """<p>This page gathers together all the reviews and articles about books on dreams and dreaming that have appeared in the Dream Network Journal over the years.</p>
 """^^xsd:string ;
-    ns1:handle "theme~dream-books"^^xsd:string ;
+    ns1:handle "topic~dream-books"^^xsd:string ;
     ns1:itemId "bcpovcretdb"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Books about Dreams and Dreaming"^^xsd:string .

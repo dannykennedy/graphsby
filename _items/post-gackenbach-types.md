@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jaynegackenbach
     - hasTag: 2.4
     - inIssue: 2.4
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: "differences-between-types-of-lucid-dreams"
 metaDescription: "Jayne Gackenbach reports on the differences between types of lucid dreams. She describes the situational determinants of lucid dreams and the techniques used to determine lucidity."

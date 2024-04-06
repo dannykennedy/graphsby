@@ -2,11 +2,11 @@
 dateCreated: "2020-10-03T11:32:52"
 itemId: bcpovcsetdg
 layout: page
-handle: theme~dreamsharing-groups
+handle: topic~dreamsharing-groups
 name: "Dreamsharing Groups"
 tags:
 type: theme
-urlSlug: theme~dreamsharing-groups
+urlSlug: topic~dreamsharing-groups
 coverImg: cover-dreamsharing-groups.jpg
 ---
 

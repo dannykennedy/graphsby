@@ -9,7 +9,7 @@ tags:
     - hasTag: curtisshoffman
     - hasTag: 33.3
     - inIssue: 33.3
-    - hasTopic: theme~dream-books
+    - hasTopic: topic~dream-books
 type: post
 urlSlug: "weaving-dreams-into-the-classroom-book-review"
 profileImg: post-bcpov6zhoffr-0.jpg

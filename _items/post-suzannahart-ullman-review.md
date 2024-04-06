@@ -9,7 +9,7 @@ tags:
     - hasTopic: montagueullman
     - hasTag: 7.3
     - inIssue: 7.3
-    - hasTopic: theme~dream-books
+    - hasTopic: topic~dream-books
 type: post
 profileImg: post-bcpov6zdbrvd-0.jpg
 urlSlug: "book-review-the-variety-of-dream-experience-ullman-limmer"

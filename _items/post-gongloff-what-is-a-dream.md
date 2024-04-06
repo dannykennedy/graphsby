@@ -18,7 +18,7 @@ But on this particular talk show, I was thrown off a bit. The kind lady on the p
 
 Her question: **What is a dream?**
 
-I thought back. Had any of the so called dream “experts” answered that question? I have noticed that most writers of [dream books](../theme~dream-books) dive right in, assuming everyone knows what they are talking about when they discuss dreams.
+I thought back. Had any of the so called dream “experts” answered that question? I have noticed that most writers of [dream books](../topic~dream-books) dive right in, assuming everyone knows what they are talking about when they discuss dreams.
 
 The question is definitely worthy of a thoughtful answer. So here is my take on it. My response draws on my understanding of ancient wisdom and eastern philosophy. Our personalities have three aspects: the physical, the emotional, and the mental. The brain is part of the physical aspect. When we die, the physical aspect ceases to exist, but for some time we continue to experience emotion and retain our mental capabilities.
 

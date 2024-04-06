@@ -8,7 +8,7 @@ tags:
     - hasAuthor: jeremytaylor
     - hasTag: 13.3
     - inIssue: 13.3
-    - hasTopic: theme~dream-books
+    - hasTopic: topic~dream-books
 type: post
 urlSlug: "book-review-the-art-of-dreaming-by-carlos-castaneda"
 profileImg: post-bcpoz1zdqaod-0.jpg

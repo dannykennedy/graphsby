@@ -10,6 +10,7 @@ tags:
     - hasTag: 11.3
     - inIssue: 17.1
     - inIssue: 11.3
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: the-afterglow-of-letting-go
 profileImg: bcpov6zfgluc-1.jpg

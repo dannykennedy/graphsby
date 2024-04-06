@@ -8,6 +8,7 @@ tags:
     - hasAuthor: celiagreen
     - hasTag: 1.3
     - inIssue: 1.3
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: "lucid-dreams-as-metachoric-experiences"
 metaDescription: "Celia Green defines metachoric experiences as 'experiences in which the subject's environment is completely replaced by a hallucinatory one'. She discusses lucid dreams, out-of-the-body experiences and apparitions, and the philosophical implications of these experiences."

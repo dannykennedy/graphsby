@@ -8,6 +8,7 @@ tags:
     - hasAuthor: paullevy
     - hasTag: 22.4
     - inIssue: 22.4
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: "dream-of-global-awakening"
 profileImg: post-bcpov6kalawa-0.jpg

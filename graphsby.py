@@ -273,8 +273,6 @@ for pyyam in file_objects:
 	item_type = pyyam["type"]
 	if item_type == "user" or item_type == "page" or item_type == "theme":
 		item_string_identifier = pyyam["handle"]
-		if item_type == "theme":
-			print("Theme!!!!!!!!!: " + item_string_identifier)
 	elif item_type == "post":
 		item_string_identifier = pyyam["urlSlug"]
 
@@ -630,7 +628,7 @@ for pyyam in file_objects:
 			writepaths.append(folderpath + "/index.html")
 			writepaths.append(folderpath2 + "/index.html")
 			writepaths.append(folderpath3 + "/index.html")
-		# If type is a theme, make a folder at the handle
+		# If type is a theme, make a folder at the handle (which should be called topic~name)
 		elif pyyam["type"] == "theme":
 			folderpath = cwd + build_folder + "/" + pyyam["handle"]
 			writepaths.append(folderpath + "/index.html")

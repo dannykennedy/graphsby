@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jaynegackenbach
     - hasTag: 7.4
     - inIssue: 7.4
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: "lucidity-reports-from-jayne-gackenbach-and-stephen-laberge"
 metaDescription: "Jayne Gackenbach and Stephen LaBerge present their views and research on lucid dreaming. Gackenbach has produced and gathered normative data using experimental methods to answer three important questions about lucidity. LaBerge believes the primary determinant of dream experience is expectation."

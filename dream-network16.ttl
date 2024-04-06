@@ -10826,19 +10826,6 @@ but only for a moment.
     ns1:profileImg "post-bcpov6shpoet-1.jpg"^^xsd:string ;
     ns1:urlSlug "what-poets-have-to-tell-dreamers"^^xsd:string .
 
-ns1:bcpov6tqqf6 a ns1:Post ;
-    ns1:dateCreated "1993-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img class="card-journal-img" src="../images/the-art-of-dream-sharing-rect.jpg"/><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf">View online</a></p></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpov6pspec ;
-    ns1:itemId "bcpov6tqqf6"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "The Art of Dream Sharing and Developing Dream Groups"^^xsd:string ;
-    ns1:profileImg "the-art-of-dream-sharing-sml.jpg"^^xsd:string ;
-    ns1:urlSlug "the-art-of-dream-sharing"^^xsd:string .
-
 ns1:bcpov6trowi2 a ns1:Post ;
     ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6trowi2-0.jpg" width="200" height="auto" alt="Bob Trowbridge"/></p>
@@ -10896,6 +10883,42 @@ ns1:bcpov6trowi2 a ns1:Post ;
     ns1:name "Dream Wizard: An Interview of DNB Editor Bob Trowbridge"^^xsd:string ;
     ns1:profileImg "post-bcpov6trowi2-0.jpg"^^xsd:string ;
     ns1:urlSlug "dream-wizard-an-interview-with-bob-trowbridge"^^xsd:string .
+
+ns1:bcpov6twhint a ns1:Post ;
+    ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><strong>© 1989 by Rev. Jeremy Taylor</strong></p>
+
+<ol>
+<li><p>Always remember that only the dreamer can know what a dream means. The “tingle” or “aha”, or “flash”, or “bell ringing” of the dreamer him/herself is the only reliable touchstone of dream work.</p></li>
+<li><p>However, the “tingle test” is only a positive test. If the dreamer does not respond to any suggestions, it may mean that they are not any good, but it may also mean that the dreamer simply is not prepared to acknowledge the truth in what is being said.</p></li>
+<li><p>A centering exercise to cut down on mental chatter and evoke the intuition is a good idea at the beginning of any group dream work. It is also a good idea at the end (to consolidate learning and mark the close of that phase of group activity).</p></li>
+<li><p>For groups that meet regularly, it is also a good idea to have a period of “touch in” at the beginning (before sharing dreams) where each person speaks briefly and says something about his/her interior state and “where they are at”.</p></li>
+<li><p>Share dreams in the present tense as much as possible. Refer to your written records to make sure nothing is forgotten, or read them verbatim. Share any expressive work you may have related to the dream at the same time. Do not interrupt anyone sharing a dream unless you have a compelling reason.</p></li>
+<li><p>Remember that every time we share a dream, we are always revealing more about ourselves than we consciously realize. Be sensitive to your own and others’ feelings.</p></li>
+<li><p>Remember that every dream has multiple meanings. One of the reasons why group dream work is so rewarding is that the different ideas and intuitions of group members are likely to touch a wider range of possible meaning than one can easily reach working alone, or with only one other person.</p></li>
+<li><p>Remember always that what is said about a dream reflects the personality and symbol structure of the person making the comment, as much as or more than anything in the dream itself. It is often useful to preface any remark with the idea: “if it were my dream”.</p></li>
+<li><p>Remember also that “spooky” and seemingly “supernatural” things frequently happen in dreams (things like “telepathy”, “precognition”, “past life recall”, encounters with “spirits”, etc.). Don’t be frightened if and when such things seem to happen to you or others in your group. They happen so often that they are clearly “natural” and we must learn to develop language and structures of thought adequate to discuss and share these experiences. Don’t ignore or repress any aspect of your experience simply because you don’t understand it.</p></li>
+<li><p>Encourage yourself and others to give creative expression to the images and energies of dreams. Help think of ways to do this. Insight is often evoked by cooperating in a dramatic enactment of a dream.</p></li>
+<li><p>Everyone who comes to a dream group with a dream to share should have a chance to share it. Failure to share a dream at a group meeting “because there isn’t enough time”, or for whatever reason, often results in a dramatic drying up of dream memory until the dream is shared. One good way to proceed is to have everyone in the group share a dream at the beginning (after the centering exercise), without comment, before proceeding with work on any particular dream.</p></li>
+<li><p>While a dream is being shared, pay attention to your intuitive and feeling responses. Pay attention with and to as much of your being as possible.</p></li>
+<li><p>After a dream has been shared, try to deal first with questions of clarification in the narrative. Feeling responses, intuitions, ideas about meaning and metaphor, suggestions for expressive work, Gestalt exercises, dream drama enactments and what-have-you should follow for as long as seems productive.</p></li>
+<li><p>Understand that you can never come to the end of the possible meanings of any dream, so get used to deciding cleanly when you’ve done your collective best and it’s time to move on.</p></li>
+<li><p>After someone has shared a dream and worked on it, particularly if they have had any flashes of insight, that person is very likely to be more withdrawn and less attentive than usual as he or she “takes it in”. Expect this and let it happen without hassle.</p></li>
+<li><p>Be as honest and conscious with each other as possible. Remain aware of group process. Speak the truth. Treat each other with respect. This is not a bad idea any time, but it is particularly important when dealing with dreams and the intimate feelings involved.</p></li>
+<li><p>If the dreamer is drawing a blank, try having someone else read the dream account aloud. Often hearing one’s own words with someone else’s intonations is a trigger to insight.</p></li>
+<li><p>Don’t ignore your body. Pay attention to your needs to stretch and move around. 19. Watch out for misunderstandings. If you or anyone is continually misunderstood, devote some thought to why that may be happening.</p></li>
+<li><p>Enjoy yourself!</p></li>
+</ol>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbqawtay,
+        ns1:bcpov6tqqf6 ;
+    ns1:hasTopic ns1:bcpovcsetdg ;
+    ns1:inIssue ns1:bcpov6tqqf6 ;
+    ns1:itemId "bcpov6twhint"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "20 Basic Hints for Dreamwork"^^xsd:string ;
+    ns1:urlSlug "twenty-basic-hints-for-dreamwork"^^xsd:string .
 
 ns1:bcpov6uality a ns1:Post ;
     ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
@@ -20688,6 +20711,19 @@ ns1:bcphbzhpgrg a ns1:Post ;
     ns1:profileImg "31.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "31.1"^^xsd:string .
 
+ns1:bcpov6tqqf6 a ns1:Post ;
+    ns1:dateCreated "1993-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img class="card-journal-img" src="../images/the-art-of-dream-sharing-rect.jpg"/><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.the-art-of-dream-sharing.pdf">View online</a></p></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpov6pspec ;
+    ns1:itemId "bcpov6tqqf6"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "The Art of Dream Sharing and Developing Dream Groups"^^xsd:string ;
+    ns1:profileImg "the-art-of-dream-sharing-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "the-art-of-dream-sharing"^^xsd:string .
+
 ns1:Page a owl:Class ;
     rdfs:subClassOf ns1:Actor .
 
@@ -20754,35 +20790,6 @@ ns1:bcphbq3pimm a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bobbie Ann Pimm"^^xsd:string ;
     ns1:profileImg "author-bobbie-ann.jpg"^^xsd:string .
-
-ns1:bcpovcsetdg a ns1:Theme ;
-    ns1:coverImg "cover-dreamsharing-groups.jpg"^^xsd:string ;
-    ns1:description """<p>The Dream Network Journal published the following <em>ethical guidelines for dreamworkers and dreamsharing groups</em> in <a href="../bcphbqvckd7/13.1">Volume 13, Issue 1</a>, and different versions in subsequent issues.</p>
-
-<h3>An ethical dreamworker:</h3>
-
-<ol>
-<li><p><strong>Encourages</strong> those who have not yet discovered, or who are yet only beginning to discover, the magic, revelation and enrichment which comes from valuing their dreams. Not that they may know our dreams, but that they may know their own. <em>John Ashbaugh</em></p></li>
-<li><p><strong>Honors</strong> the dream, the dreamer and the dreamsharing process. <em>Ingrid M. Luke</em></p></li>
-<li><p>Encourages any dreamer's personal connection to, relationship with and understanding of dreams and the mystery from which dreams emerge. <em>Catherine Knapp</em></p></li>
-<li><p><strong>Offers</strong> encouragement to the dreamer for their efforts, knowing that any effort will bear fruit. Regards all dreams and dreamers as sacred and as such, treats them with respect, joy and humility. <em>Jan Janzen</em></p></li>
-<li><p><strong>Engages</strong> in the Art of Listening. This involves listening to all that a dreamer says and above all, listening while keeping one's own ideas about the dream on hold. <a href="../@montagueullman"><em>Montague Ullman</em></a></p></li>
-<li><p>Respects the integrity of dreamers; their vulnerability, weaknesses and sexuality are to be honored, never exploited. It is often useful to preface any remark with the idea: "if it were my dream ... " <a href="../@jeremytaylor"><em>Jeremy Taylor</em></a></p></li>
-<li><p><strong>Honors and respects</strong> the dreamer's anonymity and confidentiality. <em>Will Phillips</em></p></li>
-<li><p><strong>Intuits</strong> the dreamer's boundaries and does not push the dreamer to go beyond what feels safe. <em>Deborah Jay Hillman</em></p></li>
-<li><p><strong>Keeps in mind</strong> that dreams are more a mystery to behold than a puzzle to solve. Dreams are about wonder, awe and imagination, in lieu of logic and literal thinking. <em>Chuck Freeman</em></p></li>
-<li><p><strong>Enters</strong> a relationship with a dreamer and a dream, holding regard for the mystery of the dream process and respect for the sacredness of the individual's personal discovery of truth. <em>Valerie Meluskey</em></p></li>
-<li><p><strong>Refrains</strong> from telling the dreamer what his or her dream means; we never know anyway. When we feel that we do know, at best we know what it would mean if it were our own dream. <a href="../@dickmcleester"><em>Dick McLeester</em></a></p></li>
-<li><p><strong>Recognizes</strong> that dreams can be viewed as holograms, offering various levels of meaning and significance. Therefore, our challenge, when working with dreams is to continue searching for the layers within the dream and to allow the dream to "live" with us. <em>Rosemary Watts</em></p></li>
-<li><p><strong>Encourages</strong> each member in a dream group to take responsibility for the healthy functioning of the group. This includes: setting rules for the group; speaking up when rules are broken and/or the group is not working for you; checking from time to time to make sure the group's process is working for everyone. <em>Micki Seltzer</em></p></li>
-<li><p>Relaxes when working on another's dream and trusts that s/he does not have to know the answers. <em>Karen Surman Paley</em></p></li>
-<li><p><strong>Respects</strong> the dreamer's right to end the dreamwork at any time. <em>Will Phillips</em></p></li>
-</ol>
-"""^^xsd:string ;
-    ns1:handle "theme~dreamsharing-groups"^^xsd:string ;
-    ns1:itemId "bcpovcsetdg"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dreamsharing Groups"^^xsd:string .
 
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>
@@ -21513,6 +21520,35 @@ ns1:bcpov6zfsra a ns1:Post ;
     ns1:name "Coat of Many Colors"^^xsd:string ;
     ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
     ns1:urlSlug "coat-of-many-colors"^^xsd:string .
+
+ns1:bcpovcsetdg a ns1:Theme ;
+    ns1:coverImg "cover-dreamsharing-groups.jpg"^^xsd:string ;
+    ns1:description """<p>The Dream Network Journal published the following <em>ethical guidelines for dreamworkers and dreamsharing groups</em> in <a href="../bcphbqvckd7/13.1">Volume 13, Issue 1</a>, and different versions in subsequent issues.</p>
+
+<h3>An ethical dreamworker:</h3>
+
+<ol>
+<li><p><strong>Encourages</strong> those who have not yet discovered, or who are yet only beginning to discover, the magic, revelation and enrichment which comes from valuing their dreams. Not that they may know our dreams, but that they may know their own. <em>John Ashbaugh</em></p></li>
+<li><p><strong>Honors</strong> the dream, the dreamer and the dreamsharing process. <em>Ingrid M. Luke</em></p></li>
+<li><p>Encourages any dreamer's personal connection to, relationship with and understanding of dreams and the mystery from which dreams emerge. <em>Catherine Knapp</em></p></li>
+<li><p><strong>Offers</strong> encouragement to the dreamer for their efforts, knowing that any effort will bear fruit. Regards all dreams and dreamers as sacred and as such, treats them with respect, joy and humility. <em>Jan Janzen</em></p></li>
+<li><p><strong>Engages</strong> in the Art of Listening. This involves listening to all that a dreamer says and above all, listening while keeping one's own ideas about the dream on hold. <a href="../@montagueullman"><em>Montague Ullman</em></a></p></li>
+<li><p>Respects the integrity of dreamers; their vulnerability, weaknesses and sexuality are to be honored, never exploited. It is often useful to preface any remark with the idea: "if it were my dream ... " <a href="../@jeremytaylor"><em>Jeremy Taylor</em></a></p></li>
+<li><p><strong>Honors and respects</strong> the dreamer's anonymity and confidentiality. <em>Will Phillips</em></p></li>
+<li><p><strong>Intuits</strong> the dreamer's boundaries and does not push the dreamer to go beyond what feels safe. <em>Deborah Jay Hillman</em></p></li>
+<li><p><strong>Keeps in mind</strong> that dreams are more a mystery to behold than a puzzle to solve. Dreams are about wonder, awe and imagination, in lieu of logic and literal thinking. <em>Chuck Freeman</em></p></li>
+<li><p><strong>Enters</strong> a relationship with a dreamer and a dream, holding regard for the mystery of the dream process and respect for the sacredness of the individual's personal discovery of truth. <em>Valerie Meluskey</em></p></li>
+<li><p><strong>Refrains</strong> from telling the dreamer what his or her dream means; we never know anyway. When we feel that we do know, at best we know what it would mean if it were our own dream. <a href="../@dickmcleester"><em>Dick McLeester</em></a></p></li>
+<li><p><strong>Recognizes</strong> that dreams can be viewed as holograms, offering various levels of meaning and significance. Therefore, our challenge, when working with dreams is to continue searching for the layers within the dream and to allow the dream to "live" with us. <em>Rosemary Watts</em></p></li>
+<li><p><strong>Encourages</strong> each member in a dream group to take responsibility for the healthy functioning of the group. This includes: setting rules for the group; speaking up when rules are broken and/or the group is not working for you; checking from time to time to make sure the group's process is working for everyone. <em>Micki Seltzer</em></p></li>
+<li><p>Relaxes when working on another's dream and trusts that s/he does not have to know the answers. <em>Karen Surman Paley</em></p></li>
+<li><p><strong>Respects</strong> the dreamer's right to end the dreamwork at any time. <em>Will Phillips</em></p></li>
+</ol>
+"""^^xsd:string ;
+    ns1:handle "theme~dreamsharing-groups"^^xsd:string ;
+    ns1:itemId "bcpovcsetdg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dreamsharing Groups"^^xsd:string .
 
 ns1:bcpqoaf5sto a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_6.zip" download>Volume 6 (.zip file, 14mb)</a></p>

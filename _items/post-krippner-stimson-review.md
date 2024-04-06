@@ -9,6 +9,7 @@ tags:
     - hasAuthor: stanleykrippner
     - hasTag: 34.1
     - inIssue: 34.1
+    - hasTopic: theme~dream-books
 type: post
 urlSlug: "glimpses-from-beyond-the-ego-bill-stimson-book-review"
 profileImg: post-bcpov6zfbsbr-0.jpg

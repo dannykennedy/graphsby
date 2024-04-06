@@ -9,6 +9,7 @@ tags:
     - hasAuthor: bambicorso
     - hasTag: 28.2-3
     - inIssue: 28.2-3
+    - hasTopic: theme~dream-books
 type: post
 urlSlug: "dream-tending-aizenstat-book-review"
 profileImg: post-bcpov6zaizer-0.jpg

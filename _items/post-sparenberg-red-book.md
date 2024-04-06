@@ -9,6 +9,7 @@ tags:
     - hasTag: "book review"
     - hasTag: 31.4
     - inIssue: 31.4
+    - hasTopic: theme~dream-books
 type: post
 urlSlug: reading-the-red-book-review
 profileImg: post-bcpov6zfredb-0.jpg

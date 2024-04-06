@@ -8,6 +8,7 @@ tags:
     - hasAuthor: dickmcleester
     - hasTag: 20.4
     - inIssue: 20.4
+    - hasTopic: theme~dream-books
 type: post
 urlSlug: "book-review-the-committee-of-sleep-deirdre-barrett"
 profileImg: post-bcpov6rcommi-0.jpg

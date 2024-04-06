@@ -8,6 +8,7 @@ tags:
     - hasAuthor: kellybulkeley
     - hasTag: 7.2
     - inIssue: 7.2
+    - hasTopic: theme~dream-books
 type: post
 urlSlug: "dream-life-wake-life-globus-book-review"
 profileImg: post-bcpov6globus-0.jpg

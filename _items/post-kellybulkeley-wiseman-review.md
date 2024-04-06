@@ -9,6 +9,7 @@ tags:
     - hasAuthor: kellybulkeley
     - hasTag: 9.2
     - inIssue: 9.2
+    - hasTopic: theme~dream-books
 type: post
 urlSlug: "nightmare-help-review"
 profileImg: post-bcpov6kbhelp-0.jpg

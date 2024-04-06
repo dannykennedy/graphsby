@@ -1194,7 +1194,8 @@ ns1:bcpov5rcotll a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3mcle ;
     ns1:hasTag ns1:bcphbq3mcle,
         ns1:bcphbtj7a2e ;
-    ns1:hasTopic ns1:bcphbqawtay ;
+    ns1:hasTopic ns1:bcphbqawtay,
+        ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbtj7a2e ;
     ns1:itemId "bcpov5rcotll"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -2239,6 +2240,7 @@ ns1:bcpov6globus a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvbulk ;
     ns1:hasTag ns1:bcphbnlbw5k,
         ns1:bcphbqvbulk ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbnlbw5k ;
     ns1:itemId "bcpov6globus"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -4507,6 +4509,7 @@ ns1:bcpov6kbhelp a ns1:Post ;
     ns1:hasTag ns1:bcphbolab5r,
         ns1:bcphbq3asay,
         ns1:bcphbqvbulk ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbolab5r ;
     ns1:itemId "bcpov6kbhelp"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -6157,6 +6160,7 @@ ns1:bcpov6kohoss a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqafunk ;
     ns1:hasTag ns1:bcphbqafunk,
         ns1:bcphbwv4jtr ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbwv4jtr ;
     ns1:itemId "bcpov6kohoss"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -8539,6 +8543,7 @@ ns1:bcpov6mlight a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvstim ;
     ns1:hasTag ns1:bcphbhe6wex,
         ns1:bcphbqvstim ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbhe6wex ;
     ns1:itemId "bcpov6mlight"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -8625,6 +8630,7 @@ ns1:bcpov6modart a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvbird ;
     ns1:hasTag ns1:bcphbqvbird,
         ns1:bcphbwfw4rc ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbwfw4rc ;
     ns1:itemId "bcpov6modart"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -8649,6 +8655,7 @@ ns1:bcpov6modway a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvbird ;
     ns1:hasTag ns1:bcphbqvbird,
         ns1:bcphbwfw4rc ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbwfw4rc ;
     ns1:itemId "bcpov6modway"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -8679,6 +8686,7 @@ ns1:bcpov6mossr2 a ns1:Post ;
     ns1:hasTag ns1:bcphbqvbird,
         ns1:bcphbqvcors,
         ns1:bcphbwmlvfh ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbwmlvfh ;
     ns1:itemId "bcpov6mossr2"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -9060,6 +9068,7 @@ ns1:bcpov6rcommi a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3mcle ;
     ns1:hasTag ns1:bcphbq3mcle,
         ns1:bcphbuzcgu3 ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbuzcgu3 ;
     ns1:itemId "bcpov6rcommi"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -9179,6 +9188,7 @@ ns1:bcpov6rs24hr a ns1:Post ;
     ns1:hasTag ns1:bcphbq3amin,
         ns1:bcphbq3mcle,
         ns1:bcphbumhc4e ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbumhc4e ;
     ns1:itemId "bcpov6rs24hr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -11281,6 +11291,7 @@ ns1:bcpov6zaizer a ns1:Post ;
     ns1:hasTag ns1:bcphbq3msa,
         ns1:bcphbqvcors,
         ns1:bcphbygiw4g ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbygiw4g ;
     ns1:itemId "bcpov6zaizer"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -11368,6 +11379,7 @@ ns1:bcpov6zbotdm a ns1:Post ;
     ns1:hasTag ns1:bcphbqvlach,
         ns1:bcphbqvmoss,
         ns1:bcphbwpd2l7 ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbwpd2l7 ;
     ns1:itemId "bcpov6zbotdm"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -11661,7 +11673,8 @@ ns1:bcpov6zdbrvd a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqerish ;
     ns1:hasTag ns1:bcphbnodjs2,
         ns1:bcphbqerish ;
-    ns1:hasTopic ns1:bcphbqflull ;
+    ns1:hasTopic ns1:bcphbqflull,
+        ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbnodjs2 ;
     ns1:itemId "bcpov6zdbrvd"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -13189,6 +13202,7 @@ ns1:bcpov6zfbsbr a ns1:Post ;
     ns1:hasTag ns1:bcphb2kq341,
         ns1:bcphbq3krip,
         ns1:bcphbqvstim ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphb2kq341 ;
     ns1:itemId "bcpov6zfbsbr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -14789,6 +14803,7 @@ ns1:bcpov6zfredb a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3spar ;
     ns1:hasTag ns1:bcphbq3spar,
         ns1:bcphbzrw57c ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbzrw57c ;
     ns1:itemId "bcpov6zfredb"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -15164,6 +15179,7 @@ ns1:bcpov6zhoffr a ns1:Post ;
     ns1:hasTag ns1:bcphb2huxmr,
         ns1:bcphbq3curt,
         ns1:bcphbqvcors ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphb2huxmr ;
     ns1:itemId "bcpov6zhoffr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -15438,6 +15454,7 @@ ns1:bcpov6zlaslr a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvcors ;
     ns1:hasTag ns1:bcphb2kqfhu,
         ns1:bcphbqvcors ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphb2kqfhu ;
     ns1:itemId "bcpov6zlaslr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -15727,6 +15744,7 @@ ns1:bcpov6zmossr a ns1:Post ;
     ns1:hasTag ns1:bcphbqvcors,
         ns1:bcphbqvmoss,
         ns1:bcphbzlhdke ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbzlhdke ;
     ns1:itemId "bcpov6zmossr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -15896,19 +15914,20 @@ ns1:bcpov6znormr a ns1:Post ;
 
 <p><br></p>
 
-<p>Utilizing one’s own dreams for personal development is one of the most beneficial aspects of dreamwork, and one that is specifically highlighted in this exceptional book of dreams from Rachel Norments’ personal life. Page after page, Dream Explorations is filled with examples of how working with her own dreams has impacted her life journey and the numerous ways that dreams have played a tremendous role in her development personally and spiritually. </p>
+<p>Utilizing one’s own dreams for personal development is one of the most beneficial aspects of dreamwork, and one that is specifically highlighted in this exceptional book of dreams from Rachel Norments’ personal life. Page after page, Dream Explorations is filled with examples of how working with her own dreams has impacted her life journey and the numerous ways that dreams have played a tremendous role in her development personally and spiritually.</p>
 
-<p>What stands out in Dream Explorations is the way in which Rachel has been able to go back through her years of journaled dreams and mine the gems of wisdom given her throughout her years of dreamwork even though at the time she may have not known what the dreams were telling her.  It allows the reader a bird’s eye view of where she was at in her life during the time of a particular dream, whether it be mentally, emotionally, physically or spiritually, and how her dreams commented on that state of being. She also shares the role her dreams played in moving through those times including ways healing may have been needed to propel her into the next phase of her life. It is a true testament to the immense value of writing down your dreams and working with them. </p>
+<p>What stands out in Dream Explorations is the way in which Rachel has been able to go back through her years of journaled dreams and mine the gems of wisdom given her throughout her years of dreamwork even though at the time she may have not known what the dreams were telling her. It allows the reader a bird’s eye view of where she was at in her life during the time of a particular dream, whether it be mentally, emotionally, physically or spiritually, and how her dreams commented on that state of being. She also shares the role her dreams played in moving through those times including ways healing may have been needed to propel her into the next phase of her life. It is a true testament to the immense value of writing down your dreams and working with them.</p>
 
 <p>Throughout the book Rachel integrates various methods of working with dreams based on some of the pioneers of dreamwork including Carl Jung, <a href="../@jeremytaylor">Jeremy Taylor</a>, <a href="../@montagueullman">Montague Ullman</a> and others. Rachel shares how she has used these dream techniques with her own dreams and in turn, also shows the reader ways in which to better work with their own dreams.</p>
 
-<p>Dream Explorations covers multiple dream subjects, such as houses, food, emotions, color, water, people, animals and so much more.  Rachel spends much time discussing dream symbols and the multitude of images that have accompanied her throughout her life.  She shares not only her personal symbolism but also other possibilities so that when reading the book, one cannot help but be inspired to think of their own personal dreams and imagery in expanded ways.  She shows the reader just how enlightening the study of dreams can be and how they are here to guide us towards self-realization, balance and ultimately, for the purpose of showing us who we are meant to become.</p>
+<p>Dream Explorations covers multiple dream subjects, such as houses, food, emotions, color, water, people, animals and so much more. Rachel spends much time discussing dream symbols and the multitude of images that have accompanied her throughout her life. She shares not only her personal symbolism but also other possibilities so that when reading the book, one cannot help but be inspired to think of their own personal dreams and imagery in expanded ways. She shows the reader just how enlightening the study of dreams can be and how they are here to guide us towards self-realization, balance and ultimately, for the purpose of showing us who we are meant to become.</p>
 
-<p>A tremendous amount of time, excavation and research has gone into Dream Explorations and it is a rare look at how using our dreams as guides and teachers over a lifetime can truly direct us towards growth, healing and wholeness. </p>
+<p>A tremendous amount of time, excavation and research has gone into Dream Explorations and it is a rare look at how using our dreams as guides and teachers over a lifetime can truly direct us towards growth, healing and wholeness.</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqvcors ;
     ns1:hasTag ns1:bcphbq3norm,
         ns1:bcphbqvcors ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:itemId "bcpov6znormr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: Dream Explorations by Rachel Norment"^^xsd:string ;
@@ -16860,6 +16879,7 @@ ns1:bcpov6zreedr a ns1:Post ;
     ns1:hasTag ns1:bcphbqvcors,
         ns1:bcphbqvreed,
         ns1:bcphbwpd2l7 ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbwpd2l7 ;
     ns1:itemId "bcpov6zreedr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -17693,7 +17713,7 @@ ns1:bcpoz1zdqaod a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqawtay ;
     ns1:hasTag ns1:bcphbq3xymn,
         ns1:bcphbqawtay ;
-    ns1:hasTopic ns1:bcpovcredja ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbq3xymn ;
     ns1:itemId "bcpoz1zdqaod"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -19733,9 +19753,6 @@ ns1:urlSlug a owl:DatatypeProperty ;
 ns1:Person a owl:Class ;
     rdfs:subClassOf ns1:Item .
 
-ns1:Theme a owl:Class ;
-    rdfs:subClassOf ns1:Item .
-
 ns1:bcphbklgsln a ns1:Post ;
     ns1:coverImg "2.11-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-11-01T11:32:52"^^xsd:dateTime ;
@@ -19775,6 +19792,9 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Linda Riebel"^^xsd:string ;
     ns1:profileImg "author_linda_riebel.jpg"^^xsd:string .
+
+ns1:Theme a owl:Class ;
+    rdfs:subClassOf ns1:Item .
 
 ns1:bcphbbhutch a ns1:User ;
     ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;
@@ -22773,16 +22793,12 @@ ns1:bcphbycqos5 a ns1:Post ;
 
 ns1:bcpovcredja a ns1:Theme ;
     ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
-    ns1:description """<p>This page gathers together all the reviews and articles about books on dreams and dreaming that have appeared in the Dream Network Journal over the years.</p>
-"""^^xsd:string,
-        """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomena. But check out these articles, and see that for as long as dreams, computers and the internet have coexisted (since the 60s), there's been a dream to digitize dreams.</p>
+    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomena. But check out these articles, and see that for as long as dreams, computers and the internet have coexisted (since the 60s), there's been a dream to digitize dreams.</p>
 """^^xsd:string ;
-    ns1:handle "theme~dream-apps-and-online-dreamsharing"^^xsd:string,
-        "theme~dream-books"^^xsd:string ;
+    ns1:handle "theme~dream-apps-and-online-dreamsharing"^^xsd:string ;
     ns1:itemId "bcpovcredja"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Books about Dreams and Dreaming"^^xsd:string,
-        "Dream Journal Apps & Online Dreamsharing"^^xsd:string ;
+    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string ;
     ns1:profileImg "theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string .
 
 ns1:bcpqn7zvpei a ns1:Post ;
@@ -23076,6 +23092,15 @@ ns1:bcphbqvbulk a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Kelly Bulkeley"^^xsd:string ;
     ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
+
+ns1:bcpovcretdb a ns1:Theme ;
+    ns1:coverImg "theme_books_cover.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together all the reviews and articles about books on dreams and dreaming that have appeared in the Dream Network Journal over the years.</p>
+"""^^xsd:string ;
+    ns1:handle "theme~dream-books"^^xsd:string ;
+    ns1:itemId "bcpovcretdb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Books about Dreams and Dreaming"^^xsd:string .
 
 ns1:bcphbq3rpac a ns1:User ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;

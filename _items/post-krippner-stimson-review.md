@@ -19,7 +19,7 @@ profileImg: post-bcpov6zfbsbr-0.jpg
 
 <!--nopreview--><div class="caption"><i>Glimpses From Beyond The Ego: Dreams, Zen, & Nature by <a href="../@ billstimson">William Stimson</a>, 327pp, published July 2020</i></div><!--/nopreview-->
 
-It is remarkable how many books about dreams have been published in recent years. In part, this is the result of the efforts of the International Association for the Study of Dreams, which has created a world-wide network that has linked dream scientists, dream therapists, dream artists, and dreamers with no qualifications other than their interest in the topic. One would have thought that everything that could be written about dreams had already found its niche in publishers’ catalogs and people’s bookcases.
+It is remarkable how many [books about dreams](../theme~dream-books) have been published in recent years. In part, this is the result of the efforts of the International Association for the Study of Dreams, which has created a world-wide network that has linked dream scientists, dream therapists, dream artists, and dreamers with no qualifications other than their interest in the topic. One would have thought that everything that could be written about dreams had already found its niche in publishers’ catalogs and people’s bookcases.
 
 Not quite. [William Stimson](../@billstimson) has produced a unique personal account of how dreams shaped his life, taking him on a heroic journey that will serve as a manual for many readers who desire to use their dreams as a vehicle for their own spiritual, emotional, intellectual, and creative development.
 

@@ -41,7 +41,7 @@ When I first began organizing dream groups, there were few models or guidelines 
 
 5. Advertising: Get the word out — put up fliers around town at places you enjoy visiting, especially bookstores and local shops with clientele who may be more likely to be interested in dreams. Place ads in the local free paper, on Craigslist, etc. Become a dream group organizer on meetup.com or one of the other on-line networking services. Include day, time, location, and contact info on the flier or ad.
 
-6. Expect a good turnout and be prepared that it may take some time for a ‘regular’ group to form. It took about three months before our meetup group had more than one or two people on a regular basis. Sometimes it would be me and just one other person – and not always the same person. Sometimes it would be just me. But I made the commitment to be there and even if no one else showed up, that time was not wasted – I’d work with my own dreams, read the current issue of Dream Network, or catch up on one or the many dream books calling my name.
+6. Expect a good turnout and be prepared that it may take some time for a ‘regular’ group to form. It took about three months before our meetup group had more than one or two people on a regular basis. Sometimes it would be me and just one other person – and not always the same person. Sometimes it would be just me. But I made the commitment to be there and even if no one else showed up, that time was not wasted – I’d work with my own dreams, read the current issue of Dream Network, or catch up on one or the many [dream books](../theme~dream-books) calling my name.
 
 7. Keep working with your own dreams. Take dream workshop and classes. Talk to other people about dreams and dreaming! Enjoy!
 

@@ -10168,7 +10168,7 @@ ns1:bcpov6rssull a ns1:Post ;
 
 <p>Five simple words, "if this were my dream" make the Ullman (1996, 1999; Ullman &amp; Zimmerman, 1979) process of Dream Appreciation one of the most profound instruments I have found to unlock the messages in dreams - and more. I had the privilege of participating in three dreamwork trainings with <a href="../@montagueullman">Monte Ullman</a> in the late 1990s.</p>
 
-<p>Ullman began his career as a psychiatrist but soon discovered the power of working with dreams and dedicated his life to teaching a method that allows the dreamer, as well as dream group participants, to access the deepest recesses of the unconscious. He believes that there is a species consciousness that is calling for our personal and collective survival and drawing us toward our ongoing evolution. Each of us, according to Ullman's philosophy, contain billions of single-celled organisms that have formed collectives of organs, systems, and functions, as they are learning to live as one, and as species, we are several billions of people also learning to live as one. Just as the human being cannot survive if cells become self-destructive or attack other life giving cells within the body, the species cannot survive if we, as individuals or as social groups, destroy others or ourselves with destructive patterns.</p>
+<p>Ullman began his career as a psychiatrist but soon discovered the power of working with dreams and dedicated his life to teaching a method that allows the dreamer, as well as <a href="../theme~dreamsharing-groups">dream group</a> participants, to access the deepest recesses of the unconscious. He believes that there is a species consciousness that is calling for our personal and collective survival and drawing us toward our ongoing evolution. Each of us, according to Ullman's philosophy, contain billions of single-celled organisms that have formed collectives of organs, systems, and functions, as they are learning to live as one, and as species, we are several billions of people also learning to live as one. Just as the human being cannot survive if cells become self-destructive or attack other life giving cells within the body, the species cannot survive if we, as individuals or as social groups, destroy others or ourselves with destructive patterns.</p>
 
 <p>I interpret this to mean that for us to survive, cells and human beings must learn to respect life both individually and collectively. We must honor boundaries without creating impermeable walls, be distinct without separating, connect without absorbing or being absorbed, and be flexible without collapsing as we change and grow. We must actively share, nurture, love, and allow each and all to survive and thrive. However, in our development, as individuals and in social units, we have formed patterns that are a danger to ourselves and to our species. Ullman suggests species consciousness, perhaps something akin to Jung's collective unconscious, is the universal force that seeks to bring into awareness those behavior patterns that can lead to destruction. Dreaming is one of the languages of that universal consciousness. Dr. Ullman and Zimmerman (1979) contend that:</p>
 
@@ -10249,7 +10249,8 @@ ns1:bcpov6rssull a ns1:Post ;
     ns1:hasAuthor ns1:bcphbssmith ;
     ns1:hasTag ns1:bcphbssmith,
         ns1:bcphbt7x4uv ;
-    ns1:hasTopic ns1:bcphbqflull ;
+    ns1:hasTopic ns1:bcphbqflull,
+        ns1:bcpovcsetdg ;
     ns1:inIssue ns1:bcphbt7x4uv ;
     ns1:itemId "bcpov6rssull"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -11071,7 +11072,7 @@ ns1:bcpov6z0e102 a ns1:Post ;
 
 ns1:bcpov6z0e214 a ns1:Post ;
     ns1:dateCreated "2002-10-18T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><strong>What is the Dream Movement?</strong> One could write an entire book in answer to that question. But then, it could be summed up with these five brilliant, yet simple words gifted the 'movement' by <a href="../@montagueullman">Monte Ullman</a>: "If it were my dream..." Those words typify the movement, the 'socialization' of dreams. The movement from sharing dreams almost exclusively in a therapeutic setting to dreamsharing with friends, in groups, even on the beach or in line at the grocery store. As <a href="../@robertmoss">Robert Moss</a> so accurately <a href="../bcpov6kheart/dreaming-our-way-to-the-heart-of-the-world">states in his article</a>, "...the 'if-it-were-my-dream' protocol for commenting on someone else's dream developed by Montague Ullman, has been a tremendous gift to dreamworkers all over the map."</p>
+    ns1:description """<p><strong>What is the Dream Movement?</strong> One could write an entire book in answer to that question. But then, it could be summed up with these five brilliant, yet simple words gifted the 'movement' by <a href="../@montagueullman">Monte Ullman</a>: "If it were my dream..." Those words typify the movement, the 'socialization' of dreams. The movement from sharing dreams almost exclusively in a therapeutic setting to <a href="../theme~dreamsharing-groups">dreamsharing with friends, in groups</a>, even on the beach or in line at the grocery store. As <a href="../@robertmoss">Robert Moss</a> so accurately <a href="../bcpov6kheart/dreaming-our-way-to-the-heart-of-the-world">states in his article</a>, "...the 'if-it-were-my-dream' protocol for commenting on someone else's dream developed by Montague Ullman, has been a tremendous gift to dreamworkers all over the map."</p>
 
 <p>Thank you, Monte. Please consider this issue one heartfelt tribute to your incredible contribution. Visualize hands clapping and hats tipping to you and surrounding your picture on page 16. They're there!</p>
 
@@ -13354,7 +13355,8 @@ ns1:bcpov6zfcybr a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3rcwi ;
     ns1:hasTag ns1:bcphbq3rcwi,
         ns1:bcphbrw63cp ;
-    ns1:hasTopic ns1:bcpovcredja ;
+    ns1:hasTopic ns1:bcpovcredja,
+        ns1:bcpovcsetdg ;
     ns1:inIssue ns1:bcphbrw63cp ;
     ns1:itemId "bcpov6zfcybr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -14976,7 +14978,7 @@ ns1:bcpov6zftens a ns1:Post ;
 
 <p>This evolution was fueled in the 1970s by researchers and their books. Writers like Patricia Garfield with <em>Creative Dreaming</em>, Ann Faraday with <em>Dream Power</em>, and <a href="../@henryreed">Henry Reed’s</a> <em>Sundance Community Dream Journal</em> synthesized the emerging ideas, techniques and experiments of the movement and put them into a media form (books and journals) accessible to the general public.</p>
 
-<p>The 1980s might be called the Dream Movement Decade. The number of books on dreams and dreaming proliferated. The <em>Dream Network</em> brought dreamers ideas together from around the US and the world. The pioneers in dreaming got together and started the Association for the Study of Dreams, and dream groups could be found in all the US states and major cities. Lucid dreaming had moved from the category of the occult to science, and New Age spirituality reinforced the notion of the dreamer being the final authority on the meaning and value of their own inner experiences. Orthodox religious institutions that had persecuted people sharing dreams for centuries began to offer dream groups. The ASD <em>Dreaming</em> journal found its way into major educational libraries and international and regional conferences were held on a regular basis, bringing together anthropologists, scientists and researchers, clinical therapists, religious leaders, writers, and dream-inspired artists.</p>
+<p>The 1980s might be called the Dream Movement Decade. The number of books on dreams and dreaming proliferated. The <em>Dream Network</em> brought dreamers ideas together from around the US and the world. The pioneers in dreaming got together and started the Association for the Study of Dreams, and dream groups could be found in all the US states and major cities. Lucid dreaming had moved from the category of the occult to science, and New Age spirituality reinforced the notion of the dreamer being the final authority on the meaning and value of their own inner experiences. Orthodox religious institutions that had persecuted people sharing dreams for centuries began to offer <a href="../theme~dreamsharing-groups">dream groups</a>. The ASD <em>Dreaming</em> journal found its way into major educational libraries and international and regional conferences were held on a regular basis, bringing together anthropologists, scientists and researchers, clinical therapists, religious leaders, writers, and dream-inspired artists.</p>
 
 <p>The 1990s saw the advent of the Internet and the ability for anyone who wanted to share dreams to quickly develop a group of peers from anywhere around the world and discuss their dreams. The number of people who are now interested in dreams has grown geometrically since the 1960s, and the educational outreach to interested individuals and groups has been greatly enhanced by the Internet and other networking organizations. The ability to network across the globe has advanced the feeling that dreams are a treasure crossing all national and religious boundaries. This has led to a sophistication in relation to dreams and dreaming that is unparalleled in history. There are many institutes, schools and organizations that study dreams in relation to science, anthropology, psychology, religion, the arts and humanities... and see dreams as a crucial part of these studies.</p>
 
@@ -17052,6 +17054,7 @@ ns1:bcpov6zwakdg a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvlach ;
     ns1:hasTag ns1:bcphbqvlach,
         ns1:bcphbxm2y5p ;
+    ns1:hasTopic ns1:bcpovcsetdg ;
     ns1:inIssue ns1:bcphbxm2y5p ;
     ns1:itemId "bcpov6zwakdg"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -19793,9 +19796,6 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Linda Riebel"^^xsd:string ;
     ns1:profileImg "author_linda_riebel.jpg"^^xsd:string .
 
-ns1:Theme a owl:Class ;
-    rdfs:subClassOf ns1:Item .
-
 ns1:bcphbbhutch a ns1:User ;
     ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;
     ns1:description """<p>Beck Hutchinson co-created <a href="http://www.dreamlynx.com/">DreamLynx</a> with her husband Linton Hutchinson, a web site devoted to the translation of dreams. She spends her spare time dancing, drawing, and gardening.</p>
@@ -20691,6 +20691,9 @@ ns1:bcphbzhpgrg a ns1:Post ;
 ns1:Page a owl:Class ;
     rdfs:subClassOf ns1:Actor .
 
+ns1:Theme a owl:Class ;
+    rdfs:subClassOf ns1:Item .
+
 ns1:bcphblqvj7h a ns1:Post ;
     ns1:coverImg "4.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-01-01T11:32:52"^^xsd:dateTime ;
@@ -20751,6 +20754,34 @@ ns1:bcphbq3pimm a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bobbie Ann Pimm"^^xsd:string ;
     ns1:profileImg "author-bobbie-ann.jpg"^^xsd:string .
+
+ns1:bcpovcsetdg a ns1:Theme ;
+    ns1:coverImg "cover-dreamsharing-groups.jpg"^^xsd:string ;
+    ns1:description """<p>The Dream Network Journal published the following <em>ethical guidelines for dreamworkers and dreamsharing groups</em> in <a href="../bcphbqvckd7/13.1">Volume 13, Issue 1</a>, and different versions in subsequent issues.</p>
+
+<h3>An ethical dreamworker:</h3>
+
+<ol>
+<li><p><strong>Encourages</strong> those who have not yet discovered, or who are yet only beginning to discover, the magic, revelation and enrichment which comes from valuing their dreams. Not that they may know our dreams, but that they may know their own. <em>John Ashbaugh</em></p></li>
+<li><p><strong>Honors</strong> the dream, the dreamer and the dreamsharing process. lngridM. Luke</p></li>
+<li><p>Encourages any dreamer's personal connection to, relationship with and understanding of dreams and the mystery from which dreams emerge. <em>Catherine Knapp</em></p></li>
+<li><p><strong>Offers</strong> encouragement to the dreamer for their efforts, knowing that any effort will bear fruit. Regards all dreams and dreamers as sacred and as such, treats them with respect, joy and humility. <em>Jan Janzen</em></p></li>
+<li><p><strong>Engages</strong> in the Art of Listening. This involves listening to all that a dreamer says and above all, listening while keeping one's own ideas about the dream on hold. <a href="../@montagueullman"><em>Montague Ullman</em></a></p></li>
+<li><p>Respects the integrity of dreamers; their vulnerability, weaknesses and sexuality are to be honored, never exploited. It is often useful to preface any remark with the idea: "if it were my dream ... " <a href="../@jeremytaylor"><em>Jeremy Taylor</em></a></p></li>
+<li><p><strong>Honors and respects</strong> the dreamer's anonymity and confidentiality. <em>Will Phillips</em></p></li>
+<li><p><strong>Intuits</strong> the dreamer's boundaries and does not push the dreamer to go beyond what feels safe. <em>Deborah Jay Hillman</em></p></li>
+<li><p><strong>Keeps in mind</strong> that dreams are more a mystery to behold than a puzzle to solve. Dreams are about wonder, awe and imagination, in lieu of logic and literal thinking. <em>Chuck Freeman</em></p></li>
+<li><p><strong>Enters</strong> a relationship with a dreamer and a dream, holding regard for the mystery of the dream process and respect for the sacredness of the individual's personal discovery of truth. <em>Valerie Meluskey</em></p></li>
+<li><p><strong>Refrains</strong> from telling the dreamer what his or her dream means; we never know anyway. When we feel that we do know, at best we know what it would mean if it were our own dream. <a href="../@dickmcleester"><em>Dick McLeester</em></a></p></li>
+<li><p><strong>Recognizes</strong> that dreams can be viewed as holograms, offering various levels of meaning and significance. Therefore, our challenge, when working with dreams is to continue searching for the layers within the dream and to allow the dream to "live" with us. <em>Rosemary Watts</em></p></li>
+<li><p><strong>Encourages</strong> each member in a dream group to take responsibility for the healthy functioning of the group. This includes: setting rules for the group; speaking up when rules are broken and/ or the group is not working for you; checking from time to time to make sure the group's process is working for everyone. Micki Seltzer Relaxes when working on another's dream and trusts that s/he does not have to know the answers. <em>Karen Surman Paley</em></p></li>
+<li><p><strong>Respects</strong> the dreamer's right to end the dreamwork at any time. <em>Will Phillips</em></p></li>
+</ol>
+"""^^xsd:string ;
+    ns1:handle "theme~dreamsharing-groups"^^xsd:string ;
+    ns1:itemId "bcpovcsetdg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dreamsharing Groups"^^xsd:string .
 
 ns1:bcpqoa3iell a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_14.zip" download>Volume 14 (.zip file, 27mb)</a></p>

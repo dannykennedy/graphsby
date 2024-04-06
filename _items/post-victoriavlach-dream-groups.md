@@ -9,6 +9,7 @@ tags:
     - hasTag: 26.3
     - inIssue: 26.3
     - featuredIn: dreamnetwork
+    - hasTopic: theme~dreamsharing-groups
 type: post
 urlSlug: "the-joy-of-dream-groups"
 ---

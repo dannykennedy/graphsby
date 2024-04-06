@@ -10,6 +10,7 @@ tags:
 - hasTag: 15.1
 - inIssue: 15.1
 - hasTopic: theme~dream-apps-and-online-dreamsharing
+- hasTopic: theme~dreamsharing-groups
 type: post
 urlSlug: dreaming-online-the-global-cyberspace-dreamsharing-community
 ---

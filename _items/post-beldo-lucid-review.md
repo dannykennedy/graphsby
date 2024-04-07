@@ -8,14 +8,14 @@ tags:
     - hasAuthor: jayeb
     - hasTag: 24.4-25.1
     - inIssue: 24.4-25.1
-    - hasTopic: topic~lucid-dreaming
+    - hasTopic: topic~dream-apps-and-online-dreamsharing
 type: post
 urlSlug: "the-lucid-dreaming-kit-by-bradley-thompson-review"
 profileImg: post-bcpov6grlrev-0.jpg
 ---
 
 <img src="../images/post-bcpov6grlrev-0.jpg" width="200px" height="auto"/>
-<!--nopreview--><div style="text-align:center"><i>The <a href="https://www.lucid-dreaming-kit.com">Lucid Dreaming Kit</a></i></div><!--/nopreview-->
+<!--nopreview--><div style="text-align:center"><i>The <a href="https://web.archive.org/web/20050911073227/http://www.lucid-dreaming-kit.com:80/lucid-dreaming/">Lucid Dreaming Kit</a></i></div><!--/nopreview-->
 
 The ability to maintain awareness of a dream while dreaming seems to be considered difficult if not impossible by many people. How often do we take conscious action within a dream and steer it to a more favorable outcome? Not very often. The Lucid Dreaming Kit improves our chances of realizing lucidity in dreams, using a fairly simple procedure. On one CD in the kit are instructions on how to proceed for a period of seven days in order to achieve/maintain awareness during the sleep cycle. Using a digital watch with an alarm setting on it, one is instructed to set it to beep at various intervals during designated nights. These interruptions‚ some how provoke us to maintain consciousness during sleep and help us subliminally anticipate a coming dream without waking up and losing contact with it.
 
@@ -29,4 +29,4 @@ Included with the Lucid Dreaming Kit are a Lucid Dreaming screen saver for your 
 
 The ease of use as well as the immediate effect the CDs had on my dream life has given me sufficient indication that Thompson's method does work effectively. I've tried other methods in the past to achieve lucid dreams such as Tibetan Dream Yoga but nothing so far has given me the quick results that the Lucid Dreaming Kit has. Check it out!
 
-Available at: [www.lucid-dreaming-kit.com](https://www.lucid-dreaming-kit.com/)
+Available at: [www.lucid-dreaming-kit.com (Web Archive)](https://web.archive.org/web/20050911073227/http://www.lucid-dreaming-kit.com:80/lucid-dreaming/)

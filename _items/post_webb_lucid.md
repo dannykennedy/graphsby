@@ -8,7 +8,6 @@ tags:
     - hasAuthor: craigwebb
     - hasTag: 30.4
     - inIssue: 30.4
-    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: lucid-never-felt-as-good
 ---
@@ -21,7 +20,7 @@ My newly released song _“Lucid (Never Felt As Good)”_ was originally inspire
 
 Then came another dream, again music only: _I hear the last few notes of the song’s guitar solo bridge as a distorted electric guitar._ Again no visuals, but what seems to me a clear suggestion from the muse to switch the feel from acoustic/folk to more rock and roll, especially for the solo. The sound of the electric guitar solo in the recording is much like I heard it in the dream. I recorded the song with friends but the quality was low. Dreams urged me to again record more music and I decided to revisit this song since I felt it was kind of catchy. The recording-arranging process spread over 10 months. In that time, I had multiple dreams encouraging me to continue recording and arranging it. Towards the end of arranging, I had a breakthrough evening where I found the sound I was looking for. I went to sleep very late, but happy. In the morning, I had what felt like a celebration dream:
 
-_A spiritual teacher of mine is strolling along the red carpet. Waking, the dream feels related to the song. _
+_A spiritual teacher of mine is strolling along the red carpet. Waking, the dream feels related to the song._
 
 A week or so later, when I was having trouble blending the mix, another dream came:
 

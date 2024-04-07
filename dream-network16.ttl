@@ -3081,7 +3081,7 @@ ns1:bcpov6grlrev a ns1:Post ;
     ns1:dateCreated "2005-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6grlrev-0.jpg" width="200px" height="auto"/></p>
 
-<p><!--nopreview--><div style="text-align:center"><i>The <a href="https://www.lucid-dreaming-kit.com">Lucid Dreaming Kit</a></i></div><!--/nopreview--></p>
+<p><!--nopreview--><div style="text-align:center"><i>The <a href="https://web.archive.org/web/20050911073227/http://www.lucid-dreaming-kit.com:80/lucid-dreaming/">Lucid Dreaming Kit</a></i></div><!--/nopreview--></p>
 
 <p>The ability to maintain awareness of a dream while dreaming seems to be considered difficult if not impossible by many people. How often do we take conscious action within a dream and steer it to a more favorable outcome? Not very often. The Lucid Dreaming Kit improves our chances of realizing lucidity in dreams, using a fairly simple procedure. On one CD in the kit are instructions on how to proceed for a period of seven days in order to achieve/maintain awareness during the sleep cycle. Using a digital watch with an alarm setting on it, one is instructed to set it to beep at various intervals during designated nights. These interruptions‚ some how provoke us to maintain consciousness during sleep and help us subliminally anticipate a coming dream without waking up and losing contact with it.</p>
 
@@ -3097,12 +3097,12 @@ ns1:bcpov6grlrev a ns1:Post ;
 
 <p>The ease of use as well as the immediate effect the CDs had on my dream life has given me sufficient indication that Thompson's method does work effectively. I've tried other methods in the past to achieve lucid dreams such as Tibetan Dream Yoga but nothing so far has given me the quick results that the Lucid Dreaming Kit has. Check it out!</p>
 
-<p>Available at: <a href="https://www.lucid-dreaming-kit.com/">www.lucid-dreaming-kit.com</a></p>
+<p>Available at: <a href="https://web.archive.org/web/20050911073227/http://www.lucid-dreaming-kit.com:80/lucid-dreaming/">www.lucid-dreaming-kit.com (Web Archive)</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqbeldo ;
     ns1:hasTag ns1:bcphbqbeldo,
         ns1:bcphbwv4jtr ;
-    ns1:hasTopic ns1:bcpovcretld ;
+    ns1:hasTopic ns1:bcpovcredja ;
     ns1:inIssue ns1:bcphbwv4jtr ;
     ns1:itemId "bcpov6grlrev"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -13911,7 +13911,7 @@ ns1:bcpov6zffelt a ns1:Post ;
 
 <p>Then came another dream, again music only: <em>I hear the last few notes of the song’s guitar solo bridge as a distorted electric guitar.</em> Again no visuals, but what seems to me a clear suggestion from the muse to switch the feel from acoustic/folk to more rock and roll, especially for the solo. The sound of the electric guitar solo in the recording is much like I heard it in the dream. I recorded the song with friends but the quality was low. Dreams urged me to again record more music and I decided to revisit this song since I felt it was kind of catchy. The recording-arranging process spread over 10 months. In that time, I had multiple dreams encouraging me to continue recording and arranging it. Towards the end of arranging, I had a breakthrough evening where I found the sound I was looking for. I went to sleep very late, but happy. In the morning, I had what felt like a celebration dream:</p>
 
-<p>_A spiritual teacher of mine is strolling along the red carpet. Waking, the dream feels related to the song. _</p>
+<p><em>A spiritual teacher of mine is strolling along the red carpet. Waking, the dream feels related to the song.</em></p>
 
 <p>A week or so later, when I was having trouble blending the mix, another dream came:</p>
 
@@ -13940,7 +13940,6 @@ ns1:bcpov6zffelt a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3webb ;
     ns1:hasTag ns1:bcphbq3webb,
         ns1:bcphbzdzrug ;
-    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbzdzrug ;
     ns1:itemId "bcpov6zffelt"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -22919,14 +22918,14 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.1"^^xsd:string .
 
-ns1:bcpovcredja a ns1:Theme ;
-    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
-    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomena. But check out these articles, and see that for as long as dreams, computers and the internet have coexisted (since the 60s), there's been a dream to digitize dreams.</p>
+ns1:bcpovcretld a ns1:Theme ;
+    ns1:coverImg "cover-lucid-dreaming.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together all the areticles about lucid dreaming that have appeared in the Dream Network Journal over the years.</p>
 """^^xsd:string ;
-    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
-    ns1:itemId "bcpovcredja"^^xsd:string ;
+    ns1:handle "topic~lucid-dreaming"^^xsd:string ;
+    ns1:itemId "bcpovcretld"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string .
+    ns1:name "Articles about Lucid Dreaming"^^xsd:string .
 
 ns1:bcpqn7zvpei a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
@@ -23037,6 +23036,15 @@ ns1:bcphbygiw4g a ns1:Post ;
     ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.2-3"^^xsd:string .
 
+ns1:bcpovcredja a ns1:Theme ;
+    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
+    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomena. But check out these articles, and see that for as long as dreams, computers and the internet have coexisted (since the 60s), there's been a dream to digitize dreams.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
+    ns1:itemId "bcpovcredja"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string .
+
 ns1:bcpqn72unjj a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>
 """^^xsd:string ;
@@ -23079,15 +23087,6 @@ ns1:bcphbqflull a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Montague Ullman"^^xsd:string ;
     ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
-
-ns1:bcpovcretld a ns1:Theme ;
-    ns1:coverImg "cover-lucid-dreaming.jpg"^^xsd:string ;
-    ns1:description """<p>This page gathers together all the areticles about lucid dreaming that have appeared in the Dream Network Journal over the years.</p>
-"""^^xsd:string ;
-    ns1:handle "topic~lucid-dreaming"^^xsd:string ;
-    ns1:itemId "bcpovcretld"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Articles about Lucid Dreaming"^^xsd:string .
 
 ns1:bcphbqfgreg a ns1:User ;
     ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>

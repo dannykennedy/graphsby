@@ -12,7 +12,7 @@ tags:
 type: post
 urlSlug: "do-you-intend-to-dream"
 profileImg: post-bcpov9grditd-0.jpeg
-metaDescription: 'Ann Kruglak discusses her concept of "Intentional Dreaming", how it differs from dream control and dream incubation, and introduces her new dreaming software CD, "Interactive Dreaming".'
+metaDescription: 'Ann Kruglak discusses her concept of "Intentional Dreaming", how it differs from dream control and dream incubation, and introduces her dreaming software CD, "Interactive Dreaming".'
 ---
 
 <img src="../images/post-bcpov9grditd-0.jpeg" width="300" height="auto" alt="Interactive Dreaming CD box"/>
@@ -55,7 +55,7 @@ metaDescription: 'Ann Kruglak discusses her concept of "Intentional Dreaming", h
 
 **DNJ:** How have you used this technique yourself?
 
-**ASK:** Until a year ago, I used it informally and intuitively from time to time. I hadn't really created a technique, but I'd often go to bed asking for clarity on some topic. Then one night a year ago, I went to bed asking my dreams to tell me how to be of service. Bam, I was awakened at 2:00a.m. with the clear instruction: "Create a multimedia software program to teach people about dreams and let them do dreamwork and journaling online. Get up. Do it now!" I pulled the covers over my head, but my mind kept on me until I got up and prototyped the project. By morning I had the basic design of [Interactive Dreaming](https://web.archive.org/web/20030125195431/http://www.dreamcd.com/), as I eventually called it. But the fascinating thing was that for the next year, I went to bed every night with a question or problem to solve .,, about developing the project. And I every single night had a dream or awoke with a knowing of the answer. They were all kinds of questions, from content, to what graphics to use, to how to package it, to· programming problems. I was amazed. I still am.
+**ASK:** Until a year ago, I used it informally and intuitively from time to time. I hadn't really created a technique, but I'd often go to bed asking for clarity on some topic. Then one night a year ago, I went to bed asking my dreams to tell me how to be of service. Bam, I was awakened at 2:00a.m. with the clear instruction: "Create a multimedia software program to teach people about dreams and let them do dreamwork and journaling online. Get up. Do it now!" I pulled the covers over my head, but my mind kept on me until I got up and prototyped the project. By morning I had the basic design of [Interactive Dreaming](https://web.archive.org/web/20030125195431/http://www.dreamcd.com/), as I eventually called it. But the fascinating thing was that for the next year, I went to bed every night with a question or problem to solve about developing the project. And I every single night had a dream or awoke with a knowing of the answer. They were all kinds of questions, from content, to what graphics to use, to how to package it, to programming problems. I was amazed. I still am.
 
 <img src="../images/post-bcpov9grditd-1.gif" width="400" height="auto" alt="Interactive Dreaming CD box"/>
 <!--nopreview--><div class="caption"><a href="https://web.archive.org/web/20030207040310/http://www.dreamcd.com/gtmenu.htm" target="_blank">Main menu</a> of Interactive Dreaming</div><!--/nopreview-->

@@ -17422,6 +17422,7 @@ ns1:bcpov9grditd a ns1:Post ;
     ns1:inIssue ns1:bcphbs4b6on ;
     ns1:itemId "bcpov9grditd"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
+    ns1:metaDescription "Ann Kruglak discusses her concept of \"Intentional Dreaming\", how it differs from dream control and dream incubation, and introduces her new dreaming software CD, \"Interactive Dreaming\"."^^xsd:string ;
     ns1:name "Do you INTEND to dream?"^^xsd:string ;
     ns1:profileImg "post-bcpov9grditd-0.jpeg"^^xsd:string ;
     ns1:urlSlug "do-you-intend-to-dream"^^xsd:string .

@@ -13,6 +13,8 @@ urlSlug: "outstanding-dream-websites"
 profileImg: post-bcpoz4zmiwow-1.gif
 ---
 
+_This list of websites was published in Volume 19, issue 4 of the Dream Network Journal, Shamanism & Dreams._
+
 <img src="../images/post-bcpoz4zmiwow-0.jpg" width="600px" height="auto" alt="Dream Temple software header"/>
 <!--nopreview--><div class="caption" style="text-align: center;">Dream Temple</div><!--/nopreview-->
 

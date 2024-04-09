@@ -18409,7 +18409,9 @@ ns1:bcpoz3zussdb a ns1:Post ;
 
 ns1:bcpoz4zmiwow a ns1:Post ;
     ns1:dateCreated "2000-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/post-bcpoz4zmiwow-0.jpg" width="600px" height="auto" alt="Dream Temple software header"/></p>
+    ns1:description """<p><em>This list of websites was published in Volume 19, issue 4 of the Dream Network Journal, Shamanism &amp; Dreams.</em></p>
+
+<p><img src="../images/post-bcpoz4zmiwow-0.jpg" width="600px" height="auto" alt="Dream Temple software header"/></p>
 
 <p><!--nopreview--><div class="caption" style="text-align: center;">Dream Temple</div><!--/nopreview--></p>
 
@@ -23543,14 +23545,14 @@ ns1:bcphbq3ossa a ns1:User ;
     ns1:profileImg "roberta_ossana.png"^^xsd:string .
 
 ns1:bcphbqawtay a ns1:User ;
-    ns1:coverImg "cover-author-jeremy-taylor-5.jpg"^^xsd:string ;
+    ns1:coverImg "cover-author-jeremytaylor.jpeg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
 
-<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President from 1994-1995. </p>
+<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President from 1994-1995.</p>
 
 <p>He is the author of <a href="https://www.amazon.com/Wisdom-Your-Dreams-Unconscious-Transform/dp/1585427543">The Wisdom of Your Dreams: Using Dreams to Tap Into Your Unconscious and Transform Your Life</a> (Penguin/Tarcher, 2009); <a href="https://www.amazon.com/gp/product/B005GJ7XGY">Living Labyrinth: Universal Themes in Myths, Dreams and Waking Life</a> (Paulist Press, Mahwah, NJ, 1998); <a href="https://www.amazon.com/gp/product/0446394629">Where People Fly and Water Runs Uphill: Using Dreams to Tap the Wisdom of the Unconscious</a> (Warner Books, New York, 1992); and <a href="https://www.amazon.com/gp/product/0809125250">DreamWork: Techniques for Discovering the Creative Power in Dreams</a> (Paulist Press, Mahwah NJ, 1983). He taught at schools of the Graduate Theological Union (Berkeley, CA) for over thirty years, and led workshops all over the US and Canada, as well as in Mexico, Peru, Greece, England, South Korea and China.</p>
 
-<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>. </p>
+<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>.</p>
 """^^xsd:string ;
     ns1:handle "jeremytaylor"^^xsd:string ;
     ns1:itemId "bcphbqawtay"^^xsd:string ;

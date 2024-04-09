@@ -18407,6 +18407,108 @@ ns1:bcpoz3zussdb a ns1:Post ;
     ns1:profileImg "post-bcpoz3zussdb-1.jpg"^^xsd:string ;
     ns1:urlSlug "us-soviet-dream-bridge"^^xsd:string .
 
+ns1:bcpoz4zmiwow a ns1:Post ;
+    ns1:dateCreated "2000-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpoz4zmiwow-0.jpg" width="600px" height="auto" alt="Dream Temple software header"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;">Dream Temple</div><!--/nopreview--></p>
+
+<h3>Dream Temple™ Journaling software</h3>
+
+<p>Add new dimensions to your dream life by adding the ability to search through hundreds of dreams instantly by key words, phrases and symbols. Built in dream symbols library by Wilda B. Tanner and others. To view full list of features, visit our website.</p>
+
+<p><a href="https://web.archive.org/web/20030213005554/https://www.dreamtemple.com/"><strong>http://www.DreamTemple.com</strong></a></p>
+
+<p><em>Akasha Software, LLD</em></p>
+
+<p><img src="../images/post-bcpoz4zmiwow-1.gif" width="600px" height="auto" alt="Dream Temple software screenshot"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;">The <a href="https://web.archive.org/web/20030210213956/http://dreamtemple.com/tour/one.htm">main menu</a> appears after you've been shown an inspirational quote. The greeting on this screen welcomes you and lets you know how many dreams are in your journal.</div><!--/nopreview--></p>
+
+<p><img src="../images/post-bcpoz4zmiwow-2.gif" width="600px" height="auto" alt="Dream Temple software screenshot"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;">The <a href="https://web.archive.org/web/20030210213956/http://dreamtemple.com/tour/two.htm">dream entry</a> screen includes fields where you may enter a variety of types of information about your dream. Notice the custom text formatting. Email and export buttons. The "?" button provides help for the current screen. Field banner includes feature to expand field to full screen view, spell checking button to the right.</div><!--/nopreview--></p>
+
+<p><img src="../images/post-bcpoz4zmiwow-3.gif" width="600px" height="auto" alt="Dream Temple software screenshot"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;">This screen allows you to note the <a href="https://web.archive.org/web/20030629144756/http://dreamtemple.com/tour/four.htm">Types of dreams</a>. Very helpful when you want to review certain aspects of your dream life over time, for instance incubated, lucid, spontaneous etc. Note the purple halos over text buttons indicating entries.</div><!--/nopreview--></p>
+
+<p><img src="../images/post-bcpoz4zmiwow-4.gif" width="600px" height="auto" alt="Dream Temple software screenshot"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;"><a href="https://web.archive.org/web/20030629144756/http://dreamtemple.com/tour/five.htm">List view</a> is where you can find and navigate within a group of dreams. Simply click on the title of the dream and you are transported to the dream text.</div><!--/nopreview--></p>
+
+<h4>About Dream Temple</h4>
+
+<p><em>This text was not available in the Dream Network Journal, but was available on the advertised <a href="https://web.archive.org/web/20030707071347/http://www.dreamtemple.com/index.html">Dream Temple Website (Web Archive)</a> at the time that the Dream Network endorsement was published</em></p>
+
+<p>Dreams are amazing. Most of you know this. Many of you have probably had life-changing insights, or made life-changing decisions based on a dream, or some form of guidance that came to you in a dream-like state. What better purpose for technology than to help you watch the mysteries of your Life unfold!</p>
+
+<p>How would I benefit from keeping my dream journal on my computer?</p>
+
+<p>For starters, imagine how nice it would be run the spell checker on you dream, format text, and attach images to your dream entry. What about those times when you're trying to remember a dream but all that comes to mind is that there was a frog in it. Wouldn't it be great to just type in a keyword or phrase and find your dreams instantly instead of flipping through pages. Now that you've found a group of dreams you can now keep notes on this group of dreams. Perhaps I want to print them out and bring copies for my dream group. Presto, they're printed.</p>
+
+<p>Now imagine that you don't have to imagine this anymore that the tool you need is right in front of you. You say to yourself "do I take the opportunity or do I wait for something else?" Before I make my decision perhaps I could get some idea of what this software might look like, so I take a tour of the Dream Temple. I finish the tour and the web site tells me that I can download a copy of the Dream Temple for free to try it out. The dream becomes a reality!</p>
+
+<p>To read what others have to say about the Dream Temple, click here.</p>
+
+<p>Features: Details about Features!</p>
+
+<ul>
+<li><p>Runs on <strong>Windows</strong> 95/98/NT/2000 or <strong>Macintosh</strong> computers</p></li>
+<li><p>Accommodates many different journaling techniques</p></li>
+<li><p><strong>Introduction to dreaming</strong> by noted dream author Wilda B. Tanner</p></li>
+<li><p>Dream symbol library by <a href="https://web.archive.org/web/20030621160813/http://www.dreamtemple.com/wilda_b_tanner/index.htm">Wilda B. Tanner</a></p></li>
+<li><p><strong>Interview</strong> your symbols to find their unique meaning</p></li>
+<li><p>Create an <strong>instant web page</strong> of selected dreams in your journal</p></li>
+<li><p>Import <strong>dream images</strong> you created in other graphics applications</p></li>
+<li><p>Dream <strong>Links</strong> allow you to keep note for a group of dreams</p></li>
+<li><p>Custom <strong>text formatting</strong> and <strong>spell checking</strong></p></li>
+<li><p>Colorful screens and <strong>user friendly</strong> interface</p></li>
+<li><p>Personal <strong>password</strong> for security that you can change</p></li>
+<li><p>Perform <strong>simple and complex searches</strong> on keywords and phrases</p></li>
+<li><p>Print, <strong>import, export, or e-mail</strong> dreams to share with friends!</p></li>
+<li><p><strong>Guarantee</strong>: All dreams you enter are transferable to other applications</p></li>
+<li><p><strong>Help system</strong> included with the journal</p></li>
+<li><p>Personal <strong>technical support</strong> through the Internet and mail list group</p></li>
+<li><p><strong>Inspirational quotes</strong> from philosophers, scientists, artists, mystics etc.</p></li>
+</ul>
+
+<p><img src="../images/post-bcpoz4zmiwow-5.jpg" width="600px" height="auto" alt="Dream Temple software screenshot"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align: center;">Dream Temple was made by <a href="https://web.archive.org/web/20030629144756/http://dreamtemple.com/tour/five.htm">Akasha Software</a></div><!--/nopreview--></p>
+
+<p><strong>More Details about Features!</strong></p>
+
+<p>We also offer a scaled down version of the Dream Temple called Dreamlette. Dreamlette has all the features needed for basic dream journaling minus the advanced features: Dream Links, Interviews, Image Gallery, Web publishing, and e-mail.</p>
+
+<p>As a software developer of many years I appreciate the personal commitment you make when you decide to use a piece of software. Therefore we've made every attempt to make sure that whatever you put in The Dream Temple you will be able to get out through import and export options. Read about professional standards.</p>
+
+<p><img src="../images/post-bcpoz4zmiwow-6.gif" width="600px" height="auto" alt="ONN logo"/></p>
+
+<h3>Online Noetic Network</h3>
+
+<p><a href="https://web.archive.org/web/20000520075317/http://www.wisdomtalk.org:80/">www.wisdomtalk.org</a></p>
+
+<p>Wisdom via Email. Join an online dialog about conscious living, science &amp; spirit, business &amp; integrity, environment &amp; ecology, healing &amp; wholeness, consciousness &amp; intuition, awareness &amp; experience.</p>
+
+<h3>Discover the Power of Your Dreams</h3>
+
+<p>Ever have a dream that haunts you? <a href="../@marleneking">Marlene King, M.A.</a>, has been a dreamologist for 20 years. She consults, educates and assists her clients and groups in their dreamwork journeys by opening them up to new insights and inspirations from their dreams. Get answers today to enrich your tomorrow. Visit her webpage at <a href="https://web.archive.org/web/20020207181734/http://dreamnetwork.net:80/directory.html">http://DreamNetwork.net/MKing.html (Link to Dreamworker Directory at the time of writing, Marlene's page does not seem to work)</a></p>
+
+<h3>One Hand Clapping</h3>
+
+<p>An allegorical fable with a stunning premise: the realization that nobody really knows reality gives us the power to change our own, thereby changing the world. A coming-of-age tale about a young person who isn't afraid to follow their dreams. Available through amazon.com @ <a href="https://www.amazon.com/exec/obidos/ASIN/1583483225/gid%30936034573/103-1857890-1267049">http://www.amazon.com/exec/obidos/ASIN/1583483225/gid%30936034573/103-1857890-1267049</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbumhc4e ;
+    ns1:hasTopic ns1:bcpovcredja ;
+    ns1:inIssue ns1:bcphbumhc4e ;
+    ns1:itemId "bcpoz4zmiwow"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Outstanding Dream Websites"^^xsd:string ;
+    ns1:profileImg "post-bcpoz4zmiwow-1.gif"^^xsd:string ;
+    ns1:urlSlug "outstanding-dream-websites"^^xsd:string .
+
 ns1:bcpoz4zmiwsk a ns1:Post ;
     ns1:dateCreated "2000-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/krippner-ossana-interview.jpg" width="400px" height="auto" alt="Stanley Krippner"/></p>
@@ -22861,20 +22963,6 @@ ns1:bcphbssmith a ns1:User ;
     ns1:name "Sandy Sela-Smith"^^xsd:string ;
     ns1:profileImg "author-sandy-sela-smith.jpg"^^xsd:string .
 
-ns1:bcphbumhc4e a ns1:Post ;
-    ns1:coverImg "19.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2000-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.4-Dream-Network-Vol-19-No-4.pdf" download="">Download issue 19.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.4-Dream-Network-Vol-19-No-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobmu4ep ;
-    ns1:itemId "bcphbumhc4e"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 19, issue 4: Shamanism & Dreams I"^^xsd:string ;
-    ns1:profileImg "19.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "19.4"^^xsd:string .
-
 ns1:bcphbv6y2vp a ns1:Post ;
     ns1:coverImg "23.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2004-04-01T11:32:52"^^xsd:dateTime ;
@@ -22971,6 +23059,20 @@ ns1:bcphbq3mcle a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dick McLeester"^^xsd:string ;
     ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
+
+ns1:bcphbumhc4e a ns1:Post ;
+    ns1:coverImg "19.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2000-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.4-Dream-Network-Vol-19-No-4.pdf" download="">Download issue 19.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.4-Dream-Network-Vol-19-No-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobmu4ep ;
+    ns1:itemId "bcphbumhc4e"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 19, issue 4: Shamanism & Dreams I"^^xsd:string ;
+    ns1:profileImg "19.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "19.4"^^xsd:string .
 
 ns1:bcphbvjopd2 a ns1:Post ;
     ns1:coverImg "22.2-cover.jpg"^^xsd:string ;
@@ -23189,15 +23291,6 @@ ns1:bcphbqflull a ns1:User ;
     ns1:name "Montague Ullman"^^xsd:string ;
     ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
 
-ns1:bcpovcredja a ns1:Theme ;
-    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
-    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomena. But check out these articles, and see that for as long as dreams, computers and the internet have coexisted (since the 60s), there's been a dream to digitize dreams.</p>
-"""^^xsd:string ;
-    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
-    ns1:itemId "bcpovcredja"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string .
-
 ns1:bcphbqfgreg a ns1:User ;
     ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>
 
@@ -23240,6 +23333,15 @@ ns1:bcphbyukqzw a ns1:Post ;
     ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
     ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.3"^^xsd:string .
+
+ns1:bcpovcredja a ns1:Theme ;
+    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
+    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomena. But check out these articles, and see that for as long as dreams, computers and the internet have coexisted (since the 60s), there's been a dream to digitize dreams.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
+    ns1:itemId "bcpovcredja"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string .
 
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;

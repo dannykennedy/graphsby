@@ -14190,6 +14190,7 @@ ns1:bcpov6zfgil1 a ns1:Post ;
     ns1:inIssue ns1:bcphbzdzrug ;
     ns1:itemId "bcpov6zfgil1"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
+    ns1:metaDescription "Curtiss Hoffman breaks down the frequency of musical elements in his dreams, using his own database program."^^xsd:string ;
     ns1:name "The Gilgamesh Cantata: A Personal Exploration of Dreams and Music"^^xsd:string ;
     ns1:profileImg "post-bcpov6zfgil1-0.jpg"^^xsd:string ;
     ns1:urlSlug "the-gilgamesh-cantata-a-personal-exploration-of-dreams-and-music-1"^^xsd:string .
@@ -23440,7 +23441,7 @@ ns1:bcphbqvstim a ns1:User ;
 
 ns1:bcpovcredja a ns1:Theme ;
     ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
-    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomena. But check out these articles, and see that for as long as dreams, computers and the internet have coexisted (since the 60s), there's been a dream to digitize dreams.</p>
+    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomenon. But check out these articles, and you'll see that for as long as dreams, computers and the internet have coexisted, there's been a dream to digitize the unconscious.</p>
 """^^xsd:string ;
     ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
     ns1:itemId "bcpovcredja"^^xsd:string ;

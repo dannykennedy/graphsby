@@ -12,6 +12,7 @@ tags:
 type: post
 urlSlug: the-gilgamesh-cantata-a-personal-exploration-of-dreams-and-music-1
 profileImg: post-bcpov6zfgil1-0.jpg
+metaDescription: Curtiss Hoffman breaks down the frequency of musical elements in his dreams, using his own database program.
 ---
 
 ![Hoffman at his computer](../images/post-bcpov6zfgil1-0.jpg)

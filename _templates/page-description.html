@@ -12,7 +12,7 @@
     </div>
 
     {% endif %}
-    <div id="page-description-area" class="card">
+    <div id="page-description-area" class="card {% if render_item.profileImg %}extra-padding{% endif %}">
         {% if render_item.profileImg %}
         <div id="profile-image-backing" class="{{'profile-image-backing-' + render_item.type}}">
             <img
@@ -23,7 +23,7 @@
             />
         </div>
         {% endif %}
-        <h1 id="item-heading">{{render_item.name}}</h1>
+        <h1 id="item-heading" class="{% if render_item.profileImg %}extra-padding{% endif %}">{{render_item.name}}</h1>
         <div id="page-description-text">{{render_item.description}}</div>
     </div>
 </div>

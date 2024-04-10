@@ -44,10 +44,14 @@
     text-align: center;
     font-family: "Passion", "Courier New", serif;
     font-size: 1.8rem;
-    margin-top: 5rem;
+    margin-top: 3rem;
     margin-bottom: 2.1rem;
     font-weight: 400;
     font-style: italic;
+}
+
+#item-heading.extra-padding {
+    margin-top: 5rem;
 }
 
 .page-items {
@@ -118,13 +122,17 @@
     font-family: "Lora", serif;
     background-color: white;
     padding: 15px 30px;
-    padding-top: 50px;
     margin-bottom: 15px;
     -webkit-box-sizing: border-box;
     /* Safari/Chrome, other WebKit */
     -moz-box-sizing: border-box;
     /* Firefox, other Gecko */
     box-sizing: border-box; /* Opera/IE 8+ */
+}
+
+#page-description-area.extra-padding {
+    padding: 15px 30px;
+    padding-top: 50px;
 }
 
 /* Gammin style for front page */

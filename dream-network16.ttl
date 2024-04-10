@@ -422,20 +422,6 @@ ns1:bcphbr4spo2 a ns1:Post ;
     ns1:profileImg "15.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "15.2-3"^^xsd:string .
 
-ns1:bcphbr7xrtd a ns1:Post ;
-    ns1:coverImg "15.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1996-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_15/15.4-Dream-Network-Vol-15-No-4.pdf" download="">Download issue 15.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_15/15.4-Dream-Network-Vol-15-No-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoa5us2e ;
-    ns1:itemId "bcphbr7xrtd"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 15, issue 4: Symbols: Language of the Soul"^^xsd:string ;
-    ns1:profileImg "15.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "15.4"^^xsd:string .
-
 ns1:bcphbshc2lb a ns1:Post ;
     ns1:coverImg "16.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1997-04-01T11:32:52"^^xsd:dateTime ;
@@ -661,6 +647,76 @@ ns1:bcphbyl3dut a ns1:Post ;
     ns1:name "Volume 29, issue 1: Healing"^^xsd:string ;
     ns1:profileImg "29.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.1"^^xsd:string .
+
+ns1:bcplz7zfbdac a ns1:Post ;
+    ns1:dateCreated "1993-10-04T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><em>The following exchange took place in the Dream Network Journal starting with the initial classified in Issue 12.4 (1993), and continuing with Daren Wilson's letter the editor (15.4, 1996), and a follow-up letter from Joy Gates (16.1, 1997)</em></p>
+
+<h3>Classified, Issue 12.4 (1993)</h3>
+
+<p><img src="../images/post-bcplz7zfbdac-1.jpg" width="400px" height="auto" alt="Classified"/></p>
+
+<p><!--nopreview--><div class="caption" style="text-align:center"><i>Tired of sorting through hundreds of journal pages or 3x5 cards? So am I! Professional computer programmer, interested in creating an easy-to-use but powerful computer program to keep track of dream titles, dates, topics, hypothesis, etc... would like your ideas for features, abilities, etc. For what type of computer? What software do you use? What would you like? Send ideas to: <b>Daren S. Wilson</b></i></div><!--/nopreview--></p>
+
+<p><br><br></p>
+
+<h3>Letter to the editor, Issue 15.4 (1996)</h3>
+
+<p><img src="../images/post-bcplz7zfbdac-2.jpg" width="350px" height="auto" alt="Article screenshot (text below)"/></p>
+
+<p><strong>'Dreams &amp; Computers' by Daren Wilson</strong></p>
+
+<p>I wrote some time ago with an idea to write an article about keeping dreams on a computer. You ran my research blurb, which I appreciate. A few people expressed interest, but I have made no progress with the project of creative software or with writing an article on how to use existing software. I have found that computers are inconvenient and get in the way. Maybe I'm a bit antitechnology but at this time, I really do prefer using 3x5 cards. They let me browse. I can scribble on them. I can grab them anytime.</p>
+
+<p>Computers involve trouble. As a computer professional, I see a lot of trouble. If you upgrade your word processor, your printer might stop working, or vice-versa. You put in a bigger hard disk, or a scanner and other parts stop working... Floppy disks can go bad, meaning a loss of dream reports or other valuable data. "Data" - somehow, I don't like referring to dreams as "data". It doesn't seem like "data" on my 3x5 cards. I get paid to take care of such things at work but I don't want to be messing with computer innards at home. It would take more effort than I care to spend to develop the software and make it reliable and easy to use.</p>
+
+<p>True, if I drop my stack of 3x5s, it'll take longer than 1/10 of a second for me to sort them... and searching for words takes forever... but with 3x5s, I get plenty of free entertainment along the way.</p>
+
+<p>Another side point: I rarely dream about computers. When I do, it's almost always about putting the pieces together and plugging cables in, or about seeing computers for sale in stores. I'm curious what dreams others have about computers and high technology. The dreams of others (such as I read in Dream Network) involve little technology, despite its great influence on everyday life. In dreams, we may hop in cars and go, or answer telephones... but the devices are often not central to the dream, they are just magical accessories to the story. Maybe I have few technology dreams because of an editorial selection effect. Maybe it's because technology itself lacks something. Earlier in this century, writers, artists, all kinds of thinkers feared that the machine would run us, that mass production would ruin society, that cold, heartless technology would bring troubles. The other side of that argument was that technology would bring us fantastic goods and automation would bring us all plenty of leisure time. Did they ever get that one wrong!</p>
+
+<p>With computers everywhere and complex powerful communications systems affecting everyday life for billions, in concrete reality, we've gone beyond anything those earlier thinkers could have imagined. What I wonder is: what are our dreams saying about all of this? Are computers still a symbol of automatic, mindless behavior? What do technological objects symbolize? How do they relate to the dreamer, etc.?</p>
+
+<p><em>Daren Wilson, Utica, MI</em></p>
+
+<p><br><br></p>
+
+<h3>Letter to the editor, 'Dreaming On-Line', Issue 16.1 (1996)</h3>
+
+<p>I write in response to Daren Wilson's letter (DNJ, Vol.15 No.4) in which he said, "I'm curious what dreams others have about computers and high technology", I wish to share these two recent dreams which are strongly computer related, although not to the material, technological object per se, but rather to the energy and force we can connect with via the computer. My first dream arrives after I have studied a book about how to utilize the amenities of a certain large on-line computer service and how to tweak the software configurations:</p>
+
+<blockquote>
+  <p><em>All night long I am an energy unit flowing, pulsing, moving through the cyberspace of a large on-line service. This is an alternate reality to being human - there is no "I", only living energy units moving with living energy units in a glorious rhythmic progression in a vast living being.</em></p>
+</blockquote>
+
+<p>From this dream I realize that, from one point of view, an on-line service is a symbol and metaphor for an evolutionary bridging toward telepathy. My experience that an overseeing organizing energy constellates a large on-line service - in a way more potent and powerful and dear than a local provider can - has presented a view of an on-line service as energy and force, beyond the aspect of commercialism or monopoly or any of that human judgment stuff. On a sheer energy level, this is a potent living energy being... a type of deva. This has been my experience in my dream life.</p>
+
+<p>In another dream a few weeks later...</p>
+
+<blockquote>
+  <p><em>I am a living energy unit moving among countless other such on an online service, this time in the Message Boards. As we all flow and pulsate (like blood cells) along swift currents and channels, we also intermingle and join in various changing combinations. As we do so, joyous energy is released which also becomes part of what we flow through. We are continually reconfiguring this energy as we are continually being changed by it. The ambiance is charged with vital meaning and joyous sharing.</em></p>
+</blockquote>
+
+<p>This is my response to starting a message board in (the on-line service). I love the feeling of touching on a "snapshot" of another's process in the various categories of the whole spectrum of the message boards. They provide sharing at a pace easy to accommodate and still give the feel of a living process.</p>
+
+<p>It is my experience that when we regard all substance and matter as being alive that we are able to access an alternate and deeper, more meaningful level in life (and technology) and in our dreams.</p>
+
+<p><em>Joy Gates, Ashville, N.C.</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3spdw ;
+    ns1:hasTag ns1:bcphbq3spdw,
+        ns1:bcphbqp3hfp,
+        ns1:bcphbr7xrtd,
+        ns1:bcphbsc3ttt ;
+    ns1:hasTopic ns1:bcpovcredja ;
+    ns1:inIssue ns1:bcphbqp3hfp,
+        ns1:bcphbr7xrtd,
+        ns1:bcphbsc3ttt ;
+    ns1:itemId "bcplz7zfbdac"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:metaDescription "An exchange which took place across DNJ issues about the possibility of replacing 3x5 index cards with a computer program for dream journaling, and the metaphoric significance of high technology in dreams."^^xsd:string ;
+    ns1:name "Dreams & Computers"^^xsd:string ;
+    ns1:profileImg "post-bcplz7zfbdac-1.jpg"^^xsd:string ;
+    ns1:urlSlug "dreams-and-computers"^^xsd:string .
 
 ns1:bcplz7zfbrsl a ns1:Post ;
     ns1:dateCreated "1993-10-04T11:32:52"^^xsd:dateTime ;
@@ -20479,6 +20535,20 @@ ns1:bcphbq3rjbg a ns1:User ;
     ns1:name "Jordi Borràs García"^^xsd:string ;
     ns1:profileImg "author_jordiborras.jpg"^^xsd:string .
 
+ns1:bcphbq3spdw a ns1:User ;
+    ns1:coverImg "cover-author-daren-wilson.jpg"^^xsd:string ;
+    ns1:description """<p>LinkedIn: <a href="https://www.linkedin.com/in/daren-scot-wilson/">linkedin.com/in/daren-scot-wilson</a></p>
+
+<p>Daren Scot Wilson is a Montana-based software engineer, focusing on software for graphics, imaging, physics and hardware.</p>
+
+<p>In the 1990s, while based in Michigan, he corresponded with the Dream Network Journal about the possibility of building software for dream journaling, and the symbolism of technology in dreams.</p>
+"""^^xsd:string ;
+    ns1:handle "darenwilson"^^xsd:string ;
+    ns1:itemId "bcphbq3spdw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Daren Wilson"^^xsd:string ;
+    ns1:profileImg "author-daren-wilson.jpg"^^xsd:string .
+
 ns1:bcphbqawohl a ns1:User ;
     ns1:coverImg "cover-author-jennifer-wohl.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.jenniferwohl.com/">www.jenniferwohl.com</a></p>
@@ -20830,6 +20900,20 @@ ns1:bcphbqyogh7 a ns1:Post ;
     ns1:profileImg "13.2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "13.2"^^xsd:string .
 
+ns1:bcphbr7xrtd a ns1:Post ;
+    ns1:coverImg "15.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1996-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_15/15.4-Dream-Network-Vol-15-No-4.pdf" download="">Download issue 15.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_15/15.4-Dream-Network-Vol-15-No-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoa5us2e ;
+    ns1:itemId "bcphbr7xrtd"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 15, issue 4: Symbols: Language of the Soul"^^xsd:string ;
+    ns1:profileImg "15.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "15.4"^^xsd:string .
+
 ns1:bcphbrfqwml a ns1:Post ;
     ns1:coverImg "14.1-2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1995-01-01T11:32:52"^^xsd:dateTime ;
@@ -20871,20 +20955,6 @@ ns1:bcphbrptpuy a ns1:Post ;
     ns1:name "Volume 14, issue 4: Dreaming Humanity's Path: Beyond the Veil"^^xsd:string ;
     ns1:profileImg "14.4-rect.jpg"^^xsd:string ;
     ns1:urlSlug "14.4"^^xsd:string .
-
-ns1:bcphbsc3ttt a ns1:Post ;
-    ns1:coverImg "16.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1997-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_16/16.1-Dream-Network-Vol-16-No-1.pdf" download="">Download issue 16.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_16/16.1-Dream-Network-Vol-16-No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobaotyu ;
-    ns1:itemId "bcphbsc3ttt"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 16, issue 1: Dancing the Dream Awake"^^xsd:string ;
-    ns1:profileImg "16.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "16.1"^^xsd:string .
 
 ns1:bcphbu3wddv a ns1:Post ;
     ns1:coverImg "21.1-cover.jpg"^^xsd:string ;
@@ -21496,20 +21566,6 @@ ns1:bcphbqhutch a ns1:User ;
     ns1:name "Lint Hutchinson"^^xsd:string ;
     ns1:profileImg "author-linton-hutchinson.jpg"^^xsd:string .
 
-ns1:bcphbqp3hfp a ns1:Post ;
-    ns1:coverImg "12.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1993-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf" download="">Download issue 12.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoauztyp ;
-    ns1:itemId "bcphbqp3hfp"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 12, issue 4: Water, Earth, Air & Fire in Dreams"^^xsd:string ;
-    ns1:profileImg "12.4-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "12.4"^^xsd:string .
-
 ns1:bcphbqvckd7 a ns1:Post ;
     ns1:coverImg "13.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1994-01-01T11:32:52"^^xsd:dateTime ;
@@ -21560,6 +21616,20 @@ ns1:bcphbrw63cp a ns1:Post ;
     ns1:name "Volume 15, issue 1: Dream-Inspired Communities"^^xsd:string ;
     ns1:profileImg "15.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "15.1"^^xsd:string .
+
+ns1:bcphbsc3ttt a ns1:Post ;
+    ns1:coverImg "16.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1997-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_16/16.1-Dream-Network-Vol-16-No-1.pdf" download="">Download issue 16.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_16/16.1-Dream-Network-Vol-16-No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobaotyu ;
+    ns1:itemId "bcphbsc3ttt"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 16, issue 1: Dancing the Dream Awake"^^xsd:string ;
+    ns1:profileImg "16.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "16.1"^^xsd:string .
 
 ns1:bcphbsvz3ik a ns1:Post ;
     ns1:coverImg "16.4-cover.jpg"^^xsd:string ;
@@ -22438,6 +22508,20 @@ ns1:bcphbqmotte a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Marie Otte"^^xsd:string ;
     ns1:profileImg "author-marieotte.jpg"^^xsd:string .
+
+ns1:bcphbqp3hfp a ns1:Post ;
+    ns1:coverImg "12.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1993-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf" download="">Download issue 12.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoauztyp ;
+    ns1:itemId "bcphbqp3hfp"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 12, issue 4: Water, Earth, Air & Fire in Dreams"^^xsd:string ;
+    ns1:profileImg "12.4-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "12.4"^^xsd:string .
 
 ns1:bcphbqvlach a ns1:User ;
     ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>
@@ -23336,15 +23420,6 @@ ns1:bcphbyukqzw a ns1:Post ;
     ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "29.3"^^xsd:string .
 
-ns1:bcpovcredja a ns1:Theme ;
-    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
-    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomena. But check out these articles, and see that for as long as dreams, computers and the internet have coexisted (since the 60s), there's been a dream to digitize dreams.</p>
-"""^^xsd:string ;
-    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
-    ns1:itemId "bcpovcredja"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string .
-
 ns1:bcphbqvstim a ns1:User ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
     ns1:description """<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
@@ -23362,6 +23437,15 @@ ns1:bcphbqvstim a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "William R. Stimson"^^xsd:string ;
     ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
+
+ns1:bcpovcredja a ns1:Theme ;
+    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
+    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomena. But check out these articles, and see that for as long as dreams, computers and the internet have coexisted (since the 60s), there's been a dream to digitize dreams.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
+    ns1:itemId "bcpovcredja"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string .
 
 ns1:bcphbq3bogz a ns1:User ;
     ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;

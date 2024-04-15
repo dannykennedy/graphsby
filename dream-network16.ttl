@@ -21241,7 +21241,7 @@ ns1:bcpqocs2uhp a ns1:Post ;
 ns1:Actor a owl:Class ;
     rdfs:subClassOf ns1:Item .
 
-ns1:Theme a owl:Class ;
+ns1:Topic a owl:Class ;
     rdfs:subClassOf ns1:Item .
 
 ns1:bcphb2eggje a ns1:Post ;
@@ -22111,7 +22111,7 @@ ns1:bcpov6pspec a ns1:Post ;
     ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
     ns1:urlSlug "special-publications"^^xsd:string .
 
-ns1:bcpovcsetdg a ns1:Theme ;
+ns1:bcpovcsetdg a ns1:Topic ;
     ns1:coverImg "cover-dreamsharing-groups.jpg"^^xsd:string ;
     ns1:description """<p>The Dream Network Journal published the following <em>ethical guidelines for dreamworkers and dreamsharing groups</em> in <a href="../bcphbqvckd7/13.1">Volume 13, Issue 1</a>, and different versions in subsequent issues.</p>
 
@@ -23217,7 +23217,7 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.1"^^xsd:string .
 
-ns1:bcpovcretld a ns1:Theme ;
+ns1:bcpovcretld a ns1:Topic ;
     ns1:coverImg "cover-lucid-dreaming.jpg"^^xsd:string ;
     ns1:description """<p>This page gathers together all the areticles about lucid dreaming that have appeared in the Dream Network Journal over the years.</p>
 """^^xsd:string ;
@@ -23439,7 +23439,7 @@ ns1:bcphbqvstim a ns1:User ;
     ns1:name "William R. Stimson"^^xsd:string ;
     ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
 
-ns1:bcpovcredja a ns1:Theme ;
+ns1:bcpovcredja a ns1:Topic ;
     ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
     ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomenon. But check out these articles, and you'll see that for as long as dreams, computers and the internet have coexisted, there's been a dream to digitize the unconscious.</p>
 """^^xsd:string ;
@@ -23527,7 +23527,7 @@ ns1:bcphbqvbulk a ns1:User ;
     ns1:name "Kelly Bulkeley"^^xsd:string ;
     ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
 
-ns1:bcpovcretdb a ns1:Theme ;
+ns1:bcpovcretdb a ns1:Topic ;
     ns1:coverImg "theme_books_cover.jpg"^^xsd:string ;
     ns1:description """<p>This page gathers together all the reviews and articles about books on dreams and dreaming that have appeared in the Dream Network Journal over the years.</p>
 """^^xsd:string ;

@@ -42,7 +42,7 @@ otherItemClass = dreamNS['OtherItem']
 placeClass = dreamNS['Place']
 postClass = dreamNS['Post']
 imageClass = dreamNS['Image']
-themeClass = dreamNS['Theme']
+topicClass = dreamNS['Topic']
 
 # Object properties
 hasTag = dreamNS['hasTag']
@@ -81,7 +81,7 @@ def createGraph():
 	(placeClass, rdfType, owlClass),
 	(postClass, rdfType, owlClass),
 	(imageClass, rdfType, owlClass),
-	(themeClass, rdfType, owlClass),
+	(topicClass, rdfType, owlClass),
 	]
 
 	classHierarchyTriples = [
@@ -94,7 +94,7 @@ def createGraph():
 	(personClass, rdfsSubClassOf, itemClass),
 	(placeClass, rdfsSubClassOf, itemClass),
 	(postClass, rdfsSubClassOf, itemClass),
-	(themeClass, rdfsSubClassOf, itemClass),
+	(topicClass, rdfsSubClassOf, itemClass),
 	(imageClass, rdfsSubClassOf, postClass),
 	]
 

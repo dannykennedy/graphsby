@@ -5,7 +5,7 @@ layout: page
 handle: topic~dream-apps-and-online-dreamsharing
 name: "Dream Journal Apps & Online Dreamsharing"
 tags:
-type: theme
+type: topic
 urlSlug: topic~dream-apps-and-online-dreamsharing
 coverImg: cover-theme-dream-apps-and-online-dreamsharing.jpg
 ---

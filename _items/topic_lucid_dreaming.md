@@ -5,7 +5,7 @@ layout: page
 handle: topic~lucid-dreaming
 name: "Articles about Lucid Dreaming"
 tags:
-type: theme
+type: topic
 urlSlug: topic~lucid-dreaming
 coverImg: cover-lucid-dreaming.jpg
 ---

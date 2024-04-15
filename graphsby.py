@@ -138,7 +138,7 @@ for pyyam in file_objects:
 		"page": pageClass,
 		"user": userClass,
 		"post": postClass,
-		"theme": themeClass,
+		"topic": topicClass,
 	}
 
 	# When you find an item, store it by its ID
@@ -154,7 +154,7 @@ for pyyam in file_objects:
 		instances.append((newItem, rdfType, classMap[itemType]))
 
 	# Add handle, if type is person or page
-	if itemType == "user" or itemType == "page" or itemType == "theme":
+	if itemType == "user" or itemType == "page" or itemType == "topic":
 		if "handle" in pyyam.keys():
 			instances.append((newItem, handle, Literal(pyyam['handle'], datatype=xsdString)))
 
@@ -259,6 +259,47 @@ graph.serialize(destination='dream-network16.ttl', format='turtle')
 print("Total pages processed:", end=" ")
 print(len(file_objects))
 
+#################
+# FIND ALL TOPICS
+#################
+
+print("Finding topics")
+query_string = """
+	PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+	SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid
+	WHERE {{
+	?item a dnj:Topic .
+	?item dnj:name ?name .
+	?item dnj:itemId ?itemId .
+	?item dnj:handle|dnj:urlSlug ?stringid .
+	OPTIONAL {{ ?item dnj:profileImg ?img }}
+	OPTIONAL {{ ?item dnj:description ?description }}
+	OPTIONAL {{ ?item dnj:dateCreated ?dateCreated }}
+	}}
+	ORDER BY ASC(?name)
+	"""
+
+q = graph.query(query_string)
+print("num_topics: ", end="")
+print(str(len(q)))
+all_topics = []
+for row in q:
+	# Query results
+	post_description = row[2]
+	item_id = row[3]
+	dateOfPost = row[4]
+	string_identifier = row[6]
+
+	# Truncate
+	truncated_desc = truncatePost(post_description, POST_SNIPPET_LENGTH, item_id).replace("...", "<span class='read-more'> ...read more</span>")
+
+	# Add to array
+	item_to_add = {"name": row[1], "description":truncated_desc, "itemId":row[3], "profileImg": row[5], "string_identifier": row[6]}
+
+	all_topics.append(item_to_add)
+# print("topics: ", end="")
+# print(str(all_topics))
+
 
 ##########################################
 # GET ALL ITEMS THAT HAVE TAGGED THAT PAGE
@@ -271,7 +312,7 @@ for pyyam in file_objects:
 
 	item_string_identifier = ""
 	item_type = pyyam["type"]
-	if item_type == "user" or item_type == "page" or item_type == "theme":
+	if item_type == "user" or item_type == "page" or item_type == "topic":
 		item_string_identifier = pyyam["handle"]
 	elif item_type == "post":
 		item_string_identifier = pyyam["urlSlug"]
@@ -334,6 +375,7 @@ for pyyam in file_objects:
 		"hasAuthor": [],
 		"hasTopic": [],
 	}
+
 	featured_items = []
 	for row in q:
 
@@ -349,11 +391,11 @@ for pyyam in file_objects:
 			item_to_page_relation = row[8].split("#")[1]
 			# Check if row[8] includes the string "featured"
 			# If so, add to featured items
-			if item_to_page_relation == 'hasTopic':
-				print('item_to_page_relation: ', end="")
-				print(item_to_page_relation)
-				print('name: ', end="")
-				print(row[1])
+			# if item_to_page_relation == 'hasTopic':
+			# 	print('item_to_page_relation: ', end="")
+			# 	print(item_to_page_relation)
+			# 	print('name: ', end="")
+			# 	print(row[1])
 
 		# Now find everything that this item is tagged with
 		# This is literally Inception
@@ -399,18 +441,20 @@ for pyyam in file_objects:
 			elif relation == "hasAuthor":
 				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "metaDescription": meta_description})
 
+		# Query results
+		post_description = row[2]
+		item_id = row[3]
 		dateOfPost = row[4]
+		string_identifier = row[6]
+		card_type = row[7]
+
 		date_string = ""
 		if dateOfPost:
 			date_string = formatDate(dateOfPost, "month")
 
-		post_description = row[2]
 		# Truncate
 		truncated_desc = truncatePost(post_description, POST_SNIPPET_LENGTH, item_id).replace("...", "<span class='read-more'> ...read more</span>")
 
-		card_type = row[7]
-		string_identifier = row[6]
-		item_id = row[3]
 		card_link = ""
 		card_type_literal = ""
 		if card_type == userClass:
@@ -606,11 +650,11 @@ for pyyam in file_objects:
 
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords)
+			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords)
 		else:
-			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords)
+			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords)
 	else:
-		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords)
+		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords)
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"
@@ -628,8 +672,8 @@ for pyyam in file_objects:
 			writepaths.append(folderpath + "/index.html")
 			writepaths.append(folderpath2 + "/index.html")
 			writepaths.append(folderpath3 + "/index.html")
-		# If type is a theme, make a folder at the handle (which should be called topic~name)
-		elif pyyam["type"] == "theme":
+		# If type is a topic, make a folder at the handle (which should be called topic~name)
+		elif pyyam["type"] == "topic":
 			folderpath = cwd + build_folder + "/" + pyyam["handle"]
 			writepaths.append(folderpath + "/index.html")
 		# If type is a post, make a folder at the id

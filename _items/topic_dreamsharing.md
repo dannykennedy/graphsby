@@ -5,7 +5,7 @@ layout: page
 handle: topic~dreamsharing-groups
 name: "Dreamsharing Groups"
 tags:
-type: theme
+type: topic
 urlSlug: topic~dreamsharing-groups
 coverImg: cover-dreamsharing-groups.jpg
 ---

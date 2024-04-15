@@ -5,7 +5,7 @@ layout: page
 handle: topic~dream-books
 name: "Books about Dreams and Dreaming"
 tags:
-type: theme
+type: topic
 urlSlug: topic~dream-books
 coverImg: theme_books_cover.jpg
 ---

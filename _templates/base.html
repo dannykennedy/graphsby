@@ -74,6 +74,7 @@
         <!-- SCRIPTS -->
         <script src="../scripts/minimasonry.min.js"></script>
         <script src="../scripts/toggle-type.js"></script>
+        <script src="../scripts/script.js"></script>
         <!-- FAVICON -->
         <link rel="icon" type="image/png" href="../images/favicon-196x196.png" sizes="196x196" />
         <link rel="icon" type="image/png" href="../images/favicon-96x96.png" sizes="96x96" />
@@ -102,6 +103,16 @@
                 </a>
             </div>
             <div id="navbar-links">
+                <!-- Dropdown for 'topics' -->
+                <div class="navbar-item dropdown">
+                    <span>Topics</span>
+                    <div class="dropdown-content hide">
+                        <!-- Loop over all_topics -->
+                        {% for topic in all_topics %}
+                        <a href="../{{topic.string_identifier}}">{{topic.name}}</a>
+                        {% endfor %}
+                    </div>
+                </div>
                 <div>
                     <a href="../@dreamnetwork~contributors" class="navbar-item">
                         <span>Authors</span>

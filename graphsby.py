@@ -639,6 +639,10 @@ for pyyam in file_objects:
 	custom_keywords = ""
 	if "canonicalUrl" in pyyam.keys():
 		canonical_url = pyyam["canonicalUrl"]
+	elif "type" in pyyam.keys() and pyyam["type"] == "topic":
+		canonical_url = site_url + pyyam["urlSlug"]
+		og_url = canonical_url
+		custom_keywords = pyyam["name"] + ", "
 	elif "handle" in pyyam.keys():
 		canonical_url = site_url + "@" + pyyam["handle"]
 		custom_keywords = pyyam["name"] + ", "
@@ -674,7 +678,7 @@ for pyyam in file_objects:
 			writepaths.append(folderpath3 + "/index.html")
 		# If type is a topic, make a folder at the handle (which should be called topic~name)
 		elif pyyam["type"] == "topic":
-			folderpath = cwd + build_folder + "/" + pyyam["handle"]
+			folderpath = cwd + build_folder + "/" + pyyam["urlSlug"]
 			writepaths.append(folderpath + "/index.html")
 		# If type is a post, make a folder at the id
 		elif pyyam["type"] == "post":

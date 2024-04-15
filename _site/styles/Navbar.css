@@ -47,7 +47,7 @@
 
 .dropdown-content a {
     color: black;
-    padding: 0.5rem;
+    padding: 0.5rem 0;
     text-decoration: none;
     display: block;
 }
@@ -103,9 +103,23 @@
     text-decoration: none;
 }
 
-a.navbar-item:hover {
+a.navbar-item:hover,
+.navbar-item > span:hover {
     color: black;
     text-decoration: underline;
+}
+
+a.mobile-topic {
+    font-size: 0.9rem;
+    margin-left: 1rem;
+    display: block;
+    text-decoration: none;
+    color: #444;
+}
+
+a.mobile-topic:hover {
+    text-decoration: underline;
+    color: black;
 }
 
 @media (max-width: 400px) {

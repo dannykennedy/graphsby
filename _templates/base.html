@@ -105,9 +105,8 @@
             <div id="navbar-links">
                 <!-- Dropdown for 'topics' -->
                 <div class="navbar-item dropdown">
-                    <span>Topics</span>
+                    <span class="dropdown-header">Topics</span>
                     <div class="dropdown-content hide">
-                        <!-- Loop over all_topics -->
                         {% for topic in all_topics %}
                         <a href="../{{topic.string_identifier}}">{{topic.name}}</a>
                         {% endfor %}
@@ -177,6 +176,13 @@
                     <a href="../@dreamnetwork~signup" class="navbar-item">
                         <span>Newsletter</span>
                     </a>
+                </div>
+                <div>
+                    <span class="navbar-item">Topics</span>
+                    <!-- Loop over all_topics -->
+                    {% for topic in all_topics %}
+                    <a href="../{{topic.string_identifier}}" class="mobile-topic">{{topic.name}}</a>
+                    {% endfor %}
                 </div>
             </div>
         </header>

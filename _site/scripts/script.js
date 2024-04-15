@@ -31,13 +31,11 @@
 // Toggle the dropdown content when the dropdown is clicked
 // Close the dropdown if the user clicks outside of it or on the dropdown button
 
-document.addEventListener("DOMContentLoaded", function () {
+function openDropdown() {
     let dropdowns = document.getElementsByClassName("dropdown");
     for (let i = 0; i < dropdowns.length; i++) {
         dropdowns[i].addEventListener("click", function () {
-            console.log("clicked in here 1: ", this);
             var dd = this.getElementsByClassName("dropdown-content")[0];
-            console.log("dd: ", dd);
             if (dd.classList.contains("show")) {
                 dd.classList.remove("show");
                 dd.classList.add("hide");
@@ -47,17 +45,23 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         });
     }
+}
 
-    // window.addEventListener("click", function (event) {
-    //     console.log("clicked in here 2: ", event.target);
-    //     if (!event.target.matches(".dropdown")) {
-    //         let dropdowns = document.getElementsByClassName("dropdown-content");
-    //         for (let i = 0; i < dropdowns.length; i++) {
-    //             if (dropdowns[i].classList.contains("show")) {
-    //                 dropdowns[i].classList.remove("show");
-    //                 dropdowns[i].classList.add("hide");
-    //             }
-    //         }
-    //     }
-    // });
+document.addEventListener("DOMContentLoaded", openDropdown);
+
+window.addEventListener("click", function (event) {
+    var clickedInsideDropdown =
+        event.target.classList.contains("dropdown") ||
+        event.target.classList.contains("dropdown-content") ||
+        event.target.classList.contains("dropdown-header");
+
+    if (!clickedInsideDropdown) {
+        let dropdowns = document.getElementsByClassName("dropdown-content");
+        for (let i = 0; i < dropdowns.length; i++) {
+            if (dropdowns[i].classList.contains("show")) {
+                dropdowns[i].classList.remove("show");
+                dropdowns[i].classList.add("hide");
+            }
+        }
+    }
 });

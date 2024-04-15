@@ -10963,7 +10963,9 @@ ns1:bcpov6trowi2 a ns1:Post ;
 
 ns1:bcpov6twhint a ns1:Post ;
     ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><strong>© 1989 by Rev. Jeremy Taylor</strong></p>
+    ns1:description """<p><img style="margin-top: 4rem;" src="../images/taylor-20hints-chapin.jpg" width="250" height="auto" alt="Touch Drawing by Deborah Koff-Chapin"/><!--nopreview--><div class="caption" style="max-width: 500px; margin: 1rem auto 4rem auto;">Touch Drawing by <a href="../@deborahkoffchapin" target="_blank">Deborah Koff-Chapin</a>, featured in <a href="../bcpov6tqqf6/the-art-of-dream-sharing">'The Art of Dream Sharing and Developing Dream Groups'</a></div><!--/nopreview--></p>
+
+<p><strong>© 1989 by Rev. Jeremy Taylor</strong></p>
 
 <ol>
 <li><p>Always remember that only the dreamer can know what a dream means. The “tingle” or “aha”, or “flash”, or “bell ringing” of the dreamer him/herself is the only reliable touchstone of dream work.</p></li>
@@ -10995,6 +10997,7 @@ ns1:bcpov6twhint a ns1:Post ;
     ns1:itemId "bcpov6twhint"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "20 Basic Hints for Dreamwork"^^xsd:string ;
+    ns1:profileImg "taylor-20hints-chapin.jpg"^^xsd:string ;
     ns1:urlSlug "twenty-basic-hints-for-dreamwork"^^xsd:string .
 
 ns1:bcpov6uality a ns1:Post ;

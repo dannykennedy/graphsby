@@ -11,7 +11,10 @@ tags:
     - hasTopic: topic~dreamsharing-groups
 type: post
 urlSlug: twenty-basic-hints-for-dreamwork
+profileImg: taylor-20hints-chapin.jpg
 ---
+
+<img style="margin-top: 4rem;" src="../images/taylor-20hints-chapin.jpg" width="250" height="auto" alt="Touch Drawing by Deborah Koff-Chapin"/><!--nopreview--><div class="caption" style="max-width: 500px; margin: 1rem auto 4rem auto;">Touch Drawing by <a href="../@deborahkoffchapin" target="_blank">Deborah Koff-Chapin</a>, featured in <a href="../bcpov6tqqf6/the-art-of-dream-sharing">'The Art of Dream Sharing and Developing Dream Groups'</a></div><!--/nopreview-->
 
 **© 1989 by Rev. Jeremy Taylor**
 

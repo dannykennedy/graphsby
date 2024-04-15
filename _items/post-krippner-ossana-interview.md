@@ -10,6 +10,7 @@ tags:
     - hasAuthor: robertaossana
     - hasTag: 19.4
     - inIssue: 19.4
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: "on-shamanism-an-interview-with-stanley-krippner"
 profileImg: krippner-ossana-interview.jpg

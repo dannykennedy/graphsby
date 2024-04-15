@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jeanneschul
     - hasTag: 25.3
     - inIssue: 25.3
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: "interview-with-barry-williams-part-II"
 ---

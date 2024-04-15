@@ -9,6 +9,7 @@ tags:
     - hasAuthor: jeanneschul
     - hasTag: 27.3
     - inIssue: 27.3
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: "dream-tending-and-storytelling"
 profileImg: post-bcpov6greaiz-1.jpg

@@ -10,6 +10,7 @@ tags:
     - hasAuthor: bambicorso
     - hasTag: 33.1
     - inIssue: 33.1
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: "tarotpy-an-interview-with-lauren-schneider"
 profileImg: corso-schneider.jpg

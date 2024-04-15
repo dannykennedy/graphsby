@@ -53,6 +53,7 @@ hasTopic = dreamNS['hasTopic']
 
 # Datatype properties
 name = dreamNS['name']
+shortName = dreamNS['shortName']
 description = dreamNS['description']
 itemId = dreamNS['itemId']
 handle = dreamNS['handle']
@@ -110,6 +111,11 @@ def createGraph():
 	(name, rdfType, owlDatatypeProperty),
 	(name, rdfsDomain, itemClass),
 	(name, rdfsRange, xsdString),
+
+	# short name (could be the username of a person, the slug of a post, etc)
+	(shortName, rdfType, owlDatatypeProperty),
+	(shortName, rdfsDomain, itemClass),
+	(shortName, rdfsRange, xsdString),
 
 	# handle (unique string, only for users and pages. Prefixed with "@" in URL)
 	(handle, rdfType, owlDatatypeProperty),

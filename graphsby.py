@@ -167,6 +167,9 @@ for pyyam in file_objects:
 
 	# Title
 	instances.append((newItem, name, Literal(pyyam['name'], datatype=xsdString)))
+	# Short name
+	if 'shortName' in pyyam.keys():
+		instances.append((newItem, shortName, Literal(pyyam['shortName'], datatype=xsdString)))
 	# Description
 	htmlstring = pyyam["description"]
 	instances.append((newItem, description, Literal(htmlstring, datatype=xsdString)))
@@ -266,7 +269,7 @@ print(len(file_objects))
 print("Finding topics")
 query_string = """
 	PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-	SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid
+	SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid ?shortName
 	WHERE {{
 	?item a dnj:Topic .
 	?item dnj:name ?name .
@@ -275,6 +278,7 @@ query_string = """
 	OPTIONAL {{ ?item dnj:profileImg ?img }}
 	OPTIONAL {{ ?item dnj:description ?description }}
 	OPTIONAL {{ ?item dnj:dateCreated ?dateCreated }}
+	OPTIONAL {{ ?item dnj:shortName ?shortName }}
 	}}
 	ORDER BY ASC(?name)
 	"""
@@ -289,12 +293,13 @@ for row in q:
 	item_id = row[3]
 	dateOfPost = row[4]
 	string_identifier = row[6]
+	short_name = row[7]
 
 	# Truncate
 	truncated_desc = truncatePost(post_description, POST_SNIPPET_LENGTH, item_id).replace("...", "<span class='read-more'> ...read more</span>")
 
 	# Add to array
-	item_to_add = {"name": row[1], "description":truncated_desc, "itemId":row[3], "profileImg": row[5], "string_identifier": row[6]}
+	item_to_add = {"name": row[1], "description":truncated_desc, "itemId":row[3], "profileImg": row[5], "string_identifier": row[6], "shortName": short_name}
 
 	all_topics.append(item_to_add)
 # print("topics: ", end="")

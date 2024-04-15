@@ -4,6 +4,7 @@ itemId: bcpovcsetdg
 layout: page
 handle: topic~dreamsharing-groups
 name: "Dreamsharing Groups"
+shortName: "Dreamsharing Groups"
 tags:
 type: topic
 urlSlug: topic~dreamsharing-groups

@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jillgregory
     - hasTag: 6.3
     - inIssue: 6.3
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: "bridging-the-continent-an-interview-with-shirlee-a-martin"
 profileImg: bridging-the-continent.jpg

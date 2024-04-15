@@ -107,9 +107,11 @@
                 <div class="navbar-item dropdown">
                     <span class="dropdown-header">Topics</span>
                     <div class="dropdown-content hide">
-                        {% for topic in all_topics %}
+                        {% for topic in all_topics %} {% if topic.shortName %}
+                        <a href="../{{topic.string_identifier}}">{{topic.shortName}}</a>
+                        {% else %}
                         <a href="../{{topic.string_identifier}}">{{topic.name}}</a>
-                        {% endfor %}
+                        {% endif %} {% endfor %}
                     </div>
                 </div>
                 <div>
@@ -180,9 +182,11 @@
                 <div>
                     <span class="navbar-item">Topics</span>
                     <!-- Loop over all_topics -->
-                    {% for topic in all_topics %}
+                    {% for topic in all_topics %} {% if topic.shortName %}
+                    <a href="../{{topic.string_identifier}}" class="mobile-topic">{{topic.shortName}}</a>
+                    {% else %}
                     <a href="../{{topic.string_identifier}}" class="mobile-topic">{{topic.name}}</a>
-                    {% endfor %}
+                    {% endif %} {% endfor %}
                 </div>
             </div>
         </header>

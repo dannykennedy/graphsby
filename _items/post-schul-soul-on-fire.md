@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jeanneschul
     - hasTag: 29.4
     - inIssue: 29.4
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: "soul-on-fire-dreams-as-a-vehicle-for-transformation"
 profileImg: post-bcpov6gresof-0.jpg

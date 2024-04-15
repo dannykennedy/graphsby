@@ -10,6 +10,7 @@ tags:
     - hasAuthor: joannapenn
     - hasTag: 32.1
     - inIssue: 32.1
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: "joanna-penn-interviewed-by-russell-lockhart"
 ---

@@ -10,6 +10,7 @@ tags:
     - hasAuthor: jillgregory
     - hasTag: 6.4
     - inIssue: 6.4
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: "viewing-the-interviewer-featuring-jill-gregory"
 profileImg: post-bcpov6gregi2-0.jpg

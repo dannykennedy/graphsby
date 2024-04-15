@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jeremytaylor
     - hasTag: 17.3
     - inIssue: 17.3
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: the-living-labyrinth-an-interview-with-jeremy-taylor
 profileImg: post-bcpov3zdtlli-0.jpg

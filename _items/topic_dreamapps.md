@@ -4,6 +4,7 @@ itemId: bcpovcredja
 layout: page
 handle: topic~dream-apps-and-online-dreamsharing
 name: "Dream Journal Apps & Online Dreamsharing"
+shortName: "Dream Apps & Websites"
 tags:
 type: topic
 urlSlug: topic~dream-apps-and-online-dreamsharing

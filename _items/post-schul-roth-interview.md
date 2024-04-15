@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jeanneschul
     - hasTag: 23.4-24.1
     - inIssue: 23.4-24.1
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: "gabrielle-roth-interview-dance-it-is-holy"
 profileImg: post-bcpov6grroth-0.jpg

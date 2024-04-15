@@ -10,6 +10,7 @@ tags:
     - hasTag: ericsnyder
     - hasTag: 21.4-22.1
     - inIssue: 21.4-22.1
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: tending-to-the-soul-of-the-world
 ---

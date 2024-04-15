@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jillgregory
     - hasTag: 7.5
     - inIssue: 7.5
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: "translator-of-dream-slanguage-an-interview-with-janice-baylis"
 profileImg: gregory-baylis-0.jpg

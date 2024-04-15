@@ -12,6 +12,7 @@ tags:
     - inIssue: 12.4
     - featuredIn: dreamnetwork
     - hasTopic: topic~dream-apps-and-online-dreamsharing
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: "embracing-the-future-in-our-dreams-emerging-forms-of-community"
 profileImg: post-bcpov6kfutur-0.jpg

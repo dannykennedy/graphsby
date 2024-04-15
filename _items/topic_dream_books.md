@@ -4,6 +4,7 @@ itemId: bcpovcretdb
 layout: page
 handle: topic~dream-books
 name: "Books about Dreams and Dreaming"
+shortName: "Dream Books"
 tags:
 type: topic
 urlSlug: topic~dream-books

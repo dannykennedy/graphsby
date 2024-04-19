@@ -953,7 +953,7 @@ ns1:bcpot5kidnbt a ns1:Post ;
 
 ns1:bcpov1rsjwpt a ns1:Post ;
     ns1:dateCreated "1988-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><a href="https://en.wikipedia.org/wiki/Paul_Tholey">Paul Tholey</a> is a German sports psychologist. At age 40 he was the national skateboarding champion. He also does trick skiing and unicycling, activities high on risk and balance. He claims to perfect his athletic ability in lucid dreams and he has trained an Olympic equestrian from South America using lucidity.</p>
+    ns1:description """<p><a href="https://en.wikipedia.org/wiki/Paul_Tholey">Paul Tholey</a> is a German sports psychologist. At age 40 he was the national skateboarding champion. He also does trick skiing and unicycling, activities high on risk and balance. He claims to perfect his athletic ability in <a href="../topic~lucid-dreaming">lucid dreams</a> and he has trained an Olympic equestrian from South America using lucidity.</p>
 
 <p>Tholey has been working with lucid dreams since 1969. With psychotherapist Norbert Sattler, Tholey has developed a program of psychotherapy within the lucid dream.</p>
 
@@ -3763,7 +3763,7 @@ ns1:bcpov6kalawa a ns1:Post ;
     ns1:dateCreated "2003-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6kalawa-0.jpg" width="300px" height="auto"/></p>
 
-<p>Waking up and becoming lucid inside of a dream is a second order change, where one literally snaps out of a hypnotic trance in which you were identified with being a separate, contracted self, or ego, cut off and disconnected from the rest of the dreamscape. You have an expansion of identity; in full-blown lucidity you realize your identity with not only the entire dream, as it is recognized to be just your own energy projected outwards, but also with the dreamer of the dream — what I call the deeper, dreaming Self — which is who you’ve now discovered yourself to be. The question I want to investigate is, how would you dream the dream onward if you became fully lucid?</p>
+<p>Waking up and becoming <a href="../topic~lucid-dreaming">lucid inside of a dream</a> is a second order change, where one literally snaps out of a hypnotic trance in which you were identified with being a separate, contracted self, or ego, cut off and disconnected from the rest of the dreamscape. You have an expansion of identity; in full-blown lucidity you realize your identity with not only the entire dream, as it is recognized to be just your own energy projected outwards, but also with the dreamer of the dream — what I call the deeper, dreaming Self — which is who you’ve now discovered yourself to be. The question I want to investigate is, how would you dream the dream onward if you became fully lucid?</p>
 
 <p>When I ask some people this question, they respond by saying they would dream of losing twenty pounds, or getting a million dollars, or something of that nature. I respond by saying that these are all dreams of the smaller self, which is the dream that they’ve now wakened out of by becoming lucid. I remind them that in becoming lucid, they’ve discovered their identity with the deeper, dreaming Self. So the question becomes, how do you imagine this deeper, dreaming Self wants to dream the dream?</p>
 
@@ -9236,7 +9236,7 @@ ns1:bcpov6rs24hr a ns1:Post ;
   <p><em>"Dreaming is the mystical source of reality. This book is devoted to perceiving, living and orienting you to the power of Dreaming. My goal is not to notice the Dreaming only occasionally, but to develop a constant awareness of Dreaming with the new method I call 24-Hour Lucid Dreaming."</em></p>
 </blockquote>
 
-<p>I have long known that Arnold Mindell has some unique and very important insights into dreams, having noticed his books on the Dreambody approach, synthesizing dreams with bodywork. As a graduate of MIT and the Jung Institute in Switzerland, Mindell founded a new school of therapy called Process Oriented Psychology. But this book is a true groundbreaker, a shamanic surprise, surpassing all expectations.</p>
+<p>I have long known that <a href="../@arnoldmindell">Arnold Mindell</a> has some unique and very important insights into dreams, having noticed his books on the Dreambody approach, synthesizing dreams with bodywork. As a graduate of MIT and the Jung Institute in Switzerland, Mindell founded a new school of therapy called Process Oriented Psychology. But this book is a true groundbreaker, a shamanic surprise, surpassing all expectations.</p>
 
 <p>This book is inspired by the concept of the Dreaming, as it is understood by Australian Aborigines. Mindell begins by examining Aboriginal Dreaming and its connections with quantum physics, psychology, and Buddhism. For the Aboriginal elders, the Dreaming is the basis of all life, and is clearly larger than what we think is going on in rapid eye movement sleep. Mindell does a great job of explaining this view to western readers, using the metaphor of the light and dark sides of the moon. While most of us go through life focused only on the bright side of the moon, we need to have an understanding of the dark side, the Dreaming reality, in order to have a wholistic grasp of deeper reality. Further, Mindell states,</p>
 
@@ -9246,7 +9246,7 @@ ns1:bcpov6rs24hr a ns1:Post ;
 
 <p>While the Aboriginal peoples have long noted this tendency we have to "ignore the Dreaming" in statements such as "White man got no Dreaming, him go 'nother way. White man, him go different." Mindell, on the other hand, shows in this book that we each can develop an awareness of the Dreaming. In fact, for many he would maintain it is essential for a full and complete life. "Without Dreaming, you are living only half your life and seeing only half the world." Much of this book discusses what is would mean to develop that awareness, with many specific exercises to enable the reader develop that ability.</p>
 
-<p>In the effort to expand our awareness of the Dreaming, Mindell also expands the meaning of "lucid dreaming." This expanded definition has many implications for anyone exploring dreams. He states, "Because you are Dreaming all day long, I wish to expand the idea of lucid dreaming to mean being awake during Dreaming not only at night but also during the day." He traces the history of the western concept of lucid dreaming through Rudolf Steiner, Alan Worsley, Stephen La Berge and Jane Gackenback, and shows how that understanding is too limited and fragmented for his purposes. He then shows how his work, along with insights from Australian Aborigines and Eastern perspectives, such as that of the Dalai Lama, point of a larger, deeper wholistic definition of lucid dreaming. Thus he urges the reader to develop an awareness he calls 24-hour Lucid Dreaming.</p>
+<p>In the effort to expand our awareness of the Dreaming, Mindell also expands the meaning of <a href="../topic~lucid-dreaming">"lucid dreaming"</a>. This expanded definition has many implications for anyone exploring dreams. He states, "Because you are Dreaming all day long, I wish to expand the idea of lucid dreaming to mean being awake during Dreaming not only at night but also during the day." He traces the history of the western concept of lucid dreaming through Rudolf Steiner, Alan Worsley, Stephen La Berge and <a href="../@jaynegackenbach">Jayne Gackenbach</a>, and shows how that understanding is too limited and fragmented for his purposes. He then shows how his work, along with insights from Australian Aborigines and Eastern perspectives, such as that of the Dalai Lama, point of a larger, deeper wholistic definition of lucid dreaming. Thus he urges the reader to develop an awareness he calls 24-hour Lucid Dreaming.</p>
 
 <p>Mindell draws in a neat little diagram where The Dreaming is the basis of life, the root of it all. Arising from that level, we come to Dreamland, the place where dreams occur. And then, arising from that, we come to consensus reality, the place where you and I live our everyday lives. He points out that most of the study of dreamwork focuses on the relation between what goes on in Dreamland and daily consensus reality. In this book, we focus our attention on lucidly noticing experiences occurring between Dreamtime and Dreamland. This is subtle work, often examining vague feelings and intuitions that can barely be verbalized. Mindell does a good job of not only verbalizing some of these usually vague and invisible parts of reality, but also showing how such work can have profound ramifications in our daily lives.</p>
 
@@ -12892,7 +12892,7 @@ ns1:bcpov6zfafld a ns1:Post ;
   <p><em>It's a typical morning at school between classes and I'm walking alongside the administration offices. Suddenly, my hands are right in front of my face! I'm awestruck as I realize "I'm dreaming." I look around me and then into my hands. My hands take up my entire field of vision. Suddenly I see and feel that every fingerprint ridge in my hands is like a canyon of extraordinary depth. I keep peering into the depths-totally amazed; part of me knows this is a dream and these are only my dream hands, and part of me senses that there is an incredible actual depth to each of these fingerprint ridges. I gaze into these canyons totally shocked. As I dream, these realizations generate an emotional power inside of me that seems to be rising from my stomach to my throat. The emotions are too intense and I awake.</em></p>
 </blockquote>
 
-<p>My first recognized lucid dream occurred in 1975 after reading Carlos Castaneda's book <em>Journey to Ixtlan</em>. In the book, Carlos' Indian sorcerer friend teaches him a technique for gaining conscious awareness of his dreams by first finding his hands in a dream; this prearranged cue of seeing his hands would prompt him into lucidity, and help stabilize his lucid awareness.</p>
+<p>My first recognized <a href="../topic~lucid-dreaming">lucid dream</a> occurred in 1975 after reading Carlos Castaneda's book <em>Journey to Ixtlan</em>. In the book, Carlos' Indian sorcerer friend teaches him a technique for gaining conscious awareness of his dreams by first finding his hands in a dream; this prearranged cue of seeing his hands would prompt him into lucidity, and help stabilize his lucid awareness.</p>
 
 <p>Similarly, each night before sleeping, I had stared at my hands, hoping to find them later in a dream. After three days, I had my first lucid dream.</p>
 
@@ -13132,7 +13132,7 @@ ns1:bcpov6zfawar a ns1:Post ;
 
 <p>It was then that I realized I had only one choice: to go <em>beyond</em> lucid dreaming; to let go of my own expectations, my thoughts and limiting conceptions, my self history and attachments—to let it all go and then experience the reality beyond thought and belief, the base reality, the source of what is.</p>
 
-<p>For years in lucid dreams, I had surrendered to the awareness behind the dreaming. Consciously aware in the dream state, I would shout out, “Show me something that I should see!” and then watch as I was deposited, conscious and aware, into a powerfully meaningful dream setting. Lucidly surrendering to the awareness behind the dreaming taught me to trust implicitly the larger nature of the dreaming self and its wisdom.</p>
+<p>For years in <a href="../topic~lucid-dreaming">lucid dreams</a>, I had surrendered to the awareness behind the dreaming. Consciously aware in the dream state, I would shout out, “Show me something that I should see!” and then watch as I was deposited, conscious and aware, into a powerfully meaningful dream setting. Lucidly surrendering to the awareness behind the dreaming taught me to trust implicitly the larger nature of the dreaming self and its wisdom.</p>
 
 <p>But now, I knew that to experience the reality behind all of this, meant letting go of all of this. To surrender to one’s inner self was one thing, but to surrender to the source of <em>maya</em> took surrendering to a completely new level.</p>
 
@@ -14218,7 +14218,7 @@ ns1:bcpov6zfgluc a ns1:Post ;
     ns1:dateCreated "1992-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/bcpov6zfgluc-0.jpg" style="width:400px; margin: auto"></p>
 
-<p>Letting go of control in lucid dreams has helped me to begin a beautiful friendship, guide a lover relationship through a healthy transformation and facilitate healing between my conscious and unconscious self.</p>
+<p>Letting go of control in <a href="../topic~lucid-dreaming">lucid dreams</a> has helped me to begin a beautiful friendship, guide a lover relationship through a healthy transformation and facilitate healing between my conscious and unconscious self.</p>
 
 <p>In the world of lucid dreaming, where one gains the power to have everything and do anything, letting go of control seems to be a contradiction. It can take years to master this power, so why would anyone want to give it up? I remember when I first started to lucid dream around ten years ago, I flew around wildly, indulging in all sorts of sensual pleasures, mostly having sex. I had absolutely no respect for my dream characters and no communication beyond, "Too bad, bud, after all, it's MY dream!" In fact, a fellow student in a lucid dreaming study group I was participating in at the time kidded me that my mug shot was up on a bulletin board in the Dream Post Office! Since sowing my W.I.L.D. oats (Willful Instruction of Lucid Dreaming), I have learned better communication with my dream characters and with my unconscious self. Being conscious 24 hours a day not only can be very draining and counterproductive but misleading since your unconscious really has the ultimate control, anyway. Then, on February 3, 1987, early in the morning, I had the following lucid dream which I consider to be a milestone in my Dream Journey:</p>
 
@@ -15487,7 +15487,7 @@ ns1:bcpov6zincep a ns1:Post ;
 
 <p><!--nopreview--><div class="caption" style="text-align: center;"><i>Inception</i>, 2010, directed by Christopher Nolan</div><!--/nopreview--></p>
 
-<p>I am certain many viewers walked out of Inception with great delight at the concept. Its creative expression is brilliant. However, as someone who has been teaching Extraordinary Dreams such as lucid dreaming, dreams within dreams, mutual dreaming, for a very long time, I left the movie with some questions.</p>
+<p>I am certain many viewers walked out of Inception with great delight at the concept. Its creative expression is brilliant. However, as someone who has been teaching Extraordinary Dreams such as <a href="../topic~lucid-dreaming">lucid dreaming</a>, dreams within dreams, mutual dreaming, for a very long time, I left the movie with some questions.</p>
 
 <p>Although the movie draws attention to extraordinary experiences in dreams, I wonder about the message this film is conveying. Of course the movie is Science Fiction, but beyond every novel or any science fiction, there is scientific and narrative truth. In a recent interview, Chris Nolan stated that he did not do much research into dreaming and that the script is based primarily on his own experiences. His personal experience has provided him with enough qualitative material to convey states of consciousness that some people access easily while others manage to attain only through effort, incubation or invocation.</p>
 
@@ -17507,7 +17507,7 @@ ns1:bcpov9grditd a ns1:Post ;
 
 ns1:bcpov9rsgdbt a ns1:Post ;
     ns1:dateCreated "1983-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>Undergraduate psychology students described 313 lucid dreams and their situational determinants over a 16-week period. In terms of techniques used to determine lucidity the dreamlike quality (48.2%) was reported most frequently followed by incongruent element (19.2%), and nightmare-initiated (15%) with other techniques constituting the remainder. When these three types of lucid dreams were compared in terms of situational constraints both the day before and the day after the dream and in terms of the content of these dreams, an interesting pattern of results emerged for the dreamlike-initiated lucids versus the nightmare initiated lucids. The day before the nightmare-initiated lucid subjects reported more tests and depressed feelings and fewer non-hostile feelings, feelings of attention and secure feelings than on days before lucid dreams which were initiated by the dreamlike quality of the dream.</p>
+    ns1:description """<p>Undergraduate psychology students described 313 <a href="../topic~lucid-dreaming">lucid dreams</a> and their situational determinants over a 16-week period. In terms of techniques used to determine lucidity the dreamlike quality (48.2%) was reported most frequently followed by incongruent element (19.2%), and nightmare-initiated (15%) with other techniques constituting the remainder. When these three types of lucid dreams were compared in terms of situational constraints both the day before and the day after the dream and in terms of the content of these dreams, an interesting pattern of results emerged for the dreamlike-initiated lucids versus the nightmare initiated lucids. The day before the nightmare-initiated lucid subjects reported more tests and depressed feelings and fewer non-hostile feelings, feelings of attention and secure feelings than on days before lucid dreams which were initiated by the dreamlike quality of the dream.</p>
 
 <p>Likewise, on the day after these two types lucid dreams, nightmare-initiated lucid dreams were followed by more anxiety, hostility, depression, insecurity, and lack of attention than dreamlike-initiated lucids. Not surprisingly, nightmare-initiated lucids were viewed as having fewer positive and more negative emotions than dreamlike-initiated lucids. Finally, nightmare-initiated lucids were reported as having less of a sense of dream control than the dreamlike lucids. Incongruent element initiated lucid dreams in some instances fell with dreamlike-initiated lucids. For instance, incongruent lucids were reported as having the same amount of positive emotions as nightmare-initiated lucids but significantly fewer negative emotions than nightmare-initiated lucids. In sum, dreamlike-initiated lucids represent the most experientially positive lucid dream experience. They are preceded by "good days" and result in the same.</p>
 
@@ -17537,7 +17537,7 @@ ns1:bcpov9rsgdbt a ns1:Post ;
 
 ns1:bcpov9rsjgsl a ns1:Post ;
     ns1:dateCreated "1988-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p>At a recent talk at the Dream House in San Francisco, dreamworkers Jayne Gackenbach and Stephen LaBerge presented their views and research on lucid dreaming.</p>
+    ns1:description """<p>At a recent talk at the Dream House in San Francisco, dreamworkers Jayne Gackenbach and Stephen LaBerge presented their views and research on <a href="../topic~lucid-dreaming">lucid dreaming</a>.</p>
 
 <h2>Jayne Gackenbach</h2>
 
@@ -18190,7 +18190,7 @@ ns1:bcpoz2mameta a ns1:Post ;
 
 <p>Over the years the Institute has made a particular study of what we have called <a href="http://www.celiagreen.com/documents/metachoric-experiences.pdf">'metachoric experiences'</a>, that is to say experiences in which the subject's environment is completely replaced by a hallucinatory one.</p>
 
-<p>The first type of metachoric experience that we studied was lucid dreams, or dreams in which the subject is aware that he is dreaming. The following is an example taken from my book on the subject <a href="https://www.goodreads.com/en/book/show/104135">(Lucid Dreams, 1968)</a></p>
+<p>The first type of metachoric experience that we studied was <a href="../topic~lucid-dreaming">lucid dreams</a>, or dreams in which the subject is aware that he is dreaming. The following is an example taken from my book on the subject <a href="https://www.goodreads.com/en/book/show/104135">(Lucid Dreams, 1968)</a></p>
 
 <blockquote>
   <p><em>Without any preliminary ordinary dream experience, I suddenly found myself on a fairly large boat travelling at a normal speed up what appeared to be the mouth of a river, just before it issues into the sea. There was some sort of pleasant scenery on either side, with trees and greenery, and straight in front, the water stretched to infinity. The deck was smooth and clean and warmed by the sun, and I felt the warm breeze on my sin. This startled me, because I knew that in a dream one does not feel actual physical sensations with the same intensity and subtlety as in real life, and I was sufficiently mistress of my own thought and movements to pinch my arm in order to assure myself that it was only a dream. I felt the flesh under my fingers and the slight pain in my arm, and this filled me with real alarm, because I knew that I ought not to be on that boat, in the daylight. I did not see my own body, but I was sufficiently lucid to imagine it, lying inert in my own bed here in Paris.</em> <strong>(Lucid Dreams, p. 15)</strong></p>
@@ -19859,7 +19859,7 @@ ns1:bcsoz6zinlmu a ns1:Post ;
 
 <p>I am sitting by a river in a dark forest carrying on a conversation with a person (man or woman) to whom I feel close but do not recognize. While we are conversing, the river starts to flow in the opposite direction. I am fascinated, looking at the movement, and start to walk by the riverside following the water. Soon the water turns into the solid form of moving gelatin and moves onto the land.</p>
 
-<p>While I am watching, I tell myself, "This is an odd phenomenon". As soon as I say this, I become aware that this is a dream. To lower the excitement of my lucidity, I decide to run through the forest while thinking about a wall. A wall appears in the distance as soon as I think about it. I climb up a hill to look through the wall. While I am climbing the hill, I remember the title of a painting that I did in 1984: "Lucidity and Meeting the Unknown." I am eager to experience the Great Mystery, the Divine. Can it be a person, a form or what?</p>
+<p>While I am watching, I tell myself, "This is an odd phenomenon". As soon as I say this, I become aware that this is a dream. To lower the excitement of my <a href="../topic~lucid-dreaming">lucidity</a>, I decide to run through the forest while thinking about a wall. A wall appears in the distance as soon as I think about it. I climb up a hill to look through the wall. While I am climbing the hill, I remember the title of a painting that I did in 1984: "Lucidity and Meeting the Unknown." I am eager to experience the Great Mystery, the Divine. Can it be a person, a form or what?</p>
 
 <p>I reach the top of the hill and look through the open section of the wall. I am surprised to find that there is nothing there except some particles of colorless light coming toward me. They pass straight through me. My body begins to feel an incredible sense of lightness. My hands tingle. A stream of strong energy begins to move from the top of my head down to my legs. I feel as if I cannot move. The experience is ineffable.</p>
 
@@ -23248,12 +23248,105 @@ ns1:bcphbycqos5 a ns1:Post ;
 
 ns1:bcpovcretld a ns1:Topic ;
     ns1:coverImg "cover-lucid-dreaming.jpg"^^xsd:string ;
-    ns1:description """<p>This page gathers together all the articles about lucid dreaming that have appeared in the Dream Network Journal over the years.</p>
+    ns1:description """<div class="caption">From 'Lucidity: Where Realities Merge, by <a href="../@jillgregory">Jill Gregory</a> in <a href="../bcphbnp3qol/7.4">DNJ 7.4</a> All dreams are Jill's unless stated otherwise.</div>
+
+<p>One of the most sought after and highly prized levels of awareness within the dream state is known as lucid dreaming. In this case the dreamer is aware of dreaming while dreaming, thereby able to enter consciously into the dream reality, opening up a whole new world of possibilities.</p>
+
+<p>My interest in lucid dreaming began 12 years ago when I read Ann Faraday's <em>Dream Power</em> which devoted a small section to the topic of lucid dreaming. The idea that I could feel awake and aware while asleep and dreaming revolutionized my attitude toward dreams and seemed to open my dream world to me in a new and powerful way. Within a couple of months I had my first lucid dream, a dream which introduced me to one application for lucidity, the ability to encounter nightmares from a more empowered position.</p>
+
+<p>In this article I would like to share with you some of the things I have learned about lucidity; for example, levels and types, applications, and ways to encourage and maintain the lucid dream state. I'll begin by describing levels of awareness in the dream preceding actual dream lucidity. These dreams can indicate a movement toward increasing levels of lucidity.</p>
+
+<h2>Degrees of lucidity</h2>
+
+<h3>Level 1: Hyperconscious dreams</h3>
+
+<p>The first of these levels I call the hyperconscious dream. This is a dream in which one thinks, reflects, reasons, recalls, carefully observes, questions or takes charge of the direction of the dream without ever questioning the state which one is experiencing.</p>
+
+<blockquote>
+  <p><em>I've been given charge of a special squirrel. According to my instructions I'm supposed to feed my friend Ellie to the squirrel. I don't have any problems with that in the beginning. But then I think that it would be a shame to kill my friend to feed the squirrel if the squirrel just took a few bites out of her. So I decide to feed another squirrel to the squirrel. I don't recall actually killing the other squirrel, but I think about it again and decide that the squirrel probably really wouldn't eat another squirrel either.</em> <a href="../@bobtrowbridge/">(Bob Trowbridge)</a></p>
+</blockquote>
+
+<h3>Level 2: Pre-lucid dreams</h3>
+
+<p>The next level is the pre-lucid dream in which the dreamer is aware that what he is experiencing is not waking reality. However, rather than considering the possibility that it may be a dream, the dreamer lights upon other explanations; some of the more common being that he has died and is in the next world, he's crazy, he's in another time dimension, he's on another planet, in outer space, he's been drugged or has a fever.</p>
+
+<blockquote>
+  <p><em>Looking down we discover a small blue plant. When I reach down to touch it I feel the plant before my hand comes into contact with the leaves. This is a magical land filled with marvels, beauty and wishes come true. The plant lights up blueberries on the bushes while the branches and leaves remain normal. I see a young shepherdess carrying grapes from the fields. I wonder where we are. Maybe I am dead and in heaven, I think, unable to understand this experience.</em></p>
+</blockquote>
+
+<h3>Level 3: Partial lucidity</h3>
+
+<p>When the dreamer advances to partial lucidity, he actually wonders whether or not he may be dreaming. Depending upon his conclusions he may lapse back into non-lucidity (taking the dream to be physical plane existence) or move ahead into lucidity, knowing that he is dreaming.</p>
+
+<blockquote>
+  <p><em>On a window ledge I see the lower half of a blue and yellow plastic Easter egg. Perched inside is a yellow and orange plastic Humpty Dumpty man. He grins at me. I touch him and realize he is alive. I wonder if this is a dream since something made of plastic cannot be alive.</em></p>
+</blockquote>
+
+<h3>Level 4: Minimal lucidity</h3>
+
+<p>Once we reach the level of the lucid dream we can differentiate the degrees of lucidity accordingly. For example, weak or minimal lucidity is easily lost. The dreamer is unaware of the implications of the fact that he is in the dream world. Or the dreamer is unskilled in applying lucidity or in responding to the dream.</p>
+
+<blockquote>
+  <p><em>I am with friends swimming, diving, splashing and playing together in a warm river in Florida. One friend and I skate on the water with our bare feet. I wonder how it is that the water can support us. I see the area beneath my feet and I see yellow soft mud and feel sucking sensations on the soles of my feet. I realize I am dreaming and it suddenly seems less real. I say to myself I am only dreaming and am disappointed. I wake up unintentionally.</em></p>
+</blockquote>
+
+<h3>Level 5: Strong lucidity</h3>
+
+<p>Well established or strong lucidity is a dream in which lucidity is maintained with minimal effort, the dreamer is aware of the implications and is skilled or practiced in the ways to respond to the dream world.</p>
+
+<blockquote>
+  <p><em>I am running and moving through the air a few feet off the ground for a short distance and then landing, still running. There is a crowd watching me to whom I explain that I can fly, since this is a dream. I soar high in the sky, touch clouds and return to earth. I experiment with several variations in styles of flying. For example, flying backwards while standing, and directing my flight by choosing the distance of my visual focus. I am having so much fun flying I don't care about the crowds at all. I rhythmically skate backwards through the air, increasing my speed until I am zinging along without a care in the world. This freedom and grace of movement feels nourishing to me. I recall that in my physical life I have felt constricted recently and this flying is providing me with a needed balance. I awaken ecstatic.</em></p>
+</blockquote>
+
+<h3>Level 6: Maximal lucidity</h3>
+
+<p>Maximal lucidity is a dream which involves full utilization of the lucid dream state for optimal health and well being in any important area of life.</p>
+
+<blockquote>
+  <p><em>A friend of my friend is trying to help the peasant revolutionaries in Chile. I think to myself the man is a fool to involve himself in a dangerous cause. I see that five Chilean soldiers have surrounded our house, carrying machine guns. I tell my friend that she is a fool to put herself in danger when shes pregnant and has a family who need her in order to help this man help the revolutionaries. Suddenly I realize I'm dreaming since I would not ordinarily critcize someone for helping a friend in need. I ponder my self protective stance and realize it is connected to my own fear of death, a fear which has grown stronger through my commitments to my family.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>I decide to let this dream continue to unfold to allow me the experience of dying. I'm ecstatic at the opportunity of experiencing my own death without fear. My friend and the others in the house are tortured and killed by the gunmen. The five gunmen surround me and stare at me as I lay sleeping on my blanket (now back on my deck at home where I'm actually sleeping). I am surprised to feel happy to see them, welcoming them like old friends. Silently they pick me up by my arms and legs carrying me to the right side of the deck. I ask myself what I feel and think. I am surprised to find that I am predominantly curious as to how they will kill me. I note that this event is a major life event. I experience myself as localized within this dream body and yet somehow detached. As they torture and kill me I realize that fearless death is based on detachment. I need to cultivate detachment in my life.</em></p>
+</blockquote>
+
+<p>I wake up to record this special dream.</p>
+
+<h2>Different ways to experience lucidity</h2>
+
+<p>Within lucidity itself, not only are there degrees of lucidity but there are a number of different ways that we can experience being lucid. The two most commonly written about are the out-of-body experience (O.B.E.) and false waking states.</p>
+
+<h3>State 1: Out-of-body experiences</h3>
+
+<p>Since we don't really know where consciousness is located during dreaming, it's possible that all dreaming is O.B.E. However, as I am using it here I am referring only to those dreams in which we are aware of leaving our bodies and being for at least a brief period of time out of our bodies before returning to them. Much of the parapsychological literature describes these experiences. In my experience I have found that people tend to have mostly out-of-body experiences or mostly typical lucid dreams, sometimes using one experience to launch the other.</p>
+
+<blockquote>
+  <p><em>I am dreaming and suddenly become lucid. "Oh good," I think. "Now I can experiment with leaving my body like Oliver Fox." I whirl myself with a mighty whoosh up and then out through the top of my head. I float up to the ceiling corner thinking, "Wow, that felt great!" I put my hand through the wall. It seems that my arm, the wall and my hand dissolve into millions of particles. A strange sensation! I am bouncing against the ceiling feeling and looking like a round balloon. I look through the wall and see a beautiful English countryside with wild flowers and a stone fence. I want to pass through the wall but I feel fearful of the sensation. I decide to return to my body on the bed. I float back to my body and merge with it. I wake up feeling happy and proud of my accomplishment.</em></p>
+</blockquote>
+
+<h3>State 2: The false waking state</h3>
+
+<p>The false waking state involves the belief that one has either awakened or has stayed awake. If you subsequently discover that you are, in fact, asleep and dreaming, at that moment you become lucid.</p>
+
+<blockquote>
+  <p><em>I am resting on our bed at 7:55a.m. waiting for my husband to bring me breakfast. It seems to be taking a long time so I go to the kitchen. I find him vacuuming the living room carpet using only the hose and head and no cannister. I wonder why he's vacuuming at such an early hour. Then I see baby spit-up, food and bananas smeared on the carpet. "No wonder!" I think. "This floor has to be cleaned as soon as possible. He couldn't wait 'til he had finished making breakfast." I decide to help him by using the cannister and a second hose. I direct the suction toward melted chocolate bars on the carpet. All of the chocolate immediately enters the vacuum. How could this happen? It should require a brush, rags and soapy water. Then I realize I must be dreaming. Yes, that would explain the vacuum working without the cannister and our carpet being such a mess. I drop the vacuum, walk into the kitchen, deciding I need a cup of coffee to really wake up.</em></p>
+</blockquote>
+
+<p>At that moment my husband awakens me in bed, handing me a plate of applesauce pancakes and a glass of milk. I feel disoriented. It is now 8:06 a.m., 11 minutes later.</p>
+
+<h3>State 3: The hypnogogic state</h3>
+
+<p>The hypnogogic state is a highly hallucinatory state that occurs when we first fall asleep. These experiences may or may not be remembered. They may or may not be lucid. They are brief, highly condensed, seemingly random visual or auditory experiences. The hypnogogic lucid dream is one in which a hypnogogic image is expanded to unfold into a full dream experience. Awareness is maintained from the hypnogogic state into the dream.</p>
+
+<blockquote>
+  <p><em>Holding the intent to "go to the mountains" throughout the hypnogogic state, I picture a wavy line against a grey-blue background. This could be the silhouette of mountain tops. When I sense that I'm suspended above a mountain, I stick my foot out into the dream to tap it on the sharp edge of the pinnacle. Then I let go with a feeling of sheer exhilaration. Swooping down I fly, then up, and level off at the horizon. Ahead of me is a bright, setting sun, its rays visible because of the juxtaposition against a huge dark mountain. "How wonderful" I exclaim about the feeling and this Yin/Yang view.</em> <a href="../@caseyflyer">(Linda Magallón)</a></p>
+</blockquote>
 """^^xsd:string ;
     ns1:handle "topic~lucid-dreaming"^^xsd:string ;
     ns1:itemId "bcpovcretld"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Articles about Lucid Dreaming"^^xsd:string ;
+    ns1:metaDescription "In lucid dreaming, the dreamer is aware of dreaming while dreaming, thereby able to enter consciously into the dream reality, opening up a whole new world of possibilities."^^xsd:string ;
+    ns1:name "Lucid Dreaming"^^xsd:string ;
     ns1:shortName "Lucid Dreaming"^^xsd:string .
 
 ns1:bcpqn7zvpei a ns1:Post ;

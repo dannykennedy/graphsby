@@ -5,9 +5,14 @@ itemId: bcphbq3mcle
 handle: dickmcleester
 name: "Dick McLeester"
 tags:
-date: 2015-03-24
+date: 2024-04-21
 profileImg: author-dickmcleester.jpg
 coverImg: cover-author-dickmcleester.jpg
+websites:
+    - name: changingworld.com
+      url: https://changingworld.com
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/dick-mcleester-92297910/
 ---
 
 Website: [changingworld.com](https://changingworld.com)

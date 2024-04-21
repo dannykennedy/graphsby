@@ -6,9 +6,12 @@ handle: montagueullman
 name: "Montague Ullman"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2024-04-21
 profileImg: author-montagueullman.jpg
 coverImg: cover-author-montagueullman.jpeg
+websites:
+    - name: siivola.org/monte
+      url: https://siivola.org/monte/
 ---
 
 Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: [siivola.org/monte](https://siivola.org/monte/)

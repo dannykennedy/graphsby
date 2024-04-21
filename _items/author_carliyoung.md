@@ -9,6 +9,9 @@ tags:
 date: 2023-02-05
 profileImg: author-carli-young.jpg
 coverImg: cover-carli-young.jpg
+websites:
+    - name: archive of self
+      url: https://www.archiveofself.com/
 ---
 
 Website: [archiveofself.com](https://www.archiveofself.com/)

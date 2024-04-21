@@ -6,7 +6,7 @@ handle: jenniferwohl
 name: "Jennifer Wohl"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2024-04-21
 profileImg: author-jennifer-wohl.jpg
 coverImg: cover-author-jennifer-wohl.jpg
 ---

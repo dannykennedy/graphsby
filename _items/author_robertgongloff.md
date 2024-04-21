@@ -6,7 +6,7 @@ handle: robertgongloff
 name: "Robert P. Gongloff"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2024-04-21
 profileImg: author-robert-gongloff.jpg
 ---
 
@@ -18,4 +18,4 @@ Robert has a Master of Arts degree in guidance and counseling from Wayne State U
 
 As early as 1970, He was organizing and leading dream discussion groups. His first was when he was serving with the United States Air Force in Turkey. Since then, he has conducted workshops on dreams in the Metropolitan D.C. area and in North Carolina. He designed a four-part mini course on dreams, which was well received in Asheville, NC. It was in these courses and workshops that he fully realized the importance of themes in the dream work process and the need for formal guidelines on the subject. He has found that themes are the most misunderstood aspect of dream work.
 
-He is the author of [Dream Exploration: A New Approach](https://www.amazon.com/Dream-Exploration-Approach-Robert-Gongloff/dp/0738708186), which helps dreamers identify the core "theme" - the "heart" - of the dream; and is co-editor of the [IASD book, Dreams that Change Our Lives](https://www.amazon.com/Dreams-That-Change-Our-Lives/dp/1630514292), and the second volume of [Dreams: Understanding Biology, Psychology, and Culture](https://www.amazon.com.au/Dreams-Understanding-Biology-Psychology-Culture/dp/1440856168). He lives in Málaga, Spain. 
+He is the author of [Dream Exploration: A New Approach](https://www.amazon.com/Dream-Exploration-Approach-Robert-Gongloff/dp/0738708186), which helps dreamers identify the core "theme" - the "heart" - of the dream; and is co-editor of the [IASD book, Dreams that Change Our Lives](https://www.amazon.com/Dreams-That-Change-Our-Lives/dp/1630514292), and the second volume of [Dreams: Understanding Biology, Psychology, and Culture](https://www.amazon.com.au/Dreams-Understanding-Biology-Psychology-Culture/dp/1440856168). He lives in Málaga, Spain.

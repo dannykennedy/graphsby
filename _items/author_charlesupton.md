@@ -6,9 +6,12 @@ handle: charlesupton
 name: "Charles Upton"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2024-04-21
 profileImg: author-charles-upton-3.jpg
 coverImg: cover-author-charles-upton.jpg
+websites:
+    - name: charles-upton.com
+      url: https://charles-upton.com/
 ---
 
 Website: [charles-upton.com](https://charles-upton.com/)

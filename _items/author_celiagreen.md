@@ -6,9 +6,12 @@ handle: celiagreen
 name: "Celia Green"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2024-04-21
 profileImg: author-celiagreen.jpg
 coverImg: cover-author-celiagreen.jpg
+websites:
+    - name: celiagreen.com
+      url: https://www.celiagreen.com/
 ---
 
 Website: [celiagreen.com](https://www.celiagreen.com/)

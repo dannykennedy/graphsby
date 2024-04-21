@@ -6,7 +6,7 @@ handle: joannapenn
 name: "Joanna Penn"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2024-04-21
 profileImg: author-joanna-penn.jpg
 coverImg: cover-author-joanna-penn.jpg
 ---

@@ -6,7 +6,7 @@ handle: johnherbert
 name: "John W. Herbert, Ph.D."
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2024-04-21
 profileImg: author-john-herbert.jpg
 coverImg: borah_peak.jpg
 ---

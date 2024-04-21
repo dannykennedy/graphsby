@@ -8,7 +8,7 @@ shortDescription: ""
 metaDescription: "Stanley Krippner is a psychologist and parapsychologist, and author of the well-known book 'Personal Mythology'. This page gathers all his articles for the Dream Network Journal."
 metaKeywords: "Stanley Krippner, Krippner, Dr. Krippner, Dream Network"
 tags:
-date: 2015-03-24
+date: 2024-04-21
 profileImg: author-stanley-krippner.jpg
 coverImg: cover-author-stanley-krippner.jpg
 ogImg: ogimage-author-stanley-krippner.jpg
@@ -17,6 +17,8 @@ websites:
       url: https://stanleykrippner.weebly.com
     - name: Facebook
       url: https://www.facebook.com/stanley.krippner.9
+    - name: Wikipedia
+      url: https://en.wikipedia.org/wiki/Stanley_Krippner
 ---
 
 Website: [stanleykrippner.weebly.com](https://stanleykrippner.weebly.com)

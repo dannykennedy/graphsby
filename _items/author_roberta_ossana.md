@@ -6,7 +6,7 @@ handle: robertaossana
 name: "Roberta Ossana"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2024-04-21
 profileImg: roberta_ossana.png
 ---
 
@@ -18,7 +18,7 @@ Many other dreams followed, compelling enough that I started journaling regularl
 
 This dream occurred during summer 1975 and in it,
 
-*I find myself in a community center (which in waking life housed the office in which I was working). In every room of this building are people participating in an amazing variety of artistic activities: dancers, singers, musicians, artists...*
+_I find myself in a community center (which in waking life housed the office in which I was working). In every room of this building are people participating in an amazing variety of artistic activities: dancers, singers, musicians, artists..._
 
 The energy in the dream and afterward was exhilarating!
 
@@ -29,11 +29,9 @@ The program was scheduled, very well attended... and I found myself presiding ov
 By the way, the photo (above) was taken during that event:
 A Dream Come True! Can you tell?
 
+_"To live mythically is to seek guidance from your dreams, imagination, and other reflections of your inner being, as well as from the most inspiring people, practices, and institutions of your society._
 
-*"To live mythically is to seek guidance from your dreams, imagination, and other reflections of your inner being, as well as from the most inspiring people, practices, and institutions of your society.*
-
-*To live mythically is also to cultivate an ever-deepening relationship with the universe and its great mysteries."*
+_To live mythically is also to cultivate an ever-deepening relationship with the universe and its great mysteries."_
 
 [David Feinstein](../@davidfeinstein) & [Stanley Krippner](../@stanleykrippner), Personal Mythology
 (Jeremy Tarcher, LA CA 1988 ) p. 1
-

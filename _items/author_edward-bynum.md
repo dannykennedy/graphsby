@@ -8,6 +8,7 @@ shortDescription: ""
 tags:
 date: 2024-04-21
 profileImg: author-edward-bynum.jpg
+coverImg: cover-author-edward-bynum.jpg
 websites:
     - name: obeliskfoundation.com
       url: https://web.archive.org/web/20220123134219/https://obeliskfoundation.com/

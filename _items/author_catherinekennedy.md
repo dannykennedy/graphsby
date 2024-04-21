@@ -10,8 +10,10 @@ date: 2024-04-21
 profileImg: author-catherinekennedy.jpg
 coverImg: cover-author-catherinekennedy.jpeg
 websites:
-    name: catherinekennedy.com.au
-    url: https://catherinekennedy.com.au/
+    - name: catherinekennedy.com.au
+      url: https://catherinekennedy.com.au/
+    - name: Instagram
+      url: https://www.instagram.com/catherinekennedyartist/
 ---
 
 Website: <a href="https://catherinekennedy.com.au/" target="_blank">catherinekennedy.com.au</a>

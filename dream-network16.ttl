@@ -20147,7 +20147,7 @@ ns1:bcphbq3rdje a ns1:User ;
     ns1:coverImg "cover-author-debbiejoffeellis.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.debbiejoffeellis.com/" target="_blank">www.debbiejoffeellis.com</a></p>
 
-<p>Dr Debbie Joffe Ellis was born and raised in Melbourne, Australia. New York City has been her home base for the past two decades. She is a licensed psychologist (Australia), licensed mental health counselor (New York), presenter, writer and adjunct professor at Columbia University in New York City where she teaches Rational Emotive Behavior Therapy and Comparative Psychotherapies. For years she worked with her husband, the brilliant and renowned pioneer of modern cognitive therapies: Dr Albert Ellis, giving public presentations and professional trainings in his approach of Rational Emotive Behavior Therapy (REBT), as well as collaborating with him on writing and research projects until his death in 2007. Before his passing he stated and wrote that he entrusted her to continue his work. </p>
+<p>Dr Debbie Joffe Ellis was born and raised in Melbourne, Australia. New York City has been her home base for the past two decades. She is a licensed psychologist (Australia), licensed mental health counselor (New York), presenter, writer and adjunct professor at Columbia University in New York City where she teaches Rational Emotive Behavior Therapy and Comparative Psychotherapies. For years she worked with her husband, the brilliant and renowned pioneer of modern cognitive therapies: Dr Albert Ellis, giving public presentations and professional trainings in his approach of Rational Emotive Behavior Therapy (REBT), as well as collaborating with him on writing and research projects until his death in 2007. Before his passing he stated and wrote that he entrusted her to continue his work.</p>
 
 <p>She is recognized as a world-renowned expert on REBT, and regularly presents, throughout the USA and in countries around the world, to students, academics, practitioners in the helping professions, and to members of the general public. She wrote the second edition of the book Rational Emotive Behavior Therapy (published 2019) that she co-wrote with her husband in its first edition. She is also featured in a DVD produced by the American Psychological Association (APA) demonstrating and discussing the REBT approach. She has written chapters for various text books, articles, and has reviewed publications for APA’s PsycCritiques Journal. In 2014 she was named “Legend in Counseling” at the American Counseling Association annual conference, and has received various other awards and acknowledgments for her work. She joyfully and passionately continues her mission of informing as many people as possible - through her presentations, teaching, writing, and the ways she strives to ‘walk her talk’ - that each one of us has the power to create our emotional destinies despite and including challenging circumstances, and through teaching the ‘how-to’s’ of doing so!</p>
 """^^xsd:string ;
@@ -20161,13 +20161,17 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:coverImg "cover-author_linda_riebel.jpg"^^xsd:string ;
     ns1:description """<p>Linda Riebel, PhD, conducted a psychotherapy practice in San Francisco and Berkeley for twenty-five years, specializing in eating disorders, anxiety, and depression. She is now retired after 27 years on the faculty of Saybrook University.</p>
 
-<p>She is the author of six books and many professional journal articles, and is a contributor to the third edition of the <em>Encyclopedia of Creativity</em> (2020). </p>
+<p>She is the author of six books and many professional journal articles, and is a contributor to the third edition of the <em>Encyclopedia of Creativity</em> (2020).</p>
 """^^xsd:string ;
     ns1:handle "lindariebel"^^xsd:string ;
     ns1:itemId "bcphbqerilr"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Linda Riebel"^^xsd:string ;
     ns1:profileImg "author_linda_riebel.jpg"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#http://bambicorso.com/about-me/> a ns1:Website ;
+    ns1:name "www.BambiCorso.com"^^xsd:string ;
+    ns1:url "http://bambicorso.com/about-me/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#http://notesfromadreamer.com/bobbie-ann-pimm/> a ns1:Website ;
     ns1:name "notesfromadreamer.com"^^xsd:string ;
@@ -20205,17 +20209,53 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "arthurstrock.com"^^xsd:string ;
     ns1:url "https://arthurstrock.com/"^^xsd:string .
 
-<https://www.dannykennedy.co/dnj-ontology#https://bambicorso.com/> a ns1:Website ;
-    ns1:name "www.BambiCorso.com"^^xsd:string ;
-    ns1:url "https://bambicorso.com/"^^xsd:string .
-
 <https://www.dannykennedy.co/dnj-ontology#https://brendaferrimanidreamart.com/> a ns1:Website ;
     ns1:name "brendaferrimanidreamart.com"^^xsd:string ;
     ns1:url "https://brendaferrimanidreamart.com/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://catherinekennedy.com.au/> a ns1:Website ;
+    ns1:name "catherinekennedy.com.au"^^xsd:string ;
+    ns1:url "https://catherinekennedy.com.au/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://changingworld.com> a ns1:Website ;
+    ns1:name "changingworld.com"^^xsd:string ;
+    ns1:url "https://changingworld.com"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://charles-upton.com/> a ns1:Website ;
+    ns1:name "charles-upton.com"^^xsd:string ;
+    ns1:url "https://charles-upton.com/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://chrisryanphd.com/about-chris/> a ns1:Website ;
+    ns1:name "chrisryanphd.com"^^xsd:string ;
+    ns1:url "https://chrisryanphd.com/about-chris/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://dreamtending.com/stephen-aizenstat-ph-d/> a ns1:Website ;
+    ns1:name "Dream Tending"^^xsd:string ;
+    ns1:url "https://dreamtending.com/stephen-aizenstat-ph-d/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://en.wikipedia.org/wiki/Stanley_Krippner> a ns1:Website ;
+    ns1:name "Wikipedia"^^xsd:string ;
+    ns1:url "https://en.wikipedia.org/wiki/Stanley_Krippner"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://faribabogzaran.com/narrative-bio> a ns1:Website ;
+    ns1:name "faribabogzaran.com"^^xsd:string ;
+    ns1:url "https://faribabogzaran.com/narrative-bio"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://siivola.org/monte/> a ns1:Website ;
+    ns1:name "siivola.org/monte"^^xsd:string ;
+    ns1:url "https://siivola.org/monte/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://stanleykrippner.weebly.com> a ns1:Website ;
     ns1:name "stanleykrippner.weebly.com"^^xsd:string ;
     ns1:url "https://stanleykrippner.weebly.com"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://twitter.com/ThatChrisRyan> a ns1:Website ;
+    ns1:name "Twitter"^^xsd:string ;
+    ns1:url "https://twitter.com/ThatChrisRyan"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://twitter.com/dreamtending1> a ns1:Website ;
+    ns1:name "Twitter"^^xsd:string ;
+    ns1:url "https://twitter.com/dreamtending1"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html> a ns1:Website ;
     ns1:name "ourdreamingmind.com"^^xsd:string ;
@@ -20225,9 +20265,25 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "bobtrowbridge.com"^^xsd:string ;
     ns1:url "https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20220123134219/https://obeliskfoundation.com/> a ns1:Website ;
+    ns1:name "obeliskfoundation.com"^^xsd:string ;
+    ns1:url "https://web.archive.org/web/20220123134219/https://obeliskfoundation.com/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://www.aamindell.net/about-amy-and-arny> a ns1:Website ;
     ns1:name "aamindell.net"^^xsd:string ;
     ns1:url "https://www.aamindell.net/about-amy-and-arny"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.archiveofself.com/> a ns1:Website ;
+    ns1:name "archive of self"^^xsd:string ;
+    ns1:url "https://www.archiveofself.com/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.celiagreen.com/> a ns1:Website ;
+    ns1:name "celiagreen.com"^^xsd:string ;
+    ns1:url "https://www.celiagreen.com/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.chalquist.com/about> a ns1:Website ;
+    ns1:name "Craig Chalquist PhD"^^xsd:string ;
+    ns1:url "https://www.chalquist.com/about"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.droomtoko.nl/> a ns1:Website ;
     ns1:name "droomtoko.nl"^^xsd:string ;
@@ -20241,6 +20297,22 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Facebook"^^xsd:string ;
     ns1:url "https://www.facebook.com/Dream-Art-by-Brenda-Ferrimani-115114085196452"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/DreamTending/> a ns1:Website ;
+    ns1:name "Facebook"^^xsd:string ;
+    ns1:url "https://www.facebook.com/DreamTending/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/InnerSelvesMastery/> a ns1:Website ;
+    ns1:name "Inner Selves Mastery"^^xsd:string ;
+    ns1:url "https://www.facebook.com/InnerSelvesMastery/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/chrisryanphd/> a ns1:Website ;
+    ns1:name "Facebook"^^xsd:string ;
+    ns1:url "https://www.facebook.com/chrisryanphd/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/profile.php?id=100067168220264> a ns1:Website ;
+    ns1:name "Facebook"^^xsd:string ;
+    ns1:url "https://www.facebook.com/profile.php?id=100067168220264"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/stanley.krippner.9> a ns1:Website ;
     ns1:name "Facebook"^^xsd:string ;
     ns1:url "https://www.facebook.com/stanley.krippner.9"^^xsd:string .
@@ -20248,6 +20320,34 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/william.stimson.75> a ns1:Website ;
     ns1:name "Facebook"^^xsd:string ;
     ns1:url "https://www.facebook.com/william.stimson.75"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/catherinekennedyartist/> a ns1:Website ;
+    ns1:name "Instagram"^^xsd:string ;
+    ns1:url "https://www.instagram.com/catherinekennedyartist/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/dreamtending> a ns1:Website ;
+    ns1:name "Instagram"^^xsd:string ;
+    ns1:url "https://www.instagram.com/dreamtending"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/faribabogzaran/> a ns1:Website ;
+    ns1:name "Instagram"^^xsd:string ;
+    ns1:url "https://www.instagram.com/faribabogzaran/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/thatchrisryan> a ns1:Website ;
+    ns1:name "Instagram"^^xsd:string ;
+    ns1:url "https://www.instagram.com/thatchrisryan"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/company/dream-tending/> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "https://www.linkedin.com/company/dream-tending/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/dick-mcleester-92297910/> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "https://www.linkedin.com/in/dick-mcleester-92297910/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/fariba-bogzaran-93209a36/> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "https://www.linkedin.com/in/fariba-bogzaran-93209a36/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/user/billstimson> a ns1:Website ;
     ns1:name "YouTube"^^xsd:string ;
@@ -20498,7 +20598,7 @@ ns1:bcphbope3kf a ns1:Post ;
     ns1:urlSlug "9.3"^^xsd:string .
 
 ns1:bcphbq3acox a ns1:User ;
-    ns1:description """<p>Anna Cox, ACSW,  was a psychotherapist in Arkansas for over 50 years. She is a Buddhist practitioner and began a healing program for those in prisons in 1994, <a href="https://www.alignable.com/little-rock-ar/compassion-works-for-all">Compassion Works for All</a>, which is on-going throughout Arkansas and in many states' prisons. </p>
+    ns1:description """<p>Anna Cox, ACSW, was a psychotherapist in Arkansas for over 50 years. She is a Buddhist practitioner and began a healing program for those in prisons in 1994, <a href="https://www.alignable.com/little-rock-ar/compassion-works-for-all">Compassion Works for All</a>, which is on-going throughout Arkansas and in many states' prisons.</p>
 """^^xsd:string ;
     ns1:handle "annacox"^^xsd:string ;
     ns1:itemId "bcphbq3acox"^^xsd:string ;
@@ -20541,7 +20641,7 @@ ns1:bcphbq3atki a ns1:User ;
 
 <p>My career started as a photojournalist for a weekly town newspaper. My style has evolved to include nature, dreamscapes, landscapes, and travel &amp; tourism. I’ve been awarded grants and won awards for my imagery, and have exhibited on both coasts of the United States.</p>
 
-<p><em>Photography Then–</em> My first “real job” was at a local newspaper in my hometown. After talking with the editor, he gave me a few photo assignments on a trial basis. A month into this new photojournalist position, I had my first of many front page photos.  It meant lugging 50 pounds of camera equipment through seventeen local communities on assignment for human interest and breaking news stories (and through all types of crazy New England weather, too!) I stayed with the newspaper for 7 years before enrolling in computer training school.</p>
+<p><em>Photography Then–</em> My first “real job” was at a local newspaper in my hometown. After talking with the editor, he gave me a few photo assignments on a trial basis. A month into this new photojournalist position, I had my first of many front page photos. It meant lugging 50 pounds of camera equipment through seventeen local communities on assignment for human interest and breaking news stories (and through all types of crazy New England weather, too!) I stayed with the newspaper for 7 years before enrolling in computer training school.</p>
 
 <p>My formal art training at Rhode Island School of Design included alternative photographic processes and design.</p>
 
@@ -20558,15 +20658,15 @@ ns1:bcphbq3atki a ns1:User ;
 ns1:bcphbq3bayl a ns1:User ;
     ns1:description """<p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." <a href="../@stanleykrippner">Stanley Krippner, PhD.</a> Professor of Psychology, Saybrook University</p>
 
-<p>How I, Janice Baylis, got interested in dreams: In 1959 a fellow teacher had major surgery. We set up a car pool where I picked her up in a strip mall parking lot and drove the 30 miles to our school.  One morning Mabel phoned and asked me to meet her around the corner on the residential street.  She said she didn't like her car taking up space in the store lot all day. I said, "Okay."</p>
+<p>How I, Janice Baylis, got interested in dreams: In 1959 a fellow teacher had major surgery. We set up a car pool where I picked her up in a strip mall parking lot and drove the 30 miles to our school. One morning Mabel phoned and asked me to meet her around the corner on the residential street. She said she didn't like her car taking up space in the store lot all day. I said, "Okay."</p>
 
-<p>As Mabel was getting into my car that morning, we heard an enormous CRASH!  A small airplane had landed upside down in the corner of the parking lot where we would have been.  Then she told me she had dreamed it during the night. "WOW!" exclaimed my eight year old son, Brad, from the backseat.</p>
+<p>As Mabel was getting into my car that morning, we heard an enormous CRASH! A small airplane had landed upside down in the corner of the parking lot where we would have been. Then she told me she had dreamed it during the night. "WOW!" exclaimed my eight year old son, Brad, from the backseat.</p>
 
-<p>That launched me on a life-long, self-directed and academic study of dreams. From the first, the practical side of dreaming has been my focus.  The Edgar Cayce dream material was the first I found to study.  He also emphasized the practical aspects--health, finances, job, creativity, and interpersonal, as well as the personality growth and spiritual aspects.</p>
+<p>That launched me on a life-long, self-directed and academic study of dreams. From the first, the practical side of dreaming has been my focus. The Edgar Cayce dream material was the first I found to study. He also emphasized the practical aspects--health, finances, job, creativity, and interpersonal, as well as the personality growth and spiritual aspects.</p>
 
-<p>With my BA degree in Education and a MA degree in Psychology, I got a credential/license to teach dream-study at the community college level.  I taught 36 hour, semester, night classes and weekend workshops.  My students urged me to write a book, so I wrote Sleep On It! The Practical Side of Dreaming in 1977. </p>
+<p>With my BA degree in Education and a MA degree in Psychology, I got a credential/license to teach dream-study at the community college level. I taught 36 hour, semester, night classes and weekend workshops. My students urged me to write a book, so I wrote Sleep On It! The Practical Side of Dreaming in 1977.</p>
 
-<p>In my teaching I found many dreams use overt sexual imagery and that people were confused by the symbolism of sexual images.  I made this a secondary focus of my dream work.</p>
+<p>In my teaching I found many dreams use overt sexual imagery and that people were confused by the symbolism of sexual images. I made this a secondary focus of my dream work.</p>
 """^^xsd:string ;
     ns1:handle "janicebaylis"^^xsd:string ;
     ns1:itemId "bcphbq3bayl"^^xsd:string ;
@@ -20596,7 +20696,7 @@ ns1:bcphbq3mast a ns1:User ;
 
 <p>Linda Mastrangelo, MA, LMFT is an author, educator, artist and psychotherapist with a private practice in the San Francisco Bay area specializing in bereavement and dreamwork. Being a prolific dreamer since childhood, she discovered the remarkable potential of dreams as “good medicine” and developed techniques that have empowered people to make more mindful changes in their lives and communities. Because dreams can go right to the core of issues, Linda uses a gentle approach while encouraging her clients to explore at their own pace while accessing their own wisdom.</p>
 
-<p>With many years of training, facilitations, consultations and award winning research on using dreams as a therapeutic model, she has presented this work internationally including; the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a>, California Association for Marriage and Family Therapists, Institute for Dream Studies, Santa Cruz Museum of Art &amp; History, Hospice of the Valley, and The Dream Institute of Northern California. Her most recent labor of love happened on April 12 of 2019, the IASD regional event the <a href="https://festivalofdreams.net/">“Festival of Dreams”</a> with cohost Katherine Bell and an incredible team of volunteers. The event was held in a dreamy venue in the hub of downtown at the Santa Cruz Museum of Art &amp; History with almost 100 attendees and 30 presenters and artists, mostly local residents. Due to the glowing reviews and wonderful feedback, they are already in the planning stages for the next event in 2021. </p>
+<p>With many years of training, facilitations, consultations and award winning research on using dreams as a therapeutic model, she has presented this work internationally including; the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a>, California Association for Marriage and Family Therapists, Institute for Dream Studies, Santa Cruz Museum of Art &amp; History, Hospice of the Valley, and The Dream Institute of Northern California. Her most recent labor of love happened on April 12 of 2019, the IASD regional event the <a href="https://festivalofdreams.net/">“Festival of Dreams”</a> with cohost Katherine Bell and an incredible team of volunteers. The event was held in a dreamy venue in the hub of downtown at the Santa Cruz Museum of Art &amp; History with almost 100 attendees and 30 presenters and artists, mostly local residents. Due to the glowing reviews and wonderful feedback, they are already in the planning stages for the next event in 2021.</p>
 
 <p>Linda has also written for numerous publications including <a href="https://www.goodtherapy.org/therapists/profile/linda-mastrangelo-20160129">GoodTherapy</a>, <a href="https://www.sufijournal.org/archives-97-summer-issue/">SUFI</a>, Lucid Dreaming Exchange, <a href="http://www.immanencejournal.com/wp-content/uploads/2016/10/Fall-2016-Immanence-Journal-desktop-double-spread.pdf">Immanence</a>, Dream Network Journal, DreamTime Magazine, the Examiner and as a contributor for two highly anticipated books; <a href="https://products.abc-clio.com/abc-cliocorporate/product.aspx?pc=A4996C">Sleep Monsters and Superheroes</a> and Dreams that Change Our Lives. She has also been interviewed on <a href="https://ksqd.org/bereavement-and-visitation-dreams-with-linda-mastrangelo/">KSQD’s The Dream Journal</a>, <a href="https://podcasts.apple.com/us/podcast/linda-mastrangelo-using-dreams-to-work-through-grief/id1441339304?i=1000436057947">Dream Power Radio</a> and <a href="http://www.facebook.com/DreamSynergy">the Dream Effect</a>.</p>
 
@@ -20652,7 +20752,7 @@ ns1:bcphbq3rjbg a ns1:User ;
 
 <p>I'm a psychologist and graduate of the University of Barcelona. After finishing my degree, I realised that dreams were path in which my two main interests converged: the study of consciousness and the practice of creativity (which I have been able to experience through theater, comics and illustration, and as a musician and singer). Since then, I've been training and keeping up to date with the latest discoveries and proposals from cutting-edge international specialists. On the other hand, I have felt it essential to assimilate knowledge about dreaming from different cultures, as well as multiple philosophical and religious traditions. For example, I received the teachings of Tibetan Dream Yoga from <a href="https://en.wikipedia.org/wiki/Tenzin_Wangyal_Rinpoche" target="_blank">Lama Tenzin Wangyal Rinpoche</a> during various retreats.</p>
 
-<p>My educational vocation has led me to collaborate in different radio programs (among others, L'Ofici de Viure in Catalunya Ràdio and Via Lliure in RAC1) and to write articles for different publications like the <a href="https://www.huffpost.com/entry/nine-months-to-dream_b_58594c18e4b06ae7ec2a419c" target="_blank">Huffington Post</a>, DreamTime, CuerpoMente and Mente Sana. I have also advised and participated in the <a href="https://www.youtube.com/watch?v=EoQ6kJHv3HY" target="_blank">Somiers</a> (TV3) series of programs, dedicated entirely to dreams, and I have co-written the script for the film <a href="https://www.youtube.com/watch?v=f1VHNfJAIP0" target="_blank">Volare</a> directed by Joaquín Oristrell. I was a member of the professorial staff at the <a href="http://transpersonal.cat/en/el-iptb/" target="_blank">Institute of Transpersonal Psychology in Barcelona</a> since its founding until, years ago, I began to offer from Mondesomnis the Training Integration of Dreams for psychologists and psychotherapists, the first in Spain dedicated exclusively to working with dreams. </p>
+<p>My educational vocation has led me to collaborate in different radio programs (among others, L'Ofici de Viure in Catalunya Ràdio and Via Lliure in RAC1) and to write articles for different publications like the <a href="https://www.huffpost.com/entry/nine-months-to-dream_b_58594c18e4b06ae7ec2a419c" target="_blank">Huffington Post</a>, DreamTime, CuerpoMente and Mente Sana. I have also advised and participated in the <a href="https://www.youtube.com/watch?v=EoQ6kJHv3HY" target="_blank">Somiers</a> (TV3) series of programs, dedicated entirely to dreams, and I have co-written the script for the film <a href="https://www.youtube.com/watch?v=f1VHNfJAIP0" target="_blank">Volare</a> directed by Joaquín Oristrell. I was a member of the professorial staff at the <a href="http://transpersonal.cat/en/el-iptb/" target="_blank">Institute of Transpersonal Psychology in Barcelona</a> since its founding until, years ago, I began to offer from Mondesomnis the Training Integration of Dreams for psychologists and psychotherapists, the first in Spain dedicated exclusively to working with dreams.</p>
 
 <p>I have been a member of the Board of Directors of the International Association for the Study of Dreams since 2012 and also of its Educational Committee, as well as its Global Representative for Europe.</p>
 """^^xsd:string ;
@@ -20712,13 +20812,14 @@ ns1:bcphbqchalq a ns1:User ;
 
 <p>Depth psychologist, professor, author, presenter, teacherpreneur.</p>
 
-<p>Currently a core faculty member in in East-West Psychology at the California Institute of Integral Studies, former Associate Provost of Pacifica Graduate Institute and department chair of East-West Psychology at the California Institute of Integral Studies, and a former core faculty member in the Department of Consciousness &amp; Transformative Studies at John F. Kennedy University. </p>
+<p>Currently a core faculty member in in East-West Psychology at the California Institute of Integral Studies, former Associate Provost of Pacifica Graduate Institute and department chair of East-West Psychology at the California Institute of Integral Studies, and a former core faculty member in the Department of Consciousness &amp; Transformative Studies at John F. Kennedy University.</p>
 
-<p>Founding Editor-in-Chief of Immanence: The Journal of Applied Mythology, Legend, and Folktale, founder and Owner of World Soul Books and founder and Owner, Worldrede Academy. Have worked as a family therapist, lecturer, and group facilitator. PhD in depth psychology from Pacifica Graduate Institute. </p>
+<p>Founding Editor-in-Chief of Immanence: The Journal of Applied Mythology, Legend, and Folktale, founder and Owner of World Soul Books and founder and Owner, Worldrede Academy. Have worked as a family therapist, lecturer, and group facilitator. PhD in depth psychology from Pacifica Graduate Institute.</p>
 
-<p>Author of many books, including <em><a href="https://www.routledge.com/Terrapsychological-Inquiry-Restorying-Our-Relationship-with-Nature-Place/Chalquist/p/book/9780367859213">Terrapsychological Inquiry: Restorying Our Relations to Nature, Place, and Planet</a></em> (Routledge, 2020). Terrapsychology: Reengaging the Soul of Place came out in 2007, Deep California in 2008. Co-editor with Linda Buzzell-Saltzman, MFT of Ecotherapy: Healing with Nature in Mind, Sierra Club’s 2009 sequel to Ecopsychology: Restoring the Earth, Healing the Mind. 2009: publication of Storied Lives: Discovering and Deepening Your Personal Myth. All books available <a href="https://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&unfiltered=1&field-keywords=&field-author=chalquist&field-title=&field-isbn=&field-publisher=&node=&field-p_n_condition-type=&field-feature_browse-bin=&field-binding_browse-bin=&field-subject=&field-language=&field-dateop=After&field-datemod=&field-dateyear=2007&sort=relevanceexprank&Adv-Srch-Books-Submit.x=38&Adv-Srch-Books-Submit.y=7">here</a>. </p>
+<p>Author of many books, including <em><a href="https://www.routledge.com/Terrapsychological-Inquiry-Restorying-Our-Relationship-with-Nature-Place/Chalquist/p/book/9780367859213">Terrapsychological Inquiry: Restorying Our Relations to Nature, Place, and Planet</a></em> (Routledge, 2020). Terrapsychology: Reengaging the Soul of Place came out in 2007, Deep California in 2008. Co-editor with Linda Buzzell-Saltzman, MFT of Ecotherapy: Healing with Nature in Mind, Sierra Club’s 2009 sequel to Ecopsychology: Restoring the Earth, Healing the Mind. 2009: publication of Storied Lives: Discovering and Deepening Your Personal Myth. All books available <a href="https://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&unfiltered=1&field-keywords=&field-author=chalquist&field-title=&field-isbn=&field-publisher=&node=&field-p_n_condition-type=&field-feature_browse-bin=&field-binding_browse-bin=&field-subject=&field-language=&field-dateop=After&field-datemod=&field-dateyear=2007&sort=relevanceexprank&Adv-Srch-Books-Submit.x=38&Adv-Srch-Books-Submit.y=7">here</a>.</p>
 """^^xsd:string ;
     ns1:handle "craigchalquist"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.chalquist.com/about> ;
     ns1:itemId "bcphbqchalq"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Craig Chalquist"^^xsd:string ;
@@ -20735,6 +20836,7 @@ ns1:bcphbqchcel a ns1:User ;
 <p>She has published numerous books and articles on subjects such as lucid dreaming and psychophysics, including <em><a href="https://www.goodreads.com/en/book/show/104135">Lucid Dreams</a></em> (with Charles McCreery), <em><a href="https://www.goodreads.com/book/show/10352103-out-of-the-body-experiences">Out-of-the-Body Experiences</a></em>, and <em><a href="https://www.amazon.com.au/The-Human-Evasion/dp/0953677249">The Human Evasion</a></em>.</p>
 """^^xsd:string ;
     ns1:handle "celiagreen"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.celiagreen.com/> ;
     ns1:itemId "bcphbqchcel"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Celia Green"^^xsd:string ;
@@ -20793,7 +20895,7 @@ ns1:bcphbqiclur a ns1:User ;
     ns1:profileImg "author-ireneclurman.jpg"^^xsd:string .
 
 ns1:bcphbqpionk a ns1:User ;
-    ns1:description """<p>Patricia Pionke is a long time reader of and occasional contributor to the Dream Network Journal. </p>
+    ns1:description """<p>Patricia Pionke is a long time reader of and occasional contributor to the Dream Network Journal.</p>
 """^^xsd:string ;
     ns1:handle "patriciapionke"^^xsd:string ;
     ns1:itemId "bcphbqpionk"^^xsd:string ;
@@ -20853,6 +20955,7 @@ ns1:bcphbqvcary a ns1:User ;
 <p>Carli is a Canadian-born student of the University of Toronto where she specialises in Cognitive Science, minoring in Jungian psychology, philosophy, and Buddhism. She is also an amateur writer, using the medium to explore human experience.</p>
 """^^xsd:string ;
     ns1:handle "carliyoung"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.archiveofself.com/> ;
     ns1:itemId "bcphbqvcary"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Carli Young"^^xsd:string ;
@@ -20886,11 +20989,12 @@ ns1:bcphbqvcsch a ns1:User ;
 
 ns1:bcphbqvicjs a ns1:User ;
     ns1:coverImg "cover-author-carl-schroeder.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.innerselvesmastery.com">InnerSelvesMastery.com</a></p>
+    ns1:description """<p>Website: <a href="https://www.facebook.com/InnerSelvesMastery/">Inner Selves Mastery on Facebook</a></p>
 
-<p>I am a life coach and spiritual teacher. In 2012 I started sharing a system of teachings I had been developing, the Inner Selves Mastery system. The Inner Selves Mastery system (ISM) empowers your personal evolution and helps you learn to live magically, heal relationships and take control of your destiny. Everything exists to remind you that the source is within you. </p>
+<p>I am a life coach and spiritual teacher. In 2012 I started sharing a system of teachings I had been developing, the Inner Selves Mastery system. The Inner Selves Mastery system (ISM) empowers your personal evolution and helps you learn to live magically, heal relationships and take control of your destiny. Everything exists to remind you that the source is within you.</p>
 """^^xsd:string ;
     ns1:handle "carlschroeder"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/InnerSelvesMastery/> ;
     ns1:itemId "bcphbqvicjs"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Carl Johann Schroeder"^^xsd:string ;
@@ -20902,7 +21006,7 @@ ns1:bcphbqviden a ns1:User ;
 
 <p>EastWest Works <a href="https://eastwest.works/lists/?p=subscribe">newsletter</a></p>
 
-<p>Having been born and raised in the Pacific Rim city and area of Seattle, Inoshi grew up exposed to a variety of people and cultures, including a Western education ending with a Master of Arts degree. At midlife he finds that somehow he’s wrested out over half his tally of years in New York City, and along the way to have become a student of the Dreaming. </p>
+<p>Having been born and raised in the Pacific Rim city and area of Seattle, Inoshi grew up exposed to a variety of people and cultures, including a Western education ending with a Master of Arts degree. At midlife he finds that somehow he’s wrested out over half his tally of years in New York City, and along the way to have become a student of the Dreaming.</p>
 
 <p>Inoshi’s groupwork facilitating medicine circles, such as dream sharing and zen styled meditation, and teaching the movement based practices of Taijiquan and Qigong, enable individuals to register and cultivate their innate capacities and human embodiment. In that respect each person may come to realize that all we do, even in minor tones, or unintendedly, effects our lived experience.</p>
 
@@ -20918,7 +21022,7 @@ ns1:bcphbqvmack a ns1:User ;
     ns1:coverImg "cover-author-christamackinnon.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://christamackinnon.com/">christamackinnon.com</a></p>
 
-<p>Christa Mackinnon is the founder and director of 'Bridging the Worlds Training' and and the co-founder of <a href="https://www.womenweavingchange.com/">‘Women Weaving Change’</a> and of ‘The Modern Medicine Woman Training School’. She is the author of <a href="https://www.goodreads.com/book/show/14483175-shamanism-and-spirituality-in-therapeutic-practice">Shamanism and Spirituality in Therapeutic Practice</a>, Singing Dragon Editions, Jessica Kingsley Publishers and the author of <a href="https://www.goodreads.com/book/show/40587211-shamanism-made-easy">’Shamanism Made Easy - Awaken and Develop the Shamanic Force Within’</a>, Hay House International. </p>
+<p>Christa Mackinnon is the founder and director of 'Bridging the Worlds Training' and and the co-founder of <a href="https://www.womenweavingchange.com/">‘Women Weaving Change’</a> and of ‘The Modern Medicine Woman Training School’. She is the author of <a href="https://www.goodreads.com/book/show/14483175-shamanism-and-spirituality-in-therapeutic-practice">Shamanism and Spirituality in Therapeutic Practice</a>, Singing Dragon Editions, Jessica Kingsley Publishers and the author of <a href="https://www.goodreads.com/book/show/40587211-shamanism-made-easy">’Shamanism Made Easy - Awaken and Develop the Shamanic Force Within’</a>, Hay House International.</p>
 """^^xsd:string ;
     ns1:handle "christamackinnon"^^xsd:string ;
     ns1:itemId "bcphbqvmack"^^xsd:string ;
@@ -20952,7 +21056,7 @@ ns1:bcphbqvrugh a ns1:User ;
     ns1:coverImg "cover-genell-howell.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.genellhowell.com/">genellhowell.com</a></p>
 
-<p>Genell, MA, LMHC is a psychotherapist in private practice based out of Kailua-Kona, Hawaii, where she specializes in body-mind psychotherapies, trauma resolution, dreams, and helping people unearth their inner self. She is currently working on attaining her Ph.D. from Pacifica Graduate Institute in Depth Psychology, emphasizing Jungian and Archetypal Studies. </p>
+<p>Genell, MA, LMHC is a psychotherapist in private practice based out of Kailua-Kona, Hawaii, where she specializes in body-mind psychotherapies, trauma resolution, dreams, and helping people unearth their inner self. She is currently working on attaining her Ph.D. from Pacifica Graduate Institute in Depth Psychology, emphasizing Jungian and Archetypal Studies.</p>
 
 <p>She holds certifications in Somatic Experiencing, brainspotting, Bruce Perry’s Neurosequential Model and is working on achieving her Sandplay Practitioner certification. Genell deeply believes that we have guidance and wisdom within ourselves if we slow down and look within, we are bound to evolve and grow.</p>
 """^^xsd:string ;
@@ -20968,13 +21072,13 @@ ns1:bcphbqvtziv a ns1:User ;
 
 <p><a href="https://www.linkedin.com/in/tzivia-gover-7972178/">LinkedIn</a></p>
 
-<p>Tzivia Gover blends dreamwork and mindfulness-based practices, awakening people to the joy, beauty and wisdom hidden within daily life. </p>
+<p>Tzivia Gover blends dreamwork and mindfulness-based practices, awakening people to the joy, beauty and wisdom hidden within daily life.</p>
 
 <p>She offers <a href="https://square.site/appointments/book/6NDQQ3FG0949C/tzivia-gover-third-house-moon-llc">personal dreamwork sessions</a>, keynotes and <a href="https://tziviagover.com/events-workshops/">workshops</a>.</p>
 
-<p>She is also the author of a number of books, including "Joy in Every Moment" and "The Mindful Way to a Good Night’s Sleep". </p>
+<p>She is also the author of a number of books, including "Joy in Every Moment" and "The Mindful Way to a Good Night’s Sleep".</p>
 
-<p>Tzivia's dream is to: </p>
+<p>Tzivia's dream is to:</p>
 
 <ul>
 <li><p>Rejuvenate interest in dreaming and dreams</p></li>
@@ -21516,7 +21620,7 @@ ns1:bcphbq3gong a ns1:User ;
 
 <p>As early as 1970, He was organizing and leading dream discussion groups. His first was when he was serving with the United States Air Force in Turkey. Since then, he has conducted workshops on dreams in the Metropolitan D.C. area and in North Carolina. He designed a four-part mini course on dreams, which was well received in Asheville, NC. It was in these courses and workshops that he fully realized the importance of themes in the dream work process and the need for formal guidelines on the subject. He has found that themes are the most misunderstood aspect of dream work.</p>
 
-<p>He is the author of <a href="https://www.amazon.com/Dream-Exploration-Approach-Robert-Gongloff/dp/0738708186">Dream Exploration: A New Approach</a>, which helps dreamers identify the core "theme" - the "heart" - of the dream; and is co-editor of the <a href="https://www.amazon.com/Dreams-That-Change-Our-Lives/dp/1630514292">IASD book, Dreams that Change Our Lives</a>, and the second volume of <a href="https://www.amazon.com.au/Dreams-Understanding-Biology-Psychology-Culture/dp/1440856168">Dreams: Understanding Biology, Psychology, and Culture</a>. He lives in Málaga, Spain. </p>
+<p>He is the author of <a href="https://www.amazon.com/Dream-Exploration-Approach-Robert-Gongloff/dp/0738708186">Dream Exploration: A New Approach</a>, which helps dreamers identify the core "theme" - the "heart" - of the dream; and is co-editor of the <a href="https://www.amazon.com/Dreams-That-Change-Our-Lives/dp/1630514292">IASD book, Dreams that Change Our Lives</a>, and the second volume of <a href="https://www.amazon.com.au/Dreams-Understanding-Biology-Psychology-Culture/dp/1440856168">Dreams: Understanding Biology, Psychology, and Culture</a>. He lives in Málaga, Spain.</p>
 """^^xsd:string ;
     ns1:handle "robertgongloff"^^xsd:string ;
     ns1:itemId "bcphbq3gong"^^xsd:string ;
@@ -21529,7 +21633,7 @@ ns1:bcphbq3gras a ns1:User ;
 
 <p>Since 2008, she has been working on The Au Revoir Memoirs, a saga of unrequited love and the search for redemption and resolution. She self-published the first two volumes: <a href="https://www.amazon.com/Vows-Unspoken-Revoir-Memoirs-Book-ebook/dp/B07CNN857P/">With Vows Unspoken</a> and <a href="https://www.amazon.com/Chains-Unbroken-Revoir-Memoirs-Book-ebook/dp/B078CXDVPC/">With Chains Unbroken</a>, and is in the infant stages of creating a trilogy.</p>
 
-<p>Lorraine retired from the S.F. Rec/Park Department in 2004, where she served as a Park Patrol Officer, the first woman and gay person to do so. She now identifies as an XXY and is delighted at the diversity of gender terms making their way into our language. </p>
+<p>Lorraine retired from the S.F. Rec/Park Department in 2004, where she served as a Park Patrol Officer, the first woman and gay person to do so. She now identifies as an XXY and is delighted at the diversity of gender terms making their way into our language.</p>
 
 <p>Currently, Lorraine volunteers for the National Park Service at the Maritime Museum. Her interests include bird watching, dreaming, and science fiction.</p>
 
@@ -21554,6 +21658,11 @@ ns1:bcphbq3msa a ns1:User ;
 <p>Dr. Aizenstat founded the <a href="https://en.wikipedia.org/wiki/Pacifica_Graduate_Institute">Pacifica Graduate Institute</a> in Santa Barbara in 1976, with a focus on psychology, mythology, and the humanities. He has lectured around the world, advised Hollywood filmmakers on psychological content, consulted for leading tech companies, and collaborated with giants in the field such as Joseph Campbell, James Hillman, Marion Woodman and others. He is affiliated with the UN's Earth Charter International project.</p>
 """^^xsd:string ;
     ns1:handle "stephenaizenstat"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://dreamtending.com/stephen-aizenstat-ph-d/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/dreamtending1>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/DreamTending/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/dreamtending>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/company/dream-tending/> ;
     ns1:itemId "bcphbq3msa"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Stephen Aizenstat, Ph.D."^^xsd:string ;
@@ -21651,6 +21760,7 @@ ns1:bcphbqawern a ns1:User ;
     ns1:profileImg "author-travis-wernet.jpg"^^xsd:string .
 
 ns1:bcphbqbynum a ns1:User ;
+    ns1:coverImg "cover-author-edward-bynum.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20220123134219/https://obeliskfoundation.com/">obeliskfoundation.com</a></p>
 
 <p>Books: <a href="https://www.amazon.com/Edward-Bruce-Bynum/e/B001K7WMXU?ref=sr_ntt_srch_lnk_1&qid=1584830830&sr=8-1">amazon.com/Edward-Bruce-Bynum</a></p>
@@ -21660,6 +21770,8 @@ ns1:bcphbqbynum a ns1:User ;
 <p>Dr. Bynum is the recepient of the Abraham H. Maslow Award of the Division of Humanistic Psychology of the American Psychological Association for "outstanding and lasting contributions to the exploration of the fartherest reaches of human spirit". He is married and the father of two sons. He lives in the Amherst Massachusetts area and is a practitioner of kundalini yoga.</p>
 """^^xsd:string ;
     ns1:handle "edwardbrucebynum"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20220123134219/https://obeliskfoundation.com/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/profile.php?id=100067168220264> ;
     ns1:itemId "bcphbqbynum"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Edward Bruce Bynum, Ph.D., ABPP"^^xsd:string ;
@@ -21667,7 +21779,7 @@ ns1:bcphbqbynum a ns1:User ;
 
 ns1:bcphbqerish a ns1:User ;
     ns1:coverImg "cover-author-suzannahart.jpg"^^xsd:string ;
-    ns1:description """<p>Suzanna Hart, M.A. (d. 2018), was a Bay Area Jungian counselor, artist and prolific cartoonist. She led dreamwork classes and Jungian discussion groups through Community Education in Marin County. Suzanna was part of the art/theater scene in San Francisco during the 1940s and 50s. Suzanna maintained an art studio on the Sausalito waterfront. Her detailed and whimsical paintings interweave dreams and mythology, bringing both to life. She worked with other artists, painting masks and mobiles for the Sausalito Arts Festival. She produced dozens of masterfully drawn dream-related cartoons showcasing her wry sense of humor. They were published in Dream Network Journal, Dream Newzzz, and Dream Time. Suzanna was a dedicated practitioner of Vipassana meditation. </p>
+    ns1:description """<p>Suzanna Hart, M.A. (d. 2018), was a Bay Area Jungian counselor, artist and prolific cartoonist. She led dreamwork classes and Jungian discussion groups through Community Education in Marin County. Suzanna was part of the art/theater scene in San Francisco during the 1940s and 50s. Suzanna maintained an art studio on the Sausalito waterfront. Her detailed and whimsical paintings interweave dreams and mythology, bringing both to life. She worked with other artists, painting masks and mobiles for the Sausalito Arts Festival. She produced dozens of masterfully drawn dream-related cartoons showcasing her wry sense of humor. They were published in Dream Network Journal, Dream Newzzz, and Dream Time. Suzanna was a dedicated practitioner of Vipassana meditation.</p>
 """^^xsd:string ;
     ns1:handle "suzannahart"^^xsd:string ;
     ns1:itemId "bcphbqerish"^^xsd:string ;
@@ -21712,9 +21824,9 @@ ns1:bcphbqvidan a ns1:User ;
     ns1:coverImg "cover-author-dan-kennedy.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://dannykennedy.co/">dannykennedy.co</a></p>
 
-<p>I'm a programmer, artist and long time dreamer. I started a dream journal at age 11 and haven't ever thought to stop. I studied Arts and Fine Arts in Sydney, and worked in the arts for a few  years, including a stint at <a href="https://injalak.com/" target="_blank">Injalak Arts</a> in the Northern Territory (I'm still helping with a <a href="https://www.njamed.com/" target="_blank">dictionary of the Kunwinjku language</a>). </p>
+<p>I'm a programmer, artist and long time dreamer. I started a dream journal at age 11 and haven't ever thought to stop. I studied Arts and Fine Arts in Sydney, and worked in the arts for a few years, including a stint at <a href="https://injalak.com/" target="_blank">Injalak Arts</a> in the Northern Territory (I'm still helping with a <a href="https://www.njamed.com/" target="_blank">dictionary of the Kunwinjku language</a>).</p>
 
-<p>I discovered an interest in programming, and am now a developer based in Sydney, making many sites such as this fabulous one in my spare time! Currently working with <a href="../@inoshi">Inoshi</a> and <a href="../@robertaossana">Roberta Ossana</a> to bring back the Dream Network.  </p>
+<p>I discovered an interest in programming, and am now a developer based in Sydney, making many sites such as this fabulous one in my spare time! Currently working with <a href="../@inoshi">Inoshi</a> and <a href="../@robertaossana">Roberta Ossana</a> to bring back the Dream Network.</p>
 """^^xsd:string ;
     ns1:handle "dan"^^xsd:string ;
     ns1:itemId "bcphbqvidan"^^xsd:string ;
@@ -21723,7 +21835,7 @@ ns1:bcphbqvidan a ns1:User ;
     ns1:profileImg "author-dan-kennedy.jpg"^^xsd:string .
 
 ns1:bcphbqwatts a ns1:User ;
-    ns1:description """<p>Rosemary has been actively studying dream analysis since 1980. She has worked extensively with Jungian dream analysts. As an actress and dream worker, Rosemary teaches how to use dreams to heighten your own creativity. She has conducted many special workshops for actors, performers and other artists. </p>
+    ns1:description """<p>Rosemary has been actively studying dream analysis since 1980. She has worked extensively with Jungian dream analysts. As an actress and dream worker, Rosemary teaches how to use dreams to heighten your own creativity. She has conducted many special workshops for actors, performers and other artists.</p>
 """^^xsd:string ;
     ns1:handle "rosemarywattsdreyer"^^xsd:string ;
     ns1:itemId "bcphbqwatts"^^xsd:string ;
@@ -22181,31 +22293,31 @@ ns1:bcphbq3asay a ns1:User ;
 
 <p>Ann used Milton Erickson's common-sense and self hypnosis approach to dreams. She used art, dreams, and closed eye visioning in workshop intensives here and abroad. She taught at Lesley College Arts Institute, where she helped develop the Expressive Therapies Program, trained teachers, and earned her Master’s degree. Ann kept dream journals for fifty years, published two books on dreams, and was an ASD member and presenter for over 20 years, offering workshops and slide talks at IASD (almost every year), and at California’s Esalen Institute, The Cambridge center for Adult Education, and organizations here and abroad. She derived much inspiration from the work of Patricia Garfield, Freud, Jung, Milton Erickson, Gibran, the I Ching, the Dalai Lama, and others.</p>
 
-<p>This adaptation of her Introduction to her last book, Satisfy the Image, summarizes her work: </p>
+<p>This adaptation of her Introduction to her last book, Satisfy the Image, summarizes her work:</p>
 
-<p>Autodrama on the Paper Stage is a concrete mapping method that works for dreams and all kinds of life problems. You create your own symbols to represent the people and things in your story and set them on a sheet of paper we call the stage. Instead of telling the story in words, we use colored paper or found objects to represent characters and significant objects—it’s very simple. As you answer questions about the scene, you begin to understand the problem and manipulate the characters in search of resolution. </p>
+<p>Autodrama on the Paper Stage is a concrete mapping method that works for dreams and all kinds of life problems. You create your own symbols to represent the people and things in your story and set them on a sheet of paper we call the stage. Instead of telling the story in words, we use colored paper or found objects to represent characters and significant objects—it’s very simple. As you answer questions about the scene, you begin to understand the problem and manipulate the characters in search of resolution.</p>
 
-<p>As a mini psychodrama, it shrinks the stage to a sheet of paper, eliminates other players, and offers a quick, direct approach. Working alone or with a guide, the dreamer plays all the roles, speaks and hears the dialogue, harvests projections, and negotiates a resolution. </p>
+<p>As a mini psychodrama, it shrinks the stage to a sheet of paper, eliminates other players, and offers a quick, direct approach. Working alone or with a guide, the dreamer plays all the roles, speaks and hears the dialogue, harvests projections, and negotiates a resolution.</p>
 
-<p>The method came to me in a dream where I saw myself as a tiny human attached to the earth’s globe by gravity. Up in the universal darkness, a giant megaphone shouted “FIND THE IMAGE AND SATISFY IT.” Immediately I understood that the way to resolution was through the image, and the way to the image was through your feelings. </p>
+<p>The method came to me in a dream where I saw myself as a tiny human attached to the earth’s globe by gravity. Up in the universal darkness, a giant megaphone shouted “FIND THE IMAGE AND SATISFY IT.” Immediately I understood that the way to resolution was through the image, and the way to the image was through your feelings.</p>
 
-<p>Since the age of three, I drew, painted, designed textiles, perfected and taught various crafts. When I had kids, I made bread sculpture, rag tapestries, furniture, and toys, and then turned it into how-to books. In the 1970’s, as Program Director for the Boston Children’s Museum Visitor Center, I developed how-to workshops so visitors could make paper, build looms and kites, and invent musical instruments from junk. I also conducted workshops for the New Hampshire elementary school system: sixty to ninety teachers came once a week for five-hour sessions on “Methods and Materials” and “Creative Enrichment.” We called it “Kindergarten for creatively deprived adults,” who were then very excited to take the ideas and methods back to their classes. </p>
+<p>Since the age of three, I drew, painted, designed textiles, perfected and taught various crafts. When I had kids, I made bread sculpture, rag tapestries, furniture, and toys, and then turned it into how-to books. In the 1970’s, as Program Director for the Boston Children’s Museum Visitor Center, I developed how-to workshops so visitors could make paper, build looms and kites, and invent musical instruments from junk. I also conducted workshops for the New Hampshire elementary school system: sixty to ninety teachers came once a week for five-hour sessions on “Methods and Materials” and “Creative Enrichment.” We called it “Kindergarten for creatively deprived adults,” who were then very excited to take the ideas and methods back to their classes.</p>
 
-<p>From there it was a short step to Expressive Therapy, a field just being defined at Lesley College. In addition to teaching there, I designed and completed my own Masters program based on work I did with teachers all over the country and in India. </p>
+<p>From there it was a short step to Expressive Therapy, a field just being defined at Lesley College. In addition to teaching there, I designed and completed my own Masters program based on work I did with teachers all over the country and in India.</p>
 
-<p>Dreams were an arrow leading straight to the unconscious. Like parables, they provide perspective on truths too close to see. Visual methods make problem solving exciting because they require you to think outside the box and use all kinds of intelligence and sources of wisdom. Impatient with the time required by conventional dream work, I asked students to “show me your dream. Show me your problem. Create images. Make characters from torn tissue papers or find an object to represent people and things. Set the stage and tell the story on a sheet of paper.” </p>
+<p>Dreams were an arrow leading straight to the unconscious. Like parables, they provide perspective on truths too close to see. Visual methods make problem solving exciting because they require you to think outside the box and use all kinds of intelligence and sources of wisdom. Impatient with the time required by conventional dream work, I asked students to “show me your dream. Show me your problem. Create images. Make characters from torn tissue papers or find an object to represent people and things. Set the stage and tell the story on a sheet of paper.”</p>
 
-<p>In half an hour, everyone in a class could create a scene and begin to work using ten simple questions. I just walked around the room helping to move things as needed. And there was the magic of working in groups. People borrowed from each other, saw what others were doing, heard the first solutions, and were inspired to take risks or reach out. Originality was rampant. Everyone left the room with new information, and often with a new resolution. </p>
+<p>In half an hour, everyone in a class could create a scene and begin to work using ten simple questions. I just walked around the room helping to move things as needed. And there was the magic of working in groups. People borrowed from each other, saw what others were doing, heard the first solutions, and were inspired to take risks or reach out. Originality was rampant. Everyone left the room with new information, and often with a new resolution.</p>
 
-<p>A Harvard student who took a workshop said, “This work you do is more interesting than all my psychology courses. I’d like my professor to see.” I did a workshop there, but the professor asked what books I was using, what theory? </p>
+<p>A Harvard student who took a workshop said, “This work you do is more interesting than all my psychology courses. I’d like my professor to see.” I did a workshop there, but the professor asked what books I was using, what theory?</p>
 
-<p>“No books, no theory—just common sense and the wisdom of the dream, the power of peoples’ images. We simply ‘satisfy the image.’” </p>
+<p>“No books, no theory—just common sense and the wisdom of the dream, the power of peoples’ images. We simply ‘satisfy the image.’”</p>
 
-<p>“Well, that isn’t going to make much sense to Academe is it?” he says. </p>
+<p>“Well, that isn’t going to make much sense to Academe is it?” he says.</p>
 
-<p>“No. I guess not. It is not a theory; it is an experience.” </p>
+<p>“No. I guess not. It is not a theory; it is an experience.”</p>
 
-<p>So you are the system. You are the method. It’s the doing that heals, creates change, and enlightens. When you experience it, you know it. It is the “Aha!” method. </p>
+<p>So you are the system. You are the method. It’s the doing that heals, creates change, and enlightens. When you experience it, you know it. It is the “Aha!” method.</p>
 """^^xsd:string ;
     ns1:handle "annsayrewiseman"^^xsd:string ;
     ns1:itemId "bcphbq3asay"^^xsd:string ;
@@ -22534,6 +22646,7 @@ ns1:bcphbq3kupt a ns1:User ;
 <p>In 1988 he converted to Islam and was received into the <a href="https://en.wikipedia.org/wiki/Ni%27matull%C4%81h%C4%AB">Nimatullahi</a> Sufi Order under <a href="https://en.wikipedia.org/wiki/Javad_Nurbakhsh">Dr. Javad Nurbakhsh</a>; in 2010, after Nurbakhsh’s death, he maintained his connection with Sufism by taking ba’yat with a lesser-known silsila of the ‘Alawiyya Tariqa, with which Frithjof Schuon had been associated. In 2013 he conceived the Covenants Initiative, based on the groundbreaking book <em>The Covenants of the Prophet Muhammad with the Christians of the World</em> by John Andrew Morrow, which has since become an international peace movement in the Muslim world during the rise of ISIS. He is presently Executive Director of the <a href="https://covenantsoftheprophet.org/">Covenants of the Prophet Foundation</a>. He now resides with his wife <a href="https://charles-upton.com/works/jennifer-doane-upton/">Jennifer Doane Upton</a>, a poet and author of two books on Dante’s Divine Comedy, in Lexington, Kentucky.</p>
 """^^xsd:string ;
     ns1:handle "charlesupton"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://charles-upton.com/> ;
     ns1:itemId "bcphbq3kupt"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Charles Upton"^^xsd:string ;
@@ -22543,13 +22656,13 @@ ns1:bcphbq3olse a ns1:User ;
     ns1:coverImg "cover-author-fredolsen.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.inner-image.net/fred-olsen.php">inner-image.net</a></p>
 
-<p>Fred C. Olsen, M.Div. is a teacher, counselor, and consultant who moved from a career in the space program to explore the frontiers of inner space. </p>
+<p>Fred C. Olsen, M.Div. is a teacher, counselor, and consultant who moved from a career in the space program to explore the frontiers of inner space.</p>
 
 <p>He began his professional career in the Fall of 1965 following graduation from Seattle Pacific University with a B.S. in Mathematics. In 1967, Fred accepted a position with RCA International Service Corporation on a traveling team of technicians and engineers which was gearing up to calibrate satellite tracking stations for the NASA STADAN (Space Tracking and Data Acquisition Network), based at Goddard Space Flight Center in Greenbelt, Maryland.</p>
 
 <p>In this position, Fred traveled regularly to many countries, where he was able to gain a unique view of a world in ferment during the late 1960s and early 1070s. At NASA, Fred's focus was on identifying the "highest" information that reflected the state of the system. An example was a measure of the ratio of signal to noise and the data quality associated with a range of readings of the ratio of signal to noise.</p>
 
-<p>Olsen's concept of the "inner image" is the "highest information" source in the human psyche, both personally and collectively, what happens when the image changes. More importantly, this is the process by which the image forms and transforms in the human psyche. Jung's concept of the "transcendent function" sheds light on this problem.  The place at which the opposites meet in a balanced tension and equal relationship, is the place where transformation is possible.  If the conscious "ego" dominates, then we are back in the previous dilemma.  If the "ego" succumbs to the authority of the image, transformation is also sublimated and avoided.</p>
+<p>Olsen's concept of the "inner image" is the "highest information" source in the human psyche, both personally and collectively, what happens when the image changes. More importantly, this is the process by which the image forms and transforms in the human psyche. Jung's concept of the "transcendent function" sheds light on this problem. The place at which the opposites meet in a balanced tension and equal relationship, is the place where transformation is possible. If the conscious "ego" dominates, then we are back in the previous dilemma. If the "ego" succumbs to the authority of the image, transformation is also sublimated and avoided.</p>
 
 <p>Olsen's Inner Image Method lays out the process that has evolved over the last few decades of exploration and refinement of this approach.</p>
 """^^xsd:string ;
@@ -22566,7 +22679,7 @@ ns1:bcphbq3pdwy a ns1:User ;
 
 <p>In 1959, I nearly burned to death in an industrial accident, the explosion of rocket fuel in a laboratory in which I worked for one of our earliest pioneers in the aerospace industry. My life was saved by Ed Butler, a co-worker, who had repeated nightmares about the accident and rescuing me. When it happened in waking reality, he did as he had in the dreams, and I am alive because of his "dream rehearsals", as he calls them. Much of my life since that time has been a search to understand and use these wonderful gifts we are given nightly, particularly those mysterious experiences, such as telepathy, precognition, and other anomalous phenomena which current scientific theories can't fully explain but which happen to persons of all ages, cultures and belief systems. This search has led to a deeper understanding of the connectedness of all humans/dreamers and all of life, animate as well as what we label inanimate, which is nonetheless brimming with energy. We have enormous powers of the mind, waking and sleeping, and we're not using them... because we don't know we can. That is my current goal, to spread the good news and to make others aware not only of the collective unconscious which Carl Jung described, but also of a collective consciousness that drives our actions and our society. Beyond that, there is a sense of the universal collective that impacts upon everything in our universe.</p>
 
-<p>In 1983, the same year that we founded the Metro D.C. Dream Community (MDCDC) in Vienna, VA, a Washington, DC suburb, I read of plans to hold an international multidisciplinary meeting on dreams. Persons were invited to send financial backing and thus become Founding Life Members of what was to become the International Association for the Study of Dreams (IASD). I sent in my $100 and have been hooked on MDCDC and IASD ever since! </p>
+<p>In 1983, the same year that we founded the Metro D.C. Dream Community (MDCDC) in Vienna, VA, a Washington, DC suburb, I read of plans to hold an international multidisciplinary meeting on dreams. Persons were invited to send financial backing and thus become Founding Life Members of what was to become the International Association for the Study of Dreams (IASD). I sent in my $100 and have been hooked on MDCDC and IASD ever since!</p>
 """^^xsd:string ;
     ns1:handle "ritadwyer"^^xsd:string ;
     ns1:itemId "bcphbq3pdwy"^^xsd:string ;
@@ -22578,7 +22691,7 @@ ns1:bcphbq3rste a ns1:User ;
     ns1:coverImg "cover-author-star-edwards.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.starharp.com/" target="_blank">starharp.com</a></p>
 
-<p>Star Edwards has been a student of dreams and dream journaler for most of her life. In waking life she is harpist, artist and dancer. She has a wide repertoire of harp music and is available for event performances.  </p>
+<p>Star Edwards has been a student of dreams and dream journaler for most of her life. In waking life she is harpist, artist and dancer. She has a wide repertoire of harp music and is available for event performances.</p>
 """^^xsd:string ;
     ns1:handle "staredwards"^^xsd:string ;
     ns1:itemId "bcphbq3rste"^^xsd:string ;
@@ -22597,6 +22710,10 @@ ns1:bcphbq3ryan a ns1:User ;
 <p>Chris’s latest book, <em><a href="https://amzn.to/2JI8Y1O">Civilized to Death: The Price of Progress</a></em> (Simon &amp; Schuster/Avid Reader Press, 2019), questions whether civilization has actually been a net benefit to our species. He hosts a weekly podcast, <em><a href="https://chrisryanphd.com/category/tangentially-speaking/">Tangentially Speaking</a></em>, often recorded from the road, while traveling in his van, Scarlett Jovansson. The podcast features conversations with famous comics, bank robbers, drug smugglers, porn stars, authors, and rattlesnake experts.</p>
 """^^xsd:string ;
     ns1:handle "chrisryan"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://chrisryanphd.com/about-chris/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/ThatChrisRyan>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/chrisryanphd/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/thatchrisryan> ;
     ns1:itemId "bcphbq3ryan"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Christopher Ryan"^^xsd:string ;
@@ -22634,7 +22751,7 @@ ns1:bcphbqerics a ns1:User ;
 
 ns1:bcphbqmotte a ns1:User ;
     ns1:coverImg "cover-author-marieotte.jpg"^^xsd:string ;
-    ns1:description """<p>On Twitter: <a href="https://twitter.com/MarieOtte">twitter.com/MarieOtte</a> </p>
+    ns1:description """<p>On Twitter: <a href="https://twitter.com/MarieOtte">twitter.com/MarieOtte</a></p>
 
 <p>Marie Otte is a published writer and has been doing dream work for many years. She holds a degree from Northern Illinois University in music education.</p>
 """^^xsd:string ;
@@ -22948,7 +23065,7 @@ ns1:bcphbq3norm a ns1:User ;
 
 <p>Rachel’s watercolor paintings have appeared in numerous juried exhibitions throughout the country, receiving many awards, and in invitational exhibitions in the South. She has had many one-person exhibitions and her work may be found in hundreds of private and corporate collections in the USA and abroad.</p>
 
-<p>Rachel is the author of <em>Dream Explorations: A Journey in Self-Knowledge and Self-Realization</em>.  A breast cancer survivor, Rachel in her first book <em>Guided by Dreams: Breast Cancer, Dreams, and Transformation</em> described how knowledge gained through dream interpretation guided many of her decisions during treatment and recovery.</p>
+<p>Rachel is the author of <em>Dream Explorations: A Journey in Self-Knowledge and Self-Realization</em>. A breast cancer survivor, Rachel in her first book <em>Guided by Dreams: Breast Cancer, Dreams, and Transformation</em> described how knowledge gained through dream interpretation guided many of her decisions during treatment and recovery.</p>
 """^^xsd:string ;
     ns1:handle "rachelnorment"^^xsd:string ;
     ns1:itemId "bcphbq3norm"^^xsd:string ;
@@ -23016,7 +23133,7 @@ ns1:bcphbq3mart a ns1:User ;
     ns1:coverImg "cover-author-kathy-martone.jpg"^^xsd:string ;
     ns1:description """<p><a href="https://www.facebook.com/Kathy-Martone-EdD-2166828393535523/">Facebook page</a></p>
 
-<p>Dr. Kathy Martone is currently an author and artist living in a small Victorian town in the Ozark Mountains in Arkansas. Before retiring, and moving from Denver, CO to Eureka Springs, AR in 2015, she was a Jungian psychologist in private practice specializing in dream work, women’s spirituality and shamanic journeys. The magical world of dreams has fascinated and intrigued Kathy for as long as she can remember. Inspired by a dream in 2005, she began making velvet tapestries imprinted with the image of one of her own dream figures and embellished with ribbons, rhinestones, feathers, glass beads, Swarovski crystals, antique jewelry and semi-precious stones.  Dr. Martone’s work has been displayed in galleries in Denver, Colorado  as well as in Eureka Springs, Arkansas. In 2006 Dr. Martone self published her first book titled, <a href="http://dreamagik.com/book-SW.htm">Sacred Wounds: A Love Story</a>.</p>
+<p>Dr. Kathy Martone is currently an author and artist living in a small Victorian town in the Ozark Mountains in Arkansas. Before retiring, and moving from Denver, CO to Eureka Springs, AR in 2015, she was a Jungian psychologist in private practice specializing in dream work, women’s spirituality and shamanic journeys. The magical world of dreams has fascinated and intrigued Kathy for as long as she can remember. Inspired by a dream in 2005, she began making velvet tapestries imprinted with the image of one of her own dream figures and embellished with ribbons, rhinestones, feathers, glass beads, Swarovski crystals, antique jewelry and semi-precious stones. Dr. Martone’s work has been displayed in galleries in Denver, Colorado as well as in Eureka Springs, Arkansas. In 2006 Dr. Martone self published her first book titled, <a href="http://dreamagik.com/book-SW.htm">Sacred Wounds: A Love Story</a>.</p>
 """^^xsd:string ;
     ns1:handle "kathymartone"^^xsd:string ;
     ns1:itemId "bcphbq3mart"^^xsd:string ;
@@ -23034,11 +23151,11 @@ ns1:bcphbq3plvy a ns1:User ;
 
 <p>Little did the doctors realize, however, that he was taking part in a mystical awakening/shamanic initiation process, which at times mimicked psychosis but in actuality was a spiritual experience of a far different order, completely off the map of the psychiatric system. Fortunately, he was able to extricate himself from the medical and psychiatric establishment so that he could continue his process of self-discovery. Thankfully, as Paul freed himself from the shackles of psychiatry, he found his spiritual teachers, who instead of seeing Paul as crazy, recognized that he was beginning to spiritually awaken.</p>
 
-<p>An artist, after the trauma of his shamanic break-down/break-through, he became a certified art teacher. Due to his interest in the work of C. G. Jung, by the end of the decade he became the manager of the C. G. Jung Foundation Book Service in New York, as well as the advertising manager for the Jungian journal Quadrant. In 1993, after many years of struggling to contain and integrate his non-ordinary experiences, Paul started to openly share his insights about the dreamlike nature of reality. He began giving talks and facilitating groups based on how life is a shared waking dream that we are all co-creating and co-dreaming together. He is the founder of the Awakening in the Dream Community in Portland, Oregon. </p>
+<p>An artist, after the trauma of his shamanic break-down/break-through, he became a certified art teacher. Due to his interest in the work of C. G. Jung, by the end of the decade he became the manager of the C. G. Jung Foundation Book Service in New York, as well as the advertising manager for the Jungian journal Quadrant. In 1993, after many years of struggling to contain and integrate his non-ordinary experiences, Paul started to openly share his insights about the dreamlike nature of reality. He began giving talks and facilitating groups based on how life is a shared waking dream that we are all co-creating and co-dreaming together. He is the founder of the Awakening in the Dream Community in Portland, Oregon.</p>
 
-<p>A pioneer in the field of spiritual emergence, Paul is a wounded healer in private practice, helping others who are also awakening to the dreamlike nature of reality. His work has gone through three phases: because of his intense interest in dreams (both night dreams and the dreamlike nature of reality), he was first known as "the dream guy." After writing <em>Dispelling Wetiko</em>, he became associated with the idea of wetiko. After the publication of <em>The Quantum Revelation</em>, he is now seen as connected with quantum physics. All three aspects - dreams, wetiko and quantum physics are interconnected and complementary facets of a deeper reality into which he is continually deepening his investigation. </p>
+<p>A pioneer in the field of spiritual emergence, Paul is a wounded healer in private practice, helping others who are also awakening to the dreamlike nature of reality. His work has gone through three phases: because of his intense interest in dreams (both night dreams and the dreamlike nature of reality), he was first known as "the dream guy." After writing <em>Dispelling Wetiko</em>, he became associated with the idea of wetiko. After the publication of <em>The Quantum Revelation</em>, he is now seen as connected with quantum physics. All three aspects - dreams, wetiko and quantum physics are interconnected and complementary facets of a deeper reality into which he is continually deepening his investigation.</p>
 
-<p>He is the author of <em>The Madness of George Bush: A Reflection of Our Collective Psychosis</em> (2006), <em>Dispelling Wetiko: Breaking the Curse of Evil</em> (2013), <em>Awakened by Darkness: When Evil Becomes Your Father</em> (2015) and <em>The Quantum Revelation: A Radical Synthesis of Science and Spirituality</em> (2018). A Tibetan Buddhist practitioner for over 30 years, he has intimately studied with some of the greatest spiritual masters of Tibet and Burma. He was the coordinator of the Portland chapter of the PadmaSambhava Buddhist Center for over twenty years. </p>
+<p>He is the author of <em>The Madness of George Bush: A Reflection of Our Collective Psychosis</em> (2006), <em>Dispelling Wetiko: Breaking the Curse of Evil</em> (2013), <em>Awakened by Darkness: When Evil Becomes Your Father</em> (2015) and <em>The Quantum Revelation: A Radical Synthesis of Science and Spirituality</em> (2018). A Tibetan Buddhist practitioner for over 30 years, he has intimately studied with some of the greatest spiritual masters of Tibet and Burma. He was the coordinator of the Portland chapter of the PadmaSambhava Buddhist Center for over twenty years.</p>
 """^^xsd:string ;
     ns1:handle "paullevy"^^xsd:string ;
     ns1:itemId "bcphbq3plvy"^^xsd:string ;
@@ -23050,9 +23167,11 @@ ns1:bcphbq3rbck a ns1:User ;
     ns1:coverImg "cover-author-catherinekennedy.jpeg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://catherinekennedy.com.au/" target="_blank">catherinekennedy.com.au</a></p>
 
-<p><a href="https://catherinekennedy.com.au/" target="_blank">Catherine Kennedy</a> is a painter and installation artist who lives and works in Sydney and the Blue Mountains. Her work explores the intersection of conscious and subconscious experience, bringing together the experiential, the remembered, the imaginative and the emotional to create new narratives. Like fragments of a dream, image, metaphor and text recombine to suggest new interpretations and meanings beyond the simply perceptual.  </p>
+<p><a href="https://catherinekennedy.com.au/" target="_blank">Catherine Kennedy</a> is a painter and installation artist who lives and works in Sydney and the Blue Mountains. Her work explores the intersection of conscious and subconscious experience, bringing together the experiential, the remembered, the imaginative and the emotional to create new narratives. Like fragments of a dream, image, metaphor and text recombine to suggest new interpretations and meanings beyond the simply perceptual.</p>
 """^^xsd:string ;
     ns1:handle "catherinekennedy"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://catherinekennedy.com.au/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/catherinekennedyartist/> ;
     ns1:itemId "bcphbq3rbck"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Catherine Kennedy"^^xsd:string ;
@@ -23112,7 +23231,7 @@ ns1:bcphbqfmetz a ns1:User ;
     ns1:coverImg "cover-author-deena-metzger.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://deenametzger.net/">deenametzger.net</a></p>
 
-<p>BLOG -- Ruin and Beauty <a href="https://deenametzger.wordpress.com/">www.deenametzger.wordpress.com</a> </p>
+<p>BLOG -- Ruin and Beauty <a href="https://deenametzger.wordpress.com/">www.deenametzger.wordpress.com</a></p>
 
 <p>BLOG -- To Consider 2012 <a href="https://toconsider2012.wordpress.com/">www.toconsider2012.wordpress.com</a></p>
 
@@ -23128,7 +23247,7 @@ ns1:bcphbqfmetz a ns1:User ;
 
 <p>With writer/healer Michael Ortiz Hill, she has introduced the concept of Daré, meaning Council, to North America. The Topanga Daré relies on Council, alliance with Spirit and the natural world, ancestor work, indigenous and wisdom traditions and teachings, music healing, dream telling, divination, kinship, and story telling to achieve personal transformation, community healing and social change.</p>
 
-<p>She is the author of many books, including the novels;  <em>A Rain of Night Birds</em>, (2017), <em>La Negra y Blanca</em> (2012 PEN Oakland Josephine Miles Award for Excellence in Literature), <em>Feral</em>; <em>Ruin and Beauty: New and Selected Poems</em>; <em>From Grief Into Vision: A Council; Doors: A Fiction for Jazz Horn</em>; <em>Entering the Ghost River: Meditations on the Theory and Practice of Healing</em>; <em>The Other Hand; What Dinah Thought</em>; <em>Tree: Essays and Pieces</em>; <em>The Woman Who Slept With Men to Take the War Out of Them</em>; and <em>Writing For Your Life</em>.</p>
+<p>She is the author of many books, including the novels; <em>A Rain of Night Birds</em>, (2017), <em>La Negra y Blanca</em> (2012 PEN Oakland Josephine Miles Award for Excellence in Literature), <em>Feral</em>; <em>Ruin and Beauty: New and Selected Poems</em>; <em>From Grief Into Vision: A Council; Doors: A Fiction for Jazz Horn</em>; <em>Entering the Ghost River: Meditations on the Theory and Practice of Healing</em>; <em>The Other Hand; What Dinah Thought</em>; <em>Tree: Essays and Pieces</em>; <em>The Woman Who Slept With Men to Take the War Out of Them</em>; and <em>Writing For Your Life</em>.</p>
 """^^xsd:string ;
     ns1:handle "deenametzger"^^xsd:string ;
     ns1:itemId "bcphbqfmetz"^^xsd:string ;
@@ -23245,7 +23364,7 @@ ns1:bcphbq3jean a ns1:User ;
 
 <p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
 
-<p>In 2008, <a href="../bcphbxxscsf/27.2">Volume 27 Issue 2 of the Dream Network Journal</a> paid tribute to Jean as well as Rita Dwyer, "Two Exceptional Women Working Vigilantly for Dreams and for Peace". </p>
+<p>In 2008, <a href="../bcphbxxscsf/27.2">Volume 27 Issue 2 of the Dream Network Journal</a> paid tribute to Jean as well as Rita Dwyer, "Two Exceptional Women Working Vigilantly for Dreams and for Peace".</p>
 """^^xsd:string ;
     ns1:handle "jeancampbell"^^xsd:string ;
     ns1:itemId "bcphbq3jean"^^xsd:string ;
@@ -23276,6 +23395,8 @@ ns1:bcphbq3mcle a ns1:User ;
 <p>But recently the humans seem to be acting like the worst kind of invasive species, spreading all over the planet, dominating, killing and destroying everything in sight. The delicate balance of life has been seriously disrupted by humans. What is happening here? Will the humans finally win their war against nature and thus destroy all chance for balance to be restored? What will it take for humans to change our ways, to strive again for some kind of balance?</p>
 """^^xsd:string ;
     ns1:handle "dickmcleester"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://changingworld.com>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/dick-mcleester-92297910/> ;
     ns1:itemId "bcphbq3mcle"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dick McLeester"^^xsd:string ;
@@ -23520,7 +23641,7 @@ ns1:bcphbq3vand a ns1:User ;
 ns1:bcphbqflyer a ns1:User ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
 
-<p>Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams. She was editor of the Dream Network Bulletin alongside <a href="../@bobtrowbridge">Bob Trowbridge</a> from 1987-1989. </p>
+<p>Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams. She was editor of the Dream Network Bulletin alongside <a href="../@bobtrowbridge">Bob Trowbridge</a> from 1987-1989.</p>
 
 <p>Practicing under the discipline of the "Dream-Art Scientist" (a model based on the Jane Roberts' Seth material), she has mastered many dreaming skills and dreamwork techniques.</p>
 
@@ -23605,6 +23726,7 @@ ns1:bcphbqflull a ns1:User ;
 <p><em>Cover image adapted from the cover of Ullman's book, <a href="https://www.ebay.com/itm/295332267596">Working with Dreams</a></em></p>
 """^^xsd:string ;
     ns1:handle "montagueullman"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://siivola.org/monte/> ;
     ns1:itemId "bcphbqflull"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Montague Ullman"^^xsd:string ;
@@ -23613,7 +23735,7 @@ ns1:bcphbqflull a ns1:User ;
 ns1:bcphbqfgreg a ns1:User ;
     ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>
 
-<p>Jill Gregory is a dream networker and educator who founded the Novato Center for Dreams in 1987.  A charter member of the Bay Area Dreamworkers Group, she has served in leadership positions since 1987. She was the Dream Network Bulletin's interviewer from 1987 to 1989, working with <a href="../@caseyflyer">Linda Magallón</a> and <a href="../@bobtrowbridge">Bob Trowbridge</a>.</p>
+<p>Jill Gregory is a dream networker and educator who founded the Novato Center for Dreams in 1987. A charter member of the Bay Area Dreamworkers Group, she has served in leadership positions since 1987. She was the Dream Network Bulletin's interviewer from 1987 to 1989, working with <a href="../@caseyflyer">Linda Magallón</a> and <a href="../@bobtrowbridge">Bob Trowbridge</a>.</p>
 """^^xsd:string ;
     ns1:handle "jillgregory"^^xsd:string ;
     ns1:itemId "bcphbqfgreg"^^xsd:string ;
@@ -23625,11 +23747,11 @@ ns1:bcphbqsorna a ns1:User ;
     ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.ben-shoshan.com/en/">ben-shoshan.com</a></p>
 
-<p>Having an Orna Ben-Shoshan painting on your wall is like having a window to another dimension. Orna’s artwork involves opening her consciousness and channeling images that come to her from a different realm of existence. </p>
+<p>Having an Orna Ben-Shoshan painting on your wall is like having a window to another dimension. Orna’s artwork involves opening her consciousness and channeling images that come to her from a different realm of existence.</p>
 
-<p>All of her paintings are completed in her mind before she transfers them onto the canvas. Her metaphysical work infuses deep spiritual experience with subtle humor. </p>
+<p>All of her paintings are completed in her mind before she transfers them onto the canvas. Her metaphysical work infuses deep spiritual experience with subtle humor.</p>
 
-<p>Orna Ben-Shoshan has been an autodidact artist for the past 30 years. Her artwork has been exhibited in numerous locations in the USA, Europe and Israel. </p>
+<p>Orna Ben-Shoshan has been an autodidact artist for the past 30 years. Her artwork has been exhibited in numerous locations in the USA, Europe and Israel.</p>
 
 <p>Her major motivation as a visual artist is to share her visions with others to expand their consciousness and inspire new ways of thinking. Orna’s life-long interest in metaphysics and mysticism has led her to study the Kabbalah and alternative philosophies. She shares her wide and diverse knowledge in articles and short essays that are published in magazines worldwide alongside her paintings.</p>
 """^^xsd:string ;
@@ -23687,15 +23809,18 @@ ns1:bcphbq3bogz a ns1:User ;
     ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com</a></p>
 
-<p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founded the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with Stephen LaBerge at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: Extraordinary Dreams (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and Integral Dreaming (2012) with Daniel Deslauriers, both published by SUNY Press. She teaches lucid dreaming at CIIS and gives lectures internationally. </p>
+<p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founded the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with Stephen LaBerge at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: Extraordinary Dreams (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and Integral Dreaming (2012) with Daniel Deslauriers, both published by SUNY Press. She teaches lucid dreaming at CIIS and gives lectures internationally.</p>
 
-<p>Based on her art-based research, <em>Images of the Lucid Mind</em> (1996), she co-founded Lucid Art Foundation (1998) with the surrealist painter Gordon Onslow Ford. She has published numerous essays connecting art and consciousness in major international museums and galleries including: <em>Through the Light: An Exploration into Consciousness</em> (1997); <em>Surrealism Dreams on Canvas</em> (2007); <em>Landscape of Consciousness</em> (2008); <em>Remedios Varo: Dreams of Alchemy in Five Keys to the Secret World of Remedios Varo</em> (2008); <em>Matta: Psychological Morphology</em> (2011), and her award-winning book Gordon Onslow Ford: <em>A Man on a Green Island</em> (2019) <a href="http://www.lucidart.org/publications">www.lucidart.org/publications</a>. </p>
+<p>Based on her art-based research, <em>Images of the Lucid Mind</em> (1996), she co-founded Lucid Art Foundation (1998) with the surrealist painter Gordon Onslow Ford. She has published numerous essays connecting art and consciousness in major international museums and galleries including: <em>Through the Light: An Exploration into Consciousness</em> (1997); <em>Surrealism Dreams on Canvas</em> (2007); <em>Landscape of Consciousness</em> (2008); <em>Remedios Varo: Dreams of Alchemy in Five Keys to the Secret World of Remedios Varo</em> (2008); <em>Matta: Psychological Morphology</em> (2011), and her award-winning book Gordon Onslow Ford: <em>A Man on a Green Island</em> (2019) <a href="http://www.lucidart.org/publications">www.lucidart.org/publications</a>.</p>
 
-<p>Among many of her own art exhibitions, there are two major publications: <em>The Third Script: Lucidity of Light</em> (2008), Institute of Noetic Sciences and <em>Lucidity: A Retrospective</em> (2013), Meridian Gallery in San Francisco.  </p>
+<p>Among many of her own art exhibitions, there are two major publications: <em>The Third Script: Lucidity of Light</em> (2008), Institute of Noetic Sciences and <em>Lucidity: A Retrospective</em> (2013), Meridian Gallery in San Francisco.</p>
 
-<p>Currently Fariba spends time in her studio writing and creating artworks and is active in earth's preservation. </p>
+<p>Currently Fariba spends time in her studio writing and creating artworks and is active in earth's preservation.</p>
 """^^xsd:string ;
     ns1:handle "faribabogzaran"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://faribabogzaran.com/narrative-bio>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/faribabogzaran/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/fariba-bogzaran-93209a36/> ;
     ns1:itemId "bcphbq3bogz"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Fariba Bogzaran"^^xsd:string ;
@@ -23740,7 +23865,7 @@ ns1:bcphbqschul a ns1:User ;
     ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://thresholdjourneys.squarespace.com">thresholdjourneys</a></p>
 
-<p>Jeanne’s career path has been that of “teacher.” She has taught learners of all ages, focusing on the integration of soma, soul, and psyche. Whether she is teaching dance, dreamwork, body therapy, or hatha yoga, she is passionate about assisting her students in realizing their sense of wholeness. </p>
+<p>Jeanne’s career path has been that of “teacher.” She has taught learners of all ages, focusing on the integration of soma, soul, and psyche. Whether she is teaching dance, dreamwork, body therapy, or hatha yoga, she is passionate about assisting her students in realizing their sense of wholeness.</p>
 
 <p>Jeanne is Associate Chair at Pacifica Graduate Institute in the department of Depth Psychology with a specialization in Somatic Studies. She is the Artistic Director Emeritus of the dance company at Berry College, where she taught and coordinated the dance minor program for 24 years. She earned her doctorate in Depth Psychology at Pacifica Graduate Institute, her M.A. in Dance at Texas Woman’s University, a B.A. in English and Dance from SUNY Brockport, spent a year studying British Literature at Nottingham University, and is a Registered Somatic Movement Therapist with ISMETA.</p>
 """^^xsd:string ;
@@ -23821,18 +23946,15 @@ ns1:bcphbqvcors a ns1:User ;
 <p><a href="http://www.linkedin.com/in/bambicorso">http://www.linkedin.com/in/bambicorso</a></p>
 """^^xsd:string ;
     ns1:handle "bambicorso"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.facebook.com/bambicorsosfanpage>,
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://bambicorso.com/about-me/>,
+        <https://www.dannykennedy.co/dnj-ontology#http://www.facebook.com/bambicorsosfanpage>,
         <https://www.dannykennedy.co/dnj-ontology#http://www.linkedin.com/in/bambicorso>,
         <https://www.dannykennedy.co/dnj-ontology#http://www.twitter.com/bambicorso>,
-        <https://www.dannykennedy.co/dnj-ontology#http://www.youtube.com/bambicorso>,
-        <https://www.dannykennedy.co/dnj-ontology#https://bambicorso.com/> ;
+        <https://www.dannykennedy.co/dnj-ontology#http://www.youtube.com/bambicorso> ;
     ns1:itemId "bcphbqvcors"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bambi Corso"^^xsd:string ;
     ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
-
-ns1:Website a owl:Class ;
-    rdfs:subClassOf ns1:Item .
 
 ns1:Item a owl:Class .
 
@@ -23840,7 +23962,7 @@ ns1:bcphbqvruss a ns1:User ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://ralockhart.com/">ralockhart.com</a></p>
 
-<p>Los Angeles-born Russell Lockhart has a doctoral degree (human psychophysiology) from the University of Southern California. In 1974 he graduated from the C.G. Jung Institute of Los Angeles, where he served as Director of Analyst Training from 1979 to 1982. Since 1974 he has been in private practice. He has served on the faculties at the University of California, Santa Barbara, and University of California, Berkeley. He was a research psychologist at the University of California, Los Angeles, and Director of the Psychophysiological Research Laboratory at Camarillo State Hospital. </p>
+<p>Los Angeles-born Russell Lockhart has a doctoral degree (human psychophysiology) from the University of Southern California. In 1974 he graduated from the C.G. Jung Institute of Los Angeles, where he served as Director of Analyst Training from 1979 to 1982. Since 1974 he has been in private practice. He has served on the faculties at the University of California, Santa Barbara, and University of California, Berkeley. He was a research psychologist at the University of California, Los Angeles, and Director of the Psychophysiological Research Laboratory at Camarillo State Hospital.</p>
 
 <p>Dr. Lockhart is the author of <a href="https://www.amazon.com/Words-As-Eggs-Russell-Lockhart/dp/0911783008">Words as Eggs: Psyche in Language and Clinic</a>; <a href="https://www.amazon.com/Psyche-Speaks-Jungian-Approach-Paperback/dp/1630512699">Psyche Speaks: A Jungian Approach to Self and World</a>; <a href="https://www.amazon.com/Secrets-Undergroundtrader-Jea-Yu/dp/0071417370">Secrets of the Undergroundtrader</a> (with Jea Yu), and two books in progress: Gleanings from the Dreamfield and <a href="http://ralockhart.com/orderinfo.htm">Hints and Helps for Daytraders</a>. He and his wife Frankie have four children.</p>
 """^^xsd:string ;
@@ -23949,7 +24071,8 @@ ns1:bcphbq3krip a ns1:User ;
 <p>Recently he has collaborated with Sidian Jones on the book <a href="https://mymythos.org/"><em>Mythic Color</em></a>, the first book of an upcoming <em>Personal Mythologist’s Guide series</em> that refreshes Krippner's ongoing exploration of personal mythology.</p>
 """^^xsd:string ;
     ns1:handle "stanleykrippner"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://stanleykrippner.weebly.com>,
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://en.wikipedia.org/wiki/Stanley_Krippner>,
+        <https://www.dannykennedy.co/dnj-ontology#https://stanleykrippner.weebly.com>,
         <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/stanley.krippner.9> ;
     ns1:itemId "bcphbq3krip"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
@@ -23958,6 +24081,9 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:name "Stanley Krippner, Ph.D."^^xsd:string ;
     ns1:ogImg "ogimage-author-stanley-krippner.jpg"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
+
+ns1:Website a owl:Class ;
+    rdfs:subClassOf ns1:Item .
 
 ns1:User rdfs:subClassOf ns1:Actor,
         ns1:Person .

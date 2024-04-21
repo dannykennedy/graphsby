@@ -9,6 +9,9 @@ tags:
 date: 2024-04-21
 profileImg: author-jeremy-taylor.jpg
 coverImg: cover-author-jeremytaylor.jpeg
+websites:
+    - name: jeremytaylor.com
+      url: https://jeremytaylor.com/
 ---
 
 Website: [jeremytaylor.com](http://www.jeremytaylor.com)

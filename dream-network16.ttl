@@ -20173,6 +20173,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "www.BambiCorso.com"^^xsd:string ;
     ns1:url "http://bambicorso.com/about-me/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#http://craigwebb.ca> a ns1:Website ;
+    ns1:name "craigwebb.ca"^^xsd:string ;
+    ns1:url "http://craigwebb.ca"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#http://notesfromadreamer.com/bobbie-ann-pimm/> a ns1:Website ;
     ns1:name "notesfromadreamer.com"^^xsd:string ;
     ns1:url "http://notesfromadreamer.com/bobbie-ann-pimm/"^^xsd:string .
@@ -20229,9 +20233,17 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "chrisryanphd.com"^^xsd:string ;
     ns1:url "https://chrisryanphd.com/about-chris/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://christamackinnon.com/about/> a ns1:Website ;
+    ns1:name "christamackinnon.com"^^xsd:string ;
+    ns1:url "https://christamackinnon.com/about/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://dreamtending.com/stephen-aizenstat-ph-d/> a ns1:Website ;
     ns1:name "Dream Tending"^^xsd:string ;
     ns1:url "https://dreamtending.com/stephen-aizenstat-ph-d/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://edenenergymedicine.com/about-us/david-feinstein/> a ns1:Website ;
+    ns1:name "edenenergymedicine.com"^^xsd:string ;
+    ns1:url "https://edenenergymedicine.com/about-us/david-feinstein/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://en.wikipedia.org/wiki/Stanley_Krippner> a ns1:Website ;
     ns1:name "Wikipedia"^^xsd:string ;
@@ -20240,6 +20252,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://faribabogzaran.com/narrative-bio> a ns1:Website ;
     ns1:name "faribabogzaran.com"^^xsd:string ;
     ns1:url "https://faribabogzaran.com/narrative-bio"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://jeremytaylor.com/> a ns1:Website ;
+    ns1:name "jeremytaylor.com"^^xsd:string ;
+    ns1:url "https://jeremytaylor.com/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://siivola.org/monte/> a ns1:Website ;
     ns1:name "siivola.org/monte"^^xsd:string ;
@@ -20252,6 +20268,14 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/ThatChrisRyan> a ns1:Website ;
     ns1:name "Twitter"^^xsd:string ;
     ns1:url "https://twitter.com/ThatChrisRyan"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://twitter.com/christamackinno> a ns1:Website ;
+    ns1:name "Twitter"^^xsd:string ;
+    ns1:url "https://twitter.com/christamackinno"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://twitter.com/dreammaestro> a ns1:Website ;
+    ns1:name "Twitter"^^xsd:string ;
+    ns1:url "https://twitter.com/dreammaestro"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/dreamtending1> a ns1:Website ;
     ns1:name "Twitter"^^xsd:string ;
@@ -20268,6 +20292,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20220123134219/https://obeliskfoundation.com/> a ns1:Website ;
     ns1:name "obeliskfoundation.com"^^xsd:string ;
     ns1:url "https://web.archive.org/web/20220123134219/https://obeliskfoundation.com/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://womanyouarewine.com/#about> a ns1:Website ;
+    ns1:name "womanyouarewine.com"^^xsd:string ;
+    ns1:url "https://womanyouarewine.com/#about"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.aamindell.net/about-amy-and-arny> a ns1:Website ;
     ns1:name "aamindell.net"^^xsd:string ;
@@ -20333,6 +20361,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Instagram"^^xsd:string ;
     ns1:url "https://www.instagram.com/faribabogzaran/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/mackinnonchrista/> a ns1:Website ;
+    ns1:name "Instagram"^^xsd:string ;
+    ns1:url "https://www.instagram.com/mackinnonchrista/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/thatchrisryan> a ns1:Website ;
     ns1:name "Instagram"^^xsd:string ;
     ns1:url "https://www.instagram.com/thatchrisryan"^^xsd:string .
@@ -20341,6 +20373,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "LinkedIn"^^xsd:string ;
     ns1:url "https://www.linkedin.com/company/dream-tending/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/christa-mackinnon-5427941/?originalSubdomain=uk> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "https://www.linkedin.com/in/christa-mackinnon-5427941/?originalSubdomain=uk"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/dick-mcleester-92297910/> a ns1:Website ;
     ns1:name "LinkedIn"^^xsd:string ;
     ns1:url "https://www.linkedin.com/in/dick-mcleester-92297910/"^^xsd:string .
@@ -20348,6 +20384,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/fariba-bogzaran-93209a36/> a ns1:Website ;
     ns1:name "LinkedIn"^^xsd:string ;
     ns1:url "https://www.linkedin.com/in/fariba-bogzaran-93209a36/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/channel/UCUgMVjw3e9_Xe1BPfiXYeBw> a ns1:Website ;
+    ns1:name "YouTube"^^xsd:string ;
+    ns1:url "https://www.youtube.com/channel/UCUgMVjw3e9_Xe1BPfiXYeBw"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/user/billstimson> a ns1:Website ;
     ns1:name "YouTube"^^xsd:string ;
@@ -21025,6 +21065,11 @@ ns1:bcphbqvmack a ns1:User ;
 <p>Christa Mackinnon is the founder and director of 'Bridging the Worlds Training' and and the co-founder of <a href="https://www.womenweavingchange.com/">‘Women Weaving Change’</a> and of ‘The Modern Medicine Woman Training School’. She is the author of <a href="https://www.goodreads.com/book/show/14483175-shamanism-and-spirituality-in-therapeutic-practice">Shamanism and Spirituality in Therapeutic Practice</a>, Singing Dragon Editions, Jessica Kingsley Publishers and the author of <a href="https://www.goodreads.com/book/show/40587211-shamanism-made-easy">’Shamanism Made Easy - Awaken and Develop the Shamanic Force Within’</a>, Hay House International.</p>
 """^^xsd:string ;
     ns1:handle "christamackinnon"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://christamackinnon.com/about/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/christamackinno>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/mackinnonchrista/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/christa-mackinnon-5427941/?originalSubdomain=uk>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/channel/UCUgMVjw3e9_Xe1BPfiXYeBw> ;
     ns1:itemId "bcphbqvmack"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Christa Mackinnon"^^xsd:string ;
@@ -21115,6 +21160,7 @@ ns1:bcphbqvvcft a ns1:User ;
 <p>Christina Forbes-Thomas is a graduate student at Pacifica Graduate Institute, California, where she studies Depth Psychology with a specialization in Jungian and Archetypal studies. She is from the Caribbean Island country, Jamaica. She has special interest in psychic and creative processes that facilitate psychological transformation and healing, symbolism, and psychic images that can express and contain the numinous in lived experience. Christina is an advocate for the return and revaluing of myths and the old stories and for their inclusion in efforts to recover the symbolic imagination, ways of knowing and being. She works toward offering therapy through poetic practice, an archetypal approach that helps women to reconnect, engage with, and nurture the sacred through direct experience. Her writing engages myths as tools to amplify cultural events, exploring both the inner lives of individuals and the collective challenges of groups.</p>
 """^^xsd:string ;
     ns1:handle "christinaforbesthomas"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://womanyouarewine.com/#about> ;
     ns1:itemId "bcphbqvvcft"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Christina Forbes-Thomas"^^xsd:string ;
@@ -21707,6 +21753,8 @@ ns1:bcphbq3webb a ns1:User ;
 <p>Craig Sim Webb's book, <a href="http://dreamsbehindthemusic.com/">The Dreams Behind the Music</a>, reveals little-known dreams that inspired tremendous success for over 100 top artists, and highlights principles and techniques anyone can use to harvest their own dreams for significant breakthroughs.</p>
 """^^xsd:string ;
     ns1:handle "craigwebb"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://craigwebb.ca>,
+        <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/dreammaestro> ;
     ns1:itemId "bcphbq3webb"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Craig Webb"^^xsd:string ;
@@ -23222,6 +23270,7 @@ ns1:bcphbqfeins a ns1:User ;
 <p>David received the 2002 “Outstanding Contribution” Award from the Association for Comprehensive Energy Psychology (and again in 2012), the U.S. Book News Award for the Best Psychology/Mental Health Book of 2007, the 2015 “Outstanding Leadership” Award from the Canadian Association for Integrative and Energy Therapies, and the Infinity Foundation’s 2013 “Spirit Award” (with Donna) for their contribution to “the evolution of consciousness” and its “impact on society.” A licensed psychologist (Oregon), he has contributed more than 100 articles to the professional literature.</p>
 """^^xsd:string ;
     ns1:handle "davidfeinstein"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://edenenergymedicine.com/about-us/david-feinstein/> ;
     ns1:itemId "bcphbqfeins"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "David Feinstein"^^xsd:string ;
@@ -24018,6 +24067,7 @@ ns1:bcphbqawtay a ns1:User ;
 <p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>.</p>
 """^^xsd:string ;
     ns1:handle "jeremytaylor"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://jeremytaylor.com/> ;
     ns1:itemId "bcphbqawtay"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jeremy Taylor"^^xsd:string ;

@@ -8,6 +8,9 @@ tags:
 date: 2024-04-21
 profileImg: author-davidfeinstein.jpg
 coverImg: cover-author-davidfeinstein.jpg
+websites:
+    - name: edenenergymedicine.com
+      url: https://edenenergymedicine.com/about-us/david-feinstein/
 ---
 
 Website: [edenenergymedicine.com](https://edenenergymedicine.com/about-us/david-feinstein/)

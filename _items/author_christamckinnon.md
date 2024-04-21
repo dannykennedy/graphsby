@@ -9,6 +9,17 @@ tags:
 date: 2024-04-21
 profileImg: author-christa-mackinnon.jpg
 coverImg: cover-author-christamackinnon.jpg
+websites:
+    - name: christamackinnon.com
+      url: https://christamackinnon.com/about/
+    - name: Instagram
+      url: https://www.instagram.com/mackinnonchrista/
+    - name: Twitter
+      url: https://twitter.com/christamackinno
+    - name: YouTube
+      url: https://www.youtube.com/channel/UCUgMVjw3e9_Xe1BPfiXYeBw
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/christa-mackinnon-5427941/?originalSubdomain=uk
 ---
 
 Website: [christamackinnon.com](https://christamackinnon.com/)

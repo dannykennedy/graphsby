@@ -5,9 +5,12 @@ itemId: bcphbq3olse
 handle: fredolsen
 name: "Fred Olsen"
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-fredolsen.jpg
 coverImg: cover-author-fredolsen.jpg
+websites:
+    - name: inner-image.net
+      url: https://www.inner-image.net/fred-olsen.php
 ---
 
 Website: [inner-image.net](http://www.inner-image.net/fred-olsen.php)

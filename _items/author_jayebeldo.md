@@ -6,9 +6,12 @@ handle: jayeb
 name: "Jaye Beldo"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-jayebeldo.jpg
 coverImg: cover-author-jayebeldo.jpg
+websites:
+    - name: Trace Hints
+      url: https://medium.com/@tracehints
 ---
 
 Website: [medium.com/@tracehints](https://medium.com/@tracehints)

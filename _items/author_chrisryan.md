@@ -6,7 +6,7 @@ handle: chrisryan
 name: "Christopher Ryan"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-chris-ryan.jpg
 coverImg: cover-chris-ryan.jpg
 websites:

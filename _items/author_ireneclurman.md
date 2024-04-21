@@ -6,9 +6,12 @@ handle: ireneclurman
 name: "Irene Clurman"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-ireneclurman.jpg
 coverImg: cover-author-ireneclurman.jpg
+websites:
+    - name: Dream Portrayal
+      url: https://www.dreamportrayal.com/index.html
 ---
 
 Website: [www.dreamportrayal.com](https://www.dreamportrayal.com/index.html)

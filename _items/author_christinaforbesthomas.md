@@ -6,7 +6,7 @@ handle: christinaforbesthomas
 name: "Christina Forbes-Thomas"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-christina-forbes-thomas.jpg
 coverImg: cover-author-christina-forbes-thomas.jpg
 websites:

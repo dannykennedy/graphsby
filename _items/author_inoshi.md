@@ -6,9 +6,14 @@ handle: inoshi
 name: "Inoshi"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-inoshi-zoomout-sml.jpg
 coverImg: cover-author-inoshi-denizen.jpg
+websites:
+    - name: eastwest.works
+      url: https://eastwest.works/Inoshi.html
+    - name: Twitter
+      url: https://twitter.com/EastWest_Works
 ---
 
 Website: [eastwest.works](https://eastwest.works/Inoshi.html)

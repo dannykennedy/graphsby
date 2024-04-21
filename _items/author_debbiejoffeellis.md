@@ -6,9 +6,12 @@ handle: debbiejoffeellis
 name: "Dr. Debbie Joffe Ellis"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-debbiejoffeellis.jpg
 coverImg: cover-author-debbiejoffeellis.jpg
+websites:
+    - name: debbiejoffeellis.com
+      url: http://www.debbiejoffeellis.com/
 ---
 
 Website: <a href="http://www.debbiejoffeellis.com/" target="_blank">www.debbiejoffeellis.com</a>

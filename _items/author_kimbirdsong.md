@@ -6,7 +6,7 @@ handle: kimbirdsong
 name: "Kim Birdsong"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-kim-birdsong.jpg
 coverImg: cover-author-kim-birdsong.jpg
 ---

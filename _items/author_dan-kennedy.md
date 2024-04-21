@@ -6,9 +6,14 @@ handle: dan
 name: "Dan Kennedy"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-dan-kennedy.jpg
 coverImg: cover-author-dan-kennedy.jpg
+websites:
+    - name: Personal website
+      url: https://dannykennedy.co/
+    - name: Twitter profile
+      url: https://twitter.com/kannydennedy
 ---
 
 Website: [dannykennedy.co](https://dannykennedy.co/)

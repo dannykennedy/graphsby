@@ -6,7 +6,7 @@ handle: craigchalquist
 name: "Craig Chalquist"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-craig-chalquist.jpg
 coverImg: cover-craig-chalquist.jpg
 websites:

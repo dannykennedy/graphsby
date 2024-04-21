@@ -6,7 +6,7 @@ handle: bobtrowbridge
 name: "Bob Trowbridge"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-bob-trowbridge.jpg
 websites:
     - name: bobtrowbridge.com

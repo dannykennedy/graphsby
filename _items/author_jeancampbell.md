@@ -6,8 +6,13 @@ handle: jeancampbell
 name: "Jean Campbell"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-jean-campbell.jpg
+websites:
+    - name: World Dreams Peace Bridge
+      url: https://www.worlddreamspeacebridge.org/
+      name: Instagram
+      url: https://www.instagram.com/worlddreamspeacebridge/
 ---
 
 Website: [worlddreamspeacebridge.org](https://www.worlddreamspeacebridge.org/)

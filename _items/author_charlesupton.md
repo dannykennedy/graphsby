@@ -6,7 +6,7 @@ handle: charlesupton
 name: "Charles Upton"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-charles-upton-3.jpg
 coverImg: cover-author-charles-upton.jpg
 websites:

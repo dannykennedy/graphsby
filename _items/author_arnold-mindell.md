@@ -6,7 +6,7 @@ handle: arnoldmindell
 name: "Dr. Arnold Mindell"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-arnold-mindell.jpg
 coverImg: cover-author-arnold-mindell.jpg
 websites:

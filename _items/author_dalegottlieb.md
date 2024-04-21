@@ -6,9 +6,12 @@ handle: dalegottlieb
 name: "Dale Gottlieb"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-dalegottlieb.jpg
 coverImg: cover-img-dale-gottlieb.png
+websites:
+    - name: dalegottlieb.com
+      url: http://www.dalegottlieb.com/
 ---
 
 Website: [dalegottlieb.com](http://www.dalegottlieb.com/)

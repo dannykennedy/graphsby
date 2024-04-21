@@ -6,7 +6,7 @@ handle: catherinekennedy
 name: "Catherine Kennedy"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-catherinekennedy.jpg
 coverImg: cover-author-catherinekennedy.jpeg
 websites:

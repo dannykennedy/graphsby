@@ -6,7 +6,7 @@ handle: arthurstrock
 name: "Arthur Strock"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-arthur-strock.jpg
 websites:
     - name: arthurstrock.com

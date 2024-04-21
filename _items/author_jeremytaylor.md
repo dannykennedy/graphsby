@@ -6,7 +6,7 @@ handle: jeremytaylor
 name: "Jeremy Taylor"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-jeremy-taylor.jpg
 coverImg: cover-author-jeremytaylor.jpeg
 websites:

@@ -6,7 +6,7 @@ handle: laurenschneider
 name: "Lauren Z. Schneider"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-lauren-schneider.jpg
 coverImg: cover-author-lauren-schneider.jpg
 ---

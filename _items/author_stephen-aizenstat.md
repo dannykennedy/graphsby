@@ -6,7 +6,7 @@ handle: stephenaizenstat
 name: "Stephen Aizenstat, Ph.D."
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-stephen-aizenstat.jpg
 coverImg: cover-author-stephen-aizenstat.jpg
 websites:

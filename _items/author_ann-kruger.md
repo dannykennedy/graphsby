@@ -6,7 +6,7 @@ handle: annkruglak
 name: "Ann Kruglak"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-annkruglak.jpg
 coverImg: cover-author-annkruglak.jpg
 websites:

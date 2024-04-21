@@ -6,7 +6,7 @@ handle: kellybulkeley
 name: "Kelly Bulkeley"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-kelly-bulkeley.jpg
 coverImg: cover-author-kelly-bulkeley.jpg
 ---

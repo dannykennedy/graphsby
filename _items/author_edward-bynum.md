@@ -6,7 +6,7 @@ handle: edwardbrucebynum
 name: "Edward Bruce Bynum, Ph.D., ABPP"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-edward-bynum.jpg
 coverImg: cover-author-edward-bynum.jpg
 websites:

@@ -6,9 +6,16 @@ handle: deenametzger
 name: "Deena Metzger"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-deena-metzger.jpg
 coverImg: cover-author-deena-metzger.jpg
+websites:
+    - name: Personal Website
+      url: http://deenametzger.net/
+    - name: Blog
+      url: https://deenametzger.wordpress.com/
+    - name: Blog - To Consider 2012
+      url: https://toconsider2012.wordpress.com/
 ---
 
 Website: [deenametzger.net](http://deenametzger.net/)

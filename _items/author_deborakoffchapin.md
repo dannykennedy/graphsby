@@ -6,9 +6,18 @@ handle: deborahkoffchapin
 name: "Deborah Koff-Chapin"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-deborahkoffchapin.jpg
 coverImg: cover-author-deborahkoffchapin.jpg
+websites:
+    - name: touchdrawing.com
+      url: https://touchdrawing.com/
+    - name: Twitter
+      url: https://twitter.com/debsoultouch
+    - name: Instagram
+      url: https://www.instagram.com/debsoultouch/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/deborah-koff-chapin-1826aab/
 ---
 
 Website: [touchdrawing.com](https://touchdrawing.com/)

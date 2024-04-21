@@ -6,9 +6,12 @@ handle: jaynegackenbach
 name: "Jayne Gackenbach"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-jayne-gackenbach.jpg
 coverImg: cover-author-jayne-gackenbach.jpg
+websites:
+    - name: Jayne Gackenbach
+      url: https://jaynegackenbach.ca/
 ---
 
 Website: [jaynegackenbach.ca](https://jaynegackenbach.ca/)

@@ -6,8 +6,11 @@ handle: curtisshoffman
 name: "Curtiss Hoffman"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-curtiss-hoffman.jpg
+websites:
+    - name: Bridgewater University academic profile
+      url: https://www.bridgew.edu/person/dr-curtiss-hoffman
 ---
 
 Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of _The Seven Story Tower: A Mythic Journey through Space and Time_, and _Stone Prayers_, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.

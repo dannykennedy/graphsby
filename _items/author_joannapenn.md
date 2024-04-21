@@ -9,6 +9,13 @@ tags:
 date: 2024-04-21
 profileImg: author-joanna-penn.jpg
 coverImg: cover-author-joanna-penn.jpg
+websites:
+    - name: J.F.Penn
+      url: https://jfpenn.com/
+    - name: Instagram
+      url: https://www.instagram.com/jfpennauthor/
+    - name: Twitter
+      url: https://twitter.com/thecreativepenn
 ---
 
 Website: [jfpenn.com](https://jfpenn.com/)

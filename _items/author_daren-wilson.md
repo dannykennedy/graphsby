@@ -6,9 +6,12 @@ handle: darenwilson
 name: "Daren Wilson"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-daren-wilson.jpg
 coverImg: cover-author-daren-wilson.jpg
+websites:
+    - name: LinkedIn Profile
+      url: https://www.linkedin.com/in/daren-scot-wilson/
 ---
 
 LinkedIn: [linkedin.com/in/daren-scot-wilson](https://www.linkedin.com/in/daren-scot-wilson/)

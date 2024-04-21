@@ -6,7 +6,7 @@ handle: christamackinnon
 name: "Christa Mackinnon"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-christa-mackinnon.jpg
 coverImg: cover-author-christamackinnon.jpg
 websites:

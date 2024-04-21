@@ -6,12 +6,19 @@ handle: jordiborras
 name: "Jordi Borràs García"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author_jordiborras.jpg
 coverImg: cover-author_jordiborras.jpg
+websites:
+    - name: Mondesomnis
+      url: https://www.mondesomnis.org/
+    - name: Instagram
+      url: https://www.instagram.com/mondesomnis/
+    - name: YouTube
+      url: https://www.youtube.com/channel/UCskuFnbxVpU1nhCM404fFkA
 ---
 
-Website: <a href="https://www.mondesomnis.com/" target="_blank">mondesomnis.com</a>
+Website: <a href="https://www.mondesomnis.org/" target="_blank">Mondesomnis</a>
 
 I'm a psychologist and graduate of the University of Barcelona. After finishing my degree, I realised that dreams were path in which my two main interests converged: the study of consciousness and the practice of creativity (which I have been able to experience through theater, comics and illustration, and as a musician and singer). Since then, I've been training and keeping up to date with the latest discoveries and proposals from cutting-edge international specialists. On the other hand, I have felt it essential to assimilate knowledge about dreaming from different cultures, as well as multiple philosophical and religious traditions. For example, I received the teachings of Tibetan Dream Yoga from <a href="https://en.wikipedia.org/wiki/Tenzin_Wangyal_Rinpoche" target="_blank">Lama Tenzin Wangyal Rinpoche</a> during various retreats.
 

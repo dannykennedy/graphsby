@@ -6,9 +6,14 @@ handle: genellhowell
 name: "Genell Howell"
 shortDescription: ""
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-gh.jpg
 coverImg: cover-genell-howell.jpg
+websites:
+    - name: genellhowell.com
+      url: https://www.genellhowell.com/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/genell-howell-lmhc-csac-sep-2b216b7b/
 ---
 
 Website: [genellhowell.com](https://www.genellhowell.com/)

@@ -5,7 +5,7 @@ itemId: bcphbqfeins
 handle: davidfeinstein
 name: "David Feinstein"
 tags:
-date: 2024-04-21
+date: 2022-10-21
 profileImg: author-davidfeinstein.jpg
 coverImg: cover-author-davidfeinstein.jpg
 websites:

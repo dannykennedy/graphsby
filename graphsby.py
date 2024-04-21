@@ -576,7 +576,7 @@ for pyyam in file_objects:
 					other_articles_in_issue["articles"].append({"issue_name": issue_name, "name": article_name, "itemId": article_id, "profileImg": display_profile_img, "string_identifier": article_string_identifier, "url": '../' + article_id + '/' + article_string_identifier, "target": "_self"})
 
 		elif relation == "hasAuthor":
-			author = {"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "articles": []}
+			author = {"name": tagName, "type": tagType, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "articles": []}
 			
 			# RELATED ARTICLES - Find all articles that this author has written
 			query_string = """
@@ -642,6 +642,7 @@ for pyyam in file_objects:
 		canonical_url = site_url + str(pyyam["itemId"]) + "/" + pyyam["urlSlug"]
 		og_url = canonical_url
 
+	# JSON-LD
 	json_ld_type = ""
 	if "type" in pyyam.keys():
 		if pyyam["type"] == "user":
@@ -652,14 +653,30 @@ for pyyam in file_objects:
 			json_ld_type = "Article"
 	else:
 		json_ld_type = "Article"
+		
+	# JSON-LD authors
+	json_ld_authors = []
+	if "authors" in pyyam.keys():
+		for author in pyyam["authors"]:
+			author_type = ""
+			if "type" in author.keys():
+				if author["type"].lower() == "user":
+					author_type = "Person"
+				elif author["type"].lower() == "page":
+					author_type = "Organization"
+			else:
+				author_type = "Person"
+			json_ld_authors.append({"json_ld_type": author_type, "name": str(author["name"])})
+
+	
 
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_type=json_ld_type)
+			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_type=json_ld_type, json_ld_authors=json_ld_authors)
 		else:
-			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_type=json_ld_type)
+			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_type=json_ld_type, json_ld_authors=json_ld_authors)
 	else:
-		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_type=json_ld_type)
+		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_type=json_ld_type, json_ld_authors=json_ld_authors)
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"

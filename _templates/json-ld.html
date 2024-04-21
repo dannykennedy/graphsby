@@ -4,6 +4,15 @@
         "@type": "{{json_ld_type}}",
         {% if render_item.dateCreated %}
         "datePublished": "{{render_item.dateCreated}}",
+        {% endif %} {% if json_ld_authors %}
+        "author": [
+            {% for author in json_ld_authors %}
+            {
+                "@type": "{{author.json_ld_type}}",
+                "name": "{{author.name}}"
+            }{% if not loop.last %},{% endif %}
+            {% endfor %}
+        ],
         {% endif %}
         "name": "{{render_item.name}}"
     }

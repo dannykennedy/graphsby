@@ -621,20 +621,6 @@ for pyyam in file_objects:
 		dateOfPost = pyyam["dateCreated"]
 		pyyam["dateString"] = formatDate(dateOfPost, "month")
 
-	# Add supporters
-	# If a supporter has a descriptionB, randomly choose one to display
-	# And add the description to the url for AB testing
-	# supporters = []
-	# for supporter in supporters:
-	# 	if "descriptionB" in supporter.keys():
-	# 		# Randomly choose description or descriptionB
-	# 		# 50/50 chance
-	# 		if random.randint(0,1) == 0:
-	# 			supporter["description"] = supporter["descriptionB"]
-	# 			supporter["url"] = supporter["url"] + "&cta=b"
-	# 		else:
-	# 			supporter["url"] = supporter["url"] + "&cta=a"
-			
 	
 	pyyam["supporters"] = supporters
 
@@ -656,14 +642,24 @@ for pyyam in file_objects:
 		canonical_url = site_url + str(pyyam["itemId"]) + "/" + pyyam["urlSlug"]
 		og_url = canonical_url
 
+	json_ld_type = ""
+	if "type" in pyyam.keys():
+		if pyyam["type"] == "user":
+			json_ld_type = "Person"
+		elif pyyam["type"] == "page":
+			json_ld_type = "WebPage"
+		elif pyyam["type"] == "post":
+			json_ld_type = "Article"
+	else:
+		json_ld_type = "Article"
 
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords)
+			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_type=json_ld_type)
 		else:
-			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords)
+			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_type=json_ld_type)
 	else:
-		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords)
+		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_type=json_ld_type)
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"

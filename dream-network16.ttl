@@ -20169,6 +20169,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Linda Riebel"^^xsd:string ;
     ns1:profileImg "author_linda_riebel.jpg"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#http://notesfromadreamer.com/bobbie-ann-pimm/> a ns1:Website ;
+    ns1:name "notesfromadreamer.com"^^xsd:string ;
+    ns1:url "http://notesfromadreamer.com/bobbie-ann-pimm/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#http://www.aamindell.net/> a ns1:Website ;
     ns1:name "aamindell.net"^^xsd:string ;
     ns1:url "http://www.aamindell.net/"^^xsd:string .
@@ -20205,9 +20209,21 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "www.BambiCorso.com"^^xsd:string ;
     ns1:url "https://bambicorso.com/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://brendaferrimanidreamart.com/> a ns1:Website ;
+    ns1:name "brendaferrimanidreamart.com"^^xsd:string ;
+    ns1:url "https://brendaferrimanidreamart.com/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://stanleykrippner.weebly.com> a ns1:Website ;
     ns1:name "stanleykrippner.weebly.com"^^xsd:string ;
     ns1:url "https://stanleykrippner.weebly.com"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html> a ns1:Website ;
+    ns1:name "ourdreamingmind.com"^^xsd:string ;
+    ns1:url "https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html> a ns1:Website ;
+    ns1:name "bobtrowbridge.com"^^xsd:string ;
+    ns1:url "https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.aamindell.net/about-amy-and-arny> a ns1:Website ;
     ns1:name "aamindell.net"^^xsd:string ;
@@ -20221,9 +20237,21 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "MysticDreamerArt"^^xsd:string ;
     ns1:url "https://www.etsy.com/shop/MysticDreamerArt"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/Dream-Art-by-Brenda-Ferrimani-115114085196452> a ns1:Website ;
+    ns1:name "Facebook"^^xsd:string ;
+    ns1:url "https://www.facebook.com/Dream-Art-by-Brenda-Ferrimani-115114085196452"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/stanley.krippner.9> a ns1:Website ;
     ns1:name "Facebook"^^xsd:string ;
     ns1:url "https://www.facebook.com/stanley.krippner.9"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/william.stimson.75> a ns1:Website ;
+    ns1:name "Facebook"^^xsd:string ;
+    ns1:url "https://www.facebook.com/william.stimson.75"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/user/billstimson> a ns1:Website ;
+    ns1:name "YouTube"^^xsd:string ;
+    ns1:url "https://www.youtube.com/user/billstimson"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/watch?v=xWw2IqNsL2c> a ns1:Website ;
     ns1:name "Art that Saves the World"^^xsd:string ;
@@ -20737,15 +20765,16 @@ ns1:bcphbqfhill a ns1:User ;
     ns1:profileImg "author-michael-ortiz-hill.jpg"^^xsd:string .
 
 ns1:bcphbqftrow a ns1:User ;
-    ns1:description """<p>Website: <a href="http://www.bobtrowbridge.com/about.html">bobtrowbridge.com</a></p>
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html">bobtrowbridge.com</a></p>
 
-<p>Bob was editor of the Dream Network Bulletin alongside Linda Magallón from 1987-1989. He graduated from San Francisco Theological Seminary in 1968 and was ordained as a Presbyterian minister. His ongoing spiritual seeking led him to leave the ministery. Since that time he has studied many spiritual systems and is a perpetual spiritual seeker. </p>
+<p>Bob was editor of the Dream Network Bulletin alongside Linda Magallón from 1987-1989. He graduated from San Francisco Theological Seminary in 1968 and was ordained as a Presbyterian minister. His ongoing spiritual seeking led him to leave the ministery. Since that time he has studied many spiritual systems and is a perpetual spiritual seeker.</p>
 
-<p>Bob has been a teacher, speaker, workshop leader and spiritual counselor for over 44 years He is a writer and editor. His book, <em>The Hidden Meaning of Illness: Disease as a Symbol and Metaphor</em>, was published by A.R.E. Press in 1996. He has written for Venture Inward, Magical Blend, Body, Mind &amp; Spirit, and many other publications. </p>
+<p>Bob has been a teacher, speaker, workshop leader and spiritual counselor for over 44 years He is a writer and editor. His book, <em>The Hidden Meaning of Illness: Disease as a Symbol and Metaphor</em>, was published by A.R.E. Press in 1996. He has written for Venture Inward, Magical Blend, Body, Mind &amp; Spirit, and many other publications.</p>
 
-<p>Bob is available for speaking and workshops. Call or write for topics. </p>
+<p>Bob is available for speaking and workshops. Call or write for topics.</p>
 """^^xsd:string ;
     ns1:handle "bobtrowbridge"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html> ;
     ns1:itemId "bcphbqftrow"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bob Trowbridge"^^xsd:string ;
@@ -21205,7 +21234,7 @@ ns1:bcphbq3pimm a ns1:User ;
 
 <p>I am a dreamworker and author of Notes From a Dreamer… on Dreaming: A Personal Journey in Dream Interpretation. My current focus is on teaching others how to interpret and work with their own dreams. I have created several <a href="https://theazire.org/moodle/course/index.php?categoryid=11">online courses on dream interpretation</a>. I am also available to do workshops and one-on-one consultations via phone or Skype.</p>
 
-<p>My interest in dreams began in 1988, after I left my husband of 13 years.  At that time, two dreams kept recurring over and over again; dreams which I had since I was 12. I knew these dreams were trying to tell me something, but didn’t know just what. In 1994, I discovered the book, Our Dreaming Mind, by <a href="../@bobvandecastle">Dr. Robert L. Van de Castle</a>, which helped me understand the process of dreaming.  With further reading and research, I began to slowly learn to decipher my dreams.</p>
+<p>My interest in dreams began in 1988, after I left my husband of 13 years. At that time, two dreams kept recurring over and over again; dreams which I had since I was 12. I knew these dreams were trying to tell me something, but didn’t know just what. In 1994, I discovered the book, Our Dreaming Mind, by <a href="../@bobvandecastle">Dr. Robert L. Van de Castle</a>, which helped me understand the process of dreaming. With further reading and research, I began to slowly learn to decipher my dreams.</p>
 
 <p>I have been actively enlightening others online about dreams since 2001, when I created my original Notes From a Dreamer… on Dreaming website to share my experience of learning to interpret my own dreams. Then, in late September 2008, I connected with Dr. Robert Van de Castle at an online PsiberDreaming Conference put on by the <a href="http://asdreams.org/">International Association for the Study of Dreams (IASD)</a>. A few short weeks, several lengthy phone calls and numerous emails later, I left New Jersey and moved to Charlottesville, VA to live and work with him until his passing in January 2014. Working closely with Dr. Van de Castle, we created and taught an online course for Atlantic University, Becoming a Teacher of Dreamwork/Dream Interpretation. We also presented together at several conferences and co-authored an article for Explore! journal, <a href="http://www.explorejournal.com/article/S1550-8307(10)00099-6/abstract">Dreams As a Multidimensional Expression of PSI</a>.</p>
 
@@ -21214,6 +21243,7 @@ ns1:bcphbq3pimm a ns1:User ;
 <p>I believe that our dreams are the key to becoming more aware of who we are, why we are who we are and who we are supposed to be. If you care to join me, I’d like to help you learn to interpret your dreams as I have learned to do.</p>
 """^^xsd:string ;
     ns1:handle "bobbieannpimm"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://notesfromadreamer.com/bobbie-ann-pimm/> ;
     ns1:itemId "bcphbq3pimm"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bobbie Ann Pimm"^^xsd:string ;
@@ -23446,6 +23476,8 @@ ns1:bcphbq3ferr a ns1:User ;
 <p>I am certified for professional dream work through the Marin Institute of CA.</p>
 """^^xsd:string ;
     ns1:handle "brendaferrimani"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://brendaferrimanidreamart.com/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/Dream-Art-by-Brenda-Ferrimani-115114085196452> ;
     ns1:itemId "bcphbq3ferr"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Brenda Ferrimani"^^xsd:string ;
@@ -23479,6 +23511,7 @@ ns1:bcphbq3vand a ns1:User ;
 <p>He is survived by his sons, Drake Cameron Van de Castle and Keith Dawson Van de Castle; daughter, Parker Mary York and daughter-in-law, Teresa Spigle Van de Castle. He is also survived by his sister, Mary Elizabeth Hinton; his loving partner of five plus years, <a href="../@bobbieannpimm">Bobbie Ann Pimm</a>, and three grandchildren.</p>
 """^^xsd:string ;
     ns1:handle "bobvandecastle"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html> ;
     ns1:itemId "bcphbq3vand"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert Van de Castle"^^xsd:string ;
@@ -23633,6 +23666,8 @@ ns1:bcphbqvstim a ns1:User ;
 <p>His latest book, <a href="https://www.amazon.com/Glimpses-Beyond-Ego-Dreams-Nature/dp/B08F6RYH8W/ref=sr_1_1?dchild=1&qid=1602155108&refinements=p_27%3A+Ph.D.%5CcWilliam+R.+Stimson&s=books&sr=1-1&text=William+R.+Stimson%2C+Ph.D.">Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature</a> is now available on Amazon.</p>
 """^^xsd:string ;
     ns1:handle "billstimson"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/william.stimson.75>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/user/billstimson> ;
     ns1:itemId "bcphbqvstim"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "William R. Stimson"^^xsd:string ;
@@ -23680,9 +23715,6 @@ ns1:bcphbxjsuyu a ns1:Post ;
     ns1:name "Volume 26, issue 1: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
     ns1:profileImg "26.1-2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "26.1-2"^^xsd:string .
-
-ns1:Website a owl:Class ;
-    rdfs:subClassOf ns1:Item .
 
 ns1:bcphbqvreed a ns1:User ;
     ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
@@ -23798,6 +23830,9 @@ ns1:bcphbqvcors a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bambi Corso"^^xsd:string ;
     ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
+
+ns1:Website a owl:Class ;
+    rdfs:subClassOf ns1:Item .
 
 ns1:Item a owl:Class .
 

@@ -8,6 +8,11 @@ shortDescription: ""
 tags:
 date: 2015-03-24
 profileImg: author-brendaferrimani.jpg
+websites:
+    - name: brendaferrimanidreamart.com
+      url: https://brendaferrimanidreamart.com/
+    - name: Facebook
+      url: https://www.facebook.com/Dream-Art-by-Brenda-Ferrimani-115114085196452
 ---
 
 Website: [brendaferrimanidreamart.com](https://brendaferrimanidreamart.com/)

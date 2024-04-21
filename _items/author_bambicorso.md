@@ -11,7 +11,7 @@ profileImg: author-bambi-corso.jpg
 coverImg: cover-author-bambi-corso.jpg
 websites:
     - name: www.BambiCorso.com
-      url: https://bambicorso.com/
+      url: http://bambicorso.com/about-me/
     - name: Twitter
       url: http://www.twitter.com/bambicorso
     - name: Facebook

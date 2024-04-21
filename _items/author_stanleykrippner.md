@@ -12,6 +12,11 @@ date: 2015-03-24
 profileImg: author-stanley-krippner.jpg
 coverImg: cover-author-stanley-krippner.jpg
 ogImg: ogimage-author-stanley-krippner.jpg
+websites:
+    - name: stanleykrippner.weebly.com
+      url: https://stanleykrippner.weebly.com
+    - name: Facebook
+      url: https://www.facebook.com/stanley.krippner.9
 ---
 
 Website: [stanleykrippner.weebly.com](https://stanleykrippner.weebly.com)

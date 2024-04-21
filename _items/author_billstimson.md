@@ -9,6 +9,11 @@ tags:
 date: 2015-03-24
 profileImg: author-bill-stimson.jpg
 coverImg: cover-author-bill-stimson.jpg
+websites:
+    - name: YouTube
+      url: https://www.youtube.com/user/billstimson
+    - name: Facebook
+      url: https://www.facebook.com/william.stimson.75
 ---
 
 YouTube: [youtube.com/user/billstimson](https://www.youtube.com/user/billstimson)

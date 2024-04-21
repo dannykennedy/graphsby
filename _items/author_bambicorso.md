@@ -9,6 +9,17 @@ tags:
 date: 2015-03-24
 profileImg: author-bambi-corso.jpg
 coverImg: cover-author-bambi-corso.jpg
+websites:
+    - name: www.BambiCorso.com
+      url: https://bambicorso.com/
+    - name: Twitter
+      url: http://www.twitter.com/bambicorso
+    - name: Facebook
+      url: http://www.facebook.com/bambicorsosfanpage
+    - name: Youtube
+      url: http://www.youtube.com/bambicorso
+    - name: LinkedIn
+      url: http://www.linkedin.com/in/bambicorso
 ---
 
 Author, DreamTracker, Law of Attraction Certified Coach

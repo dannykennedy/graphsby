@@ -43,6 +43,7 @@ placeClass = dreamNS['Place']
 postClass = dreamNS['Post']
 imageClass = dreamNS['Image']
 topicClass = dreamNS['Topic']
+websiteClass = dreamNS['Website']
 
 # Object properties
 hasTag = dreamNS['hasTag']
@@ -50,6 +51,7 @@ inIssue = dreamNS['inIssue']
 hasAuthor = dreamNS['hasAuthor']
 featuredIn = dreamNS['featuredIn']
 hasTopic = dreamNS['hasTopic']
+hasWebsite = dreamNS['hasWebsite']
 
 # Datatype properties
 name = dreamNS['name']
@@ -67,6 +69,7 @@ featuredLabel = dreamNS['featuredLabel']
 canonicalUrl = dreamNS['canonicalUrl']
 metaDescription = dreamNS['metaDescription']
 metaKeywords = dreamNS['metaKeywords']
+url = dreamNS['url']
 
 def createGraph():
 	print("Creating graph")
@@ -83,6 +86,7 @@ def createGraph():
 	(postClass, rdfType, owlClass),
 	(imageClass, rdfType, owlClass),
 	(topicClass, rdfType, owlClass),
+	(websiteClass, rdfType, owlClass),
 	]
 
 	classHierarchyTriples = [
@@ -97,6 +101,7 @@ def createGraph():
 	(postClass, rdfsSubClassOf, itemClass),
 	(topicClass, rdfsSubClassOf, itemClass),
 	(imageClass, rdfsSubClassOf, postClass),
+	(websiteClass, rdfsSubClassOf, itemClass),
 	]
 
 	propertyTriples = [
@@ -177,6 +182,11 @@ def createGraph():
 	(metaKeywords, rdfsDomain, itemClass),
 	(metaKeywords, rdfsRange, xsdString),
 
+	# URL
+	(url, rdfType, owlDatatypeProperty),
+	(url, rdfsDomain, websiteClass),
+	(url, rdfsRange, xsdString),
+
 	# OBJECT PROPERTIES
 
 	# Tag
@@ -202,7 +212,12 @@ def createGraph():
 	# Topic
 	(hasTopic, rdfType, owlObjectProperty),
 	(hasTopic, rdfsDomain, itemClass),
-	(hasTopic, rdfsRange, itemClass)
+	(hasTopic, rdfsRange, itemClass),
+
+	# Website
+	(hasWebsite, rdfType, owlObjectProperty),
+	(hasWebsite, rdfsDomain, actorClass),
+	(hasWebsite, rdfsRange, websiteClass),
 	]
 
 	# Save graph structure

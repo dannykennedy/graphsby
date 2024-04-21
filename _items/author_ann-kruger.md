@@ -9,6 +9,11 @@ tags:
 date: 2015-03-24
 profileImg: author-annkruglak.jpg
 coverImg: cover-author-annkruglak.jpg
+websites:
+    - name: MysticDreamerArt
+      url: https://www.etsy.com/shop/MysticDreamerArt
+    - name: Art that Saves the World
+      url: https://www.youtube.com/watch?v=xWw2IqNsL2c
 ---
 
 Etsy: [MysticDreamerArt](https://www.etsy.com/shop/MysticDreamerArt)

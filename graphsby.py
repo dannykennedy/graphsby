@@ -139,6 +139,7 @@ for pyyam in file_objects:
 		"user": userClass,
 		"post": postClass,
 		"topic": topicClass,
+		"website": websiteClass,
 	}
 
 	# When you find an item, store it by its ID
@@ -199,6 +200,19 @@ for pyyam in file_objects:
 	# metaKeywords
 	if 'metaKeywords' in pyyam.keys():
 		instances.append((newItem, metaKeywords, Literal(pyyam['metaKeywords'], datatype=xsdString)))
+
+	# Websites (these are items in their own right)
+	# websites:
+    # - name: droomtoko.nl
+    #   url: https://www.droomtoko.nl/
+	if 'websites' in pyyam.keys():
+		for website in pyyam['websites']:
+			website_id = website['url']
+			website_item = dreamNS[website_id]
+			instances.append((website_item, rdfType, websiteClass))
+			instances.append((website_item, name, Literal(website['name'], datatype=xsdString)))
+			instances.append((website_item, url, Literal(website['url'], datatype=xsdString)))
+			instances.append((newItem, hasWebsite, website_item))
 		
 # Add instances to the graph
 for triple in instances:

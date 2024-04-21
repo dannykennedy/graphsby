@@ -19974,6 +19974,10 @@ ns1:hasTopic a owl:ObjectProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range ns1:Item .
 
+ns1:hasWebsite a owl:ObjectProperty ;
+    rdfs:domain ns1:Actor ;
+    rdfs:range ns1:Website .
+
 ns1:inIssue a owl:ObjectProperty ;
     rdfs:domain ns1:Post ;
     rdfs:range ns1:Item .
@@ -20114,6 +20118,10 @@ ns1:shortName a owl:DatatypeProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range xsd:string .
 
+ns1:url a owl:DatatypeProperty ;
+    rdfs:domain ns1:Website ;
+    rdfs:range xsd:string .
+
 ns1:urlSlug a owl:DatatypeProperty ;
     rdfs:domain ns1:Post ;
     rdfs:range xsd:string .
@@ -20160,6 +20168,66 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Linda Riebel"^^xsd:string ;
     ns1:profileImg "author_linda_riebel.jpg"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#http://www.aamindell.net/> a ns1:Website ;
+    ns1:name "aamindell.net"^^xsd:string ;
+    ns1:url "http://www.aamindell.net/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#http://www.dreamlynx.com/linton.html> a ns1:Website ;
+    ns1:name "DreamLynx"^^xsd:string ;
+    ns1:url "http://www.dreamlynx.com/linton.html"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#http://www.facebook.com/bambicorsosfanpage> a ns1:Website ;
+    ns1:name "Facebook"^^xsd:string ;
+    ns1:url "http://www.facebook.com/bambicorsosfanpage"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#http://www.linkedin.com/in/bambicorso> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "http://www.linkedin.com/in/bambicorso"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#http://www.twitter.com/bambicorso> a ns1:Website ;
+    ns1:name "Twitter"^^xsd:string ;
+    ns1:url "http://www.twitter.com/bambicorso"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#http://www.youtube.com/bambicorso> a ns1:Website ;
+    ns1:name "Youtube"^^xsd:string ;
+    ns1:url "http://www.youtube.com/bambicorso"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://art.funkhouser.ch/en> a ns1:Website ;
+    ns1:name "art.funkhouser.ch"^^xsd:string ;
+    ns1:url "https://art.funkhouser.ch/en"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://arthurstrock.com/> a ns1:Website ;
+    ns1:name "arthurstrock.com"^^xsd:string ;
+    ns1:url "https://arthurstrock.com/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://bambicorso.com/> a ns1:Website ;
+    ns1:name "www.BambiCorso.com"^^xsd:string ;
+    ns1:url "https://bambicorso.com/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://stanleykrippner.weebly.com> a ns1:Website ;
+    ns1:name "stanleykrippner.weebly.com"^^xsd:string ;
+    ns1:url "https://stanleykrippner.weebly.com"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.aamindell.net/about-amy-and-arny> a ns1:Website ;
+    ns1:name "aamindell.net"^^xsd:string ;
+    ns1:url "https://www.aamindell.net/about-amy-and-arny"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.droomtoko.nl/> a ns1:Website ;
+    ns1:name "droomtoko.nl"^^xsd:string ;
+    ns1:url "https://www.droomtoko.nl/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.etsy.com/shop/MysticDreamerArt> a ns1:Website ;
+    ns1:name "MysticDreamerArt"^^xsd:string ;
+    ns1:url "https://www.etsy.com/shop/MysticDreamerArt"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/stanley.krippner.9> a ns1:Website ;
+    ns1:name "Facebook"^^xsd:string ;
+    ns1:url "https://www.facebook.com/stanley.krippner.9"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/watch?v=xWw2IqNsL2c> a ns1:Website ;
+    ns1:name "Art that Saves the World"^^xsd:string ;
+    ns1:url "https://www.youtube.com/watch?v=xWw2IqNsL2c"^^xsd:string .
 
 ns1:bcphbbhutch a ns1:User ;
     ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;
@@ -20419,6 +20487,7 @@ ns1:bcphbq3alma a ns1:User ;
 <p>I provide different services to help you interpret your dreams, enquire via my <a href="https://www.droomtoko.nl/html/droomconsult.htm">website</a>.</p>
 """^^xsd:string ;
     ns1:handle "almaverbunt"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.droomtoko.nl/> ;
     ns1:itemId "bcphbq3alma"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Alma Verbunt"^^xsd:string ;
@@ -20430,9 +20499,10 @@ ns1:bcphbq3amym a ns1:User ;
 
 <p>Dr. Amy Mindell is in private therapeutic practice in Portland, Oregon and teaches in many countries in the world. She helped developed process work in the areas of coma, creativity, dance, and facilitator styles.</p>
 
-<p>She holds a M.A. and Ph.D. in psychology and is a diplomate of the Process Oriented Psychology Center of Zurich. She has written many books such as <em>Metaskills: The Spiritual Art of Therapy</em>, <em>The Dreaming Source of Creativity</em>, <em>Alternative to Therapy</em> and her newest book, <em>Your Unique Facilitator Style</em>, as well as papers in professional journals. (Her studies of the feeling skills in therapy, or “metaskills”, are at the core of much of her work.). Amy is also an artist, puppet-maker, singer-songwriter, and dancer. Her most recent musical CD is called, First Bloom. </p>
+<p>She holds a M.A. and Ph.D. in psychology and is a diplomate of the Process Oriented Psychology Center of Zurich. She has written many books such as <em>Metaskills: The Spiritual Art of Therapy</em>, <em>The Dreaming Source of Creativity</em>, <em>Alternative to Therapy</em> and her newest book, <em>Your Unique Facilitator Style</em>, as well as papers in professional journals. (Her studies of the feeling skills in therapy, or “metaskills”, are at the core of much of her work.). Amy is also an artist, puppet-maker, singer-songwriter, and dancer. Her most recent musical CD is called, First Bloom.</p>
 """^^xsd:string ;
     ns1:handle "amymindell"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.aamindell.net/> ;
     ns1:itemId "bcphbq3amym"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dr. Amy Mindell"^^xsd:string ;
@@ -20601,6 +20671,8 @@ ns1:bcphbqchaak a ns1:User ;
 <p>After retiring in 2008, she began working with polymer clay, creating a <a href="https://www.etsy.com/shop/MysticDreamerArt">personal studio</a> with all profits donated to rainforest preservation.</p>
 """^^xsd:string ;
     ns1:handle "annkruglak"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.etsy.com/shop/MysticDreamerArt>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/watch?v=xWw2IqNsL2c> ;
     ns1:itemId "bcphbqchaak"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Ann Kruglak"^^xsd:string ;
@@ -21122,6 +21194,7 @@ ns1:bcphbq3amin a ns1:User ;
 <p>He is the author of 23 books in over 35 languages, including <em>Dreambody</em>, <em>The Shaman’s Body</em>, <em>Quantum Mind</em>, <em>Quantum Mind and Healing</em>, and <em>The Deep Democracy of Open Forums</em>. He is also known in the areas of diversity work and conflict management for his <em>Sitting in the Fire</em> and for his integration of psychology, ecology and physics, for his work on dreams, bodywork, relationships, and for interventions in near death situations. His latest works, <em>ProcessMind</em>, A User’s Guide to The Mind of God and Dance of the Ancient One, bring psychology, physics and spiritual traditions closer to one another. You can follow Arny on <a href="https://www.facebook.com/Arnold.Mindell/">Facebook</a>.</p>
 """^^xsd:string ;
     ns1:handle "arnoldmindell"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.aamindell.net/about-amy-and-arny> ;
     ns1:itemId "bcphbq3amin"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dr. Arnold Mindell"^^xsd:string ;
@@ -21265,9 +21338,6 @@ ns1:bcpqocs2uhp a ns1:Post ;
     ns1:name "Volume 32"^^xsd:string ;
     ns1:profileImg "volume-32.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-32"^^xsd:string .
-
-ns1:Actor a owl:Class ;
-    rdfs:subClassOf ns1:Item .
 
 ns1:bcphb2eggje a ns1:Post ;
     ns1:coverImg "33.2-cover.jpg"^^xsd:string ;
@@ -21530,6 +21600,7 @@ ns1:bcphbqafunk a ns1:User ;
 <p>One of his hobbies is research into déjà vu and precognitive dreams. For those interested, there are two articles he wrote about déjà vu: <a href="https://www.theoasisgroup.net/poc/view_doc.php?type=doc&id=264">Three Types of Déjà Vu</a> and <a href="https://www.researchgate.net/publication/232529073_The_dream_theory_of_deja_vu">Dreams and Déjà Vu</a>. There is also now a website dedicated to <a href="https://deja-experience-research.org/">déjà experience research</a>. Recently two of his articles were published on the TherapyRoute website: <a href="https://www.therapyroute.com/article/a-way-to-do-dreamwork-by-a-funkhouser">A Way to do Dreamwork</a> and <a href="https://www.therapyroute.com/article/ten-dimensions-of-dream-meaning-by-a-funkhouser">Ten Dimensions of Dream Meaning</a>.</p>
 """^^xsd:string ;
     ns1:handle "artfunkhouser"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://art.funkhouser.ch/en> ;
     ns1:itemId "bcphbqafunk"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Art Funkhouser"^^xsd:string ;
@@ -21587,6 +21658,7 @@ ns1:bcphbqhutch a ns1:User ;
 <p>Linton believes that having students realize that working with unconscious material can help clients facilitate change is important in the therapeutic process. Giving students the skills to augment this process has been a a goal and opportunity that he has used.</p>
 """^^xsd:string ;
     ns1:handle "linthutchinson"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.dreamlynx.com/linton.html> ;
     ns1:itemId "bcphbqhutch"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Lint Hutchinson"^^xsd:string ;
@@ -22039,6 +22111,9 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:name "Volume 33"^^xsd:string ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
+
+ns1:Actor a owl:Class ;
+    rdfs:subClassOf ns1:Item .
 
 ns1:Topic a owl:Class ;
     rdfs:subClassOf ns1:Item .
@@ -23476,6 +23551,7 @@ ns1:bcphbq3arts a ns1:User ;
 <p>Arthur Strock, Ph.D., is a Founding Life Member of the <a href="https://www.asdreams.org">International Association for the Study of Dreams</a>. He is dedicated to sharing information about dreamwork and how it can be used to improve our lives. Dr. Strock holds advanced degrees in psychology and clinical social work. His professional experience includes work in hospital, corrections, school, and private practice settings. He has also taught psychology courses as an adjunct faculty member at colleges in New Jersey. His writing includes a column in the Dream Network Journal and articles online and in other publications. He is a retired school psychologist and psychotherapist who provides dream workshops for professionals and the general public. Arthur published <a href="https://arthurstrock.com/live-by-your-dreams/">“Live By Your Dreams: Heartwarming Stories About Dreams and What They Tell Us” </a>in 2015 and is available on <a href="https://www.amazon.com/Live-Your-Dreams-Arthur-Strock/dp/0996545808/ref=sr_1_1?s=books&ie=UTF8&qid=1455133208&sr=1-1&keywords=live+by+your+dreams+strock">Amazon</a> and as a free download from his own <a href="www.arthurstrock.com">www.arthurstrock.com</a> website. Arthur resides in New Jersey with his partner, art therapist Susan Dingsor. They enjoy their rural location overlooking a natural spring-fed lake that offers relaxed kayaking during their leisure time.</p>
 """^^xsd:string ;
     ns1:handle "arthurstrock"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://arthurstrock.com/> ;
     ns1:itemId "bcphbq3arts"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Arthur Strock"^^xsd:string ;
@@ -23605,6 +23681,9 @@ ns1:bcphbxjsuyu a ns1:Post ;
     ns1:profileImg "26.1-2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "26.1-2"^^xsd:string .
 
+ns1:Website a owl:Class ;
+    rdfs:subClassOf ns1:Item .
+
 ns1:bcphbqvreed a ns1:User ;
     ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
@@ -23710,6 +23789,11 @@ ns1:bcphbqvcors a ns1:User ;
 <p><a href="http://www.linkedin.com/in/bambicorso">http://www.linkedin.com/in/bambicorso</a></p>
 """^^xsd:string ;
     ns1:handle "bambicorso"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.facebook.com/bambicorsosfanpage>,
+        <https://www.dannykennedy.co/dnj-ontology#http://www.linkedin.com/in/bambicorso>,
+        <https://www.dannykennedy.co/dnj-ontology#http://www.twitter.com/bambicorso>,
+        <https://www.dannykennedy.co/dnj-ontology#http://www.youtube.com/bambicorso>,
+        <https://www.dannykennedy.co/dnj-ontology#https://bambicorso.com/> ;
     ns1:itemId "bcphbqvcors"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bambi Corso"^^xsd:string ;
@@ -23830,6 +23914,8 @@ ns1:bcphbq3krip a ns1:User ;
 <p>Recently he has collaborated with Sidian Jones on the book <a href="https://mymythos.org/"><em>Mythic Color</em></a>, the first book of an upcoming <em>Personal Mythologist’s Guide series</em> that refreshes Krippner's ongoing exploration of personal mythology.</p>
 """^^xsd:string ;
     ns1:handle "stanleykrippner"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://stanleykrippner.weebly.com>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/stanley.krippner.9> ;
     ns1:itemId "bcphbq3krip"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:metaDescription "Stanley Krippner is a psychologist and parapsychologist, and author of the well-known book 'Personal Mythology'. This page gathers all his articles for the Dream Network Journal."^^xsd:string ;

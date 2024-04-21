@@ -8,6 +8,9 @@ shortDescription: ""
 tags:
 date: 2015-03-24
 profileImg: author-arthur-strock.jpg
+websites:
+    - name: arthurstrock.com
+      url: https://arthurstrock.com/
 ---
 
 Website: [arthurstrock.com](https://arthurstrock.com/)

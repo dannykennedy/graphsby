@@ -9,6 +9,11 @@ tags:
 date: 2022-10-21
 profileImg: author-tzivia.jpg
 coverImg: cover-author-tzivia.jpeg
+websites:
+    - name: Website
+      url: https://tziviagover.com/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/tzivia-gover-7972178/
 ---
 
 Website: [tziviagover.com](https://tziviagover.com/)

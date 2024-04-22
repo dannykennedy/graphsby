@@ -20210,9 +20210,17 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Tending Dreams"^^xsd:string ;
     ns1:url "http://tendingdreams.com/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#http://thedreamingwell.com> a ns1:Website ;
+    ns1:name "thedreamingwell.com"^^xsd:string ;
+    ns1:url "http://thedreamingwell.com"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#http://www.aamindell.net/> a ns1:Website ;
     ns1:name "aamindell.net"^^xsd:string ;
     ns1:url "http://www.aamindell.net/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#http://www.chrysalishealingarts.org/> a ns1:Website ;
+    ns1:name "chrysalishealingarts.org"^^xsd:string ;
+    ns1:url "http://www.chrysalishealingarts.org/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#http://www.dalegottlieb.com/> a ns1:Website ;
     ns1:name "dalegottlieb.com"^^xsd:string ;
@@ -20246,6 +20254,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Website"^^xsd:string ;
     ns1:url "http://www.michaelortizhill.com/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#http://www.starharp.com/> a ns1:Website ;
+    ns1:name "starharp.com"^^xsd:string ;
+    ns1:url "http://www.starharp.com/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#http://www.twitter.com/bambicorso> a ns1:Website ;
     ns1:name "Twitter"^^xsd:string ;
     ns1:url "http://www.twitter.com/bambicorso"^^xsd:string .
@@ -20254,6 +20266,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Youtube"^^xsd:string ;
     ns1:url "http://www.youtube.com/bambicorso"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#http://zerocurrency.blogspot.com/> a ns1:Website ;
+    ns1:name "Zero Currency"^^xsd:string ;
+    ns1:url "http://zerocurrency.blogspot.com/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://art.funkhouser.ch/en> a ns1:Website ;
     ns1:name "art.funkhouser.ch"^^xsd:string ;
     ns1:url "https://art.funkhouser.ch/en"^^xsd:string .
@@ -20261,6 +20277,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://arthurstrock.com/> a ns1:Website ;
     ns1:name "arthurstrock.com"^^xsd:string ;
     ns1:url "https://arthurstrock.com/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://awakenthesacreddream.com/> a ns1:Website ;
+    ns1:name "awakenthesacreddream.com"^^xsd:string ;
+    ns1:url "https://awakenthesacreddream.com/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://brendaferrimanidreamart.com/> a ns1:Website ;
     ns1:name "brendaferrimanidreamart.com"^^xsd:string ;
@@ -20345,6 +20365,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://siivola.org/monte/> a ns1:Website ;
     ns1:name "siivola.org/monte"^^xsd:string ;
     ns1:url "https://siivola.org/monte/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://sites.google.com/site/livingwithoutmoney/> a ns1:Website ;
+    ns1:name "Without Money"^^xsd:string ;
+    ns1:url "https://sites.google.com/site/livingwithoutmoney/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://sleepanddreamdatabase.org/> a ns1:Website ;
     ns1:name "Sleep and Dream Database"^^xsd:string ;
@@ -20469,6 +20493,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://www.ben-shoshan.com/en/> a ns1:Website ;
     ns1:name "Website"^^xsd:string ;
     ns1:url "https://www.ben-shoshan.com/en/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.blogger.com/profile/13739011165937473840> a ns1:Website ;
+    ns1:name "Blogger Profile"^^xsd:string ;
+    ns1:url "https://www.blogger.com/profile/13739011165937473840"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.bridgew.edu/person/dr-curtiss-hoffman> a ns1:Website ;
     ns1:name "Bridgewater University academic profile"^^xsd:string ;
@@ -20657,6 +20685,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/sandy-sela-smith-3a645311/> a ns1:Website ;
     ns1:name "LinkedIn"^^xsd:string ;
     ns1:url "https://www.linkedin.com/in/sandy-sela-smith-3a645311/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/victoriavlach/> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "https://www.linkedin.com/in/victoriavlach/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.livingdreams.life/> a ns1:Website ;
     ns1:name "livingdreams.life"^^xsd:string ;
@@ -21326,6 +21358,9 @@ ns1:bcphbqsuelo a ns1:User ;
 <p>I lived totally without cents since Autumn of 2000 (except for a couple months in 2001) until the Spring of 2016, when I started caring for my aging parents, managing their finances. For 15 years I didn't use or accept money or conscious barter - nor did I take food stamps or other government dole. My philosophy has been to use only what is freely given or discarded and what is already present and already running (whether or not I existed). I don't see money as evil or good: how can illusion be evil or good? But I don't see heroin or meth as evil or good, either. Which is more addictive and debilitating, money or meth? Attachment to illusion makes you illusion, makes you not real. Attachment to illusion is called idolatry, called addiction. I simply got tired of acknowledging as real this most common world-wide belief called money! I simply got tired of being unreal. Money is one of those intriguing things that seems real and functional because 2 or more people believe it is real &amp; functional!</p>
 """^^xsd:string ;
     ns1:handle "suelo"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://zerocurrency.blogspot.com/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://sites.google.com/site/livingwithoutmoney/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.blogger.com/profile/13739011165937473840> ;
     ns1:itemId "bcphbqsuelo"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Daniel Shellabarger"^^xsd:string ;
@@ -21501,6 +21536,8 @@ ns1:bcphbqvvall a ns1:User ;
 <p>Chrysalis Healing Arts: Energy Healing, Somatic Emotional Integration, Soul Coaching, Peace Moves™ Conflict Transformation, Wild Women Weekend Retreats, Monthly Women's Groups, Depth Workshops and retreats regionally in Texas, Oklahoma, Arkansas, New Mexico, Colorado and Internationally in Ireland, Mexico, Bosnia, &amp; Canada.</p>
 """^^xsd:string ;
     ns1:handle "valleyreed"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.chrysalishealingarts.org/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://awakenthesacreddream.com/> ;
     ns1:itemId "bcphbqvvall"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Valley Reed"^^xsd:string ;
@@ -22161,6 +22198,7 @@ ns1:bcphbqawern a ns1:User ;
 <p>He is the author of <a href="https://www.amazon.com/Dreaming-Well-Towards-Wholeness-Imagination/dp/0692796916">The Dreaming Well: Paths Towards Wholeness Through Dreams, Story, Song and the Imagination</a>.</p>
 """^^xsd:string ;
     ns1:handle "traviswernet"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://thedreamingwell.com> ;
     ns1:itemId "bcphbqawern"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Travis Wernet"^^xsd:string ;
@@ -23108,6 +23146,7 @@ ns1:bcphbq3rste a ns1:User ;
 <p>Star Edwards has been a student of dreams and dream journaler for most of her life. In waking life she is harpist, artist and dancer. She has a wide repertoire of harp music and is available for event performances.</p>
 """^^xsd:string ;
     ns1:handle "staredwards"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.starharp.com/> ;
     ns1:itemId "bcphbq3rste"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Star Edwards"^^xsd:string ;
@@ -23199,6 +23238,7 @@ ns1:bcphbqvlach a ns1:User ;
 <p>On the web: <a href="https://www.linkedin.com/in/victoriavlach/">linkedin.com/in/victoriavlach</a></p>
 """^^xsd:string ;
     ns1:handle "victoriavlach"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/victoriavlach/> ;
     ns1:itemId "bcphbqvlach"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Victoria Vlach"^^xsd:string ;
@@ -23610,6 +23650,7 @@ ns1:bcphbq3spar a ns1:User ;
     ns1:profileImg "author-david-sparenberg.jpg"^^xsd:string .
 
 ns1:bcphbq3wagg a ns1:User ;
+    ns1:coverImg "cover-author-robert-waggoner.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>
 
 <p>Robert Waggoner has been an active lucid dreamer since 1975, a member of <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a> since 1995, and is a past president of the IASD. He is co-editor of the online magazine, <a href="https://www.dreaminglucid.com/">The Lucid Dreaming Experience</a>, and the author of <a href="https://www.lucidadvice.com/books/lucid-dreaming-gateway-to-the-inner-self/">Lucid Dreaming – Gateway to the Inner Self</a>.</p>

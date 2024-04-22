@@ -9,6 +9,7 @@ tags:
 date: 2022-10-21
 dateModified: 2024-04-22
 profileImg: author-robert-waggoner.jpg
+coverImg: cover-author-robert-waggoner.jpg
 websites:
     - name: LucidAdvice.com
       url: https://www.lucidadvice.com/about-robert/

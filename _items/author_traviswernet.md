@@ -9,6 +9,9 @@ tags:
 date: 2022-10-21
 profileImg: author-travis-wernet.jpg
 coverImg: cover-author-travis-wernet.jpg
+websites:
+    - name: thedreamingwell.com
+      url: http://thedreamingwell.com
 ---
 
 Website: [thedreamingwell.com](http://thedreamingwell.com)

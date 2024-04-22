@@ -9,6 +9,13 @@ tags:
 date: 2022-10-21
 profileImg: author-kelly-bulkeley.jpg
 coverImg: cover-author-kelly-bulkeley.jpg
+websites:
+    - name: Personal Site
+      url: https://bulkeley.org/about-kelly-bulkeley/
+    - name: Sleep and Dream Database
+      url: https://sleepanddreamdatabase.org/
+    - name: Twitter
+      url: https://twitter.com/KellyBulkeley
 ---
 
 Website: [sleepanddreamdatabase.org](https://sleepanddreamdatabase.org/)

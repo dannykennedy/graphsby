@@ -9,6 +9,9 @@ tags:
 date: 2022-10-21
 profileImg: author-kim-birdsong.jpg
 coverImg: cover-author-kim-birdsong.jpg
+websites:
+    - name: Tending Dreams
+      url: http://tendingdreams.com/
 ---
 
 Website: [tendingdreams.com](http://tendingdreams.com/)

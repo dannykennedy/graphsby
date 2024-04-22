@@ -9,6 +9,9 @@ tags:
 date: 2022-10-21
 profileImg: author-paco.jpg
 coverImg: post-bcpov6krdbf9-0.jpg
+websites:
+    - name: Academia.edu
+      url: https://independent.academia.edu/PacoMitchell
 ---
 
 On Academia.edu: [academia.edu/PacoMitchell](https://independent.academia.edu/PacoMitchell)

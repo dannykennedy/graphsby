@@ -8,6 +8,11 @@ shortDescription: ""
 tags:
 date: 2022-10-21
 profileImg: author-joy-fatooh.jpg
+websites:
+    - name: Fatooh Art
+      url: http://fatooh.org/art/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/joy-fatooh-b3a8a158/
 ---
 
 Editorial Director, [asdreams.org/dreamtime-magazine-info](https://www.asdreams.org/dreamtime-magazine-info)

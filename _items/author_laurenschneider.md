@@ -9,6 +9,13 @@ tags:
 date: 2022-10-21
 profileImg: author-lauren-schneider.jpg
 coverImg: cover-author-lauren-schneider.jpg
+websites:
+    - name: Dreams and Tarotpy
+      url: https://www.dreamsandtarotpy.com/
+    - name: Instagram
+      url: https://www.instagram.com/tarotpyanddreams/
+    - name: Twitter
+      url: https://twitter.com/Tarotpy
 ---
 
 Website: [dreamsandtarotpy.com](https://www.dreamsandtarotpy.com/)

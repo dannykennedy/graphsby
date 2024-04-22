@@ -8,6 +8,11 @@ shortDescription: ""
 tags:
 date: 2022-10-21
 profileImg: author-linda-mastrangelo.jpg
+websites:
+    - name: Lightning Tree Therapy
+      url: https://lightningtreetherapy.com/
+    - name: Twitter
+      url: https://twitter.com/LMDreamAlchemy
 ---
 
 Website: [lightningtreetherapy.com](https://lightningtreetherapy.com/)

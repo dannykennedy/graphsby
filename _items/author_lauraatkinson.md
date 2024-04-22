@@ -8,6 +8,13 @@ shortDescription: ""
 tags:
 date: 2022-10-21
 profileImg: author-laura-atkinson.jpg
+websites:
+    - name: Camera Will Travel
+      url: http://camerawilltravel.com/
+    - name: Instagram
+      url: https://www.instagram.com/lauranicole401/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/lauraatkinsonphotodesign/
 ---
 
 Website: [camerawilltravel.com](http://camerawilltravel.com/)

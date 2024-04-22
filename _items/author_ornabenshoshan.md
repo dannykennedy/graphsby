@@ -9,6 +9,9 @@ tags:
 date: 2022-10-21
 profileImg: author-ornabenshoshan.jpg
 coverImg: cover-author-ornabenshoshan.jpg
+websites:
+    - name: Website
+      url: https://www.ben-shoshan.com/en/
 ---
 
 Website: [ben-shoshan.com](https://www.ben-shoshan.com/en/)

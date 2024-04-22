@@ -9,6 +9,9 @@ tags:
 date: 2022-10-21
 profileImg: author-michael-ortiz-hill.jpg
 coverImg: cover-author-deena-metzger.jpg
+websites:
+    - name: Website
+      url: http://www.michaelortizhill.com/
 ---
 
 Website: [michaelortizhill.com](http://www.michaelortizhill.com/)

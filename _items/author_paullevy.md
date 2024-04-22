@@ -9,6 +9,11 @@ tags:
 date: 2022-10-21
 profileImg: author-paullevy.jpg
 coverImg: cover-author-paullevy.jpg
+websites:
+    - name: Website
+      url: https://www.awakeninthedream.com
+    - name: YouTube
+      url: https://www.youtube.com/@paullevy6019
 ---
 
 Website: [awakeninthedream.com](https://www.awakeninthedream.com)

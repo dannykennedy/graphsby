@@ -20174,6 +20174,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "www.BambiCorso.com"^^xsd:string ;
     ns1:url "http://bambicorso.com/about-me/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#http://camerawilltravel.com/> a ns1:Website ;
+    ns1:name "Camera Will Travel"^^xsd:string ;
+    ns1:url "http://camerawilltravel.com/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#http://craigwebb.ca> a ns1:Website ;
     ns1:name "craigwebb.ca"^^xsd:string ;
     ns1:url "http://craigwebb.ca"^^xsd:string .
@@ -20182,9 +20186,17 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Personal Website"^^xsd:string ;
     ns1:url "http://deenametzger.net/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#http://fatooh.org/art/> a ns1:Website ;
+    ns1:name "Fatooh Art"^^xsd:string ;
+    ns1:url "http://fatooh.org/art/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#http://notesfromadreamer.com/bobbie-ann-pimm/> a ns1:Website ;
     ns1:name "notesfromadreamer.com"^^xsd:string ;
     ns1:url "http://notesfromadreamer.com/bobbie-ann-pimm/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#http://tendingdreams.com/> a ns1:Website ;
+    ns1:name "Tending Dreams"^^xsd:string ;
+    ns1:url "http://tendingdreams.com/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#http://www.aamindell.net/> a ns1:Website ;
     ns1:name "aamindell.net"^^xsd:string ;
@@ -20206,6 +20218,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Facebook"^^xsd:string ;
     ns1:url "http://www.facebook.com/bambicorsosfanpage"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#http://www.greatdreams.com/joestuff/interp/joeindex.htm> a ns1:Website ;
+    ns1:name "Great Dreams"^^xsd:string ;
+    ns1:url "http://www.greatdreams.com/joestuff/interp/joeindex.htm"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#http://www.jenniferwohl.com/> a ns1:Website ;
     ns1:name "Jennifer Wohl"^^xsd:string ;
     ns1:url "http://www.jenniferwohl.com/"^^xsd:string .
@@ -20213,6 +20229,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#http://www.linkedin.com/in/bambicorso> a ns1:Website ;
     ns1:name "LinkedIn"^^xsd:string ;
     ns1:url "http://www.linkedin.com/in/bambicorso"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#http://www.michaelortizhill.com/> a ns1:Website ;
+    ns1:name "Website"^^xsd:string ;
+    ns1:url "http://www.michaelortizhill.com/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#http://www.twitter.com/bambicorso> a ns1:Website ;
     ns1:name "Twitter"^^xsd:string ;
@@ -20233,6 +20253,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://brendaferrimanidreamart.com/> a ns1:Website ;
     ns1:name "brendaferrimanidreamart.com"^^xsd:string ;
     ns1:url "https://brendaferrimanidreamart.com/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://bulkeley.org/about-kelly-bulkeley/> a ns1:Website ;
+    ns1:name "Personal Site"^^xsd:string ;
+    ns1:url "https://bulkeley.org/about-kelly-bulkeley/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://catherinekennedy.com.au/> a ns1:Website ;
     ns1:name "catherinekennedy.com.au"^^xsd:string ;
@@ -20282,6 +20306,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "faribabogzaran.com"^^xsd:string ;
     ns1:url "https://faribabogzaran.com/narrative-bio"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://independent.academia.edu/PacoMitchell> a ns1:Website ;
+    ns1:name "Academia.edu"^^xsd:string ;
+    ns1:url "https://independent.academia.edu/PacoMitchell"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://jaynegackenbach.ca/> a ns1:Website ;
     ns1:name "Jayne Gackenbach"^^xsd:string ;
     ns1:url "https://jaynegackenbach.ca/"^^xsd:string .
@@ -20294,6 +20322,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "J.F.Penn"^^xsd:string ;
     ns1:url "https://jfpenn.com/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://lightningtreetherapy.com/> a ns1:Website ;
+    ns1:name "Lightning Tree Therapy"^^xsd:string ;
+    ns1:url "https://lightningtreetherapy.com/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://medium.com/@tracehints> a ns1:Website ;
     ns1:name "Trace Hints"^^xsd:string ;
     ns1:url "https://medium.com/@tracehints"^^xsd:string .
@@ -20301,6 +20333,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://siivola.org/monte/> a ns1:Website ;
     ns1:name "siivola.org/monte"^^xsd:string ;
     ns1:url "https://siivola.org/monte/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://sleepanddreamdatabase.org/> a ns1:Website ;
+    ns1:name "Sleep and Dream Database"^^xsd:string ;
+    ns1:url "https://sleepanddreamdatabase.org/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://stanleykrippner.weebly.com> a ns1:Website ;
     ns1:name "stanleykrippner.weebly.com"^^xsd:string ;
@@ -20321,6 +20357,22 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/Gary_Bonnell> a ns1:Website ;
     ns1:name "Twitter"^^xsd:string ;
     ns1:url "https://twitter.com/Gary_Bonnell"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://twitter.com/KellyBulkeley> a ns1:Website ;
+    ns1:name "Twitter"^^xsd:string ;
+    ns1:url "https://twitter.com/KellyBulkeley"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://twitter.com/LMDreamAlchemy> a ns1:Website ;
+    ns1:name "Twitter"^^xsd:string ;
+    ns1:url "https://twitter.com/LMDreamAlchemy"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://twitter.com/MarieOtte> a ns1:Website ;
+    ns1:name "Twitter"^^xsd:string ;
+    ns1:url "https://twitter.com/MarieOtte"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://twitter.com/Tarotpy> a ns1:Website ;
+    ns1:name "Twitter"^^xsd:string ;
+    ns1:url "https://twitter.com/Tarotpy"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/ThatChrisRyan> a ns1:Website ;
     ns1:name "Twitter"^^xsd:string ;
@@ -20350,6 +20402,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Twitter"^^xsd:string ;
     ns1:url "https://twitter.com/thecreativepenn"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html> a ns1:Website ;
+    ns1:name "Casey Flyer"^^xsd:string ;
+    ns1:url "https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html> a ns1:Website ;
     ns1:name "ourdreamingmind.com"^^xsd:string ;
     ns1:url "https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html"^^xsd:string .
@@ -20357,6 +20413,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20180522230707/http://www.henryreed.com/> a ns1:Website ;
     ns1:name "henryreed.com"^^xsd:string ;
     ns1:url "https://web.archive.org/web/20180522230707/http://www.henryreed.com/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20190630110643/https://www.dreamtimesguide.com/> a ns1:Website ;
+    ns1:name "Dream Times Guide (Web Archive)"^^xsd:string ;
+    ns1:url "https://web.archive.org/web/20190630110643/https://www.dreamtimesguide.com/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html> a ns1:Website ;
     ns1:name "bobtrowbridge.com"^^xsd:string ;
@@ -20378,6 +20438,14 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "archive of self"^^xsd:string ;
     ns1:url "https://www.archiveofself.com/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://www.awakeninthedream.com> a ns1:Website ;
+    ns1:name "Website"^^xsd:string ;
+    ns1:url "https://www.awakeninthedream.com"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.ben-shoshan.com/en/> a ns1:Website ;
+    ns1:name "Website"^^xsd:string ;
+    ns1:url "https://www.ben-shoshan.com/en/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://www.bridgew.edu/person/dr-curtiss-hoffman> a ns1:Website ;
     ns1:name "Bridgewater University academic profile"^^xsd:string ;
     ns1:url "https://www.bridgew.edu/person/dr-curtiss-hoffman"^^xsd:string .
@@ -20393,6 +20461,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://www.dreamportrayal.com/index.html> a ns1:Website ;
     ns1:name "Dream Portrayal"^^xsd:string ;
     ns1:url "https://www.dreamportrayal.com/index.html"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.dreamsandtarotpy.com/> a ns1:Website ;
+    ns1:name "Dreams and Tarotpy"^^xsd:string ;
+    ns1:url "https://www.dreamsandtarotpy.com/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.droomtoko.nl/> a ns1:Website ;
     ns1:name "droomtoko.nl"^^xsd:string ;
@@ -20413,6 +20485,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/InnerSelvesMastery/> a ns1:Website ;
     ns1:name "Inner Selves Mastery"^^xsd:string ;
     ns1:url "https://www.facebook.com/InnerSelvesMastery/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/Kathy-Martone-EdD-2166828393535523/> a ns1:Website ;
+    ns1:name "Facebook"^^xsd:string ;
+    ns1:url "https://www.facebook.com/Kathy-Martone-EdD-2166828393535523/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/chrisryanphd/> a ns1:Website ;
     ns1:name "Facebook"^^xsd:string ;
@@ -20474,6 +20550,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Instagram"^^xsd:string ;
     ns1:url "https://www.instagram.com/jfpennauthor/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/lauranicole401/> a ns1:Website ;
+    ns1:name "Instagram"^^xsd:string ;
+    ns1:url "https://www.instagram.com/lauranicole401/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/mackinnonchrista/> a ns1:Website ;
     ns1:name "Instagram"^^xsd:string ;
     ns1:url "https://www.instagram.com/mackinnonchrista/"^^xsd:string .
@@ -20481,6 +20561,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/mondesomnis/> a ns1:Website ;
     ns1:name "Instagram"^^xsd:string ;
     ns1:url "https://www.instagram.com/mondesomnis/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/tarotpyanddreams/> a ns1:Website ;
+    ns1:name "Instagram"^^xsd:string ;
+    ns1:url "https://www.instagram.com/tarotpyanddreams/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/thatchrisryan> a ns1:Website ;
     ns1:name "Instagram"^^xsd:string ;
@@ -20522,6 +20606,14 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "LinkedIn"^^xsd:string ;
     ns1:url "https://www.linkedin.com/in/jeanne-schul-ph-d-rsmt-b90b2415/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/joy-fatooh-b3a8a158/> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "https://www.linkedin.com/in/joy-fatooh-b3a8a158/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/lauraatkinsonphotodesign/> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "https://www.linkedin.com/in/lauraatkinsonphotodesign/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://www.livingdreams.life/> a ns1:Website ;
     ns1:name "livingdreams.life"^^xsd:string ;
     ns1:url "https://www.livingdreams.life/"^^xsd:string .
@@ -20545,6 +20637,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://www.yourguidingdreams.com/public/about.htm> a ns1:Website ;
     ns1:name "yourguidingdreams.com"^^xsd:string ;
     ns1:url "https://www.yourguidingdreams.com/public/about.htm"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/@paullevy6019> a ns1:Website ;
+    ns1:name "YouTube"^^xsd:string ;
+    ns1:url "https://www.youtube.com/@paullevy6019"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww> a ns1:Website ;
     ns1:name "YouTube"^^xsd:string ;
@@ -20863,6 +20959,9 @@ ns1:bcphbq3atki a ns1:User ;
 <p>I take a very “Zen” / organic approach in creating recognizable images that strike a resonate chord. My approach to making photos is a quietly hidden metaphor for the ever changing fluidity of our dreams and frailty of beauty. A haunting reminder of how both shimmer before us, but can disappear in the blink of an eye. An eternal aide memoir that everything is not always as it appears to be.</p>
 """^^xsd:string ;
     ns1:handle "lauraatkinson"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://camerawilltravel.com/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/lauranicole401/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/lauraatkinsonphotodesign/> ;
     ns1:itemId "bcphbq3atki"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Laura Atkinson"^^xsd:string ;
@@ -20899,6 +20998,8 @@ ns1:bcphbq3joyf a ns1:User ;
 <p>I’m an active member of the International Association for the Study of Dreams: I participate in, and occasionally present at, IASD conferences both online and in-person, and served a term on the Board of Directors. I currently copy-edit the IASD newsletter Dream News and serve as Editorial Director of the IASD magazine DreamTime.</p>
 """^^xsd:string ;
     ns1:handle "joyfatooh"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://fatooh.org/art/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/joy-fatooh-b3a8a158/> ;
     ns1:itemId "bcphbq3joyf"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Joy Fatooh"^^xsd:string ;
@@ -20916,6 +21017,8 @@ ns1:bcphbq3mast a ns1:User ;
 <p>Linda is a graduate professor at John F. Kennedy University in their Department of Consciousness &amp; Transformative Studies program as well as serving on the Board of Directors and Editor of Dream News for the International Association for the Study of Dreams. You can visit her website at <a href="http://lightningtreetherapy.com/">lightningtreetherapy.com</a></p>
 """^^xsd:string ;
     ns1:handle "lindamastrangelo"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://lightningtreetherapy.com/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/LMDreamAlchemy> ;
     ns1:itemId "bcphbq3mast"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Linda Mastrangelo"^^xsd:string ;
@@ -21082,6 +21185,7 @@ ns1:bcphbqfhill a ns1:User ;
 <p>Michael Ortiz Hill is a registered nurse, a Buddhist practitioner, and an initiated medicine man with tribal people of Zimbabwe. The core of his spiritual practice has been the refinement and activity of compassion. He is the author of <em>Dreaming the End of the World: Apocalypse as a Rite of Passage</em>; <em>Twin from Another Tribe: The Story of Two Shamanic Healers in Africa and North America</em>; and <em>The Village of the Water Spirits: The Dreams of African-Americans</em> (both books with Mandaza Kandemwa). He is also the author of <em>Conspiracies of Kindness: The Craft of Compassion at the Bedside of the Ill</em> and does workshops and lectures on <em>The Craft of Compassion</em>. He lives in Topanga, California with his wife <a href="../@deenametzger">Deena Metzger</a>.</p>
 """^^xsd:string ;
     ns1:handle "michaelortizhill"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.michaelortizhill.com/> ;
     ns1:itemId "bcphbqfhill"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Michael Ortiz Hill"^^xsd:string ;
@@ -21209,6 +21313,9 @@ ns1:bcphbqvcsch a ns1:User ;
 <p>Her latest publication, <a href="https://www.amazon.com/Tarotpy-Pathway-Guidance-Profound-Healing/dp/1735934429">Tarotpy: It’s All in the Cards – A Pathway to Inner Wisdom, Divine Guidance and Profound Healing</a>, has gained broad recognition, including a Gold Medal from the <a href="https://www.livingnowawards.com/">Living Now Book Awards</a>, a Silver Medal at the 2022 <a href="https://www.nautilusbookawards.com/">Nautilus Book Awards</a>, and was recognized as a finalist in the category of Psychology and Mental Health at the <a href="https://en.wikipedia.org/wiki/American_Book_Awards">American Book Awards</a>.</p>
 """^^xsd:string ;
     ns1:handle "laurenschneider"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/Tarotpy>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.dreamsandtarotpy.com/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/tarotpyanddreams/> ;
     ns1:itemId "bcphbqvcsch"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Lauren Z. Schneider"^^xsd:string ;
@@ -21734,6 +21841,7 @@ ns1:bcphbgmason a ns1:User ;
 <p>Dream, myth, religion and crop circle researcher.</p>
 """^^xsd:string ;
     ns1:handle "josephmason"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.greatdreams.com/joestuff/interp/joeindex.htm> ;
     ns1:itemId "bcphbgmason"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Joseph Mason"^^xsd:string ;
@@ -22877,6 +22985,7 @@ ns1:bcphbq3king a ns1:User ;
 <p>Marlene holds a B.A. degree in Art History from the University of California, Santa Barbara and an M.A. in Art Therapy from Marylhurst University. A member and affiliate of IASD since 1984.</p>
 """^^xsd:string ;
     ns1:handle "marleneking"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20190630110643/https://www.dreamtimesguide.com/> ;
     ns1:itemId "bcphbq3king"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Marlene King"^^xsd:string ;
@@ -23005,6 +23114,7 @@ ns1:bcphbqmotte a ns1:User ;
 <p>Marie Otte is a published writer and has been doing dream work for many years. She holds a degree from Northern Illinois University in music education.</p>
 """^^xsd:string ;
     ns1:handle "marieotte"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/MarieOtte> ;
     ns1:itemId "bcphbqmotte"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Marie Otte"^^xsd:string ;
@@ -23386,6 +23496,7 @@ ns1:bcphbq3mart a ns1:User ;
 <p>Dr. Kathy Martone is currently an author and artist living in a small Victorian town in the Ozark Mountains in Arkansas. Before retiring, and moving from Denver, CO to Eureka Springs, AR in 2015, she was a Jungian psychologist in private practice specializing in dream work, women’s spirituality and shamanic journeys. The magical world of dreams has fascinated and intrigued Kathy for as long as she can remember. Inspired by a dream in 2005, she began making velvet tapestries imprinted with the image of one of her own dream figures and embellished with ribbons, rhinestones, feathers, glass beads, Swarovski crystals, antique jewelry and semi-precious stones. Dr. Martone’s work has been displayed in galleries in Denver, Colorado as well as in Eureka Springs, Arkansas. In 2006 Dr. Martone self published her first book titled, <a href="http://dreamagik.com/book-SW.htm">Sacred Wounds: A Love Story</a>.</p>
 """^^xsd:string ;
     ns1:handle "kathymartone"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/Kathy-Martone-EdD-2166828393535523/> ;
     ns1:itemId "bcphbq3mart"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dr. Kathy Martone"^^xsd:string ;
@@ -23408,6 +23519,8 @@ ns1:bcphbq3plvy a ns1:User ;
 <p>He is the author of <em>The Madness of George Bush: A Reflection of Our Collective Psychosis</em> (2006), <em>Dispelling Wetiko: Breaking the Curse of Evil</em> (2013), <em>Awakened by Darkness: When Evil Becomes Your Father</em> (2015) and <em>The Quantum Revelation: A Radical Synthesis of Science and Spirituality</em> (2018). A Tibetan Buddhist practitioner for over 30 years, he has intimately studied with some of the greatest spiritual masters of Tibet and Burma. He was the coordinator of the Portland chapter of the PadmaSambhava Buddhist Center for over twenty years.</p>
 """^^xsd:string ;
     ns1:handle "paullevy"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.awakeninthedream.com>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/@paullevy6019> ;
     ns1:itemId "bcphbq3plvy"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Paul Levy"^^xsd:string ;
@@ -23526,6 +23639,7 @@ ns1:bcphbqvbird a ns1:User ;
 <p>Kim offers individual and group sessions in DreamTending, <a href="../@stephenaizenstat">Dr. Stephen Aizenstat's</a> method of working with dreams, and is also a photographer and collage artist.</p>
 """^^xsd:string ;
     ns1:handle "kimbirdsong"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://tendingdreams.com/> ;
     ns1:itemId "bcphbqvbird"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Kim Birdsong"^^xsd:string ;
@@ -23914,6 +24028,7 @@ ns1:bcphbqflyer a ns1:User ;
 <p>Linda's goal has been to encourage the emergence of the Super Self through dreams. Her research has lead her to experiment with such flying and floating variations as virtual reality games, scuba diving, ballooning, gliding, hang gliding and flying a Piper Tomahawk. She has found flying dreams to be both extremely practical (resolving nightmares) and highly inspirational (launching further extraordinary dreams). She believes flying dreams to be at the hub of dream understanding and appreciation.</p>
 """^^xsd:string ;
     ns1:handle "caseyflyer"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html> ;
     ns1:itemId "bcphbqflyer"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Linda Magallón"^^xsd:string ;
@@ -24018,6 +24133,7 @@ ns1:bcphbqsorna a ns1:User ;
 <p>Her major motivation as a visual artist is to share her visions with others to expand their consciousness and inspire new ways of thinking. Orna’s life-long interest in metaphysics and mysticism has led her to study the Kabbalah and alternative philosophies. She shares her wide and diverse knowledge in articles and short essays that are published in magazines worldwide alongside her paintings.</p>
 """^^xsd:string ;
     ns1:handle "ornabenshoshan"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.ben-shoshan.com/en/> ;
     ns1:itemId "bcphbqsorna"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Orna Ben-Shoshan"^^xsd:string ;
@@ -24146,6 +24262,9 @@ ns1:bcphbqvbulk a ns1:User ;
 <p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion. He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal <a href="https://www.apa.org/pubs/journals/drm/">Dreaming</a>, and a former President of the International Association for the Study of Dreams. He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School. He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018). He lives in Portland, Oregon.</p>
 """^^xsd:string ;
     ns1:handle "kellybulkeley"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://bulkeley.org/about-kelly-bulkeley/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://sleepanddreamdatabase.org/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/KellyBulkeley> ;
     ns1:itemId "bcphbqvbulk"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Kelly Bulkeley"^^xsd:string ;
@@ -24184,6 +24303,7 @@ ns1:bcphbq3rpac a ns1:User ;
 <p>Paco lives in Santa Fe, New Mexico. He may be reached at mitchell@cybermesa.com</p>
 """^^xsd:string ;
     ns1:handle "paco"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://independent.academia.edu/PacoMitchell> ;
     ns1:itemId "bcphbq3rpac"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Paco Mitchell"^^xsd:string ;
@@ -24347,11 +24467,11 @@ ns1:bcphbq3krip a ns1:User ;
     ns1:ogImg "ogimage-author-stanley-krippner.jpg"^^xsd:string ;
     ns1:profileImg "author-stanley-krippner.jpg"^^xsd:string .
 
-ns1:Website a owl:Class ;
-    rdfs:subClassOf ns1:Item .
-
 ns1:User rdfs:subClassOf ns1:Actor,
         ns1:Person .
+
+ns1:Website a owl:Class ;
+    rdfs:subClassOf ns1:Item .
 
 ns1:bcphbq3xdnj a ns1:Page ;
     ns1:coverImg "mirror-crop-3.jpg"^^xsd:string ;

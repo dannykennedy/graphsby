@@ -9,6 +9,9 @@ tags:
 date: 2022-10-21
 profileImg: author-tara-greene.jpg
 coverImg: cover-author-tara-greene.jpg
+websites:
+    - name: infinitynow.wordpress.com
+      url: https://infinitynow.wordpress.com/
 ---
 
 Website: [infinitynow.wordpress.com](https://infinitynow.wordpress.com/)

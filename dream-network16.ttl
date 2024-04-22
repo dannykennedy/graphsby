@@ -20198,6 +20198,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Heart of the Dream"^^xsd:string ;
     ns1:url "http://heartofthedream.com/about.htm"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html> a ns1:Website ;
+    ns1:name "Books on Blogspot"^^xsd:string ;
+    ns1:url "http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#http://notesfromadreamer.com/bobbie-ann-pimm/> a ns1:Website ;
     ns1:name "notesfromadreamer.com"^^xsd:string ;
     ns1:url "http://notesfromadreamer.com/bobbie-ann-pimm/"^^xsd:string .
@@ -20342,6 +20346,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Academia.edu"^^xsd:string ;
     ns1:url "https://independent.academia.edu/PacoMitchell"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://infinitynow.wordpress.com/> a ns1:Website ;
+    ns1:name "infinitynow.wordpress.com"^^xsd:string ;
+    ns1:url "https://infinitynow.wordpress.com/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://jaynegackenbach.ca/> a ns1:Website ;
     ns1:name "Jayne Gackenbach"^^xsd:string ;
     ns1:url "https://jaynegackenbach.ca/"^^xsd:string .
@@ -20361,6 +20369,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://medium.com/@tracehints> a ns1:Website ;
     ns1:name "Trace Hints"^^xsd:string ;
     ns1:url "https://medium.com/@tracehints"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://mossdreams.com/> a ns1:Website ;
+    ns1:name "MossDreams"^^xsd:string ;
+    ns1:url "https://mossdreams.com/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://siivola.org/monte/> a ns1:Website ;
     ns1:name "siivola.org/monte"^^xsd:string ;
@@ -20445,6 +20457,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/thecreativepenn> a ns1:Website ;
     ns1:name "Twitter"^^xsd:string ;
     ns1:url "https://twitter.com/thecreativepenn"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://tziviagover.com/> a ns1:Website ;
+    ns1:name "Website"^^xsd:string ;
+    ns1:url "https://tziviagover.com/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html> a ns1:Website ;
     ns1:name "Casey Flyer"^^xsd:string ;
@@ -20686,6 +20702,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "LinkedIn"^^xsd:string ;
     ns1:url "https://www.linkedin.com/in/sandy-sela-smith-3a645311/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/tzivia-gover-7972178/> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "https://www.linkedin.com/in/tzivia-gover-7972178/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/victoriavlach/> a ns1:Website ;
     ns1:name "LinkedIn"^^xsd:string ;
     ns1:url "https://www.linkedin.com/in/victoriavlach/"^^xsd:string .
@@ -20775,6 +20795,7 @@ ns1:bcphbgreene a ns1:User ;
 <p>Private readings in person in Toronto and GTA via SKYPE, psychic party, corporate events, workshops.</p>
 """^^xsd:string ;
     ns1:handle "taragreene"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://infinitynow.wordpress.com/> ;
     ns1:itemId "bcphbgreene"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Tara Greene"^^xsd:string ;
@@ -21520,6 +21541,8 @@ ns1:bcphbqvtziv a ns1:User ;
 </ul>
 """^^xsd:string ;
     ns1:handle "tziviagover"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://tziviagover.com/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/tzivia-gover-7972178/> ;
     ns1:itemId "bcphbqvtziv"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Tzivia Gover"^^xsd:string ;
@@ -23255,6 +23278,8 @@ ns1:bcphbqvmoss a ns1:User ;
 <p>Robert Moss describes himself as a dream teacher, on a path for which there has been no career track in our culture. He is the creator of Active Dreaming, an original synthesis of dreamwork and shamanism. Born in Australia, he survived three near-death experiences in childhood. He leads popular seminars all over the world, including a three-year training for teachers of Active Dreaming. A former lecturer in ancient history at the Australian National University, he is a best-selling novelist, journalist and independent scholar. He has published twelve books on dreaming, shamanism and imagination.</p>
 """^^xsd:string ;
     ns1:handle "robertmoss"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html>,
+        <https://www.dannykennedy.co/dnj-ontology#https://mossdreams.com/> ;
     ns1:itemId "bcphbqvmoss"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert Moss"^^xsd:string ;

@@ -9,6 +9,9 @@ tags:
 date: 2022-10-21
 profileImg: author-ral.jpg
 coverImg: post-bcpov6krdbf9-0.jpg
+websites:
+    - name: ralockhart.com
+      url: http://ralockhart.com/
 ---
 
 Website: [ralockhart.com](http://ralockhart.com/)

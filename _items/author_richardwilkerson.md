@@ -8,6 +8,11 @@ shortDescription: ""
 tags:
 date: 2022-10-21
 profileImg: author-richard-wilkerson.jpg
+websites:
+    - name: dreamgate.com
+      url: http://dreamgate.com/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/richardcatlettwilkerson/
 ---
 
 Website: [dreamgate.com](http://dreamgate.com/)

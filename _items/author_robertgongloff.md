@@ -8,6 +8,11 @@ shortDescription: ""
 tags:
 date: 2022-10-21
 profileImg: author-robert-gongloff.jpg
+websites:
+    - name: Heart of the Dream
+      url: http://heartofthedream.com/about.htm
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/robert-gongloff-796b487/
 ---
 
 Website: [heartofthedream.com](http://heartofthedream.com/)

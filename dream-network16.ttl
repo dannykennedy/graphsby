@@ -20186,13 +20186,25 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Personal Website"^^xsd:string ;
     ns1:url "http://deenametzger.net/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#http://dreamgate.com/> a ns1:Website ;
+    ns1:name "dreamgate.com"^^xsd:string ;
+    ns1:url "http://dreamgate.com/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#http://fatooh.org/art/> a ns1:Website ;
     ns1:name "Fatooh Art"^^xsd:string ;
     ns1:url "http://fatooh.org/art/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#http://heartofthedream.com/about.htm> a ns1:Website ;
+    ns1:name "Heart of the Dream"^^xsd:string ;
+    ns1:url "http://heartofthedream.com/about.htm"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#http://notesfromadreamer.com/bobbie-ann-pimm/> a ns1:Website ;
     ns1:name "notesfromadreamer.com"^^xsd:string ;
     ns1:url "http://notesfromadreamer.com/bobbie-ann-pimm/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#http://ralockhart.com/> a ns1:Website ;
+    ns1:name "ralockhart.com"^^xsd:string ;
+    ns1:url "http://ralockhart.com/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#http://tendingdreams.com/> a ns1:Website ;
     ns1:name "Tending Dreams"^^xsd:string ;
@@ -20221,6 +20233,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#http://www.greatdreams.com/joestuff/interp/joeindex.htm> a ns1:Website ;
     ns1:name "Great Dreams"^^xsd:string ;
     ns1:url "http://www.greatdreams.com/joestuff/interp/joeindex.htm"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#http://www.infiniteconnections.us/> a ns1:Website ;
+    ns1:name "Infinite Connections"^^xsd:string ;
+    ns1:url "http://www.infiniteconnections.us/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#http://www.jenniferwohl.com/> a ns1:Website ;
     ns1:name "Jennifer Wohl"^^xsd:string ;
@@ -20358,6 +20374,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Twitter"^^xsd:string ;
     ns1:url "https://twitter.com/Gary_Bonnell"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://twitter.com/JosephEMason> a ns1:Website ;
+    ns1:name "Twitter"^^xsd:string ;
+    ns1:url "https://twitter.com/JosephEMason"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/KellyBulkeley> a ns1:Website ;
     ns1:name "Twitter"^^xsd:string ;
     ns1:url "https://twitter.com/KellyBulkeley"^^xsd:string .
@@ -20385,6 +20405,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/debsoultouch> a ns1:Website ;
     ns1:name "Twitter"^^xsd:string ;
     ns1:url "https://twitter.com/debsoultouch"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://twitter.com/dreambob> a ns1:Website ;
+    ns1:name "Twitter"^^xsd:string ;
+    ns1:url "https://twitter.com/dreambob"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/dreammaestro> a ns1:Website ;
     ns1:name "Twitter"^^xsd:string ;
@@ -20562,6 +20586,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Instagram"^^xsd:string ;
     ns1:url "https://www.instagram.com/mondesomnis/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/robertwaggonerlucid/> a ns1:Website ;
+    ns1:name "Instagram"^^xsd:string ;
+    ns1:url "https://www.instagram.com/robertwaggonerlucid/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/tarotpyanddreams/> a ns1:Website ;
     ns1:name "Instagram"^^xsd:string ;
     ns1:url "https://www.instagram.com/tarotpyanddreams/"^^xsd:string .
@@ -20614,9 +20642,25 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "LinkedIn"^^xsd:string ;
     ns1:url "https://www.linkedin.com/in/lauraatkinsonphotodesign/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/richardcatlettwilkerson/> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "https://www.linkedin.com/in/richardcatlettwilkerson/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/robert-gongloff-796b487/> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "https://www.linkedin.com/in/robert-gongloff-796b487/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/robert-waggoner-97022410> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "https://www.linkedin.com/in/robert-waggoner-97022410"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://www.livingdreams.life/> a ns1:Website ;
     ns1:name "livingdreams.life"^^xsd:string ;
     ns1:url "https://www.livingdreams.life/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.lucidadvice.com/about-robert/> a ns1:Website ;
+    ns1:name "LucidAdvice.com"^^xsd:string ;
+    ns1:url "https://www.lucidadvice.com/about-robert/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.mondesomnis.org/> a ns1:Website ;
     ns1:name "Mondesomnis"^^xsd:string ;
@@ -20629,6 +20673,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://www.nomadicschool.org/> a ns1:Website ;
     ns1:name "Nomadic School"^^xsd:string ;
     ns1:url "https://www.nomadicschool.org/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.reddit.com/user/RobWaggoner/> a ns1:Website ;
+    ns1:name "Reddit"^^xsd:string ;
+    ns1:url "https://www.reddit.com/user/RobWaggoner/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.theknowingway.online/> a ns1:Website ;
     ns1:name "theknowingway.online"^^xsd:string ;
@@ -21841,7 +21889,8 @@ ns1:bcphbgmason a ns1:User ;
 <p>Dream, myth, religion and crop circle researcher.</p>
 """^^xsd:string ;
     ns1:handle "josephmason"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.greatdreams.com/joestuff/interp/joeindex.htm> ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.greatdreams.com/joestuff/interp/joeindex.htm>,
+        <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/JosephEMason> ;
     ns1:itemId "bcphbgmason"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Joseph Mason"^^xsd:string ;
@@ -21971,6 +22020,8 @@ ns1:bcphbq3gong a ns1:User ;
 <p>He is the author of <a href="https://www.amazon.com/Dream-Exploration-Approach-Robert-Gongloff/dp/0738708186">Dream Exploration: A New Approach</a>, which helps dreamers identify the core "theme" - the "heart" - of the dream; and is co-editor of the <a href="https://www.amazon.com/Dreams-That-Change-Our-Lives/dp/1630514292">IASD book, Dreams that Change Our Lives</a>, and the second volume of <a href="https://www.amazon.com.au/Dreams-Understanding-Biology-Psychology-Culture/dp/1440856168">Dreams: Understanding Biology, Psychology, and Culture</a>. He lives in Málaga, Spain.</p>
 """^^xsd:string ;
     ns1:handle "robertgongloff"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://heartofthedream.com/about.htm>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/robert-gongloff-796b487/> ;
     ns1:itemId "bcphbq3gong"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert P. Gongloff"^^xsd:string ;
@@ -22042,6 +22093,8 @@ ns1:bcphbq3rcwi a ns1:User ;
 <p>This work is collected on the <a href="http://www.dreamgate.com/pomo/">Postmodern Dreaming page</a>.</p>
 """^^xsd:string ;
     ns1:handle "richardwilkerson"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://dreamgate.com/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/richardcatlettwilkerson/> ;
     ns1:itemId "bcphbq3rcwi"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Richard Wilkerson"^^xsd:string ;
@@ -23555,11 +23608,18 @@ ns1:bcphbq3spar a ns1:User ;
 ns1:bcphbq3wagg a ns1:User ;
     ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>
 
-<p>Robert Waggoner wrote the acclaimed book, <a href="https://www.lucidadvice.com/books/lucid-dreaming-gateway-to-the-inner-self/">Lucid Dreaming – Gateway to the Inner Self</a> (now in its tenth printing), and co-authored <a href="https://www.lucidadvice.com/books/lucid-dreaming-plain-and-simple/">Lucid Dreaming Plain and Simple</a> with Caroline McCready. Both books are in Audible, Kindle and CD/Mp3. His books have been translated into French, German, Chinese, Korean, Czech, Finnish and other languages.</p>
+<p>Robert Waggoner has been an active lucid dreamer since 1975, a member of <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a> since 1995, and is a past president of the IASD. He is co-editor of the online magazine, <a href="https://www.dreaminglucid.com/">The Lucid Dreaming Experience</a>, and the author of <a href="https://www.lucidadvice.com/books/lucid-dreaming-gateway-to-the-inner-self/">Lucid Dreaming – Gateway to the Inner Self</a>.</p>
 
-<p>A past President of the <a href="https://www.asdreams.org/">International Association for the Study of Dreams</a> (IASD), Waggoner serves at co-editor of the online magazine, <a href="https://www.dreaminglucid.com/">The Lucid Dreaming Experience</a>, (ISSN 2167-616X); the only ongoing publication devoted specifically to lucid dreaming. A lucid dreamer since 1975, he has logged more than 1,000 lucid dreams.</p>
+<p>In this book, he addresses the misconception that lucid dreamers control the dream, just as "No sailor controls the sea". Though the field of psychology has traditionally alluded to various features of the dream realm such as Freud's pleasure principle and wish fulfillment theory, this book proposes lucid dreamers have commonly discovered that the expectation effect (in which the lucid dreamers experiences what he or she expects to experience) explains the wish fulfilling aspect of the dream environment more cogently. Similarly, Carl Jung's theory of a collective unconscious is investigated by experienced lucid dreamers who intentionally seek out unexpected and unknown information. Their experience appears to show that some type of inner awareness carries a larger body of knowledge than the consciously aware lucid dreamer, though not exactly as Jung supposed. Additionally, this clearly refutes a mental model mechanism as the paradigm boundary of unconscious awareness.</p>
+
+<p>Borrowing from Jean Piaget's stages of cognitive development in children, he proposes five developmental stages for lucid dreamers, beginning with pleasure seeking and play, and culminating with the experience of a non-dual awareness, suggested by some Buddhist traditions (see Tenzin Wangyal Rinpoche, The Tibetan Yogas of Dream and Sleep, Ithaca, New York: Snow Lion Publications, 1998). He concludes that while aware in the dream state, one has a revolutionary psychological tool from which to begin to understand the principles of dreaming as well as the larger picture of man’s psyche.</p>
 """^^xsd:string ;
     ns1:handle "robertwaggoner"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/dreambob>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/robertwaggonerlucid/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/robert-waggoner-97022410>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.lucidadvice.com/about-robert/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.reddit.com/user/RobWaggoner/> ;
     ns1:itemId "bcphbq3wagg"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert Waggoner"^^xsd:string ;
@@ -23668,6 +23728,7 @@ ns1:bcphbssmith a ns1:User ;
 <p>Perhaps, the single most important discovery of these multiple journeys is that no matter how disconnected we may feel, we are not separate; but rather, we are infinitely connected with each other and with everything that was, and is, and shall be.</p>
 """^^xsd:string ;
     ns1:handle "sandyselasmith"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.infiniteconnections.us/> ;
     ns1:itemId "bcphbssmith"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Sandy Sela-Smith"^^xsd:string ;
@@ -24351,6 +24412,7 @@ ns1:bcphbqvruss a ns1:User ;
 <p>Dr. Lockhart is the author of <a href="https://www.amazon.com/Words-As-Eggs-Russell-Lockhart/dp/0911783008">Words as Eggs: Psyche in Language and Clinic</a>; <a href="https://www.amazon.com/Psyche-Speaks-Jungian-Approach-Paperback/dp/1630512699">Psyche Speaks: A Jungian Approach to Self and World</a>; <a href="https://www.amazon.com/Secrets-Undergroundtrader-Jea-Yu/dp/0071417370">Secrets of the Undergroundtrader</a> (with Jea Yu), and two books in progress: Gleanings from the Dreamfield and <a href="http://ralockhart.com/orderinfo.htm">Hints and Helps for Daytraders</a>. He and his wife Frankie have four children.</p>
 """^^xsd:string ;
     ns1:handle "ral"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://ralockhart.com/> ;
     ns1:itemId "bcphbqvruss"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Russell Lockhart"^^xsd:string ;

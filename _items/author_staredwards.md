@@ -9,6 +9,9 @@ tags:
 date: 2022-10-21
 profileImg: author-star-edwards.jpg
 coverImg: cover-author-star-edwards.jpg
+websites:
+    - name: starharp.com
+      url: http://www.starharp.com/
 ---
 
 Website: <a href="http://www.starharp.com/" target="_blank">starharp.com</a>

@@ -20234,10 +20234,6 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Great Dreams"^^xsd:string ;
     ns1:url "http://www.greatdreams.com/joestuff/interp/joeindex.htm"^^xsd:string .
 
-<https://www.dannykennedy.co/dnj-ontology#http://www.infiniteconnections.us/> a ns1:Website ;
-    ns1:name "Infinite Connections"^^xsd:string ;
-    ns1:url "http://www.infiniteconnections.us/"^^xsd:string .
-
 <https://www.dannykennedy.co/dnj-ontology#http://www.jenniferwohl.com/> a ns1:Website ;
     ns1:name "Jennifer Wohl"^^xsd:string ;
     ns1:url "http://www.jenniferwohl.com/"^^xsd:string .
@@ -20441,6 +20437,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20190630110643/https://www.dreamtimesguide.com/> a ns1:Website ;
     ns1:name "Dream Times Guide (Web Archive)"^^xsd:string ;
     ns1:url "https://web.archive.org/web/20190630110643/https://www.dreamtimesguide.com/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20200105081108/http://www.infiniteconnections.us/> a ns1:Website ;
+    ns1:name "Infinite Connections"^^xsd:string ;
+    ns1:url "https://web.archive.org/web/20200105081108/http://www.infiniteconnections.us/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html> a ns1:Website ;
     ns1:name "bobtrowbridge.com"^^xsd:string ;
@@ -20653,6 +20653,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/robert-waggoner-97022410> a ns1:Website ;
     ns1:name "LinkedIn"^^xsd:string ;
     ns1:url "https://www.linkedin.com/in/robert-waggoner-97022410"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/sandy-sela-smith-3a645311/> a ns1:Website ;
+    ns1:name "LinkedIn"^^xsd:string ;
+    ns1:url "https://www.linkedin.com/in/sandy-sela-smith-3a645311/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.livingdreams.life/> a ns1:Website ;
     ns1:name "livingdreams.life"^^xsd:string ;
@@ -23721,14 +23725,17 @@ ns1:bcphbs4b6on a ns1:Post ;
 
 ns1:bcphbssmith a ns1:User ;
     ns1:coverImg "cover-author-sandy-sela-smith.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.infiniteconnections.us/">infiniteconnections.us</a></p>
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20200105081108/http://www.infiniteconnections.us/">infiniteconnections.us</a></p>
 
 <p>Dr. Sandy Sela-Smith earned her Ph.D. in psychology after a 15-year healing journey that took her into the depths of her internal world, as well as into many cultures and countries in the external world. Her journey also brought her into the core of numerous spiritual traditions from the ancient past to the leading edge of current human spiritual understanding.</p>
 
 <p>Perhaps, the single most important discovery of these multiple journeys is that no matter how disconnected we may feel, we are not separate; but rather, we are infinitely connected with each other and with everything that was, and is, and shall be.</p>
+
+<p>Sandy passed away on June 6, 2021 of pancreatic cancer. Please enjoy her enduring contribution to the world of dreaming.</p>
 """^^xsd:string ;
     ns1:handle "sandyselasmith"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.infiniteconnections.us/> ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20200105081108/http://www.infiniteconnections.us/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/sandy-sela-smith-3a645311/> ;
     ns1:itemId "bcphbssmith"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Sandy Sela-Smith"^^xsd:string ;

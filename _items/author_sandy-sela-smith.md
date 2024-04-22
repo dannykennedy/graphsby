@@ -16,7 +16,7 @@ websites:
       url: https://www.linkedin.com/in/sandy-sela-smith-3a645311/
 ---
 
-Website: [infiniteconnections.us](http://www.infiniteconnections.us/)
+Website: [infiniteconnections.us](https://web.archive.org/web/20200105081108/http://www.infiniteconnections.us/)
 
 Dr. Sandy Sela-Smith earned her Ph.D. in psychology after a 15-year healing journey that took her into the depths of her internal world, as well as into many cultures and countries in the external world. Her journey also brought her into the core of numerous spiritual traditions from the ancient past to the leading edge of current human spiritual understanding.
 

@@ -76,17 +76,22 @@
         <!-- JSON-LD -->
         <script type="application/ld+json">
     {
-        "@context": "https://schema.org/",
-        "@type": "Person",
-          
-        "sameAs": [
-            
-            "https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html"
-            
-        ],
-        
-        "name": "Bob Trowbridge"
-    }
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "image": "author-bob-trowbridge.jpg",
+    "name": "Bob Trowbridge",
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://dreamnetworkjournal.com/images/tree-logo.png"
+        },
+        "name": "Dream Network"
+    },
+    "sameAs": [
+        "https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html"
+    ]
+}
 </script>
     </head>
     <body>

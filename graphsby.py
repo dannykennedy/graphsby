@@ -5,7 +5,7 @@
 #########
 
 # Libraries
-import os, sys, re, jinja2, calendar, html5lib, shutil, random
+import os, sys, re, jinja2, calendar, html5lib, shutil, random, json
 # import dateutil.parser # For converting xsd:datetime to something sensible
 from rdflib import Namespace, Literal, ConjunctiveGraph
 from pathlib import Path
@@ -682,17 +682,57 @@ for pyyam in file_objects:
 					author_type = "Organization"
 			else:
 				author_type = "Person"
-			json_ld_authors.append({"json_ld_type": author_type, "name": str(author["name"])})
+			json_ld_authors.append({"json_ld_type": author_type, "name": str(author["name"]), "url": site_url + "@" + author["textId"], "image": site_url + "images/" + author["profileImg"]})
 
 	
 
+	# SUMMARISE JSON-LD
+	json_ld = {
+		"@context": "http://schema.org",
+		"@type": json_ld_type,
+		"name": pyyam["name"],
+		"publisher": {
+			"@type": "Organization",
+			"name": "Dream Network",
+			"logo": {
+				"@type": "ImageObject",
+				"url": site_url + "images/tree-logo.png"
+			}
+		},
+	}
+
+	sameAs = []
+	if "websites" in pyyam.keys():
+		for website in pyyam["websites"]:
+			sameAs.append(website["url"])
+
+	if ("dateCreated" in pyyam.keys()):
+		json_ld["datePublished"] = pyyam["dateCreated"]
+	if ("profileImg" in pyyam.keys()):
+		json_ld["image"] = pyyam["profileImg"]
+	if ("metaDescription" in pyyam.keys()):
+		json_ld["description"] = pyyam["metaDescription"]
+	if ("metaKeywords" in pyyam.keys()):
+		json_ld["keywords"] = pyyam["metaKeywords"]
+	if (json_ld_type == "Article"):
+		# json_ld["mainEntityOfPage"] = {
+		# 	"@type": "WebPage",
+		# 	"@id": canonical_url
+		# }
+		json_ld["author"] = json_ld_authors
+	if (len(sameAs) > 0):
+		json_ld["sameAs"] = sameAs
+
+
+	json_ld_str = json.dumps(json_ld, indent=4, sort_keys=True)
+
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_type=json_ld_type, json_ld_authors=json_ld_authors)
+			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str)
 		else:
-			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_type=json_ld_type, json_ld_authors=json_ld_authors)
+			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str)
 	else:
-		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_type=json_ld_type, json_ld_authors=json_ld_authors)
+		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str)
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"

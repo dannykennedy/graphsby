@@ -1,25 +1,3 @@
 <script type="application/ld+json">
-    {
-        "@context": "https://schema.org/",
-        "@type": "{{json_ld_type}}",
-        {% if render_item.dateCreated %}
-        "datePublished": "{{render_item.dateCreated}}",
-        {% endif %} {% if json_ld_authors %}
-        "author": [
-            {% for author in json_ld_authors %}
-            {
-                "@type": "{{author.json_ld_type}}",
-                "name": "{{author.name}}"
-            }{% if not loop.last %},{% endif %}
-            {% endfor %}
-        ],
-        {% endif %} {% if render_item.websites %}
-        "sameAs": [
-            {% for website in render_item.websites %}
-            "{{website.url}}"{% if not loop.last %},{% endif %}
-            {% endfor %}
-        ],
-        {% endif %}
-        "name": "{{render_item.name}}"
-    }
+    {{json_ld_str}}
 </script>

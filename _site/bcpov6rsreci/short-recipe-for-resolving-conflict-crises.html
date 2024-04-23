@@ -76,27 +76,33 @@
         <!-- JSON-LD -->
         <script type="application/ld+json">
     {
-        "@context": "https://schema.org/",
-        "@type": "Article",
-        
-        "datePublished": "2001-10-01T11:32:52",
-         
-        "author": [
-            
-            {
-                "@type": "Person",
-                "name": "Dr. Arnold Mindell"
-            },
-            
-            {
-                "@type": "Person",
-                "name": "Dr. Amy Mindell"
-            }
-            
-        ],
-         
-        "name": "Short Recipe for Resolving Conflict Crises"
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "author": [
+        {
+            "image": "https://dreamnetworkjournal.com/images/author-arnold-mindell.jpg",
+            "json_ld_type": "Person",
+            "name": "Dr. Arnold Mindell",
+            "url": "https://dreamnetworkjournal.com/@arnoldmindell"
+        },
+        {
+            "image": "https://dreamnetworkjournal.com/images/author-amy-mindell.jpg",
+            "json_ld_type": "Person",
+            "name": "Dr. Amy Mindell",
+            "url": "https://dreamnetworkjournal.com/@amymindell"
+        }
+    ],
+    "datePublished": "2001-10-01T11:32:52",
+    "name": "Short Recipe for Resolving Conflict Crises",
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://dreamnetworkjournal.com/images/tree-logo.png"
+        },
+        "name": "Dream Network"
     }
+}
 </script>
     </head>
     <body>

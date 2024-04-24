@@ -682,7 +682,7 @@ for pyyam in file_objects:
 					author_type = "Organization"
 			else:
 				author_type = "Person"
-			json_ld_authors.append({"json_ld_type": author_type, "name": str(author["name"]), "url": site_url + "@" + author["textId"], "image": site_url + "images/" + author["profileImg"]})
+			json_ld_authors.append({"@type": author_type, "name": str(author["name"]), "url": site_url + "@" + author["textId"], "image": site_url + "images/" + author["profileImg"]})
 
 	
 
@@ -709,7 +709,7 @@ for pyyam in file_objects:
 	if ("dateCreated" in pyyam.keys()):
 		json_ld["datePublished"] = pyyam["dateCreated"]
 	if ("profileImg" in pyyam.keys()):
-		json_ld["image"] = pyyam["profileImg"]
+		json_ld["image"] = site_url + "images/" + pyyam["profileImg"]
 	if ("metaDescription" in pyyam.keys()):
 		json_ld["description"] = pyyam["metaDescription"]
 	if ("metaKeywords" in pyyam.keys()):

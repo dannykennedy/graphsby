@@ -13,6 +13,11 @@ tags:
     - hasTopic: topic~dream-apps-and-online-dreamsharing
 type: post
 urlSlug: "awakening-personal-meanings-with-symbol-phrases-systems-effects-and-more"
+about:
+    - type: SoftwareApplication
+      name: "DreamScan™"
+      sameAs:
+          - http://www.yourguidingdreams.com/public/dreamscan.htm
 ---
 
 <img src="../images/post-bcpov6zphras-0.jpg" alt="Duesbury and Bynum" width="500" height="auto"/>

@@ -13,6 +13,11 @@ type: post
 subType: Review
 urlSlug: "dreamwork-software-review-the-dream-toolbox"
 profileImg: post-bcpox5dsrtdt-0.jpeg
+about:
+    - type: SoftwareApplication
+      name: "The Dream Toolbox"
+      sameAs:
+          - https://web.archive.org/web/20020202191745/http://www.jasonzack.com/DreamToolbox/
 ---
 
 <img src="../images/post-bcpox5dsrtdt-0.jpeg" width="200" height="auto" alt="Dream Toolbox screen"/>

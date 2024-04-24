@@ -11,6 +11,15 @@ tags:
 type: post
 urlSlug: "outstanding-dream-websites"
 profileImg: post-bcpoz4zmiwow-1.gif
+about:
+    - type: SoftwareApplication
+      name: "Dream Temple"
+      sameAs:
+          - https://web.archive.org/web/20030213005554/https://www.dreamtemple.com/
+    - type: WebSite
+      name: "Online Noetic Network"
+      sameAs:
+          - https://web.archive.org/web/20000520075317/http://www.wisdomtalk.org:80/
 ---
 
 _This list of websites was published in Volume 19, issue 4 of the Dream Network Journal, Shamanism & Dreams._

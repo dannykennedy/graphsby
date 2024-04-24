@@ -13,6 +13,11 @@ type: post
 subType: Review
 urlSlug: "the-lucid-dreaming-kit-by-bradley-thompson-review"
 profileImg: post-bcpov6grlrev-0.jpg
+about:
+    - type: SoftwareApplication
+      name: "The Lucid Dreaming Kit"
+      sameAs:
+          - https://www.world-of-lucid-dreaming.com/lucid-dreaming-kit.html
 ---
 
 <img src="../images/post-bcpov6grlrev-0.jpg" width="200px" height="auto"/>

@@ -273,6 +273,8 @@ for triple in edges:
 
 
 
+
+
 ################
 # OUTPUT GRAPH
 ################
@@ -281,6 +283,31 @@ graph.serialize(destination='dream-network16.ttl', format='turtle')
 # graph.serialize(destination='dream-network16.nt', format='nt')
 # graph.serialize(destination='dream-network16.xml', format='xml')
 
+
+################
+# OUTPUT SITEMAP
+################
+print("Building sitemap")
+sitemap = open(cwd + build_folder + '/sitemap.xml', "w")
+sitemap.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+sitemap.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+for pyyam in file_objects:
+	if "type" in pyyam.keys():
+		if pyyam["type"] == "user" or pyyam["type"] == "page":
+			sitemap.write('<url>\n')
+			sitemap.write('<loc>' + site_url + "@" + pyyam["handle"] + '</loc>\n')
+			sitemap.write('</url>\n')
+		elif pyyam["type"] == "topic":
+			sitemap.write('<url>\n')
+			sitemap.write('<loc>' + site_url + pyyam["urlSlug"] + '</loc>\n')
+			sitemap.write('</url>\n')
+		elif pyyam["type"] == "post":
+			sitemap.write('<url>\n')
+			sitemap.write('<loc>' + site_url + str(pyyam["itemId"]) + '/' + pyyam["urlSlug"] + '</loc>\n')
+			sitemap.write('</url>\n')
+sitemap.write('</urlset>')
+sitemap.close()
+print("Sitemap built")
 
 ################
 # GENERATE PAGES
@@ -338,11 +365,6 @@ for row in q:
 
 print("Finding linked items")
 for pyyam in file_objects:
-
-
-
-	# print(pyyam["name"])
-
 	item_string_identifier = ""
 	item_type = pyyam["type"]
 	if item_type == "user" or item_type == "page" or item_type == "topic":
@@ -794,6 +816,7 @@ for pyyam in file_objects:
 			home_page = open(home_writepath, "w")
 			home_page.write(full_html)
 			home_page.close()
+
 
 print("\nDone")
 

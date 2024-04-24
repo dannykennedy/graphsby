@@ -13,6 +13,11 @@ type: post
 subType: Review
 urlSlug: "book-review-the-art-of-dreaming-by-carlos-castaneda"
 profileImg: post-bcpoz1zdqaod-0.jpg
+about:
+    - type: Book
+      name: "The Art of Dreaming"
+      sameAs:
+          - https://en.wikipedia.org/wiki/The_Art_of_Dreaming
 ---
 
 <img src="../images/post-bcpoz1zdqaod-0.jpg" alt="book cover" width="250" height="auto"/>

@@ -14,6 +14,12 @@ type: post
 subType: Review
 urlSlug: thomas-berry-dreamer-of-the-earth-book-review
 profileImg: post-bcpov6zftber-0.jpg
+about:
+    - type: Book
+      name: "Thomas Berry, Dreamer of the Earth"
+      sameAs:
+          - https://thomasberry.org/thomas-berry-dreamer-of-the-earth-the-spiritual-ecology-of-the-father-of-environmentalism/
+          - https://books.google.com.au/books/about/Thomas_Berry_Dreamer_of_the_Earth.html?id=510oDwAAQBAJ
 ---
 
 ![Thomas Berry, Dreamer of the Earth: The Spiritual Ecology of the Father of Environmentalism, edited by Ervin Laszlo and Allan Combs](../images/post-bcpov6zftber-0.jpg)

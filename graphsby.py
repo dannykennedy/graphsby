@@ -700,11 +700,12 @@ for pyyam in file_objects:
 		"name": pyyam["name"],
 		"publisher": {
 			"@type": "Organization",
-			"name": "Dream Network",
+			"name": "Dream Network Journal",
 			"logo": {
 				"@type": "ImageObject",
 				"url": site_url + "images/tree-logo.png"
-			}
+			},
+			"url": site_url + "@dreamnetwork"
 		},
 	}
 

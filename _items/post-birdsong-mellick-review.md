@@ -10,6 +10,7 @@ tags:
     - inIssue: 23.4-24.1
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "the-art-of-dreaming-book-review"
 profileImg: post-bcpov6modart-0.jpg
 ---

@@ -10,6 +10,7 @@ tags:
     - inIssue: 29.4
     - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "soul-on-fire-dreams-as-a-vehicle-for-transformation"
 profileImg: post-bcpov6gresof-0.jpg
 ---

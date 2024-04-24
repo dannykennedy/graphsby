@@ -11,6 +11,7 @@ tags:
     - inIssue: 27.3
     - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "dream-tending-and-storytelling"
 profileImg: post-bcpov6greaiz-1.jpg
 ---

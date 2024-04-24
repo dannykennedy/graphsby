@@ -10,6 +10,7 @@ tags:
     - inIssue: 6.3
     - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "bridging-the-continent-an-interview-with-shirlee-a-martin"
 profileImg: bridging-the-continent.jpg
 ---

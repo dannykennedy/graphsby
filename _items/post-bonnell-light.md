@@ -12,6 +12,7 @@ tags:
     - inIssue: 18.4
     - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "interview-with-gary-bonnell"
 profileImg: post-bcpov6glight-0.jpg
 ---

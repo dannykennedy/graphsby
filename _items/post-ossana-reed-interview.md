@@ -12,6 +12,7 @@ tags:
     - inIssue: 16.4
     - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "an-interview-with-henry-reed"
 profileImg: post-bcpov6zreedi-0.jpg
 ---

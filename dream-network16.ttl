@@ -1203,6 +1203,7 @@ ns1:bcpov3zdtlli a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Living Labyrinth - The Universal in Myths, Dreams & Waking Life: An Interview with Jeremy Taylor"^^xsd:string ;
     ns1:profileImg "post-bcpov3zdtlli-0.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "the-living-labyrinth-an-interview-with-jeremy-taylor"^^xsd:string .
 
 ns1:bcpov4kchstm a ns1:Post ;
@@ -2206,6 +2207,7 @@ ns1:bcpov6giwsam a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Bridging the Continent: An Interview with Shirlee A. Martin"^^xsd:string ;
     ns1:profileImg "bridging-the-continent.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "bridging-the-continent-an-interview-with-shirlee-a-martin"^^xsd:string .
 
 ns1:bcpov6gkrev2 a ns1:Post ;
@@ -2281,6 +2283,7 @@ ns1:bcpov6glight a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Light at the End of the Tunnel - The Twelve Days of Light: An Interview with Gary Bonnell"^^xsd:string ;
     ns1:profileImg "post-bcpov6glight-0.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "interview-with-gary-bonnell"^^xsd:string .
 
 ns1:bcpov6globus a ns1:Post ;
@@ -2370,11 +2373,13 @@ ns1:bcpov6glorev a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvbulk ;
     ns1:hasTag ns1:bcphbp2b6gy,
         ns1:bcphbqvbulk ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbp2b6gy ;
     ns1:itemId "bcpov6glorev"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Reviews: Dreams and Relationships"^^xsd:string ;
     ns1:profileImg "post-bcpov6glorev-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "dreams-and-relationships-book-reviews"^^xsd:string .
 
 ns1:bcpov6grddan a ns1:Post ;
@@ -2659,6 +2664,7 @@ ns1:bcpov6greaiz a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dream Tending and Story Telling - an interview with Dr. Stephen Aizenstat"^^xsd:string ;
     ns1:profileImg "post-bcpov6greaiz-1.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "dream-tending-and-storytelling"^^xsd:string .
 
 ns1:bcpov6great1 a ns1:Post ;
@@ -2746,6 +2752,7 @@ ns1:bcpov6great1 a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Frequently Asked Questions About Dreams: An Interview with Barry Williams, Part I"^^xsd:string ;
     ns1:profileImg "post-bcpov6great2-0.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "interview-with-barry-williams-part-I"^^xsd:string .
 
 ns1:bcpov6great2 a ns1:Post ;
@@ -2802,6 +2809,7 @@ ns1:bcpov6great2 a ns1:Post ;
     ns1:itemId "bcpov6great2"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dancing the Great Dream: An Interview with Barry Williams, Part II"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "interview-with-barry-williams-part-II"^^xsd:string .
 
 ns1:bcpov6gregi2 a ns1:Post ;
@@ -2873,6 +2881,7 @@ ns1:bcpov6gregi2 a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Viewing the Interviewer, featuring Jill Gregory"^^xsd:string ;
     ns1:profileImg "post-bcpov6gregi2-0.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "viewing-the-interviewer-featuring-jill-gregory"^^xsd:string .
 
 ns1:bcpov6gresci a ns1:Post ;
@@ -3003,6 +3012,7 @@ ns1:bcpov6gresof a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Soul on Fire: Dreams as a Vehicle for Transformation - an interview with Dr. Bud Harris"^^xsd:string ;
     ns1:profileImg "post-bcpov6gresof-0.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "soul-on-fire-dreams-as-a-vehicle-for-transformation"^^xsd:string .
 
 ns1:bcpov6grewit a ns1:Post ;
@@ -3176,6 +3186,7 @@ ns1:bcpov6grlrev a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Review: The Lucid Dreaming Kit by Bradley Thompson"^^xsd:string ;
     ns1:profileImg "post-bcpov6grlrev-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "the-lucid-dreaming-kit-by-bradley-thompson-review"^^xsd:string .
 
 ns1:bcpov6grroth a ns1:Post ;
@@ -3231,6 +3242,7 @@ ns1:bcpov6grroth a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dance! It Is Holy - an interview with Gabrielle Roth"^^xsd:string ;
     ns1:profileImg "post-bcpov6grroth-0.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "gabrielle-roth-interview-dance-it-is-holy"^^xsd:string .
 
 ns1:bcpov6grsalm a ns1:Post ;
@@ -5501,6 +5513,7 @@ ns1:bcpov6kfutur a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Embracing the future in our dreams: Emerging forms of community - Russell Lockhart interviewed by Roberta Ossana"^^xsd:string ;
     ns1:profileImg "post-bcpov6kfutur-0.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "embracing-the-future-in-our-dreams-emerging-forms-of-community"^^xsd:string .
 
 ns1:bcpov6kheart a ns1:Post ;
@@ -6240,6 +6253,7 @@ ns1:bcpov6kohoss a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: Robert Hoss, 'Dream Language'"^^xsd:string ;
     ns1:profileImg "post-bcpov6kohoss-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "dream-theories-of-deja-vu"^^xsd:string .
 
 ns1:bcpov6kottea a ns1:Post ;
@@ -7889,6 +7903,7 @@ ns1:bcpov6krujoa a ns1:Post ;
     ns1:itemId "bcpov6krujoa"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Joanna Penn: Living and Loving Her Dream"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "joanna-penn-interviewed-by-russell-lockhart"^^xsd:string .
 
 ns1:bcpov6krukat a ns1:Post ;
@@ -8234,6 +8249,7 @@ ns1:bcpov6magai2 a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Interview with DNB Publisher Linda Magallón"^^xsd:string ;
     ns1:profileImg "post-bcpov6magai2-1.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "interview-with-dnb-publisher-linda-magallon"^^xsd:string .
 
 ns1:bcpov6master a ns1:Post ;
@@ -8570,6 +8586,7 @@ ns1:bcpov6mhilli a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Apocalypse as a Rite of Passage - the Coexistence of Beauty & Beast in Psyche, in Culture: an Interview with Michael Ortiz Hill"^^xsd:string ;
     ns1:profileImg "post-bcpov6mhilli-0.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "an-interview-with-michael-ortiz-hill"^^xsd:string .
 
 ns1:bcpov6mlight a ns1:Post ;
@@ -8715,6 +8732,7 @@ ns1:bcpov6modart a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Art of Dreaming: Tools for Creative Dream Work by Jill Mellick"^^xsd:string ;
     ns1:profileImg "post-bcpov6modart-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "the-art-of-dreaming-book-review"^^xsd:string .
 
 ns1:bcpov6modway a ns1:Post ;
@@ -9229,6 +9247,7 @@ ns1:bcpov6reedi2 a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Interview with Henry Reed"^^xsd:string ;
     ns1:profileImg "post-bcpov6reedi2-0.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "interview-with-henry-reed"^^xsd:string .
 
 ns1:bcpov6rs24hr a ns1:Post ;
@@ -10580,6 +10599,7 @@ ns1:bcpov6shaman a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "A Shamaness in Devonshire: An Interview with Christa Mackinnon"^^xsd:string ;
     ns1:profileImg "post-bcpov6shaman-0.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "a-shamaness-in-devonshire-an-interview-with-christa-mackinnon"^^xsd:string .
 
 ns1:bcpov6shanth a ns1:Post ;
@@ -10968,6 +10988,7 @@ ns1:bcpov6trowi2 a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dream Wizard: An Interview of DNB Editor Bob Trowbridge"^^xsd:string ;
     ns1:profileImg "post-bcpov6trowi2-0.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "dream-wizard-an-interview-with-bob-trowbridge"^^xsd:string .
 
 ns1:bcpov6twhint a ns1:Post ;
@@ -15144,6 +15165,7 @@ ns1:bcpov6zftens a ns1:Post ;
     ns1:itemId "bcpov6zftens"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Tending to the Soul of the World: An Interview with Richard Wilkerson"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "tending-to-the-soul-of-the-world"^^xsd:string .
 
 ns1:bcpov6zftran a ns1:Post ;
@@ -16992,6 +17014,7 @@ ns1:bcpov6zreedi a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "An Interview with Henry Reed: On the Dream Helper Ceremony, Intuitive Heart™ Dream Story, Dreams & Culture & More"^^xsd:string ;
     ns1:profileImg "post-bcpov6zreedi-0.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "an-interview-with-henry-reed"^^xsd:string .
 
 ns1:bcpov6zreedr a ns1:Post ;
@@ -17526,6 +17549,7 @@ ns1:bcpov9grditd a ns1:Post ;
     ns1:metaDescription "Ann Kruglak discusses her concept of \"Intentional Dreaming\", how it differs from dream control and dream incubation, and introduces her dreaming software CD, \"Interactive Dreaming\"."^^xsd:string ;
     ns1:name "Do you INTEND to dream?"^^xsd:string ;
     ns1:profileImg "post-bcpov9grditd-0.jpeg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "do-you-intend-to-dream"^^xsd:string .
 
 ns1:bcpov9rsgdbt a ns1:Post ;
@@ -17974,6 +17998,7 @@ ns1:bcpoz1tarotp a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Tarotpy®, An Innovative Approach to Depth Therapy and Dreamwork: An Interview with Lauren Z. Schneider"^^xsd:string ;
     ns1:profileImg "corso-schneider.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "tarotpy-an-interview-with-lauren-schneider"^^xsd:string .
 
 ns1:bcpoz1zdqaod a ns1:Post ;
@@ -18684,6 +18709,7 @@ ns1:bcpoz4zmiwsk a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "On Shamanism: An Interview with Stanley Krippner"^^xsd:string ;
     ns1:profileImg "krippner-ossana-interview.jpg"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "on-shamanism-an-interview-with-stanley-krippner"^^xsd:string .
 
 ns1:bcpoz4zmwwmu a ns1:Post ;
@@ -21851,6 +21877,7 @@ ns1:bcpqoa3iell a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 14"^^xsd:string ;
     ns1:profileImg "volume-14.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-14"^^xsd:string .
 
 ns1:bcpqoa5us2e a ns1:Post ;
@@ -21861,6 +21888,7 @@ ns1:bcpqoa5us2e a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 15"^^xsd:string ;
     ns1:profileImg "volume-15.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-15"^^xsd:string .
 
 ns1:bcpqoaqcodk a ns1:Post ;
@@ -21871,6 +21899,7 @@ ns1:bcpqoaqcodk a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 10"^^xsd:string ;
     ns1:profileImg "volume-10.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-10"^^xsd:string .
 
 ns1:bcpqob23yct a ns1:Post ;
@@ -21881,6 +21910,7 @@ ns1:bcpqob23yct a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 24"^^xsd:string ;
     ns1:profileImg "volume-24.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-24"^^xsd:string .
 
 ns1:bcpqob4y4gj a ns1:Post ;
@@ -21891,6 +21921,7 @@ ns1:bcpqob4y4gj a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 25"^^xsd:string ;
     ns1:profileImg "volume-25.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-25"^^xsd:string .
 
 ns1:bcpqobfojdv a ns1:Post ;
@@ -21901,6 +21932,7 @@ ns1:bcpqobfojdv a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 18"^^xsd:string ;
     ns1:profileImg "volume-18.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-18"^^xsd:string .
 
 ns1:bcpqobpf6pi a ns1:Post ;
@@ -21911,6 +21943,7 @@ ns1:bcpqobpf6pi a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 20"^^xsd:string ;
     ns1:profileImg "volume-20.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-20"^^xsd:string .
 
 ns1:bcpqobu7vuq a ns1:Post ;
@@ -21921,6 +21954,7 @@ ns1:bcpqobu7vuq a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 22"^^xsd:string ;
     ns1:profileImg "volume-22.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-22"^^xsd:string .
 
 ns1:bcpqocbmxkx a ns1:Post ;
@@ -21931,6 +21965,7 @@ ns1:bcpqocbmxkx a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 26"^^xsd:string ;
     ns1:profileImg "volume-26.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-26"^^xsd:string .
 
 ns1:bcpqochapy2 a ns1:Post ;
@@ -21941,6 +21976,7 @@ ns1:bcpqochapy2 a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 28"^^xsd:string ;
     ns1:profileImg "volume-28.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-28"^^xsd:string .
 
 ns1:bcpqocndszw a ns1:Post ;
@@ -21951,6 +21987,7 @@ ns1:bcpqocndszw a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 30"^^xsd:string ;
     ns1:profileImg "volume-30.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-30"^^xsd:string .
 
 ns1:bcpqocs2uhp a ns1:Post ;
@@ -21961,6 +21998,7 @@ ns1:bcpqocs2uhp a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 32"^^xsd:string ;
     ns1:profileImg "volume-32.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-32"^^xsd:string .
 
 ns1:bcphb2eggje a ns1:Post ;
@@ -22613,6 +22651,7 @@ ns1:bcpqoaf5sto a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 6"^^xsd:string ;
     ns1:profileImg "volume-6.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-6"^^xsd:string .
 
 ns1:bcpqoalnwed a ns1:Post ;
@@ -22623,6 +22662,7 @@ ns1:bcpqoalnwed a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 8"^^xsd:string ;
     ns1:profileImg "volume-8.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-8"^^xsd:string .
 
 ns1:bcpqoanijcm a ns1:Post ;
@@ -22633,6 +22673,7 @@ ns1:bcpqoanijcm a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 9"^^xsd:string ;
     ns1:profileImg "volume-9.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-9"^^xsd:string .
 
 ns1:bcpqoash2jt a ns1:Post ;
@@ -22643,6 +22684,7 @@ ns1:bcpqoash2jt a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 11"^^xsd:string ;
     ns1:profileImg "volume-11.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-11"^^xsd:string .
 
 ns1:bcpqoauztyp a ns1:Post ;
@@ -22653,6 +22695,7 @@ ns1:bcpqoauztyp a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 12"^^xsd:string ;
     ns1:profileImg "volume-12.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-12"^^xsd:string .
 
 ns1:bcpqoaxfojq a ns1:Post ;
@@ -22663,6 +22706,7 @@ ns1:bcpqoaxfojq a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 13"^^xsd:string ;
     ns1:profileImg "volume-13.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-13"^^xsd:string .
 
 ns1:bcpqobaotyu a ns1:Post ;
@@ -22673,6 +22717,7 @@ ns1:bcpqobaotyu a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 16"^^xsd:string ;
     ns1:profileImg "volume-16.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-16"^^xsd:string .
 
 ns1:bcpqobdubou a ns1:Post ;
@@ -22683,6 +22728,7 @@ ns1:bcpqobdubou a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 17"^^xsd:string ;
     ns1:profileImg "volume-17.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-17"^^xsd:string .
 
 ns1:bcpqobmu4ep a ns1:Post ;
@@ -22693,6 +22739,7 @@ ns1:bcpqobmu4ep a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 19"^^xsd:string ;
     ns1:profileImg "volume-19.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-19"^^xsd:string .
 
 ns1:bcpqobs2l3e a ns1:Post ;
@@ -22703,6 +22750,7 @@ ns1:bcpqobs2l3e a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 21"^^xsd:string ;
     ns1:profileImg "volume-21.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-21"^^xsd:string .
 
 ns1:bcpqobxze6k a ns1:Post ;
@@ -22713,6 +22761,7 @@ ns1:bcpqobxze6k a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 23"^^xsd:string ;
     ns1:profileImg "volume-23.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-23"^^xsd:string .
 
 ns1:bcpqocezqpx a ns1:Post ;
@@ -22723,6 +22772,7 @@ ns1:bcpqocezqpx a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 27"^^xsd:string ;
     ns1:profileImg "volume-27.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-27"^^xsd:string .
 
 ns1:bcpqocknhzs a ns1:Post ;
@@ -22733,6 +22783,7 @@ ns1:bcpqocknhzs a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 29"^^xsd:string ;
     ns1:profileImg "volume-29.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-29"^^xsd:string .
 
 ns1:bcpqocpr3vh a ns1:Post ;
@@ -22743,6 +22794,7 @@ ns1:bcpqocpr3vh a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 31"^^xsd:string ;
     ns1:profileImg "volume-31.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-31"^^xsd:string .
 
 ns1:bcpqocvint5 a ns1:Post ;
@@ -22753,6 +22805,7 @@ ns1:bcpqocvint5 a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 33"^^xsd:string ;
     ns1:profileImg "volume-33.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-33"^^xsd:string .
 
 ns1:Actor a owl:Class ;
@@ -23537,6 +23590,7 @@ ns1:bcpqn76e7n5 a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 3"^^xsd:string ;
     ns1:profileImg "volume-3.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-3"^^xsd:string .
 
 ns1:bcpqn77nhwr a ns1:Post ;
@@ -23547,6 +23601,7 @@ ns1:bcpqn77nhwr a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 4"^^xsd:string ;
     ns1:profileImg "volume-4.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-4"^^xsd:string .
 
 ns1:bcpqoact7dh a ns1:Post ;
@@ -23557,6 +23612,7 @@ ns1:bcpqoact7dh a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 5"^^xsd:string ;
     ns1:profileImg "volume-5.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-5"^^xsd:string .
 
 ns1:bcpqoaivzve a ns1:Post ;
@@ -23567,6 +23623,7 @@ ns1:bcpqoaivzve a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 7"^^xsd:string ;
     ns1:profileImg "volume-7.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-7"^^xsd:string .
 
 ns1:bcphbq3norm a ns1:User ;
@@ -24120,6 +24177,7 @@ ns1:bcpqn7zvpei a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 1"^^xsd:string ;
     ns1:profileImg "volume-1.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-1"^^xsd:string .
 
 ns1:bcphbq3ferr a ns1:User ;
@@ -24237,6 +24295,7 @@ ns1:bcpqn72unjj a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 2"^^xsd:string ;
     ns1:profileImg "volume-2.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-2"^^xsd:string .
 
 ns1:bcphbq3arts a ns1:User ;

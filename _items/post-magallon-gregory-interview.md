@@ -12,6 +12,7 @@ tags:
     - inIssue: 5.6
     - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "interview-with-dnb-publisher-linda-magallon"
 profileImg: post-bcpov6magai2-1.jpg
 ---

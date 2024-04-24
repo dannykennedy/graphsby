@@ -12,6 +12,7 @@ tags:
     - inIssue: 33.1
     - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "tarotpy-an-interview-with-lauren-schneider"
 profileImg: corso-schneider.jpg
 ---

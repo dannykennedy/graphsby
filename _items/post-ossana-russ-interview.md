@@ -14,6 +14,7 @@ tags:
     - hasTopic: topic~dream-apps-and-online-dreamsharing
     - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "embracing-the-future-in-our-dreams-emerging-forms-of-community"
 profileImg: post-bcpov6kfutur-0.jpg
 ---

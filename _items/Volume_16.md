@@ -4,8 +4,10 @@ itemId: bcpqobaotyu
 layout: page
 name: Volume 16
 tags:
-- hasAuthor: dreamnetwork
+    - hasAuthor: dreamnetwork
 type: post
+subType: PublicationVolume
 urlSlug: dream-network-volume-16
 ---
+
 <a href="../files/Volume_16.zip" download>Volume 16 (.zip file, 59mb)</a>

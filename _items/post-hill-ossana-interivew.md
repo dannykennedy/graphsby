@@ -12,6 +12,7 @@ tags:
     - inIssue: 14.1-2
     - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "an-interview-with-michael-ortiz-hill"
 profileImg: post-bcpov6mhilli-0.jpg
 ---

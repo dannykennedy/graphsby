@@ -10,6 +10,7 @@ tags:
     - inIssue: 17.1
     - hasTopic: topic~dream-apps-and-online-dreamsharing
 type: post
+subType: Conversation
 urlSlug: "do-you-intend-to-dream"
 profileImg: post-bcpov9grditd-0.jpeg
 metaDescription: 'Ann Kruglak discusses her concept of "Intentional Dreaming", how it differs from dream control and dream incubation, and introduces her dreaming software CD, "Interactive Dreaming".'

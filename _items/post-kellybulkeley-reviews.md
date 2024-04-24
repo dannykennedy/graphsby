@@ -8,7 +8,9 @@ tags:
     - hasAuthor: kellybulkeley
     - hasTag: 11.3
     - inIssue: 11.3
+    - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "dreams-and-relationships-book-reviews"
 profileImg: post-bcpov6glorev-0.jpg
 ---

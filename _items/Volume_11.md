@@ -4,8 +4,10 @@ itemId: bcpqoash2jt
 layout: page
 name: Volume 11
 tags:
-- hasAuthor: dreamnetwork
+    - hasAuthor: dreamnetwork
 type: post
+subType: PublicationVolume
 urlSlug: dream-network-volume-11
 ---
+
 <a href="../files/Volume_11.zip" download>Volume 11 (.zip file, 24mb)</a>

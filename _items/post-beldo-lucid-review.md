@@ -10,6 +10,7 @@ tags:
     - inIssue: 24.4-25.1
     - hasTopic: topic~dream-apps-and-online-dreamsharing
 type: post
+subType: Review
 urlSlug: "the-lucid-dreaming-kit-by-bradley-thompson-review"
 profileImg: post-bcpov6grlrev-0.jpg
 ---

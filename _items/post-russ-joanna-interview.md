@@ -12,6 +12,7 @@ tags:
     - inIssue: 32.1
     - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "joanna-penn-interviewed-by-russell-lockhart"
 ---
 

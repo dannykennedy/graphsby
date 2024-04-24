@@ -10,6 +10,7 @@ tags:
     - inIssue: 25.3
     - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "interview-with-barry-williams-part-II"
 ---
 

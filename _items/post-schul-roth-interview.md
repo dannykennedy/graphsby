@@ -10,6 +10,7 @@ tags:
     - inIssue: 23.4-24.1
     - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "gabrielle-roth-interview-dance-it-is-holy"
 profileImg: post-bcpov6grroth-0.jpg
 ---

@@ -10,6 +10,7 @@ tags:
     - inIssue: 29.3
     - hasTopic: topic~lucid-dreaming
 type: post
+subType: Review
 urlSlug: inception-movie-review
 profileImg: post-bcpov6zincep-0.jpg
 ---

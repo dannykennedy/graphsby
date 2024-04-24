@@ -10,6 +10,7 @@ tags:
     - inIssue: 7.2
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "dream-life-wake-life-globus-book-review"
 profileImg: post-bcpov6globus-0.jpg
 ---

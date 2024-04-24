@@ -11,6 +11,7 @@ tags:
     - inIssue: 34.1
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "glimpses-from-beyond-the-ego-bill-stimson-book-review"
 profileImg: post-bcpov6zfbsbr-0.jpg
 ---

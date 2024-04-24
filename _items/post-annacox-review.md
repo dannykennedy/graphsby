@@ -8,6 +8,7 @@ tags:
     - hasTag: kathymartone
     - hasAuthor: annacox
 type: post
+subType: Review
 urlSlug: "victorian-songlight-book-review-anna-cox"
 profileImg: post-bcpov6grkrev-0.jpg
 ---

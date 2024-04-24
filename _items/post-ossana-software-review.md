@@ -10,6 +10,7 @@ tags:
     - inIssue: 20.3
     - hasTopic: topic~dream-apps-and-online-dreamsharing
 type: post
+subType: Review
 urlSlug: "dreamwork-software-review-the-dream-toolbox"
 profileImg: post-bcpox5dsrtdt-0.jpeg
 ---

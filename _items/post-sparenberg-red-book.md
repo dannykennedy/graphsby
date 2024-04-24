@@ -11,6 +11,7 @@ tags:
     - inIssue: 31.4
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: reading-the-red-book-review
 profileImg: post-bcpov6zfredb-0.jpg
 ---

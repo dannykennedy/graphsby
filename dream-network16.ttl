@@ -1259,6 +1259,7 @@ ns1:bcpov5rcotll a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: The Living Labyrinth by Jeremy Taylor"^^xsd:string ;
     ns1:profileImg "post-bcpov5rcotll-0.jpeg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "the-living-labyrinth-book-review"^^xsd:string .
 
 ns1:bcpov6christ a ns1:Post ;
@@ -2230,6 +2231,7 @@ ns1:bcpov6gkrev2 a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "This wonderful story invites us into our own mysteries and our own healing"^^xsd:string ;
     ns1:profileImg "post-bcpov6grkrev-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "victorian-songlight-book-review-anna-cox"^^xsd:string .
 
 ns1:bcpov6glight a ns1:Post ;
@@ -2306,6 +2308,7 @@ ns1:bcpov6globus a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: Dream Life, Wake Life by Gordon Globus"^^xsd:string ;
     ns1:profileImg "post-bcpov6globus-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "dream-life-wake-life-globus-book-review"^^xsd:string .
 
 ns1:bcpov6glorev a ns1:Post ;
@@ -3110,6 +3113,7 @@ ns1:bcpov6grkrev a ns1:Post ;
     ns1:itemId "bcpov6grkrev"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Victorian Songlight: Birthings of Magic & Mystery - Book Review"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "victorian-songlight-book-review-nancy-roberts"^^xsd:string .
 
 ns1:bcpov6grlatt a ns1:Post ;
@@ -4583,6 +4587,7 @@ ns1:bcpov6kbhelp a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: Nightmare Help, A Guide for Parents and Teachers by Ann Sayre Wiseman"^^xsd:string ;
     ns1:profileImg "post-bcpov6kbhelp-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "nightmare-help-review"^^xsd:string .
 
 ns1:bcpov6kbirth a ns1:Post ;
@@ -8622,6 +8627,7 @@ ns1:bcpov6mlight a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "A Book of Dreams: Review of 'The River of Light' by Lawrence Kushner"^^xsd:string ;
     ns1:profileImg "post-bcpov6mlight-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "are-dream-groups-really-useful"^^xsd:string .
 
 ns1:bcpov6mobama a ns1:Post ;
@@ -8734,6 +8740,7 @@ ns1:bcpov6modway a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Dreaming Way: Dreamwork and Art for Remembering and Recovery by Patricia Reis and Susan Snow"^^xsd:string ;
     ns1:profileImg "post-bcpov6modway-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "the-dreaming-way-book-review"^^xsd:string .
 
 ns1:bcpov6mossr2 a ns1:Post ;
@@ -8765,6 +8772,7 @@ ns1:bcpov6mossr2 a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dreamways of the Iriquois: Honoring the Secret Wishes of the Soul by Robert Moss"^^xsd:string ;
     ns1:profileImg "post-bcpov6mossr2-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "dreamways-of-the-iriquois-book-review"^^xsd:string .
 
 ns1:bcpov6msapoc a ns1:Post ;
@@ -9147,6 +9155,7 @@ ns1:bcpov6rcommi a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: The Committee of Sleep by Deirdre Barrett"^^xsd:string ;
     ns1:profileImg "post-bcpov6rcommi-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "book-review-the-committee-of-sleep-deirdre-barrett"^^xsd:string .
 
 ns1:bcpov6reedi2 a ns1:Post ;
@@ -11489,6 +11498,7 @@ ns1:bcpov6zbotdm a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: The Dreamer’s Book of the Dead by Robert Moss"^^xsd:string ;
     ns1:profileImg "post-bcpov6zbotdm-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "book-review-the-dreamers-book-of-the-dead-by-robert-moss"^^xsd:string .
 
 ns1:bcpov6zchaot a ns1:Post ;
@@ -11674,6 +11684,7 @@ ns1:bcpov6zd3skr a ns1:Post ;
     ns1:itemId "bcpov6zd3skr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book review: Steps to save lives by healing psychological scars"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "understanding-suicides-allure-stanley-krippner-book-review"^^xsd:string .
 
 ns1:bcpov6zd3tcr a ns1:Post ;
@@ -11784,6 +11795,7 @@ ns1:bcpov6zdbrvd a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book review: The Variety of Dream Experience, by Montague Ullman and Claire Limmer"^^xsd:string ;
     ns1:profileImg "post-bcpov6zdbrvd-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "book-review-the-variety-of-dream-experience-ullman-limmer"^^xsd:string .
 
 ns1:bcpov6zdeddw a ns1:Post ;
@@ -13314,6 +13326,7 @@ ns1:bcpov6zfbsbr a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: Glimpses From Beyond The Ego: Dreams, Zen, & Nature by Bill Stimson"^^xsd:string ;
     ns1:profileImg "post-bcpov6zfbsbr-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "glimpses-from-beyond-the-ego-bill-stimson-book-review"^^xsd:string .
 
 ns1:bcpov6zfctar a ns1:Post ;
@@ -14918,6 +14931,7 @@ ns1:bcpov6zfredb a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Reading the Red Book: An Interpretive Guide to CG Jung’s Liber Novus by Sanford L. Drob"^^xsd:string ;
     ns1:profileImg "post-bcpov6zfredb-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "reading-the-red-book-review"^^xsd:string .
 
 ns1:bcpov6zfseaf a ns1:Post ;
@@ -14945,6 +14959,7 @@ ns1:bcpov6zfseaf a ns1:Post ;
     ns1:itemId "bcpov6zfseaf"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Theatre Review: Mark Knego's 'A Woman Dreams in a Seafood Restaurant'"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "a-woman-dreams-in-a-seafood-restaurant"^^xsd:string .
 
 ns1:bcpov6zfsing a ns1:Post ;
@@ -15068,11 +15083,13 @@ ns1:bcpov6zftber a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3spar ;
     ns1:hasTag ns1:bcphbq3spar,
         ns1:bcphbzoxivb ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbzoxivb ;
     ns1:itemId "bcpov6zftber"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "We are the Stones Dancing: Review of 'Thomas Berry, Dreamer of the Earth'"^^xsd:string ;
     ns1:profileImg "post-bcpov6zftber-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "thomas-berry-dreamer-of-the-earth-book-review"^^xsd:string .
 
 ns1:bcpov6zftens a ns1:Post ;
@@ -15516,6 +15533,7 @@ ns1:bcpov6zincep a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Inception: Movie Review"^^xsd:string ;
     ns1:profileImg "post-bcpov6zincep-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "inception-movie-review"^^xsd:string .
 
 ns1:bcpov6zinwwd a ns1:Post ;
@@ -15861,6 +15879,7 @@ ns1:bcpov6zmossr a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dreaming The Soul Back Home: Shamanic Dreaming for Healing and Becoming Whole By Robert Moss"^^xsd:string ;
     ns1:profileImg "post-bcpov6zmossr-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "dreaming-the-soul-back-home-robert-moss-book-review"^^xsd:string .
 
 ns1:bcpov6zmstar a ns1:Post ;
@@ -16043,6 +16062,7 @@ ns1:bcpov6znormr a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: Dream Explorations by Rachel Norment"^^xsd:string ;
     ns1:profileImg "post-bcpov6znormr-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "dream-explorations-by-rachel-norment-book-review"^^xsd:string .
 
 ns1:bcpov6zpdlds a ns1:Post ;
@@ -16708,6 +16728,7 @@ ns1:bcpov6zpimmr a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Notes from a Dreamer…on Dreaming: Book Review"^^xsd:string ;
     ns1:profileImg "post-bcpov6zpimmr-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "notes-from-a-dreamer-on-dreaming-pimm-book-review"^^xsd:string .
 
 ns1:bcpov6zprofe a ns1:Post ;
@@ -16997,6 +17018,7 @@ ns1:bcpov6zreedr a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: Henry Reed, Dream Medicine, Learning How To Get Help From Our Dreams"^^xsd:string ;
     ns1:profileImg "post-bcpov6zreedr-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "henry-reed-dream-medicine-book-review"^^xsd:string .
 
 ns1:bcpov6zruizr a ns1:Post ;
@@ -17023,6 +17045,7 @@ ns1:bcpov6zruizr a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Mastery of Love: A Practical Guide to the Art of Relationships, By Don Miguel Ruiz"^^xsd:string ;
     ns1:profileImg "post-bcpov6zruizr-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "the-mastery-of-love-book-review"^^xsd:string .
 
 ns1:bcpov6zssong a ns1:Post ;
@@ -17680,6 +17703,7 @@ ns1:bcpox5dsrtdt a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dreamwork Software Review: The Dream Toolbox"^^xsd:string ;
     ns1:profileImg "post-bcpox5dsrtdt-0.jpeg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "dreamwork-software-review-the-dream-toolbox"^^xsd:string .
 
 ns1:bcpoy8rshrdj a ns1:Post ;
@@ -17975,6 +17999,7 @@ ns1:bcpoz1zdqaod a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: The Art of Dreaming by Carlos Castaneda"^^xsd:string ;
     ns1:profileImg "post-bcpoz1zdqaod-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "book-review-the-art-of-dreaming-by-carlos-castaneda"^^xsd:string .
 
 ns1:bcpoz1zmwots a ns1:Post ;
@@ -19220,11 +19245,13 @@ ns1:bcpoz7zfrdod a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3spar ;
     ns1:hasTag ns1:bcphbq3spar,
         ns1:bcphbyjvotn ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbyjvotn ;
     ns1:itemId "bcpoz7zfrdod"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Dimensions of Dreams: The Nature, Functions and Interpretation of Dreams by Ole Vedfelt"^^xsd:string ;
     ns1:profileImg "dimensions_of_dreams.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "the-dimensions-of-dreams-review"^^xsd:string .
 
 ns1:bcpoz8zcroed a ns1:Post ;
@@ -20115,6 +20142,10 @@ ns1:profileImg a owl:DatatypeProperty ;
     rdfs:range xsd:string .
 
 ns1:shortName a owl:DatatypeProperty ;
+    rdfs:domain ns1:Item ;
+    rdfs:range xsd:string .
+
+ns1:subType a owl:DatatypeProperty ;
     rdfs:domain ns1:Item ;
     rdfs:range xsd:string .
 
@@ -24416,16 +24447,6 @@ ns1:bcpovcrediv a ns1:Topic ;
     ns1:name "Interviews with Dreamers & Dreamworkers"^^xsd:string ;
     ns1:shortName "Interviews"^^xsd:string .
 
-ns1:bcpovcretdb a ns1:Topic ;
-    ns1:coverImg "theme_books_cover.jpg"^^xsd:string ;
-    ns1:description """<p>This page gathers together all the reviews and articles about books on dreams and dreaming that have appeared in the Dream Network Journal over the years.</p>
-"""^^xsd:string ;
-    ns1:handle "topic~dream-books"^^xsd:string ;
-    ns1:itemId "bcpovcretdb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Books about Dreams and Dreaming"^^xsd:string ;
-    ns1:shortName "Dream Books"^^xsd:string .
-
 ns1:bcphbq3rpac a ns1:User ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
     ns1:description """<p>On Academia.edu: <a href="https://independent.academia.edu/PacoMitchell">academia.edu/PacoMitchell</a></p>
@@ -24473,6 +24494,16 @@ ns1:bcphbqvcors a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bambi Corso"^^xsd:string ;
     ns1:profileImg "author-bambi-corso.jpg"^^xsd:string .
+
+ns1:bcpovcretdb a ns1:Topic ;
+    ns1:coverImg "theme_books_cover.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together all the reviews and articles about books on dreams and dreaming that have appeared in the Dream Network Journal over the years.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~dream-books"^^xsd:string ;
+    ns1:itemId "bcpovcretdb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Books about Dreams and Dreaming"^^xsd:string ;
+    ns1:shortName "Dream Books"^^xsd:string .
 
 ns1:Item a owl:Class .
 

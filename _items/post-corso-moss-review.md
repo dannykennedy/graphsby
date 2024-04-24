@@ -11,6 +11,7 @@ tags:
     - inIssue: 31.2
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "dreaming-the-soul-back-home-robert-moss-book-review"
 profileImg: post-bcpov6zmossr-0.jpg
 ---

@@ -9,7 +9,9 @@ tags:
     - hasTag: "book review"
     - hasTag: 31.3
     - inIssue: 31.3
+    - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: thomas-berry-dreamer-of-the-earth-book-review
 profileImg: post-bcpov6zftber-0.jpg
 ---

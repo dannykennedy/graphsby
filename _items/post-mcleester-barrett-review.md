@@ -10,6 +10,7 @@ tags:
     - inIssue: 20.4
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "book-review-the-committee-of-sleep-deirdre-barrett"
 profileImg: post-bcpov6rcommi-0.jpg
 ---

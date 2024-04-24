@@ -10,6 +10,7 @@ tags:
     - inIssue: 23.4-24.1
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "the-dreaming-way-book-review"
 profileImg: post-bcpov6modway-0.jpg
 ---

@@ -70,6 +70,7 @@ canonicalUrl = dreamNS['canonicalUrl']
 metaDescription = dreamNS['metaDescription']
 metaKeywords = dreamNS['metaKeywords']
 url = dreamNS['url']
+subType = dreamNS['subType']
 
 def createGraph():
 	print("Creating graph")
@@ -186,6 +187,11 @@ def createGraph():
 	(url, rdfType, owlDatatypeProperty),
 	(url, rdfsDomain, websiteClass),
 	(url, rdfsRange, xsdString),
+
+	# Subtype
+	(subType, rdfType, owlDatatypeProperty),
+	(subType, rdfsDomain, itemClass),
+	(subType, rdfsRange, xsdString),
 
 	# OBJECT PROPERTIES
 

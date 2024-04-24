@@ -11,6 +11,7 @@ tags:
     - hasTopic: jeremytaylor
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "the-living-labyrinth-book-review"
 profileImg: post-bcpov5rcotll-0.jpeg
 ---

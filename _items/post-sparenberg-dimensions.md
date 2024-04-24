@@ -9,7 +9,9 @@ tags:
     - hasTag: "book review"
     - hasTag: 28.4
     - inIssue: 28.4
+    - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: the-dimensions-of-dreams-review
 profileImg: dimensions_of_dreams.jpg
 ---

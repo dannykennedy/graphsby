@@ -11,6 +11,7 @@ tags:
     - inIssue: 9.2
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "nightmare-help-review"
 profileImg: post-bcpov6kbhelp-0.jpg
 ---

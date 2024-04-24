@@ -12,6 +12,7 @@ tags:
     - hasTag: "Book Review"
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "book-review-the-dreamers-book-of-the-dead-by-robert-moss"
 profileImg: post-bcpov6zbotdm-0.jpg
 ---

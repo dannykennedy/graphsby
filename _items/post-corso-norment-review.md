@@ -9,6 +9,7 @@ tags:
     - hasTag: rachelnorment
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "dream-explorations-by-rachel-norment-book-review"
 profileImg: post-bcpov6znormr-0.jpg
 ---

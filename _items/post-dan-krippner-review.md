@@ -12,6 +12,7 @@ tags:
     - hasTag: 34.1
     - inIssue: 34.1
 type: post
+subType: Review
 urlSlug: "understanding-suicides-allure-stanley-krippner-book-review"
 ---
 

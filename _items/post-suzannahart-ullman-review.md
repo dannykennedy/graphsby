@@ -11,6 +11,7 @@ tags:
     - inIssue: 7.3
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 profileImg: post-bcpov6zdbrvd-0.jpg
 urlSlug: "book-review-the-variety-of-dream-experience-ullman-limmer"
 ---

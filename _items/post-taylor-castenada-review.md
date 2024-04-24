@@ -10,6 +10,7 @@ tags:
     - inIssue: 13.3
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "book-review-the-art-of-dreaming-by-carlos-castaneda"
 profileImg: post-bcpoz1zdqaod-0.jpg
 ---

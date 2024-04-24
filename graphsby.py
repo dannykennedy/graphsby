@@ -205,6 +205,11 @@ for pyyam in file_objects:
 	if 'metaKeywords' in pyyam.keys():
 		instances.append((newItem, metaKeywords, Literal(pyyam['metaKeywords'], datatype=xsdString)))
 
+	# subType
+	# If present, this will be used as the Schema type
+	if 'subType' in pyyam.keys():
+		instances.append((newItem, subType, Literal(pyyam['subType'], datatype=xsdString)))
+
 	# Websites (these are items in their own right)
 	# websites:
     # - name: droomtoko.nl
@@ -660,7 +665,9 @@ for pyyam in file_objects:
 
 	# JSON-LD
 	json_ld_type = ""
-	if "type" in pyyam.keys():
+	if "subType" in pyyam.keys():
+		json_ld_type = pyyam["subType"]
+	elif "type" in pyyam.keys():
 		if pyyam["type"] == "user":
 			json_ld_type = "Person"
 		elif pyyam["type"] == "page":
@@ -714,12 +721,9 @@ for pyyam in file_objects:
 		json_ld["description"] = pyyam["metaDescription"]
 	if ("metaKeywords" in pyyam.keys()):
 		json_ld["keywords"] = pyyam["metaKeywords"]
-	if (json_ld_type == "Article"):
-		# json_ld["mainEntityOfPage"] = {
-		# 	"@type": "WebPage",
-		# 	"@id": canonical_url
-		# }
-		json_ld["author"] = json_ld_authors
+	if ("type" in pyyam.keys()):
+		if pyyam["type"] == "post":
+			json_ld["author"] = json_ld_authors
 	if (len(sameAs) > 0):
 		json_ld["sameAs"] = sameAs
 
@@ -737,7 +741,6 @@ for pyyam in file_objects:
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"
 	folderpath2 = cwd + "/site/no-type"
-	folderpath3 = cwd + "/site/no-type"
 	writepaths = []
 
 	if "type" in pyyam.keys():
@@ -746,10 +749,8 @@ for pyyam in file_objects:
 		if pyyam["type"] == "user" or pyyam["type"] == "page":
 			folderpath = cwd + build_folder + "/@" + pyyam["handle"]
 			folderpath2 = cwd + build_folder + "/" + str(pyyam["itemId"])
-			folderpath3 = cwd + build_folder + "/" + str(pyyam["itemId"]) + "-test"
 			writepaths.append(folderpath + "/index.html")
 			writepaths.append(folderpath2 + "/index.html")
-			writepaths.append(folderpath3 + "/index.html")
 		# If type is a topic, make a folder at the handle (which should be called topic~name)
 		elif pyyam["type"] == "topic":
 			folderpath = cwd + build_folder + "/" + pyyam["urlSlug"]
@@ -763,8 +764,6 @@ for pyyam in file_objects:
 	# Make the folder for the posts
 	Path(folderpath).mkdir(parents=True, exist_ok=True)
 	Path(folderpath2).mkdir(parents=True, exist_ok=True)
-	Path(folderpath3).mkdir(parents=True, exist_ok=True)
-
 
 	# Add post file(s) to the folder
 	for path in writepaths:

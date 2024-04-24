@@ -11,6 +11,7 @@ tags:
     - hasTag: 24.2
     - inIssue: 24.2
 type: post
+subType: Review
 urlSlug: "the-mastery-of-love-book-review"
 profileImg: post-bcpov6zruizr-0.jpg
 ---

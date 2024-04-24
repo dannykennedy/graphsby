@@ -13,6 +13,11 @@ type: post
 subType: Review
 urlSlug: "book-review-the-committee-of-sleep-deirdre-barrett"
 profileImg: post-bcpov6rcommi-0.jpg
+about:
+    - type: Book
+      name: "The Committee of Sleep: How Artists, Scientists, and Athletes Use Dreams for Creative Problem Solving & How You Can Too"
+      sameAs:
+          - https://en.wikipedia.org/wiki/The_Committee_of_Sleep
 ---
 
 <a href="https://en.wikipedia.org/wiki/The_Committee_of_Sleep">

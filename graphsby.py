@@ -287,23 +287,32 @@ graph.serialize(destination='dream-network16.ttl', format='turtle')
 ################
 # OUTPUT SITEMAP
 ################
+
+# Function that takes pyyam and site_url and returns the URL
+def get_url(pyyam, site_url):
+	if pyyam["type"] == "user" or pyyam["type"] == "page":
+		return site_url + "@" + pyyam["handle"]
+	elif pyyam["type"] == "topic":
+		return site_url + pyyam["urlSlug"]
+	elif pyyam["type"] == "post":
+		return site_url + str(pyyam["itemId"]) + '/' + pyyam["urlSlug"]
+
+
 print("Building sitemap")
 sitemap = open(cwd + build_folder + '/sitemap.xml', "w")
 sitemap.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 sitemap.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
 for pyyam in file_objects:
 	if "type" in pyyam.keys():
-		if pyyam["type"] == "user" or pyyam["type"] == "page":
+		if pyyam["type"] == "user" or pyyam["type"] == "page" or pyyam["type"] == "topic" or pyyam["type"] == "post":
+			url = get_url(pyyam, site_url)
+			# If the pyyam has a canonicalUrl that is different from the URL
+			# Skip the page, the canonical URL is on another site
+			if "canonicalUrl" in pyyam.keys():
+				if pyyam["canonicalUrl"] != url:
+					continue
 			sitemap.write('<url>\n')
-			sitemap.write('<loc>' + site_url + "@" + pyyam["handle"] + '</loc>\n')
-			sitemap.write('</url>\n')
-		elif pyyam["type"] == "topic":
-			sitemap.write('<url>\n')
-			sitemap.write('<loc>' + site_url + pyyam["urlSlug"] + '</loc>\n')
-			sitemap.write('</url>\n')
-		elif pyyam["type"] == "post":
-			sitemap.write('<url>\n')
-			sitemap.write('<loc>' + site_url + str(pyyam["itemId"]) + '/' + pyyam["urlSlug"] + '</loc>\n')
+			sitemap.write('<loc>' + url + '</loc>\n')
 			sitemap.write('</url>\n')
 sitemap.write('</urlset>')
 sitemap.close()

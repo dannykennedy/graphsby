@@ -11466,6 +11466,7 @@ ns1:bcpov6zaizer a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: Dream Tending by Stephen Aizenstat"^^xsd:string ;
     ns1:profileImg "post-bcpov6zaizer-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "dream-tending-aizenstat-book-review"^^xsd:string .
 
 ns1:bcpov6zbincu a ns1:Post ;
@@ -23088,6 +23089,7 @@ ns1:bcphbhe6wex a ns1:Post ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Volume 1, issue 1"^^xsd:string ;
     ns1:profileImg "1.1-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "1.1"^^xsd:string .
 
 ns1:bcphbhs662v a ns1:Post ;

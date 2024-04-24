@@ -11,8 +11,15 @@ tags:
     - inIssue: 28.2-3
     - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "dream-tending-aizenstat-book-review"
 profileImg: post-bcpov6zaizer-0.jpg
+about:
+    - type: Book
+      name: "Dream Tending: Awakening to the Healing Power of Dreams"
+      sameAs:
+          - https://dreamtending.com/store/books/dream-tending-awakening-to-the-healing-power-of-dreams/
+          - https://www.amazon.com/Dream-Tending-Awakening-Healing-Dreams/dp/1935528114
 ---
 
 <a href="https://www.goodreads.com/book/show/12310352-dream-tending">

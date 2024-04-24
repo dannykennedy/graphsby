@@ -726,7 +726,21 @@ for pyyam in file_objects:
 			json_ld["author"] = json_ld_authors
 	if (len(sameAs) > 0):
 		json_ld["sameAs"] = sameAs
-
+	if ("about" in pyyam.keys()):
+		# About is a list
+		aboutSections = []
+		for about in pyyam["about"]:
+			aboutObj = {}
+			if ("type" in about.keys()):
+				aboutObj["@type"] = about["type"]
+			if ("name" in about.keys()):
+				aboutObj["name"] = about["name"]
+			if ("url" in about.keys()):
+				aboutObj["url"] = about["url"]
+			if ("sameAs" in about.keys()):
+				aboutObj["sameAs"] = about["sameAs"]
+			aboutSections.append(aboutObj)
+		json_ld["about"] = aboutSections
 
 	json_ld_str = json.dumps(json_ld, indent=4, sort_keys=True)
 

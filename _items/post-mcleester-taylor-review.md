@@ -14,6 +14,13 @@ type: post
 subType: Review
 urlSlug: "the-living-labyrinth-book-review"
 profileImg: post-bcpov5rcotll-0.jpeg
+about:
+    - type: Book
+      name: "The Living Labyrinth: Exploring Universal Themes in Myths, Dreams, and the Symbolism of Waking Life"
+      sameAs:
+          - https://www.semanticscholar.org/paper/The-living-labyrinth-%3A-exploring-universal-themes-Taylor/27b8897275f316e7494cb3c0fbfe22f2c091f3e6
+          - https://www.goodreads.com/book/show/22210425-the-living-labyrinth
+          - https://books.google.com.au/books/about/The_Living_Labyrinth.html?id=p-yqVhnK5a8C
 ---
 
 <img src="../images/post-bcpov5rcotll-0.jpeg" alt="The Living Labyrinth book cover" width="250" height="auto"/>

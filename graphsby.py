@@ -734,15 +734,6 @@ for pyyam in file_objects:
 		"@context": "http://schema.org",
 		"@type": json_ld_type,
 		"name": pyyam["name"],
-		"publisher": {
-			"@type": "Organization",
-			"name": "Dream Network Journal",
-			"logo": {
-				"@type": "ImageObject",
-				"url": site_url + "images/tree-logo.png"
-			},
-			"url": site_url + "@dreamnetwork"
-		},
 	}
 
 	sameAs = []
@@ -780,6 +771,17 @@ for pyyam in file_objects:
 				aboutObj["sameAs"] = about["sameAs"]
 			aboutSections.append(aboutObj)
 		json_ld["about"] = aboutSections
+	# publisher is not valid for Person or Thing
+	if json_ld_type != "Person" and json_ld_type != "Thing":
+		json_ld["publisher"] = {
+			"@type": "Organization",
+			"name": "Dream Network Journal",
+			"logo": {
+				"@type": "ImageObject",
+				"url": site_url + "images/tree-logo.png"
+			},
+			"url": site_url + "@dreamnetwork"
+		}
 
 	json_ld_str = json.dumps(json_ld, indent=4, sort_keys=True)
 

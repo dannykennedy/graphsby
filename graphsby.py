@@ -743,8 +743,6 @@ for pyyam in file_objects:
 	if "sameAs" in pyyam.keys():
 		for same in pyyam["sameAs"]:
 			sameAs.append(same)
-	if ("dateCreated" in pyyam.keys()):
-		json_ld["datePublished"] = pyyam["dateCreated"]
 	if ("profileImg" in pyyam.keys()):
 		json_ld["image"] = site_url + "images/" + pyyam["profileImg"]
 	if ("metaDescription" in pyyam.keys()):
@@ -772,6 +770,7 @@ for pyyam in file_objects:
 			aboutSections.append(aboutObj)
 		json_ld["about"] = aboutSections
 	# publisher is not valid for Person or Thing
+	# dateCreated is not valid for Person or Thing
 	if json_ld_type != "Person" and json_ld_type != "Thing":
 		json_ld["publisher"] = {
 			"@type": "Organization",
@@ -782,6 +781,8 @@ for pyyam in file_objects:
 			},
 			"url": site_url + "@dreamnetwork"
 		}
+		if ("dateCreated" in pyyam.keys()):
+			json_ld["datePublished"] = pyyam["dateCreated"]
 
 	json_ld_str = json.dumps(json_ld, indent=4, sort_keys=True)
 

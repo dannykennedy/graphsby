@@ -7,9 +7,13 @@ name: "Lucid Dreaming"
 shortName: "Lucid Dreaming"
 tags:
 type: topic
+subType: Thing
 urlSlug: topic~lucid-dreaming
 coverImg: cover-lucid-dreaming.jpg
 metaDescription: "In lucid dreaming, the dreamer is aware of dreaming while dreaming, thereby able to enter consciously into the dream reality, opening up a whole new world of possibilities."
+sameAs:
+    - https://dbpedia.org/page/Lucid_dream
+    - https://en.wikipedia.org/wiki/Lucid_dream
 ---
 
 <div class="caption">From 'Lucidity: Where Realities Merge, by <a href="../@jillgregory">Jill Gregory</a> in <a href="../bcphbnp3qol/7.4">DNJ 7.4</a> All dreams are Jill's unless stated otherwise.</div>

@@ -22,6 +22,7 @@ rdfsSubClassOf = rdfsNS["subClassOf"]
 rdfsDomain = rdfsNS["domain"]
 rdfsRange = rdfsNS["range"]
 dreamNS = Namespace("https://www.dannykennedy.co/dnj-ontology#")
+owlSameAs = owlNS["sameAs"]
 
 # XML properties
 xsdNS = Namespace("http://www.w3.org/2001/XMLSchema#")
@@ -192,6 +193,11 @@ def createGraph():
 	(subType, rdfType, owlDatatypeProperty),
 	(subType, rdfsDomain, itemClass),
 	(subType, rdfsRange, xsdString),
+
+	# Same As
+	(owlSameAs, rdfType, owlDatatypeProperty),
+	(owlSameAs, rdfsDomain, itemClass),
+	(owlSameAs, rdfsRange, xsdString),
 
 	# OBJECT PROPERTIES
 

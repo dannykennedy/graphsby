@@ -216,15 +216,20 @@ for pyyam in file_objects:
     #   url: https://www.droomtoko.nl/
 	if 'websites' in pyyam.keys():
 		for website in pyyam['websites']:
-			print(website)
-			print(pyyam['name'])
-			print("------------------")
 			website_id = website['url']
 			website_item = dreamNS[website_id]
 			instances.append((website_item, rdfType, websiteClass))
 			instances.append((website_item, name, Literal(website['name'], datatype=xsdString)))
 			instances.append((website_item, url, Literal(website['url'], datatype=xsdString)))
 			instances.append((newItem, hasWebsite, website_item))
+
+			# Also add sameAs here, for the URL
+			instances.append((newItem, owlSameAs, Literal(website['url'], datatype=xsdString)))
+
+	# SameAs
+	if 'sameAs' in pyyam.keys():
+		for sameAs in pyyam['sameAs']:
+			instances.append((newItem, owlSameAs, Literal(sameAs, datatype=xsdString)))
 		
 # Add instances to the graph
 for triple in instances:
@@ -744,7 +749,9 @@ for pyyam in file_objects:
 	if "websites" in pyyam.keys():
 		for website in pyyam["websites"]:
 			sameAs.append(website["url"])
-
+	if "sameAs" in pyyam.keys():
+		for same in pyyam["sameAs"]:
+			sameAs.append(same)
 	if ("dateCreated" in pyyam.keys()):
 		json_ld["datePublished"] = pyyam["dateCreated"]
 	if ("profileImg" in pyyam.keys()):

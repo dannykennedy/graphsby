@@ -3,12 +3,18 @@ dateCreated: "2020-10-03T11:32:52"
 itemId: bcpovcsetdg
 layout: page
 handle: topic~dreamsharing-groups
-name: "Dreamsharing Groups"
+name: "Dream Sharing & Dream Groups"
 shortName: "Dreamsharing Groups"
 tags:
 type: topic
+subType: Thing
 urlSlug: topic~dreamsharing-groups
 coverImg: cover-dreamsharing-groups.jpg
+sameAs:
+    - https://en.wikipedia.org/wiki/Dream_sharing
+    - https://dbpedia.org/page/Dream_sharing
+    - https://www.meetup.com/topics/dreams/
+    - https://www.compassdreamwork.com/about-dreamwork/group-dreamwork/
 ---
 
 The Dream Network Journal published the following _ethical guidelines for dreamworkers and dreamsharing groups_ in [Volume 13, Issue 1](../bcphbqvckd7/13.1), and different versions in subsequent issues.

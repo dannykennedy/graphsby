@@ -7,6 +7,7 @@ name: "Dream Journal Apps & Online Dreamsharing"
 shortName: "Dream Apps & Websites"
 tags:
 type: topic
+subType: Thing
 urlSlug: topic~dream-apps-and-online-dreamsharing
 coverImg: cover-theme-dream-apps-and-online-dreamsharing.jpg
 ---

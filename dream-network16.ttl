@@ -3,6 +3,10 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+owl:sameAs a owl:DatatypeProperty ;
+    rdfs:domain ns1:Item ;
+    rdfs:range xsd:string .
+
 ns1:Image a owl:Class ;
     rdfs:subClassOf ns1:Post .
 
@@ -20236,6 +20240,7 @@ ns1:bcphbklgsln a ns1:Post ;
     ns1:urlSlug "2.11"^^xsd:string .
 
 ns1:bcphbq3rdje a ns1:User ;
+    owl:sameAs "http://www.debbiejoffeellis.com/"^^xsd:string ;
     ns1:coverImg "cover-author-debbiejoffeellis.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.debbiejoffeellis.com/" target="_blank">www.debbiejoffeellis.com</a></p>
 
@@ -20877,6 +20882,7 @@ ns1:bcphbbhutch a ns1:User ;
     ns1:profileImg "author-beck-hutchinson.jpg"^^xsd:string .
 
 ns1:bcphbgreene a ns1:User ;
+    owl:sameAs "https://infinitynow.wordpress.com/"^^xsd:string ;
     ns1:coverImg "cover-author-tara-greene.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://infinitynow.wordpress.com/">infinitynow.wordpress.com</a></p>
 
@@ -21128,6 +21134,7 @@ ns1:bcphbq3acox a ns1:User ;
     ns1:profileImg "author-anna-cox.jpg"^^xsd:string .
 
 ns1:bcphbq3alma a ns1:User ;
+    owl:sameAs "https://www.droomtoko.nl/"^^xsd:string ;
     ns1:coverImg "cover-author-alma-verbunt.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.droomtoko.nl/">droomtoko.nl</a></p>
 
@@ -21143,6 +21150,7 @@ ns1:bcphbq3alma a ns1:User ;
     ns1:profileImg "author-alma-verbunt.jpg"^^xsd:string .
 
 ns1:bcphbq3amym a ns1:User ;
+    owl:sameAs "http://www.aamindell.net/"^^xsd:string ;
     ns1:coverImg "cover-author-amy-mindell.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.aamindell.net/">aamindell.net</a></p>
 
@@ -21158,6 +21166,9 @@ ns1:bcphbq3amym a ns1:User ;
     ns1:profileImg "author-amy-mindell.jpg"^^xsd:string .
 
 ns1:bcphbq3atki a ns1:User ;
+    owl:sameAs "http://camerawilltravel.com/"^^xsd:string,
+        "https://www.instagram.com/lauranicole401/"^^xsd:string,
+        "https://www.linkedin.com/in/lauraatkinsonphotodesign/"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://camerawilltravel.com/">camerawilltravel.com</a></p>
 
 <p>My career started as a photojournalist for a weekly town newspaper. My style has evolved to include nature, dreamscapes, landscapes, and travel &amp; tourism. I’ve been awarded grants and won awards for my imagery, and have exhibited on both coasts of the United States.</p>
@@ -21199,6 +21210,8 @@ ns1:bcphbq3bayl a ns1:User ;
     ns1:profileImg "author-janicebaylis.jpg"^^xsd:string .
 
 ns1:bcphbq3joyf a ns1:User ;
+    owl:sameAs "http://fatooh.org/art/"^^xsd:string,
+        "https://www.linkedin.com/in/joy-fatooh-b3a8a158/"^^xsd:string ;
     ns1:description """<p>Editorial Director, <a href="https://www.asdreams.org/dreamtime-magazine-info">asdreams.org/dreamtime-magazine-info</a></p>
 
 <p>Copy editor, <a href="http://www.asdreams.org/dreamnewsletter/">IASD Newsletter</a></p>
@@ -21218,6 +21231,8 @@ ns1:bcphbq3joyf a ns1:User ;
     ns1:profileImg "author-joy-fatooh.jpg"^^xsd:string .
 
 ns1:bcphbq3mast a ns1:User ;
+    owl:sameAs "https://lightningtreetherapy.com/"^^xsd:string,
+        "https://twitter.com/LMDreamAlchemy"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://lightningtreetherapy.com/">lightningtreetherapy.com</a></p>
 
 <p>Linda Mastrangelo, MA, LMFT is an author, educator, artist and psychotherapist with a private practice in the San Francisco Bay area specializing in bereavement and dreamwork. Being a prolific dreamer since childhood, she discovered the remarkable potential of dreams as “good medicine” and developed techniques that have empowered people to make more mindful changes in their lives and communities. Because dreams can go right to the core of issues, Linda uses a gentle approach while encouraging her clients to explore at their own pace while accessing their own wisdom.</p>
@@ -21257,6 +21272,8 @@ ns1:bcphbq3nrob a ns1:User ;
     ns1:profileImg "author-nancy-roberts.jpg"^^xsd:string .
 
 ns1:bcphbq3rhdl a ns1:User ;
+    owl:sameAs "https://www.iamhdlee.com/"^^xsd:string,
+        "https://www.nomadicschool.org/"^^xsd:string ;
     ns1:coverImg "cover-author-hd-lee.jpg"^^xsd:string ;
     ns1:description """<p>Nomadic School: <a href="https://www.nomadicschool.org/">www.NomadicSchool.org</a></p>
 
@@ -21277,6 +21294,9 @@ ns1:bcphbq3rhdl a ns1:User ;
     ns1:profileImg "author-hd-lee.jpg"^^xsd:string .
 
 ns1:bcphbq3rjbg a ns1:User ;
+    owl:sameAs "https://www.instagram.com/mondesomnis/"^^xsd:string,
+        "https://www.mondesomnis.org/"^^xsd:string,
+        "https://www.youtube.com/channel/UCskuFnbxVpU1nhCM404fFkA"^^xsd:string ;
     ns1:coverImg "cover-author_jordiborras.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.mondesomnis.org/" target="_blank">Mondesomnis</a></p>
 
@@ -21296,6 +21316,7 @@ ns1:bcphbq3rjbg a ns1:User ;
     ns1:profileImg "author_jordiborras.jpg"^^xsd:string .
 
 ns1:bcphbq3spdw a ns1:User ;
+    owl:sameAs "https://www.linkedin.com/in/daren-scot-wilson/"^^xsd:string ;
     ns1:coverImg "cover-author-daren-wilson.jpg"^^xsd:string ;
     ns1:description """<p>LinkedIn: <a href="https://www.linkedin.com/in/daren-scot-wilson/">linkedin.com/in/daren-scot-wilson</a></p>
 
@@ -21311,6 +21332,7 @@ ns1:bcphbq3spdw a ns1:User ;
     ns1:profileImg "author-daren-wilson.jpg"^^xsd:string .
 
 ns1:bcphbqawohl a ns1:User ;
+    owl:sameAs "http://www.jenniferwohl.com/"^^xsd:string ;
     ns1:coverImg "cover-author-jennifer-wohl.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.jenniferwohl.com/">www.jenniferwohl.com</a></p>
 
@@ -21324,6 +21346,8 @@ ns1:bcphbqawohl a ns1:User ;
     ns1:profileImg "author-jennifer-wohl.jpg"^^xsd:string .
 
 ns1:bcphbqchaak a ns1:User ;
+    owl:sameAs "https://www.etsy.com/shop/MysticDreamerArt"^^xsd:string,
+        "https://www.youtube.com/watch?v=xWw2IqNsL2c"^^xsd:string ;
     ns1:coverImg "cover-author-annkruglak.jpg"^^xsd:string ;
     ns1:description """<p>Etsy: <a href="https://www.etsy.com/shop/MysticDreamerArt">MysticDreamerArt</a></p>
 
@@ -21342,6 +21366,7 @@ ns1:bcphbqchaak a ns1:User ;
     ns1:profileImg "author-annkruglak.jpg"^^xsd:string .
 
 ns1:bcphbqchalq a ns1:User ;
+    owl:sameAs "https://www.chalquist.com/about"^^xsd:string ;
     ns1:coverImg "cover-craig-chalquist.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.chalquist.com">chalquist.com</a></p>
 
@@ -21361,6 +21386,7 @@ ns1:bcphbqchalq a ns1:User ;
     ns1:profileImg "author-craig-chalquist.jpg"^^xsd:string .
 
 ns1:bcphbqchcel a ns1:User ;
+    owl:sameAs "https://www.celiagreen.com/"^^xsd:string ;
     ns1:coverImg "cover-author-celiagreen.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.celiagreen.com/">celiagreen.com</a></p>
 
@@ -21378,6 +21404,7 @@ ns1:bcphbqchcel a ns1:User ;
     ns1:profileImg "author-celiagreen.jpg"^^xsd:string .
 
 ns1:bcphbqchher a ns1:User ;
+    owl:sameAs "https://www.mtexpress.com/obituaries/john-warne-herbert/article_d9979098-cc09-11e8-a34d-afe2af7e608a.html"^^xsd:string ;
     ns1:coverImg "borah_peak.jpg"^^xsd:string ;
     ns1:description """<p><a href="https://www.mtexpress.com/obituaries/john-warne-herbert/article_d9979098-cc09-11e8-a34d-afe2af7e608a.html">John Herbert</a> (1923-2018) was an aviator, entrepreneur and dream researcher from <a href="https://en.wikipedia.org/wiki/Ketchum,_Idaho">Ketchum, Idaho</a>. An MIT graduate and a U.S. Marine Corps Reserve veteran of World War II, Herbert later pursued his passion for psychology, earning a master's degree from San Francisco State University and a PhD focused on dream imagery at 77, making him the oldest person to achieve this feat at the Saybrook Institute. His contributions to the field included creating the internet's first system for working with dreams and a personal collection of over 10,000 recorded dreams.</p>
 
@@ -21391,6 +21418,7 @@ ns1:bcphbqchher a ns1:User ;
     ns1:profileImg "author-john-herbert.jpg"^^xsd:string .
 
 ns1:bcphbqfhill a ns1:User ;
+    owl:sameAs "http://www.michaelortizhill.com/"^^xsd:string ;
     ns1:coverImg "cover-author-deena-metzger.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.michaelortizhill.com/">michaelortizhill.com</a></p>
 
@@ -21404,6 +21432,7 @@ ns1:bcphbqfhill a ns1:User ;
     ns1:profileImg "author-michael-ortiz-hill.jpg"^^xsd:string .
 
 ns1:bcphbqftrow a ns1:User ;
+    owl:sameAs "https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html">bobtrowbridge.com</a></p>
 
 <p>Bob was editor of the Dream Network Bulletin alongside Linda Magallón from 1987-1989. He graduated from San Francisco Theological Seminary in 1968 and was ordained as a Presbyterian minister. His ongoing spiritual seeking led him to leave the ministery. Since that time he has studied many spiritual systems and is a perpetual spiritual seeker.</p>
@@ -21420,6 +21449,7 @@ ns1:bcphbqftrow a ns1:User ;
     ns1:profileImg "author-bob-trowbridge.jpg"^^xsd:string .
 
 ns1:bcphbqiclur a ns1:User ;
+    owl:sameAs "https://www.dreamportrayal.com/index.html"^^xsd:string ;
     ns1:coverImg "cover-author-ireneclurman.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.dreamportrayal.com/index.html">www.dreamportrayal.com</a></p>
 
@@ -21451,6 +21481,11 @@ ns1:bcphbqpsarg a ns1:User ;
     ns1:profileImg "author-larry-sargent.jpg"^^xsd:string .
 
 ns1:bcphbqsbonn a ns1:User ;
+    owl:sameAs "https://twitter.com/Gary_Bonnell"^^xsd:string,
+        "https://www.facebook.com/gary.bonnell1/"^^xsd:string,
+        "https://www.instagram.com/gary.bonnell/"^^xsd:string,
+        "https://www.theknowingway.online/"^^xsd:string,
+        "https://www.youtube.com/channel/UCy6eYG7eOrgt2ZtH_H3wWnQ"^^xsd:string ;
     ns1:coverImg "cover-author-gary-bonnell.jpg"^^xsd:string ;
     ns1:description """<p>Websites: <a href="https://www.theknowingway.online/">theknowingway.online</a></p>
 
@@ -21478,6 +21513,9 @@ ns1:bcphbqsbonn a ns1:User ;
     ns1:profileImg "author-gary-bonell.jpg"^^xsd:string .
 
 ns1:bcphbqsuelo a ns1:User ;
+    owl:sameAs "http://zerocurrency.blogspot.com/"^^xsd:string,
+        "https://sites.google.com/site/livingwithoutmoney/"^^xsd:string,
+        "https://www.blogger.com/profile/13739011165937473840"^^xsd:string ;
     ns1:coverImg "cover-author-daniel-suelo.jpg"^^xsd:string ;
     ns1:description """<p>Blog: <a href="http://zerocurrency.blogspot.com/">zerocurrency.blogspot.com</a></p>
 
@@ -21495,6 +21533,7 @@ ns1:bcphbqsuelo a ns1:User ;
     ns1:profileImg "author-daniel-suelo.jpg"^^xsd:string .
 
 ns1:bcphbqvcary a ns1:User ;
+    owl:sameAs "https://www.archiveofself.com/"^^xsd:string ;
     ns1:coverImg "cover-carli-young.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.archiveofself.com/">archiveofself.com</a></p>
 
@@ -21518,6 +21557,9 @@ ns1:bcphbqvcomz a ns1:User ;
     ns1:profileImg "author-oliver-mestitz.jpg"^^xsd:string .
 
 ns1:bcphbqvcsch a ns1:User ;
+    owl:sameAs "https://twitter.com/Tarotpy"^^xsd:string,
+        "https://www.dreamsandtarotpy.com/"^^xsd:string,
+        "https://www.instagram.com/tarotpyanddreams/"^^xsd:string ;
     ns1:coverImg "cover-author-lauren-schneider.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.dreamsandtarotpy.com/">dreamsandtarotpy.com</a></p>
 
@@ -21537,6 +21579,7 @@ ns1:bcphbqvcsch a ns1:User ;
     ns1:profileImg "author-lauren-schneider.jpg"^^xsd:string .
 
 ns1:bcphbqvicjs a ns1:User ;
+    owl:sameAs "https://www.facebook.com/InnerSelvesMastery/"^^xsd:string ;
     ns1:coverImg "cover-author-carl-schroeder.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.facebook.com/InnerSelvesMastery/">Inner Selves Mastery on Facebook</a></p>
 
@@ -21550,6 +21593,8 @@ ns1:bcphbqvicjs a ns1:User ;
     ns1:profileImg "author-carl-schroeder.jpg"^^xsd:string .
 
 ns1:bcphbqviden a ns1:User ;
+    owl:sameAs "https://eastwest.works/Inoshi.html"^^xsd:string,
+        "https://twitter.com/EastWest_Works"^^xsd:string ;
     ns1:coverImg "cover-author-inoshi-denizen.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://eastwest.works/Inoshi.html">eastwest.works</a></p>
 
@@ -21570,6 +21615,11 @@ ns1:bcphbqviden a ns1:User ;
     ns1:profileImg "author-inoshi-zoomout-sml.jpg"^^xsd:string .
 
 ns1:bcphbqvmack a ns1:User ;
+    owl:sameAs "https://christamackinnon.com/about/"^^xsd:string,
+        "https://twitter.com/christamackinno"^^xsd:string,
+        "https://www.instagram.com/mackinnonchrista/"^^xsd:string,
+        "https://www.linkedin.com/in/christa-mackinnon-5427941/?originalSubdomain=uk"^^xsd:string,
+        "https://www.youtube.com/channel/UCUgMVjw3e9_Xe1BPfiXYeBw"^^xsd:string ;
     ns1:coverImg "cover-author-christamackinnon.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://christamackinnon.com/">christamackinnon.com</a></p>
 
@@ -21587,6 +21637,9 @@ ns1:bcphbqvmack a ns1:User ;
     ns1:profileImg "author-christa-mackinnon.jpg"^^xsd:string .
 
 ns1:bcphbqvpenn a ns1:User ;
+    owl:sameAs "https://jfpenn.com/"^^xsd:string,
+        "https://twitter.com/thecreativepenn"^^xsd:string,
+        "https://www.instagram.com/jfpennauthor/"^^xsd:string ;
     ns1:coverImg "cover-author-joanna-penn.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://jfpenn.com/">jfpenn.com</a></p>
 
@@ -21612,6 +21665,8 @@ ns1:bcphbqvrebk a ns1:User ;
     ns1:profileImg "author-rebecca-kelly.jpg"^^xsd:string .
 
 ns1:bcphbqvrugh a ns1:User ;
+    owl:sameAs "https://www.genellhowell.com/"^^xsd:string,
+        "https://www.linkedin.com/in/genell-howell-lmhc-csac-sep-2b216b7b/"^^xsd:string ;
     ns1:coverImg "cover-genell-howell.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.genellhowell.com/">genellhowell.com</a></p>
 
@@ -21628,6 +21683,8 @@ ns1:bcphbqvrugh a ns1:User ;
     ns1:profileImg "author-gh.jpg"^^xsd:string .
 
 ns1:bcphbqvtziv a ns1:User ;
+    owl:sameAs "https://tziviagover.com/"^^xsd:string,
+        "https://www.linkedin.com/in/tzivia-gover-7972178/"^^xsd:string ;
     ns1:coverImg "cover-author-tzivia.jpeg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://tziviagover.com/">tziviagover.com</a></p>
 
@@ -21656,6 +21713,8 @@ ns1:bcphbqvtziv a ns1:User ;
     ns1:profileImg "author-tzivia.jpg"^^xsd:string .
 
 ns1:bcphbqvvall a ns1:User ;
+    owl:sameAs "http://www.chrysalishealingarts.org/"^^xsd:string,
+        "https://awakenthesacreddream.com/"^^xsd:string ;
     ns1:coverImg "cover-author-valleyreed.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://awakenthesacreddream.com/">awakenthesacreddream.com</a></p>
 
@@ -21674,6 +21733,7 @@ ns1:bcphbqvvall a ns1:User ;
     ns1:profileImg "author-valleyreed.jpg"^^xsd:string .
 
 ns1:bcphbqvvcft a ns1:User ;
+    owl:sameAs "https://womanyouarewine.com/#about"^^xsd:string ;
     ns1:coverImg "cover-author-christina-forbes-thomas.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://womanyouarewine.com/">womanyouarewine.com</a></p>
 
@@ -21896,6 +21956,7 @@ ns1:bcphblwwuy6 a ns1:Post ;
     ns1:urlSlug "4.3"^^xsd:string .
 
 ns1:bcphbq3amin a ns1:User ;
+    owl:sameAs "https://www.aamindell.net/about-amy-and-arny"^^xsd:string ;
     ns1:coverImg "cover-author-arnold-mindell.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.aamindell.net/">aamindell.net</a></p>
 
@@ -21911,6 +21972,7 @@ ns1:bcphbq3amin a ns1:User ;
     ns1:profileImg "author-arnold-mindell.jpg"^^xsd:string .
 
 ns1:bcphbq3pimm a ns1:User ;
+    owl:sameAs "http://notesfromadreamer.com/bobbie-ann-pimm/"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://notesfromadreamer.com">notesfromadreamer.com</a></p>
 
 <p>I am a dreamworker and author of Notes From a Dreamer… on Dreaming: A Personal Journey in Dream Interpretation. My current focus is on teaching others how to interpret and work with their own dreams. I have created several <a href="https://theazire.org/moodle/course/index.php?categoryid=11">online courses on dream interpretation</a>. I am also available to do workshops and one-on-one consultations via phone or Skype.</p>
@@ -22078,6 +22140,8 @@ ns1:bcphb2eggje a ns1:Post ;
     ns1:urlSlug "33.2"^^xsd:string .
 
 ns1:bcphbgmason a ns1:User ;
+    owl:sameAs "http://www.greatdreams.com/joestuff/interp/joeindex.htm"^^xsd:string,
+        "https://twitter.com/JosephEMason"^^xsd:string ;
     ns1:coverImg "cover-author-joseph-mason.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.greatdreams.com/joestuff/interp/joeindex.htm">greatdreams.com</a></p>
 
@@ -22212,6 +22276,8 @@ ns1:bcphbovuijt a ns1:Post ;
     ns1:urlSlug "9.4"^^xsd:string .
 
 ns1:bcphbq3gong a ns1:User ;
+    owl:sameAs "http://heartofthedream.com/about.htm"^^xsd:string,
+        "https://www.linkedin.com/in/robert-gongloff-796b487/"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://heartofthedream.com/">heartofthedream.com</a></p>
 
 <p>Robert’s background in dream work is varied. He has been involved with the International Association for the Study of Dreams (IASD) for over 25 years. Through this organization, he has enjoyed the benefit of multidiscipline dream work expertise from around the world. He is a past president of IASD and has hosted multiple international dream conferences. He is a graduate of the two-year Dream Leader Training program offered by The Haden Institute in Charlotte. It was here that he gained much of his knowledge of Jungian archetypes. He was ordained through Sancta Sophia Seminary in Oklahoma's modern day wisdom school. The seminary opened his eyes to the relationships between dreams, astrology, and the ancient wisdom teachings.</p>
@@ -22248,6 +22314,11 @@ ns1:bcphbq3gras a ns1:User ;
     ns1:profileImg "author-lorraine-grassano.jpg"^^xsd:string .
 
 ns1:bcphbq3msa a ns1:User ;
+    owl:sameAs "https://dreamtending.com/stephen-aizenstat-ph-d/"^^xsd:string,
+        "https://twitter.com/dreamtending1"^^xsd:string,
+        "https://www.facebook.com/DreamTending/"^^xsd:string,
+        "https://www.instagram.com/dreamtending"^^xsd:string,
+        "https://www.linkedin.com/company/dream-tending/"^^xsd:string ;
     ns1:coverImg "cover-author-stephen-aizenstat.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://dreamtending.com/stephen-aizenstat-ph-d/">Dream Tending</a></p>
 
@@ -22271,6 +22342,8 @@ ns1:bcphbq3msa a ns1:User ;
     ns1:profileImg "author-stephen-aizenstat.jpg"^^xsd:string .
 
 ns1:bcphbq3rcwi a ns1:User ;
+    owl:sameAs "http://dreamgate.com/"^^xsd:string,
+        "https://www.linkedin.com/in/richardcatlettwilkerson/"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://dreamgate.com/">dreamgate.com</a></p>
 
 <p>In the early 1980s, I was working as a counselor for the City &amp; County of San Francisco. These kids were from broken homes and they had generally experienced little but abuse and neglect throughout their lives. As that time I was interested in how fantasy and creativity (and lack of it) played a role in development, but I didn't know much about dreams.</p>
@@ -22304,6 +22377,8 @@ ns1:bcphbq3rcwi a ns1:User ;
     ns1:profileImg "author-richard-wilkerson.jpg"^^xsd:string .
 
 ns1:bcphbq3webb a ns1:User ;
+    owl:sameAs "http://craigwebb.ca"^^xsd:string,
+        "https://twitter.com/dreammaestro"^^xsd:string ;
     ns1:description """<p><a href="http://craigwebb.ca">Craig Webb</a>, Executive Director of the non-profit <a href="http://www.dreams.ca/">DREAMS Foundation</a>, is a McGill University graduate with pioneering dream and lucid dream research at Stanford University and Montreal’s Sacré-Coeur Hospital. As an author, columnist, and hired/invited expert for major motion pictures, fortune 500 companies, universities, international TV networks, numerous magazines and e-zines, and well over 1000 media (ABC, BBC, SyFy/NBC/Universal, Discovery Channel, New York Times, MSN, etc.), he’s broadcast/published cutting edge approaches on dreams, lucid dreaming, applied psychology, communications, creativity, and the science of mind, as well as interviews with leading visionaries. His trainings have enabled CEO’s, celebrities, best-selling authors, world-class athletes, and other clients from all walks of life to make profound breakthroughs while having loads of fun. Craig also helped found/produce “Making Contact” (a progressive radio show airing weekly on 150+ stations for 25 years), and has designed multiple personal transformation devices with worldwide distribution. For over two decades, he's had the privilege to lead numerous training programs and over 1500 miles of transformational training programs. He has performed and presented at benefit concerts and events, and served as a volunteer for Children's hospitals and environmental organizations, Montreal's suicide hotline, 3rd world development programs, and various other humanitarian causes.</p>
 
 <p>Craig offers highly transformational online classes in Applied Dreaming, Dream Interpretation, and Lucid Living. To learn more or register, please visit: <a href="http://www.dreams.ca/teleclass.htm">www.dreams.ca/teleclass.htm</a></p>
@@ -22334,6 +22409,7 @@ ns1:bcphbq3xymn a ns1:Post ;
     ns1:urlSlug "13.3"^^xsd:string .
 
 ns1:bcphbqafunk a ns1:User ;
+    owl:sameAs "https://art.funkhouser.ch/en"^^xsd:string ;
     ns1:coverImg "cover-art-funkhouser.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://art.funkhouser.ch/en">art.funkhouser.ch</a></p>
 
@@ -22353,6 +22429,7 @@ ns1:bcphbqafunk a ns1:User ;
     ns1:profileImg "author-art-funkhouser.jpg"^^xsd:string .
 
 ns1:bcphbqawern a ns1:User ;
+    owl:sameAs "http://thedreamingwell.com"^^xsd:string ;
     ns1:coverImg "cover-author-travis-wernet.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://thedreamingwell.com">thedreamingwell.com</a></p>
 
@@ -22368,6 +22445,8 @@ ns1:bcphbqawern a ns1:User ;
     ns1:profileImg "author-travis-wernet.jpg"^^xsd:string .
 
 ns1:bcphbqbynum a ns1:User ;
+    owl:sameAs "https://web.archive.org/web/20220123134219/https://obeliskfoundation.com/"^^xsd:string,
+        "https://www.facebook.com/profile.php?id=100067168220264"^^xsd:string ;
     ns1:coverImg "cover-author-edward-bynum.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20220123134219/https://obeliskfoundation.com/">obeliskfoundation.com</a></p>
 
@@ -22396,6 +22475,7 @@ ns1:bcphbqerish a ns1:User ;
     ns1:profileImg "author-suzannahart.jpg"^^xsd:string .
 
 ns1:bcphbqhutch a ns1:User ;
+    owl:sameAs "http://www.dreamlynx.com/linton.html"^^xsd:string ;
     ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.dreamlynx.com">dreamlynx.com</a></p>
 
@@ -22430,6 +22510,8 @@ ns1:bcphbqvckd7 a ns1:Post ;
     ns1:urlSlug "13.1"^^xsd:string .
 
 ns1:bcphbqvidan a ns1:User ;
+    owl:sameAs "https://dannykennedy.co/"^^xsd:string,
+        "https://twitter.com/kannydennedy"^^xsd:string ;
     ns1:coverImg "cover-author-dan-kennedy.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://dannykennedy.co/">dannykennedy.co</a></p>
 
@@ -22970,6 +23052,7 @@ ns1:bcphbq3asay a ns1:User ;
     ns1:profileImg "author-ann-sayre-wiseman.jpg"^^xsd:string .
 
 ns1:bcphbq3curt a ns1:User ;
+    owl:sameAs "https://www.bridgew.edu/person/dr-curtiss-hoffman"^^xsd:string ;
     ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of <em>The Seven Story Tower: A Mythic Journey through Space and Time</em>, and <em>Stone Prayers</em>, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.</p>
 
 <p>He was the host of the 2006 IASD conference at Bridgewater State, and has presented at IASD conferences and at the on-line Psiberdreaming Conference for several years. Since 2004, he has been the chair of the IASD Student Research Awards Committee.</p>
@@ -23002,6 +23085,10 @@ ns1:bcpov6pspec a ns1:Post ;
     ns1:urlSlug "special-publications"^^xsd:string .
 
 ns1:bcpovcsetdg a ns1:Topic ;
+    owl:sameAs "https://dbpedia.org/page/Dream_sharing"^^xsd:string,
+        "https://en.wikipedia.org/wiki/Dream_sharing"^^xsd:string,
+        "https://www.compassdreamwork.com/about-dreamwork/group-dreamwork/"^^xsd:string,
+        "https://www.meetup.com/topics/dreams/"^^xsd:string ;
     ns1:coverImg "cover-dreamsharing-groups.jpg"^^xsd:string ;
     ns1:description """<p>The Dream Network Journal published the following <em>ethical guidelines for dreamworkers and dreamsharing groups</em> in <a href="../bcphbqvckd7/13.1">Volume 13, Issue 1</a>, and different versions in subsequent issues.</p>
 
@@ -23028,8 +23115,9 @@ ns1:bcpovcsetdg a ns1:Topic ;
     ns1:handle "topic~dreamsharing-groups"^^xsd:string ;
     ns1:itemId "bcpovcsetdg"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Dreamsharing Groups"^^xsd:string ;
-    ns1:shortName "Dreamsharing Groups"^^xsd:string .
+    ns1:name "Dream Sharing & Dream Groups"^^xsd:string ;
+    ns1:shortName "Dreamsharing Groups"^^xsd:string ;
+    ns1:subType "Thing"^^xsd:string .
 
 ns1:bcphb2huxmr a ns1:Post ;
     ns1:coverImg "33.3-cover.jpg"^^xsd:string ;
@@ -23255,6 +23343,8 @@ ns1:bcphbpqyqpo a ns1:Post ;
     ns1:urlSlug "11.1"^^xsd:string .
 
 ns1:bcphbq3dues a ns1:User ;
+    owl:sameAs "https://www.livingdreams.life/"^^xsd:string,
+        "https://www.yourguidingdreams.com/public/about.htm"^^xsd:string ;
     ns1:description """<p>Websites: <a href="http://www.yourguidingdreams.com/">yourguidingdreams.com</a>, <a href="https://www.livingdreams.life/">livingdreams.life</a></p>
 
 <p>Evelyn Duesbury is a National Certified Counselor (NCC), a Board Certified TeleMental Health Provider (BC-TMH-CCE), and a Licensed Professional Counselor (LPC). She is a member of the American Counseling Association (ACA), the American Psychological Association (APA), the International Association of Marriage and Family Counselors (IAMFC), the International Association for the Study of Dreams (IASD), and The Honor Society of Phi Kappa Phi.</p>
@@ -23274,6 +23364,7 @@ ns1:bcphbq3dues a ns1:User ;
     ns1:profileImg "author-evelyn-duesbury.jpg"^^xsd:string .
 
 ns1:bcphbq3king a ns1:User ;
+    owl:sameAs "https://web.archive.org/web/20190630110643/https://www.dreamtimesguide.com/"^^xsd:string ;
     ns1:coverImg "cover-author-marleneking.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20190630110643/https://www.dreamtimesguide.com/">www.dreamtimesguide.com (Web Archive)</a></p>
 
@@ -23297,6 +23388,7 @@ ns1:bcphbq3king a ns1:User ;
     ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
 
 ns1:bcphbq3kupt a ns1:User ;
+    owl:sameAs "https://charles-upton.com/"^^xsd:string ;
     ns1:coverImg "cover-author-charles-upton.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://charles-upton.com/">charles-upton.com</a></p>
 
@@ -23314,6 +23406,7 @@ ns1:bcphbq3kupt a ns1:User ;
     ns1:profileImg "author-charles-upton-3.jpg"^^xsd:string .
 
 ns1:bcphbq3olse a ns1:User ;
+    owl:sameAs "https://www.inner-image.net/fred-olsen.php"^^xsd:string ;
     ns1:coverImg "cover-author-fredolsen.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.inner-image.net/fred-olsen.php">inner-image.net</a></p>
 
@@ -23350,6 +23443,7 @@ ns1:bcphbq3pdwy a ns1:User ;
     ns1:profileImg "author_ritadwyer.jpg"^^xsd:string .
 
 ns1:bcphbq3rste a ns1:User ;
+    owl:sameAs "http://www.starharp.com/"^^xsd:string ;
     ns1:coverImg "cover-author-star-edwards.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.starharp.com/" target="_blank">starharp.com</a></p>
 
@@ -23363,6 +23457,10 @@ ns1:bcphbq3rste a ns1:User ;
     ns1:profileImg "author-star-edwards.jpg"^^xsd:string .
 
 ns1:bcphbq3ryan a ns1:User ;
+    owl:sameAs "https://chrisryanphd.com/about-chris/"^^xsd:string,
+        "https://twitter.com/ThatChrisRyan"^^xsd:string,
+        "https://www.facebook.com/chrisryanphd/"^^xsd:string,
+        "https://www.instagram.com/thatchrisryan"^^xsd:string ;
     ns1:coverImg "cover-chris-ryan.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://chrisryanphd.com/">chrisryanphd.com</a></p>
 
@@ -23383,6 +23481,7 @@ ns1:bcphbq3ryan a ns1:User ;
     ns1:profileImg "author-chris-ryan.jpg"^^xsd:string .
 
 ns1:bcphbqchjgb a ns1:User ;
+    owl:sameAs "https://jaynegackenbach.ca/"^^xsd:string ;
     ns1:coverImg "cover-author-jayne-gackenbach.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://jaynegackenbach.ca/">jaynegackenbach.ca</a></p>
 
@@ -23414,6 +23513,7 @@ ns1:bcphbqerics a ns1:User ;
     ns1:profileImg "author-ericsnyder.jpg"^^xsd:string .
 
 ns1:bcphbqmotte a ns1:User ;
+    owl:sameAs "https://twitter.com/MarieOtte"^^xsd:string ;
     ns1:coverImg "cover-author-marieotte.jpg"^^xsd:string ;
     ns1:description """<p>On Twitter: <a href="https://twitter.com/MarieOtte">twitter.com/MarieOtte</a></p>
 
@@ -23442,6 +23542,7 @@ ns1:bcphbqp3hfp a ns1:Post ;
     ns1:urlSlug "12.4"^^xsd:string .
 
 ns1:bcphbqvlach a ns1:User ;
+    owl:sameAs "https://www.linkedin.com/in/victoriavlach/"^^xsd:string ;
     ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>
 
 <p>She's passionate about the incredible potential of human-to-human connection and interaction.</p>
@@ -23456,6 +23557,8 @@ ns1:bcphbqvlach a ns1:User ;
     ns1:profileImg "author-victoria-vlach.jpg"^^xsd:string .
 
 ns1:bcphbqvmoss a ns1:User ;
+    owl:sameAs "http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html"^^xsd:string,
+        "https://mossdreams.com/"^^xsd:string ;
     ns1:coverImg "cover-author-robertmoss.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>
 
@@ -23805,6 +23908,7 @@ ns1:bcphbpumr2x a ns1:Post ;
     ns1:urlSlug "11.2"^^xsd:string .
 
 ns1:bcphbq3gott a ns1:User ;
+    owl:sameAs "http://www.dalegottlieb.com/"^^xsd:string ;
     ns1:coverImg "cover-img-dale-gottlieb.png"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.dalegottlieb.com/">dalegottlieb.com</a></p>
 
@@ -23820,6 +23924,7 @@ ns1:bcphbq3gott a ns1:User ;
     ns1:profileImg "author-dalegottlieb.jpg"^^xsd:string .
 
 ns1:bcphbq3mart a ns1:User ;
+    owl:sameAs "https://www.facebook.com/Kathy-Martone-EdD-2166828393535523/"^^xsd:string ;
     ns1:coverImg "cover-author-kathy-martone.jpg"^^xsd:string ;
     ns1:description """<p><a href="https://www.facebook.com/Kathy-Martone-EdD-2166828393535523/">Facebook page</a></p>
 
@@ -23833,6 +23938,8 @@ ns1:bcphbq3mart a ns1:User ;
     ns1:profileImg "author-kathy-martone.jpg"^^xsd:string .
 
 ns1:bcphbq3plvy a ns1:User ;
+    owl:sameAs "https://www.awakeninthedream.com"^^xsd:string,
+        "https://www.youtube.com/@paullevy6019"^^xsd:string ;
     ns1:coverImg "cover-author-paullevy.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.awakeninthedream.com">awakeninthedream.com</a></p>
 
@@ -23857,6 +23964,8 @@ ns1:bcphbq3plvy a ns1:User ;
     ns1:profileImg "author-paullevy.jpg"^^xsd:string .
 
 ns1:bcphbq3rbck a ns1:User ;
+    owl:sameAs "https://catherinekennedy.com.au/"^^xsd:string,
+        "https://www.instagram.com/catherinekennedyartist/"^^xsd:string ;
     ns1:coverImg "cover-author-catherinekennedy.jpeg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://catherinekennedy.com.au/" target="_blank">catherinekennedy.com.au</a></p>
 
@@ -23871,6 +23980,7 @@ ns1:bcphbq3rbck a ns1:User ;
     ns1:profileImg "author-catherinekennedy.jpg"^^xsd:string .
 
 ns1:bcphbq3spar a ns1:User ;
+    owl:sameAs "https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww"^^xsd:string ;
     ns1:description """<p>International Eco Ebook, Author OVI Bookshop, Director-Scriptwriter for CROSSING the THRESHOLD TOGETHER video project</p>
 
 <p>David's <a href="https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww">YouTube</a> channel</p>
@@ -23883,6 +23993,11 @@ ns1:bcphbq3spar a ns1:User ;
     ns1:profileImg "author-david-sparenberg.jpg"^^xsd:string .
 
 ns1:bcphbq3wagg a ns1:User ;
+    owl:sameAs "https://twitter.com/dreambob"^^xsd:string,
+        "https://www.instagram.com/robertwaggonerlucid/"^^xsd:string,
+        "https://www.linkedin.com/in/robert-waggoner-97022410"^^xsd:string,
+        "https://www.lucidadvice.com/about-robert/"^^xsd:string,
+        "https://www.reddit.com/user/RobWaggoner/"^^xsd:string ;
     ns1:coverImg "cover-author-robert-waggoner.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.lucidadvice.com/">LucidAdvice.com</a></p>
 
@@ -23904,6 +24019,7 @@ ns1:bcphbq3wagg a ns1:User ;
     ns1:profileImg "author-robert-waggoner.jpg"^^xsd:string .
 
 ns1:bcphbqbeldo a ns1:User ;
+    owl:sameAs "https://medium.com/@tracehints"^^xsd:string ;
     ns1:coverImg "cover-author-jayebeldo.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://medium.com/@tracehints">medium.com/@tracehints</a></p>
 
@@ -23917,6 +24033,7 @@ ns1:bcphbqbeldo a ns1:User ;
     ns1:profileImg "author-jayebeldo.jpg"^^xsd:string .
 
 ns1:bcphbqfeins a ns1:User ;
+    owl:sameAs "https://edenenergymedicine.com/about-us/david-feinstein/"^^xsd:string ;
     ns1:coverImg "cover-author-davidfeinstein.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://edenenergymedicine.com/about-us/david-feinstein/">edenenergymedicine.com</a></p>
 
@@ -23932,6 +24049,9 @@ ns1:bcphbqfeins a ns1:User ;
     ns1:profileImg "author-davidfeinstein.jpg"^^xsd:string .
 
 ns1:bcphbqfmetz a ns1:User ;
+    owl:sameAs "http://deenametzger.net/"^^xsd:string,
+        "https://deenametzger.wordpress.com/"^^xsd:string,
+        "https://toconsider2012.wordpress.com/"^^xsd:string ;
     ns1:coverImg "cover-author-deena-metzger.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://deenametzger.net/">deenametzger.net</a></p>
 
@@ -23963,6 +24083,7 @@ ns1:bcphbqfmetz a ns1:User ;
     ns1:profileImg "author-deena-metzger.jpg"^^xsd:string .
 
 ns1:bcphbqvbird a ns1:User ;
+    owl:sameAs "http://tendingdreams.com/"^^xsd:string ;
     ns1:coverImg "cover-author-kim-birdsong.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://tendingdreams.com/">tendingdreams.com</a></p>
 
@@ -23999,6 +24120,8 @@ ns1:bcphbs4b6on a ns1:Post ;
     ns1:urlSlug "17.1"^^xsd:string .
 
 ns1:bcphbssmith a ns1:User ;
+    owl:sameAs "https://web.archive.org/web/20200105081108/http://www.infiniteconnections.us/"^^xsd:string,
+        "https://www.linkedin.com/in/sandy-sela-smith-3a645311/"^^xsd:string ;
     ns1:coverImg "cover-author-sandy-sela-smith.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20200105081108/http://www.infiniteconnections.us/">infiniteconnections.us</a></p>
 
@@ -24075,6 +24198,7 @@ ns1:bcphbz5vgog a ns1:Post ;
     ns1:urlSlug "32.4"^^xsd:string .
 
 ns1:bcphbq3jean a ns1:User ;
+    owl:sameAs "https://www.instagram.com/worlddreamspeacebridge/"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
 
 <p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
@@ -24104,6 +24228,9 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:urlSlug "8.4"^^xsd:string .
 
 ns1:bcphbq3mcle a ns1:User ;
+    owl:sameAs "https://changingworld.com"^^xsd:string,
+        "https://www.facebook.com/dick.mcl/"^^xsd:string,
+        "https://www.linkedin.com/in/dick-mcleester-92297910/"^^xsd:string ;
     ns1:coverImg "cover-author-dickmcleester.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://changingworld.com">changingworld.com</a></p>
 
@@ -24195,6 +24322,8 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:urlSlug "28.1"^^xsd:string .
 
 ns1:bcpovcretld a ns1:Topic ;
+    owl:sameAs "https://dbpedia.org/page/Lucid_dream"^^xsd:string,
+        "https://en.wikipedia.org/wiki/Lucid_dream"^^xsd:string ;
     ns1:coverImg "cover-lucid-dreaming.jpg"^^xsd:string ;
     ns1:description """<div class="caption">From 'Lucidity: Where Realities Merge, by <a href="../@jillgregory">Jill Gregory</a> in <a href="../bcphbnp3qol/7.4">DNJ 7.4</a> All dreams are Jill's unless stated otherwise.</div>
 
@@ -24295,7 +24424,8 @@ ns1:bcpovcretld a ns1:Topic ;
     ns1:layout "page"^^xsd:string ;
     ns1:metaDescription "In lucid dreaming, the dreamer is aware of dreaming while dreaming, thereby able to enter consciously into the dream reality, opening up a whole new world of possibilities."^^xsd:string ;
     ns1:name "Lucid Dreaming"^^xsd:string ;
-    ns1:shortName "Lucid Dreaming"^^xsd:string .
+    ns1:shortName "Lucid Dreaming"^^xsd:string ;
+    ns1:subType "Thing"^^xsd:string .
 
 ns1:bcpqn7zvpei a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
@@ -24309,6 +24439,8 @@ ns1:bcpqn7zvpei a ns1:Post ;
     ns1:urlSlug "dream-network-volume-1"^^xsd:string .
 
 ns1:bcphbq3ferr a ns1:User ;
+    owl:sameAs "https://brendaferrimanidreamart.com/"^^xsd:string,
+        "https://www.facebook.com/Dream-Art-by-Brenda-Ferrimani-115114085196452"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://brendaferrimanidreamart.com/">brendaferrimanidreamart.com</a></p>
 
 <p>I began my artistic work in the 1980’s as a graphic designer, operating my own design firm with clients throughout the state of Colorado, where I reside. During this time I also became known in the area for the historic murals I painted with private and public commissions, and for my work as President of the Berthoud Arts and Humanities Alliance, lending my support to other Colorado artists.</p>
@@ -24339,6 +24471,7 @@ ns1:bcphbq3huds a ns1:User ;
     ns1:profileImg "author-chrishudson.jpg"^^xsd:string .
 
 ns1:bcphbq3vand a ns1:User ;
+    owl:sameAs "https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html"^^xsd:string ;
     ns1:coverImg "cover-author-bobvandecastle.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html">ourdreamingmind.com</a></p>
 
@@ -24362,6 +24495,7 @@ ns1:bcphbq3vand a ns1:User ;
     ns1:profileImg "author-bobvandecastle.jpg"^^xsd:string .
 
 ns1:bcphbqflyer a ns1:User ;
+    owl:sameAs "https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
 
 <p>Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams. She was editor of the Dream Network Bulletin alongside <a href="../@bobtrowbridge">Bob Trowbridge</a> from 1987-1989.</p>
@@ -24386,6 +24520,10 @@ ns1:bcphbqflyer a ns1:User ;
     ns1:profileImg "author-linda-magallon.jpg"^^xsd:string .
 
 ns1:bcphbqskoff a ns1:User ;
+    owl:sameAs "https://touchdrawing.com/"^^xsd:string,
+        "https://twitter.com/debsoultouch"^^xsd:string,
+        "https://www.instagram.com/debsoultouch/"^^xsd:string,
+        "https://www.linkedin.com/in/deborah-koff-chapin-1826aab/"^^xsd:string ;
     ns1:coverImg "cover-author-deborahkoffchapin.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://touchdrawing.com/">touchdrawing.com</a></p>
 
@@ -24427,6 +24565,7 @@ ns1:bcpqn72unjj a ns1:Post ;
     ns1:urlSlug "dream-network-volume-2"^^xsd:string .
 
 ns1:bcphbq3arts a ns1:User ;
+    owl:sameAs "https://arthurstrock.com/"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
 
 <p>Book: <a href="https://arthurstrock.com/live-by-your-dreams/">Live By Your Dreams, free download</a></p>
@@ -24441,6 +24580,7 @@ ns1:bcphbq3arts a ns1:User ;
     ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
 
 ns1:bcphbqflull a ns1:User ;
+    owl:sameAs "https://siivola.org/monte/"^^xsd:string ;
     ns1:coverImg "cover-author-montagueullman.jpeg"^^xsd:string ;
     ns1:description """<p>Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
 
@@ -24473,6 +24613,7 @@ ns1:bcphbqfgreg a ns1:User ;
     ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
 
 ns1:bcphbqsorna a ns1:User ;
+    owl:sameAs "https://www.ben-shoshan.com/en/"^^xsd:string ;
     ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.ben-shoshan.com/en/">ben-shoshan.com</a></p>
 
@@ -24507,6 +24648,8 @@ ns1:bcphbyukqzw a ns1:Post ;
     ns1:urlSlug "29.3"^^xsd:string .
 
 ns1:bcphbqvstim a ns1:User ;
+    owl:sameAs "https://www.facebook.com/william.stimson.75"^^xsd:string,
+        "https://www.youtube.com/user/billstimson"^^xsd:string ;
     ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
     ns1:description """<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
 
@@ -24534,9 +24677,13 @@ ns1:bcpovcredja a ns1:Topic ;
     ns1:itemId "bcpovcredja"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string ;
-    ns1:shortName "Dream Apps & Websites"^^xsd:string .
+    ns1:shortName "Dream Apps & Websites"^^xsd:string ;
+    ns1:subType "Thing"^^xsd:string .
 
 ns1:bcphbq3bogz a ns1:User ;
+    owl:sameAs "https://faribabogzaran.com/narrative-bio"^^xsd:string,
+        "https://www.instagram.com/faribabogzaran/"^^xsd:string,
+        "https://www.linkedin.com/in/fariba-bogzaran-93209a36/"^^xsd:string ;
     ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com</a></p>
 
@@ -24573,6 +24720,7 @@ ns1:bcphbxjsuyu a ns1:Post ;
     ns1:urlSlug "26.1-2"^^xsd:string .
 
 ns1:bcphbqvreed a ns1:User ;
+    owl:sameAs "https://web.archive.org/web/20180522230707/http://www.henryreed.com/"^^xsd:string ;
     ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
 
@@ -24594,6 +24742,7 @@ ns1:bcphbqvreed a ns1:User ;
     ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
 ns1:bcphbqschul a ns1:User ;
+    owl:sameAs "https://www.linkedin.com/in/jeanne-schul-ph-d-rsmt-b90b2415/"^^xsd:string ;
     ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;
     ns1:description """<p><a href="https://www.linkedin.com/in/jeanne-schul-ph-d-rsmt-b90b2415/">LinkedIn</a></p>
 
@@ -24609,6 +24758,9 @@ ns1:bcphbqschul a ns1:User ;
     ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
 
 ns1:bcphbqvbulk a ns1:User ;
+    owl:sameAs "https://bulkeley.org/about-kelly-bulkeley/"^^xsd:string,
+        "https://sleepanddreamdatabase.org/"^^xsd:string,
+        "https://twitter.com/KellyBulkeley"^^xsd:string ;
     ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://sleepanddreamdatabase.org/">sleepanddreamdatabase.org</a></p>
 
@@ -24636,6 +24788,7 @@ ns1:bcpovcrediv a ns1:Topic ;
     ns1:shortName "Interviews"^^xsd:string .
 
 ns1:bcphbq3rpac a ns1:User ;
+    owl:sameAs "https://independent.academia.edu/PacoMitchell"^^xsd:string ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
     ns1:description """<p>On Academia.edu: <a href="https://independent.academia.edu/PacoMitchell">academia.edu/PacoMitchell</a></p>
 
@@ -24653,6 +24806,11 @@ ns1:bcphbq3rpac a ns1:User ;
     ns1:profileImg "author-paco.jpg"^^xsd:string .
 
 ns1:bcphbqvcors a ns1:User ;
+    owl:sameAs "http://bambicorso.com/about-me/"^^xsd:string,
+        "http://www.facebook.com/bambicorsosfanpage"^^xsd:string,
+        "http://www.linkedin.com/in/bambicorso"^^xsd:string,
+        "http://www.twitter.com/bambicorso"^^xsd:string,
+        "http://www.youtube.com/bambicorso"^^xsd:string ;
     ns1:coverImg "cover-author-bambi-corso.jpg"^^xsd:string ;
     ns1:description """<p>Author, DreamTracker, Law of Attraction Certified Coach</p>
 
@@ -24696,6 +24854,7 @@ ns1:bcpovcretdb a ns1:Topic ;
 ns1:Item a owl:Class .
 
 ns1:bcphbqvruss a ns1:User ;
+    owl:sameAs "http://ralockhart.com/"^^xsd:string ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://ralockhart.com/">ralockhart.com</a></p>
 
@@ -24746,6 +24905,7 @@ ns1:bcphbq3ossa a ns1:User ;
     ns1:profileImg "roberta_ossana.png"^^xsd:string .
 
 ns1:bcphbqawtay a ns1:User ;
+    owl:sameAs "https://jeremytaylor.com/"^^xsd:string ;
     ns1:coverImg "cover-author-jeremytaylor.jpeg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
 
@@ -24795,6 +24955,9 @@ ns1:bcphb2kq341 a ns1:Post ;
     ns1:urlSlug "34.1"^^xsd:string .
 
 ns1:bcphbq3krip a ns1:User ;
+    owl:sameAs "https://en.wikipedia.org/wiki/Stanley_Krippner"^^xsd:string,
+        "https://stanleykrippner.weebly.com"^^xsd:string,
+        "https://www.facebook.com/stanley.krippner.9"^^xsd:string ;
     ns1:coverImg "cover-author-stanley-krippner.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://stanleykrippner.weebly.com">stanleykrippner.weebly.com</a></p>
 

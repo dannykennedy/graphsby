@@ -14,6 +14,11 @@ type: post
 subType: Review
 urlSlug: "nightmare-help-review"
 profileImg: post-bcpov6kbhelp-0.jpg
+about:
+    - type: Book
+      name: "Nightmare Help, A Guide for Parents and Teachers by Ann Sayre Wiseman"
+      sameAs:
+          - https://books.google.com.au/books/about/Nightmare_Help.html?id=Y_dEAAAAYAAJ
 ---
 
 <a href="https://books.google.com.au/books/about/Nightmare_Help.html?id=Y_dEAAAAYAAJ&source=kp_cover&redir_esc=y">

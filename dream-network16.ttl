@@ -11824,9 +11824,7 @@ ns1:bcpov6zd3tdm a ns1:Post ;
 
 ns1:bcpov6zdbrvd a ns1:Post ;
     ns1:dateCreated "1988-05-16T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="../images/post-bcpov6zdbrvd-0.jpg" width="200" height="auto" alt="Book cover"/></p>
-
-<p><!--nopreview--><div class="caption"><span>The Variety of Dream Experience: Expanding our Ways of Working with Dreams, Montague Ullman, M.D. and Claire Limmer, M.S., The Continuum Publishing Company, 1987, 370 Lexington Ave., New York, NY 10017, 320pages.</span></div><!--/nopreview--></p>
+    ns1:description """<p><img src="../images/post-bcpov6zdbrvd-0.jpg" width="200" height="auto" alt="Book cover"/><!--nopreview--><div class="caption"><span>The Variety of Dream Experience: Expanding our Ways of Working with Dreams, Montague Ullman, M.D. and Claire Limmer, M.S., The Continuum Publishing Company, 1987, 370 Lexington Ave., New York, NY 10017, 320pages.</span></div><!--/nopreview--></p>
 
 <p>There is scarcely a dream worker or student of dreams around who is not familiar with <a href="../@montagueullman">Dr. Montague Ullman's</a> classic work <em>Working with Dreams</em>, in which he details, with expert clarity, his major premise—namely, that dreams need to be snatched from the domain of "professional experts" and placed back in the hands of the "real experts"—the dreamers themselves (that's all of us).</p>
 

@@ -14,10 +14,14 @@ type: post
 subType: Review
 profileImg: post-bcpov6zdbrvd-0.jpg
 urlSlug: "book-review-the-variety-of-dream-experience-ullman-limmer"
+about:
+    - type: Book
+      name: "The Variety of Dream Experience: Expanding our Ways of Working with Dreams"
+      sameAs:
+          - https://www.amazon.com.au/Variety-Dream-Experience-Expanding-Working/dp/0826403816
 ---
 
-<img src="../images/post-bcpov6zdbrvd-0.jpg" width="200" height="auto" alt="Book cover"/>
-<!--nopreview--><div class="caption"><span>The Variety of Dream Experience: Expanding our Ways of Working with Dreams, Montague Ullman, M.D. and Claire Limmer, M.S., The Continuum Publishing Company, 1987, 370 Lexington Ave., New York, NY 10017, 320pages.</span></div><!--/nopreview-->
+<img src="../images/post-bcpov6zdbrvd-0.jpg" width="200" height="auto" alt="Book cover"/><!--nopreview--><div class="caption"><span>The Variety of Dream Experience: Expanding our Ways of Working with Dreams, Montague Ullman, M.D. and Claire Limmer, M.S., The Continuum Publishing Company, 1987, 370 Lexington Ave., New York, NY 10017, 320pages.</span></div><!--/nopreview-->
 
 There is scarcely a dream worker or student of dreams around who is not familiar with [Dr. Montague Ullman's](../@montagueullman) classic work _Working with Dreams_, in which he details, with expert clarity, his major premise—namely, that dreams need to be snatched from the domain of "professional experts" and placed back in the hands of the "real experts"—the dreamers themselves (that's all of us).
 

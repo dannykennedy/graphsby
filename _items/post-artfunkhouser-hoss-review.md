@@ -13,6 +13,12 @@ type: post
 subType: Review
 urlSlug: "dream-theories-of-deja-vu"
 profileImg: post-bcpov6kohoss-0.jpg
+about:
+    - type: Book
+      name: "Dream Language: Self-Understanding through Imagery and Color by Robert Hoss"
+      sameAs:
+          - https://books.google.com.au/books/about/Dream_Language.html?id=0sD1PAAACAAJ
+          - https://www.amazon.com.au/Dream-Language-Self-understanding-Through-Imagery/dp/0972520716
 ---
 
 ![Dream Language: Self-Understanding through Imagery and Color by Robert Hoss](../images/post-bcpov6kohoss-0.jpg)

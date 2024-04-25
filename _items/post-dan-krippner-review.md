@@ -14,6 +14,12 @@ tags:
 type: post
 subType: Review
 urlSlug: "understanding-suicides-allure-stanley-krippner-book-review"
+about:
+    - type: Book
+      name: "Understanding Suicide's Allure: Steps to Save Lives by Healing Psychological Scars"
+      sameAs:
+          - https://www.goodreads.com/book/show/52693989-understanding-suicide-s-allure
+          - https://books.google.com.au/books/about/Understanding_Suicide_s_Allure.html?id=ILfCEAAAQBAJ
 ---
 
 <a href="https://www.goodreads.com/book/show/52693989-understanding-suicide-s-allure">

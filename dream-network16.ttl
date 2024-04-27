@@ -23609,7 +23609,7 @@ ns1:bcphbte5ugv a ns1:Post ;
 ns1:bcphbtj7a2e a ns1:Post ;
     ns1:coverImg "17.4-18.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&-18-No-1.pdf" download="">Download issue 17.4-18.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-&-18-No-1.pdf">View online</a></p>
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-and-18-No-1.pdf" download="">Download issue 17.4-18.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-and-18-No-1.pdf">View online</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,

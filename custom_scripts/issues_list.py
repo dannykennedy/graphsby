@@ -530,7 +530,7 @@ issues = [
     {
         "imgName": "17.4-18.1",
         "pdfName":
-            "17.4-18.1-Dream-Network-Vol-17-No-4-&-18-No-1.pdf",
+            "17.4-18.1-Dream-Network-Vol-17-No-4-and-18-No-1.pdf",
         "title": "Creative Dreamwork in the Central Corridor",
         "date": "1998-11-01T11:32:52"
     },

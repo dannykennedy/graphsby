@@ -321,14 +321,23 @@ for pyyam in file_objects:
 			sitemap.write('<loc>' + url + '</loc>\n')
 			sitemap.write('</url>\n')
 
-# 2) Add PDF files (in _site/files/pdfs)
+# 2) Add PDF files 
+# These are in _site/files/pdfs, but then within subfolders
+# So we need to output e.g. https://dreamnetworkjournal.com/files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf
+# E.g. _site/files/pdfs/issue-1/issue-1.pdf
 pdf_folder = cwd + build_folder + '/files/pdfs'
 for subdir, dirs, files in os.walk(pdf_folder):
 	for file in files:
-		if file.endswith(".pdf"):
-			sitemap.write('<url>\n')
-			sitemap.write('<loc>' + site_url + '/files/pdfs/' + file + '</loc>\n')
-			sitemap.write('</url>\n')
+		# Ignore hidden files
+		if file.startswith('.'):
+			continue
+		# Get the path
+		filepath = os.path.join(subdir, file)
+		# Get the URL
+		url = site_url + filepath.split("/_site/")[1]
+		sitemap.write('<url>\n')
+		sitemap.write('<loc>' + url + '</loc>\n')
+		sitemap.write('</url>\n')
 
 sitemap.write('</urlset>')
 sitemap.close()

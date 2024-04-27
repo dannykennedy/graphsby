@@ -789,6 +789,9 @@ for pyyam in file_objects:
 			if ("sameAs" in about.keys()):
 				aboutObj["sameAs"] = about["sameAs"]
 			aboutSections.append(aboutObj)
+		# If it's only about one thing, don't make it a list
+		if len(aboutSections) == 1:
+			aboutSections = aboutSections[0]
 		# If the item is a review, add to itemReviewed
 		# Else, add to about
 		if json_ld_type == "Review":

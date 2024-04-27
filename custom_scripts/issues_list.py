@@ -451,7 +451,7 @@ issues = [
     },
     {
         "imgName": "14.1-2",
-        "pdfName": "14.1-2-Dream-Network-Vol-14-Nos-1-&-2.pdf",
+        "pdfName": "14.1-2-Dream-Network-Vol-14-Nos-1-and-2.pdf",
         "title": "Dreaming Humanity's Path: Protecting the Children & Warning Dreams",
         "date": "1995-01-01T11:32:52"
     },

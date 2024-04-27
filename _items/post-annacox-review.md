@@ -11,6 +11,11 @@ type: post
 subType: Review
 urlSlug: "victorian-songlight-book-review-anna-cox"
 profileImg: post-bcpov6grkrev-0.jpg
+about:
+    - type: Book
+      name: "Victorian Songlight: Birthings of Magic & Mystery"
+      sameAs:
+          - https://www.goodreads.com/book/show/52974851-victorian-songlight
 ---
 
 <img src="../images/post-bcpov6grkrev-0.jpg" width="200px" height="auto"/>

@@ -304,6 +304,7 @@ def get_url(pyyam, site_url):
 
 
 print("Building sitemap")
+# 1) Add pages
 sitemap = open(cwd + build_folder + '/sitemap.xml', "w")
 sitemap.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 sitemap.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
@@ -319,8 +320,19 @@ for pyyam in file_objects:
 			sitemap.write('<url>\n')
 			sitemap.write('<loc>' + url + '</loc>\n')
 			sitemap.write('</url>\n')
+
+# 2) Add PDF files (in _site/files/pdfs)
+pdf_folder = cwd + build_folder + '/files/pdfs'
+for subdir, dirs, files in os.walk(pdf_folder):
+	for file in files:
+		if file.endswith(".pdf"):
+			sitemap.write('<url>\n')
+			sitemap.write('<loc>' + site_url + '/files/pdfs/' + file + '</loc>\n')
+			sitemap.write('</url>\n')
+
 sitemap.write('</urlset>')
 sitemap.close()
+
 print("Sitemap built")
 
 ################
@@ -768,7 +780,12 @@ for pyyam in file_objects:
 			if ("sameAs" in about.keys()):
 				aboutObj["sameAs"] = about["sameAs"]
 			aboutSections.append(aboutObj)
-		json_ld["about"] = aboutSections
+		# If the item is a review, add to itemReviewed
+		# Else, add to about
+		if json_ld_type == "Review":
+			json_ld["itemReviewed"] = aboutSections
+		else:
+			json_ld["about"] = aboutSections
 	# publisher is not valid for Person or Thing
 	# dateCreated is not valid for Person or Thing
 	if json_ld_type != "Person" and json_ld_type != "Thing":

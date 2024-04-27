@@ -31,7 +31,7 @@ Thus, a body of work was born in the sixties that is at least seventy-five thous
 
 The “5Rhythms!” catalyze and speed up this process. In fact, they make becoming who you are a totally irresistible process.
 
-**Jeanne:** Early in your career, you worked with Fritz Perls at Esalen. How did he influence the direction of your work?
+**Jeanne:** Early in your career, you worked with [Fritz Perls](https://en.wikipedia.org/wiki/Fritz_Perls) at [Esalen](https://en.wikipedia.org/wiki/Esalen_Institute). How did he influence the direction of your work?
 
 **Gabrielle:** Fritz Perls was a genius and a friend. He uprooted therapy from the past and planted it in the present; he turned it upside-down, taking it out of the head and putting it into the body. He loved dancers, and when he found out that I had put myself through school by teaching dance to kids on playgrounds, old folks in senior citizens homes, schizophrenics in mental wards, junkies in halfway houses, he was ecstatic. He invited me to teach movement to all of his gestalt therapy groups at Esalen. Thereby, he created the first lab in which I would begin my archeological dig into human nature.
 

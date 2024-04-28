@@ -2369,7 +2369,7 @@ ns1:bcpov6globsr a ns1:Post ;
     ns1:inIssue ns1:bcphboajs77 ;
     ns1:itemId "bcpov6globsr"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
-    ns1:name "Book Review: The Satanic Verses by Salman Rushdie"^^xsd:string ;
+    ns1:name "Book Review: Dreams in 'The Satanic Verses' by Salman Rushdie"^^xsd:string ;
     ns1:profileImg "satanic_verses.jpg"^^xsd:string ;
     ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "the-satanic-verses-rushdie-book-review"^^xsd:string .
@@ -19856,6 +19856,50 @@ ns1:bcppz4gitods a ns1:Post ;
     ns1:profileImg "gregory-baylis-0.jpg"^^xsd:string ;
     ns1:urlSlug "translator-of-dream-slanguage-an-interview-with-janice-baylis"^^xsd:string .
 
+ns1:bcpqv5glodad a ns1:Post ;
+    ns1:dateCreated "1990-10-02T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/on_dreams_and_death.jpg" width="300px" height="auto"/><!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://www.amazon.com/Dreams-Death-Marie-Louise-Von-Franz/dp/0877734054">On Dreams and Death</a>, Marie-Louise von Franz (translated by E.X Kennedy and V. Brooks) (Boston: Shamballa 1987)</i></div><!--/nopreview--></p>
+
+<p>Our culture has very ambivalent views about death. We worship youth, health, and our bodies and we studiously ignore the sick and the elderly that are approaching death. Yet we are also fascinated by death, especially by the violent deaths of murders, car crashes, and wars - and we do wonder what happens to people after death - witness the successful recent movies "Poltergeist", "Always", "Ghost", and "Flatliners".</p>
+
+<p>It is not surprising that dreams in which the dead appear to us are of special interest in our culture. This is one of the most frequent questions people ask me about dreams, and I imagine that DNJ readers get these questions all the time as well: are the dead really in our dreams? Are they ghosts, spirits, or wandering souls? Or are they rather just the projections of my own mind, just my wish that I could sec the dead person again?</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Marie-Louise_von_Franz">Marie-Louise von Franz's</a> book <em>On Dreams and Death</em> is undoubtedly the best book available on this important subject. Although her focus is primarily on the symbolism of the dreams of people who are dying, she also discusses dreams of ours in which people who are dead appear to us. Like the best of Jung's writings, von Franz weaves a masterful tapestry of images, symbols, and visions regarding death from all the world's spiritual traditions. With great sensitivity and care she draws together material from medieval alchemy, Gnosticism, Islamic mysticism, and Buddhism to help amplify the symbolic meanings of the dreams of modern people.</p>
+
+<p>Von-Franz's basic claim is that death is not the end of life, but a transformation that initiates a new kind of life. By looking at the dreams preceding death she finds a number of recurrent symbolic themes - themes of vegetation, of a sinister or benevolent other, of a dark, narrow birth passage, or marriage with an unknown spouse, and of sacrifice. Von Franz sees in all these themes clear indication ts that death, while painful, is also the start of a new form of being. She says "all the dreams of people who are facing death indicate that the unconscious, that is, our instinctual world, prepares consciousness not for a definite end but for a profound transformation and for a kind of continuation of the life process (156).</p>
+
+<p>Regarding the specific question of whether dreams in which dead people appear are actual "visitations" or instead reflect the psychological forces of the dreamer's own mind, von Franz tends toward the latter response. She says "I have confined myself to an occasional reference to the archetypal symbolism of these phenomena, without discussing the question of their 'reality'" (p. xiv). At the same time, however, she does grant that such dreams could in fact be the dead person "really" appearing in the dreams. Indeed, she notes that Jung himself at times interpreted such dreams as involving the "objective" reality of the dead person.</p>
+
+<p>On this particular issue, I don't think von Franz helps us very much. We're still left, it seems, with the question of whether these dreams are really visitations or only psychological projections - or are we? Is that truly the only way to frame our experience of such dreams? Might that question lock us into a debate that distracts us from other valuable and important aspects of those dreams?</p>
+
+<p>About five years ago, my grandmother - we always called her "Gram" - died. A few months after her death I had a profoundly moving dream of her, one that still today shapes the way I live my life.</p>
+
+<blockquote>
+  <p><em>In the dream I'm playing on the lacrosse team (as I did in college) again. To my great surprise and pleasure, I'm playing very well. I talk with the coach and ask if I can rejoin the team, and he agrees I can. Gram comes and calls me to eat. I start to introduce her to the coach when I realize, wait, isn't Gram dead? She gives me a big golden book on Hebrew philosophy; although I can see the title, I can't remember it when I wake up.</em></p>
+</blockquote>
+
+<p>So is this dream a "real" visitation or not ? Is it objective or subjective? Is it live or is it <a href="https://en.wikipedia.org/wiki/Memorex">Memorex</a>? As soon as I ask these questions, I <em>feel</em> that something is wrong, that such questions lead me away from the power of the dream.</p>
+
+<p>Gram's presence in my dream was <em>real</em>; it was as clear, as distinct, and it affected me as deeply as any waking, physical encounter I ever had with her. In that sense it wasn't "just psychological" if by that is meant something that represents energies in my own mind alone. I never felt my experiences with gram when she was physically alive were "just psychological", and I don't feel my dream experience with her was either.</p>
+
+<p>But I also don't feel comfortable saying the dream involved a "visitation" by Gram, if that is to mean she is a disembodied spirit traveling about the astral plane paying social calls. I have had very few dreams of dead people, and none with as much force as this one of gram. I feel that she came in my dream because she's so important to me that she remains alive for me/ No other dead person is so alive for me, and I don't know if she remains so alive for anyone else.</p>
+
+<p>What I <em>do</em> know is how powerful an effect this dream had on me. It's only since her death, and since that dream of her, that I've come to realize how important an influence gram is in my life. She was a very sensitive and caring woman who loved the arts, who believed firmly in progressive political causcs, and who radiated a serene, gentle spirituality. Yes, she is dead now - that's what I have to realize in the dream: she can't be there physically to cheer me on. But at the same time, her physical death does not mean she is no longer alive for me. On the contrary, she is still a vital presence in my life, nourishing me, giving me wisdom, sharing my joys and my pains. It is an indescribably strong source of confidence and happiness for me that I know I am making Gram proud of me. My dream of Gram affected my life, and this is what seems most important about it.</p>
+
+<p>I'm not trying to duck the issue of visitation vs. projection, for that question gets at a truly significant issue: do humans continue to have some sort of existence after physical death? My own feeling is yes, we do, and our dreams of dead people do relate somehow to that post-mortal existence. If I was pushed, I would also say that what continues to live after death has to do with the emotional and spiritual bonds we develop in our worldly life; that would be why our most numinous dreams of the dead would be of our loved ones, like my dream of Gram. But again, I feel that such speculations too easily lead us away from the most valuable qualities of these dream expe riences. Trying to prove that spirits, or dream figures are actually present is still playing the old rationalist game of trying to organize the world into what is true and what is false. Perhaps others who have had dreams like mine of Gram would agree that such dreams resist any clear-cut categorizations; rather, the dreams lead one to ponder the much more evocative question of how the dead continue to affect, enrich, and guide our lives.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvbulk ;
+    ns1:hasTag ns1:bcphbovuijt,
+        ns1:bcphbqvbulk ;
+    ns1:hasTopic ns1:bcpovcretdb ;
+    ns1:inIssue ns1:bcphbovuijt ;
+    ns1:itemId "bcpqv5glodad"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: On Dreams and Death by Marie-Louise von Franz"^^xsd:string ;
+    ns1:profileImg "on_dreams_and_death.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
+    ns1:urlSlug "the-satanic-verses-rushdie-book-review"^^xsd:string .
+
 ns1:bcsoz6ziaacr a ns1:Post ;
     ns1:dateCreated "2002-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/bogzaran-response-1.jpg" alt="gallery interior view" width="400" height="auto"/></p>
@@ -22324,21 +22368,6 @@ ns1:bcphbolab5r a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "9.2"^^xsd:string .
 
-ns1:bcphbovuijt a ns1:Post ;
-    ns1:coverImg "9.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1990-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.4-Dream-Network-Journal-Vol-9-No-4.pdf" download="">Download issue 9.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.4-Dream-Network-Journal-Vol-9-No-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoanijcm ;
-    ns1:itemId "bcphbovuijt"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 9, issue 4: Dreams as Gateways to the 'Other Side'"^^xsd:string ;
-    ns1:profileImg "9.4-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "9.4"^^xsd:string .
-
 ns1:bcphbq3gong a ns1:User ;
     owl:sameAs "http://heartofthedream.com/about.htm"^^xsd:string,
         "https://www.linkedin.com/in/robert-gongloff-796b487/"^^xsd:string ;
@@ -23346,6 +23375,21 @@ ns1:bcphbohoqoq a ns1:Post ;
     ns1:profileImg "9.1-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "9.1"^^xsd:string .
+
+ns1:bcphbovuijt a ns1:Post ;
+    ns1:coverImg "9.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1990-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.4-Dream-Network-Journal-Vol-9-No-4.pdf" download="">Download issue 9.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_9/9.4-Dream-Network-Journal-Vol-9-No-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoanijcm ;
+    ns1:itemId "bcphbovuijt"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 9, issue 4: Dreams as Gateways to the 'Other Side'"^^xsd:string ;
+    ns1:profileImg "9.4-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "9.4"^^xsd:string .
 
 ns1:bcphbp2b6gy a ns1:Post ;
     ns1:coverImg "11.3-cover.jpg"^^xsd:string ;
@@ -24821,24 +24865,6 @@ ns1:bcphbqschul a ns1:User ;
     ns1:name "Jeanne Schul"^^xsd:string ;
     ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
 
-ns1:bcphbqvbulk a ns1:User ;
-    owl:sameAs "https://bulkeley.org/about-kelly-bulkeley/"^^xsd:string,
-        "https://sleepanddreamdatabase.org/"^^xsd:string,
-        "https://twitter.com/KellyBulkeley"^^xsd:string ;
-    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://sleepanddreamdatabase.org/">sleepanddreamdatabase.org</a></p>
-
-<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion. He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal <a href="https://www.apa.org/pubs/journals/drm/">Dreaming</a>, and a former President of the International Association for the Study of Dreams. He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School. He is author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018). He lives in Portland, Oregon.</p>
-"""^^xsd:string ;
-    ns1:handle "kellybulkeley"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://bulkeley.org/about-kelly-bulkeley/>,
-        <https://www.dannykennedy.co/dnj-ontology#https://sleepanddreamdatabase.org/>,
-        <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/KellyBulkeley> ;
-    ns1:itemId "bcphbqvbulk"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Kelly Bulkeley"^^xsd:string ;
-    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
-
 ns1:bcpovcrediv a ns1:Topic ;
     ns1:coverImg "cover-theme-dream-interviews.jpg"^^xsd:string ;
     ns1:description """<p>This page gathers together all the interviews with dreamers, dream authors and dreamworkers that have appeared in the Dream Network Journal over the years.</p>
@@ -24868,6 +24894,26 @@ ns1:bcphbq3rpac a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Paco Mitchell"^^xsd:string ;
     ns1:profileImg "author-paco.jpg"^^xsd:string .
+
+ns1:bcphbqvbulk a ns1:User ;
+    owl:sameAs "https://bulkeley.org/about-kelly-bulkeley/"^^xsd:string,
+        "https://sleepanddreamdatabase.org/"^^xsd:string,
+        "https://twitter.com/KellyBulkeley"^^xsd:string ;
+    ns1:coverImg "cover-author-kelly-bulkeley.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://sleepanddreamdatabase.org/">sleepanddreamdatabase.org</a></p>
+
+<p>Kelly Bulkeley, Ph.D., is a dream researcher and author with a background in the psychology of religion. He is director of the <a href="http://sleepanddreamdatabase.org/">Sleep and Dream Database (SDDb)</a>, a Senior Editor of the APA journal <a href="https://www.apa.org/pubs/journals/drm/">Dreaming</a>, and a former President of the International Association for the Study of Dreams. He earned a B.A. at Stanford University, an M.T.S. at Harvard Divinity School, and a Ph.D. from the University of Chicago Divinity School. He is currently an advisor to the <a href="https://elsewhere.to/">Elsewhere</a> dream journal app and is building the <a href="https://thedreamlibrary.net/">Dream Library Foundation</a>.</p>
+
+<p>He is the author and editor of several books, including <a href="https://www.goodreads.com/book/show/1503725.The_Wilderness_of_Dreams">The Wilderness of Dreams</a> (State University of New York Press, 1994), <a href="https://www.goodreads.com/book/show/2067859.An_Introduction_to_the_Psychology_of_Dreaming">An Introduction to the Psychology of Dreaming</a> (1997) <a href="https://www.goodreads.com/en/book/show/1861780.Dreaming_Beyond_Death">Dreaming Beyond Death</a> (Beacon, 2006), <a href="https://www.goodreads.com/book/show/8180959-american-dreamers">American Dreamers</a> (Beacon, 2008), <a href="https://www.goodreads.com/book/show/3808895-dreaming-in-the-world-s-religions">Dreaming in the World’s Religions</a> (New York University Press, 2008), <a href="https://www.goodreads.com/book/show/18291769-lucid-dreaming-2-volumes">Lucid Dreaming</a> (ABC-Clio, 2014), <a href="https://www.goodreads.com/book/show/26700531-big-dreams">Big Dreams: The Science of Dreaming and the Origins of Religion</a> (Oxford University Press, 2016), and <a href="https://www.goodreads.com/book/show/36962964-lucrecia-the-dreamer">Lucrecia the Dreamer: Prophecy, Cognitive Science, and the Spanish Inquisition</a> (Stanford University Press, 2018). He lives in Estacada, Oregon.</p>
+"""^^xsd:string ;
+    ns1:handle "kellybulkeley"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://bulkeley.org/about-kelly-bulkeley/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://sleepanddreamdatabase.org/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://twitter.com/KellyBulkeley> ;
+    ns1:itemId "bcphbqvbulk"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Kelly Bulkeley"^^xsd:string ;
+    ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
 
 ns1:bcphbqvcors a ns1:User ;
     owl:sameAs "http://bambicorso.com/about-me/"^^xsd:string,

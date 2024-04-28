@@ -11,7 +11,7 @@ tags:
     - hasTopic: topic~dream-books
 type: post
 subType: Review
-urlSlug: "the-satanic-verses-rushdie-book-review"
+urlSlug: "on-dreams-and-death-franz-review"
 profileImg: on_dreams_and_death.jpg
 about:
     - type: Book

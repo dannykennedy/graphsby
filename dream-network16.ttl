@@ -19898,7 +19898,7 @@ ns1:bcpqv5glodad a ns1:Post ;
     ns1:name "Book Review: On Dreams and Death by Marie-Louise von Franz"^^xsd:string ;
     ns1:profileImg "on_dreams_and_death.jpg"^^xsd:string ;
     ns1:subType "Review"^^xsd:string ;
-    ns1:urlSlug "the-satanic-verses-rushdie-book-review"^^xsd:string .
+    ns1:urlSlug "on-dreams-and-death-franz-review"^^xsd:string .
 
 ns1:bcsoz6ziaacr a ns1:Post ;
     ns1:dateCreated "2002-03-01T11:32:52"^^xsd:dateTime ;

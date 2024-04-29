@@ -8,6 +8,7 @@ tags:
     - hasAuthor: bambicorso
     - hasTag: kimbirdsong
     - hasAuthor: kimbirdsong
+    - hasTag: robertmoss
     - hasTag: 24.2
     - inIssue: 24.2
     - hasTopic: topic~dream-books

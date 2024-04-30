@@ -10,7 +10,7 @@ tags:
     - inIssue: 2.5
 type: post
 urlSlug: "dreams-are-for-forgetting"
-profileImg: post-bcpoz6mldaff-0.jpeg
+profileImg: post-bcpoz6htayod-0.jpg
 ---
 
 How you should analyze your own dreams depends on what you dream about. For example, I dream often of National Parks and nature preserves. The way for me to analyze these dreams is the same way I would analyze a mangrove swamp in the Everglades National Park if I were walking along a boardwalk. I wouldn't want to disturb the natural exuberance there, in any way be interfering with it and I wouldn't want to pollute it when I leave it behind. I want it to exist as it has always existed, forever, eternal, a refuge for forms of consciousness that have been all but crowded out of existence anywhere else in my being or in the world. I want to protect it and revel in its awe. The best way to analyze this sort of dream is to lie in bed upon awakening and taste and touch all its life in your memory until, if you are lucky, you end up slipping back into the dream again. But how wonderful! Now you're in a different part of the park. Now you're on the board walk through the hard wood hammock. Now the life around you and the feelings are entirely different. You've entered into a different environment of yourself and when you awaken again you can return to savor all its images and feelings in your memory. You can repeat this cycle again and again returning to the dream as many times as you need or, more realistically, as many as time will permit. Each transit is a stitch reconnecting your waking consciousness with some natural part of yourself. Each stitch will tie you closer for that whole subsequent day to what is most naturally you. So it'll be a successful day because doing what comes most natural to you, you do it very well.
@@ -19,7 +19,7 @@ Unfortunately we often play tricks on ourselves and feel we're wasting time when
 
 But the point is: in the present moment we often deny ourselves what comes natural to us and is therefore good for us because of external pressures that are too great for us to satisfy because we are being unnatural. It's like one of those R.D. Laing knots:
 
-![](https://cdn.mathpix.com/cropped/2024_04_30_7aab098f5e6e263a7e4ag-05.jpg?height=230&width=590&top_left_y=129&top_left_x=754)
+![](../images/post-bcpoz6htayod-0.jpg)
 
 Which can translate to: "I'm not being natural _and_ I fail" and which can be broken out of by being natural in everything you do and therefore becoming a success. Being natural means being yourself, true to your feelings and not the feelings that are expected of you. This is what makes it hard: because people expect us to be something we aren't. My professor expected me at 19 to be more interested in calculus than in girls. I tried but there were so many pretty girls in my class I ended up spending the time drawing nude women's bodies secretly in my notebook. Hundreds of them. I never did too well in calculus. I'd probably have done lots better though in that class if I'd gotten to know one of those girls. But no, I was too busy studying calculus for that...or trying to.
 

@@ -8,6 +8,7 @@ shortDescription: ""
 tags:
 date: 2022-10-21
 profileImg: author-curtiss-hoffman.jpg
+coverImg: cover-image-curtiss-hoffman.jpg
 websites:
     - name: Bridgewater University academic profile
       url: https://www.bridgew.edu/person/dr-curtiss-hoffman

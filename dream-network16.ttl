@@ -17933,6 +17933,53 @@ ns1:bcpox5dsrtdt a ns1:Post ;
     ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "dreamwork-software-review-the-dream-toolbox"^^xsd:string .
 
+ns1:bcpoy2htdfsa a ns1:Post ;
+    ns1:dateCreated "2006-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpoy2htdfsa-0.jpg" width="180"/></p>
+
+<p>I got this email from <a href="../@chrishudson">Chris Hudson</a>, a former editor and publisher of Dream Network who now lives in Bellingham, Washington:</p>
+
+<blockquote>
+  <p><em>"I found a tiny pink orchid on my walk through the forest today. About 2 inches high. Someone I met called it a Calypso."</em></p>
+</blockquote>
+
+<p>I clicked on the digital image he sent. From across the Pacific Ocean, a delicate little wildflower from Washington State appeared on my computer screen here in Taiwan. As I studied it, my computer rang. It was Chris calling on Skype. Because I used to know about orchids a long time ago, he hoped I might help him further identify the flower. As we talked, I googled and came up with a picture of <a href="https://en.wikipedia.org/wiki/Calypso_bulbosa"><em>Calypso bulbosa</em></a> on <a href="http://lensjoy.com/gallery/23.htm">lensjoy.com</a>, the website of a nature photographer. I couldn't make a positive match between the two pictures.</p>
+
+<p>A few minutes after we signed off, a second e-mail arrived from Chris. He said his orchid was <em>Calypso bulbosa</em> and provided the link he'd used to make the identification. He also attached a better photo of his flower. This picture did resemble the flower I'd seen on the internet. I clicked on the site he sent. It turned out to be the same one I'd come up with. Chris's new photo matched. The mystery was solved. Just to be sure, I clicked around various botanical sites. Sure enough, his flower was <em>Calypso bulbosa</em> (L.) Ames, the fairy slipper orchid. Very closely related to Cypripedium, the lady slipper orchid, Calypso is a genus with only one species, palearctic in distribution. The same little orchid Chris found in the woods of Washington State is reported to extend all the way south to Arizona in the mountains of the western United States. It surprised me to find that such a widespread orchid had been put on a list of plants facing the danger of global extinction.</p>
+
+<p>The problem is that orchid enthusiasts dig the little plants up from the forest and take them home to their garden, where they usually die. In fact, there is a growing illegal international trade in the orchid, even though this is a species that generally dies if dug up from the forest floor and transplanted elsewhere. The little orchid depends for its survival on a relationship it has with certain fungi in the soil of the old growth forest. Without the forest, it cannot survive. It doesn't exist as a thing alone, the orchid "plant" that we see, but like the alga and the fungus that together make up a lichen, it is an organism in partnership with another. To rip it apart from its other half and take it out of the forest is to kill it.</p>
+
+<p>Here is a treasure of a species, widespread around the world in the northern latitudes. It's well adjusted to its environment. All it requires is to be left in contact with its hidden partner.</p>
+
+<p>Everything else it can do on its own. It has what it needs in its underground connection that unites it to the forest all around and enables it to draw life out of thin air.</p>
+
+<p>Like this little orchid, we too exist in relationship to something unseen and that something of ours also sustains us and unites us in the most amazing fashion with what's all around. We have our underground connection, our hidden partner, and can draw from that relationship what we need to survive. Unlike the orchid's partner, though, ours is not so easily named - although men down through the ages have never tired of giving it names. To this day, they fight and slaughter one another over these names.</p>
+
+<p>Not only are we at a loss to name our intangible and transcendent counterpart but, if the truth be told, we have no way of even conceiving what it is. The mycelia of a fungus can be viewed under a microscope and identified down to species, but we have no instrument to view what some belief systems call God Almighty, and others The Creative Unconscious. Emerson had his Oversoul; Burke his Cosmic Consciousness. Whether it's Enlightenment, The Tao, Buddha Nature, Jehovah or Allah - if we call it Shiva or Vishnu - one thing is certain: there are almost as many concepts of what it is as there are individuals who have directly experienced it. The Buddhist notion of Emptiness is particularly apt because it acknowledges openly the truth found in the root core of every great tradition - this that we are linked to on the inside cannot be grasped by the conceptualizing mind. It pours forth of its own accord - an instant can be enough to change a life, or the course of a civilization. About it we know not how, why or what. But through it we are made to know ourselves and everything else in a truer way.</p>
+
+<p><img src="../images/post-bcpoy2htdfsa-1.jpg" width="300"/></p>
+
+<p>Just as anyone can tell a prettily flowering and living fairy slipper plant from a wilting and dead one-when that which we are connected with courses freely through us everyone can see the deep human joy in our shining face and happy, helpful manner. Everywhere we walk, things bloom-wounds are healed, lives are mended. A blossoming and living Prophet with such characteristics developed to a supremely higher and more exquisite degree than many of us will likely see in our lifetime - gave rise to each of the great belief systems. They all started at this point of immense truth.</p>
+
+<p>And yet something clearly went wrong as the wisdom teachings of these great masters made their way down through the millennia to us. They started out being based on direct contact with the other half. Then they passed through generation after generation of individuals who twisted this into ideology. It all came out on this end as systems of belief in things that are supernatural and can't be proven. Each tradition started out celebrating a connection that is real and that can be directly experienced but over time each came to be about a body of beliefs that can't be experienced and that isn't real.</p>
+
+<p>This would be fine and well, except that we are a species like the fairy slipper in this one respect: We don't survive being transplanted into situations that do not afford authentic connection with our other half. Dogma, brainwashing and acquired belief systems don't do the trick. You can see in the West, in Islam, in China-everywhere-without the real connection, we are not just incomplete; we are inhuman.</p>
+
+<p>If I could sum up in a few words what I think <a href="../@montagueullman">Montague Ullman's</a> greatest contribution has been, it's that he provided us a way to connect with what's most real in ourselves just by using our simple everyday dreams. His way of working with dreams differs from so many others in that it bypasses all the dogmas and belief systems-religious, professional and metaphysical-that in today's world tend to get in the way of truth perhaps more often than they lead to it.</p>
+
+<p><img src="../images/post-bcpoy2htdfsa-0.jpg" width="180"/></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvstim ;
+    ns1:hasTag ns1:bcphbqvstim,
+        ns1:bcphbw4yscz ;
+    ns1:hasTopic ns1:bcphbqflull ;
+    ns1:inIssue ns1:bcphbw4yscz ;
+    ns1:itemId "bcpoy2htdfsa"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Fairy Slipper Orchid - a homage to Montague Ullman, M.D."^^xsd:string ;
+    ns1:profileImg "post-bcpoy2htdfsa-0.jpg"^^xsd:string ;
+    ns1:urlSlug "fairy-slipper-orchid-homage-montague-ullman"^^xsd:string .
+
 ns1:bcpoy6htdatt a ns1:Post ;
     ns1:dateCreated "1983-02-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>In my mind there is no doubt that dreamwork is a supreme tool for developing the modalities of consciousness necessary if a novelist is to become a master of his art and a successful human being. Writing a novel, for me, is identical to working with a dream, only it is a very much more advance. process for, in a very real sense, it entails working with all your dreams at once. Becoming a novelist has been an especially hard task for a person like me. Because it has meant I had to learn how to be. Your level of creativity and genius is a direct function of how well you are able to learn how to be. Be what? Yourself, of course. Fully yourself.</p>
@@ -23983,23 +24030,6 @@ ns1:bcphbuzcgu3 a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "20.4"^^xsd:string .
 
-ns1:bcphbw4yscz a ns1:Post ;
-    ns1:coverImg "25.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2006-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.2_monte_ullman.pdf" download="">Download issue 25.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.2_monte_ullman.pdf">View online</a></p>
-
-<p>This is a tribute issue dedicated to <a href="../@montagueullman">Monte Ullman</a>.</p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqob4y4gj ;
-    ns1:hasTopic ns1:bcphbqflull ;
-    ns1:itemId "bcphbw4yscz"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 25, issue 2: A Tribute to Monte Ullman"^^xsd:string ;
-    ns1:profileImg "25.2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "25.2"^^xsd:string .
-
 ns1:bcphbx7d7cu a ns1:Post ;
     ns1:coverImg "27.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2008-10-01T11:32:52"^^xsd:dateTime ;
@@ -24530,6 +24560,23 @@ ns1:bcphbvecgmx a ns1:Post ;
     ns1:profileImg "21.4-22.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "21.4-22.1"^^xsd:string .
 
+ns1:bcphbw4yscz a ns1:Post ;
+    ns1:coverImg "25.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2006-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.2_monte_ullman.pdf" download="">Download issue 25.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.2_monte_ullman.pdf">View online</a></p>
+
+<p>This is a tribute issue dedicated to <a href="../@montagueullman">Monte Ullman</a>.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqob4y4gj ;
+    ns1:hasTopic ns1:bcphbqflull ;
+    ns1:itemId "bcphbw4yscz"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 25, issue 2: A Tribute to Monte Ullman"^^xsd:string ;
+    ns1:profileImg "25.2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "25.2"^^xsd:string .
+
 ns1:bcphbwv4jtr a ns1:Post ;
     ns1:coverImg "24.4-25.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2005-10-01T11:32:52"^^xsd:dateTime ;
@@ -25035,28 +25082,6 @@ ns1:bcphbqfgreg a ns1:User ;
     ns1:name "Jill Gregory"^^xsd:string ;
     ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
 
-ns1:bcphbqflull a ns1:User ;
-    owl:sameAs "https://siivola.org/monte/"^^xsd:string ;
-    ns1:coverImg "cover-author-montagueullman.jpeg"^^xsd:string ;
-    ns1:description """<p>Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
-
-<p>More information on Montague Ullman and selected writings on Judy Gardiner's website, <a href="http://www.cosmicdreaming.com/meetdrullman.html">cosmicdreaming.com</a></p>
-
-<p>Montague Ullman (1916 – 2008) was a renowned psychiatrist, psychoanalyst and parapsychologist who founded the Dream Laboratory at the Maimonides Medical Center in Brooklyn, New York and for over three decades promoted public interest in dreams and dream sharing groups. He published around 20 articles in the Dream Network, several of which were first published here.</p>
-
-<p>These writings are reproduced with the permission of <a href="http://www.cosmicdreaming.com/abouttheauthor.html">Judy Gardiner</a>, Literary Executor, Estate of Montague Ullman. Profile image by Judy Gardiner - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=17845039">commons.wikimedia.org</a></p>
-
-<p><em>The following papers are under different copyrights. Their content may not be copied or e-mailed to multiple sites or posted to listservers without the copyright holder's express written permission. However, users may print, download or email articles for individual use.</em></p>
-
-<p><em>Cover image adapted from the cover of Ullman's book, <a href="https://www.ebay.com/itm/295332267596">Working with Dreams</a></em></p>
-"""^^xsd:string ;
-    ns1:handle "montagueullman"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://siivola.org/monte/> ;
-    ns1:itemId "bcphbqflull"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Montague Ullman"^^xsd:string ;
-    ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
-
 ns1:bcphbqsorna a ns1:User ;
     owl:sameAs "https://www.ben-shoshan.com/en/"^^xsd:string ;
     ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;
@@ -25091,6 +25116,28 @@ ns1:bcphbyukqzw a ns1:Post ;
     ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "29.3"^^xsd:string .
+
+ns1:bcphbqflull a ns1:User ;
+    owl:sameAs "https://siivola.org/monte/"^^xsd:string ;
+    ns1:coverImg "cover-author-montagueullman.jpeg"^^xsd:string ;
+    ns1:description """<p>Archive of Montague Ullman's writings on dreams, compiled by Markku Siivola: <a href="https://siivola.org/monte/">siivola.org/monte</a></p>
+
+<p>More information on Montague Ullman and selected writings on Judy Gardiner's website, <a href="http://www.cosmicdreaming.com/meetdrullman.html">cosmicdreaming.com</a></p>
+
+<p>Montague Ullman (1916 – 2008) was a renowned psychiatrist, psychoanalyst and parapsychologist who founded the Dream Laboratory at the Maimonides Medical Center in Brooklyn, New York and for over three decades promoted public interest in dreams and dream sharing groups. He published around 20 articles in the Dream Network, several of which were first published here.</p>
+
+<p>These writings are reproduced with the permission of <a href="http://www.cosmicdreaming.com/abouttheauthor.html">Judy Gardiner</a>, Literary Executor, Estate of Montague Ullman. Profile image by Judy Gardiner - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=17845039">commons.wikimedia.org</a></p>
+
+<p><em>The following papers are under different copyrights. Their content may not be copied or e-mailed to multiple sites or posted to listservers without the copyright holder's express written permission. However, users may print, download or email articles for individual use.</em></p>
+
+<p><em>Cover image adapted from the cover of Ullman's book, <a href="https://www.ebay.com/itm/295332267596">Working with Dreams</a></em></p>
+"""^^xsd:string ;
+    ns1:handle "montagueullman"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://siivola.org/monte/> ;
+    ns1:itemId "bcphbqflull"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Montague Ullman"^^xsd:string ;
+    ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
 
 ns1:bcphbq3bogz a ns1:User ;
     owl:sameAs "https://faribabogzaran.com/narrative-bio"^^xsd:string,
@@ -25180,28 +25227,6 @@ ns1:bcphbqschul a ns1:User ;
     ns1:name "Jeanne Schul"^^xsd:string ;
     ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
 
-ns1:bcphbqvstim a ns1:User ;
-    owl:sameAs "https://www.facebook.com/william.stimson.75"^^xsd:string,
-        "https://www.youtube.com/user/billstimson"^^xsd:string ;
-    ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
-    ns1:description """<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
-
-<p>Dr. William R. Stimson is the founding editor of the Dream Network.</p>
-
-<p>Now living in Taiwan, Dr. Stimson teaches the <a href="../@montagueullman">Montague Ullman</a> experiential dream group course at Tunghai University and at National Chi Nan University, leads free monthly all-day Ullman dream groups in Taipei and Taichung, and leads a weekly Wednesday afternoon dream group in the Counseling Center at Taiwan's National Chi Nan University.</p>
-
-<p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
-
-<p>His latest book, <a href="https://www.amazon.com/Glimpses-Beyond-Ego-Dreams-Nature/dp/B08F6RYH8W/ref=sr_1_1?dchild=1&qid=1602155108&refinements=p_27%3A+Ph.D.%5CcWilliam+R.+Stimson&s=books&sr=1-1&text=William+R.+Stimson%2C+Ph.D.">Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature</a> is now available on Amazon.</p>
-"""^^xsd:string ;
-    ns1:handle "billstimson"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/william.stimson.75>,
-        <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/user/billstimson> ;
-    ns1:itemId "bcphbqvstim"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "William R. Stimson"^^xsd:string ;
-    ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
-
 ns1:bcpovcrediv a ns1:Topic ;
     ns1:coverImg "cover-theme-dream-interviews.jpg"^^xsd:string ;
     ns1:description """<p>This page gathers together all the interviews with dreamers, dream authors and dreamworkers that have appeared in the Dream Network Journal over the years.</p>
@@ -25251,6 +25276,28 @@ ns1:bcphbqvbulk a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Kelly Bulkeley"^^xsd:string ;
     ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
+
+ns1:bcphbqvstim a ns1:User ;
+    owl:sameAs "https://www.facebook.com/william.stimson.75"^^xsd:string,
+        "https://www.youtube.com/user/billstimson"^^xsd:string ;
+    ns1:coverImg "cover-author-bill-stimson.jpg"^^xsd:string ;
+    ns1:description """<p>YouTube: <a href="https://www.youtube.com/user/billstimson">youtube.com/user/billstimson</a></p>
+
+<p>Dr. William R. Stimson is the founding editor of the Dream Network.</p>
+
+<p>Now living in Taiwan, Dr. Stimson teaches the <a href="../@montagueullman">Montague Ullman</a> experiential dream group course at Tunghai University and at National Chi Nan University, leads free monthly all-day Ullman dream groups in Taipei and Taichung, and leads a weekly Wednesday afternoon dream group in the Counseling Center at Taiwan's National Chi Nan University.</p>
+
+<p>In New York City every summer he hosts a three-day Ullman Dream Group Leadership Community of Practice.</p>
+
+<p>His latest book, <a href="https://www.amazon.com/Glimpses-Beyond-Ego-Dreams-Nature/dp/B08F6RYH8W/ref=sr_1_1?dchild=1&qid=1602155108&refinements=p_27%3A+Ph.D.%5CcWilliam+R.+Stimson&s=books&sr=1-1&text=William+R.+Stimson%2C+Ph.D.">Glimpses From Beyond The Ego: Dreams, Zen, &amp; Nature</a> is now available on Amazon.</p>
+"""^^xsd:string ;
+    ns1:handle "billstimson"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/william.stimson.75>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/user/billstimson> ;
+    ns1:itemId "bcphbqvstim"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "William R. Stimson"^^xsd:string ;
+    ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
 
 ns1:bcphbqvcors a ns1:User ;
     owl:sameAs "http://bambicorso.com/about-me/"^^xsd:string,

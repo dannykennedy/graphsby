@@ -9,7 +9,7 @@ tags:
     - hasTag: 2.5
     - inIssue: 2.5
 type: post
-urlSlug: "dreams-are-for-forgetting"
+urlSlug: "how-to-analyze-your-own-dreams"
 profileImg: post-bcpoz6htayod-0.jpg
 ---
 

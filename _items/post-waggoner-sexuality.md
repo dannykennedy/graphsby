@@ -8,7 +8,7 @@ tags:
     - hasAuthor: robertwaggoner
     - hasTag: 19.2
     - inIssue: 19.2
-    - hasTag: "lucid dreaming"
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: lucid-dreaming-transformational-potential
 profileImg: post-bcpov6zlucse-0.jpg

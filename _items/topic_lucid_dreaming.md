@@ -20,9 +20,7 @@ sameAs:
 
 One of the most sought after and highly prized levels of awareness within the dream state is known as lucid dreaming. In this case the dreamer is aware of dreaming while dreaming, thereby able to enter consciously into the dream reality, opening up a whole new world of possibilities.
 
-My interest in lucid dreaming began 12 years ago when I read Ann Faraday's _Dream Power_ which devoted a small section to the topic of lucid dreaming. The idea that I could feel awake and aware while asleep and dreaming revolutionized my attitude toward dreams and seemed to open my dream world to me in a new and powerful way. Within a couple of months I had my first lucid dream, a dream which introduced me to one application for lucidity, the ability to encounter nightmares from a more empowered position.
-
-In this article I would like to share with you some of the things I have learned about lucidity; for example, levels and types, applications, and ways to encourage and maintain the lucid dream state. I'll begin by describing levels of awareness in the dream preceding actual dream lucidity. These dreams can indicate a movement toward increasing levels of lucidity.
+I would like to share with you some of the things I have learned about lucidity; for example, levels and types, applications, and ways to encourage and maintain the lucid dream state. I'll begin by describing levels of awareness in the dream preceding actual dream lucidity. These dreams can indicate a movement toward increasing levels of lucidity.
 
 ## Degrees of lucidity
 

@@ -15739,7 +15739,6 @@ ns1:bcpov6zincep a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3bogz ;
     ns1:hasTag ns1:bcphbq3bogz,
         ns1:bcphbyukqzw ;
-    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbyukqzw ;
     ns1:itemId "bcpov6zincep"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -15887,6 +15886,7 @@ ns1:bcpov6zlucse a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3wagg ;
     ns1:hasTag ns1:bcphbq3wagg,
         ns1:bcphbugth7l ;
+    ns1:hasTopic ns1:bcpovcretld ;
     ns1:inIssue ns1:bcphbugth7l ;
     ns1:itemId "bcpov6zlucse"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -24584,9 +24584,7 @@ ns1:bcpovcretld a ns1:Topic ;
 
 <p>One of the most sought after and highly prized levels of awareness within the dream state is known as lucid dreaming. In this case the dreamer is aware of dreaming while dreaming, thereby able to enter consciously into the dream reality, opening up a whole new world of possibilities.</p>
 
-<p>My interest in lucid dreaming began 12 years ago when I read Ann Faraday's <em>Dream Power</em> which devoted a small section to the topic of lucid dreaming. The idea that I could feel awake and aware while asleep and dreaming revolutionized my attitude toward dreams and seemed to open my dream world to me in a new and powerful way. Within a couple of months I had my first lucid dream, a dream which introduced me to one application for lucidity, the ability to encounter nightmares from a more empowered position.</p>
-
-<p>In this article I would like to share with you some of the things I have learned about lucidity; for example, levels and types, applications, and ways to encourage and maintain the lucid dream state. I'll begin by describing levels of awareness in the dream preceding actual dream lucidity. These dreams can indicate a movement toward increasing levels of lucidity.</p>
+<p>I would like to share with you some of the things I have learned about lucidity; for example, levels and types, applications, and ways to encourage and maintain the lucid dream state. I'll begin by describing levels of awareness in the dream preceding actual dream lucidity. These dreams can indicate a movement toward increasing levels of lucidity.</p>
 
 <h2>Degrees of lucidity</h2>
 

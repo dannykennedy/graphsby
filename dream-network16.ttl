@@ -1248,6 +1248,51 @@ ns1:bcpov4kchstm a ns1:Post ;
     ns1:name "Honouring Stan the Man"^^xsd:string ;
     ns1:urlSlug "honouring-stan-the-man"^^xsd:string .
 
+ns1:bcpov5modhtd a ns1:Post ;
+    ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://dreamsynergy.com/honoring-the-dream/"><img src="../images/new-honoring-home-sized.png" width="300" alt="cover"/></a><!--nopreview--><div style="text-align:center" class="caption">Honoring the Dream: A Handbook for Dream Group Leaders by Justina Lasley, M.A. (Transpersonal Psychology)</div><!--/nopreview--></p>
+
+<blockquote>
+  <p><em>“In order to lead, you must be out in front, clearing a path for yourself and the group.”</em> (Lasley, J., Honoring the Dream, p. 183)</p>
+</blockquote>
+
+<p>Remember the late 1970’s and early 1980’s, when the concept of working with dreams was moving from the purview of professionals into the everyday world of you and me? There was even some controversy at the time regarding whether or not ‘untrained lay people’ could effectively work with their own dreams, and whether or not they should be ‘allowed’ to work with other people’s dreams.</p>
+
+<p>The more forward-seeing and radical members of the dream community were letting proverbial cats out of proverbial bags, sharing their experiences, creating/exploring new techniques, teaching non-professionals (i.e., us), what they knew and learned about how to work with one’s own (and other’s) dreams. Their names fill our <a href="../topic~dream-books">bookshelves</a> and workshop notes: <a href="../@montagueullman">Ullman</a>, <a href="../@stanleykrippner">Krippner</a>, <a href="../@jeremytaylor">Taylor</a>, Delaney, Garfield, <a href="../@henryreed">Reed</a>, <a href="../@bobvandecastle">Van De Castle</a>, LaBerge, etc. We looked to them for advice and guidance, not only with our own dreams, but also with the dreams of friends and family. There was much to learn, and learn we did.</p>
+
+<p>We joined <a href="../topic~dreamsharing-groups/">dream groups</a>. If there were no dream groups nearby, we started our own — posting flyers, placing ads, telling others about dreams—and so groups sprouted in many shapes and sizes. We met in private homes, libraries, and metaphysical bookstores. Some groups used a favorite book as their guide. Others focused on the techniques/ideas of a particular author. Some had designated leaders while others rotated or shared the leadership role. There were even groups without formal leadership. And with groups came all the logistical issues – how many people should a group have? Can anyone drop in at any time, or is it a closed group? When can new people join? How long should each meeting last? What format is good to use? Should there be a fee? What if someone can’t pay? How do you bring up the topic of confidentiality? How much personal information should a leader share about her own dreams? Most of us were new at this group leader thing, and so it was that, whatever guidelines were established (formally or informally), sooner or later, something would happen and the group would fall apart. Maybe interpersonal issues negatively affected group dynamics. Perhaps disagreements continually arose over how the group should be conducted, or one person hogged all the time or told personal revelations to others not in the group. Sometimes jealousies or power struggles (overt and not so overt) splintered a group. These reasons, and others, could lead to the sudden disbanding or gradual dissolution of a group.</p>
+
+<p>But we wanted to work with dreams and because we were optimistic, we tried again. And again. We formed new groups, created workshops and classes, subscribed to <em>Dream Network</em> and other publications, got involved to the extent that we were able with organizations such as the Association for the Study of Dreams. Sometimes we got better at this dream group leader thing; sometimes we didn’t. Still, collectively, we had a lot of wisdom about how to conduct a dream group – what worked, what didn’t, what information we provided as handouts to participants, what guidelines proved helpful (and/or necessary), how to address different situations that arose during the course of a group. Collectively, we knew a lot. But it was scattered among many dream group leaders/facilitators — individual nodes in the dreaming brain. And then the ‘80’s became the ‘90’s, times changed, and now it is a new century. How many groups from those early days are still going today? And how many more might still be going if a book like Justina Lasley’s <em>Honoring the Dream</em> had been available back then?</p>
+
+<p><img src="../images/post-bcpov5modhtd-0.jpg" width="300" alt="advertisement for the book"/></p>
+
+<p><em>Honoring the Dream: A Handbook for Dream Group Leaders</em> reads like a window into the collective wisdom of dream group leaders from the last 35+ years, sorted, summarized, and artfully condensed. It does not labor at being exhaustively comprehensive in scope nor excessively focused on detail, yet many dream group leaders will smile in recognition at more than a little of what’s in this book. For example: What is an ideal size for an effective dream group? When/ how are guidelines presented and are they negotiable? If you’ve encountered a recurring issue in a group and were stymied about how to handle it – the person who never speaks up, for instance, or the one who interrupts constantly– you’ll find examples, suggestions, and gentle support for addressing these (and other) common situations. Each chapter concentrates on a particular aspect of facilitating a dream group (starting with Chapter One: ‘On Being a Dream Group Leader’), and the many practical matters associated with a dream group. The book’s format allows plenty of room for additional personal notes, comments, thoughts, and ideas.</p>
+
+<p>From the first step out in front as leader (shared or solo), <em>Honoring the Dream</em> progresses with easy logic (and descriptive chapter titles for quick reference), to each subsequent step in the process of creating and conducting a dream group. And if creating dream workshops appeals to you, Lasley covers that topic in very useful and practical terms as well, approaching it with the same attention to logistical matters as she does with on-going groups while touching on special considerations related to the workshop format.</p>
+
+<p>Lasley speaks to practical logistics (location, duration, fees, etc.) and more specific issues (group guidelines, confidentiality, meeting format...), as well as touching on how and why people change and the role of dreams in that process. She also directly addresses the topic of group dynamics. It can be easy to forget that the group itself has a dynamic—a life—of its own. She devotes an entire chapter to group problem solving, acknowledging that “dreamwork cannot be done effectively if other issues are pressing [on the group]”, and offers a sensible and understandable overview (with examples and suggestions) of this very important and often neglected aspect of working with a dream group. She even addresses the question of how much a leader shares regarding her own story/personal dreamwork. Sharing one’s own experience opens the way for others and helps establish/build trust in the dreamwork process. But a dream group leader must also remain aware of the larger context/process in a way that other members of the group do not need to focus on. Among other responsibilities, a leader sets the general tone for the whole group, keeps track of time more consciously, brings the group back to the dream if sidetracks and digressions lead too far from the focus, chooses (at least initially) which techniques/exercises to use, demonstrates/teaches variations, etc. Other group members may do this as well, but these are part and parcel of the leadership role in ongoing groups and dream workshops.</p>
+
+<p>As in any basic book on working with dreams, there’s the requisite chapter on how to increase dream recall and a selection of techniques to use alone or in a group. But Lasley’s chapters on ‘Exploring Dreams’ and ‘Going for the Gold’ (dream exercises and techniques) are particularly wonderful, especially as a ‘starter kit’ for anyone new to (or out of practice in) leading a dream group. It’s here that you’ll find a dim sum delight of dreamwork tools from a variety of formal and informal modalities, a number of which will be familiar to long-time dreamworkers. From analyzing the structure and language of dreams, to techniques using drawing, movement, theatre/dream drama, collage, and clay, to focusing on emotions and body sensations, to concepts and techniques from Jung, Gestalt and Transactional Analysis they’re collected and indexed for quick and easy access. The focus of these exercises is ‘everything in the dream is some aspect of the dreamer’, and you won’t find every single technique ever created in these chapters, but it’s a solid place to start — especially for someone putting together a dream group for the first time. Exercises range from the simple yet incredibly effective (‘the image speaks’) to those requiring advance preparation (collages, sand tray, clay). Lasley also refers to the original source when presenting certain exercises, a nice touch for anyone wanting to explore a technique in more detail.</p>
+
+<p>Because we’re talking about dream <em>groups</em> here, and because dream groups frequently work with at least one member’s dream during a meeting, Lasley returns often to the subject of including all group members in the process/activity at hand. And yes, the leader also helps the group remember that the dreamer owns their own dream and is the final arbiter regarding how much work is done and what the dream means to them. The phrase ‘if it were my dream’ is essential for all group members.</p>
+
+<p><em>Honoring the Dream</em> includes a very user-friendly glossary with easy to understand summaries and explanations of dream work concepts, therapeutic modalities, and psychological terms. The Appendices contain sample handouts, guidelines, an ethics statement and information on the International Association for the Study of Dreams. There’s even a ‘Vocabulary of Emotions’ to help participants more accurately identify the emotional aspects/content of their dreams and what comes up in the dreamwork process itself. The Bibliography lists classic authors and titles as well as newer (and a few eclectic) offerings.</p>
+
+<p><em>Honoring the Dream: A Handbook for Dream Group Leaders</em> could easily become a classic in its own right. Lasley has succinctly gathered the collective wisdom of dream group leaders into one place, covering the essentials without getting bogged down in any one issue or topic. It is the book I wish I had back in those exciting, dynamic early days of grassroots dream work, when we were all learning for ourselves how to do this dream group thing. All-in-all, <em>Honoring the Dream</em> is a definite ‘must have’ for anyone wanting to start their own dream group and an incredibly useful supplement for those with (current or past) experience as leader/facilitator of a dream group. ℘</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvlach ;
+    ns1:hasTag ns1:bcphbqvlach,
+        ns1:bcphbwfw4rc ;
+    ns1:hasTopic ns1:bcpovcretdb,
+        ns1:bcpovcsetdg ;
+    ns1:inIssue ns1:bcphbwfw4rc ;
+    ns1:itemId "bcpov5modhtd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: Honoring the Dream, A Handbook for Dream Group Leaders by Justina Lasley"^^xsd:string ;
+    ns1:profileImg "new-honoring-home-sized.png"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
+    ns1:urlSlug "honoring-the-dream-book-review"^^xsd:string .
+
 ns1:bcpov5rcotll a ns1:Post ;
     ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov5rcotll-0.jpeg" alt="The Living Labyrinth book cover" width="250" height="auto"/></p>
@@ -22173,6 +22218,7 @@ ns1:bcpov6tqqf6 a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,
         ns1:bcpov6pspec ;
+    ns1:hasTopic ns1:bcpovcsetdg ;
     ns1:itemId "bcpov6tqqf6"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "The Art of Dream Sharing and Developing Dream Groups"^^xsd:string ;
@@ -23735,21 +23781,6 @@ ns1:bcphbqp3hfp a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "12.4"^^xsd:string .
 
-ns1:bcphbqvlach a ns1:User ;
-    owl:sameAs "https://www.linkedin.com/in/victoriavlach/"^^xsd:string ;
-    ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>
-
-<p>She's passionate about the incredible potential of human-to-human connection and interaction.</p>
-
-<p>On the web: <a href="https://www.linkedin.com/in/victoriavlach/">linkedin.com/in/victoriavlach</a></p>
-"""^^xsd:string ;
-    ns1:handle "victoriavlach"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/victoriavlach/> ;
-    ns1:itemId "bcphbqvlach"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Victoria Vlach"^^xsd:string ;
-    ns1:profileImg "author-victoria-vlach.jpg"^^xsd:string .
-
 ns1:bcphbt7x4uv a ns1:Post ;
     ns1:coverImg "19.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2000-01-01T11:32:52"^^xsd:dateTime ;
@@ -23975,41 +24006,6 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:profileImg "32.1-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
-
-ns1:bcpovcsetdg a ns1:Topic ;
-    owl:sameAs "https://dbpedia.org/page/Dream_sharing"^^xsd:string,
-        "https://en.wikipedia.org/wiki/Dream_sharing"^^xsd:string,
-        "https://www.compassdreamwork.com/about-dreamwork/group-dreamwork/"^^xsd:string,
-        "https://www.meetup.com/topics/dreams/"^^xsd:string ;
-    ns1:coverImg "cover-dreamsharing-groups.jpg"^^xsd:string ;
-    ns1:description """<p>The Dream Network Journal published the following <em>ethical guidelines for dreamworkers and dreamsharing groups</em> in <a href="../bcphbqvckd7/13.1">Volume 13, Issue 1</a>, and different versions in subsequent issues.</p>
-
-<h3>An ethical dreamworker:</h3>
-
-<ol>
-<li><p><strong>Encourages</strong> those who have not yet discovered, or who are yet only beginning to discover, the magic, revelation and enrichment which comes from valuing their dreams. Not that they may know our dreams, but that they may know their own. <em>John Ashbaugh</em></p></li>
-<li><p><strong>Honors</strong> the dream, the dreamer and the dreamsharing process. <em>Ingrid M. Luke</em></p></li>
-<li><p><strong>Encourages</strong> any dreamer's personal connection to, relationship with and understanding of dreams and the mystery from which dreams emerge. <em>Catherine Knapp</em></p></li>
-<li><p><strong>Offers</strong> encouragement to the dreamer for their efforts, knowing that any effort will bear fruit. Regards all dreams and dreamers as sacred and as such, treats them with respect, joy and humility. <em>Jan Janzen</em></p></li>
-<li><p><strong>Engages</strong> in the Art of Listening. This involves listening to all that a dreamer says and above all, listening while keeping one's own ideas about the dream on hold. <a href="../@montagueullman"><em>Montague Ullman</em></a></p></li>
-<li><p><strong>Respects</strong> the integrity of dreamers; their vulnerability, weaknesses and sexuality are to be honored, never exploited. It is often useful to preface any remark with the idea: "if it were my dream... " <a href="../@jeremytaylor"><em>Jeremy Taylor</em></a></p></li>
-<li><p><strong>Honors and respects</strong> the dreamer's anonymity and confidentiality. <em>Will Phillips</em></p></li>
-<li><p><strong>Intuits</strong> the dreamer's boundaries and does not push the dreamer to go beyond what feels safe. <em>Deborah Jay Hillman</em></p></li>
-<li><p><strong>Keeps in mind</strong> that dreams are more a mystery to behold than a puzzle to solve. Dreams are about wonder, awe and imagination, in lieu of logic and literal thinking. <em>Chuck Freeman</em></p></li>
-<li><p><strong>Enters</strong> a relationship with a dreamer and a dream, holding regard for the mystery of the dream process and respect for the sacredness of the individual's personal discovery of truth. <em>Valerie Meluskey</em></p></li>
-<li><p><strong>Refrains</strong> from telling the dreamer what his or her dream means; we never know anyway. When we feel that we do know, at best we know what it would mean if it were our own dream. <a href="../@dickmcleester"><em>Dick McLeester</em></a></p></li>
-<li><p><strong>Recognizes</strong> that dreams can be viewed as holograms, offering various levels of meaning and significance. Therefore, our challenge, when working with dreams is to continue searching for the layers within the dream and to allow the dream to "live" with us. <em>Rosemary Watts</em></p></li>
-<li><p><strong>Encourages</strong> each member in a dream group to take responsibility for the healthy functioning of the group. This includes: setting rules for the group; speaking up when rules are broken and/or the group is not working for you; checking from time to time to make sure the group's process is working for everyone. <em>Micki Seltzer</em></p></li>
-<li><p>Relaxes when working on another's dream and trusts that s/he does not have to know the answers. <em>Karen Surman Paley</em></p></li>
-<li><p><strong>Respects</strong> the dreamer's right to end the dreamwork at any time. <em>Will Phillips</em></p></li>
-</ol>
-"""^^xsd:string ;
-    ns1:handle "topic~dreamsharing-groups"^^xsd:string ;
-    ns1:itemId "bcpovcsetdg"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dream Sharing & Dream Groups"^^xsd:string ;
-    ns1:shortName "Dreamsharing Groups"^^xsd:string ;
-    ns1:subType "Thing"^^xsd:string .
 
 ns1:bcpqn76e7n5 a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>
@@ -24292,6 +24288,21 @@ ns1:bcphbqfmetz a ns1:User ;
     ns1:name "Deena Metzger"^^xsd:string ;
     ns1:profileImg "author-deena-metzger.jpg"^^xsd:string .
 
+ns1:bcphbqvlach a ns1:User ;
+    owl:sameAs "https://www.linkedin.com/in/victoriavlach/"^^xsd:string ;
+    ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>
+
+<p>She's passionate about the incredible potential of human-to-human connection and interaction.</p>
+
+<p>On the web: <a href="https://www.linkedin.com/in/victoriavlach/">linkedin.com/in/victoriavlach</a></p>
+"""^^xsd:string ;
+    ns1:handle "victoriavlach"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/victoriavlach/> ;
+    ns1:itemId "bcphbqvlach"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Victoria Vlach"^^xsd:string ;
+    ns1:profileImg "author-victoria-vlach.jpg"^^xsd:string .
+
 ns1:bcphbqvmoss a ns1:User ;
     owl:sameAs "http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html"^^xsd:string,
         "https://mossdreams.com/"^^xsd:string ;
@@ -24420,6 +24431,41 @@ ns1:bcphbzdzrug a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "30.4"^^xsd:string .
 
+ns1:bcpovcsetdg a ns1:Topic ;
+    owl:sameAs "https://dbpedia.org/page/Dream_sharing"^^xsd:string,
+        "https://en.wikipedia.org/wiki/Dream_sharing"^^xsd:string,
+        "https://www.compassdreamwork.com/about-dreamwork/group-dreamwork/"^^xsd:string,
+        "https://www.meetup.com/topics/dreams/"^^xsd:string ;
+    ns1:coverImg "cover-dreamsharing-groups.jpg"^^xsd:string ;
+    ns1:description """<p>The Dream Network Journal published the following <em>ethical guidelines for dreamworkers and dreamsharing groups</em> in <a href="../bcphbqvckd7/13.1">Volume 13, Issue 1</a>, and different versions in subsequent issues.</p>
+
+<h3>An ethical dreamworker:</h3>
+
+<ol>
+<li><p><strong>Encourages</strong> those who have not yet discovered, or who are yet only beginning to discover, the magic, revelation and enrichment which comes from valuing their dreams. Not that they may know our dreams, but that they may know their own. <em>John Ashbaugh</em></p></li>
+<li><p><strong>Honors</strong> the dream, the dreamer and the dreamsharing process. <em>Ingrid M. Luke</em></p></li>
+<li><p><strong>Encourages</strong> any dreamer's personal connection to, relationship with and understanding of dreams and the mystery from which dreams emerge. <em>Catherine Knapp</em></p></li>
+<li><p><strong>Offers</strong> encouragement to the dreamer for their efforts, knowing that any effort will bear fruit. Regards all dreams and dreamers as sacred and as such, treats them with respect, joy and humility. <em>Jan Janzen</em></p></li>
+<li><p><strong>Engages</strong> in the Art of Listening. This involves listening to all that a dreamer says and above all, listening while keeping one's own ideas about the dream on hold. <a href="../@montagueullman"><em>Montague Ullman</em></a></p></li>
+<li><p><strong>Respects</strong> the integrity of dreamers; their vulnerability, weaknesses and sexuality are to be honored, never exploited. It is often useful to preface any remark with the idea: "if it were my dream... " <a href="../@jeremytaylor"><em>Jeremy Taylor</em></a></p></li>
+<li><p><strong>Honors and respects</strong> the dreamer's anonymity and confidentiality. <em>Will Phillips</em></p></li>
+<li><p><strong>Intuits</strong> the dreamer's boundaries and does not push the dreamer to go beyond what feels safe. <em>Deborah Jay Hillman</em></p></li>
+<li><p><strong>Keeps in mind</strong> that dreams are more a mystery to behold than a puzzle to solve. Dreams are about wonder, awe and imagination, in lieu of logic and literal thinking. <em>Chuck Freeman</em></p></li>
+<li><p><strong>Enters</strong> a relationship with a dreamer and a dream, holding regard for the mystery of the dream process and respect for the sacredness of the individual's personal discovery of truth. <em>Valerie Meluskey</em></p></li>
+<li><p><strong>Refrains</strong> from telling the dreamer what his or her dream means; we never know anyway. When we feel that we do know, at best we know what it would mean if it were our own dream. <a href="../@dickmcleester"><em>Dick McLeester</em></a></p></li>
+<li><p><strong>Recognizes</strong> that dreams can be viewed as holograms, offering various levels of meaning and significance. Therefore, our challenge, when working with dreams is to continue searching for the layers within the dream and to allow the dream to "live" with us. <em>Rosemary Watts</em></p></li>
+<li><p><strong>Encourages</strong> each member in a dream group to take responsibility for the healthy functioning of the group. This includes: setting rules for the group; speaking up when rules are broken and/or the group is not working for you; checking from time to time to make sure the group's process is working for everyone. <em>Micki Seltzer</em></p></li>
+<li><p>Relaxes when working on another's dream and trusts that s/he does not have to know the answers. <em>Karen Surman Paley</em></p></li>
+<li><p><strong>Respects</strong> the dreamer's right to end the dreamwork at any time. <em>Will Phillips</em></p></li>
+</ol>
+"""^^xsd:string ;
+    ns1:handle "topic~dreamsharing-groups"^^xsd:string ;
+    ns1:itemId "bcpovcsetdg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dream Sharing & Dream Groups"^^xsd:string ;
+    ns1:shortName "Dreamsharing Groups"^^xsd:string ;
+    ns1:subType "Thing"^^xsd:string .
+
 ns1:bcphbq3jean a ns1:User ;
     owl:sameAs "https://www.instagram.com/worlddreamspeacebridge/"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
@@ -24514,20 +24560,6 @@ ns1:bcphbvjopd2 a ns1:Post ;
     ns1:profileImg "22.2-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "22.2"^^xsd:string .
-
-ns1:bcphbwfw4rc a ns1:Post ;
-    ns1:coverImg "23.4-24.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf" download="">Download issue 23.4-24.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobxze6k ;
-    ns1:itemId "bcphbwfw4rc"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 23, issue 4: Dreaming as a Practice"^^xsd:string ;
-    ns1:profileImg "23.4-24.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "23.4-24.1"^^xsd:string .
 
 ns1:bcphbycqos5 a ns1:Post ;
     ns1:coverImg "28.1-cover.jpg"^^xsd:string ;
@@ -24781,6 +24813,20 @@ ns1:bcphbqskoff a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Deborah Koff-Chapin"^^xsd:string ;
     ns1:profileImg "author-deborahkoffchapin.jpg"^^xsd:string .
+
+ns1:bcphbwfw4rc a ns1:Post ;
+    ns1:coverImg "23.4-24.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf" download="">Download issue 23.4-24.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_23/23.4-24.1_dreaming_as_practice.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobxze6k ;
+    ns1:itemId "bcphbwfw4rc"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 23, issue 4: Dreaming as a Practice"^^xsd:string ;
+    ns1:profileImg "23.4-24.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "23.4-24.1"^^xsd:string .
 
 ns1:bcphbwmlvfh a ns1:Post ;
     ns1:coverImg "24.2-cover.jpg"^^xsd:string ;

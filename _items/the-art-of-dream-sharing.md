@@ -8,6 +8,7 @@ tags:
     - hasTag: special-publications
     - hasAuthor: dreamnetwork
     - hasTag: dreamnetwork
+    - hasTopic: topic~dreamsharing-groups
 type: post
 urlSlug: the-art-of-dream-sharing
 ---

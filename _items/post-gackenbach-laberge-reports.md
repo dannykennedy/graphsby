@@ -20,7 +20,7 @@ At a recent talk at the Dream House in San Francisco, dreamworkers [Jayne Gacken
 
 ## Jayne Gackenbach
 
-[Jayne Gackenbach](../@jaynegackenbach) is a social psychologist from the University of Northern Iowa and editor of the _Lucidity Letter_. She has produced and gathered normative data using experimental methods in order to answer three important questions about lucidity.
+Jayne Gackenbach is a social psychologist from the University of Northern Iowa and editor of the _Lucidity Letter_. She has produced and gathered normative data using experimental methods in order to answer three important questions about lucidity.
 
 ### Who's Likely To Have Lucid Dreams?
 

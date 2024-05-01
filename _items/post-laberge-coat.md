@@ -8,13 +8,11 @@ tags:
     - hasAuthor: stephenlaberge
     - hasTag: coat-of-many-colors
     - inIssue: coat-of-many-colors
-    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: some-implications-of-current-research
-metaDescription: "Stephen LaBerge discusses the implications of current research into lucid dreaming, including the potential for psychological and psychosomatic integration, and the exploration of higher and deeper levels of consciousness."
 ---
 
-_Editor's Note: The following material has been condensed and reorganized from an interview with [Stephen LaBerge](../@stephenlaberge) by Keith Thompson, which appeared in the Fall 1982 edition of the Esalen Catalog. It was reorganized here in the [Coat of Many Colors](../bcpov6zfsra/coat-of-many-colors) with the permission of Stephen LaBerge._
+_Editor's Note: The following material has been condensed and reorganized from an interview with Stephen LaBerge by Keith Thompson, which appeared in the Fall 1982 edition of the Esalen Catalog. It was reorganized with the permission of Stephen LaBerge._
 
 One of the main tasks facing laboratory researchers into lucid dreaming is to characterize the psychophysiology - the conditions under which lucid dreaming takes place normally. We're currently studying half a dozen subjects the Sleep Lab (the Dept. of Psychiatry in Sleep Center, Stanford University) to understand when and under what conditions lucid dreaming happens. Lucid dreaming is an untapped human capacity which hasn't been developed because we haven't been educated for it.
 
@@ -53,4 +51,4 @@ This is the "dream ego", the person we think we are in the dream, a model of our
 
 These kinds of lucid experiences can serve to awaken us to the possibility of higher and deeper levels of consciousness. One thing that prevents us from expanding consciousness is the false assumption that we are already fully developed and awake.
 
-<div class="highlight-box">MY DEEPLY HELD BELIEF IS THAT IF A GOD OF ANYTHING LIKE THE TRADITIONAL SORT EXISTS, OUR CURIOSITY AND INTELLIGENCE ARE PROVIDED BY SUCH A GOD. WE WOULD BE UNAPPRECIATIVE OF THOSE GIFTS (AS WELL AS UNABLE TO TAKE SUCH A COURSE OF ACTION) IF WE SUPPRESSED OUR PASSION TO EXPLORE THE UNIVERSE AND OURSELVES. ON THE OTHER HAND, IF SUCH A TRADITIONAL GOD DOES NOT EXIST, OUR CURIOSITY AND OUR INTELLIGENCE ARE THE ESSENTIAL. TOOLS FOR MANAGING OUR SURVIVAL. IN EITHER CASE, THE ENTERPRISE OF KNOWLEDGE IS CONSISTENT WITH BOTH SCIENCE AND RELIGION, AND IS ESSENTIAL FOR THE WELFARE OF THE HUMAN SPECIES. <i>Carl Sagan</i><div>
+<div class="highlight-box"><p>MY DEEPLY HELD BELIEF IS THAT IF A GOD OF ANYTHING LIKE THE TRADITIONAL SORT EXISTS, OUR CURIOSITY AND INTELLIGENCE ARE PROVIDED BY SUCH A GOD. WE WOULD BE UNAPPRECIATIVE OF THOSE GIFTS (AS WELL AS UNABLE TO TAKE SUCH A COURSE OF ACTION) IF WE SUPPRESSED OUR PASSION TO EXPLORE THE UNIVERSE AND OURSELVES. ON THE OTHER HAND, IF SUCH A TRADITIONAL GOD DOES NOT EXIST, OUR CURIOSITY AND OUR INTELLIGENCE ARE THE ESSENTIAL. TOOLS FOR MANAGING OUR SURVIVAL. IN EITHER CASE, THE ENTERPRISE OF KNOWLEDGE IS CONSISTENT WITH BOTH SCIENCE AND RELIGION, AND IS ESSENTIAL FOR THE WELFARE OF THE HUMAN SPECIES.</p><p>Carl Sagan</p><div>

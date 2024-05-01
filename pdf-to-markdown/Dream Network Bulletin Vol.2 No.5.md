@@ -27,7 +27,7 @@ Stewart's "Senoi" are the 10,000 Temiar, indigenous people of Western Malaysia w
 Continued on page 2
 DREAMS AND THE BODY
 
-## by Arnold Mendell, Dr.Phil.
+## by Arnold Mindell, Dr.Phil.
 
 I discovered in 1974 that dreams manifest themselves in body experiences and that body experiences such as illnesses reveal dreams which are trying to happen in the body. Doug Cohen reviewed the dreambody idea in Fusion and spoke of his applications in Seattle of Dreambody work. I feel he did a good job on the review. The crucial idea behind the dreambody discovery is that dreamwork and bodywork can no longer be separated, except of course by the intellect of the therapist or patient. In fact it is often a matter of life and death to experience the dreaming body as a dreambody unity.
 
@@ -139,7 +139,7 @@ Continued from page 1
 
 ## Location of the inflation monster
 
- on the individuation pathThe complicated process of individuation usually begins from an unsolved problem, an existential impact or a neurosis. It can be schematically represented as consisting of two stages: (1) the stage of regression or destructuralization of the former personality, and (2) the stage of progression or restructuralization of a new personality.
+on the individuation pathThe complicated process of individuation usually begins from an unsolved problem, an existential impact or a neurosis. It can be schematically represented as consisting of two stages: (1) the stage of regression or destructuralization of the former personality, and (2) the stage of progression or restructuralization of a new personality.
 
 In the first stage the psychic life regresses back to the unconscious and collective unconscious, hoping to find the solution to the problem. When it is found by activation of an archetype, usually the archetype of the Self, one reaches the most critical point. This is the point where personality inflation usually occurs because the conscious mind "thinks" it possesses this archetype. The conscious mind is always possessive and domination prone. So the standstill of psychic life is attained. 'In myth and fairy tales this is the moment when the hero finds the treasure, but in achieving this his mission is not yet finished. He must bring it back also. A typical example is Jason and the Golden Fleece. After attaining it, he must pass a lot of obstacles in order to bring it back to his homeland.
 
@@ -490,7 +490,7 @@ $\square$ I would like to become involved with the Dream Community in
 
 $\square$ New York City $\square$ New Jersey $\square$ San Francisco.
 
-- I would like to start a Dream Community or free dream group in my own area. Enclosed are the details. Please announce this in the next issue.
+-   I would like to start a Dream Community or free dream group in my own area. Enclosed are the details. Please announce this in the next issue.
 
 I I am a professional dreamworker. Enclosed is a $\$ 25$ contribution. Please publish the enclosed paragraph describing the work I do and the services I offer.
 
@@ -711,4 +711,3 @@ Robert Knox Dentan, Ph.D. is a professor of anthropology in the Department of Am
 ![](https://cdn.mathpix.com/cropped/2024_04_30_7aab098f5e6e263a7e4ag-12.jpg?height=225&width=698&top_left_y=1861&top_left_x=819)
 
 333 W. 21st. St., Apt. 2FW, N.Y., N.Y., 10011
-

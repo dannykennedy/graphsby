@@ -51,6 +51,11 @@ button {
     background-color: inherit;
 }
 
+.highlight-box {
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 16px 10px;
+}
+
 /*Mailchimp*/
 #mc_embed_signup {
     background: #fff;

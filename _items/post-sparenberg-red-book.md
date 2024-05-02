@@ -16,7 +16,7 @@ urlSlug: reading-the-red-book-review
 profileImg: post-bcpov6zfredb-0.jpg
 about:
     - type: Book
-      title: "Reading the Red Book: An Interpretive Guide to C.G. Jung’s Liber Novus"
+      name: "Reading the Red Book: An Interpretive Guide to C.G. Jung’s Liber Novus"
       sameAs:
           - https://www.amazon.com.au/Reading-Red-Book-Interpretive-Guide/dp/1935528378
           - https://books.google.com.au/books/about/Reading_the_Red_Book.html?id=uoOsEAAAQBAJ

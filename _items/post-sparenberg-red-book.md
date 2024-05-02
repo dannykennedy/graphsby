@@ -14,13 +14,19 @@ type: post
 subType: Review
 urlSlug: reading-the-red-book-review
 profileImg: post-bcpov6zfredb-0.jpg
+about:
+    - type: Book
+      title: "Reading the Red Book: An Interpretive Guide to C.G. Jung’s Liber Novus"
+      sameAs:
+          - https://www.amazon.com.au/Reading-Red-Book-Interpretive-Guide/dp/1935528378
+          - https://books.google.com.au/books/about/Reading_the_Red_Book.html?id=uoOsEAAAQBAJ
 ---
 
 ![READING THE RED BOOK, Spring Journal Books, 317 pp](../images/post-bcpov6zfredb-0.jpg)
 
 <!--nopreview--><div style="text-align:center"><i>READING THE RED BOOK, Spring Journal Books, 317 pp</i></div><!--/nopreview-->
 
-When The Red Book of Carl Gustav Jung was published, it caused an immense stir, offering readers a plethora of new mysteries and depth psychology insights. I cannot predict that this interpretation will set so large a wave of interest in motion, but it may. **READING THE RED BOOK** certainly deserves attention. It is a work of wealth in itself. And you may find it of interest that the author confesses not to be a Jungian and yet he uses Jung’s often idiosyncratic spiritual quest—for soul, Self and the God-yet-to-come—to confront and challenge the materialist psychology dominating our materialistic society’s science of mind and soul.
+When [The Red Book](../bcpov6zpitrb/the-red-book-jungs-journal) of Carl Gustav Jung was published, it caused an immense stir, offering readers a plethora of new mysteries and depth psychology insights. I cannot predict that this interpretation will set so large a wave of interest in motion, but it may. **READING THE RED BOOK** certainly deserves attention. It is a work of wealth in itself. And you may find it of interest that the author confesses not to be a Jungian and yet he uses Jung’s often idiosyncratic spiritual quest—for soul, Self and the God-yet-to-come—to confront and challenge the materialist psychology dominating our materialistic society’s science of mind and soul.
 
 From the onset, Sanford Drob is clear about what he has done and how he has done it. Beginning at the Introduction, it is worth listening into the author as he explains his intention. Drob’s first paragraph is this: “Jung held that dreams are challenges to the assumptions and complacency of the ego, compensation for one-sided conscious attitudes, or messages from the unconscious that prompt us to question the value and direction of our current mode of thinking, feeling and living. By this defi nition, Jung’s The Red Book...is akin to a dream... Like many dreams the _dream_ that is The Red Book is at once magnificent and grotesque.”
 

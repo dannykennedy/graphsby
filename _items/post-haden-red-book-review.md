@@ -14,7 +14,7 @@ urlSlug: "the-red-book-jungs-journal"
 profileImg: red-book.jpg
 about:
     - type: Book
-      title: "The Red Book: Liber Novus"
+      name: "The Red Book: Liber Novus"
       sameAs:
           - https://www.amazon.com.au/Red-Book-C-G-Jung/dp/0393065677
           - https://en.wikipedia.org/wiki/The_Red_Book_(Jung)

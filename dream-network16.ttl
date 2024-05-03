@@ -1241,7 +1241,9 @@ ns1:bcpov3zdtlli a ns1:Post ;
 
 ns1:bcpov3zpihdp a ns1:Post ;
     ns1:dateCreated "2011-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<h2>Introduction</h2>
+    ns1:description """<p><img src="../images/post-bcpov3zpihdp-0.jpeg" width="400"/><div class="caption">Bob preaching at St. Francis chapel, Kanuga</div></p>
+
+<h2>Introduction</h2>
 
 <p>One of the things that hooked me in the beginning of this dream path was Carl Jung saying he had a deep and abiding fear that the church was losing the experience of the Divine. If the church loses the experience of the Divine, the church will go down the drain. If the church goes down the drain, western civilization would go down the drain as well. When I read that, I knew I had a purpose and a partner on the journey.</p>
 
@@ -1466,12 +1468,15 @@ ns1:bcpov3zpihdp a ns1:Post ;
     ns1:itemId "bcpov3zpihdp"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "How Dreams Are Helpful To Me as a Priest, Pastoral Counselor and Spiritual Director "^^xsd:string ;
+    ns1:profileImg "post-bcpov3zpihdp-0.jpeg"^^xsd:string ;
     ns1:subType "Article"^^xsd:string ;
     ns1:urlSlug "how-dreams-are-helpful-to-me-as-a-priest"^^xsd:string .
 
 ns1:bcpov3zprosi a ns1:Post ;
     ns1:dateCreated "2002-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><em>INTERVIEWED BY ROBERTA OSSANA</em></p>
+
+<p><img src="../images/post-bcpov3zprosi-0.jpeg" width="400"/><div class="caption">Haden Institute Director, Bob Haden, rings the Buddha Bell the conclude the period of silence before a dreamwork session.</div></p>
 
 <p><strong>DNJ:</strong> Thank you for being willing to share of yourself and your time, Robert. I would like to begin the interview by introducing you to readers via your personal history. I'm deeply impressed-given the materials you've shared-with the evolution of your life: always curious, questing, growing, giving.</p>
 
@@ -1498,8 +1503,6 @@ ns1:bcpov3zprosi a ns1:Post ;
 <p><strong>DNJ:</strong> In the early stages of your soul's 'dark night,' you said: "Dreams and meditation filled that void. At that time I was given a two-week fellowship at a Seminary where I studied Jung, started recording my dreams and had my first visit with a Jungian Analyst. I was hooked! I said to myself "There is a whole other world that I did not even know existed". Also, "I was hooked!"</p>
 
 <p>In retrospect, and with your extensive background in religion prior to that time, why do you believe that your inner life was so dramatically unrepresented and undernourished up to that point?</p>
-
-<p><img src="../images/post-bcpov3zprosi-0.jpeg" width="400"/><div class="caption">Haden Institute Director, Bb Haden, rings the Buddha Bell the conclude the period of silence before a dreamwork session.</div></p>
 
 <p><strong>BOB HADEN:</strong> Both my inner and outer life had been deeply nourished in my early years, but all of a sudden it was gone. My earlier nourishment and connection with the divine was very genuine and real, full of grace and experience, not rules and distance. I was lucky. But like all humanity, it was given to me by my Mother. By "Mother" I mean "Mother Church", "Mother Culture", "Mother Society", "Mother Family" (parents, grandparents, aunts, uncles), "Mother School", etc. It was real, but it was Mother's.</p>
 
@@ -1611,6 +1614,7 @@ ns1:bcpov3zprosi a ns1:Post ;
     ns1:itemId "bcpov3zprosi"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Personal Evolution & the Founding of a Dream Education Institute: An Interview with Robert Haden"^^xsd:string ;
+    ns1:profileImg "post-bcpov3zprosi-1.jpeg"^^xsd:string ;
     ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "founding-a-dream-education-institute-interview-robert-haden"^^xsd:string .
 
@@ -1749,6 +1753,7 @@ ns1:bcpov3zprosj a ns1:Post ;
     ns1:itemId "bcpov3zprosj"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Revelation of John as a Process of Individuation"^^xsd:string ;
+    ns1:profileImg "post-bcpov3zprosj-1.jpeg"^^xsd:string ;
     ns1:subType "Article"^^xsd:string ;
     ns1:urlSlug "the-revelations-of-john-as-a-process-of-individuation"^^xsd:string .
 

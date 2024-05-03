@@ -11,7 +11,10 @@ tags:
 type: post
 subType: Article
 urlSlug: "how-dreams-are-helpful-to-me-as-a-priest"
+profileImg: post-bcpov3zpihdp-0.jpeg
 ---
+
+<img src="../images/post-bcpov3zpihdp-0.jpeg" width="400"/><div class="caption">Bob preaching at St. Francis chapel, Kanuga</div>
 
 ## Introduction
 

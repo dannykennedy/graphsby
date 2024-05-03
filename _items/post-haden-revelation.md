@@ -11,6 +11,7 @@ tags:
 type: post
 subType: Article
 urlSlug: "the-revelations-of-john-as-a-process-of-individuation"
+profileImg: post-bcpov3zprosj-1.jpeg
 ---
 
 <img src="../images/post-bcpov3zprosj-1.jpeg" width="400"/><div class="caption">"The Seven Trumpets are Given to the Angels". All woodcut illustrations by Albrecht Dürer from the <a href="www.wga.hu/html_m/d/durer/2/12/2apocaly/index.html">Web Gallery of Art</a></div>

@@ -14,9 +14,12 @@ tags:
 type: post
 subType: Conversation
 urlSlug: "founding-a-dream-education-institute-interview-robert-haden"
+profileImg: post-bcpov3zprosi-1.jpeg
 ---
 
 _INTERVIEWED BY ROBERTA OSSANA_
+
+<img src="../images/post-bcpov3zprosi-0.jpeg" width="400"/><div class="caption">Haden Institute Director, Bob Haden, rings the Buddha Bell the conclude the period of silence before a dreamwork session.</div>
 
 **DNJ:** Thank you for being willing to share of yourself and your time, Robert. I would like to begin the interview by introducing you to readers via your personal history. I'm deeply impressed-given the materials you've shared-with the evolution of your life: always curious, questing, growing, giving.
 
@@ -41,8 +44,6 @@ This was the beginning of a new journey that led me to New York and Zurich for a
 **DNJ:** In the early stages of your soul's 'dark night,' you said: "Dreams and meditation filled that void. At that time I was given a two-week fellowship at a Seminary where I studied Jung, started recording my dreams and had my first visit with a Jungian Analyst. I was hooked! I said to myself "There is a whole other world that I did not even know existed". Also, "I was hooked!"
 
 In retrospect, and with your extensive background in religion prior to that time, why do you believe that your inner life was so dramatically unrepresented and undernourished up to that point?
-
-<img src="../images/post-bcpov3zprosi-0.jpeg" width="400"/><div class="caption">Haden Institute Director, Bb Haden, rings the Buddha Bell the conclude the period of silence before a dreamwork session.</div>
 
 **BOB HADEN:** Both my inner and outer life had been deeply nourished in my early years, but all of a sudden it was gone. My earlier nourishment and connection with the divine was very genuine and real, full of grace and experience, not rules and distance. I was lucky. But like all humanity, it was given to me by my Mother. By "Mother" I mean "Mother Church", "Mother Culture", "Mother Society", "Mother Family" (parents, grandparents, aunts, uncles), "Mother School", etc. It was real, but it was Mother's.
 

@@ -17517,6 +17517,7 @@ ns1:bcpov6zpitrb a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqhaden ;
     ns1:hasTag ns1:bcphbqhaden,
         ns1:bcphbyoxe6n ;
+    ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbyoxe6n ;
     ns1:itemId "bcpov6zpitrb"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;

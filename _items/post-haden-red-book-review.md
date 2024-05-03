@@ -8,6 +8,7 @@ tags:
     - hasAuthor: bobhaden
     - hasTag: 29.2
     - inIssue: 29.2
+    - hasTopic: topic~dream-books
 type: post
 subType: Review
 urlSlug: "the-red-book-jungs-journal"

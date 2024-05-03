@@ -10,8 +10,9 @@ tags:
     - hasAuthor: robertaossana
     - hasTag: 21.3
     - inIssue: 21.3
+    - hasTopic: topic~dream-interviews
 type: post
-subType: Article
+subType: Conversation
 urlSlug: "founding-a-dream-education-institute-interview-robert-haden"
 ---
 

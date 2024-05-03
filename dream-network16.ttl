@@ -1606,11 +1606,12 @@ ns1:bcpov3zprosi a ns1:Post ;
     ns1:hasTag ns1:bcphbq3ossa,
         ns1:bcphbqhaden,
         ns1:bcphbvbqspq ;
+    ns1:hasTopic ns1:bcpovcrediv ;
     ns1:inIssue ns1:bcphbvbqspq ;
     ns1:itemId "bcpov3zprosi"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Personal Evolution & the Founding of a Dream Education Institute: An Interview with Robert Haden"^^xsd:string ;
-    ns1:subType "Article"^^xsd:string ;
+    ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "founding-a-dream-education-institute-interview-robert-haden"^^xsd:string .
 
 ns1:bcpov3zprosj a ns1:Post ;
@@ -25068,6 +25069,8 @@ ns1:bcphbqhaden a ns1:User ;
         "https://www.hadenfoundation.org/about"^^xsd:string ;
     ns1:coverImg "cover-author-bob-haden.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://www.hadenfoundation.org/about">Haden Foundation</a></p>
+
+<p>Reverend Bob Haden was a Jungian Psychotherapist, Episcopal Priest, Pastoral Counselor and Founder of The <a href="https://www.hadeninstitute.com/">Haden Institute</a> in Charlotte, NC in 1994. He is the author of <a href="https://www.amazon.com.au/Unopened-Letters-God-Robert-Haden/dp/0615393527"><em>Unanswered Letters From God: Using Biblical Dreams to Unlock Your Nightly Dreams</em></a> and is co-author of <em>Soul's Labyrinth</em>. He taught dreamwork for over 30 years. He passed away on <a href="https://myemail.constantcontact.com/The-Rev--Robert-L--Haden-Jr---1938---2023-.html?soid=1138074029854&aid=7SMHtEidIJw">April 17, 2023</a>.</p>
 """^^xsd:string ;
     ns1:handle "bobhaden"^^xsd:string ;
     ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://myemail.constantcontact.com/The-Rev--Robert-L--Haden-Jr---1938---2023-.html?soid=1138074029854&aid=7SMHtEidIJw>,
@@ -25873,18 +25876,6 @@ ns1:bcphbqschul a ns1:User ;
     ns1:name "Jeanne Schul"^^xsd:string ;
     ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
 
-ns1:bcpovcrediv a ns1:Topic ;
-    ns1:coverImg "cover-theme-dream-interviews.jpg"^^xsd:string ;
-    ns1:description """<p>This page gathers together all the interviews with dreamers, dream authors and dreamworkers that have appeared in the Dream Network Journal over the years.</p>
-
-<p><em>Cover image: from the article 'A Dreamer Goes to the Faire' by Robert Stephen Dunn, <a href="../bcphbndh32i/6.4">issue 6.4</a></em></p>
-"""^^xsd:string ;
-    ns1:handle "topic~dream-interviews"^^xsd:string ;
-    ns1:itemId "bcpovcrediv"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Interviews with Dreamers & Dreamworkers"^^xsd:string ;
-    ns1:shortName "Interviews"^^xsd:string .
-
 ns1:bcphbq3rpac a ns1:User ;
     owl:sameAs "https://independent.academia.edu/PacoMitchell"^^xsd:string ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
@@ -25922,6 +25913,18 @@ ns1:bcphbqvbulk a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Kelly Bulkeley"^^xsd:string ;
     ns1:profileImg "author-kelly-bulkeley.jpg"^^xsd:string .
+
+ns1:bcpovcrediv a ns1:Topic ;
+    ns1:coverImg "cover-theme-dream-interviews.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together all the interviews with dreamers, dream authors and dreamworkers that have appeared in the Dream Network Journal over the years.</p>
+
+<p><em>Cover image: from the article 'A Dreamer Goes to the Faire' by Robert Stephen Dunn, <a href="../bcphbndh32i/6.4">issue 6.4</a></em></p>
+"""^^xsd:string ;
+    ns1:handle "topic~dream-interviews"^^xsd:string ;
+    ns1:itemId "bcpovcrediv"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Interviews with Dreamers & Dreamworkers"^^xsd:string ;
+    ns1:shortName "Interviews"^^xsd:string .
 
 ns1:bcphbqvstim a ns1:User ;
     owl:sameAs "https://www.facebook.com/william.stimson.75"^^xsd:string,

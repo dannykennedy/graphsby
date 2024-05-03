@@ -17,7 +17,7 @@ In dealing with computers and computer access, there has been much discussion ab
 
 I feel a parallel situation exists in the realm of dreamwork: there are those who have experienced the power of working with dreams and those who have not. I feel the biggest challenge that we have is to find ways to introduce and encourage the have-nots to take the plunge and join the haves. I feel this effort needs to be on a one-to-one or one-to-many basis. But we, the privileged haves, need to explain why dreamwork can be so powerful and helpful.
 
-For the have-nots, the subject of dreaming and dreams is often confusing. [Bob Haden](../@bobhaden) recently commented that people frequently dismiss dreams "because they are unfamiliar with the dreamworld and don't know what to do or say, much less sense that there is usually gold in this metaphorical message from the divine". (Dream Network 21.3 p.39). I agree.
+For the have-nots, the subject of dreaming and dreams is often confusing. [Bob Haden](../@bobhaden) recently commented that people frequently dismiss dreams "because they are unfamiliar with the dreamworld and don't know what to do or say, much less sense that there is usually gold in this metaphorical message from the divine". [(Dream Network 21.3 p.39)](../bcpov3zprosi/founding-a-dream-education-institute-interview-robert-haden). I agree.
 
 I think we can take several steps to help the have-nots to become engaged with their dreams. The most common questions I am asked about imagery involve being pursued or threat of death. Explaining that these metaphors can relate to a call for change in one's life may allow the dreamer to be more comfortable with the dreaming process and therefore ease their exploration of possible issues of concern.
 

@@ -94,7 +94,7 @@ Seen symbolically, the Christ event is showing that the birth of the Self — th
 
 ## Revelation of the Dark God
 
-The word _apocalypse_ means something hidden that is being revealed. God is revealing him/herself through events in our world. It is the revelation of what is called the dark or hidden God, the _'deus absconditus'_, the wrath of God with all it's Luciferian ferocity. To quote Jung, 'God asserts his power through the revelation of his darkness and destructiveness. Man is merely instrumental in carrying out the divine plan'.
+The word _apocalypse_ means something hidden that is being revealed. God is revealing him/herself through events in our world. It is the [revelation](../bcpov3zprosj/the-revelations-of-john-as-a-process-of-individuation) of what is called the dark or hidden God, the _'deus absconditus'_, the wrath of God with all it's Luciferian ferocity. To quote Jung, 'God asserts his power through the revelation of his darkness and destructiveness. Man is merely instrumental in carrying out the divine plan'.
 
 Scholar Rudolph Otto calls it the _'negative numinosum'_, or the _'mysterium horrendum'_, as compared to the _'mysterium tremendum'_. It is the dark side of God, the other hand of God, which fills us with awe. Seen as a dreaming process, it is the return of the repressed, as the part of God that has been denied is the part of God that insistently shows up in a form we would least expect. Interestingly, the inner meaning of the word Satan is the shadow of the Lord.
 

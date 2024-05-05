@@ -1,4 +1,4 @@
-# COAT of MANY COLORS 
+# COAT of MANY COLORS
 
 ![](https://cdn.mathpix.com/cropped/2024_05_01_3401056629b014ef5b07g-001.jpg?height=1604&width=1158&top_left_y=263&top_left_x=296)
 
@@ -168,7 +168,7 @@ Dream Explorers International (DEI) will, we hope, become a major force in impro
 
 THE PRINCIPLE MEANS BY WHICH THE CREATIVE POSSIBILITIES OF THE DEEP UNCONSCIOUS MAY BE REACHED IS THE TRANSFORMING SYMBOL. ANYONE WHOLEHEARTEDLY ENGAGING IN THE EXPERIMENT IN DEPTH WILL FIND, AS A NORMAL FACT OF EXPERIENCE, THAT THE UNCONSCIOUS REPEATEDLY PRODUCES SHAPES, OBJECTS, PHRASES, IDEAS, WHICH HAVE THIS PECULIAR QUALITY: IF PUT TO THEIR RIGHT USE THEY MAKE POSSIBLE. A RE-DIRECTION OF ENERGY AND, BY SO DOING, PROGRESSIVELY TRANSFORM THE PERSON WHO USES THEM.
 
-- P.W. Martin
+-   P.W. Martin
 
 Dream Haiku
 
@@ -233,7 +233,7 @@ These kinds of lucid experiences can serve to awaken us to the possibility of hi
 
 MY DEEPLY HELD BELIEF IS THAT IF A GOD OF ANYTHING LIKE THE TRADITIONAL SORT EXISTS, OUR CURIOSITY AND INTELLIGENCE ARE PROVIDED BY SUCH A GOD. WE WOULD BE UNAPPRECIATIVE OF THOSE GIFTS (AS WELL AS UNABLE TO TAKE SUCH A COURSE OF ACTION) IF WE SUPPRESSED OUR PASSION TO EXPLORE THE UNIVERSE AND OURSELVES. ON THE OTHER HAND, IF SUCH A TRADITIONAL GOD DOES NOT EXIST, OUR CURIOSITY AND OUR INTELLIGENCE ARE THE ESSENTIAL. TOOLS FOR MANAGING OUR SURVIVAL. IN EITHER CASE, THE ENTERPRISE OF KNOWLEDGE IS CONSISTENT WITH BOTH SCIENCE AND RELIGION, AND IS ESSENTIAL FOR THE WELFARE OF THE HUMAN SPECIES.
 
-- Car1 Sagan
+-   Car1 Sagan
 
 Over the years that I have been doing dream work with individuals and groups, I have noticed that there is a tendency for vehicles in dreams, particularly automobiles, to reveal layers of symbolic resonance with waking life emotional relationships, (among other things). Questions related to vehicles in dreams such as: "who's driving?", and "do the brakes work?", and "where are we going?", and the like, are often clearly related to issues of waking life relationship.
 
@@ -410,10 +410,9 @@ ALL WAS REVEALED TO ME!
 
 DREAM THOU!")
 
-- Winnebago Holy Song
+-   Winnebago Holy Song
 
-
-# DREAMING ABOUT DREAMWORK 
+# DREAMING ABOUT DREAMWORK
 
 (C) 1983 by Deirdre Barrett, Ph.D.
 
@@ -551,7 +550,7 @@ I continue to be delighted by the creativity I demonstrate nightly in my dreams 
 
 FOR THOSE WHO HAVE A SYMBOL IT IS EASIER TO CHANGE.
 
-- Latin Proverb
+-   Latin Proverb
 
 (C) 1983 by Ted Tollefson, M.Div., M.S.
 
@@ -773,11 +772,11 @@ The following is some advice on how best to learn this simple song:
 1. Divide the group into two parts, lower and higher voices.
 2. Find a comfortable droning pitch by experimenting with breathing deeply and singing long tones.
 3. Learn the drone with its
-wgrds first.
+   wgrds first.
 4. Choose thepitch that is a Perfect 5th (or Perfect 5th plus an octave) above the drone pitch and learn the Incantation.
 5. Let the Drone and the Incantation fall together naturally, keeping one unifying pulse and repeating at least six times.
 6. The added use of instruments is optional.
-![](https://cdn.mathpix.com/cropped/2024_05_01_3401056629b014ef5b07g-045.jpg?height=502&width=1204&top_left_y=552&top_left_x=268)
+   ![](https://cdn.mathpix.com/cropped/2024_05_01_3401056629b014ef5b07g-045.jpg?height=502&width=1204&top_left_y=552&top_left_x=268)
 
 (Incantation),
 
@@ -892,7 +891,7 @@ THE EARTH IS DEGENERATING THESE DAYS. BRIBERY
 
 AND CORRUPTION ABOUND. CHILDREN NO LONGER MIND THEIR PARENTS, EVERY MAN WANTS TO WRITE A BOOK, AND IT IS EVIDENT THAT THE END OF THE WORLD IS FAST APPROACHING.
 
-- Assyrian Tablet, 2800 B.C.
+-   Assyrian Tablet, 2800 B.C.
 
 I recently came across a book entitled THE THIRD REICH OF DREAMS by Charlotte Beradt (Quadrangle 1968 , now out of print). It contains dozens of areams collected by the author in Germany from 1933-1939 and demonstrates through the dreams how sucessfully the Nazi propaganda machine had infiltrated into people's psyches. I think it has some relevance for the nuclear arms race of today.
 
@@ -938,7 +937,7 @@ to that which wipes out Amexican fndians and produces the bomb. And through work
 
 WE HAVE IN ALL NAIVETE FORGOTTEN THAT BENEATH OUR WORLD OF REASON ANOTHER WORLD LIES BURIED. I DO NOT KNOW WHAT HUMANITY WILL STILL HAVE TO UNDERGO BEFORE IT DARES TO ADMIT THIS.
 
-- C.G. Jung
+-   C.G. Jung
 
 (C) 1983 by Thomas Dale Cowan
 
@@ -990,8 +989,7 @@ THERE IS NO "THE TRUTH," "A TRUTH"---TRUTH IS
 
 NOT ONE THING, OR EVEN A SYSTEM. IT IS AN INCREASING COMPLEXITY.
 
-- Adrienne Rich
-
+-   Adrienne Rich
 
 ## (C) 1983 by Jennifer Tardy
 
@@ -1035,8 +1033,7 @@ THE COMMON AND BASTC ERROR OF ALL THE IDEALISTS, AN ERROR WHICH FLOWS LOGTCALLY 
 
 BETWEEN MAN AND SOCIETY THERE IS A RECIPROCAL ACTION. MEN MAKE SOCIETY WHAT IT IS, AND SOCIETY MAKES MEN WHAT THEY ARE, AND THE RESULT IS THEREFORE A KIND OF VICIOUS CIRCLE. TO TRANSFORM SOCIETY, MEN MUST BE CHANGED, AND TO TRANSFORM MEN, SOCIETY MUST BE CHANGED.
 
-- Errico Malatesta
-
+-   Errico Malatesta
 
 ## THE OLD ALL-THING
 
@@ -1167,7 +1164,7 @@ WILL BE NOURISHED. IF HE DOES NOT, THEY
 
 WILL FALL AND ROT AND THE PERSON WILL STARVE.
 
-- C.G. Jung
+-   C.G. Jung
 
 I dream to clarify my life. In my dreans, I pinpoint problems and find their solutions. I confirm or refute my waking prejudices, and in confronting the naked truth, I sometimes even put things to rest. I acknowiledge that every experience I have, waking or dreaming, is a resource for my creativity and spirituality. The revelations that emerge from my dreams are gifts I rnight not be able to accept from a source outside myself. They are unsurpassed in the range and depth of imagination, and they speak a language that is uniquely my own. I know that to turn my back on these gifts and messages is actually to turn my back on my deeper self.
 
@@ -1255,8 +1252,8 @@ Although I usually sketch and draw my dreams. I have decided to take a few of my
 
 OUR IDENTITY IS A DREAM. WE ARE PROCESS, NOT REALITY, FOR REALITY IS AN ILLUSION OF THE DAYLIGHT--THE LIGHT OF OUR PARTICULAR DAY.
 
-- Loren Eisely
-the Crystal flute by Kathleen Roberts
+-   Loren Eisely
+    the Crystal flute by Kathleen Roberts
 
 I was sitting on a long marble stair case which led right down to the ocean, and the bottom steps disappeared in the waves. I held a large flute made of pure crystal. with hundreds of holes in it. As/ played the flute costed nainhous on the marble, and the notes that the fuse produced could only be heard by the whales who were swimming out by the horizon and responding to ny music.
 
@@ -1326,7 +1323,7 @@ I consulted the Metaphysical Dictionary and found that Jesus appeared to Thomas 
 
 IT (THE TREE) IS A TRANSFORMING SYMBOL, A SYMBOL OF THE PROCESS OF SELF-REALIZATION. THE SHAMAN IN AN ECSTASY, CLIMBS THE MAGICAL TREE IN ORDER TO REACH THE UPPER WORLD WHERE HE WILL FIND HIS TRUE SELF. BY CLIMBING THE MAGICAL TREE, WHICH IS AT THE SAME TIME THE TREE OF KNOWLEDGE, HE GAINS POSSESSION OF HIS SPIRITUAL PERSONALITY.
 
-- C.G. Jung
+-   C.G. Jung
 
 Dream: My husband, our Friend, and I unload the Ana Gama a.ll woodfired white stoneware with absom lutely beatiful glazes - exquisite blues, greens, violets, and other pale, translucent shades. One bowl in particutar is an iridescent bine with large crackle patterns in the glaze. The crackle is somewhat raised up in silvery relied. This piece is an absolute jewel and I am entranced with the transparent, watery blue, and the silver veinolike patterns.
 
@@ -1368,7 +1365,7 @@ The tending of myth amounts to a cultivation of sacred, heartful intentionality 
 
 WHILE THEY (PEOPLE) LIVE A CONSCIOUS LIFE, ALL THE TIME A MYTH IS BEING PLAYED OUT IN THE UNCONSCIOUS, A MYTH THAT EXTENDS OVER CENTURIES, A STREAM OF ARCHETYPAL IDEAS THAT GOES ON THROUGH THE CENTURIES THROUGH AN INDIVIDUAL.
 
-- C.G. JUNG
+-   C.G. JUNG
 
 My main enthustasms are cultivating tlying dreams and writing poetry inspired by dreams. I became interested in flying dreams after reading an article by a man who talked about giving himself the suggestion that he would fly before he went to sleep, and then would find himself flying in his dreans. I remembered a flying dream from when I was seven years 01d. I saw this witch and she had balloons which she gave me to hold. while I held the balloons I could fiy.
 
@@ -1415,38 +1412,37 @@ available to us, and this is exactly the opposite of what the writer wants.
 
 Here are sone excellent reasons why a writer might choose to include a dream in a work of fiction:
 
-*Dreams can offer the reader unusual insight into a character. The character may or may not share the reader's newly gained insight. Perhaps the character will merely feel frightened or exhil rated, while the reader will have learned a great deal.
+\*Dreams can offer the reader unusual insight into a character. The character may or may not share the reader's newly gained insight. Perhaps the character will merely feel frightened or exhil rated, while the reader will have learned a great deal.
 
-*Dreams can move action along. A character facing a crisis may have a dream which offers just the perfect solution. The dreamer may then act upon the solution, in a way he or she might not have been able to, before the dream.
+\*Dreams can move action along. A character facing a crisis may have a dream which offers just the perfect solution. The dreamer may then act upon the solution, in a way he or she might not have been able to, before the dream.
 
-*Dreams can introduce other important characters who may not figure into the present action of the story, and who, in fact, the dreamer may not consciously think about.
+\*Dreams can introduce other important characters who may not figure into the present action of the story, and who, in fact, the dreamer may not consciously think about.
 
-* In a similar fashion, dreams can introduce and describe places which may not figure into the present action, such as an adored country home or a feared "haunted house" remembered from childhood.
-Here is an exercise which I assigned, with excellent results, while I was teaching a Dreaming and Writing Workshop at The International Women's Writing Guild Writers Conference. It might be helpful to you if you're interested in expanding the use of dreams in your own writing. Begin by deciding upon one common "dream image" and one common "dream action." Then, imagine a character who might logically combine the image and action in a drean. (You'11 see what I mean in a minute.)
+-   In a similar fashion, dreams can introduce and describe places which may not figure into the present action, such as an adored country home or a feared "haunted house" remembered from childhood.
+    Here is an exercise which I assigned, with excellent results, while I was teaching a Dreaming and Writing Workshop at The International Women's Writing Guild Writers Conference. It might be helpful to you if you're interested in expanding the use of dreams in your own writing. Begin by deciding upon one common "dream image" and one common "dream action." Then, imagine a character who might logically combine the image and action in a drean. (You'11 see what I mean in a minute.)
 
 Here are two lists: one of five common dream symbols and one of five corresponding dream actions (though you need only use one from each list. Or feel free to create your own.)
 
 ## COMMON DREAM SYMBOLS
 
-*a fire
+\*a fire
 
-*a snake
+\*a snake
 
-*a mountain
+\*a mountain
 
-*the sea
+\*the sea
 
-* the sky
-
+-   the sky
 
 ## COMMON DREAM ACTIONS
 
-*walking through the fire unharmed (or getting burned as you walk through)
+\*walking through the fire unharmed (or getting burned as you walk through)
 
 *blithely watching a benign snake traveling up your leg (or battling for your life against a malevolent
-snake doing the same thing) *climbing joyously toward the top of a mountain (or falling from the top into an abyss below) *swimming peacefully in a blue sea (ox drowning in a sea filled with sharks)
+snake doing the same thing) *climbing joyously toward the top of a mountain (or falling from the top into an abyss below) \*swimming peacefully in a blue sea (ox drowning in a sea filled with sharks)
 
-*flying on your ow power through a clear sky (or falling from an alrplane fnto black nothingness)
+\*flying on your ow power through a clear sky (or falling from an alrplane fnto black nothingness)
 
 Let's choose, from this list, the symbol of the snake from list one and the action of battling against it from list two.
 
@@ -1536,8 +1532,7 @@ THE PSYCHE IS NOT INSIDE MAN, IT IS WE
 
 WHO ARE INSIDE THE PSYCHE.
 
-- Evangelos Christou
-
+-   Evangelos Christou
 
 ## (C) 1983 By Barbara Shor
 
@@ -1555,7 +1550,7 @@ This time the sharing is done by the whole group together, and telepathic corres
 
 After giving this workshop several tirnes (I've now done it eight times, with around 125 people) I began to see two things. First, that there were patterns forming in the kinds of associations and correspondences that were found, and in the kinds of journeys that were taken. And these patterns began to carry over from one workshop to another, where the participants had no connection with each other.
 
-The second thing I discovered was that I myself was having a continuing episodic journey. I had to tune in to the next exciting workshop to find out what was happening. DREAMTREK began to get extremeley interesting for me for purely selfish reasons. But I also had the feeling that I was on to something that was in the air--some common hunger that more and more of us needed to satisfy. The answers, in true dreaming style, came in unconnected pieces, and I can only suppose this is still happening. So what follows is an interim travelogue. The material is much condensed, and I regret that space doesn't allow me to share more of the travelers' tales with you.*
+The second thing I discovered was that I myself was having a continuing episodic journey. I had to tune in to the next exciting workshop to find out what was happening. DREAMTREK began to get extremeley interesting for me for purely selfish reasons. But I also had the feeling that I was on to something that was in the air--some common hunger that more and more of us needed to satisfy. The answers, in true dreaming style, came in unconnected pieces, and I can only suppose this is still happening. So what follows is an interim travelogue. The material is much condensed, and I regret that space doesn't allow me to share more of the travelers' tales with you.\*
 
 It became clear as I went on that what we were all doing together was exploring many facets of dreaming all at once--simu1taneously superimposed. This feeling of simultaneity was there from the very first and continued to intensify. Apparently, one of thethings we've been doing ts experiencing first-hand the properties and dimensions of the new physics view of space-time and multiple universes. We were playing with space and time with great glee.
 
@@ -1596,8 +1591,7 @@ But as growing numbers of dreamworkers are discovering, what you dream can be ma
 
 is the underlying reality, and that from Consciousness springs form. "What you see is what you get!"
 
-* If any of the readers have had similar experiences or would like to learn more of the details of the DREAMTREK journeys please contact the author at 400 Central Park West, NY, NY 10025
-
+-   If any of the readers have had similar experiences or would like to learn more of the details of the DREAMTREK journeys please contact the author at 400 Central Park West, NY, NY 10025
 
 ## (C) 1983 by Douglas Whitcher
 
@@ -1683,8 +1677,7 @@ Next? Geriatrics, of course! And, more of the youngsters, too.
 
 THERE IS NOTHING PERMANENT EXCEPT CHANGE.
 
-- Heraclitus
-
+-   Heraclitus
 
 ## (c) 1983 By Bob Woods
 
@@ -1720,7 +1713,7 @@ He suggested some starting points for exploring the images of the dream:[^1]
 
 see as trivial;
 
-* start with a familiar image which is somehow different from the historical reality of that image.
+-   start with a familiar image which is somehow different from the historical reality of that image.
 
 "The art of working with dreams," Bosnak said, "is to stay as close to the image as you can... You dream the dream onward...Y You get to a point where the dream is as real as it was, and you begin to pursue the dream images."
 
@@ -1998,9 +1991,8 @@ The Jungianm-Senoi Institute offers innovative training in dreamwork and Jungian
 
 Fivenday retregts to dearn dreamwork methods and to live in a drean community - a chanee to turn within and live with our dreans; do journal work, art or meditate; to be with nature end join in creating rituals and o mythic drams; a day of vision-questing, and festival to celebrate our time together.
 
-- Jill 3 - 8 at Sac Ranch, en elegant resort home on the coast of Northern Californita.
-- sepr. 9 -14 at. The village 0z, a hamlet of rustic abbing on a lovely farm with a miver. FOR REsERVATIONS, send $\$ 50$ deposit. Total cost is $\$ 350.00$.
-
+-   Jill 3 - 8 at Sac Ranch, en elegant resort home on the coast of Northern Californita.
+-   sepr. 9 -14 at. The village 0z, a hamlet of rustic abbing on a lovely farm with a miver. FOR REsERVATIONS, send $\$ 50$ deposit. Total cost is $\$ 350.00$.
 
 ## MUHCH PAYERSII ATTENTHOW
 
@@ -2092,9 +2084,7 @@ San Rafae1, CA 94901
 
 U.S.A.
 
-
-[^0]:    B. GASKELS DICTIONARY OF SCRIPTURES AND MYTHS
-
-[^1]:    * start with an image that overwhelns you;
-    * start with an image you
-
+[^0]: B. GASKELS DICTIONARY OF SCRIPTURES AND MYTHS
+[^1]:
+    -   start with an image that overwhelns you;
+    -   start with an image you

@@ -1017,6 +1017,49 @@ ns1:bcpov1zsiocr a ns1:Post ;
     ns1:name "Some Implications of Current Research into Lucid Dreaming"^^xsd:string ;
     ns1:urlSlug "some-implications-of-current-research"^^xsd:string .
 
+ns1:bcpov2zsijsa a ns1:Post ;
+    ns1:dateCreated "1982-09-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Perhaps the most central contribution which the Jungian-Senoi Institute has made to the field of dreaming and dreamwork is developing a complete dreamwork methodology of interrelated techniques for using dreams in one's life.</p>
+
+<h2>The Benefits of Dreamwork</h2>
+
+<p>Through participation in individual work, groups, and classes, some dreamers have achieved remarkable and meaningful results. Our method of "Dream Re-entry" has been used successfully to end psychological and spiritual blocks to dreaming, and to create personality change. We have dealt with severe, recurrent nightmare states induced by war and rape trauma. There is even some indication that our intensive dreamwork processes may have an effect on ending cancer and influencing diseases.</p>
+
+<p>We also emphasize, however, the ability of individuals to significantly change their lives, using our methodology. Our dreamwork practices are learnable and therefore can be used on one's own without necessarily needing the outside guidance of a therapist or dreamwork practitioner.</p>
+
+<p>People working in the privacy of their own homes, using our <a href="https://archive.org/details/jungiansenoidrea00will">Jungian-Senoi Dreamwork Manual</a>, have been able to deal with unresolved feelings left over from major life crises and relationship breakups as these show up in dreams. Becoming realistically oriented in terms of oneself and one's relationships is a major benefit, paradoxically, of our symbolic approach. For students are able to achieve in many cases what they came for - to learn how to relate to an understand-ing of their own inner resources, and to apply the insights evolving out of the on--going dreamwork in directing their lives.</p>
+
+<p>Artists and others in the creative fields have been able to move through blocks and connect with creative sources within the psyche. Every person has the potential to develop creativity regarding their lives and work, and this happens for many people using our approach.</p>
+
+<h2>Innovating An Approach</h2>
+
+<p>The Jungian-Senoi methodology takes key concepts and certain practices from both the psychology of C.G. Jung, and from the cultural achievements of the <a href="https://en.wikipedia.org/wiki/Senoi">Senoi</a> peoples of Malaysia, a dream-oriented culture as reported by Kilton Stewart.</p>
+
+<p>These concepts include using dreams for individuation and wholeness (Jung) and the bringing of dream content into life through doing specific projects or "dream tasks" (Senoi), not as a manipulative act, but to further evoke the wholeness potential within the psyche.</p>
+
+<p>We have also discovered innovative techniques of our own, such as "Objectifying Dreans", "Following the Dream Ego", and "Dream Re-entry". Our basic dream group form involves meditation, ritual, journalwork, dream sharing and process, and dream vision quests.</p>
+
+<p>A third major influence for developing the Jungian-Senoi approach has been the dreamwork of students themselves. Much of the methodology has come directly out of the work done in dream groups. The Institute's focus is primarily on research and development From experience and not from books. The results have been a methodology usable by the general public at many levels.</p>
+
+<p>Since 1977 the Jungian-Senoi Institute under the direction of Strephon Kaplan Williams, its founder, has given hundreds of dream classes and groups to individuals both in the San Francisco Bay Area, and from around the world.</p>
+
+<h2>The Jungian-Senoi Dreamwork Manual</h2>
+
+<p>The history of the Jungian-Senoi Dreamwork Manual is interesting in itself. To our knowledge, it is the first comprehensive manual ever published on working with dreams, and is part of the new movement to make dreamwork readily accessible to people. Since its publication in 1980, the Manual has steadily increased in sales and gone through six printings. At the present time, we receive letters about its use as the basis for various dream groups and classes in the U.S. and other countries. It has received favorable comment from Robert Bly and Richard Alpert (<a href="https://en.wikipedia.org/wiki/Ram_Dass">Ram Dass</a>), as well as various dream group leaders and practitioners. This manual is the first in a series for applying new forms of Jungian psychology to everyday life.</p>
+
+<h2>The Jungian-Senoi Institute</h2>
+
+<p>The Institute offers on-going dreamwork training and special Summer Intensives for those who live out of the area. In the Fall of 1984, Strephon Williams will be doing a dreamwork tour of Europe. The Manual will be published in German by a major Swiss publisher in the Fall of '83.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqhaskw ;
+    ns1:hasTag ns1:bcphbqhaskw,
+        ns1:bcpov6zfsra ;
+    ns1:inIssue ns1:bcpov6zfsra ;
+    ns1:itemId "bcpov2zsijsa"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Jungian-Senoi Approach to Dreamwork"^^xsd:string ;
+    ns1:urlSlug "the-jungian-senoi-approach-to-dreamwork"^^xsd:string .
+
 ns1:bcpov3zdngdt a ns1:Post ;
     ns1:dateCreated "1986-05-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov3zdngdt-0.jpg" alt="Man processing grapes" width="350" height="auto"/></p>
@@ -21657,6 +21700,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Dreams and Tarotpy"^^xsd:string ;
     ns1:url "https://www.dreamsandtarotpy.com/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> a ns1:Website ;
+    ns1:name "Obituary"^^xsd:string ;
+    ns1:url "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://www.droomtoko.nl/> a ns1:Website ;
     ns1:name "droomtoko.nl"^^xsd:string ;
     ns1:url "https://www.droomtoko.nl/"^^xsd:string .
@@ -22492,6 +22539,18 @@ ns1:bcphbqftrow a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Bob Trowbridge"^^xsd:string ;
     ns1:profileImg "author-bob-trowbridge.jpg"^^xsd:string .
+
+ns1:bcphbqhaskw a ns1:User ;
+    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
+    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
+    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the Jungian-Senoi Dreamwork Manual in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
+"""^^xsd:string ;
+    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
+    ns1:itemId "bcphbqhaskw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
+    ns1:profileImg "author-strephon.jpg"^^xsd:string .
 
 ns1:bcphbqiclur a ns1:User ;
     owl:sameAs "https://www.dreamportrayal.com/index.html"^^xsd:string ;
@@ -24768,27 +24827,6 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
 
-ns1:bcpov6zfsra a ns1:Post ;
-    ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p>
-
-<p>The Coat of Many Colors was a co-creation of John Van Daam, <a href="../@jeremytaylor">Jeremy Taylor</a> and Kathryn Taylor at the Dream Tree Press, and published in cooperation with the Dream Network Bulletin. It received contributions by many writers and artists who went on to dedicate their lives to the field of dreamwork and dream research, and many became well-known in the field if they were not already at the time. </p>
-
-<p>The Coat of Many Colors was intended as a snapshot of the dream movement at a time when it was just beginning to form a cohesive voice and self-awareness, and at the same time to foster this sense of collective purpose. </p>
-
-<p>The Dream Tree Press itself was a huge crank-driven machine in the basement of the Taylors' house, and Jeremy's daughter <a href="https://createwithspirit.wpcomstaging.com/">Tristy</a> remembers as a child collating pages and stapling booklets together. This publication is made available here with the kind permission of John van Daam (also known as John van Damm) and Tristy Taylor. </p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj,
-        ns1:bcphbqawtay ;
-    ns1:hasTag ns1:bcphbqawtay,
-        ns1:bcpov6pspec ;
-    ns1:itemId "bcpov6zfsra"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Coat of Many Colors"^^xsd:string ;
-    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
-    ns1:urlSlug "coat-of-many-colors"^^xsd:string .
-
 ns1:bcpqn76e7n5 a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>
 """^^xsd:string ;
@@ -25275,6 +25313,27 @@ ns1:bcphbzrw57c a ns1:Post ;
     ns1:profileImg "31.4-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "31.4"^^xsd:string .
+
+ns1:bcpov6zfsra a ns1:Post ;
+    ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p>
+
+<p>The Coat of Many Colors was a co-creation of John Van Daam, <a href="../@jeremytaylor">Jeremy Taylor</a> and Kathryn Taylor at the Dream Tree Press, and published in cooperation with the Dream Network Bulletin. It received contributions by many writers and artists who went on to dedicate their lives to the field of dreamwork and dream research, and many became well-known in the field if they were not already at the time. </p>
+
+<p>The Coat of Many Colors was intended as a snapshot of the dream movement at a time when it was just beginning to form a cohesive voice and self-awareness, and at the same time to foster this sense of collective purpose. </p>
+
+<p>The Dream Tree Press itself was a huge crank-driven machine in the basement of the Taylors' house, and Jeremy's daughter <a href="https://createwithspirit.wpcomstaging.com/">Tristy</a> remembers as a child collating pages and stapling booklets together. This publication is made available here with the kind permission of John van Daam (also known as John van Damm) and Tristy Taylor. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj,
+        ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbqawtay,
+        ns1:bcpov6pspec ;
+    ns1:itemId "bcpov6zfsra"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Coat of Many Colors"^^xsd:string ;
+    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "coat-of-many-colors"^^xsd:string .
 
 ns1:bcpovcsetdg a ns1:Topic ;
     owl:sameAs "https://dbpedia.org/page/Dream_sharing"^^xsd:string,

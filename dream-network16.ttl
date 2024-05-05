@@ -1062,7 +1062,7 @@ ns1:bcpov2zsijsa a ns1:Post ;
 
 ns1:bcpov2zsijt1 a ns1:Post ;
     ns1:dateCreated "1986-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p><img src="https://cdn.mathpix.com/cropped/2024_05_05_ff4828d9e3070934494bg-05.jpg?height=445&width=1227&top_left_y=580&top_left_x=769" alt="" /></p>
+    ns1:description """<p><img src="../images//Users/danielkennedy/dream-tarot-1.jpeg" alt="" /></p>
 
 <p>In this new regular column, the author of the <strong>Jungian-Senoi Dreamwork Manual</strong> will feature a dream each issue based on his forthcoming forthcoming book, <strong>Dream Tarot</strong>. Classic dreams are taken, and comments and dream tasks are added to help bring out the significance of the dream. All correspondence should be sent to the Jungian-Senoi Institute, P.O. Box 9036, Berkeley, CA 94709.</p>
 
@@ -1089,6 +1089,7 @@ ns1:bcpov2zsijt1 a ns1:Post ;
     ns1:itemId "bcpov2zsijt1"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Dream Tarot (Column 1)"^^xsd:string ;
+    ns1:profileImg "dream-tarot-1.jpeg"^^xsd:string ;
     ns1:urlSlug "dream-tarot-column-1"^^xsd:string .
 
 ns1:bcpov3zdngdt a ns1:Post ;

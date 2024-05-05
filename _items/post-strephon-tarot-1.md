@@ -10,11 +10,12 @@ tags:
     - inIssue: 5.3
 type: post
 urlSlug: "dream-tarot-column-1"
+profileImg: dream-tarot-1.jpeg
 ---
 
-![](https://cdn.mathpix.com/cropped/2024_05_05_ff4828d9e3070934494bg-05.jpg?height=445&width=1227&top_left_y=580&top_left_x=769)
+![](../images//Users/danielkennedy/dream-tarot-1.jpeg)
 
-In this new regular column, the author of the **Jungian-Senoi Dreamwork Manual** will feature a dream each issue based on his forthcoming forthcoming book, **Dream Tarot**. Classic dreams are taken, and comments and dream tasks are added to help bring out the significance of the dream. All correspondence should be sent to the Jungian-Senoi Institute, P.O. Box 9036, Berkeley, CA 94709.
+In this new regular column, the author of the [**Jungian-Senoi Dreamwork Manual**](https://archive.org/details/jungiansenoidrea00will/page/6/mode/2up) will feature a dream each issue based on his forthcoming forthcoming book, **Dream Tarot**. Classic dreams are taken, and comments and dream tasks are added to help bring out the significance of the dream. All correspondence should be sent to the Jungian-Senoi Institute, P.O. Box 9036, Berkeley, CA 94709.
 
 ## The Dream - "Resolution"
 

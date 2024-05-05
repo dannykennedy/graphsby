@@ -13,7 +13,7 @@ urlSlug: "dream-tarot-column-1"
 profileImg: dream-tarot-1.jpeg
 ---
 
-![](../images//Users/danielkennedy/dream-tarot-1.jpeg)
+![](../images/dream-tarot-1.jpeg)
 
 In this new regular column, the author of the [**Jungian-Senoi Dreamwork Manual**](https://archive.org/details/jungiansenoidrea00will/page/6/mode/2up) will feature a dream each issue based on his forthcoming forthcoming book, **Dream Tarot**. Classic dreams are taken, and comments and dream tasks are added to help bring out the significance of the dream. All correspondence should be sent to the Jungian-Senoi Institute, P.O. Box 9036, Berkeley, CA 94709.
 

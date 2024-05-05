@@ -43,7 +43,7 @@ To help us learn how to discover our own truths in such dreams, De Beer draws up
 
 <img src="../images/post-bcpov6glorev-1.jpg" width="350px" height="auto"/>
 
-**_Dream Symbol Work_** (New York: Paulist Press, 1991; 162 pp.), also focuses on our relationship with spiritual powers. The authors, Patricia Berne and Louis Savary, also wrote Dreams and Spiritual Growth (1984; Strephon Kaplan-Williams was a co-author), and this book is a simpler, easier-to-use version of that earlier work. Berne and Savary give a nice, neat definition of spirituality:
+**_Dream Symbol Work_** (New York: Paulist Press, 1991; 162 pp.), also focuses on our relationship with spiritual powers. The authors, Patricia Berne and Louis Savary, also wrote Dreams and Spiritual Growth (1984; [Strephon Kaplan-Williams](../@strephon_kaplan_williams) was a co-author), and this book is a simpler, easier-to-use version of that earlier work. Berne and Savary give a nice, neat definition of spirituality:
 
 > "For us, spirituality may be defined as 'my way of living, acting, and choosing in light of my ultimate values'." (p. 6)
 

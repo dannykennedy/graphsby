@@ -1060,6 +1060,37 @@ ns1:bcpov2zsijsa a ns1:Post ;
     ns1:name "The Jungian-Senoi Approach to Dreamwork"^^xsd:string ;
     ns1:urlSlug "the-jungian-senoi-approach-to-dreamwork"^^xsd:string .
 
+ns1:bcpov2zsijt1 a ns1:Post ;
+    ns1:dateCreated "1986-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="https://cdn.mathpix.com/cropped/2024_05_05_ff4828d9e3070934494bg-05.jpg?height=445&width=1227&top_left_y=580&top_left_x=769" alt="" /></p>
+
+<p>In this new regular column, the author of the <strong>Jungian-Senoi Dreamwork Manual</strong> will feature a dream each issue based on his forthcoming forthcoming book, <strong>Dream Tarot</strong>. Classic dreams are taken, and comments and dream tasks are added to help bring out the significance of the dream. All correspondence should be sent to the Jungian-Senoi Institute, P.O. Box 9036, Berkeley, CA 94709.</p>
+
+<h2>The Dream - "Resolution"</h2>
+
+<p>My former lover is angry with me because I have deserted him. The anger at me is really full and goes on for a while until he breaks down sobbing and I hold him in my arms. This feels like resolution at last.</p>
+
+<h2>COMMENTS:</h2>
+
+<p>In the dream the action completes itself. When in life we are betrayed, or feel betrayed, within ourselves is generated much hurt. The umbilical cord connecting us to our source of nurturing and life is again cut and we feel the agony of loss and separation. However, when this happens in childhood and there is no one to comfort and support us in our hurt then we must repress our wound and put on a brave face or get angry. Anger is the emotion of repressed feeling. Anger must eventually come out to release the feeling inside of it. Behind all anger is the wound. We ask ourselves when feeling angry, what is hurting inside of me.</p>
+
+<p>Every breakup of a major relationship is felt as a betrayal. A vital connection is being severed and we feel done in or at a loss. What is important is to experience this loss fully and safely so that we do not repress the energy and thus suffer a loss of vitality. Within the crying is the releasing which tears can bring.</p>
+
+<h2>QUESTIONS AND DREAM TASKS:</h2>
+
+<p>What does this dream evoke for you? If you are afraid of relating to others or being deeply yourself in a relationship, consider that you may be afraid of betrayal because you have not yet released the repressed hurt built up from the breakups of former relationships, starting in childhood. Go through the anger-hurt cycle within the security and understanding of someone you can trust. You have only yourself in life. The more you can open up to your own vulnerability the more you will be approachable in relationship. Your vulnerability becomes you if it leads to resolution. After tears you can arrive at a new openness, knowing that when the umbilical cord gets cut again you can express yourself and release fully.</p>
+
+<p>We fear suffering if our vital forces dam up due to repression. Release keeps the life energy flowing, Our betrayals can serve to differentiate us from others and thus make us more real. See yourself as the main figure in this dream and let yourself as the main figure in this dream and let yourself in a meditative state go through a similar process. Web the images with your own words and actions, and see yourself finally as a new person based on the outcome of this dream.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqhaskw ;
+    ns1:hasTag ns1:bcphbmjs6by,
+        ns1:bcphbqhaskw ;
+    ns1:inIssue ns1:bcphbmjs6by ;
+    ns1:itemId "bcpov2zsijt1"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dream Tarot (Column 1)"^^xsd:string ;
+    ns1:urlSlug "dream-tarot-column-1"^^xsd:string .
+
 ns1:bcpov3zdngdt a ns1:Post ;
     ns1:dateCreated "1986-05-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov3zdngdt-0.jpg" alt="Man processing grapes" width="350" height="auto"/></p>
@@ -22178,21 +22209,6 @@ ns1:bcphbmaewem a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "4.6"^^xsd:string .
 
-ns1:bcphbmjs6by a ns1:Post ;
-    ns1:coverImg "5.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1986-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.3-Dream-Network-Bulletin-Vol-5-No-3.pdf" download="">Download issue 5.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.3-Dream-Network-Bulletin-Vol-5-No-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoact7dh ;
-    ns1:itemId "bcphbmjs6by"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 5, issue 3"^^xsd:string ;
-    ns1:profileImg "5.3-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "5.3"^^xsd:string .
-
 ns1:bcphbntd445 a ns1:Post ;
     ns1:coverImg "7.5-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1988-09-01T11:32:52"^^xsd:dateTime ;
@@ -23374,6 +23390,21 @@ ns1:bcphbmgxd6x a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "5.2"^^xsd:string .
 
+ns1:bcphbmjs6by a ns1:Post ;
+    ns1:coverImg "5.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1986-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.3-Dream-Network-Bulletin-Vol-5-No-3.pdf" download="">Download issue 5.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.3-Dream-Network-Bulletin-Vol-5-No-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
+    ns1:itemId "bcphbmjs6by"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 5, issue 3"^^xsd:string ;
+    ns1:profileImg "5.3-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "5.3"^^xsd:string .
+
 ns1:bcphbmvxewa a ns1:Post ;
     ns1:coverImg "5.6-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
@@ -23659,22 +23690,6 @@ ns1:bcphbqerish a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Suzanna Hart"^^xsd:string ;
     ns1:profileImg "author-suzannahart.jpg"^^xsd:string .
-
-ns1:bcphbqhaskw a ns1:User ;
-    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
-    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
-    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the Jungian-Senoi Dreamwork Manual in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
-
-<p>Jungian-Senoi Dreamwork Institute offered a professional training program in Jungian-Senoi dreamwork and psychology. Its methodology emphasized the deliberate alteration of dream states, the resolution in dreams of problems encountered in waking consciousness, dream 'rehearsal' for activity while awake and the application of dreams to creative individual and community projects. Its dream groups were for the general public as well as for interested professionals.</p>
-
-<p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
-"""^^xsd:string ;
-    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
-    ns1:itemId "bcphbqhaskw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
-    ns1:profileImg "author-strephon.jpg"^^xsd:string .
 
 ns1:bcphbqhutch a ns1:User ;
     owl:sameAs "http://www.dreamlynx.com/linton.html"^^xsd:string ;
@@ -24644,6 +24659,22 @@ ns1:bcphbqerics a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Eric Snyder"^^xsd:string ;
     ns1:profileImg "author-ericsnyder.jpg"^^xsd:string .
+
+ns1:bcphbqhaskw a ns1:User ;
+    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
+    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
+    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the Jungian-Senoi Dreamwork Manual in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
+
+<p>Jungian-Senoi Dreamwork Institute offered a professional training program in Jungian-Senoi dreamwork and psychology. Its methodology emphasized the deliberate alteration of dream states, the resolution in dreams of problems encountered in waking consciousness, dream 'rehearsal' for activity while awake and the application of dreams to creative individual and community projects. Its dream groups were for the general public as well as for interested professionals.</p>
+
+<p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
+"""^^xsd:string ;
+    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
+    ns1:itemId "bcphbqhaskw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
+    ns1:profileImg "author-strephon.jpg"^^xsd:string .
 
 ns1:bcphbqmotte a ns1:User ;
     owl:sameAs "https://twitter.com/MarieOtte"^^xsd:string ;

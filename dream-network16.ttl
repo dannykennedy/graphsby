@@ -1828,6 +1828,43 @@ ns1:bcpov4kchstm a ns1:Post ;
     ns1:name "Honouring Stan the Man"^^xsd:string ;
     ns1:urlSlug "honouring-stan-the-man"^^xsd:string .
 
+ns1:bcpov4zsajsd a ns1:Post ;
+    ns1:dateCreated "1982-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><strong>Dream Example:</strong> February 21, 1981- "Someone, a Polish or foreign person, tries to assassinate Reagan but misses."</p>
+
+<p><strong>Comments:</strong> This dreamer from one of my dream groups had this dream over a month before the attempt on President Reagan's life. At first glance this may not seem like such an extraordinary dream since many people are likely to dream of assassination attempts on any President. But two unique things about this dream may take it out of the ordinary. One, the dream describes an attempt only, the same as did happen in outer life. Except, of course, the actual event involved President Reagan getting wounded but surviving. And, two, the dreamer, herself, lived for six years in the small community of Evergreen, Colorado, the same town in which the presumed assassin's family lived. She knew of the family but did not know them personally. It is quite possible that she has been in the same room or store with the man.</p>
+
+<p>We might question whether or not this dreamer is making up a story after the fact to gain notoriety. Do so-called psychic people in fact distort and misrepresent their experiences in order to gain a reputation as being all-powerful in the ability to see into the future? Probably a number of "psychic types" do color reality with a rich but fanciful imagination. But what if some psychic dream experiences are real? What then?</p>
+
+<p>With the above dream example I think we are being faced with a genuine experience of tuning into some other reality through the dream state. I have personally authenticated the words and date of entry in this person's dream journal and find her of high integrity.</p>
+
+<p>We may still doubt the truth of some dream reports, but researchers have validated many similar psychic dream experiences. And what do we make of the historical report that President Lincoln dreamed of seeing his body lying in state in the White House, dead of an assassin's bullet?</p>
+
+<p>From a Jungian psychological point of view we can say that often extraordinary events in the personal and collective life of a people are somehow dreamed about or made available to psychically in-tune people. Perhaps, at some level, nothing really escapes the human imagination and somehow, somewhere everything is known. Such a possibility creates awe and shivers down one's spine.</p>
+
+<p>We may be, all of us, interconnected by what Jung calls the collective unconscious, the realm and web of archetypes, or primal energies, which we all experience. Such great archetypes as Death-Rebirth, Journey, Masculine and Feminine, the Hero and Adversary, and the central archetype of the Self. Thus when we look into the collective unconscious through the window of the dream, its chief product, we may see not only our personal selves but other's inner and outer lives as well.</p>
+
+<h2>Living consciously the psychic dream</h2>
+
+<p>If we assume that people can and do have psychic or precognitive dreams, what can we do with such dreams?</p>
+
+<p>And how can we know when we are really foretelling the future in a dream or merely using public events as dream imagery for reflecting only personal dynamics and feelings?</p>
+
+<p>"If I dream of an earthQuake, is it about to happen? If I dream of my car crashing due to bad brakes, should I not drive my car for a few days, or even check to see if the brakes need fixing?" These are common questions people have asked me many times as I lecture at various places.</p>
+
+<p>Sometimes such a "psychic dreamer" may be afraid of his or her dreams because they might come true, or so he or she thinks. "If I really do have the ability to dream the future before it happens, do I really want such knowledge?"</p>
+
+<p>My response has always been that it is better to live consciously than to- avoid any part of reality. This means that if I choose to live consciously I must become willing to deal with whatever reality brings my way, tragedy or great joy. If it is sometimes given to me to precognitively dream the future, how can I use this fact to live a clearer, more meaningful life? Having psychic dreams challenges a person to become self-reflective so they can know the difference in themselves as to what they project, or put out onto the environment and other people, and what they genuinely perceive psychically.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqhaskw ;
+    ns1:hasTag ns1:bcphbhs662v,
+        ns1:bcphbqhaskw ;
+    ns1:inIssue ns1:bcphbhs662v ;
+    ns1:itemId "bcpov4zsajsd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Psychic Dreams"^^xsd:string ;
+    ns1:urlSlug "psychic-dreams"^^xsd:string .
+
 ns1:bcpov5modhtd a ns1:Post ;
     ns1:dateCreated "2004-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="https://dreamsynergy.com/honoring-the-dream/"><img src="../images/new-honoring-home-sized.png" width="300" alt="cover"/></a><!--nopreview--><div style="text-align:center" class="caption">Honoring the Dream: A Handbook for Dream Group Leaders by Justina Lasley, M.A. (Transpersonal Psychology)</div><!--/nopreview--></p>
@@ -22540,20 +22577,6 @@ ns1:bcphbqftrow a ns1:User ;
     ns1:name "Bob Trowbridge"^^xsd:string ;
     ns1:profileImg "author-bob-trowbridge.jpg"^^xsd:string .
 
-ns1:bcphbqhaskw a ns1:User ;
-    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
-    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
-    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the Jungian-Senoi Dreamwork Manual in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
-
-<p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
-"""^^xsd:string ;
-    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
-    ns1:itemId "bcphbqhaskw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
-    ns1:profileImg "author-strephon.jpg"^^xsd:string .
-
 ns1:bcphbqiclur a ns1:User ;
     owl:sameAs "https://www.dreamportrayal.com/index.html"^^xsd:string ;
     ns1:coverImg "cover-author-ireneclurman.jpg"^^xsd:string ;
@@ -23637,6 +23660,22 @@ ns1:bcphbqerish a ns1:User ;
     ns1:name "Suzanna Hart"^^xsd:string ;
     ns1:profileImg "author-suzannahart.jpg"^^xsd:string .
 
+ns1:bcphbqhaskw a ns1:User ;
+    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
+    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
+    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the Jungian-Senoi Dreamwork Manual in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
+
+<p>Jungian-Senoi Dreamwork Institute offered a professional training program in Jungian-Senoi dreamwork and psychology. Its methodology emphasized the deliberate alteration of dream states, the resolution in dreams of problems encountered in waking consciousness, dream 'rehearsal' for activity while awake and the application of dreams to creative individual and community projects. Its dream groups were for the general public as well as for interested professionals.</p>
+
+<p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
+"""^^xsd:string ;
+    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
+    ns1:itemId "bcphbqhaskw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
+    ns1:profileImg "author-strephon.jpg"^^xsd:string .
+
 ns1:bcphbqhutch a ns1:User ;
     owl:sameAs "http://www.dreamlynx.com/linton.html"^^xsd:string ;
     ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;
@@ -24272,21 +24311,6 @@ ns1:bcphbhe6wex a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "1.1"^^xsd:string .
 
-ns1:bcphbhs662v a ns1:Post ;
-    ns1:coverImg "1.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1982-05-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.3_Dream_Network_Bulletin_Vol.1_Issue_3.pdf" download="">Download issue 1.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.3_Dream_Network_Bulletin_Vol.1_Issue_3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn7zvpei ;
-    ns1:itemId "bcphbhs662v"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 1, issue 3"^^xsd:string ;
-    ns1:profileImg "1.3-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "1.3"^^xsd:string .
-
 ns1:bcphbm5mept a ns1:Post ;
     ns1:coverImg "6.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1987-07-01T11:32:52"^^xsd:dateTime ;
@@ -24917,6 +24941,21 @@ ns1:bcphb2asab7 a ns1:Post ;
     ns1:profileImg "33.1-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "33.1"^^xsd:string .
+
+ns1:bcphbhs662v a ns1:Post ;
+    ns1:coverImg "1.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1982-05-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.3_Dream_Network_Bulletin_Vol.1_Issue_3.pdf" download="">Download issue 1.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.3_Dream_Network_Bulletin_Vol.1_Issue_3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
+    ns1:itemId "bcphbhs662v"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1, issue 3"^^xsd:string ;
+    ns1:profileImg "1.3-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "1.3"^^xsd:string .
 
 ns1:bcphbnodjs2 a ns1:Post ;
     ns1:coverImg "7.3-cover.jpg"^^xsd:string ;

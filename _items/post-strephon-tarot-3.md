@@ -2,7 +2,7 @@
 dateCreated: "1986-09-01T11:32:52"
 itemId: bcpov2zsijt3
 layout: post
-name: "Dream Tarot (Column 3)"
+name: "Dream Tarot: Meeting of Soul-Mates"
 tags:
     - hasTag: strephon_kaplan_williams
     - hasAuthor: strephon_kaplan_williams

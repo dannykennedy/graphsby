@@ -2,7 +2,7 @@
 dateCreated: "1986-05-01T11:32:52"
 itemId: bcpov2zsijt1
 layout: post
-name: "Dream Tarot (Column 1)"
+name: "Dream Tarot: Resolution"
 tags:
     - hasTag: strephon_kaplan_williams
     - hasAuthor: strephon_kaplan_williams

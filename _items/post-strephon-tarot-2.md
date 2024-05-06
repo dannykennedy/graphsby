@@ -2,7 +2,7 @@
 dateCreated: "1986-07-01T11:32:52"
 itemId: bcpov2zsijt2
 layout: post
-name: "Dream Tarot (Column 2)"
+name: "Dream Tarot: The Snake Hors d'oeuvre"
 tags:
     - hasTag: strephon_kaplan_williams
     - hasAuthor: strephon_kaplan_williams

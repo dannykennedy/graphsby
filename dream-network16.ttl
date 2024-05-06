@@ -136,21 +136,6 @@ ns1:bcphbja6ifz a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "2.2"^^xsd:string .
 
-ns1:bcphbje2mwm a ns1:Post ;
-    ns1:coverImg "2.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.3-Dream-Craft-Volume-2-No-3.pdf" download="">Download issue 2.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.3-Dream-Craft-Volume-2-No-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn72unjj ;
-    ns1:itemId "bcphbje2mwm"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 2, issue 3"^^xsd:string ;
-    ns1:profileImg "2.3-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "2.3"^^xsd:string .
-
 ns1:bcphbk6b6uk a ns1:Post ;
     ns1:coverImg "3.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1984-01-01T11:32:52"^^xsd:dateTime ;
@@ -1190,7 +1175,7 @@ ns1:bcpov2zsijt5 a ns1:Post ;
     ns1:dateCreated "1988-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/dream-tarot-5.jpeg" width="400" alt="Two alchemists"/></p>
 
-<p>The The <a href="../bcpov2zsijsa/the-jungian-senoi-approach-to-dreamwork">Jungian-Senoi approach</a> emphasizes actualization over interpretation, which means that it uses universal dream themes rather than symbol systems to gain meaning from dreams. Using the techniques suggested here, you can experience the dream and its issues.</p>
+<p>The <a href="../bcpov2zsijsa/the-jungian-senoi-approach-to-dreamwork">Jungian-Senoi approach</a> emphasizes actualization over interpretation, which means that it uses universal dream themes rather than symbol systems to gain meaning from dreams. Using the techniques suggested here, you can experience the dream and its issues.</p>
 
 <h3>Procedure</h3>
 
@@ -1227,6 +1212,66 @@ ns1:bcpov2zsijt5 a ns1:Post ;
     ns1:name "Dream Tarot: The Secret"^^xsd:string ;
     ns1:profileImg "dream-tarot-5.jpeg"^^xsd:string ;
     ns1:urlSlug "dream-tarot-column-5"^^xsd:string .
+
+ns1:bcpov2zzijdh a ns1:Post ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov2zzijdh-0.jpg" width="500" alt="Man poking his head out of the firmament"/></p>
+
+<p>Certainly dreams have been used in healing in many cultures. Apparently the ancient Asclepian healing mysteries which lasted a thousand years in Greece based their healing practices on receiving a dream in which the god appeared with the remedy. More recently certain schools of psychotherapy such as the Gestalt and Jungian schools may use dreams for healing.</p>
+
+<p>In my own work developing a modified Jungian approach as represented in my <a href="https://archive.org/details/jungiansenoidrea00will/page/6/mode/2up">JUNGIAN-SENOI DREAMWORK MANUAL</a> the emphasis is on breakthrough healing. This is healing which really works, affecting major changes in personality and life. The traditional schools of psychotherapy base their dreamwork method more upon intellectual, interpretive approaches, which to my way of thinking is a strange mixture of projection and objectification on the part of both the therapist and client. It is at times simply amazing to me that anyone else even attempts to tell someone what his or her dream means. What is the alternative which can lead to healing?</p>
+
+<p>The method of actualization which I use is to emphasize ways of working with and enacting dreams until their resolution is effected. The functional word for healing is resolution. To resolve a conflict is to heal it, either through forming a new unity out of the conflicting parts, or through sacrifice and ending of that which is no longer relevant to new life.</p>
+
+<h2>The Method of Dream Reentry</h2>
+
+<p>My most central technique for effecting healing in the dream state and in life is Dream Reentry, my term for reentering and reexperiencing a dream with eyes closed in the meditative state. Most dreams seem to present issues and dynamics which seem unresolved. A student was tested as possibly having cervical cancer and worked with this symbolically and through the dream state. A crucial dream came in which she was to confront and deal with a large woman made of earth lying on the earth. In the original dream she as her dream ego was too afraid to approach the woman. I guided her through an extremely intense dream reentry in which she touched and brought to life the body of this woman, an important experience for her. When she was again tested for cancer the test showed her clear.</p>
+
+<p>There is no way I can claim credit for the physical change, but I do know that we worked directly to actualize the dream state regarding her condition. In theory, the dreams could have reflected the unconscious condition of her psyche, a sort of mirroring effect of what needs dealing with. Then through dream reentry the ego, the conscious choice-making side of the personality, enters the unconscious field and interacts with it to evoke acceptance and healing. Cancer here would represent a symptom, some neglect in the psyche which is also a neglect in the body.</p>
+
+<p>Another case of physical healing in relation to dreamwork involves the following. This woman in her thirties had been suffering from severe bouts of ulcerative colitis over the years. Psychologically she did not know how to handle and process her anger and her fears. She came to me for intensive dreamwork and together we decided that she would place herself under the care of a medical doctor who practiced only homeopathy, a non-traditional and non-medication approach to healing. At the same time she entered into an intensive program of therapy and dreamwork with me. The bleeding from her colon was severe and she suffered a great loss of energy, keeping her in bed for months and months. But through the whole time we both assisted her in staying with the process. She was to experience fully whatever came up for her, emotionally, physically and in dreams. This following an ancient healing principle that the sickness is the cure. Most modern medicine tries to attack and overwhelm the symptoms instead of assisting the person in going through the sickness. What we were after, of course, was evoking the self-healing part of herself. Homeopathy and Jungian-Senoi dreamwork both focus on self-healing. But who among us likes to go through the fire of transformation, to suffer until healing occurs.</p>
+
+<p>These are summaries of some of her most healing dreams during the period of the illness. This first dream occurred during the period when she was very sick, unable to sleep and experiencing night sweats. In a number of her previous dreams she had always gone past a certain door and never opened it out of extreme fear and anxiety. In this dream she opens the door and there down below is a man about to execute her father. She rushes down and prevents this from happening.</p>
+
+<p>It may be hard to capture the drama of the situation from a few images, but I can assure you that this was seen by her as a major breakthrough. For it represented to her that now she had the ability to open the door without first knowing what is behind it. And she does open it and there one of her worst fears materializes and she does something about it. No longer does she have to feel completely helpless in the face of potentially overwhelming circumstances. Enduring her sickness, going through it, not knowing whether she was going to live or die, was her dreamwork! Earlier in her life this illness had put her in the hospital and almost killed her. Now she was face to face with the fear, endless long hours of it. The dreams helped provide the perspective on her whole experience. She had to know that healing was possible and that it could come from her. She would sometimes ask me, is this process working? and I would have to answer, well, is it? The one thing I could not allow myself to do was try and open any doors for her.</p>
+
+<p>This next dream occurred when she was out of bed and getting her energy back. The symptoms were mostly gone and at the same time she had experienced a real transformation of personality. She dreamed that she was going into a barn with her mother and leading a black cow. She finds an overweight woman there with ulcerative colitis whom she tells that she too can be healed. Then the dreamer takes the woman on her own back and carries her! Again the drama of transformation. Rather than being overcome by the sickness and identified with despairing attitudes, she can now demonstrate through her own accomplishment that healing is possible.</p>
+
+<p>The earlier stage of healing was more one of desperation. The regular medical model of treatment involved destructive drug therapies such as cortisone treatments which had been debilitating to her before. Holistic health and Jungian dreamwork offered an alternative. Their spiritual principles were a lot clearer and better than Western science and medicine. Jung also makes the point in his works along similar lines that the cure is finding the meaning in the situation, that ultimately healing is the cure of souls. I could go into how she worked with the symbolism of the dream but here I have room only for the essential</p>
+
+<p>This last dream example occurred when she was again quite active in her life and in dealing with the world. This dream is fascinating in that it shows us a way to deal with the darkness in life and in the psyche. To summarize, in this dream the dreamer is sitting calmly in a very dark place and is herself covered with blood. It is and feels like a place of absolute darkness, yet she feels centered and not afraid. However, a friend there cries out, how terrible! There she is and look what is happening to her. She stays relaxed and laughs. She is accepting the situation and is not overwhelmed by it. A whole philosophy of life could be built around this dream. How many of us are capable of enduring the darkness until healing and resolution occurs? Most of us tend to identify with the terrors of life and flee from them, at least until we come to our senses. I could recall and describe the nights and days of debilitating terror this person experienced, including mental states of sheer darkness. But no, the emphasis is on healing, the resolutions and new life which can come out of such an experience.</p>
+
+<p>Dream reentry was not the primary method used here. We discussed the dreams and their implications and she did thousands of pages of journalwork around her dreams and the issues. She also painted some of the symbols including a series of mandalas.</p>
+
+<p>Another example of dreamwork healing involved a Viet Nam veteran suffering from a nightmare literally created by a war trauma. I include it here because I, like many others, are concerned about the fate of war veterans whose scars affect severely the rest of their lives. In this situation the man was a priest who kept having a recurrent nightmare of hearing the helicopters come in the afternoon with the wounded and the dead and going into his chapel to get his ritual objects for administering the last rites to the dead. In the dream over and over again he comes to the door to the receiving room and wakes up. He will not enter that door!</p>
+
+<p>He asked me for help and I led him in a guided dream reentry in which he opened the door and went into the receiving room. The first time he just described going in, looking around, and coming back out. I asked him if he would be willing to go in again and just stay there awhile and focus on something, just let his eyes wander until he came on something which had significance for him.</p>
+
+<p>He is in the room again and at the side of a soldier with a huge bandage on his head. He tries to see the face touching the bandage and a doctor gets mad at him saying that if he removes the bandage the man's brains will fall out. He looks at the wrist identification and the dying man is one whom he had met two weeks ago. They had both talked lightheartedly about how they were leaving Viet Nam soon, their tour of duty up. The now dead man had shown the dreamer a picture of his wife and small daughter.</p>
+
+<p>This was the revelation, the truth which the priest could not face for ten years, but which the dream source kept bringing back to him in his nightmares. I suggested he might go now, still. in the dream, and have a dialogue with God, even get angry with Him. We talked afterward. What had been hardest to take is how God could let such a terrible thing like this happen. His concept of an all powerful and all loving God did not encompass this reality, the dark and terrible side of life.</p>
+
+<p>We can almost conclude that working with dreams for healing means including all sides of life, what we like and what we hate, what is creative and what is destructive. Reality is reality and dreams seem to want us to face reality as it really is and not as we would like. it to be.</p>
+
+<p>Dreams and dreamwork can be central to any healing process involving the soul, the inner and meaningful content of a person. We look to the dreams, and the source behind the dreams, for the healing, for the bringing to resolution of the particular conflict in life.</p>
+
+<p>For the war veteran, he never had that nightmare again, and for the first time in ten years he was able to sleep all night now unafraid of having that terrible dream anymore. What most intrigues people, of course, who work in this kind of process is that the healing and the dreams come from within and not some external authority or source.</p>
+
+<p>Applying the above principles and examples to our own lives we might well ask, how well are we practicing the principle of bringing resolution in our own lives? Each day, and every relationship which is at aII real, is in constant need of resolution and healing. We accept the issues and deal with them using all the resources available. We do not try and run from the way things really are. We all know somewhere that the dream is probably the most honest side of ourselves and that we need to face that which we would hide or run from in ourselves and in life. The examples I have used here are powerful and dramatic to show a point, that healing can work in the most severe of circumstances. But it is into the everyday world that we must most venture for healing. It is in the little things also that the process continues so that we may be ready for the big events when they come along.</p>
+
+<p>The dreams do not do the healing. They present the issues and the potentials for resolution. But the resolution occurs because we consciously participate and choose healing in our lives. We become healers to ourselves.</p>
+
+<p><em><a href="../@strephon_kaplan_williams">Strephon Kaplan Williams</a> is a Leading researcher, teacher and therapist in dreamwork and Jungian psychology. He is the founder of the Jungian Dreamwork Institute and has written the JUNGIAN-SENOI DREAMWORK MANUAL.</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqhaskw ;
+    ns1:hasTag ns1:bcphbje2mwm,
+        ns1:bcphbqhaskw ;
+    ns1:inIssue ns1:bcphbje2mwm ;
+    ns1:itemId "bcpov2zzijdh"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreams and Healing"^^xsd:string ;
+    ns1:profileImg "post-bcpov2zzijdh-0.jpg"^^xsd:string ;
+    ns1:urlSlug "dreams-and-healing"^^xsd:string .
 
 ns1:bcpov3zdngdt a ns1:Post ;
     ns1:dateCreated "1986-05-01T11:32:52"^^xsd:dateTime ;
@@ -6528,7 +6573,7 @@ ns1:bcpov6kiasd1 a ns1:Post ;
     ns1:dateCreated "1984-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>This historic meeting took place on June 16 and 17, 1984 at the Metropolitan Club in San Francisco, California. Approximately 125 persons from all areas of the country and from such widespread geographical locations as Ecuador, Belgium and Japan attended.</p>
 
-<p>On the evening prior to the convention, Gayle Delaney and her husband, Steve Walsh, served as hosts for an informal reception at their home. After the Saturday morning program opened with a welcome by Dr. Gayle Delaney in her role as the President of the ASD, presenters gave papers on dreams and insight, the importance of dreams in psychotherapy, definition dream analysis, lucid dreams, dreams and synchronicity, and dreamwork in educational settings. The day's events ended with the keynote presentation of 160 slides by Dr. Van de Castle.</p>
+<p>On the evening prior to the convention, Gayle Delaney and her husband, Steve Walsh, served as hosts for an informal reception at their home. After the Saturday morning program opened with a welcome by Dr. Gayle Delaney in her role as the President of the ASD, presenters gave papers on dreams and insight, the importance of dreams in psychotherapy, definition dream analysis, lucid dreams, dreams and synchronicity, and dreamwork in educational settings. The day's events ended with the keynote presentation of 160 slides by <a href="../@bobvandecastle">Dr. Van de Castle</a>.</p>
 
 <p>On Sunday, the papers dealt with archetypal dream work, innovations in community dream work, dreams in the Christian tradition, dream reflections and creative writing, the perceptanalytic dream system, dreams and the shamanistic tradition and anthropological studies of the dream. The final presentation was by <a href="../@henryreed">Dr. Henry Reed</a> on dream realization.</p>
 
@@ -6538,7 +6583,7 @@ ns1:bcpov6kiasd1 a ns1:Post ;
 
 <p>The next ASD conference will be held June 19-23, 1985 at the University of Virginia at Charlottesville, Virginia. Participants will be housed in inexpensive, air-conditioned dorm suites on the beautiful West Lawn of the original grounds designed by Thomas Jefferson. Plans are being developed to include a wide range of research, clinical and theoretical papers as well as discussion panels during the daytime program. The evening programs will offer opportunities for small group meetings to share in educational and brief experiential workshops. Large scale dream induction and telepathic studies involving all interested persons are also being planned. Books on dreams and other educational materials such as tv tapes will be available and there will be a display of dream-inspired creative products (art, sculpture, etc.).</p>
 
-<p>There will be pre-convention one and two day experiential workshops offered by a variety of leaders such as Henry Reed, Bob Van de Castle, Gayle Delaney, Stephron Williams, and <a href="../@montagueullman">Monte Ullman</a>. There will be a welcoming party on Wednesday evening before the convention officially opens on Thursday morning. It would be helpful in estimating projected attendance if persons who think they might attend would drop a postcard indicating their interest or intent to the arrangements chairman:</p>
+<p>There will be pre-convention one and two day experiential workshops offered by a variety of leaders such as <a href="../@henryreed">Henry Reed</a>, <a href="../@bobvandecastle">Bob Van de Castle</a>, Gayle Delaney, <a href="../@strephon_kaplan_williams">Strephon Williams</a>, and <a href="../@montagueullman">Monte Ullman</a>. There will be a welcoming party on Wednesday evening before the convention officially opens on Thursday morning. It would be helpful in estimating projected attendance if persons who think they might attend would drop a postcard indicating their interest or intent to the arrangements chairman:</p>
 
 <p><strong><em>Dr. Robert Van de Castle, 6 East, Blue Ridge Hospital, Charlottesville, VA 22901</em></strong></p>
 """^^xsd:string ;
@@ -22241,6 +22286,21 @@ ns1:bcphbivy3pu a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "1.11"^^xsd:string .
 
+ns1:bcphbje2mwm a ns1:Post ;
+    ns1:coverImg "2.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.3-Dream-Craft-Volume-2-No-3.pdf" download="">Download issue 2.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.3-Dream-Craft-Volume-2-No-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
+    ns1:itemId "bcphbje2mwm"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 2, issue 3"^^xsd:string ;
+    ns1:profileImg "2.3-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "2.3"^^xsd:string .
+
 ns1:bcphbjilydj a ns1:Post ;
     ns1:coverImg "2.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-04-01T11:32:52"^^xsd:dateTime ;
@@ -26034,22 +26094,6 @@ ns1:bcphbqfgreg a ns1:User ;
     ns1:name "Jill Gregory"^^xsd:string ;
     ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
 
-ns1:bcphbqhaskw a ns1:User ;
-    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
-    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
-    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the <a href="https://archive.org/details/jungiansenoidrea00will/page/6/mode/2up">Jungian-Senoi Dreamwork Manual</a> in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
-
-<p>The Jungian-Senoi Dreamwork Institute offered a professional training program in Jungian-Senoi dreamwork and psychology. Its methodology emphasized the deliberate alteration of dream states, the resolution in dreams of problems encountered in waking consciousness, dream 'rehearsal' for activity while awake and the application of dreams to creative individual and community projects. Its dream groups were for the general public as well as for interested professionals.</p>
-
-<p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
-"""^^xsd:string ;
-    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
-    ns1:itemId "bcphbqhaskw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
-    ns1:profileImg "author-strephon.jpg"^^xsd:string .
-
 ns1:bcphbqsorna a ns1:User ;
     owl:sameAs "https://www.ben-shoshan.com/en/"^^xsd:string ;
     ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;
@@ -26130,6 +26174,22 @@ ns1:bcphbq3bogz a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Fariba Bogzaran"^^xsd:string ;
     ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
+
+ns1:bcphbqhaskw a ns1:User ;
+    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
+    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
+    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the <a href="https://archive.org/details/jungiansenoidrea00will/page/6/mode/2up">Jungian-Senoi Dreamwork Manual</a> in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
+
+<p>The Jungian-Senoi Dreamwork Institute offered a professional training program in Jungian-Senoi dreamwork and psychology. Its methodology emphasized the deliberate alteration of dream states, the resolution in dreams of problems encountered in waking consciousness, dream 'rehearsal' for activity while awake and the application of dreams to creative individual and community projects. Its dream groups were for the general public as well as for interested professionals.</p>
+
+<p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
+"""^^xsd:string ;
+    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
+    ns1:itemId "bcphbqhaskw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
+    ns1:profileImg "author-strephon.jpg"^^xsd:string .
 
 ns1:bcphbxjsuyu a ns1:Post ;
     ns1:coverImg "26.1-2-cover.jpg"^^xsd:string ;

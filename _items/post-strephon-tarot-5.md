@@ -15,7 +15,7 @@ profileImg: dream-tarot-5.jpeg
 
 <img src="../images/dream-tarot-5.jpeg" width="400" alt="Two alchemists"/>
 
-The The [Jungian-Senoi approach](../bcpov2zsijsa/the-jungian-senoi-approach-to-dreamwork) emphasizes actualization over interpretation, which means that it uses universal dream themes rather than symbol systems to gain meaning from dreams. Using the techniques suggested here, you can experience the dream and its issues.
+The [Jungian-Senoi approach](../bcpov2zsijsa/the-jungian-senoi-approach-to-dreamwork) emphasizes actualization over interpretation, which means that it uses universal dream themes rather than symbol systems to gain meaning from dreams. Using the techniques suggested here, you can experience the dream and its issues.
 
 ### Procedure
 

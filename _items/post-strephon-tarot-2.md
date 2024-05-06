@@ -13,7 +13,7 @@ urlSlug: "dream-tarot-column-2"
 profileImg: dream-tarot-2.jpeg
 ---
 
-In this column we will feature a classic Great Dream each issue based on the author's forthcoming book, The Dream Tarot. In working with this material the reader can experience each dream and its issues using techniques suggested here. The Jungian-Senoi approach emphasizes actualization over interpretation, which means that we use dreamwork methodology rather than symbol systems for gaining meaning from dreams.
+In this column we will feature a classic Great Dream each issue based on the author's forthcoming book, The Dream Tarot. In working with this material the reader can experience each dream and its issues using techniques suggested here. The [Jungian-Senoi approach](../bcpov2zsijsa/the-jungian-senoi-approach-to-dreamwork) emphasizes actualization over interpretation, which means that we use dreamwork methodology rather than symbol systems for gaining meaning from dreams.
 
 ## Procedure
 

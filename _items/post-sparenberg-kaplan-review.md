@@ -1,5 +1,5 @@
 ---
-dateCreated: "2008-10-01T11:32:52"
+dateCreated: "2008-07-01T11:32:52"
 itemId: bcpov6zfdasg
 layout: post
 name: "Dreams & Spiritual Growth: A Judeo-Christian Way of Dreamwork by Kaplan-Williams, Savary & Beren"

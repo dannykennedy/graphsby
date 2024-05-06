@@ -1005,6 +1005,8 @@ ns1:bcpov2zsijsa a ns1:Post ;
 <h2>The Jungian-Senoi Institute</h2>
 
 <p>The Institute offers on-going dreamwork training and special Summer Intensives for those who live out of the area. In the Fall of 1984, Strephon Williams will be doing a dreamwork tour of Europe. The Manual will be published in German by a major Swiss publisher in the Fall of '83.</p>
+
+<p><img src="../images/strephon_coat.jpg" alt="Strephon Williams"/></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqhaskw ;
     ns1:hasTag ns1:bcphbqhaskw,
@@ -1013,6 +1015,7 @@ ns1:bcpov2zsijsa a ns1:Post ;
     ns1:itemId "bcpov2zsijsa"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Jungian-Senoi Approach to Dreamwork"^^xsd:string ;
+    ns1:profileImg "strephon_coat.jpg"^^xsd:string ;
     ns1:urlSlug "the-jungian-senoi-approach-to-dreamwork"^^xsd:string .
 
 ns1:bcpov2zsijt1 a ns1:Post ;
@@ -1182,6 +1185,48 @@ ns1:bcpov2zsijt4 a ns1:Post ;
     ns1:name "Dream Tarot: The Tiger Comes"^^xsd:string ;
     ns1:profileImg "dream-tarot-4.jpeg"^^xsd:string ;
     ns1:urlSlug "dream-tarot-column-4"^^xsd:string .
+
+ns1:bcpov2zsijt5 a ns1:Post ;
+    ns1:dateCreated "1988-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/dream-tarot-5.jpeg" width="400" alt="Two alchemists"/></p>
+
+<p>The The <a href="../bcpov2zsijsa/the-jungian-senoi-approach-to-dreamwork">Jungian-Senoi approach</a> emphasizes actualization over interpretation, which means that it uses universal dream themes rather than symbol systems to gain meaning from dreams. Using the techniques suggested here, you can experience the dream and its issues.</p>
+
+<h3>Procedure</h3>
+
+<ol>
+<li><p>Read the dream and then go into a meditative state with your eyes closed and see the dream for yourself. Allow or place yourself and your own dream or life characters into the dream in place of the original characters.</p></li>
+<li><p>Re-enact the dream while still in the meditative state and immediately record your insights and feelings.</p></li>
+<li><p>Read the commentary here and the issues and questions. Respond to anything which is evocative for you, whether positive or negative.</p></li>
+<li><p>Bring your experience to essence in a principle, insight or life task for yourself. You might also put your experience into art or movement, or discuss it with a friend or guide. You have then made the dream your own.</p></li>
+</ol>
+
+<h2>The Dream - THE SECRET</h2>
+
+<blockquote>
+  <p><em>I have just signed on as an apprentice to an old man and his wife in order to learn a secret code for deciphering a cave mystery. At this point I am only studying some hydroglyphic stamped metal pieces, enhancing my knowledge without trying to directly break the code. I am committed to the project but in a learning stage. Perhaps I will inherit this beautiful place when the old people die. It is a spiritual place. In the early morning I observe two votive candles lit in different rooms, and I assume they have been placed there by the old man.</em></p>
+</blockquote>
+
+<h3>Comments and Issues</h3>
+
+<p>The dreamer has asked to become an apprentice and responds wholeheartedly with a right attitude to study, observe, enhance, and wait for the solution to arrive when it will. We have here a principle of letting oneself be called to one's purpose, and then when it happens, responding fully with a strong commitment. The value toward which the commitment is focused must be worth the price of giving one's personal needs over to a process greater than oneself. The focus here is a mystery, unlocking the secret to the mystery. What greater spiritual quest is there?</p>
+
+<h3>Tasks and Questions</h3>
+
+<ol>
+<li><p>You have received this dream either because you are confused as to your purposes in life, or because you are now ready to really explore new and deeper directions. Does the focus of your spiritual life need further inward work at this time? Apprentice yourself to a process which will help you find understanding.</p></li>
+<li><p>If your focus now is the creative process, do not try to force a solution. Enhance what you know about the situation and observe carefully what results. How do you respond? Describe your present situation in terms of the context of this dream.</p></li>
+</ol>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqhaskw ;
+    ns1:hasTag ns1:bcphbnxwzvo,
+        ns1:bcphbqhaskw ;
+    ns1:inIssue ns1:bcphbnxwzvo ;
+    ns1:itemId "bcpov2zsijt5"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dream Tarot: The Secret"^^xsd:string ;
+    ns1:profileImg "dream-tarot-5.jpeg"^^xsd:string ;
+    ns1:urlSlug "dream-tarot-column-5"^^xsd:string .
 
 ns1:bcpov3zdngdt a ns1:Post ;
     ns1:dateCreated "1986-05-01T11:32:52"^^xsd:dateTime ;
@@ -22361,21 +22406,6 @@ ns1:bcphbntd445 a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "7.5"^^xsd:string .
 
-ns1:bcphbnxwzvo a ns1:Post ;
-    ns1:coverImg "7.6-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1988-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.6-Dream-Network-Bulletin_Volume-7-Number-6.pdf" download="">Download issue 7.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.6-Dream-Network-Bulletin_Volume-7-Number-6.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoaivzve ;
-    ns1:itemId "bcphbnxwzvo"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 7, issue 6"^^xsd:string ;
-    ns1:profileImg "7.6-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "7.6"^^xsd:string .
-
 ns1:bcphboajs77 a ns1:Post ;
     ns1:coverImg "8.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1989-05-01T11:32:52"^^xsd:dateTime ;
@@ -23586,6 +23616,21 @@ ns1:bcphbnagfeb a ns1:Post ;
     ns1:profileImg "6.3-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "6.3"^^xsd:string .
+
+ns1:bcphbnxwzvo a ns1:Post ;
+    ns1:coverImg "7.6-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1988-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.6-Dream-Network-Bulletin_Volume-7-Number-6.pdf" download="">Download issue 7.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_7/7.6-Dream-Network-Bulletin_Volume-7-Number-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoaivzve ;
+    ns1:itemId "bcphbnxwzvo"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 7, issue 6"^^xsd:string ;
+    ns1:profileImg "7.6-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "7.6"^^xsd:string .
 
 ns1:bcphbo4ff76 a ns1:Post ;
     ns1:coverImg "10.1-cover.jpg"^^xsd:string ;
@@ -25785,22 +25830,6 @@ ns1:bcphbqflyer a ns1:User ;
     ns1:name "Linda Magallón"^^xsd:string ;
     ns1:profileImg "author-linda-magallon.jpg"^^xsd:string .
 
-ns1:bcphbqhaskw a ns1:User ;
-    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
-    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
-    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the <a href="https://archive.org/details/jungiansenoidrea00will/page/6/mode/2up">Jungian-Senoi Dreamwork Manual</a> in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
-
-<p>The Jungian-Senoi Dreamwork Institute offered a professional training program in Jungian-Senoi dreamwork and psychology. Its methodology emphasized the deliberate alteration of dream states, the resolution in dreams of problems encountered in waking consciousness, dream 'rehearsal' for activity while awake and the application of dreams to creative individual and community projects. Its dream groups were for the general public as well as for interested professionals.</p>
-
-<p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
-"""^^xsd:string ;
-    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
-    ns1:itemId "bcphbqhaskw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
-    ns1:profileImg "author-strephon.jpg"^^xsd:string .
-
 ns1:bcphbqskoff a ns1:User ;
     owl:sameAs "https://touchdrawing.com/"^^xsd:string,
         "https://twitter.com/debsoultouch"^^xsd:string,
@@ -26004,6 +26033,22 @@ ns1:bcphbqfgreg a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jill Gregory"^^xsd:string ;
     ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
+
+ns1:bcphbqhaskw a ns1:User ;
+    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
+    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
+    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the <a href="https://archive.org/details/jungiansenoidrea00will/page/6/mode/2up">Jungian-Senoi Dreamwork Manual</a> in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
+
+<p>The Jungian-Senoi Dreamwork Institute offered a professional training program in Jungian-Senoi dreamwork and psychology. Its methodology emphasized the deliberate alteration of dream states, the resolution in dreams of problems encountered in waking consciousness, dream 'rehearsal' for activity while awake and the application of dreams to creative individual and community projects. Its dream groups were for the general public as well as for interested professionals.</p>
+
+<p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
+"""^^xsd:string ;
+    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
+    ns1:itemId "bcphbqhaskw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
+    ns1:profileImg "author-strephon.jpg"^^xsd:string .
 
 ns1:bcphbqsorna a ns1:User ;
     owl:sameAs "https://www.ben-shoshan.com/en/"^^xsd:string ;

@@ -10,6 +10,7 @@ tags:
     - inIssue: coat-of-many-colors
 type: post
 urlSlug: "the-jungian-senoi-approach-to-dreamwork"
+profileImg: strephon_coat.jpg
 ---
 
 Perhaps the most central contribution which the Jungian-Senoi Institute has made to the field of dreaming and dreamwork is developing a complete dreamwork methodology of interrelated techniques for using dreams in one's life.
@@ -43,3 +44,5 @@ The history of the Jungian-Senoi Dreamwork Manual is interesting in itself. To o
 ## The Jungian-Senoi Institute
 
 The Institute offers on-going dreamwork training and special Summer Intensives for those who live out of the area. In the Fall of 1984, Strephon Williams will be doing a dreamwork tour of Europe. The Manual will be published in German by a major Swiss publisher in the Fall of '83.
+
+<img src="../images/strephon_coat.jpg" alt="Strephon Williams"/>

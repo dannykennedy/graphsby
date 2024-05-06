@@ -14455,6 +14455,41 @@ ns1:bcpov6zfcybr a ns1:Post ;
     ns1:name "Dreaming Online: The Global Cyberspace Dreamsharing Community"^^xsd:string ;
     ns1:urlSlug "dreaming-online-the-global-cyberspace-dreamsharing-community"^^xsd:string .
 
+ns1:bcpov6zfdasg a ns1:Post ;
+    ns1:dateCreated "2008-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.amazon.com.au/Dreams-Spiritual-Growth-Judeo-Christian-Techniques/dp/080912629X"><img width="300" src="../images/post-bcpov6zfdasg-0.jpg"></img></a><!--nopreview--><div class="caption"><i>Dreams &amp; Spiritual Growth, A Judeo-Christian Way of Dreamwork, by Louis Savary, Patricia Beren and <a href="../@strephon_kaplan_williams">Strephon Kaplan-Williams</a>, Paulist Press, 241 pp</i></div><!--/nopreview--></p>
+
+<p>My book choice for this review has provided inspiration for a new workshop with which I am involved. While my personal approach to religion is eclectic—non-denominational and advocating interfaith dialogue—I am thoroughly familiar with the Biblical Canon and Bible stories remain profoundly compelling.</p>
+
+<p>Dreams &amp; Spiritual Growth is a valuable work recanting and interpreting dream-based Bible stories for Jews and Christians alike. The volume includes, as well, 37 exciting dreamwork techniques. All in all, this title is an excellent resource for the faithbased dream practitioner, whether cleric or layperson.</p>
+
+<p>A short tour through several quotations will give my readers a good sense of at least one side of the content of Dreams &amp; Spiritual Growth:</p>
+
+<p><strong>Destiny p 117:</strong> “Destiny involves us in paradox; we seek fully to know our destiny, yet accept the fact that we will never fully know it. While we are called to try to understand our ultimate purpose and to live as consciously aware of it as possible, we are also called to give up having to know exactly the ultimate meaning of our lifes’ experience. Our destiny is where God’s mystery and our mystery intersect. Dreams and dreamwork allow us to increase our consciousness of God’s call and relationship to us.”</p>
+
+<p><strong>Soul p 119:</strong> “We define the soul as that dimension of us most directly connected to God. Our soul carries the destiny (telos) energy. …Moved by the grace of God our soul guides us to sense our destiny by using dreams. Dreams have been described as the voice of the soul at work.”</p>
+
+<p><strong>Journey p 121:</strong> “If destiny is what God wants of us and quest is what we want of God, then the inevitable (fate) is what both God and we must deal with. Our journey then may be viewed as the intersection of these three great forces—destiny, the quest and the inevitable.”</p>
+
+<p><strong>Healing p 164:</strong> “Perhaps the major need today is for a strong commitment to bring healing and resolution into everything we do... as individuals, in community, with God and in the world. What would it be like if the people of the world took as focus not the maintaining of conflicts, the building of armaments, the fostering of hatred and differences… but working for unity and resolution, no matter how great the conflict. In dreams and dreamwork we learn to face our adversaries and establish new relationships with them. Can we afford to do less than this in the outer world?”</p>
+
+<p><strong>Dreams &amp; Holiness p 188:</strong> “In this book we do not intend to define the role and enumerate the duties of a spiritual director. We simply propose some ways by which dreams and dreamwork can be used in spiritual direction to intensify spiritual growth… and thus foster the process of holiness and the eager acceptance of one’s unfolding destiny.”</p>
+
+<p>With this volume we confront the twin challenges of the internal quest for true self, on one side of our life sphere and the transhuman connective with the God-dream. On the outward-turning side, the prophetic promise of visionary and dream-evolving planetary citizenship, rooted in justice, spiritual abundance and compassion. ∞</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3spar ;
+    ns1:hasTag ns1:bcphbq3spar,
+        ns1:bcphbxz53sl ;
+    ns1:hasTopic ns1:bcphbqhaskw,
+        ns1:bcpovcretdb ;
+    ns1:inIssue ns1:bcphbxz53sl ;
+    ns1:itemId "bcpov6zfdasg"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreams & Spiritual Growth: A Judeo-Christian Way of Dreamwork by Kaplan-Williams, Savary & Beren"^^xsd:string ;
+    ns1:profileImg "post-bcpov6zfdasg-0.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
+    ns1:urlSlug "dreams-and-spiritual-growth-a-judeo-christian-way-of-dreamwork"^^xsd:string .
+
 ns1:bcpov6zfdepr a ns1:Post ;
     ns1:dateCreated "1997-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>(Date unknown, after 1996)</p>
@@ -25035,21 +25070,6 @@ ns1:bcphbxplpmw a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "26.4"^^xsd:string .
 
-ns1:bcphbxz53sl a ns1:Post ;
-    ns1:coverImg "27.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2008-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.3_dreaming_politics.pdf" download="">Download issue 27.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.3_dreaming_politics.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocezqpx ;
-    ns1:itemId "bcphbxz53sl"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 27, issue 3: Dreaming Politics"^^xsd:string ;
-    ns1:profileImg "27.3-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "27.3"^^xsd:string .
-
 ns1:bcphby2swke a ns1:Post ;
     ns1:coverImg "29.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2010-10-01T11:32:52"^^xsd:dateTime ;
@@ -25552,6 +25572,21 @@ ns1:bcphbwv4jtr a ns1:Post ;
     ns1:profileImg "24.4-25.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "24.4-25.1"^^xsd:string .
 
+ns1:bcphbxz53sl a ns1:Post ;
+    ns1:coverImg "27.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2008-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.3_dreaming_politics.pdf" download="">Download issue 27.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_27/27.3_dreaming_politics.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocezqpx ;
+    ns1:itemId "bcphbxz53sl"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 27, issue 3: Dreaming Politics"^^xsd:string ;
+    ns1:profileImg "27.3-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "27.3"^^xsd:string .
+
 ns1:bcphbyoxe6n a ns1:Post ;
     ns1:coverImg "29.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2010-04-01T11:32:52"^^xsd:dateTime ;
@@ -25698,19 +25733,6 @@ ns1:bcphboc7tt5 a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "8.4"^^xsd:string .
 
-ns1:bcphbq3spar a ns1:User ;
-    owl:sameAs "https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww"^^xsd:string ;
-    ns1:description """<p>International Eco Ebook, Author OVI Bookshop, Director-Scriptwriter for CROSSING the THRESHOLD TOGETHER video project</p>
-
-<p>David's <a href="https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww">YouTube</a> channel</p>
-"""^^xsd:string ;
-    ns1:handle "davidsparenberg"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww> ;
-    ns1:itemId "bcphbq3spar"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "David Sparenberg"^^xsd:string ;
-    ns1:profileImg "author-david-sparenberg.jpg"^^xsd:string .
-
 ns1:bcphbqvbird a ns1:User ;
     owl:sameAs "http://tendingdreams.com/"^^xsd:string ;
     ns1:coverImg "cover-author-kim-birdsong.jpg"^^xsd:string ;
@@ -25840,6 +25862,19 @@ ns1:bcphbq3mcle a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dick McLeester"^^xsd:string ;
     ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
+
+ns1:bcphbq3spar a ns1:User ;
+    owl:sameAs "https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww"^^xsd:string ;
+    ns1:description """<p>International Eco Ebook, Author OVI Bookshop, Director-Scriptwriter for CROSSING the THRESHOLD TOGETHER video project</p>
+
+<p>David's <a href="https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww">YouTube</a> channel</p>
+"""^^xsd:string ;
+    ns1:handle "davidsparenberg"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww> ;
+    ns1:itemId "bcphbq3spar"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "David Sparenberg"^^xsd:string ;
+    ns1:profileImg "author-david-sparenberg.jpg"^^xsd:string .
 
 ns1:bcphbq3vand a ns1:User ;
     owl:sameAs "https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html"^^xsd:string ;
@@ -26175,22 +26210,6 @@ ns1:bcphbq3bogz a ns1:User ;
     ns1:name "Fariba Bogzaran"^^xsd:string ;
     ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
 
-ns1:bcphbqhaskw a ns1:User ;
-    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
-    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
-    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the <a href="https://archive.org/details/jungiansenoidrea00will/page/6/mode/2up">Jungian-Senoi Dreamwork Manual</a> in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
-
-<p>The Jungian-Senoi Dreamwork Institute offered a professional training program in Jungian-Senoi dreamwork and psychology. Its methodology emphasized the deliberate alteration of dream states, the resolution in dreams of problems encountered in waking consciousness, dream 'rehearsal' for activity while awake and the application of dreams to creative individual and community projects. Its dream groups were for the general public as well as for interested professionals.</p>
-
-<p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
-"""^^xsd:string ;
-    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
-    ns1:itemId "bcphbqhaskw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
-    ns1:profileImg "author-strephon.jpg"^^xsd:string .
-
 ns1:bcphbxjsuyu a ns1:Post ;
     ns1:coverImg "26.1-2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
@@ -26216,6 +26235,22 @@ ns1:bcpovcredja a ns1:Topic ;
     ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string ;
     ns1:shortName "Dream Apps & Websites"^^xsd:string ;
     ns1:subType "Thing"^^xsd:string .
+
+ns1:bcphbqhaskw a ns1:User ;
+    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
+    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
+    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the <a href="https://archive.org/details/jungiansenoidrea00will/page/6/mode/2up">Jungian-Senoi Dreamwork Manual</a> in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
+
+<p>The Jungian-Senoi Dreamwork Institute offered a professional training program in Jungian-Senoi dreamwork and psychology. Its methodology emphasized the deliberate alteration of dream states, the resolution in dreams of problems encountered in waking consciousness, dream 'rehearsal' for activity while awake and the application of dreams to creative individual and community projects. Its dream groups were for the general public as well as for interested professionals.</p>
+
+<p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
+"""^^xsd:string ;
+    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
+    ns1:itemId "bcphbqhaskw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
+    ns1:profileImg "author-strephon.jpg"^^xsd:string .
 
 ns1:bcphbqvreed a ns1:User ;
     owl:sameAs "https://web.archive.org/web/20180522230707/http://www.henryreed.com/"^^xsd:string ;

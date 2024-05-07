@@ -18912,6 +18912,85 @@ ns1:bcpoy2htdfsa a ns1:Post ;
     ns1:profileImg "post-bcpoy2htdfsa-0.jpg"^^xsd:string ;
     ns1:urlSlug "fairy-slipper-orchid-homage-montague-ullman"^^xsd:string .
 
+ns1:bcpoy5zfldnd a ns1:Post ;
+    ns1:dateCreated "2002-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>One of the most dramatic developments in dreamwork over the past 20 years has been the widespread acceptance of the phenomenon of lucid dreaming. Numerous books, papers, and at least one doctoral dissertation have been devoted to this subject, and some researchers have developed technological devices designed to enhance lucidity. It seems obvious that all of this interest is about something which happens to some of us, some of the time, when we dream. It also seems clear that concentration upon lucidity, and the freedom of action it affords within dreaming, has a self-generating aspect: the more one practices, the more frequent and the more vivid lucid dreams may become.</p>
+
+<p>I do not wish to dispute any of these findings. I myself have had a number of classic lucid dreams and I have enjoyed them, though I have not sought them out deliberately. What I am going to suggest in this brief article is that we ought to consider this subject more circumspectly, and avoid what <a href="../@jeremytaylor">Jeremy Taylor</a> calls the trap of "misplaced literalism." I am going to suggest an alternative explanation of lucidity which-while not denying the experience-places it in a somewhat different context. I want to make it clear that this alternative explanation arises out of my own dreaming. I put it forth more in the form of an hypothesis than as a fully formulated theory, and I welcome comments.</p>
+
+<p>My suggestion is that lucid dreams (or, at least, some lucid dreams) are a special case of 'nested' dreams: dreams which are stacked one inside the other like Russian dolls, and in which the dreamer becomes aware of the inner dream within the outer dream. There may be no limit to the number of levels of nesting that can exist. I do not know how common nested dreams are for others, but I have recorded a total of 122 dreams over the past 11 years in which I either recall a preceding dream or dreams of the same night, or I am recording such a dream in my dream journal. Another 28 dreams relate back to dreams I recall from previous nights. Here is a typical example of a pair of nested dreams:</p>
+
+<h2>Lucid Dream #1, 4/11/1996</h2>
+
+<blockquote>
+  <p><em>I'm at an organizational meeting in an empty hall. There is a long table in the center and various power tools around. I am not presiding; I arrive after the meeting has begun and take a seat at the far corner of the table. An old colleague is talking about plans for our Museum. I realize that this is not right (since he is dead) but rather than interrupt him I pull on the sleeves of those sitting next to me and point to him. They don't seem to notice anything is wrong. Then an even older colleague starts to speak, reminiscing about the days when all he had to do for the organization was to pay his dues. Now I know that this is wrong, because I know that he died several years ago, and that I am dreaming. I announce this to the others, and tell them that to prove it I will now float to the ceiling and back again. I do this, but they are unimpressed. I try again to prove it by moving myself through a power saw. Finally, I decide to leave. At the glass door, I encounter a workman with a half-round file in his hand. I realize I could convince him if I really wanted to.</em></p>
+</blockquote>
+
+<p>Then I wake up into:</p>
+
+<h2>Lucid Dream #2, 4/11/1996</h2>
+
+<blockquote>
+  <p><em>I'm in bed, recounting the preceding lucid dream to my wife. I suspect that I am still dreaming, and to test this I shout "HI" several times. She puts her hand on my arm and tells me to stop shouting, that I'm awake.</em></p>
+</blockquote>
+
+<p>But of course I wasn't!</p>
+
+<p>The contents of these dreams are extremely variable, and I do not intend to discuss their meanings here, but the motif of nesting links them all. In most of them, the dreams to which they refer are ones I can remember having, sometimes ones which I got up in the middle of the night to record, but in a few cases my dream imagination has completely confabulated earlier dreams. And in some of them lucidity is a subject of discussion, or a motif within the dream rather than a direct experience. A simple example:</p>
+
+<h2>Lucidity Without Content, 6/4/1994</h2>
+
+<blockquote>
+  <p><em>I dream that I am having several lucid dreams; as soon as I become aware that I am dreaming I awaken each time into the frame dream.</em></p>
+</blockquote>
+
+<p>This has suggested to me the following idea: that lucid dreams are nested dreams in which there is leakage between the levels. In other words, <em>in a lucid dream, the dreamer in the outer dream becomes aware that the inner dream is a dream, while the inner dream is still going on.</em></p>
+
+<p><img src="../images/post-bcpoy5zfldnd-0.jpg" width="300" alt="Concentric rings showing the outer and inner dreams"/></p>
+
+<p>This was brought home to me by a recent dream, on the morning of the actual events which the dream describes. A friend named Patricia (not Patti Garfield!) had e-mailed me the night before with information on this,</p>
+
+<p>including a link to the International Space Station website, which I checked. I was planning to get up and watch the light show, but this dream happened instead:</p>
+
+<h2>The Leonid Meteor Shower, 11/19/2002</h2>
+
+<blockquote>
+  <p><em>I awaken in bed and with some difficulty raise myself to check the digital clock. It reads 5:30. Just in time to catch the <a href="https://en.wikipedia.org/wiki/Leonids">Leonid meteor shower</a>. I consider not getting up, staying in bed - dreams are so much more interesting! - but I rouse myself and my wife and we get dressed in warm clothing and go outside. She asks me which direction we should look and I say north. We go to the end of our driveway where there is a gap in the trees where we can look to the north. Immediately we begin to see a spectacular light show! Golden meteors streak across the sky, every 10 seconds or so. We also see the Skylab satellite passing overhead, very low - only a few hundred feet; the light reflects off its white enamel solar panels. It is clearly about to crash, but fortunately it misses our house and the one next door. A young couple, who are servants, come out to join us. From their comments I come to the conclusion that I am dreaming. I awaken in bed and with more difficulty than before I raise myself to check the digital clock. It reads 5:35. Still in time to catch the Leonid meteor shower.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>I consider not getting up, staying in bed - my last dream was so vivid! - but I rouse myself and my wife and we get dressed in warm clothing and go outside. This time there are fewer meteors than before, and they are less spectacular. A middle-aged English couple come out to join us. $&gt;$ From their comments I come to the conclusion that I am dreaming. I awaken in bed and with even more difficulty than before I raise myself to check the digital clock. It reads 6:40. Too late to catch the Leonid meteor shower - it is already light outside. I go to a renovated barn where an inventor has devised a mechanism for stimulating lucid dreams. I am reminded of <a href="../@stephenlaberge">Stephen LaBerge's</a> <a href="https://www.baar.com/novadrmr.htm">device</a>. Patricia Garfield is also there, and we face the inventor, a young man, across a wooden table. I state my position on lucid dreams. I say that I have certainly had and enjoyed spontaneous lucid dreams - for example, my two dreams about the Leonid meteor shower! But I don't think it's right to try to induce them. The other two respect my views, even if they don't agree with them.</em></p>
+</blockquote>
+
+<p>My friend Patricia later informed me that I had the best view of the show! This is a triple-nested dream which ends up discussing lucid dreaming, and accurately presenting my views about it. When I awoke from the outermost dream the clock actually said 6:40!</p>
+
+<p>Here is another dream which illustrates the possibility that, in cases where lucidity occurs without the dreamer being aware of nesting, perhaps the exit from both levels to waking consciousness happened so swiftly that the dreamer was not aware of it.</p>
+
+<h2>Lucid Pop! 2/9/2001</h2>
+
+<blockquote>
+  <p><em>My wife and I are visiting with her parents and some other family members in a house in Tennessee. We've been away from home for nearly 2 weeks and it is getting to be time that I want to go home. We are staying in the basement, which is unfinished, sleeping on blankets on a cement floor. Our dirty laundry is piled against a support column near the corner. We awaken and we're in our usual bed, but in my old room in my parents' house. We speculate that perhaps we're dreaming. But everything seems so real that I can't think of a way to prove this. I get up and go out into the hall. When I attempt to return to the bedroom, it is like swimming through molasses, everything is in slow motion. I say, "Now I know that I'm dreaming!" and pop out of both levels of the dream!</em></p>
+</blockquote>
+
+<p>We might symbolize the situation I am describing like this:</p>
+
+<p><img src="../images/post-bcpoy5zfldnd-1.jpg" width="300" alt="Concentric rings showing the outer and inner dreams, with the ring of the inner dream broken by lucidity"/></p>
+
+<p>In conclusion, one of the things which the Eastern dream teachings stress is that the goal is not to achieve the ability to dream lucidly, for the entire realm of waking world experience is considered neither more, nor less real than the dream state. Instead, they counsel us to undertake the more difficult discipline of lucid living. We might represent this state of lucid living in the following way:</p>
+
+<p><img src="../images/post-bcpoy5zfldnd-3.jpg" width="300" alt="Concentric rings showing the outer and inner dreams, with the ring of the inner dream broken by lucidity, and the outermost square of reality broken by lucid living."/></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3curt ;
+    ns1:hasTag ns1:bcphbq3curt,
+        ns1:bcphbt7x4uv ;
+    ns1:hasTopic ns1:bcpovcretld ;
+    ns1:inIssue ns1:bcphbt7x4uv ;
+    ns1:itemId "bcpoy5zfldnd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Lucid Dreams, Nested Dreams"^^xsd:string ;
+    ns1:profileImg "post-bcpoy5zfldnd-3.jpg"^^xsd:string ;
+    ns1:urlSlug "lucid-dreams-nested-dreams"^^xsd:string .
+
 ns1:bcpoy6htdatt a ns1:Post ;
     ns1:dateCreated "1983-02-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>In my mind there is no doubt that dreamwork is a supreme tool for developing the modalities of consciousness necessary if a novelist is to become a master of his art and a successful human being. Writing a novel, for me, is identical to working with a dream, only it is a very much more advance. process for, in a very real sense, it entails working with all your dreams at once. Becoming a novelist has been an especially hard task for a person like me. Because it has meant I had to learn how to be. Your level of creativity and genius is a direct function of how well you are able to learn how to be. Be what? Yourself, of course. Fully yourself.</p>
@@ -24966,21 +25045,6 @@ ns1:bcphbqp3hfp a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "12.4"^^xsd:string .
 
-ns1:bcphbt7x4uv a ns1:Post ;
-    ns1:coverImg "19.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2000-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.1-Dream-Network-Vol-19-No-1.pdf" download="">Download issue 19.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.1-Dream-Network-Vol-19-No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobmu4ep ;
-    ns1:itemId "bcphbt7x4uv"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 19, issue 1: Animals in Dreams: What do they Symbolize?"^^xsd:string ;
-    ns1:profileImg "19.1-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "19.1"^^xsd:string .
-
 ns1:bcphbte5ugv a ns1:Post ;
     ns1:coverImg "17.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1998-07-01T11:32:52"^^xsd:dateTime ;
@@ -25173,20 +25237,6 @@ ns1:bcpqoaivzve a ns1:Post ;
     ns1:profileImg "volume-7.jpg"^^xsd:string ;
     ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-7"^^xsd:string .
-
-ns1:bcphbq3curt a ns1:User ;
-    owl:sameAs "https://www.bridgew.edu/person/dr-curtiss-hoffman"^^xsd:string ;
-    ns1:coverImg "cover-image-curtiss-hoffman.jpg"^^xsd:string ;
-    ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of <em>The Seven Story Tower: A Mythic Journey through Space and Time</em>, and <em>Stone Prayers</em>, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.</p>
-
-<p>He was the host of the 2006 IASD conference at Bridgewater State, and has presented at IASD conferences and at the on-line Psiberdreaming Conference for several years. Since 2004, he has been the chair of the IASD Student Research Awards Committee.</p>
-"""^^xsd:string ;
-    ns1:handle "curtisshoffman"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.bridgew.edu/person/dr-curtiss-hoffman> ;
-    ns1:itemId "bcphbq3curt"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Curtiss Hoffman"^^xsd:string ;
-    ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
 
 ns1:bcphbq3norm a ns1:User ;
     ns1:coverImg "cover-author-rachelnorment.jpg"^^xsd:string ;
@@ -25512,6 +25562,21 @@ ns1:bcphbssmith a ns1:User ;
     ns1:name "Sandy Sela-Smith"^^xsd:string ;
     ns1:profileImg "author-sandy-sela-smith.jpg"^^xsd:string .
 
+ns1:bcphbt7x4uv a ns1:Post ;
+    ns1:coverImg "19.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2000-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.1-Dream-Network-Vol-19-No-1.pdf" download="">Download issue 19.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.1-Dream-Network-Vol-19-No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobmu4ep ;
+    ns1:itemId "bcphbt7x4uv"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 19, issue 1: Animals in Dreams: What do they Symbolize?"^^xsd:string ;
+    ns1:profileImg "19.1-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "19.1"^^xsd:string .
+
 ns1:bcphbv6y2vp a ns1:Post ;
     ns1:coverImg "23.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2004-04-01T11:32:52"^^xsd:dateTime ;
@@ -25702,6 +25767,20 @@ ns1:bcpovcsetdg a ns1:Topic ;
     ns1:name "Dream Sharing & Dream Groups"^^xsd:string ;
     ns1:shortName "Dreamsharing Groups"^^xsd:string ;
     ns1:subType "Thing"^^xsd:string .
+
+ns1:bcphbq3curt a ns1:User ;
+    owl:sameAs "https://www.bridgew.edu/person/dr-curtiss-hoffman"^^xsd:string ;
+    ns1:coverImg "cover-image-curtiss-hoffman.jpg"^^xsd:string ;
+    ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of <em>The Seven Story Tower: A Mythic Journey through Space and Time</em>, and <em>Stone Prayers</em>, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.</p>
+
+<p>He was the host of the 2006 IASD conference at Bridgewater State, and has presented at IASD conferences and at the on-line Psiberdreaming Conference for several years. Since 2004, he has been the chair of the IASD Student Research Awards Committee.</p>
+"""^^xsd:string ;
+    ns1:handle "curtisshoffman"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.bridgew.edu/person/dr-curtiss-hoffman> ;
+    ns1:itemId "bcphbq3curt"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Curtiss Hoffman"^^xsd:string ;
+    ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
 
 ns1:bcphbq3jean a ns1:User ;
     owl:sameAs "https://www.instagram.com/worlddreamspeacebridge/"^^xsd:string ;
@@ -25988,6 +26067,32 @@ ns1:bcphbygiw4g a ns1:Post ;
     ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.2-3"^^xsd:string .
 
+ns1:bcpqn72unjj a ns1:Post ;
+    ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:itemId "bcpqn72unjj"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 2"^^xsd:string ;
+    ns1:profileImg "volume-2.jpg"^^xsd:string ;
+    ns1:subType "PublicationVolume"^^xsd:string ;
+    ns1:urlSlug "dream-network-volume-2"^^xsd:string .
+
+ns1:bcphbq3arts a ns1:User ;
+    owl:sameAs "https://arthurstrock.com/"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
+
+<p>Book: <a href="https://arthurstrock.com/live-by-your-dreams/">Live By Your Dreams, free download</a></p>
+
+<p>Arthur Strock, Ph.D., is a Founding Life Member of the <a href="https://www.asdreams.org">International Association for the Study of Dreams</a>. He is dedicated to sharing information about dreamwork and how it can be used to improve our lives. Dr. Strock holds advanced degrees in psychology and clinical social work. His professional experience includes work in hospital, corrections, school, and private practice settings. He has also taught psychology courses as an adjunct faculty member at colleges in New Jersey. His writing includes a column in the Dream Network Journal and articles online and in other publications. He is a retired school psychologist and psychotherapist who provides dream workshops for professionals and the general public. Arthur published <a href="https://arthurstrock.com/live-by-your-dreams/">“Live By Your Dreams: Heartwarming Stories About Dreams and What They Tell Us” </a>in 2015 and is available on <a href="https://www.amazon.com/Live-Your-Dreams-Arthur-Strock/dp/0996545808/ref=sr_1_1?s=books&ie=UTF8&qid=1455133208&sr=1-1&keywords=live+by+your+dreams+strock">Amazon</a> and as a free download from his own <a href="www.arthurstrock.com">www.arthurstrock.com</a> website. Arthur resides in New Jersey with his partner, art therapist Susan Dingsor. They enjoy their rural location overlooking a natural spring-fed lake that offers relaxed kayaking during their leisure time.</p>
+"""^^xsd:string ;
+    ns1:handle "arthurstrock"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://arthurstrock.com/> ;
+    ns1:itemId "bcphbq3arts"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Arthur Strock"^^xsd:string ;
+    ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
+
 ns1:bcpovcretld a ns1:Topic ;
     owl:sameAs "https://dbpedia.org/page/Lucid_dream"^^xsd:string,
         "https://en.wikipedia.org/wiki/Lucid_dream"^^xsd:string ;
@@ -26091,32 +26196,6 @@ ns1:bcpovcretld a ns1:Topic ;
     ns1:name "Lucid Dreaming"^^xsd:string ;
     ns1:shortName "Lucid Dreaming"^^xsd:string ;
     ns1:subType "Thing"^^xsd:string .
-
-ns1:bcpqn72unjj a ns1:Post ;
-    ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:itemId "bcpqn72unjj"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 2"^^xsd:string ;
-    ns1:profileImg "volume-2.jpg"^^xsd:string ;
-    ns1:subType "PublicationVolume"^^xsd:string ;
-    ns1:urlSlug "dream-network-volume-2"^^xsd:string .
-
-ns1:bcphbq3arts a ns1:User ;
-    owl:sameAs "https://arthurstrock.com/"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://arthurstrock.com/">arthurstrock.com</a></p>
-
-<p>Book: <a href="https://arthurstrock.com/live-by-your-dreams/">Live By Your Dreams, free download</a></p>
-
-<p>Arthur Strock, Ph.D., is a Founding Life Member of the <a href="https://www.asdreams.org">International Association for the Study of Dreams</a>. He is dedicated to sharing information about dreamwork and how it can be used to improve our lives. Dr. Strock holds advanced degrees in psychology and clinical social work. His professional experience includes work in hospital, corrections, school, and private practice settings. He has also taught psychology courses as an adjunct faculty member at colleges in New Jersey. His writing includes a column in the Dream Network Journal and articles online and in other publications. He is a retired school psychologist and psychotherapist who provides dream workshops for professionals and the general public. Arthur published <a href="https://arthurstrock.com/live-by-your-dreams/">“Live By Your Dreams: Heartwarming Stories About Dreams and What They Tell Us” </a>in 2015 and is available on <a href="https://www.amazon.com/Live-Your-Dreams-Arthur-Strock/dp/0996545808/ref=sr_1_1?s=books&ie=UTF8&qid=1455133208&sr=1-1&keywords=live+by+your+dreams+strock">Amazon</a> and as a free download from his own <a href="www.arthurstrock.com">www.arthurstrock.com</a> website. Arthur resides in New Jersey with his partner, art therapist Susan Dingsor. They enjoy their rural location overlooking a natural spring-fed lake that offers relaxed kayaking during their leisure time.</p>
-"""^^xsd:string ;
-    ns1:handle "arthurstrock"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://arthurstrock.com/> ;
-    ns1:itemId "bcphbq3arts"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Arthur Strock"^^xsd:string ;
-    ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
 
 ns1:bcphbqfgreg a ns1:User ;
     ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>

@@ -6,8 +6,8 @@ name: "Lucid Dreams, Nested Dreams"
 tags:
     - hasTag: curtisshoffman
     - hasAuthor: curtisshoffman
-    - hasTag: 19.1
-    - inIssue: 19.1
+    - hasTag: 21.4-22.1
+    - inIssue: 21.4-22.1
     - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: lucid-dreams-nested-dreams
@@ -65,4 +65,4 @@ We might symbolize the situation I am describing like this:
 
 In conclusion, one of the things which the Eastern dream teachings stress is that the goal is not to achieve the ability to dream lucidly, for the entire realm of waking world experience is considered neither more, nor less real than the dream state. Instead, they counsel us to undertake the more difficult discipline of lucid living. We might represent this state of lucid living in the following way:
 
-<img src="../images/post-bcpoy5zfldnd-3.jpg" width="300" alt="Concentric rings showing the outer and inner dreams, with the ring of the inner dream broken by lucidity, and the outermost square of reality broken by lucid living."/>
+<img src="../images/post-bcpoy5zfldnd-3.jpg" width="400" alt="Concentric rings showing the outer and inner dreams, with the ring of the inner dream broken by lucidity, and the outermost square of reality broken by lucid living."/>

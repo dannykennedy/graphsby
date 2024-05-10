@@ -26323,6 +26323,8 @@ ns1:bcphbqhaskw a ns1:User ;
 <p>The Jungian-Senoi Dreamwork Institute offered a professional training program in Jungian-Senoi dreamwork and psychology. Its methodology emphasized the deliberate alteration of dream states, the resolution in dreams of problems encountered in waking consciousness, dream 'rehearsal' for activity while awake and the application of dreams to creative individual and community projects. Its dream groups were for the general public as well as for interested professionals.</p>
 
 <p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
+
+<p>You can read more about the research of Strephon Kaplan-Williams at <a href="https://www.dreamwork-psychology.com/">dreamwork-psychology.com</a>, maintained and continued by his pupil and friend Ovidiu Brazdău.</p>
 """^^xsd:string ;
     ns1:handle "strephon_kaplan_williams"^^xsd:string ;
     ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;

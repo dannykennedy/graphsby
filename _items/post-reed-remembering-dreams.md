@@ -13,7 +13,7 @@ urlSlug: "remembering-and-recording-your-dreams"
 profileImg: post-bcpoy4rshhtr-0.jpg
 ---
 
-> _Appreciate the challenge which dreams will present to your memory, and be prepared. Proper respect for dreams will be a fundamental prerequisite for learning how to remember them. remember them._ [Henry Reed](../@henryreed)
+> _Appreciate the challenge which dreams will present to your memory, and be prepared. Proper respect for dreams will be a fundamental prerequisite for learning how to remember them._ [Henry Reed](../@henryreed)
 
 It has recently been proven scientifically that everyone dreams every night. Yet, many people have a hard time remembering their dreams. Some will even swear that they never dream. However, it's not that they don’t dream, but that they don't remember. Why is this so difficult? Is it possible for us to learn to remember our dreams'?
 

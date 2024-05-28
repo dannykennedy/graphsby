@@ -166,21 +166,6 @@ ns1:bcphbkea673 a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "2.10"^^xsd:string .
 
-ns1:bcphbl3kedf a ns1:Post ;
-    ns1:coverImg "4.5-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1985-09-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.5-Dream-Network-Bulletin_Volume-4-Number-5.pdf" download="">Download issue 4.5</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.5-Dream-Network-Bulletin_Volume-4-Number-5.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn77nhwr ;
-    ns1:itemId "bcphbl3kedf"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 4, issue 5"^^xsd:string ;
-    ns1:profileImg "4.5-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "4.5"^^xsd:string .
-
 ns1:bcphblfujy2 a ns1:Post ;
     ns1:coverImg "3.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1984-05-01T11:32:52"^^xsd:dateTime ;
@@ -3967,6 +3952,90 @@ ns1:bcpov6gresof a ns1:Post ;
     ns1:profileImg "post-bcpov6gresof-0.jpg"^^xsd:string ;
     ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "soul-on-fire-dreams-as-a-vehicle-for-transformation"^^xsd:string .
+
+ns1:bcpov6gretlp a ns1:Post ;
+    ns1:dateCreated "1985-09-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>It is the early morning hours of December 16th and John is sleeping. He dreams of <em>"walking though a corridor like a causeway at a large airport"</em>. His dream report continues:</p>
+
+<blockquote>
+  <p><em>"The man ahead of me sets up a stepladder to several switch boxes. I ask, "You going to work that live?" He replies "Yeah, just like you did yesterday". I flash to earlier in the dream and remember doing just that: replacing a breaker box in the switch. Then I remember a fragment of a conversation with a girl who stopped to talk". (JE)</em></p>
+</blockquote>
+
+<p>750 miles to the south, I am dreaming, too, but I'm aware of the fact. I decide to take advantage of my lucidity to try and contact the other members of my dream group:</p>
+
+<blockquote>
+  <p><em>"I walk down a corridor until I come to a window. Behind it is a room filled with electronic equipment. I ask the young man sitting there if he will broadcast the names of people so that they will meet me here. He indicates assent and flips some switches". (LM)</em></p>
+</blockquote>
+
+<p>John and I have never met in person; just through written correspondence. We are members of the Lucidity Project of the Seth Dream Network. Each month we and the other members of our international group dream to a preselected target goal.</p>
+
+<p>We don't often have parallel dreams. But we do have the opportunity to work on advanced dream skills: attaining lucidity, incubating dreams on the goal; experimenting within the lucid state.</p>
+
+<p>The themes that emerge reflect the process of group dreaming. On the first dream date, we worried over the idea of dreaming with other people. The dreams contained phrases like "problems of infringement of privacy"; "they need privacy", "she needs help"; "fear of the known and unknown".</p>
+
+<p>But in later months we seemed to be reassuring each other:</p>
+
+<blockquote>
+  <p><em>".....he finally says, "Maybe I went too far this time". But I tell him "No..". (EM)</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>"I didn't sound too crazy, did I?" "Not too bad", she says. (DR)</em></p>
+</blockquote>
+
+<p>At the end of the eighth month we finally said, in effect, "enough's enough!" and all sent in dreams that reflected a new, bolder stance. Fear and pain were handled quickly or dispensed with altogether. Three of us shed clothing. Sexual dream symbols included an adult bookstore, a toilet paper mask, and the act of childbearing.</p>
+
+<p>As we stretch our mind muscles, we tend to remember dreams more frequently and of greater variety. Throughout the project all types of dreams have been reported: nightmare and anxiety, mental dreams without images; flying and high dreams; precognitive and out-of-body experiences. Serendipity has played its part, too.</p>
+
+<p>In February I attended a meeting of another dreamworker's group. That group decided to try a telepathy experiment and I was chosen as the "sender". I went home to concentrate on a magazine photo from my dream journal. Two days later John had the following lucid dream:</p>
+
+<blockquote>
+  <p><em>"I have on a parachute harness which is connected to a balloon by heavy piano wire. Away I go into the sky. Incredibly weird! The balloon is so far above me it is almost out of sight. I am hanging in the sky seemingly without any support. Very lonely. Surface details are lost to be replaced with others like rivers, lakes, and snowy mountains. Strange feelings of dissociation from the surface. Confidence, but still lost in the sky". (JE)</em></p>
+</blockquote>
+
+<p>What was the target picture? A skydiver! John had picked up the photo, and he wasn't even trying. True, there had been a time lag of two days. But time is wily in the dream state, mixing past, present and future with abandon. This makes it very difficult to utilize linear criteria to examine results.</p>
+
+<p>Instead I must often use an approach that more closely approximates that of a dream artist. In August the target goal was a dream journey to a swimming hole. I took portions of our dreams and wove then together:</p>
+
+<p><em>"I come across rooms that had been empty and now had peoples' belongings in them".</em> (PS)</p>
+
+<p><em>"I'm somehow amused that I'm dreaming of an empty room, so I start to decorate the place".</em> (RW)</p>
+
+<p><em>"I meet 4 other persons who decide to "set the place up (decorate) for the owner...The activity involves hanging large sheets of paper up around the place".</em> (MSE)</p>
+
+<p><em>"I was working on a large 4 panel oil painting of a large body of water surrounded by beautiful trees and plants...I attended a meeting with several people".</em> (KL)</p>
+
+<p><em>"I am coming down a wide trail on a hill... There are bushy trees in places. I meet several people".</em> (BW)</p>
+
+<p><em>"I end up in the University....among several other people". (JE) "I wandered through a school...Saw through an internal window a class watching slides".</em> (PS)</p>
+
+<p><em>"...watching a movie on TV. A friendly, handsome man is explaining the art of creating reality... Telepathically, he says to me..".</em> (LR)</p>
+
+<p><em>"(JS) and I (are) underwater in an ocean-like expanse of water". (ME) "I'm swimming with the leader out in the Atlantic Ocean. He is ...telepathing to me".</em> (LM)</p>
+
+<p><em>"(ME) closes his eyes and holds his nose and dives in backwards... I feel that he will come back up...I somehow knew he would".</em> (JS)</p>
+
+<p><em>"We saw things swimming in the ocean-perhaps turtles".</em> (DM)</p>
+
+<p><em>"I consider taking one perfect red rose bud to the swimming hole".</em> (SR)</p>
+
+<p>The tales we tell form a special tapestry of inner group dynamics. We continue to learn about ourselves and each other through the unique, open medium of dreams.</p>
+
+<p><em>Linda Magallón is a teacher, writer and researcher of lucid and group dreams. She is an Executive Board member of the <a href="https://www.asdreams.org/">Association for the Study of Dreams</a> and Coordinator of the Seth Dream Network. For further information on the Lucidity Project, write to Linda c/o Seth Dream Network, 1083 Harvest Meadow Court, San Jose, Ca 95136</em></p>
+
+<h2>Editor's Comments</h2>
+
+<p>Note the interesting sequence of how Linda develops her "dream painting". The initial background is an empty room that gradually gets decorated. People then start arriving and begin to observe slides or movies. Outdoor imagery becomes more prominent and the telepathic interaction begins when people start joining in an ocean setting and swimming together, which was the targeted goal: to meet at the swimming hole. The painting deserves the perfect red rose bud to commemorate it!</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqflyer ;
+    ns1:hasTag ns1:bcphbl3kedf,
+        ns1:bcphbqflyer ;
+    ns1:hasTopic ns1:bcpovcretld ;
+    ns1:inIssue ns1:bcphbl3kedf ;
+    ns1:itemId "bcpov6gretlp"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Lucidity Project: An Experiment in Group Dreaming"^^xsd:string ;
+    ns1:urlSlug "lucidity-project"^^xsd:string .
 
 ns1:bcpov6grewit a ns1:Post ;
     ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
@@ -22539,6 +22608,21 @@ ns1:bcphbk2qeun a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "2.12"^^xsd:string .
 
+ns1:bcphbl3kedf a ns1:Post ;
+    ns1:coverImg "4.5-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1985-09-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.5-Dream-Network-Bulletin_Volume-4-Number-5.pdf" download="">Download issue 4.5</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.5-Dream-Network-Bulletin_Volume-4-Number-5.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn77nhwr ;
+    ns1:itemId "bcphbl3kedf"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 4, issue 5"^^xsd:string ;
+    ns1:profileImg "4.5-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "4.5"^^xsd:string .
+
 ns1:bcphblsydwp a ns1:Post ;
     ns1:coverImg "4.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-03-01T11:32:52"^^xsd:dateTime ;
@@ -26021,31 +26105,6 @@ ns1:bcphbq3vand a ns1:User ;
     ns1:name "Robert Van de Castle"^^xsd:string ;
     ns1:profileImg "author-bobvandecastle.jpg"^^xsd:string .
 
-ns1:bcphbqflyer a ns1:User ;
-    owl:sameAs "https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer</a></p>
-
-<p>Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams. She was editor of the Dream Network Bulletin alongside <a href="../@bobtrowbridge">Bob Trowbridge</a> from 1987-1989.</p>
-
-<p>Practicing under the discipline of the "Dream-Art Scientist" (a model based on the Jane Roberts' Seth material), she has mastered many dreaming skills and dreamwork techniques.</p>
-
-<p>Linda authored the ground-breaking book, <a href="https://web.archive.org/web/20050308133701/http://members.aol.com/DreamPsi/archive/mutualdreaming.html">Mutual Dreaming</a> (Pocket Books, 1997). She served as editor and publisher of the principal magazine in the dream field, Dream Network. Having written articles for such magazines as FATE, American Psychic Magazine and the OMNI newsletter, she most recently wrote "Dream Trek," a column in the Internet E-zine <a href="http://dreamgate.com/dream/electric-dreams/edreams-g01.htm">Electric Dreams</a>.</p>
-
-<p>Active in the dreamwork community since 1984, Linda was a founding board member and wrote the first mission statement of the multidisciplinary (and highly academic) <a href="https://www.asdreams.org/">Association For the Study of Dreams</a> (ASD). She has presented papers and hosted panels at several of ASD's annual conferences. In 2001, she helped design the conference web site, the Computer Café, and created the four picture targets for the Dream Telepathy Contest.</p>
-
-<p>With Fred Olsen, she co-founded the Bay Area Dreamworkers Group (BADG), to provide support for her dreamwork peers in the San Francisco area. There, she practiced dream sharing, perfected dreamwork techniques and uncovered the basic values of the Partnership Paradigm. After BADG presented her with an honorary "Doctoral Degree in Social Dreamology," Linda graduated from dreamworker to dreamplayer.</p>
-
-<p>The observer-participant brand of research has required that Linda dream along with the other members of her dreaming team. Searching for active participants in a sleepy field like dreams is not an easy task, whether on-line or off. To help find such dreamers for her half a hundred group dreaming projects and dream telepathy experiments, Linda served as coordinator of the Seth Dream Network and dipped into the lucid dream community before founding the <a href="https://web.archive.org/web/20050305230701/http://members.aol.com/lucidflier/project/fbnc.html">Fly-By-Night Club research group</a>.</p>
-
-<p>Linda's goal has been to encourage the emergence of the Super Self through dreams. Her research has lead her to experiment with such flying and floating variations as virtual reality games, scuba diving, ballooning, gliding, hang gliding and flying a Piper Tomahawk. She has found flying dreams to be both extremely practical (resolving nightmares) and highly inspirational (launching further extraordinary dreams). She believes flying dreams to be at the hub of dream understanding and appreciation.</p>
-"""^^xsd:string ;
-    ns1:handle "caseyflyer"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html> ;
-    ns1:itemId "bcphbqflyer"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Linda Magallón"^^xsd:string ;
-    ns1:profileImg "author-linda-magallon.jpg"^^xsd:string .
-
 ns1:bcphbqskoff a ns1:User ;
     owl:sameAs "https://touchdrawing.com/"^^xsd:string,
         "https://twitter.com/debsoultouch"^^xsd:string,
@@ -26134,6 +26193,98 @@ ns1:bcphbq3arts a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Arthur Strock"^^xsd:string ;
     ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
+
+ns1:bcphbq3mcle a ns1:User ;
+    owl:sameAs "https://changingworld.com"^^xsd:string,
+        "https://www.facebook.com/dick.mcl/"^^xsd:string,
+        "https://www.linkedin.com/in/dick-mcleester-92297910/"^^xsd:string ;
+    ns1:coverImg "cover-author-dickmcleester.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://changingworld.com">changingworld.com</a></p>
+
+<p>Once upon a time, there were no humans on the planet. You may be too young to remember, but it seems the earth did just fine in those days. The earth gave birth to an incredible, rich diversity of life, and yet maintained a delicate, sustainable balance between it all. Even in the early days of human life, it seemed that we could be part of this magical balance as we found our niche and explored our possibilities. Sure, we made mistakes in those days, but we could usually learn from those mistakes and try to do better in the next generation.</p>
+
+<p>But recently the humans seem to be acting like the worst kind of invasive species, spreading all over the planet, dominating, killing and destroying everything in sight. The delicate balance of life has been seriously disrupted by humans. What is happening here? Will the humans finally win their war against nature and thus destroy all chance for balance to be restored? What will it take for humans to change our ways, to strive again for some kind of balance?</p>
+"""^^xsd:string ;
+    ns1:handle "dickmcleester"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://changingworld.com>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/dick.mcl/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/dick-mcleester-92297910/> ;
+    ns1:itemId "bcphbq3mcle"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dick McLeester"^^xsd:string ;
+    ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
+
+ns1:bcphbqfgreg a ns1:User ;
+    ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>
+
+<p>Jill Gregory is a dream networker and educator who founded the Novato Center for Dreams in 1987. A charter member of the Bay Area Dreamworkers Group, she has served in leadership positions since 1987. She was the Dream Network Bulletin's interviewer from 1987 to 1989, working with <a href="../@caseyflyer">Linda Magallón</a> and <a href="../@bobtrowbridge">Bob Trowbridge</a>.</p>
+"""^^xsd:string ;
+    ns1:handle "jillgregory"^^xsd:string ;
+    ns1:itemId "bcphbqfgreg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jill Gregory"^^xsd:string ;
+    ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
+
+ns1:bcphbqflyer a ns1:User ;
+    owl:sameAs "https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html"^^xsd:string ;
+    ns1:coverImg "cover-author-caseyflyer.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html">members.aol.com/caseyflyer (web archive)</a></p>
+
+<p>Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams. She was editor of the Dream Network Bulletin alongside <a href="../@bobtrowbridge">Bob Trowbridge</a> from 1987-1989.</p>
+
+<p>Practicing under the discipline of the "Dream-Art Scientist" (a model based on the Jane Roberts' Seth material), she has mastered many dreaming skills and dreamwork techniques.</p>
+
+<p>Linda authored the ground-breaking book, <a href="https://web.archive.org/web/20050308133701/http://members.aol.com/DreamPsi/archive/mutualdreaming.html">Mutual Dreaming</a> (Pocket Books, 1997). She served as editor and publisher of the principal magazine in the dream field, Dream Network. Having written articles for such magazines as FATE, American Psychic Magazine and the OMNI newsletter, she most recently wrote "Dream Trek," a column in the Internet E-zine <a href="http://dreamgate.com/dream/electric-dreams/edreams-g01.htm">Electric Dreams</a>.</p>
+
+<p>Active in the dreamwork community since 1984, Linda was a founding board member and wrote the first mission statement of the multidisciplinary (and highly academic) <a href="https://www.asdreams.org/">Association For the Study of Dreams</a> (ASD). She has presented papers and hosted panels at several of ASD's annual conferences. In 2001, she helped design the conference web site, the Computer Café, and created the four picture targets for the Dream Telepathy Contest.</p>
+
+<p>With Fred Olsen, she co-founded the Bay Area Dreamworkers Group (BADG), to provide support for her dreamwork peers in the San Francisco area. There, she practiced dream sharing, perfected dreamwork techniques and uncovered the basic values of the Partnership Paradigm. After BADG presented her with an honorary "Doctoral Degree in Social Dreamology," Linda graduated from dreamworker to dreamplayer.</p>
+
+<p>The observer-participant brand of research has required that Linda dream along with the other members of her dreaming team. Searching for active participants in a sleepy field like dreams is not an easy task, whether on-line or off. To help find such dreamers for her half a hundred group dreaming projects and dream telepathy experiments, Linda served as coordinator of the Seth Dream Network and dipped into the lucid dream community before founding the <a href="https://web.archive.org/web/20050305230701/http://members.aol.com/lucidflier/project/fbnc.html">Fly-By-Night Club research group</a>.</p>
+
+<p>Linda's goal has been to encourage the emergence of the Super Self through dreams. Her research has lead her to experiment with such flying and floating variations as virtual reality games, scuba diving, ballooning, gliding, hang gliding and flying a Piper Tomahawk. She has found flying dreams to be both extremely practical (resolving nightmares) and highly inspirational (launching further extraordinary dreams). She believes flying dreams to be at the hub of dream understanding and appreciation.</p>
+"""^^xsd:string ;
+    ns1:handle "caseyflyer"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html> ;
+    ns1:itemId "bcphbqflyer"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Linda Magallón"^^xsd:string ;
+    ns1:profileImg "author-linda-magallon.jpg"^^xsd:string .
+
+ns1:bcphbqsorna a ns1:User ;
+    owl:sameAs "https://www.ben-shoshan.com/en/"^^xsd:string ;
+    ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://www.ben-shoshan.com/en/">ben-shoshan.com</a></p>
+
+<p>Having an Orna Ben-Shoshan painting on your wall is like having a window to another dimension. Orna’s artwork involves opening her consciousness and channeling images that come to her from a different realm of existence.</p>
+
+<p>All of her paintings are completed in her mind before she transfers them onto the canvas. Her metaphysical work infuses deep spiritual experience with subtle humor.</p>
+
+<p>Orna Ben-Shoshan has been an autodidact artist for the past 30 years. Her artwork has been exhibited in numerous locations in the USA, Europe and Israel.</p>
+
+<p>Her major motivation as a visual artist is to share her visions with others to expand their consciousness and inspire new ways of thinking. Orna’s life-long interest in metaphysics and mysticism has led her to study the Kabbalah and alternative philosophies. She shares her wide and diverse knowledge in articles and short essays that are published in magazines worldwide alongside her paintings.</p>
+"""^^xsd:string ;
+    ns1:handle "ornabenshoshan"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.ben-shoshan.com/en/> ;
+    ns1:itemId "bcphbqsorna"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Orna Ben-Shoshan"^^xsd:string ;
+    ns1:profileImg "author-ornabenshoshan.jpg"^^xsd:string .
+
+ns1:bcphbyukqzw a ns1:Post ;
+    ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf" download="">Download issue 29.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocknhzs ;
+    ns1:itemId "bcphbyukqzw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
+    ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "29.3"^^xsd:string .
 
 ns1:bcpovcretld a ns1:Topic ;
     owl:sameAs "https://dbpedia.org/page/Lucid_dream"^^xsd:string,
@@ -26238,72 +26389,6 @@ ns1:bcpovcretld a ns1:Topic ;
     ns1:name "Lucid Dreaming"^^xsd:string ;
     ns1:shortName "Lucid Dreaming"^^xsd:string ;
     ns1:subType "Thing"^^xsd:string .
-
-ns1:bcphbq3mcle a ns1:User ;
-    owl:sameAs "https://changingworld.com"^^xsd:string,
-        "https://www.facebook.com/dick.mcl/"^^xsd:string,
-        "https://www.linkedin.com/in/dick-mcleester-92297910/"^^xsd:string ;
-    ns1:coverImg "cover-author-dickmcleester.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://changingworld.com">changingworld.com</a></p>
-
-<p>Once upon a time, there were no humans on the planet. You may be too young to remember, but it seems the earth did just fine in those days. The earth gave birth to an incredible, rich diversity of life, and yet maintained a delicate, sustainable balance between it all. Even in the early days of human life, it seemed that we could be part of this magical balance as we found our niche and explored our possibilities. Sure, we made mistakes in those days, but we could usually learn from those mistakes and try to do better in the next generation.</p>
-
-<p>But recently the humans seem to be acting like the worst kind of invasive species, spreading all over the planet, dominating, killing and destroying everything in sight. The delicate balance of life has been seriously disrupted by humans. What is happening here? Will the humans finally win their war against nature and thus destroy all chance for balance to be restored? What will it take for humans to change our ways, to strive again for some kind of balance?</p>
-"""^^xsd:string ;
-    ns1:handle "dickmcleester"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://changingworld.com>,
-        <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/dick.mcl/>,
-        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/dick-mcleester-92297910/> ;
-    ns1:itemId "bcphbq3mcle"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dick McLeester"^^xsd:string ;
-    ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
-
-ns1:bcphbqfgreg a ns1:User ;
-    ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>
-
-<p>Jill Gregory is a dream networker and educator who founded the Novato Center for Dreams in 1987. A charter member of the Bay Area Dreamworkers Group, she has served in leadership positions since 1987. She was the Dream Network Bulletin's interviewer from 1987 to 1989, working with <a href="../@caseyflyer">Linda Magallón</a> and <a href="../@bobtrowbridge">Bob Trowbridge</a>.</p>
-"""^^xsd:string ;
-    ns1:handle "jillgregory"^^xsd:string ;
-    ns1:itemId "bcphbqfgreg"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jill Gregory"^^xsd:string ;
-    ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
-
-ns1:bcphbqsorna a ns1:User ;
-    owl:sameAs "https://www.ben-shoshan.com/en/"^^xsd:string ;
-    ns1:coverImg "cover-author-ornabenshoshan.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://www.ben-shoshan.com/en/">ben-shoshan.com</a></p>
-
-<p>Having an Orna Ben-Shoshan painting on your wall is like having a window to another dimension. Orna’s artwork involves opening her consciousness and channeling images that come to her from a different realm of existence.</p>
-
-<p>All of her paintings are completed in her mind before she transfers them onto the canvas. Her metaphysical work infuses deep spiritual experience with subtle humor.</p>
-
-<p>Orna Ben-Shoshan has been an autodidact artist for the past 30 years. Her artwork has been exhibited in numerous locations in the USA, Europe and Israel.</p>
-
-<p>Her major motivation as a visual artist is to share her visions with others to expand their consciousness and inspire new ways of thinking. Orna’s life-long interest in metaphysics and mysticism has led her to study the Kabbalah and alternative philosophies. She shares her wide and diverse knowledge in articles and short essays that are published in magazines worldwide alongside her paintings.</p>
-"""^^xsd:string ;
-    ns1:handle "ornabenshoshan"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.ben-shoshan.com/en/> ;
-    ns1:itemId "bcphbqsorna"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Orna Ben-Shoshan"^^xsd:string ;
-    ns1:profileImg "author-ornabenshoshan.jpg"^^xsd:string .
-
-ns1:bcphbyukqzw a ns1:Post ;
-    ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf" download="">Download issue 29.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocknhzs ;
-    ns1:itemId "bcphbyukqzw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
-    ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "29.3"^^xsd:string .
 
 ns1:bcphbqflull a ns1:User ;
     owl:sameAs "https://siivola.org/monte/"^^xsd:string ;

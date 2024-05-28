@@ -8,12 +8,13 @@ shortDescription: ""
 tags:
 date: 2022-10-21
 profileImg: author-linda-magallon.jpg
+coverImg: cover-author-caseyflyer.jpg
 websites:
     - name: "Casey Flyer"
       url: https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html
 ---
 
-Website: [members.aol.com/caseyflyer](https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html)
+Website: [members.aol.com/caseyflyer (web archive)](https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html)
 
 Linda Lane Magallón, MBA invested more than 18 years in the field, researching lucid, mutual, telepathic and flying dreams. She was editor of the Dream Network Bulletin alongside [Bob Trowbridge](../@bobtrowbridge) from 1987-1989.
 

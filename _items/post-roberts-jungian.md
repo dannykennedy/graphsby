@@ -74,4 +74,4 @@ One way to access that reality is in our dreams, so may you explore and apprecia
 
 Text copyright 2000 Darknight Publications, from _Re-Visioning Soul Retrieval: Creative Bridges Between Shamanism & Archetypal Psychology_. Not to be reproduced whole or in part without the author's permission.
 
-Dr Maureen Roberts is a psychotherapist, prize-winning writer, artist, musician, and initiated Celtic shaman who practices in Adelaide, South Australia. She is available for Jungian therapy, shamanic work, seminars, retreats and conferences.
+[Dr Maureen Roberts](../@maureenroberts) is a psychotherapist, prize-winning writer, artist, musician, and initiated Celtic shaman who practices in Adelaide, South Australia. She is available for Jungian therapy, shamanic work, seminars, retreats and conferences.

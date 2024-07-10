@@ -699,8 +699,13 @@ for pyyam in file_objects:
 		dateOfPost = pyyam["dateCreated"]
 		pyyam["dateString"] = formatDate(dateOfPost, "month")
 
-	
-	pyyam["supporters"] = supporters
+
+	# If itemId is in supporters_by_page_id, use custom supporters
+
+	if pyyam['itemId'] in supporters_by_page_id.keys():
+		pyyam["supporters"] = supporters_by_page_id[pyyam["itemId"]]
+	else: 
+		pyyam["supporters"] = supporters
 
 
 	canonical_url = ""

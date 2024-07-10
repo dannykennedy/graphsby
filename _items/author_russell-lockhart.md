@@ -12,9 +12,12 @@ coverImg: post-bcpov6krdbf9-0.jpg
 websites:
     - name: ralockhart.com
       url: http://ralockhart.com/
+    - name: Owl and Heron Press
+      url: https://www.owlandheronpress.website/
 ---
 
 Website: [ralockhart.com](http://ralockhart.com/)
+Owl and Heron Press: [owlandheronpress.website](https://www.owlandheronpress.website/)
 
 Los Angeles-born Russell Lockhart has a doctoral degree (human psychophysiology) from the University of Southern California. In 1974 he graduated from the C.G. Jung Institute of Los Angeles, where he served as Director of Analyst Training from 1979 to 1982. Since 1974 he has been in private practice. He has served on the faculties at the University of California, Santa Barbara, and University of California, Berkeley. He was a research psychologist at the University of California, Los Angeles, and Director of the Psychophysiological Research Laboratory at Camarillo State Hospital.
 

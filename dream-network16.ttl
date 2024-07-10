@@ -23637,6 +23637,10 @@ ns1:bcpov6wbyg5 a ns1:Post ;
     ns1:profileImg "welcome-to-the-magic-theater-sml.jpg"^^xsd:string ;
     ns1:urlSlug "welcome-to-the-magic-theater"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://www.owlandheronpress.website/> a ns1:Website ;
+    ns1:name "Owl and Heron Press"^^xsd:string ;
+    ns1:url "https://www.owlandheronpress.website/"^^xsd:string .
+
 ns1:Page a owl:Class ;
     rdfs:subClassOf ns1:Actor .
 
@@ -26572,9 +26576,12 @@ ns1:bcphbqschul a ns1:User ;
     ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
 
 ns1:bcphbq3rpac a ns1:User ;
-    owl:sameAs "https://independent.academia.edu/PacoMitchell"^^xsd:string ;
+    owl:sameAs "https://independent.academia.edu/PacoMitchell"^^xsd:string,
+        "https://www.owlandheronpress.website/"^^xsd:string ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
-    ns1:description """<p>On Academia.edu: <a href="https://independent.academia.edu/PacoMitchell">academia.edu/PacoMitchell</a></p>
+    ns1:description """<p>Owl and Heron Press: <a href="https://www.owlandheronpress.website/">owlandheronpress.website</a></p>
+
+<p>On Academia.edu: <a href="https://independent.academia.edu/PacoMitchell">academia.edu/PacoMitchell</a></p>
 
 <p>Paco Mitchell is a Jungian author, artist, therapist and editor, dedicated to the study of dreams, essay- and fiction-writing, and creative ventures in general. His interest in dreams focuses primarily on emergent levels of psychic development that take shape in the collective unconscious, and strive toward consciousness in the dreams and lives of individuals. Many of Paco's dream-related essays have been published in Dream Network Journal and Depth Insights, as well as The Angels (The Entities Trilogy), ed. by Robert Sardello. In addition to his Jungian studies and practice, Paco also taught Romance Languages (Spanish and French); worked as a sculptor and owner/operator of the Blue Heron Foundry (Art Bronze Casting); and for many years taught and performed on the flamenco guitar, both as a soloist, and as an accompanist to flamenco dancers and singers. He is co-editor of the Owl &amp; Heron Press with <a href="../@ral">Russell A. Lockhart</a>, with whom he has co-authored the first two volumes of a trilogy, Dreams, Bones &amp; the Future, subtitled A Dialogue and Queries &amp; Speculations, respectively. The third volume, subtitled Endings, is under way and will be published in 2020. His latest release is The Paraclete of Caborca: A Collision with Destiny, available on Amazon.com at:</p>
 
@@ -26583,7 +26590,8 @@ ns1:bcphbq3rpac a ns1:User ;
 <p>Paco lives in Santa Fe, New Mexico. He may be reached at mitchell@cybermesa.com</p>
 """^^xsd:string ;
     ns1:handle "paco"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://independent.academia.edu/PacoMitchell> ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://independent.academia.edu/PacoMitchell>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.owlandheronpress.website/> ;
     ns1:itemId "bcphbq3rpac"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Paco Mitchell"^^xsd:string ;
@@ -26682,16 +26690,20 @@ ns1:bcphbqvcors a ns1:User ;
 ns1:Item a owl:Class .
 
 ns1:bcphbqvruss a ns1:User ;
-    owl:sameAs "http://ralockhart.com/"^^xsd:string ;
+    owl:sameAs "http://ralockhart.com/"^^xsd:string,
+        "https://www.owlandheronpress.website/"^^xsd:string ;
     ns1:coverImg "post-bcpov6krdbf9-0.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://ralockhart.com/">ralockhart.com</a></p>
+
+<p>Owl and Heron Press: <a href="https://www.owlandheronpress.website/">owlandheronpress.website</a></p>
 
 <p>Los Angeles-born Russell Lockhart has a doctoral degree (human psychophysiology) from the University of Southern California. In 1974 he graduated from the C.G. Jung Institute of Los Angeles, where he served as Director of Analyst Training from 1979 to 1982. Since 1974 he has been in private practice. He has served on the faculties at the University of California, Santa Barbara, and University of California, Berkeley. He was a research psychologist at the University of California, Los Angeles, and Director of the Psychophysiological Research Laboratory at Camarillo State Hospital.</p>
 
 <p>Dr. Lockhart is the author of <a href="https://www.amazon.com/Words-As-Eggs-Russell-Lockhart/dp/0911783008">Words as Eggs: Psyche in Language and Clinic</a>; <a href="https://www.amazon.com/Psyche-Speaks-Jungian-Approach-Paperback/dp/1630512699">Psyche Speaks: A Jungian Approach to Self and World</a>; <a href="https://www.amazon.com/Secrets-Undergroundtrader-Jea-Yu/dp/0071417370">Secrets of the Undergroundtrader</a> (with Jea Yu), and two books in progress: Gleanings from the Dreamfield and <a href="http://ralockhart.com/orderinfo.htm">Hints and Helps for Daytraders</a>. He and his wife Frankie have four children.</p>
 """^^xsd:string ;
     ns1:handle "ral"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://ralockhart.com/> ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://ralockhart.com/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.owlandheronpress.website/> ;
     ns1:itemId "bcphbqvruss"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Russell Lockhart"^^xsd:string ;

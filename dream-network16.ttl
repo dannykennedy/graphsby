@@ -22914,7 +22914,7 @@ ns1:bcphbq3almr a ns1:User ;
     ns1:itemId "bcphbq3almr"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Maureen Roberts"^^xsd:string ;
-    ns1:profileImg "author-maureen.png"^^xsd:string .
+    ns1:profileImg "author_maureen.png"^^xsd:string .
 
 ns1:bcphbq3amym a ns1:User ;
     owl:sameAs "http://www.aamindell.net/"^^xsd:string ;

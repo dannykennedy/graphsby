@@ -7,7 +7,7 @@ name: "Maureen Roberts"
 shortDescription: ""
 tags:
 date: 2022-10-21
-profileImg: author-maureen.png
+profileImg: author_maureen.png
 coverImg: cover-author-maureen.jpg
 websites:
     - name: Psychiatry with Soul

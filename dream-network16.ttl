@@ -2167,7 +2167,7 @@ ns1:bcpov5rshsjd a ns1:Post ;
 
 <p>Thirdly, through the use of either music, dance, drumming or ritual, or by focusing on stimulating imagery, allow your imagination to bring into focus a tranquil nature scene which you can safely enter. Find a special spot in the scene and use it as a starting point for an inner journey. Allow your imagination to guide you. Take note of what you see, feel, smell, taste, or hear along the way, and after you have completed the journey (by returning to your starting point), record or reenact your memories in the form of drawing, drama, ritual, song, poetry, sculpting, creating a personal symbol, or painting. Work meditatively, and allow your intuitions and feelings to shape your creativity. Later, in dialogue with a friend or therapist, reflect on the material and summarize, with reference to mythological material, any insights or intuitions at which you arrive.</p>
 
-<p>Dream Incubation</p>
+<h2>Dream Incubation</h2>
 
 <p>Bearing in mind the need for a mythic context for wounding and healing, Jung's connection with the healing practices of the ancient Greeks becomes apparent. Patients went to the temple of the God of healing, Aesculapius, to receive their own healing dreams through 'dream incubation'. Lying on specially inclined couches (from the name for which comes our word 'clinic'), they would fall asleep, surrounded by sacred serpents which the priest-healers would release among them, and would hopefully receive in their dreams the needed remedy, sometimes in the form of oracular advice from the god. (Interestingly, even today we retain the memory of this rite through our medical symbol of the Caduceus of Hermes - the twin entwined serpents which image the male/ female kundalini energy and the ambivalent archetype of the Wounded Healer).</p>
 
@@ -22907,7 +22907,7 @@ ns1:bcphbq3almr a ns1:User ;
 
 <p>Maureen B. Roberts, PhD, has over 25 years experience in ‘mental health’ research, therapeutic practice, teaching, publishing, training &amp; course facilitation. After working as a graphic artist, photographer, musician and pastoral care worker, in 1983-4 Maureen worked through an acute ‘transformational crisis’ and to help make sense of this self-rebirthing experience, went through Jungian analysis in Australia. She later completed an original Doctoral thesis, a Jungian analysis of the life and works of the 19th century English poet John Keats.</p>
 
-<p>She regards the 'mental health crisis' from a soul-centred perspective, in <a href="https://content.web-repository.com/s/98148739180315323/uploads/PDF/Soul_in_Crisis-2714841.pdf">her words</a> <em>"I see a lot of socalled 'mental illness' as a reflection of cultural 'soul loss' and decry the spiritual poverty of a psychiatric model which views the rare gifts, insights and abilities which many sufferers - particularly of schizophrenia - have as 'mental illness.'"</em></p>
+<p>She regards the 'mental health crisis' from a soul-centred perspective, in <a href="https://content.web-repository.com/s/98148739180315323/uploads/PDF/Soul_in_Crisis-2714841.pdf">her words</a> <em>"I see a lot of so-called 'mental illness' as a reflection of cultural 'soul loss' and decry the spiritual poverty of a psychiatric model which views the rare gifts, insights and abilities which many sufferers - particularly of schizophrenia - have as 'mental illness.'"</em></p>
 """^^xsd:string ;
     ns1:handle "maureenroberts"^^xsd:string ;
     ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://psychiatrywithsoul.com/about> ;

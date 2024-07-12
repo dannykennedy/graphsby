@@ -36,5 +36,12 @@ ullman_supporters = [
 ]
 
 supporters_by_page_id = {
-	'bcpov6rssull': ullman_supporters
+	'bcpov6rssull': ullman_supporters,
+	'bcpoz4zmwwmu': ullman_supporters,
+	'bcpox5dadaga': ullman_supporters,
+	'bcpov6zfabod': ullman_supporters,
+	'bcpov6zfdepr': ullman_supporters,
+	'bcpov6zftran': ullman_supporters,
+	'bcpov6zdbrvd': ullman_supporters,
+	'bcpoz6zpttmu': ullman_supporters
 }

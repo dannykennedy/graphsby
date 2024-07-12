@@ -43,5 +43,6 @@ supporters_by_page_id = {
 	'bcpov6zfdepr': ullman_supporters,
 	'bcpov6zftran': ullman_supporters,
 	'bcpov6zdbrvd': ullman_supporters,
-	'bcpoz6zpttmu': ullman_supporters
+	'bcpoz6zpttmu': ullman_supporters,
+	'bcpoy2htdfsa': ullman_supporters,
 }

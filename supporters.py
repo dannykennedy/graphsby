@@ -51,6 +51,24 @@ jung_supporters = [
 		'url': 'https://eastwest.works/Home.html/?src=dnj',
 		'target': '_blank'
 	}
+]
+
+biblical_supporters = [
+	{
+		'name': 'Free online Biblical dream interpretation',
+		'description': 'Which Bible passages most illuminte your dream?',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'elsewhere-moon.jpg',
+		'url': 'https://elsewhere.to/interpretation/jungian/en/?src=dnj',
+		'target': '_blank'
+	},
+	{
+		'name': "EastWest Works",
+		'description': 'Dream group, taiji & more, NYC',
+		'profileImg': 'eastwestworks-square.jpg',
+		'url': 'https://eastwest.works/Home.html/?src=dnj',
+		'target': '_blank'
+	}
 
 ]
 
@@ -72,7 +90,6 @@ supporters_by_page_id = {
 	'bcsoz6zinmiw': jung_supporters,
 	'bcpov6knenww': jung_supporters,
 	'bcpov6rsppm1': jung_supporters,
-	'bcpov3zpihdp': jung_supporters,
 	'bcpov6mhilli': jung_supporters,
 	'bcpov6zfgil1': jung_supporters,
 	'bcpqv5glodad': jung_supporters,
@@ -84,4 +101,10 @@ supporters_by_page_id = {
 	'bcpov2zzijdh': jung_supporters,
 	'bcpov3zdtlli': jung_supporters,
 	'bcpov6rsreci': jung_supporters,
+	# Biblical
+	'bcpov6christ': biblical_supporters,
+	'bcpov3zprosj': biblical_supporters,
+	'bcpov3zpihdp': biblical_supporters,
+	'bcpov6rsgsgm': biblical_supporters,
+	'bcpov3zprosi': biblical_supporters,
 }

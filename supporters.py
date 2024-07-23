@@ -69,7 +69,24 @@ biblical_supporters = [
 		'url': 'https://eastwest.works/Home.html/?src=dnj',
 		'target': '_blank'
 	}
+]
 
+freudian_supporters = [
+	{
+		'name': 'Free online Freudian dream interpretation',
+		'description': 'Using AI from the Elsewhere Dream Journal',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'elsewhere-moon.jpg',
+		'url': 'https://elsewhere.to/interpretation/jungian/en/?src=dnj',
+		'target': '_blank'
+	},
+	{
+		'name': "EastWest Works",
+		'description': 'Dream group, taiji & more, NYC',
+		'profileImg': 'eastwestworks-square.jpg',
+		'url': 'https://eastwest.works/Home.html/?src=dnj',
+		'target': '_blank'
+	}
 ]
 
 supporters_by_page_id = {
@@ -84,7 +101,6 @@ supporters_by_page_id = {
 	'bcpoz6zpttmu': ullman_supporters,
 	'bcpoy2htdfsa': ullman_supporters,
 	# Jung
-	'bcpov6zfgadm': jung_supporters,
 	'bcpov6zfredb': jung_supporters,
 	'bcpov6zpitrb': jung_supporters,
 	'bcsoz6zinmiw': jung_supporters,
@@ -96,7 +112,6 @@ supporters_by_page_id = {
 	'bcpov6zmythd': jung_supporters,
 	'bcplz7zfedam': jung_supporters,
 	'bcpoz4zmiwsk': jung_supporters,
-	'bcpov6krdbf9': jung_supporters,
 	'bcpov6rsgsum': jung_supporters,
 	'bcpov2zzijdh': jung_supporters,
 	'bcpov3zdtlli': jung_supporters,
@@ -107,4 +122,10 @@ supporters_by_page_id = {
 	'bcpov3zpihdp': biblical_supporters,
 	'bcpov6rsgsgm': biblical_supporters,
 	'bcpov3zprosi': biblical_supporters,
+	# Freudian
+	'bcpov6zlucse': freudian_supporters,
+	'bcpov6zfgadm': freudian_supporters,
+	'bcpov6krdbf9': freudian_supporters,
+	'bcpov6zfamil': freudian_supporters,
+	'bcpov6rsgpia': freudian_supporters,
 }

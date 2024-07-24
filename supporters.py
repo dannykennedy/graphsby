@@ -59,7 +59,7 @@ biblical_supporters = [
 		'description': 'Which Bible passages most illuminte your dream?',
 		'descriptionB': 'Understand your dreams',
 		'profileImg': 'elsewhere-moon.jpg',
-		'url': 'https://elsewhere.to/interpretation/jungian/en/?src=dnj',
+		'url': 'https://elsewhere.to/interpretation/biblical/en/?src=dnj',
 		'target': '_blank'
 	},
 	{
@@ -77,7 +77,7 @@ freudian_supporters = [
 		'description': 'Using AI from the Elsewhere Dream Journal',
 		'descriptionB': 'Understand your dreams',
 		'profileImg': 'elsewhere-moon.jpg',
-		'url': 'https://elsewhere.to/interpretation/jungian/en/?src=dnj',
+		'url': 'https://elsewhere.to/interpretation/freudian/en/?src=dnj',
 		'target': '_blank'
 	},
 	{

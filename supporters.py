@@ -89,6 +89,24 @@ freudian_supporters = [
 	}
 ]
 
+group_supporters = [
+	{
+		'name': 'Want to share dreams with friends or a dream group?',
+		'description': 'You can make a group in the Elsewhere Dream Journal app',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'elsewhere-moon.jpg',
+		'url': 'https://elsewhere.to/?src=dnj',
+		'target': '_blank'
+	},
+	{
+		'name': "EastWest Works",
+		'description': 'Dream group, taiji & more, NYC',
+		'profileImg': 'eastwestworks-square.jpg',
+		'url': 'https://eastwest.works/Home.html/?src=dnj',
+		'target': '_blank'
+	}
+]
+
 supporters_by_page_id = {
 	# Ullman
 	'bcpov6rssull': ullman_supporters,
@@ -128,4 +146,11 @@ supporters_by_page_id = {
 	'bcpov6krdbf9': freudian_supporters,
 	'bcpov6zfamil': freudian_supporters,
 	'bcpov6rsgpia': freudian_supporters,
+	# Group
+	'bcpov6zwakdg': group_supporters,
+	'bcpov5modhtd': group_supporters,
+	'bcpov6zfcybr': group_supporters,
+	'bcpov6mausef': group_supporters,
+	'bcpov6twhint': group_supporters,
+	'bcpov5modhtd': group_supporters,
 }

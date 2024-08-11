@@ -95,7 +95,9 @@ _Developed by Jill Gregory_
    ii. Interpretive dreamwork-(See above)
    iii. Non-interpretive dreamwork (Creative
    expression)-See above
-   B. DREAM CONTENT
+
+### B. DREAM CONTENT
+
 3. Themes
 4. Symbols
 5. Feeling tones

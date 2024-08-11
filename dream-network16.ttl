@@ -1258,6 +1258,44 @@ ns1:bcpov2zzijdh a ns1:Post ;
     ns1:profileImg "post-bcpov2zzijdh-0.jpg"^^xsd:string ;
     ns1:urlSlug "dreams-and-healing"^^xsd:string .
 
+ns1:bcpov3giwmms a ns1:Post ;
+    ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/gregory-soulmate.jpg" width="300px" height="auto" alt="Henry Reed, Dream Medicine"/></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Cloud Lovers, by <a href="../@ericsnyder">Eric Snyder</a></i></div><!--/nopreview--></p>
+
+<p>Ever since I first heard of the possibility of meeting your soulmate in a dream, I have wanted that experience for myself. It has always intrigued me to notice which of my dream incubations take a long time to come through. This soulmate incubation is one of my longest, taking a full three years to manifest. It does not surprise me that such an apparently mundane subject as promoting Dream Network Bulletin follows such a blissful expression of my deepest Self. DNB is for me also an expression of my deepest Self. I am a dreamworker who is very much committed to bringing dreams to others.</p>
+
+<p><em>Bob Gregory, my husband, and I are traveling through the countryside, maybe Canada. We come upon a wooden outbuilding like a small barn. It is a crafts business since some things are displayed outside on tables. On a whim, we stop and inquire for the owner.</em></p>
+
+<p><em>A man is working inside the building, which turns out to be a workshop. He owns the property and the business, which seems to be making crafts out of crystals and wood, metal, feathers and stones. It is a small operation and a very cozy comfortable shop. I immediately feel at home here. It is just like a workshop I would like to have if I had one. We enjoy browsing and commenting on the items. When the man and I look into each other's eyes we both immediately recognize each other as soulmates. Such magic! It is impossible to describe the peace and joy that I feel with him. We flow with each other's thoughts, feelings and movements like a perfect spontaneous dance, totally empowered yet totally surrendered. I am lucid, realizing that this is my long-awaited incubation finally happening!</em></p>
+
+<p><em>Bob stands in the background near a wall watching us. This man is short and stocky, wears no glasses, has the slightly rumpled clothes of a carpenter-type, a small paunch and pouchy cheeks. His hair is short, conventionally cut and black. He looks like Iver Juster (a doctor who works with biofeedback and with <a href="../@fredolsen">Fred Olsen</a> and dreams). He offers me gifts, objects he has created. I receive them happily. We telepathically communicate our essences to each other. We understand and accept each other completely. We delight in each other.</em></p>
+
+<p><em>I am curious as to whether he will give me an object that I ask for, so I verbally request something that I especially like. Telepathically I suddenly realize that it is one of his favorites and that he wouldn't have offered it voluntarily. My next realization is that I will know that his caring for me is deeper if he is willing to part with it without hesitation. Then I realize that all of the giving has been from him to me so far and that seems imbalanced. I recognize that the reason for that and for my desire to request a gift is that I am a guest in his home, his place, and I would be the giver, including any request, if he were in my home/place.</em></p>
+
+<p><em>He gives the object, sad to part with it but happier yet to give me something which I truly desire which he adores also. It is like a validation for him that I value what he values and my taste is exactly like his. The object has a couple of crystals in it.</em></p>
+
+<p><em>While we are being together I am amazed by the realization that I am just as eager to be with Bob, my husband, as I was before. I say aloud to my soulmate and for Bob to hear, "I have truly made the right choice in marrying Bob, for here I am with you, my soulmate, my dearest most intimate connection possible, and l am looking forward to traveling on with Bob when we leave. I feel satisfied each moment in our exchange and I have no need or desire to live with you in the physical this time on earth. That is for Bob and I to do together." My soulmate nods in complete agreement, acceptance and understanding.</em></p>
+
+<p><em>We all go to a hotel where there is a conference-something on dreams. There is a dance in the evening after dinner at a fancy restaurant. My soulmate has bought me a beautiful evening gown, floor-length like the one's in my daughter's version of Cinderella. I put it on and feel radiant and beautiful. He brings me a dozen red roses and I feel full to overflowing with his loyalty and generosity to me and the perfection of the evening. After the dinner and the dance, I am talking with people in the outdoor courtyard of the hotel.</em></p>
+
+<p><em>Three women are talking with me. I say in a surprised, almost shocked voice, "You don't subscribe to Dream Network Bulletin?" They look puzzled and say that they've heard of it but don't know what it was. I show them the dark green Christmas issue and the light green March/ April issue. I offer them a free copy if they subscribe for one year and pay me now. They agree and pay their money-three subscriptions. They all choose the light green issue as their free sample but then I remember that <a href="../@caseyflyer">Linda</a> is not going to be publishing DNB much longer and so they should take the older issue so that they could receive two more issues before the next one which is at press now. Quickly I talk them into the older issue saying that I had forgotten but that issue has a couple of extra special articles in it and that I have writing in it that I think would be of more interest to them because of where they are at in their dream life right now. They all agree to take the Christmas issue. I feel happy because I am still able to sell subscriptions and have them get their money's worth without mentioning that in order to get their money's worth, they needed to start with the Christmas issue.</em></p>
+
+<p><em>I end the night feeling wonderful. Bob and I are leaving the hotel in the morning to continue our luxurious trip. I have met, connected with and enjoyed at long last my true soul-mate, and I got to be at the dream conference and successfully promote DNB. At a very deep level, I feel satisfied.</em></p>
+
+<p>Despite my usual planned day for Saturday, I ended up, to my extreme amazement, sleeping all day and all the next night except for an hour and a half. On Sunday, I was very productive and yet completely relaxed, efficient but detached and calm. A new experience!</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqfgreg ;
+    ns1:hasTag ns1:bcphboc7tt5,
+        ns1:bcphbqfgreg ;
+    ns1:inIssue ns1:bcphboc7tt5 ;
+    ns1:itemId "bcpov3giwmms"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Meeting my Soulmate"^^xsd:string ;
+    ns1:profileImg "gregory-soulmate.jpg"^^xsd:string ;
+    ns1:urlSlug "meeting-my-soulmate"^^xsd:string .
+
 ns1:bcpov3zdngdt a ns1:Post ;
     ns1:dateCreated "1986-05-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov3zdngdt-0.jpg" alt="Man processing grapes" width="350" height="auto"/></p>
@@ -19405,13 +19443,13 @@ ns1:bcpoz1giwtdp a ns1:Post ;
 
 <p>aa. Visualization</p>
 
-<p>bb. Re-enactment \\&amp; drama</p>
+<p>bb. Re-enactment &amp; drama</p>
 
 <p>cc. Art</p>
 
 <p>dd. Dialogue</p>
 
-<p>ee. Re-experience \\&amp; expand feelings</p></li>
+<p>ee. Re-experience &amp; expand feelings</p></li>
 <li><p>In-Dream Abilities</p>
 
 <p>a. Flying</p>
@@ -19422,7 +19460,7 @@ ns1:bcpoz1giwtdp a ns1:Post ;
 
 <p>aa. Group dreaming</p>
 
-<p>bb. Precognitive \\&amp; postcognitive</p>
+<p>bb. Precognitive &amp; postcognitive</p>
 
 <p>cc. Telepathy</p>
 
@@ -19434,7 +19472,7 @@ ns1:bcpoz1giwtdp a ns1:Post ;
 
 <p>e. Lucidity</p>
 
-<p>f. Healing (Self \\&amp; others)</p>
+<p>f. Healing (Self &amp; others)</p>
 
 <p>g. Gleaning Understanding (Connecting the dream</p>
 
@@ -19448,9 +19486,12 @@ ns1:bcpoz1giwtdp a ns1:Post ;
 
 <p>iii. Non-interpretive dreamwork (Creative</p>
 
-<p>expression)-See above</p>
+<p>expression)-See above</p></li>
+</ol>
 
-<p>B. DREAM CONTENT</p></li>
+<h3>B. DREAM CONTENT</h3>
+
+<ol start="3">
 <li><p>Themes</p></li>
 <li><p>Symbols</p></li>
 <li><p>Feeling tones</p></li>
@@ -26392,21 +26433,6 @@ ns1:bcpqn7zvpei a ns1:Post ;
     ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-1"^^xsd:string .
 
-ns1:bcphboc7tt5 a ns1:Post ;
-    ns1:coverImg "8.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf" download="">Download issue 8.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoalnwed ;
-    ns1:itemId "bcphboc7tt5"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 8, issue 4"^^xsd:string ;
-    ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "8.4"^^xsd:string .
-
 ns1:bcphbq3ferr a ns1:User ;
     owl:sameAs "https://brendaferrimanidreamart.com/"^^xsd:string,
         "https://www.facebook.com/Dream-Art-by-Brenda-Ferrimani-115114085196452"^^xsd:string ;
@@ -26579,6 +26605,21 @@ ns1:bcphbq3arts a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Arthur Strock"^^xsd:string ;
     ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
+
+ns1:bcphboc7tt5 a ns1:Post ;
+    ns1:coverImg "8.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1989-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf" download="">Download issue 8.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_8/8.4-Dream-Network-Bulletin_Volume-8-Number-4-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoalnwed ;
+    ns1:itemId "bcphboc7tt5"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 8, issue 4"^^xsd:string ;
+    ns1:profileImg "8.4-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "8.4"^^xsd:string .
 
 ns1:bcphbq3mcle a ns1:User ;
     owl:sameAs "https://changingworld.com"^^xsd:string,
@@ -26877,17 +26918,6 @@ ns1:bcphbqvreed a ns1:User ;
     ns1:name "Henry Reed"^^xsd:string ;
     ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
-ns1:bcphbqfgreg a ns1:User ;
-    ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>
-
-<p>Jill Gregory is a dream networker and educator who founded the Novato Center for Dreams in 1987. A charter member of the Bay Area Dreamworkers Group, she has served in leadership positions since 1987. She was the Dream Network Bulletin's interviewer from 1987 to 1989, working with <a href="../@caseyflyer">Linda Magallón</a> and <a href="../@bobtrowbridge">Bob Trowbridge</a>.</p>
-"""^^xsd:string ;
-    ns1:handle "jillgregory"^^xsd:string ;
-    ns1:itemId "bcphbqfgreg"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jill Gregory"^^xsd:string ;
-    ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
-
 ns1:bcphbqschul a ns1:User ;
     owl:sameAs "https://www.linkedin.com/in/jeanne-schul-ph-d-rsmt-b90b2415/"^^xsd:string ;
     ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;
@@ -26903,6 +26933,17 @@ ns1:bcphbqschul a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jeanne Schul"^^xsd:string ;
     ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
+
+ns1:bcphbqfgreg a ns1:User ;
+    ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>
+
+<p>Jill Gregory is a dream networker and educator who founded the Novato Center for Dreams in 1987. A charter member of the Bay Area Dreamworkers Group, she has served in leadership positions since 1987. She was the Dream Network Bulletin's interviewer from 1987 to 1989, working with <a href="../@caseyflyer">Linda Magallón</a> and <a href="../@bobtrowbridge">Bob Trowbridge</a>.</p>
+"""^^xsd:string ;
+    ns1:handle "jillgregory"^^xsd:string ;
+    ns1:itemId "bcphbqfgreg"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jill Gregory"^^xsd:string ;
+    ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
 
 ns1:bcphbq3rpac a ns1:User ;
     owl:sameAs "https://independent.academia.edu/PacoMitchell"^^xsd:string,

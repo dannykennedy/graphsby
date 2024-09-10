@@ -16445,6 +16445,50 @@ ns1:bcpov6zftens a ns1:Post ;
     ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "tending-to-the-soul-of-the-world"^^xsd:string .
 
+ns1:bcpov6zfteoa a ns1:Post ;
+    ns1:dateCreated "1993-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/lucidair.jpg" style="width:450px; margin: auto"></p>
+
+<p>I'm sitting here staring out at the San Francisco fog, thick and white and spilling over Twin Peaks. The fog appears to be an avalanche of air, massive enough to swallow up a jet plane and yet, too ephemeral for the weight of a sparrow. The element of air is all around and inside of me, during waking and sleeping, while meditating, day and night, I am breathing IN the air. During most lucid dreams, I am flying THROUGH it. My conscious mind cannot grasp this omnipresent "nothingness," so, let the unconscious speak:</p>
+
+<blockquote>
+  <p><em>There is a slight jolt of lucidity. Immediately, I wish to fly... but am only able to float a few inches off the ground. I think about the Higher Power and suddenly a cold, powerful wind billows up under my white blouse and I go soaring at a tremendous speed! I am airborne and it is wonderful. I do a lot of flying, all the time chanting something about the Higher Power. I see a swirling mass of creamy blue light in the distance and am awed by it. I think it must be the Higher Power and attempt to fly in that direction... but am pulled away from it. Then I realize that I must let go of control. At that moment, I am filled with glorious laughter and keep shouting, "Higher Power! Higher Power!" Then, I remember my waking intent to do healing work on my asthmatic condition. I do breathing exercises as I am flying — in and out - copious breaths of cold air. I draw my legs up to my chest and fly in a curled-up position as I shoot rays of red, vibrating energy through my dream body. (2/6/89)</em></p>
+</blockquote>
+
+<p>This dream is representative of many I have had in which the element of air, manifesting as flight and laughter (a corollary of breath) carries me into contact with the Divine... <em>if</em> I am willing to let go. As long as I maintain control, Air is there for me to enjoy, but plays a passive role. I can fly and intoxicate myself with breaths of sweet, spring air, but this is only the beginning. I was five years into my lucid dreaming when I learned how to give up control... and that's when Air suddenly blew into action.</p>
+
+<blockquote>
+  <p><em>I do not know what to do with my lucid state. I feel frustrated and anxious. Than I recall something from Lucid Dreaming... that giving up control is a healthy reaction in a lucid dream. So, I think, "I'll just go where the dream takes me..." Suddenly, I begin floating upward, then rushing backward at a tremendous speed. The sensation is utterly magnificent. I feel delighted and at peace. (8/87)</em></p>
+</blockquote>
+
+<p>The act of letting go, or the desire to contact the Higher Power, leads to an acceleration of flight and a glorious feeling of being out of control. Often, the flying is backward, on my back... and I engage in acts of healing or sexual pleasure.</p>
+
+<blockquote>
+  <p><em>It is an exquisite level of lucidity I feel. I fly and indulge in tactile experiences. The Spring air is so sweet and damp. I desire to see the HigherPower and as has happened before in lucid dreams, my flying is accelerated. I am out of control in a thrilling way that feels safe and wonderful. The Higher Power lakes the form of a woman and gives me great pleasure. She does not want me to look at her and I have the longest healing episode occur on my knee that I've ever experienced. I run and kick and exercise my knee, while pouring this reddish energy through and through it. (6/'91)</em></p>
+</blockquote>
+
+<p>Just as flying is letting go of the body, laughing is a letting go of the mind and signals the presence of the Divine. The following is an excerpt from a dream that was incubated for a lucid dreaming group assignment on contacting the Divine:</p>
+
+<blockquote>
+  <p><em>I remember the Task and I ask the doll, "How do I get in touch with my Higher Self?" She answers, "By mental telepathy," I hear her voice simultaneous with my own voice inside of my head, saying in an amazed tone: "I know, I knows! By not giving in to my lower self"! We both enjoy wonderful, carefree laughter. She flies up to me and together, we pass through the ceiling unharmed.. going higher and higher. Then, the doll is gone and? am alone with a breathtaking Blackness above me. I attempt, without success, to create constellations to adorn the darkness. Then I give out a hearty laugh, realizing it is best to leave things as they are. I swoop merrily up and down and all around and am filled with the utmost peace and an indescribably sweet and melodious music permeates the air. i repeat out loud, "I need help, I need help!" This request grants me utter contentment and the knowledge that I am truly in the hands of the Higher Power. (7/88)</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>My flying skills are superb. I have no trouble swooping, soaring and staying aloft. Then, I roll up in a ball and spin faster and faster. Suddenly, I am shooting upward like a cannonball, swifter and higher than I’ve ever flown before. The speed is so great that I can feel the crushing effect of the centrifugal force; the sides of my body and face are slightly flattened. I am being propelled through the dark heavens, clusters of stars zooming nearer and nearer. The experience is stunning beyond words. I know that I am no longer in control but being guided. I spy the moon, which is shining brilliantly. I desire to fly there and land but a voice inside myself whispers, "The Moon is ton bright; you are not ready to go there yet." So, I lay onto my back and send energy through my bad knee and throughout my body as I fly. (6/30/93)</em></p>
+</blockquote>
+
+<p>Laughing, letting go, trusting, asking for help. I seek to practice these dream-state teachings in the waking realm. Who shall be the messenger between worlds? AIR, of course! Breathing permeates all levels of consciousness while we are alive... and perhaps Wind is the breath of the spirit world.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3gras ;
+    ns1:hasTag ns1:bcphbq3gras,
+        ns1:bcphbqp3hfp ;
+    ns1:hasTopic ns1:bcpovcretld ;
+    ns1:itemId "bcpov6zfteoa"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Laughing and Flying: The Element of Air in My Lucid Dreams"^^xsd:string ;
+    ns1:profileImg "lucidair.jpg"^^xsd:string ;
+    ns1:urlSlug "the-element-of-air-in-my-lucid-dreams"^^xsd:string .
+
 ns1:bcpov6zftran a ns1:Post ;
     ns1:dateCreated "1974-10-14T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><em>Published in <strong>Ullman on Dreams</strong>, Vol. 19, No. 2, May 1975,  pp. 8-10, The American Academy of Psychoanalysis</em></p>
@@ -24489,23 +24533,6 @@ ns1:bcphbq3gong a ns1:User ;
     ns1:name "Robert P. Gongloff"^^xsd:string ;
     ns1:profileImg "author-robert-gongloff.jpg"^^xsd:string .
 
-ns1:bcphbq3gras a ns1:User ;
-    ns1:description """<p>Lorraine Grassano was born in Paterson, New Jersey in 1951 and graduated from Rutgers University with a B.A. in Journalism. She has been an Acquisitions Editor for Spinster/Aunt Lute Press and writer and Copy Editor for Dream Network Journal. She was founding editor of The Gay Old Times, The Lavender Express, and Natural Lighting.</p>
-
-<p>Since 2008, she has been working on The Au Revoir Memoirs, a saga of unrequited love and the search for redemption and resolution. She self-published the first two volumes: <a href="https://www.amazon.com/Vows-Unspoken-Revoir-Memoirs-Book-ebook/dp/B07CNN857P/">With Vows Unspoken</a> and <a href="https://www.amazon.com/Chains-Unbroken-Revoir-Memoirs-Book-ebook/dp/B078CXDVPC/">With Chains Unbroken</a>, and is in the infant stages of creating a trilogy.</p>
-
-<p>Lorraine retired from the S.F. Rec/Park Department in 2004, where she served as a Park Patrol Officer, the first woman and gay person to do so. She now identifies as an XXY and is delighted at the diversity of gender terms making their way into our language.</p>
-
-<p>Currently, Lorraine volunteers for the National Park Service at the Maritime Museum. Her interests include bird watching, dreaming, and science fiction.</p>
-
-<p>She moved to San Francisco in 1978, now residing in Polk Gulch. Her favorite haunts are: Ti Piacera, the Cinch, the Bell Tower and the New Village Café.</p>
-"""^^xsd:string ;
-    ns1:handle "lorrainegrassano"^^xsd:string ;
-    ns1:itemId "bcphbq3gras"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Lorraine Grassano"^^xsd:string ;
-    ns1:profileImg "author-lorraine-grassano.jpg"^^xsd:string .
-
 ns1:bcphbq3msa a ns1:User ;
     owl:sameAs "https://dreamtending.com/stephen-aizenstat-ph-d/"^^xsd:string,
         "https://twitter.com/dreamtending1"^^xsd:string,
@@ -25529,6 +25556,23 @@ ns1:bcphbq3dues a ns1:User ;
     ns1:name "Evelyn Duesbury"^^xsd:string ;
     ns1:profileImg "author-evelyn-duesbury.jpg"^^xsd:string .
 
+ns1:bcphbq3gras a ns1:User ;
+    ns1:description """<p>Lorraine Grassano was born in Paterson, New Jersey in 1951 and graduated from Rutgers University with a B.A. in Journalism. She has been an Acquisitions Editor for Spinster/Aunt Lute Press and writer and Copy Editor for Dream Network Journal. She was founding editor of The Gay Old Times, The Lavender Express, and Natural Lighting.</p>
+
+<p>Since 2008, she has been working on The Au Revoir Memoirs, a saga of unrequited love and the search for redemption and resolution. She self-published the first two volumes: <a href="https://www.amazon.com/Vows-Unspoken-Revoir-Memoirs-Book-ebook/dp/B07CNN857P/">With Vows Unspoken</a> and <a href="https://www.amazon.com/Chains-Unbroken-Revoir-Memoirs-Book-ebook/dp/B078CXDVPC/">With Chains Unbroken</a>, and is in the infant stages of creating a trilogy.</p>
+
+<p>Lorraine retired from the S.F. Rec/Park Department in 2004, where she served as a Park Patrol Officer, the first woman and gay person to do so. She now identifies as an XXY and is delighted at the diversity of gender terms making their way into our language.</p>
+
+<p>Currently, Lorraine volunteers for the National Park Service at the Maritime Museum. Her interests include bird watching, dreaming, and science fiction.</p>
+
+<p>She moved to San Francisco in 1978, now residing in Polk Gulch. Her favorite haunts are: Ti Piacera, the Cinch, the Bell Tower and the New Village Café.</p>
+"""^^xsd:string ;
+    ns1:handle "lorrainegrassano"^^xsd:string ;
+    ns1:itemId "bcphbq3gras"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Lorraine Grassano"^^xsd:string ;
+    ns1:profileImg "author-lorraine-grassano.jpg"^^xsd:string .
+
 ns1:bcphbq3king a ns1:User ;
     owl:sameAs "https://web.archive.org/web/20190630110643/https://www.dreamtimesguide.com/"^^xsd:string ;
     ns1:coverImg "cover-author-marleneking.jpg"^^xsd:string ;
@@ -25691,21 +25735,6 @@ ns1:bcphbqmotte a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Marie Otte"^^xsd:string ;
     ns1:profileImg "author-marieotte.jpg"^^xsd:string .
-
-ns1:bcphbqp3hfp a ns1:Post ;
-    ns1:coverImg "12.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1993-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf" download="">Download issue 12.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoauztyp ;
-    ns1:itemId "bcphbqp3hfp"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 12, issue 4: Water, Earth, Air & Fire in Dreams"^^xsd:string ;
-    ns1:profileImg "12.4-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "12.4"^^xsd:string .
 
 ns1:bcphbt7x4uv a ns1:Post ;
     ns1:coverImg "19.1-cover.jpg"^^xsd:string ;
@@ -25930,6 +25959,21 @@ ns1:bcphbq3norm a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Rachel Norment"^^xsd:string ;
     ns1:profileImg "author-rachelnorment.jpg"^^xsd:string .
+
+ns1:bcphbqp3hfp a ns1:Post ;
+    ns1:coverImg "12.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1993-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf" download="">Download issue 12.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_12/12.4-Dream-Network_Volume-12_No-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoauztyp ;
+    ns1:itemId "bcphbqp3hfp"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 12, issue 4: Water, Earth, Air & Fire in Dreams"^^xsd:string ;
+    ns1:profileImg "12.4-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "12.4"^^xsd:string .
 
 ns1:bcphb2asab7 a ns1:Post ;
     ns1:coverImg "33.1-cover.jpg"^^xsd:string ;
@@ -26813,6 +26857,56 @@ ns1:bcphbqflull a ns1:User ;
     ns1:name "Montague Ullman"^^xsd:string ;
     ns1:profileImg "author-montagueullman.jpg"^^xsd:string .
 
+ns1:bcphbq3bogz a ns1:User ;
+    owl:sameAs "https://faribabogzaran.com/narrative-bio"^^xsd:string,
+        "https://www.instagram.com/faribabogzaran/"^^xsd:string,
+        "https://www.linkedin.com/in/fariba-bogzaran-93209a36/"^^xsd:string ;
+    ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com</a></p>
+
+<p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founded the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with <a href="../@stephenlaberge">Stephen LaBerge</a> at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: <em>Extraordinary Dreams</em> (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and <em>Integral Dreaming</em> (2012) with Daniel Deslauriers, both published by SUNY Press. She teaches lucid dreaming at CIIS and gives lectures internationally.</p>
+
+<p>Based on her art-based research, <em>Images of the Lucid Mind</em> (1996), she co-founded Lucid Art Foundation (1998) with the surrealist painter Gordon Onslow Ford. She has published numerous essays connecting art and consciousness in major international museums and galleries including: <em>Through the Light: An Exploration into Consciousness</em> (1997); <em>Surrealism Dreams on Canvas</em> (2007); <em>Landscape of Consciousness</em> (2008); <em>Remedios Varo: Dreams of Alchemy in Five Keys to the Secret World of Remedios Varo</em> (2008); <em>Matta: Psychological Morphology</em> (2011), and her award-winning book Gordon Onslow Ford: <em>A Man on a Green Island</em> (2019) <a href="http://www.lucidart.org/publications">www.lucidart.org/publications</a>.</p>
+
+<p>Among many of her own art exhibitions, there are two major publications: <em>The Third Script: Lucidity of Light</em> (2008), Institute of Noetic Sciences and <em>Lucidity: A Retrospective</em> (2013), Meridian Gallery in San Francisco.</p>
+
+<p>Currently Fariba spends time in her studio writing and creating artworks and is active in earth's preservation.</p>
+"""^^xsd:string ;
+    ns1:handle "faribabogzaran"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://faribabogzaran.com/narrative-bio>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/faribabogzaran/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/fariba-bogzaran-93209a36/> ;
+    ns1:itemId "bcphbq3bogz"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Fariba Bogzaran"^^xsd:string ;
+    ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
+
+ns1:bcphbxjsuyu a ns1:Post ;
+    ns1:coverImg "26.1-2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf" download="">Download issue 26.1-2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocbmxkx ;
+    ns1:hasTopic ns1:bcphbq3krip ;
+    ns1:itemId "bcphbxjsuyu"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 26, issue 1: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
+    ns1:profileImg "26.1-2-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "26.1-2"^^xsd:string .
+
+ns1:bcpovcredja a ns1:Topic ;
+    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
+    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomenon. But check out these articles, and you'll see that for as long as dreams, computers and the internet have coexisted, there's been a dream to digitize the unconscious.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
+    ns1:itemId "bcpovcredja"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string ;
+    ns1:shortName "Dream Apps & Websites"^^xsd:string ;
+    ns1:subType "Thing"^^xsd:string .
+
 ns1:bcpovcretld a ns1:Topic ;
     owl:sameAs "https://dbpedia.org/page/Lucid_dream"^^xsd:string,
         "https://en.wikipedia.org/wiki/Lucid_dream"^^xsd:string ;
@@ -26915,56 +27009,6 @@ ns1:bcpovcretld a ns1:Topic ;
     ns1:metaDescription "In lucid dreaming, the dreamer is aware of dreaming while dreaming, thereby able to enter consciously into the dream reality, opening up a whole new world of possibilities."^^xsd:string ;
     ns1:name "Lucid Dreaming"^^xsd:string ;
     ns1:shortName "Lucid Dreaming"^^xsd:string ;
-    ns1:subType "Thing"^^xsd:string .
-
-ns1:bcphbq3bogz a ns1:User ;
-    owl:sameAs "https://faribabogzaran.com/narrative-bio"^^xsd:string,
-        "https://www.instagram.com/faribabogzaran/"^^xsd:string,
-        "https://www.linkedin.com/in/fariba-bogzaran-93209a36/"^^xsd:string ;
-    ns1:coverImg "cover-author-fariba-bogzaran.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://faribabogzaran.com/">faribabogzaran.com</a></p>
-
-<p>Fariba Bogzaran, PhD 1994, is artist/scientist, and founded the Dream Studies program at John F. Kennedy University in Berkeley, California, where she taught as an associate professor for 25 years. She was part of the team of researchers with <a href="../@stephenlaberge">Stephen LaBerge</a> at Stanford Sleep Laboratory (1986-1989) and conducted the first quantitative research on lucid dream incubation and spiritual experiences. She writes essays and chapters on this topic and is the co-author of two major academic books: <em>Extraordinary Dreams</em> (2002) with <a href="../@stanleykrippner">Stanley Krippner</a> and <em>Integral Dreaming</em> (2012) with Daniel Deslauriers, both published by SUNY Press. She teaches lucid dreaming at CIIS and gives lectures internationally.</p>
-
-<p>Based on her art-based research, <em>Images of the Lucid Mind</em> (1996), she co-founded Lucid Art Foundation (1998) with the surrealist painter Gordon Onslow Ford. She has published numerous essays connecting art and consciousness in major international museums and galleries including: <em>Through the Light: An Exploration into Consciousness</em> (1997); <em>Surrealism Dreams on Canvas</em> (2007); <em>Landscape of Consciousness</em> (2008); <em>Remedios Varo: Dreams of Alchemy in Five Keys to the Secret World of Remedios Varo</em> (2008); <em>Matta: Psychological Morphology</em> (2011), and her award-winning book Gordon Onslow Ford: <em>A Man on a Green Island</em> (2019) <a href="http://www.lucidart.org/publications">www.lucidart.org/publications</a>.</p>
-
-<p>Among many of her own art exhibitions, there are two major publications: <em>The Third Script: Lucidity of Light</em> (2008), Institute of Noetic Sciences and <em>Lucidity: A Retrospective</em> (2013), Meridian Gallery in San Francisco.</p>
-
-<p>Currently Fariba spends time in her studio writing and creating artworks and is active in earth's preservation.</p>
-"""^^xsd:string ;
-    ns1:handle "faribabogzaran"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://faribabogzaran.com/narrative-bio>,
-        <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/faribabogzaran/>,
-        <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/fariba-bogzaran-93209a36/> ;
-    ns1:itemId "bcphbq3bogz"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Fariba Bogzaran"^^xsd:string ;
-    ns1:profileImg "author-fariba-bogzaran.jpg"^^xsd:string .
-
-ns1:bcphbxjsuyu a ns1:Post ;
-    ns1:coverImg "26.1-2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2007-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf" download="">Download issue 26.1-2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_26/26.1-26.2_krippner.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocbmxkx ;
-    ns1:hasTopic ns1:bcphbq3krip ;
-    ns1:itemId "bcphbxjsuyu"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 26, issue 1: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
-    ns1:profileImg "26.1-2-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "26.1-2"^^xsd:string .
-
-ns1:bcpovcredja a ns1:Topic ;
-    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
-    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomenon. But check out these articles, and you'll see that for as long as dreams, computers and the internet have coexisted, there's been a dream to digitize the unconscious.</p>
-"""^^xsd:string ;
-    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
-    ns1:itemId "bcpovcredja"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string ;
-    ns1:shortName "Dream Apps & Websites"^^xsd:string ;
     ns1:subType "Thing"^^xsd:string .
 
 ns1:bcphbqhaskw a ns1:User ;

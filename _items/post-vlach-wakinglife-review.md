@@ -11,7 +11,7 @@ tags:
     - hasTopic: topic~lucid-dreaming
 type: post
 subType: Review
-urlSlug: "honoring-the-dream-book-review"
+urlSlug: "waking-life-linklater-review"
 profileImg: wl-poster.jpg
 about:
     - type: Movie

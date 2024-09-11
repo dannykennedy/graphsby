@@ -494,21 +494,6 @@ ns1:bcphbtxh2bi a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "18.3"^^xsd:string .
 
-ns1:bcphbu6vnbl a ns1:Post ;
-    ns1:coverImg "21.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2002-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.2_crisis_II.pdf" download="">Download issue 21.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.2_crisis_II.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobs2l3e ;
-    ns1:itemId "bcphbu6vnbl"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 21, issue 2: Creativity & Crisis: Dream Inspired Music II"^^xsd:string ;
-    ns1:profileImg "21.2-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "21.2"^^xsd:string .
-
 ns1:bcphbupdomk a ns1:Post ;
     ns1:coverImg "20.1-2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2001-01-01T11:32:52"^^xsd:dateTime ;
@@ -2143,6 +2128,32 @@ ns1:bcpov5modhtd a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Book Review: Honoring the Dream, A Handbook for Dream Group Leaders by Justina Lasley"^^xsd:string ;
     ns1:profileImg "new-honoring-home-sized.png"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
+    ns1:urlSlug "honoring-the-dream-book-review"^^xsd:string .
+
+ns1:bcpov5mofrwl a ns1:Post ;
+    ns1:dateCreated "2002-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://en.wikipedia.org/wiki/Waking_Life"><img src="../images/wl-poster.jpg" width="300" alt="film poster"/></a><!--nopreview--><div style="text-align:center" class="caption">Waking Life (2001), directed by Richard Linklater. Running time 97 minutes, Rated 'R'</div><!--/nopreview--></p>
+
+<p>Spoken words transforming into visual images; people becoming clouds; a man driving a boat down a city street; scenes change suddenly, not just in location, but in visual style as well—yet it all makes sense. Sound bizarre? Like a dream, perhaps? It's actually <em>Waking Life</em>, a wonderfully surreal, see-it-more-than-once movie that looks, sounds, and feels like a dream.</p>
+
+<p>Done entirely with off-the-shelf digital equipment and Mac G4s, this is not so much a film as an experience. Using a kind of modern rotoscoping technique, live action becomes animation and a team of 30 animators, each following a single character, give each segment a unique style.</p>
+
+<p>There is no traditionally recognizable plot, or conflict in <em>Waking Life</em>. It is 'about' the nature of reality—are we awake or are we dreaming? How do we know? The 'story' is the ongoing philosophical, metaphysical, esoteric and down to earth conversations between the main character and those he encounters, as well as conversations and scenes that we, as viewers, are drawn into, as if we are seeing these scenes from the perspective of this main character. But it is the film itself that most expresses the words and ideas.</p>
+
+<p>Don't try to 'understand' <em>Waking Life</em> with the usual logic of every day Waking Life. There is far more going on visually than can be followed in one sitting. And don't try to follow the dialogue word-for-word. Just let the images and words carry you like a river. This movie is, like a dream, many layered and best absorbed by the spirit rather than analyzed by the brain.</p>
+
+<p>See it at least twice. On a large screen. With friends who will discuss with you the meaning of life and whether or not this is all, in fact, just a dream. And if there are any lights turned on, every once in a while... well, just try to switch them off.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvlach ;
+    ns1:hasTag ns1:bcphbqvlach,
+        ns1:bcphbu6vnbl ;
+    ns1:hasTopic ns1:bcpovcretld ;
+    ns1:inIssue ns1:bcphbu6vnbl ;
+    ns1:itemId "bcpov5mofrwl"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Film Review: Waking Life"^^xsd:string ;
+    ns1:profileImg "wl-poster.jpg"^^xsd:string ;
     ns1:subType "Review"^^xsd:string ;
     ns1:urlSlug "honoring-the-dream-book-review"^^xsd:string .
 
@@ -21844,7 +21855,7 @@ ns1:bcpqv5datsfm a ns1:Post ;
 <li><p>"Thus the censorship between the Ucs. [unconscious] and the Pcs. [preconscious]...deserves to be recognized and respected as the watchman of our mental health.... No matter what impulses from the normally inhibited Ucs. may prance upon the stage, we need feel no concern; they remain harmless, since they are unable to set in motion the motor apparatus by which alone they might modify the external world." Freud, S., The Interpretation of Dreams (trans. J. Strachey) (New York: Avon Books, 1965), pp. 606-607.</p>
 
 <p>6.Ibid., p. 45.</p></li>
-<li><p>Homans, Peter, Jung in Context (Chicago: University of Chicago Press, 1979).</p></li>
+<li><p>Homans, Peter, <a href="https://www.amazon.com/Jung-Context-Modernity-Making-Psychology/dp/0226351122">Jung in Context</a> (Chicago: University of Chicago Press, 1979).</p></li>
 <li><p>Homans, Peter, "Disappointment and the Ability to Mourn, De-Idealization as a Psychological Theme in Freud's Life, Thought, and Social Circumstance, 1906-1914," Freud: Appraisals and Reappraisals, ed. Paul E. Stepansky (Hillsdale, NJ: The Analytic Press, 1988).</p></li>
 <li><p>O'Connor, op.cit., pp. 16-19, 201.</p></li>
 </ol>
@@ -24039,6 +24050,21 @@ ns1:bcphbu3wddv a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "21.1"^^xsd:string .
 
+ns1:bcphbu6vnbl a ns1:Post ;
+    ns1:coverImg "21.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2002-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.2_crisis_II.pdf" download="">Download issue 21.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.2_crisis_II.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobs2l3e ;
+    ns1:itemId "bcphbu6vnbl"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 21, issue 2: Creativity & Crisis: Dream Inspired Music II"^^xsd:string ;
+    ns1:profileImg "21.2-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "21.2"^^xsd:string .
+
 ns1:bcphbvob4z7 a ns1:Post ;
     ns1:coverImg "22.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2003-07-01T11:32:52"^^xsd:dateTime ;
@@ -26198,21 +26224,6 @@ ns1:bcphbqhaden a ns1:User ;
     ns1:name "Bob Haden"^^xsd:string ;
     ns1:profileImg "author-bob-haden.jpeg"^^xsd:string .
 
-ns1:bcphbqvlach a ns1:User ;
-    owl:sameAs "https://www.linkedin.com/in/victoriavlach/"^^xsd:string ;
-    ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>
-
-<p>She's passionate about the incredible potential of human-to-human connection and interaction.</p>
-
-<p>On the web: <a href="https://www.linkedin.com/in/victoriavlach/">linkedin.com/in/victoriavlach</a></p>
-"""^^xsd:string ;
-    ns1:handle "victoriavlach"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/victoriavlach/> ;
-    ns1:itemId "bcphbqvlach"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Victoria Vlach"^^xsd:string ;
-    ns1:profileImg "author-victoria-vlach.jpg"^^xsd:string .
-
 ns1:bcphbqvmoss a ns1:User ;
     owl:sameAs "http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html"^^xsd:string,
         "https://mossdreams.com/"^^xsd:string ;
@@ -26510,6 +26521,21 @@ ns1:bcphbqvbird a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Kim Birdsong"^^xsd:string ;
     ns1:profileImg "author-kim-birdsong.jpg"^^xsd:string .
+
+ns1:bcphbqvlach a ns1:User ;
+    owl:sameAs "https://www.linkedin.com/in/victoriavlach/"^^xsd:string ;
+    ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>
+
+<p>She's passionate about the incredible potential of human-to-human connection and interaction.</p>
+
+<p>On the web: <a href="https://www.linkedin.com/in/victoriavlach/">linkedin.com/in/victoriavlach</a></p>
+"""^^xsd:string ;
+    ns1:handle "victoriavlach"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/victoriavlach/> ;
+    ns1:itemId "bcphbqvlach"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Victoria Vlach"^^xsd:string ;
+    ns1:profileImg "author-victoria-vlach.jpg"^^xsd:string .
 
 ns1:bcphbvecgmx a ns1:Post ;
     ns1:coverImg "21.4-22.1-cover.jpg"^^xsd:string ;
@@ -26907,6 +26933,46 @@ ns1:bcpovcredja a ns1:Topic ;
     ns1:shortName "Dream Apps & Websites"^^xsd:string ;
     ns1:subType "Thing"^^xsd:string .
 
+ns1:bcphbqhaskw a ns1:User ;
+    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
+    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
+    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the <a href="https://archive.org/details/jungiansenoidrea00will/page/6/mode/2up">Jungian-Senoi Dreamwork Manual</a> in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
+
+<p>The Jungian-Senoi Dreamwork Institute offered a professional training program in Jungian-Senoi dreamwork and psychology. Its methodology emphasized the deliberate alteration of dream states, the resolution in dreams of problems encountered in waking consciousness, dream 'rehearsal' for activity while awake and the application of dreams to creative individual and community projects. Its dream groups were for the general public as well as for interested professionals.</p>
+
+<p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
+
+<p>You can read more about the research of Strephon Kaplan-Williams at <a href="https://www.dreamwork-psychology.com/">dreamwork-psychology.com</a>, maintained and continued by his pupil and friend Ovidiu Brazdău.</p>
+"""^^xsd:string ;
+    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
+    ns1:itemId "bcphbqhaskw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
+    ns1:profileImg "author-strephon.jpg"^^xsd:string .
+
+ns1:bcphbqvreed a ns1:User ;
+    owl:sameAs "https://web.archive.org/web/20180522230707/http://www.henryreed.com/"^^xsd:string ;
+    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
+
+<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
+
+<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
+
+<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
+
+<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net.</p>
+
+<div class="media-item resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+"""^^xsd:string ;
+    ns1:handle "henryreed"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20180522230707/http://www.henryreed.com/> ;
+    ns1:itemId "bcphbqvreed"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Henry Reed"^^xsd:string ;
+    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
+
 ns1:bcpovcretld a ns1:Topic ;
     owl:sameAs "https://dbpedia.org/page/Lucid_dream"^^xsd:string,
         "https://en.wikipedia.org/wiki/Lucid_dream"^^xsd:string ;
@@ -27010,46 +27076,6 @@ ns1:bcpovcretld a ns1:Topic ;
     ns1:name "Lucid Dreaming"^^xsd:string ;
     ns1:shortName "Lucid Dreaming"^^xsd:string ;
     ns1:subType "Thing"^^xsd:string .
-
-ns1:bcphbqhaskw a ns1:User ;
-    owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;
-    ns1:coverImg "cover-author-strephon.jpg"^^xsd:string ;
-    ns1:description """<p><a href="https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/">Strephon Kaplan-Williams</a> (1934 - 2009) was the founder of the Jungian-Senoi Dreamwork Institute in Berkeley, through which he published the <a href="https://archive.org/details/jungiansenoidrea00will/page/6/mode/2up">Jungian-Senoi Dreamwork Manual</a> in 1978. In 1983-4 he founded the Association for the Study of Dreams (now IASD) with Patricia Garfield, Gayle Delaney, <a href="../@jeremytaylor">Jeremy Taylor</a>, soon joined by <a href="../@stephenlaberge">Stephen LaBerge</a> and John Van Damm. He moved to the UK in 1987, where he first published his <a href="https://dreamwork2000.com/dreamcards_interactive.html">Dream Cards</a> in 1991. They went on to sell over 100,000 decks.</p>
-
-<p>The Jungian-Senoi Dreamwork Institute offered a professional training program in Jungian-Senoi dreamwork and psychology. Its methodology emphasized the deliberate alteration of dream states, the resolution in dreams of problems encountered in waking consciousness, dream 'rehearsal' for activity while awake and the application of dreams to creative individual and community projects. Its dream groups were for the general public as well as for interested professionals.</p>
-
-<p>Kaplan-Williams was the son of the poet and anthologist <a href="https://en.wikipedia.org/wiki/Oscar_Williams_(poet)">Oscar Williams</a> (born Oscar Kaplan) and poet-artist Gene Derwood.</p>
-
-<p>You can read more about the research of Strephon Kaplan-Williams at <a href="https://www.dreamwork-psychology.com/">dreamwork-psychology.com</a>, maintained and continued by his pupil and friend Ovidiu Brazdău.</p>
-"""^^xsd:string ;
-    ns1:handle "strephon_kaplan_williams"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/> ;
-    ns1:itemId "bcphbqhaskw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Strephon Kaplan-Williams"^^xsd:string ;
-    ns1:profileImg "author-strephon.jpg"^^xsd:string .
-
-ns1:bcphbqvreed a ns1:User ;
-    owl:sameAs "https://web.archive.org/web/20180522230707/http://www.henryreed.com/"^^xsd:string ;
-    ns1:coverImg "cover-author-henry-reed.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://web.archive.org/web/20180522230707/http://www.henryreed.com/">henryreed.com</a></p>
-
-<p>Henry divides his time between being a goat rancher and being an independent scholar of psychology, involved in writing, teaching, consulting, research and counseling. His speciality is cultivating the creative spirit in others, working from both humanistic and transpersonal viewpoints.</p>
-
-<p>He received his Ph.D. from U.C.L.A. and was Assistant Professor of Psychology at Princeton University and Professor of Transpersonal Studies at Atlantic University. He has authored several popular books and professional articles and produced several instructional videos.</p>
-
-<p>Reed was termed the "Father of the Dreamwork movement" because of his creation of Sundance: The Community Dream Journal, that helped spark the national dreamwork movement. He had a one-man show of his dream inspired watercolor paintings at the Virginia Beach Center for the Arts, and created an annual "Dreams and Creativity" program for the City of Virginia Beach. He also consulted on a three hour series for the Discovery channel on dreams. He now leads people on home-based dream quests and paints watercolor mandalas for them as a channel of prayer support. The Smithsonian Institute invited him to give a lecture about his "Dream Solutions" method of creative dream work.</p>
-
-<p>He is Senior Fellow at the Edgar Cayce Institute of Intuitive Studies where he regularly provides training, consultation and research. He is also a Licensed Professional Counselor with a private practice in Mouth of Wilson, Virginia, specializing in intensive, transformational work, centered in dreams, energetic healing, and creativity. He is the founder of Creative Spirit Studios, which is a collaborative of lightworkers involved in using creative spirit in healing, teaching, and innovative service projects and research. Their virtual headquarters is at www.creativespirit.net and Henry maintains a well-equipped studio at Flying Goat Ranch in the Appalachian mountains, where he breeds and trains work friendly goats who help out and entertain guests of the spiritual healing sanctuary that exists on the ranch. His most recent projects include creating an "Intuitive Heart Discovery Group" network around the country training people to become Intuitive Heart practitioners and the development of the online "webzine," Intuitive-Connections Network, located at www.intuitive-connections.net.</p>
-
-<div class="media-item resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/pOeOMc_v-mQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-"""^^xsd:string ;
-    ns1:handle "henryreed"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://web.archive.org/web/20180522230707/http://www.henryreed.com/> ;
-    ns1:itemId "bcphbqvreed"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Henry Reed"^^xsd:string ;
-    ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
 ns1:bcphbqschul a ns1:User ;
     owl:sameAs "https://www.linkedin.com/in/jeanne-schul-ph-d-rsmt-b90b2415/"^^xsd:string ;

@@ -47,6 +47,6 @@ Mr. O'Connor has succeeded in writing a fine introductory book on dreams. Dreams
 4. Ibid., p. 55.
 5. "Thus the censorship between the Ucs. [unconscious] and the Pcs. [preconscious]...deserves to be recognized and respected as the watchman of our mental health.... No matter what impulses from the normally inhibited Ucs. may prance upon the stage, we need feel no concern; they remain harmless, since they are unable to set in motion the motor apparatus by which alone they might modify the external world." Freud, S., The Interpretation of Dreams (trans. J. Strachey) (New York: Avon Books, 1965), pp. 606-607.
    6.Ibid., p. 45.
-6. Homans, Peter, Jung in Context (Chicago: University of Chicago Press, 1979).
+6. Homans, Peter, [Jung in Context](https://www.amazon.com/Jung-Context-Modernity-Making-Psychology/dp/0226351122) (Chicago: University of Chicago Press, 1979).
 7. Homans, Peter, "Disappointment and the Ability to Mourn, De-Idealization as a Psychological Theme in Freud's Life, Thought, and Social Circumstance, 1906-1914," Freud: Appraisals and Reappraisals, ed. Paul E. Stepansky (Hillsdale, NJ: The Analytic Press, 1988).
 8. O'Connor, op.cit., pp. 16-19, 201.

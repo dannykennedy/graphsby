@@ -8,6 +8,7 @@ tags:
     - hasAuthor: paullevy
     - hasTag: 21.2
     - inIssue: 21.2
+    - hasTopic: topic~jung_and_dreams
 type: post
 urlSlug: "what-if-jung-were-alive-today"
 profileImg: levypaul.jpg

@@ -136,6 +136,7 @@ supporters_by_page_id = {
 	'bcpov6rsreci': jung_supporters,
 	'bcpov2zsijsa': jung_supporters,
 	'bcpov8zpmdmh': jung_supporters,
+	'bcpov7kaijat': jung_supporters,
 	# Biblical
 	'bcpov6christ': biblical_supporters,
 	'bcpov3zprosj': biblical_supporters,

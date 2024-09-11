@@ -9,6 +9,7 @@ tags:
     - hasTag: 11.2
     - inIssue: 11.2
     - hasTopic: topic~dream-books
+    - hasTopic: topic~jung_and_dreams
 type: post
 subType: Review
 urlSlug: "mens-dreams-mens-healing-review"

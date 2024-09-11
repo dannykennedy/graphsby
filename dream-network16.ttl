@@ -966,6 +966,7 @@ ns1:bcpov2zsijsa a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqhaskw ;
     ns1:hasTag ns1:bcphbqhaskw,
         ns1:bcpov6zfsra ;
+    ns1:hasTopic ns1:bcpovcretjd ;
     ns1:inIssue ns1:bcpov6zfsra ;
     ns1:itemId "bcpov2zsijsa"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -1494,7 +1495,8 @@ ns1:bcpov3zdtlli a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqawtay ;
     ns1:hasTag ns1:bcphbqawtay,
         ns1:bcphbte5ugv ;
-    ns1:hasTopic ns1:bcpovcrediv ;
+    ns1:hasTopic ns1:bcpovcrediv,
+        ns1:bcpovcretjd ;
     ns1:inIssue ns1:bcphbte5ugv ;
     ns1:itemId "bcpov3zdtlli"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -16195,7 +16197,8 @@ ns1:bcpov6zfredb a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3spar ;
     ns1:hasTag ns1:bcphbq3spar,
         ns1:bcphbzrw57c ;
-    ns1:hasTopic ns1:bcpovcretdb ;
+    ns1:hasTopic ns1:bcpovcretdb,
+        ns1:bcpovcretjd ;
     ns1:inIssue ns1:bcphbzrw57c ;
     ns1:itemId "bcpov6zfredb"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -18122,7 +18125,8 @@ ns1:bcpov6zpitrb a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqhaden ;
     ns1:hasTag ns1:bcphbqhaden,
         ns1:bcphbyoxe6n ;
-    ns1:hasTopic ns1:bcpovcretdb ;
+    ns1:hasTopic ns1:bcpovcretdb,
+        ns1:bcpovcretjd ;
     ns1:inIssue ns1:bcphbyoxe6n ;
     ns1:itemId "bcpov6zpitrb"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -18797,6 +18801,7 @@ ns1:bcpov7kaijat a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3plvy ;
     ns1:hasTag ns1:bcphbq3plvy,
         ns1:bcphbu6vnbl ;
+    ns1:hasTopic ns1:bcpovcretjd ;
     ns1:inIssue ns1:bcphbu6vnbl ;
     ns1:itemId "bcpov7kaijat"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -18933,7 +18938,8 @@ ns1:bcpov8zpmdmh a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvbulk ;
     ns1:hasTag ns1:bcphbpumr2x,
         ns1:bcphbqvbulk ;
-    ns1:hasTopic ns1:bcpovcretdb ;
+    ns1:hasTopic ns1:bcpovcretdb,
+        ns1:bcpovcretjd ;
     ns1:inIssue ns1:bcphbpumr2x ;
     ns1:itemId "bcpov8zpmdmh"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -25287,9 +25293,6 @@ ns1:bcpqocvint5 a ns1:Post ;
 ns1:Actor a owl:Class ;
     rdfs:subClassOf ns1:Item .
 
-ns1:Topic a owl:Class ;
-    rdfs:subClassOf ns1:Item .
-
 ns1:bcphblcllan a ns1:Post ;
     ns1:coverImg "3.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1984-03-01T11:32:52"^^xsd:dateTime ;
@@ -25376,6 +25379,9 @@ ns1:bcpov6pspec a ns1:Post ;
     ns1:name "Special publications"^^xsd:string ;
     ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
     ns1:urlSlug "special-publications"^^xsd:string .
+
+ns1:Topic a owl:Class ;
+    rdfs:subClassOf ns1:Item .
 
 ns1:bcphb2huxmr a ns1:Post ;
     ns1:coverImg "33.3-cover.jpg"^^xsd:string ;
@@ -25994,6 +26000,16 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:profileImg "32.1-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
+
+ns1:bcpovcretjd a ns1:Topic ;
+    ns1:coverImg "jungcover.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together reviews and articles about Jung and dreams that have appeared in the Dream Network Journal over the years.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~jung_and_dreams"^^xsd:string ;
+    ns1:itemId "bcpovcretjd"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jung and Dreams"^^xsd:string ;
+    ns1:shortName "Jung & Dreams"^^xsd:string .
 
 ns1:bcpqn76e7n5 a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>

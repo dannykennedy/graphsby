@@ -10,6 +10,7 @@ tags:
     - hasTag: 31.4
     - inIssue: 31.4
     - hasTopic: topic~dream-books
+    - hasTopic: topic~jung_and_dreams
 type: post
 subType: Review
 urlSlug: reading-the-red-book-review

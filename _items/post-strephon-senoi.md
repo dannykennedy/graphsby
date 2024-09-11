@@ -8,6 +8,7 @@ tags:
     - hasAuthor: strephon_kaplan_williams
     - hasTag: coat-of-many-colors
     - inIssue: coat-of-many-colors
+    - hasTopic: topic~jung_and_dreams
 type: post
 urlSlug: "the-jungian-senoi-approach-to-dreamwork"
 profileImg: strephon_coat.jpg

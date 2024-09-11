@@ -9,6 +9,7 @@ tags:
     - hasTag: 29.2
     - inIssue: 29.2
     - hasTopic: topic~dream-books
+    - hasTopic: topic~jung_and_dreams
 type: post
 subType: Review
 urlSlug: "the-red-book-jungs-journal"

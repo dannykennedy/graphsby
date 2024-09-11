@@ -9,6 +9,7 @@ tags:
     - hasTag: 17.3
     - inIssue: 17.3
     - hasTopic: topic~dream-interviews
+    - hasTopic: topic~jung_and_dreams
 type: post
 subType: Conversation
 urlSlug: the-living-labyrinth-an-interview-with-jeremy-taylor

@@ -913,7 +913,7 @@ ns1:bcpov1zfgrbt a ns1:Post ;
   <p><em>I awaken from the preceding dream. Now I am in my Museum office, which is partitioned by half-height dividers into cubicles. I tell the people there about my previous two dreams. A dark-haired woman in her late 30s enters with something she wants identified. I immediately recognize it as another page taken from Jung's Red Book, though reduced in size to a paperback book. It depicts a man in a yellow-brown robe standing in a gesture of prayer, followed by a page of text in Fraktur. I explain to our elderly librarian-who is fascinated by the image - what this is and where it comes from. However, I realize that it must come from a section of the book which I haven't yet read.</em></p>
 </blockquote>
 
-<p>The next night, I encountered the image of a bull in the <em>Red Book</em> itself (p. 127), in the lower right of a mandala as one of the four beasts of the world-quarters. Two nights after that I found the image of the man in the robe there also (p. 154)-he is Philemon, Jung's spiritual guide! The invocation in the first dream is Jung's appeal to the Babylonian hero Gilgamesh, whom he had wounded with his words and transformed from large to small to heal him, then encased him within an egg to incubate (pp. 284-285). It calls upon Gilgamesh to be reborn as a god. In German, "Ein kaufen" means "one to purchase," while "Ein kampfen" means "one to struggle against." I have since received strong dream impressions that I am supposed to compose a "Gilgamesh Cantata" using the words from the Invocations section of the <em>Red Book</em>. How I will accomplish this with my limited musical skills is beyond me, but I believe that it does want to manifest in some way! No doubt it will be a struggle and perhaps I will need to buy the services of someone more knowledgeable to complete it?</p>
+<p>The next night, I encountered the image of a bull in the <em>Red Book</em> itself (p. 127), in the lower right of a mandala as one of the four beasts of the world-quarters. Two nights after that I found the image of the man in the robe there also (p. 154)-he is Philemon, Jung's spiritual guide! The invocation in the first dream is Jung's appeal to the Babylonian hero Gilgamesh, whom he had wounded with his words and transformed from large to small to heal him, then encased him within an egg to incubate (pp. 284-285). It calls upon Gilgamesh to be reborn as a god. In German, "Ein kaufen" means "one to purchase," while "Ein kampfen" means "one to struggle against." I have since received strong dream impressions that I am supposed to <a href="../bcpov6zfgil1/the-gilgamesh-cantata-a-personal-exploration-of-dreams-and-music-1">compose a "Gilgamesh Cantata"</a> using the words from the Invocations section of the <em>Red Book</em>. How I will accomplish this with my limited musical skills is beyond me, but I believe that it does want to manifest in some way! No doubt it will be a struggle and perhaps I will need to buy the services of someone more knowledgeable to complete it?</p>
 
 <p>Finally, I have found myself lecturing about the <em>Red Book</em> itself in dreams:</p>
 
@@ -927,9 +927,9 @@ ns1:bcpov1zfgrbt a ns1:Post ;
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3curt ;
     ns1:hasTag ns1:bcphbq3curt,
-        ns1:bcphbzdzrug ;
+        ns1:bcphbyukqzw ;
     ns1:hasTopic ns1:bcpovcretjd ;
-    ns1:inIssue ns1:bcphbzdzrug ;
+    ns1:inIssue ns1:bcphbyukqzw ;
     ns1:itemId "bcpov1zfgrbt"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Read by the Red Book"^^xsd:string ;
@@ -26497,6 +26497,21 @@ ns1:bcphbz5vgog a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "32.4"^^xsd:string .
 
+ns1:bcphbzdzrug a ns1:Post ;
+    ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.4_music.pdf" download="">Download issue 30.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.4_music.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocndszw ;
+    ns1:itemId "bcphbzdzrug"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 30, issue 4: Music in our Dreams"^^xsd:string ;
+    ns1:profileImg "30.4-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "30.4"^^xsd:string .
+
 ns1:bcphbzrw57c a ns1:Post ;
     ns1:coverImg "31.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2012-10-01T11:32:52"^^xsd:dateTime ;
@@ -26714,21 +26729,6 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "28.1"^^xsd:string .
-
-ns1:bcphbzdzrug a ns1:Post ;
-    ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.4_music.pdf" download="">Download issue 30.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.4_music.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocndszw ;
-    ns1:itemId "bcphbzdzrug"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 30, issue 4: Music in our Dreams"^^xsd:string ;
-    ns1:profileImg "30.4-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "30.4"^^xsd:string .
 
 ns1:bcphbq3curt a ns1:User ;
     owl:sameAs "https://www.bridgew.edu/person/dr-curtiss-hoffman"^^xsd:string ;
@@ -27009,21 +27009,6 @@ ns1:bcphbqsorna a ns1:User ;
     ns1:name "Orna Ben-Shoshan"^^xsd:string ;
     ns1:profileImg "author-ornabenshoshan.jpg"^^xsd:string .
 
-ns1:bcphbyukqzw a ns1:Post ;
-    ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf" download="">Download issue 29.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocknhzs ;
-    ns1:itemId "bcphbyukqzw"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
-    ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "29.3"^^xsd:string .
-
 ns1:bcphbqflull a ns1:User ;
     owl:sameAs "https://siivola.org/monte/"^^xsd:string ;
     ns1:coverImg "cover-author-montagueullman.jpeg"^^xsd:string ;
@@ -27084,6 +27069,21 @@ ns1:bcphbxjsuyu a ns1:Post ;
     ns1:name "Volume 26, issue 1: A Tribute to Stanley Krippner, PhD"^^xsd:string ;
     ns1:profileImg "26.1-2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "26.1-2"^^xsd:string .
+
+ns1:bcphbyukqzw a ns1:Post ;
+    ns1:coverImg "29.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf" download="">Download issue 29.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.3_art.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocknhzs ;
+    ns1:itemId "bcphbyukqzw"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 29, issue 3: Dreams and Art"^^xsd:string ;
+    ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "29.3"^^xsd:string .
 
 ns1:bcpovcredja a ns1:Topic ;
     ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;

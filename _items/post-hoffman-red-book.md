@@ -6,8 +6,8 @@ name: "Read by the Red Book"
 tags:
     - hasTag: curtisshoffman
     - hasAuthor: curtisshoffman
-    - hasTag: 30.4
-    - inIssue: 30.4
+    - hasTag: 29.3
+    - inIssue: 29.3
     - hasTopic: topic~jung_and_dreams
 type: post
 urlSlug: "read-by-the-red-book"
@@ -47,7 +47,7 @@ But then I began to dream about the _Red Book_ itself, sometimes quite directly.
 
 > _I awaken from the preceding dream. Now I am in my Museum office, which is partitioned by half-height dividers into cubicles. I tell the people there about my previous two dreams. A dark-haired woman in her late 30s enters with something she wants identified. I immediately recognize it as another page taken from Jung's Red Book, though reduced in size to a paperback book. It depicts a man in a yellow-brown robe standing in a gesture of prayer, followed by a page of text in Fraktur. I explain to our elderly librarian-who is fascinated by the image - what this is and where it comes from. However, I realize that it must come from a section of the book which I haven't yet read._
 
-The next night, I encountered the image of a bull in the _Red Book_ itself (p. 127), in the lower right of a mandala as one of the four beasts of the world-quarters. Two nights after that I found the image of the man in the robe there also (p. 154)-he is Philemon, Jung's spiritual guide! The invocation in the first dream is Jung's appeal to the Babylonian hero Gilgamesh, whom he had wounded with his words and transformed from large to small to heal him, then encased him within an egg to incubate (pp. 284-285). It calls upon Gilgamesh to be reborn as a god. In German, "Ein kaufen" means "one to purchase," while "Ein kampfen" means "one to struggle against." I have since received strong dream impressions that I am supposed to compose a "Gilgamesh Cantata" using the words from the Invocations section of the _Red Book_. How I will accomplish this with my limited musical skills is beyond me, but I believe that it does want to manifest in some way! No doubt it will be a struggle and perhaps I will need to buy the services of someone more knowledgeable to complete it?
+The next night, I encountered the image of a bull in the _Red Book_ itself (p. 127), in the lower right of a mandala as one of the four beasts of the world-quarters. Two nights after that I found the image of the man in the robe there also (p. 154)-he is Philemon, Jung's spiritual guide! The invocation in the first dream is Jung's appeal to the Babylonian hero Gilgamesh, whom he had wounded with his words and transformed from large to small to heal him, then encased him within an egg to incubate (pp. 284-285). It calls upon Gilgamesh to be reborn as a god. In German, "Ein kaufen" means "one to purchase," while "Ein kampfen" means "one to struggle against." I have since received strong dream impressions that I am supposed to [compose a "Gilgamesh Cantata"](../bcpov6zfgil1/the-gilgamesh-cantata-a-personal-exploration-of-dreams-and-music-1) using the words from the Invocations section of the _Red Book_. How I will accomplish this with my limited musical skills is beyond me, but I believe that it does want to manifest in some way! No doubt it will be a struggle and perhaps I will need to buy the services of someone more knowledgeable to complete it?
 
 Finally, I have found myself lecturing about the _Red Book_ itself in dreams:
 

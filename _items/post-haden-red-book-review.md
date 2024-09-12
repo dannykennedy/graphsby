@@ -1,5 +1,5 @@
 ---
-dateCreated: "2010-09-01T11:32:52"
+dateCreated: "2010-04-01T11:32:52"
 itemId: bcpov6zpitrb
 layout: post
 name: "The Red Book: Jung's Journal"

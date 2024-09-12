@@ -859,6 +859,83 @@ ns1:bcpov1rsjwpt a ns1:Post ;
     ns1:name "Jayne Gackenbach's Report On The Work Of Paul Tholey"^^xsd:string ;
     ns1:urlSlug "gackenbach-report-on-tholey"^^xsd:string .
 
+ns1:bcpov1zfgrbt a ns1:Post ;
+    ns1:dateCreated "2010-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/redbookhoffman.jpg" alt="Hoffman at his computer" /></p>
+
+<p>When Carl Jung's <em>Red Book</em> came out in November of 2009, I was fascinated but somewhat put off by the price. A few months later, I was able to acquire a copy while at the <a href="https://www.flickr.com/photos/28684943@N04/albums/72157624357982995/with/4789087416">2010 IASD conference in Asheville</a> at a discount, while also getting some exposure to its stunning artistic content from a pair of excellent talks given at the conference by Richard Russo and Laurel McCabe. They advised readers to go slow with this massive volume, not to try to read it straight through... and that is indeed what I tried to do for the first several weeks.</p>
+
+<p>Once I settled down to actually read the book in sequence, it became clear that it wanted to be read only at night, not during the day. Soon, I began to discover striking synchronicities between what I was reading and what was happening in both my waking and dreaming life. The first instance of this came when I was preparing an article on dreaming of Fairies; I was looking for a way to connect the cross-cultural traditions of Fairies being variable in size with the contents of the collective unconscious. Almost at once, the book obliged me with the following quote, in the context of Jung's first encounter with the Spirit of the Depths: "Only the Spirit of this time knows the difference between large and small. But this difference is invalid, like the spirit which recognizes it." (p.233)</p>
+
+<p>Around the same time, I got one of those jump-start messages during meditation, informing me that I was marking time in my spiritual growth and that I needed to find a new direction. It seemed to me that this was akin to Jung's own journey, so I decided to accept my reading of the <em>Red Book</em> as an adventure into the realms of the unconscious which I needed to undertake.</p>
+
+<p>Shortly after this, I had this dream:</p>
+
+<blockquote>
+  <p><em>I am on a bus with a number of my college students. It has a narrow central aisle. I understand that someone is going to board the bus with an important message for us all. I'm surprised to see that this is a tall, thin man in a red Santa Claus suit. He comes down the aisle. I have a pistol and I'm prepared to shoot him but I observe that he isn't entirely tangible-a bullet would likely pass right through his ethereal body. I put the pistol away. I will listen to what he has to say.</em></p>
+</blockquote>
+
+<p>The following night, I read a passage in the <em>Red Book</em> in which Jung had an encounter with the Red Man (pp. 259-260). Like me, at first his reaction to this figure was negative-he associated him with the Devil-but, as in my dream, he decided that he needed to listen to what this figure had to say. It occurred to me that "Santa" and "Satan" are anagrams!</p>
+
+<p>Then there came a night-the first of many during this period-when I was unable to get to sleep; I tossed and turned but finally got up and went out to my living room to read from the <em>Red Book</em>. There, I found the following passage:</p>
+
+<blockquote>
+  <p><em>"Sleep does not come. I toss and turn-sleep still does not come—must I finally harbor this unsaved soul in myself? And is it this that will not let me sleep? Have I such a novelistic soul? That's all I needed-this would be agonizingly ridiculous. Does this bitterest of all drinks never end? It must already be midnight-and still sleep doesn't come."</em> (p. 262)</p>
+</blockquote>
+
+<p>The time when I read this was, in fact, just around midnight! This definitely seized my attention. I had the distinct feeling that it was not so much that I was reading the <em>Red Book</em>, as that it was reading me! I was at once reminded of a stanza from a song in Danny Kaye's musical movie about Hans Christian Andersen-also a powerful dreamer:</p>
+
+<blockquote>
+  <p>Permit me to show you, dear sir, My very latest book.</p>
+</blockquote>
+
+<blockquote>
+  <p>Now here's a tale of a simple fool Just glance at a page or two. You'll laugh, ha, ha - but you'll blush a bit</p>
+</blockquote>
+
+<blockquote>
+  <p>For you realize as you're reading it That it's also reading you.</p>
+</blockquote>
+
+<p>From this point onwards, it became commonplace for materials I read in the book to come up in conversations within a day or two after I read them, no matter how bizarre the subject might be. This has proved to be useful in helping friends deal with difficult life situations. It no longer surprises me when this happens.</p>
+
+<p>But then I began to dream about the <em>Red Book</em> itself, sometimes quite directly. Here is a triptych of nested dreams (see my article in Dream Network Journal, V22(2):32-33) from the same night, shortly after I returned from a week-long music camp:</p>
+
+<blockquote>
+  <p><em>I am in an open classroom on the 2nd floor of an old wood frame building at the music camp. The class is conducted by the camp's head honchos, Sarah Meade and Sheila Beardsley. Sarah sends me downstairs to see who is there in the road. I go out the door, and there I see a middle-aged woman with an old wooden cart across the road. It is yoked to a strange large animal behind it, mostly white with light bluish tinges to its muzzle and back. It appears to be either a small bull or a calf. The woman wants to bring it into the classroom. I tell her that she can't do that; the animal is too large to fit in the narrow stairway. She doesn't see that this is a problem; she transforms it into a spineless sea creature which fits onto a small plastic dinner plate, with 3 slices of yellow-green pickle on the left side. I'm surprised, but obviously she may now enter. I usher her into the classroom, holding the plate aloft in her right hand. Inside, there are about 20 students, male and female (including my wife), sitting on wooden folding chairs arranged in irregular rows. Sheila counts how many of us there are, and then Sarah hands out small slips of paper to each of them, each one containing a single word. However, standing in the back of the room, I get a larger piece which contains the entire text. I compare my text with the slips given to the other students and I reach the conclusion that they are in total the same as what I have. I see that the text is an invocation from Jung's Red Book and that it also contains an image of the bull calf and the cart. I'm surprised that the image is the same as what I saw on the street. The text is in both Fraktur German and English, at the same time. Sarah asks each student to read their word, in order from the front to the back of the room, while I read the entire text silently to check that it has been read correctly. The first word, in much larger size print, appears to be "Einkauf" or "Einkampf". I'm really uncertain about my role here.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>I awaken from the preceding dream, in the same classroom. I tell my wife that I'm going to check on the animal behind the cart. I go downstairs again and there is the cart and the woman, only the animal is clearly a medium-sized dog with curly golden hair. I return to the classroom to report on this. I tell her that this is waking physical reality, and that the animal is not a bull but a dog.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>I awaken from the preceding dream. Now I am in my Museum office, which is partitioned by half-height dividers into cubicles. I tell the people there about my previous two dreams. A dark-haired woman in her late 30s enters with something she wants identified. I immediately recognize it as another page taken from Jung's Red Book, though reduced in size to a paperback book. It depicts a man in a yellow-brown robe standing in a gesture of prayer, followed by a page of text in Fraktur. I explain to our elderly librarian-who is fascinated by the image - what this is and where it comes from. However, I realize that it must come from a section of the book which I haven't yet read.</em></p>
+</blockquote>
+
+<p>The next night, I encountered the image of a bull in the <em>Red Book</em> itself (p. 127), in the lower right of a mandala as one of the four beasts of the world-quarters. Two nights after that I found the image of the man in the robe there also (p. 154)-he is Philemon, Jung's spiritual guide! The invocation in the first dream is Jung's appeal to the Babylonian hero Gilgamesh, whom he had wounded with his words and transformed from large to small to heal him, then encased him within an egg to incubate (pp. 284-285). It calls upon Gilgamesh to be reborn as a god. In German, "Ein kaufen" means "one to purchase," while "Ein kampfen" means "one to struggle against." I have since received strong dream impressions that I am supposed to compose a "Gilgamesh Cantata" using the words from the Invocations section of the <em>Red Book</em>. How I will accomplish this with my limited musical skills is beyond me, but I believe that it does want to manifest in some way! No doubt it will be a struggle and perhaps I will need to buy the services of someone more knowledgeable to complete it?</p>
+
+<p>Finally, I have found myself lecturing about the <em>Red Book</em> itself in dreams:</p>
+
+<blockquote>
+  <p><em>I am giving a lecture on the images in the Red Book in a large auditorium with a big screen in the front. I have a PowerPoint presentation. I am nearing the end of the presentation and I show the last several images from the book. The last one actually includes, at the bottom, the strip of perforated white paper where Jung tore the page out of his spiral bound notebook. I mention that he stopped writing in mid-sentence.</em></p>
+</blockquote>
+
+<p>In fact, the book does end in mid-sentence on page 189 of Part Two, though the translator has found supplementary material in Jung's Black Book diaries to partially complete the story. My own dream journal is kept in a series of spiral-bound notebooks, before I transfer the dreams to computer files.</p>
+
+<p>My reading of the <em>Red Book</em> and its reading of me, have provided me with some very interesting adventures in consciousness. Curiously, the dreams appear to be ahead of the reading while the waking life experiences are behind it. I would recommend it to anyone who is contemplating a similar journey-though, throughout the book, Jung emphasizes that earnest searchers must not follow <em>his</em> path, but forge their own. Don't wait for the paperback edition to come out!</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3curt ;
+    ns1:hasTag ns1:bcphbq3curt,
+        ns1:bcphbzdzrug ;
+    ns1:hasTopic ns1:bcpovcretjd ;
+    ns1:inIssue ns1:bcphbzdzrug ;
+    ns1:itemId "bcpov1zfgrbt"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Read by the Red Book"^^xsd:string ;
+    ns1:profileImg "redbookhoffman.jpg"^^xsd:string ;
+    ns1:urlSlug "read-by-the-red-book"^^xsd:string .
+
 ns1:bcpov1zruisc a ns1:Post ;
     ns1:dateCreated "2005-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="https://www.amazon.com/Still-Chillin-Gabrielle-Roth/dp/B0007RA6ZK"><img src="../images/roth-cd.jpeg" width="300" height="auto" alt="cd cover, a Zen garden"/></a><!--nopreview--><div style="text-align:center"><i>Still Chillin' by Gabrielle Roth &amp; the Mirrors, Raven Recording, New York</i></div><!--/nopreview--></p>
@@ -15321,7 +15398,7 @@ ns1:bcpov6zfgadm a ns1:Post ;
 
 <p><img src="../images/dangerous_method.jpg" width="300" height="auto" alt="Dreaming The Soul Back Home"/></a><!--nopreview--><div class="caption" style="text-align:center">A Dangerous Method, A film by David Cronenberg Starring Michael Fassbender, Keira Knightley and Viggo Mortensen</div><!--/nopreview--></p>
 
-<p>Most people familiar with the history of psychoanalysis will be well aware of the conflicted relationship that developed between its two founders, Sigmund Freud and Carl Gustav Jung. Moreover, now that Jung’s <a href="../bcpov6zpitrb/the-red-book-jungs-journal"><em>Red Book</em></a> has been published, we can see in considerable detail how his journey into the unexplored realms of the Collective Unconscious followed closely upon the collapse of that relationship. David Cronenberg’s film explores this conflict from its origins, and places it within the context of Jung’s relationship with the brilliantly gifted but deeply troubled Sabina Spielrein, first his patient at the Burgholzli Asylum, then his collaborator, and eventually his lover. He makes this relationship the mainspring of the tension between the two men, as Jung first sought to deny its sexual dimension to his would-be mentor and father fi gure, but eventually was forced—indeed, almost blackmailed—into revealing it. The film explores in depth his inner conflict between the Protestant values of sobriety and restraint by which he was raised and his own libidinous urges. In the end, all three of the principals come across as more human as the result of their turmoil – though it is clear that Cronenberg’s strongest sympathies lie with Jung. Freud is depicted as being increasingly trapped in his own theories, unable to accept anything that goes the slightest bit beyond them; and Spielrein’s neuroses, while she has overcome many of their manifestations by the end of the analytic process, remain latent, just below the surface.</p>
+<p>Most people familiar with the history of psychoanalysis will be well aware of the conflicted relationship that developed between its two founders, Sigmund Freud and Carl Gustav Jung. Moreover, now that Jung’s <a href="../bcpov6zpitrb/the-red-book-jungs-journal"><em>Red Book</em></a> has been published, we can see in considerable detail how his journey into the unexplored realms of the Collective Unconscious followed closely upon the collapse of that relationship. David Cronenberg’s film explores this conflict from its origins, and places it within the context of Jung’s relationship with the brilliantly gifted but deeply troubled Sabina Spielrein, first his patient at the Burgholzli Asylum, then his collaborator, and eventually his lover. He makes this relationship the mainspring of the tension between the two men, as Jung first sought to deny its sexual dimension to his would-be mentor and father figure, but eventually was forced—indeed, almost blackmailed—into revealing it. The film explores in depth his inner conflict between the Protestant values of sobriety and restraint by which he was raised and his own libidinous urges. In the end, all three of the principals come across as more human as the result of their turmoil – though it is clear that Cronenberg’s strongest sympathies lie with Jung. Freud is depicted as being increasingly trapped in his own theories, unable to accept anything that goes the slightest bit beyond them; and Spielrein’s neuroses, while she has overcome many of their manifestations by the end of the analytic process, remain latent, just below the surface.</p>
 
 <p>The film is deeply permeated with symbolism: Sabina is always shown in white; Freud always has his cigar (which, of course, is just a cigar!), and Jung eventually adopts a pipe. The musical score, by Howard Shore, borrows heavily from Wagner’s epic <em>Ring of the Niebelungen</em>, which is also frequently mentioned in the plot. For those familiar with the Ring, this provides a set of internal references, which augment the drama. For example, as the ocean liner bringing Freud and Jung to the New World approaches the southern tip of Manhattan, we hear the “Entry of the Gods into Valhalla” from <em>Das Rheingold</em>. More subtly, the music given to the earth-goddess Erda accompanies Sabina’s explanation to Jung of her theory of sexuality as surrender, which is diametrically opposite to Freud’s views, just as the theme itself is an inversion of the masculine Wotan’s spear theme.</p>
 
@@ -26077,16 +26154,6 @@ ns1:bcphbqp3hfp a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "12.4"^^xsd:string .
 
-ns1:bcpovcretjd a ns1:Topic ;
-    ns1:coverImg "jungcover.jpg"^^xsd:string ;
-    ns1:description """<p>This page gathers together reviews and articles about Jung and dreams that have appeared in the Dream Network Journal over the years.</p>
-"""^^xsd:string ;
-    ns1:handle "topic~jung_and_dreams"^^xsd:string ;
-    ns1:itemId "bcpovcretjd"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jung and Dreams"^^xsd:string ;
-    ns1:shortName "Jung & Dreams"^^xsd:string .
-
 ns1:bcphb2asab7 a ns1:Post ;
     ns1:coverImg "33.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2014-01-01T11:32:52"^^xsd:dateTime ;
@@ -26430,21 +26497,6 @@ ns1:bcphbz5vgog a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "32.4"^^xsd:string .
 
-ns1:bcphbzdzrug a ns1:Post ;
-    ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.4_music.pdf" download="">Download issue 30.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.4_music.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocndszw ;
-    ns1:itemId "bcphbzdzrug"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 30, issue 4: Music in our Dreams"^^xsd:string ;
-    ns1:profileImg "30.4-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "30.4"^^xsd:string .
-
 ns1:bcphbzrw57c a ns1:Post ;
     ns1:coverImg "31.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2012-10-01T11:32:52"^^xsd:dateTime ;
@@ -26481,6 +26533,16 @@ ns1:bcpov6zfsra a ns1:Post ;
     ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
     ns1:urlSlug "coat-of-many-colors"^^xsd:string .
 
+ns1:bcpovcretjd a ns1:Topic ;
+    ns1:coverImg "jungcover.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together reviews and articles about Jung and dreams that have appeared in the Dream Network Journal over the years.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~jung_and_dreams"^^xsd:string ;
+    ns1:itemId "bcpovcretjd"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jung and Dreams"^^xsd:string ;
+    ns1:shortName "Jung & Dreams"^^xsd:string .
+
 ns1:bcpovcsetdg a ns1:Topic ;
     owl:sameAs "https://dbpedia.org/page/Dream_sharing"^^xsd:string,
         "https://en.wikipedia.org/wiki/Dream_sharing"^^xsd:string,
@@ -26515,20 +26577,6 @@ ns1:bcpovcsetdg a ns1:Topic ;
     ns1:name "Dream Sharing & Dream Groups"^^xsd:string ;
     ns1:shortName "Dreamsharing Groups"^^xsd:string ;
     ns1:subType "Thing"^^xsd:string .
-
-ns1:bcphbq3curt a ns1:User ;
-    owl:sameAs "https://www.bridgew.edu/person/dr-curtiss-hoffman"^^xsd:string ;
-    ns1:coverImg "cover-image-curtiss-hoffman.jpg"^^xsd:string ;
-    ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of <em>The Seven Story Tower: A Mythic Journey through Space and Time</em>, and <em>Stone Prayers</em>, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.</p>
-
-<p>He was the host of the 2006 IASD conference at Bridgewater State, and has presented at IASD conferences and at the on-line Psiberdreaming Conference for several years. Since 2004, he has been the chair of the IASD Student Research Awards Committee.</p>
-"""^^xsd:string ;
-    ns1:handle "curtisshoffman"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.bridgew.edu/person/dr-curtiss-hoffman> ;
-    ns1:itemId "bcphbq3curt"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Curtiss Hoffman"^^xsd:string ;
-    ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
 
 ns1:bcphbq3jean a ns1:User ;
     owl:sameAs "https://www.instagram.com/worlddreamspeacebridge/"^^xsd:string ;
@@ -26666,6 +26714,35 @@ ns1:bcphbycqos5 a ns1:Post ;
     ns1:profileImg "28.1-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "28.1"^^xsd:string .
+
+ns1:bcphbzdzrug a ns1:Post ;
+    ns1:coverImg "30.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.4_music.pdf" download="">Download issue 30.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.4_music.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocndszw ;
+    ns1:itemId "bcphbzdzrug"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 30, issue 4: Music in our Dreams"^^xsd:string ;
+    ns1:profileImg "30.4-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "30.4"^^xsd:string .
+
+ns1:bcphbq3curt a ns1:User ;
+    owl:sameAs "https://www.bridgew.edu/person/dr-curtiss-hoffman"^^xsd:string ;
+    ns1:coverImg "cover-image-curtiss-hoffman.jpg"^^xsd:string ;
+    ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of <em>The Seven Story Tower: A Mythic Journey through Space and Time</em>, and <em>Stone Prayers</em>, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.</p>
+
+<p>He was the host of the 2006 IASD conference at Bridgewater State, and has presented at IASD conferences and at the on-line Psiberdreaming Conference for several years. Since 2004, he has been the chair of the IASD Student Research Awards Committee.</p>
+"""^^xsd:string ;
+    ns1:handle "curtisshoffman"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.bridgew.edu/person/dr-curtiss-hoffman> ;
+    ns1:itemId "bcphbq3curt"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Curtiss Hoffman"^^xsd:string ;
+    ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
 
 ns1:bcpqn7zvpei a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>

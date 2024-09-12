@@ -15336,6 +15336,7 @@ ns1:bcpov6zfgadm a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3curt ;
     ns1:hasTag ns1:bcphbq3curt,
         ns1:bcphbzdzrug ;
+    ns1:hasTopic ns1:bcpovcretjd ;
     ns1:inIssue ns1:bcphbzdzrug ;
     ns1:itemId "bcpov6zfgadm"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -26001,16 +26002,6 @@ ns1:bcphbzxidqa a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "32.1"^^xsd:string .
 
-ns1:bcpovcretjd a ns1:Topic ;
-    ns1:coverImg "jungcover.jpg"^^xsd:string ;
-    ns1:description """<p>This page gathers together reviews and articles about Jung and dreams that have appeared in the Dream Network Journal over the years.</p>
-"""^^xsd:string ;
-    ns1:handle "topic~jung_and_dreams"^^xsd:string ;
-    ns1:itemId "bcpovcretjd"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jung and Dreams"^^xsd:string ;
-    ns1:shortName "Jung & Dreams"^^xsd:string .
-
 ns1:bcpqn76e7n5 a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_3.zip" download>Volume 3 (.zip file, 7mb)</a></p>
 """^^xsd:string ;
@@ -26085,6 +26076,16 @@ ns1:bcphbqp3hfp a ns1:Post ;
     ns1:profileImg "12.4-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "12.4"^^xsd:string .
+
+ns1:bcpovcretjd a ns1:Topic ;
+    ns1:coverImg "jungcover.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together reviews and articles about Jung and dreams that have appeared in the Dream Network Journal over the years.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~jung_and_dreams"^^xsd:string ;
+    ns1:itemId "bcpovcretjd"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jung and Dreams"^^xsd:string ;
+    ns1:shortName "Jung & Dreams"^^xsd:string .
 
 ns1:bcphb2asab7 a ns1:Post ;
     ns1:coverImg "33.1-cover.jpg"^^xsd:string ;

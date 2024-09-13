@@ -52,17 +52,17 @@ According to my Master's books, blackness or darkness represent either "the dete
 
 In Sufi terminology, the supreme blackness signifies spiritual poverty, as indicated by the Prophet: "Poverty is blackness of face in both worlds." Everything in its most developed form on the level of phenomena is epitomized at this level, as is the tree within the seed.
 
-Kashshaf estelahat al-fonun 647:
+**Kashshaf estelahat al-fonun 647:**
 
 > _To be covered by the blackness of spiritual poverty_
 
 > _Is the supreme blackness in our creed._
 
-## Lamaʿat 39:
+**Lamaʿat 39:**
 
 > _(The heart has also been referred to as the supreme blackness)_
 
-#### Abstract
+**Abstract**
 
 > _All around the eye of clay,_
 

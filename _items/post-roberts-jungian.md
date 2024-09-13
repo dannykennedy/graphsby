@@ -8,6 +8,7 @@ tags:
     - hasAuthor: maureenroberts
     - hasTag: 19.4
     - inIssue: 19.4
+    - hasTopic: topic~jung_and_dreams
 type: post
 urlSlug: "shamanic-and-jungian-dreamwork"
 ---

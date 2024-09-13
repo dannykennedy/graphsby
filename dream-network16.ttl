@@ -2334,6 +2334,7 @@ ns1:bcpov5rshsjd a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3almr ;
     ns1:hasTag ns1:bcphbq3almr,
         ns1:bcphbumhc4e ;
+    ns1:hasTopic ns1:bcpovcretjd ;
     ns1:inIssue ns1:bcphbumhc4e ;
     ns1:itemId "bcpov5rshsjd"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -21122,6 +21123,127 @@ ns1:bcpoz5zudohc a ns1:Post ;
     ns1:profileImg "post-bcpoz5zudohc-1.jpg"^^xsd:string ;
     ns1:urlSlug "dreams-of-harmonic-convergence"^^xsd:string .
 
+ns1:bcpoz5zudoml a ns1:Post ;
+    ns1:dateCreated "2002-07-02T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>According to a hadith tradition of the Prophet Muhammad, peace and blessings be upon him, true dreams-dreams sent by God - constitute "the forty-sixth part of prophecy." The cycle of prophecy began with the prophet Adam and closed with the prophet Muhammad; after him, what remains of the prophetic function manifests only in dreams.</p>
+
+<p>I dreamed this dream when I was maybe five years old. It shows the entire pattern of my life, and predicts my entry into Islam, which took place when I was forty. (I'm now 53.) Whenever my life enters a new phase I return to this dream and always see something in it that I never saw before. Here is the dream:</p>
+
+<blockquote>
+  <p><em>I am in a large, luxurious cubical room, panelled in dark brown wood. On each wall is a square of red wallpaper, like cloth, as if it were made of red satin. Each square leaves only a foot or two of the wood panelling of each wall visible, surrounding it on all four sides.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>This room is entered through glass doors on the right-hand wall, beyond which I have a vague sense of a traffic-filled street. I have apparently come into the room through these doors.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>In this room are all the people of my life. All my family, my friends, my acquaintances, and the suggestion also of all the people I am destined to meet in my future. A party is going on, with entertainment. Above us is a large, brilliant chandelier. In the far corner, to the left, is a big piano.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>The entertainment is provided by two figures near the piano. They appear to be North African shaykhs or marabouts; they are dressed in white jellabahs; each has a white turban or burnoose which covers the head and is wrapped around the neck beneath the chin. Their faces are black.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>The entertainment has to do with an animal which, in the dream, I think of as a "horse", though clearly it is a dromedary, a one-humped camel. The marabouts, who are armed with rifles, kill the camel, who then comes back to life. That's the entertainment. Anyone among the guests can request that the camel die in a certain way, after which it will again come back to life. I request, the next time they kill the camel, that it die with its legs buckling under it so that it twists to the left as it falls. I demonstrate this kind of death myself so that the marabouts will understand what I want, twisting to the left as I fall and making a "blaaaugh!" sound, like a camel, then standing up again. They proceed to shoot the camel so that it dies exactly as I have demonstrated.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>Then it comes back to life, and stands up.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>To the left of the large, red-papered cubical room is a doorway, which is reached by ascending perhaps two short steps. Beyond the doorway is a small, narrow room with plush, green-upholstered chairs, and a table upon which is a lamp with a yellow-green shade with yellow polkadots. Beyond this room is a darkened area of shabby, abandoned-looking halls with cracked and flaking plaster. The other two rooms are in vivid color, but this rear area is all in black-and-white. I enter the narrow room and pass into the rear area, then I return to the cubical room. 1 leave the cubical room and re-enter it for a second time, in exactly the same way. Then I leave it for a third time but, when I return for the third time to the cubical room, it is now pitch black, silent. Everyone is gone. I am alone. At this point the dream become "Iucid;" within the dream, I realize that I am dreaming. In my fear of abandonment I cry out to my mother and father, who I realize are sleeping in the next room - in terms of this world. I want them to awaken me from this dream which has ended in such a frightening way.</em></p>
+</blockquote>
+
+<p>They hear my cries, and do in fact awaken me.</p>
+
+<p>I had this dream before I knew anything about Islam, being only five years old. (I was a Catholic until I was sixteen.) I have had many thoughts about the meaning of this dream over the years, but none were definitive until I was initiated into a traditional Sufi order. In our majles (Sufi meeting), there is a point where the lights are extinguished, as in my dream; furthermore, the shaykh of our khaniqa (Sufi house) is a black man. It was only through my master's books that I began to reach a level of understanding of the symbolism of this dream that years of personal study of Jungian dreamwork and world mythology had been unable to produce.</p>
+
+<p>I have also noticed that, as I have pursued the Sufi path, I have tended to dream more in specifically Sufi symbolism, especially for really significant dreams; this is the rationale behind the common rule that after initiation a dervish is supposed to share his subsequent dreams only with his Master or spiritual adviser. Each spiritual path has its own "bank" of symbols which can be fairly accurate signposts, but only in terms of the path in question; of course, there is also a universal aspect to all true symbolism. These symbols occupy specific "sites" in what the Sufis call the alam al-mithal, the "imaginal plane" or "plane of image exemplars," where eternal truths appear as living symbols. The great master of this lore is the Shaykh al-Akbar, the "Greatest Sufi Shaykh," <a href="https://en.wikipedia.org/wiki/Ibn_Arabi">Ibn al-ʿArabī</a>, who divides the alam al-mithal into two areas, that of "contiguous imagination"-the realm of the personal psyche-and "noncontiguous imagination-" the realm where realities that transcend the psyche are exemplified on the psychic plane. The best introduction to the doctrines of Ibn al-ʿArabī is probably <a href="https://www.amazon.com.au/Imaginal-Worlds-Al-Arabi-Religious-Diversity/dp/079142250X"><em>Imaginal Worlds</em></a>, SUNY Press, 1994, by William C. Chittick.</p>
+
+<p>The two black-faced marabouts, according to my Master's books, seem to refer to the phrase "a blackened face in both worlds," which is found, among other places, in <a href="https://www.amazon.com/Gulshan-Raz-Shabistari-Translation-H/dp/1290681600">Shabistari's Gulistan I-Raz</a>. It symbolizes complete and total annihilation: death to this world, death to the next.</p>
+
+<p>The camel is a symbol of the self-at-peace [see below], which, in my Master's books, is also called "the sacrificial beast," referring to "a camel that is ritually slaughtered at Mena at the Feast of Sacrifice." The soul "once engaged upon the Path, [the Sufis] call the sacrificial beast." Furthermore, the unnatural way the beast falls after being killed, swiveling to the left so that its legs are twisted together, suggests to me that the camel was hamstrung and that the large tendons behind its knee joints were cut. This may relate to the story of the prophet Salih, sent by God to the tribe of Thamud, who failed to heed his message (Q. 7:7383). Salih pointed to the She-camel as "a sign of God" and told the tribe to leave her in peace, but they hamstrung her instead and slaughtered her. In punishment for this they were destroyed in an earthquake. The death and resurrection of the camel, who is also me, symbolize fana (annihilation of selfhood) and baqa (subsistence in God). And the fact that the camel, in falling, turns to the left, represents turning to the side of the Heart. Ritual motions among Sufis, as in the case of the "turning" of the Mevlevis, are usually performed counterclockwise. [NOTE: On the Sufi path the soul goes through three, or four, or seven stages of development. In the simplest rendition, the first stage is the "commanding self," where the individual is happily at one with his impulses and desires, just as the addict is at one with his drug. The second state is the "accusing self," the troubled conscience, where the individual knows he is doing wrong and struggles to change. The final stage is the "self-at-peace," where the soul is perfectly submissive to the will of God, which is its own higher nature.]</p>
+
+<p>I conjecture as follows: The red, cubical room is an image of the Heart; Sufis understand the Kaaba as a symbol for the Heart, and the Kaaba is a cube. The street outside the glass doors, filled with traffic, represents the mysteries of the higher worlds in pre-eternity; the traffic may indicate souls on their way to human birth. The shabby, abandoned halls symbolize this material world, or material consciousness.</p>
+
+<p>The narrow room with the lamp is the barzahk between the spiritual and material worlds [see below]. It is another rendition of the Heart, not as it is in itself beyond this world, but insofar as it is connected to the individual human psyche, and functions as the center of that psyche. (Both the lamp in the Green Room and the chandelier in the Red Room relate to the Light Verse, Q.24:35: "God is the light of the heavens and the earth; the likeness of His Light is as a niche wherein is a lamp.") The motion from right to left therefore, as opposed to the meaning of turning to the left as I and the camel fall, represents the motion from the world of spiritual archetypes to the world of matter - the motion of being born. (If right is East and left West, then the direction I am facing while in the red room would be North, the direction of the Pole. Qutb. "Pole" is a title assumed by some Sufi masters; it also refers to the Holiest Man in any time period, often hidden from public view, "The Pole of the Age." The North Pole is, in T.S. Eliot's phrase, "the still point of the turning world," the visible point of Eternity in the created order.)</p>
+
+<p>The color red, which predominates in the cubical room, represents, according to my Master's books, "strength in traveling the Path;" likewise the color green, which predominates in the narrow room, the barzakh, represents "absolute perfection." (Khidr, the Green One, appears in the Qurʿan to Moses at the barzakh or isthmus between the two seas, the sweet sea of the Spirit and the bitter sea of matter.) This perfection is compromised, however, by the yellow-green color of the lamp and its yellow polkadots: "Yellowness is said to represent weakness in the traveling of the Path." Since the color yellow appears in the lampshade, this may symbolize weakness of insight, or imperfect gnosis. So there is great potential strength which, however, is only weakly expressed in the actual incarnate psyche.</p>
+
+<p>The three trips from the red room to the shabby, abandoned halls, and back again, probably have to do with three adventures into worldliness which would predominate in my life. The blackness of the cubical room after the final trip would seem to represent fana, annihilation. Here the room, now blackened, becomes the Kaaba dressed in its black veil. The fear I feel at the end is the fear of spiritual annihilation, which is greater even than the fear of death. And certainly fear has been a big part of my life.</p>
+
+<p>According to my Master's books, blackness or darkness represent either "the determined forms of knowledge and the realm of contingency" or "the light of the Absolute Essence" which "appears as darkness to the wayfarer because of his extreme nearness to the Light." The following is the citation for THE SUPREME BLACKNESS:</p>
+
+<p>In Sufi terminology, the supreme blackness signifies spiritual poverty, as indicated by the Prophet: "Poverty is blackness of face in both worlds." Everything in its most developed form on the level of phenomena is epitomized at this level, as is the tree within the seed.</p>
+
+<p>Kashshaf estelahat al-fonun 647:</p>
+
+<blockquote>
+  <p><em>To be covered by the blackness of spiritual poverty</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>Is the supreme blackness in our creed.</em></p>
+</blockquote>
+
+<h2>Lamaʿat 39:</h2>
+
+<blockquote>
+  <p><em>(The heart has also been referred to as the supreme blackness)</em></p>
+</blockquote>
+
+<h4>Abstract</h4>
+
+<blockquote>
+  <p><em>All around the eye of clay,</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>All that is observed is God's design,</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>For the supreme blackness of the heart,</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>there is only that</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>Unique One.</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>Sabazwari</em></p>
+</blockquote>
+
+<p>The richness of the Red Room is like the fascination of spiritual states, unveilings, raptures, theophanies, visionary disclosures. At this station, death and resurrection, fana and baqa, are enacted as a symbolic drama. But when the Red Room goes Black, the spiritual glamour simply goes dead; it is reduced to nothing. In Rumi's words, "Welcome to this pitiful death."</p>
+
+<p><strong>The following is an interpretation of this dream by a British Muslim, along with two dreams of his own:</strong></p>
+
+<p>"Some thoughts on your remarkable dream. Returning to the cubical room three times: there is a tradition (it may be a Sufi one) that if you ask God for something three times with total sincerity it will be given to you. There is also the Sufi tradition of the one who knocks on the door three times: twice, when asked who was knocking, he says "It is me;" but the third time he says, "It is you," and the door is opened. This reflects your own interpretation of the blackness of the cubical room on the third return as fana, annihilation.</p>
+
+<p>"The colour Green... I was talking recently to Ahmed, and he points out the simple fact that green arises from the mixing of blue and yellow, which can be associated with many pairs of opposites (i.e. green represents the union of opposites, or at least the barzakh between the opposites, Khidr residing between the two seas). [Note: <em>Barzakh</em> means 'isthmus,' the intermediary point or stage between two extremes; it is perhaps related to the Tibetan word <em>bardo</em>. Khidr is the hidden guide of the Sufis, an immortal prophet, whose name means "Green Man." He is usually identified with the spiritual master, shocking and incomprehensible in his actions, whom Moses encounters in the Qurʿan, in the Surat al-Khaf. He is the Guardian of the Fountain of Life. The dream which led me to Islam centered around <em>the opening page of the Qurʿan in exquisite blue and gold calligraphy sent to me as a secret message from a mysterious woman who lives in the Gulf and who was to be my bride.</em>] [Note: The ancient Mesopotamian paradise of Dilmun was located on an island in the Persian Gulf, perhaps to be identified with Bahrain.] I associate blue and gold with the polarity of water and fire, the two astrological elemental extremities, and with coolness and heat. [Note: The heraldic colors of my Sufi order are gold within blue, representing the Sun in the depths of the Sea.]</p>
+
+<p>"Yes, I too read the cubical room as the Heart. [Note: In both Sufi and Eastern Orthodox Christian terminology, the Heart is the center of the psyche, where it is intersected by the vertical ray of the Spirit.] I met Ahmed through a dream of a <em>cubical box</em> I had before I became a Muslim. <em>Within the box (which I was holding as a gift for someone) was only a vast empty space. It was lined with black satin, which expressed the dazzling darkness of fana. I knew that this empty space was a far greater gift than the most precious jewel on earth.</em></p>
+
+<p>The dream woke me and I went downstairs. I switched on the TV and there was a program called 'Ramadan Journeys' about prominent Muslims in the field of creative arts. It had been delayed because a football match had gone into extra time. At the time it should have been on I was dreaming my dream of the box. At the moment I switched it on, there was Ahmed opening his box of the 99 Names [a mathematical art object Ahmed created to illustrate the 99 Names of God with which the heart of the Sufi becomes adorned]. I immediately realized that the attributes can only be embodied in the one who has a pure and empty heart; as the hadith says, only the Heart of my faithful servant can encompass Me. This is also a matter of simple mathematics: a cubical box of side 10 units, when opened along a diagonal, has 99 inner cubes in accordance with the hadith, 'God has ninety-nine names, one hundred minus one.'</p>
+
+<p>Charles Upton's latest book, <a href="https://www.amazon.com.au/System-Antichrist-Truth-Falsehood-Postmodernism/dp/0900588306"><em>The System of Antichrist: Truth and Falsehood in postmodernism and the New Age</em></a>, is available through <a href="https://web.archive.org/web/20030424145453/http://www.seriousseekers.com/">http://www.seriousseekers.com</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3kupt ;
+    ns1:hasTag ns1:bcphbq3kupt,
+        ns1:bcphbvbqspq ;
+    ns1:inIssue ns1:bcphbvbqspq ;
+    ns1:itemId "bcpoz5zudoml"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Dream of My Life"^^xsd:string ;
+    ns1:urlSlug "the-dream-of-my-life"^^xsd:string .
+
 ns1:bcpoz6htayod a ns1:Post ;
     ns1:dateCreated "1983-05-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>How you should analyze your own dreams depends on what you dream about. For example, I dream often of National Parks and nature preserves. The way for me to analyze these dreams is the same way I would analyze a mangrove swamp in the Everglades National Park if I were walking along a boardwalk. I wouldn't want to disturb the natural exuberance there, in any way be interfering with it and I wouldn't want to pollute it when I leave it behind. I want it to exist as it has always existed, forever, eternal, a refuge for forms of consciousness that have been all but crowded out of existence anywhere else in my being or in the world. I want to protect it and revel in its awe. The best way to analyze this sort of dream is to lie in bed upon awakening and taste and touch all its life in your memory until, if you are lucky, you end up slipping back into the dream again. But how wonderful! Now you're in a different part of the park. Now you're on the board walk through the hard wood hammock. Now the life around you and the feelings are entirely different. You've entered into a different environment of yourself and when you awaken again you can return to savor all its images and feelings in your memory. You can repeat this cycle again and again returning to the dream as many times as you need or, more realistically, as many as time will permit. Each transit is a stitch reconnecting your waking consciousness with some natural part of yourself. Each stitch will tie you closer for that whole subsequent day to what is most naturally you. So it'll be a successful day because doing what comes most natural to you, you do it very well.</p>
@@ -25067,21 +25189,6 @@ ns1:bcphbv3fbuv a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "23.1"^^xsd:string .
 
-ns1:bcphbvbqspq a ns1:Post ;
-    ns1:coverImg "21.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2002-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.3-Dream-Network-Vol-21-No-3.pdf" download="">Download issue 21.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.3-Dream-Network-Vol-21-No-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobs2l3e ;
-    ns1:itemId "bcphbvbqspq"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 21, issue 3: The Art of Dream Sharing"^^xsd:string ;
-    ns1:profileImg "21.3-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "21.3"^^xsd:string .
-
 ns1:bcphbvvhigo a ns1:Post ;
     ns1:coverImg "22.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2003-10-01T11:32:52"^^xsd:dateTime ;
@@ -25776,24 +25883,6 @@ ns1:bcphbq3king a ns1:User ;
     ns1:name "Marlene King"^^xsd:string ;
     ns1:profileImg "author-marlene-king.jpg"^^xsd:string .
 
-ns1:bcphbq3kupt a ns1:User ;
-    owl:sameAs "https://charles-upton.com/"^^xsd:string ;
-    ns1:coverImg "cover-author-charles-upton.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://charles-upton.com/">charles-upton.com</a></p>
-
-<p>Charles Upton (b. 1948) was born in San Francisco, and lived most of his life in Marin County, California. He is an American Sufi Muslim, and the author of <a href="https://charles-upton.com/works/metaphysics-and-social-criticism-demonology-eschatology/">13 books on metaphysics and spirituality</a>, 4 of <a href="https://charles-upton.com/works/poetry-metaphysics-and-mythopeia/">poetry</a>, and 3 on <a href="https://charles-upton.com/works/islam-sufism-and-the-spiritual-path/">Islam</a>. He was raised Catholic in an essentially pre-Vatican II Church, his only formal schooling being Catholic School from kindergarten through high school. He participated in the “spiritual revolution” and peace movements of the 1960s and 70s, investigated kundalini yoga, siddha-yoga, psychedelic drugs, (so called) neo-shamanism, the Philippine psychic surgeons in both the Philippines and California, and Tibetan Buddhism, and became a protégé of Beat Generation poet <a href="https://en.wikipedia.org/wiki/Lew_Welch">Lew Welch</a>; his first book, the short epic poem <a href="https://archive.org/details/panicgrass0000upto/mode/2up"><em>Panic Grass</em></a>, was published by Lawrence Ferlinghetti through <a href="https://en.wikipedia.org/wiki/City_Lights_Bookstore">City Lights Books</a>.</p>
-
-<p>In the 1980’s he joined the <a href="https://en.wikipedia.org/wiki/Sanctuary_movement">Sanctuary Movement</a> for Central American Refugees as elder of a small Presbyterian church, where he produced a video of refugee testimonies called “Through the Needle’s Eye,” thereby becoming briefly associated with the American Left. Also in the 80’s he took a “tour of duty” through the New Age movement, participating in citizen diplomacy with the Soviet Union in partnership with the New Age group Global Family during the glasnost years, initiating such projects as the U.S./Soviet Dream Bridge and a group dreaming experiment to deal with global challenges called <em>Gate of Horn</em>, as well as collecting dreams from all over the world that people dreamed on August 16th and 17th, 1987—the nights of the Harmonic Convergence. He bound this collection into a xerox edition entitled <em>The Harmonic Convergence Book of Dreams</em>, but he no longer possesses a copy of it since it went up in smoke in his “Bonfire of the New Age Vanities” in (probably) 1988. Soon afterwards he became associated with the Traditionalist/Perennialist School founded by <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Gu%C3%A9non">René Guénon</a> and then headed in the English-speaking world by <a href="https://en.wikipedia.org/wiki/Frithjof_Schuon">Frithjof Schuon</a>, eventually becoming a recognized writer of that School.</p>
-
-<p>In 1988 he converted to Islam and was received into the <a href="https://en.wikipedia.org/wiki/Ni%27matull%C4%81h%C4%AB">Nimatullahi</a> Sufi Order under <a href="https://en.wikipedia.org/wiki/Javad_Nurbakhsh">Dr. Javad Nurbakhsh</a>; in 2010, after Nurbakhsh’s death, he maintained his connection with Sufism by taking ba’yat with a lesser-known silsila of the ‘Alawiyya Tariqa, with which Frithjof Schuon had been associated. In 2013 he conceived the Covenants Initiative, based on the groundbreaking book <em>The Covenants of the Prophet Muhammad with the Christians of the World</em> by John Andrew Morrow, which has since become an international peace movement in the Muslim world during the rise of ISIS. He is presently Executive Director of the <a href="https://covenantsoftheprophet.org/">Covenants of the Prophet Foundation</a>. He now resides with his wife <a href="https://charles-upton.com/works/jennifer-doane-upton/">Jennifer Doane Upton</a>, a poet and author of two books on Dante’s Divine Comedy, in Lexington, Kentucky.</p>
-"""^^xsd:string ;
-    ns1:handle "charlesupton"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://charles-upton.com/> ;
-    ns1:itemId "bcphbq3kupt"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Charles Upton"^^xsd:string ;
-    ns1:profileImg "author-charles-upton-3.jpg"^^xsd:string .
-
 ns1:bcphbq3olse a ns1:User ;
     owl:sameAs "https://www.inner-image.net/fred-olsen.php"^^xsd:string ;
     ns1:coverImg "cover-author-fredolsen.jpg"^^xsd:string ;
@@ -25973,6 +26062,21 @@ ns1:bcphbuzcgu3 a ns1:Post ;
     ns1:profileImg "20.4-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "20.4"^^xsd:string .
+
+ns1:bcphbvbqspq a ns1:Post ;
+    ns1:coverImg "21.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2002-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.3-Dream-Network-Vol-21-No-3.pdf" download="">Download issue 21.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_21/21.3-Dream-Network-Vol-21-No-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobs2l3e ;
+    ns1:itemId "bcphbvbqspq"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 21, issue 3: The Art of Dream Sharing"^^xsd:string ;
+    ns1:profileImg "21.3-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "21.3"^^xsd:string .
 
 ns1:bcphbx7d7cu a ns1:Post ;
     ns1:coverImg "27.4-cover.jpg"^^xsd:string ;
@@ -26214,6 +26318,24 @@ ns1:bcphbq3gott a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dale Gottlieb"^^xsd:string ;
     ns1:profileImg "author-dalegottlieb.jpg"^^xsd:string .
+
+ns1:bcphbq3kupt a ns1:User ;
+    owl:sameAs "https://charles-upton.com/"^^xsd:string ;
+    ns1:coverImg "cover-author-charles-upton.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://charles-upton.com/">charles-upton.com</a></p>
+
+<p>Charles Upton (b. 1948) was born in San Francisco, and lived most of his life in Marin County, California. He is an American Sufi Muslim, and the author of <a href="https://charles-upton.com/works/metaphysics-and-social-criticism-demonology-eschatology/">13 books on metaphysics and spirituality</a>, 4 of <a href="https://charles-upton.com/works/poetry-metaphysics-and-mythopeia/">poetry</a>, and 3 on <a href="https://charles-upton.com/works/islam-sufism-and-the-spiritual-path/">Islam</a>. He was raised Catholic in an essentially pre-Vatican II Church, his only formal schooling being Catholic School from kindergarten through high school. He participated in the “spiritual revolution” and peace movements of the 1960s and 70s, investigated kundalini yoga, siddha-yoga, psychedelic drugs, (so called) neo-shamanism, the Philippine psychic surgeons in both the Philippines and California, and Tibetan Buddhism, and became a protégé of Beat Generation poet <a href="https://en.wikipedia.org/wiki/Lew_Welch">Lew Welch</a>; his first book, the short epic poem <a href="https://archive.org/details/panicgrass0000upto/mode/2up"><em>Panic Grass</em></a>, was published by Lawrence Ferlinghetti through <a href="https://en.wikipedia.org/wiki/City_Lights_Bookstore">City Lights Books</a>.</p>
+
+<p>In the 1980’s he joined the <a href="https://en.wikipedia.org/wiki/Sanctuary_movement">Sanctuary Movement</a> for Central American Refugees as elder of a small Presbyterian church, where he produced a video of refugee testimonies called “Through the Needle’s Eye,” thereby becoming briefly associated with the American Left. Also in the 80’s he took a “tour of duty” through the New Age movement, participating in citizen diplomacy with the Soviet Union in partnership with the New Age group Global Family during the glasnost years, initiating such projects as the U.S./Soviet Dream Bridge and a group dreaming experiment to deal with global challenges called <em>Gate of Horn</em>, as well as collecting dreams from all over the world that people dreamed on August 16th and 17th, 1987—the nights of the Harmonic Convergence. He bound this collection into a xerox edition entitled <em>The Harmonic Convergence Book of Dreams</em>, but he no longer possesses a copy of it since it went up in smoke in his “Bonfire of the New Age Vanities” in (probably) 1988. Soon afterwards he became associated with the Traditionalist/Perennialist School founded by <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Gu%C3%A9non">René Guénon</a> and then headed in the English-speaking world by <a href="https://en.wikipedia.org/wiki/Frithjof_Schuon">Frithjof Schuon</a>, eventually becoming a recognized writer of that School.</p>
+
+<p>In 1988 he converted to Islam and was received into the <a href="https://en.wikipedia.org/wiki/Ni%27matull%C4%81h%C4%AB">Nimatullahi</a> Sufi Order under <a href="https://en.wikipedia.org/wiki/Javad_Nurbakhsh">Dr. Javad Nurbakhsh</a>; in 2010, after Nurbakhsh’s death, he maintained his connection with Sufism by taking ba’yat with a lesser-known silsila of the ‘Alawiyya Tariqa, with which Frithjof Schuon had been associated. In 2013 he conceived the Covenants Initiative, based on the groundbreaking book <em>The Covenants of the Prophet Muhammad with the Christians of the World</em> by John Andrew Morrow, which has since become an international peace movement in the Muslim world during the rise of ISIS. He is presently Executive Director of the <a href="https://covenantsoftheprophet.org/">Covenants of the Prophet Foundation</a>. He now resides with his wife <a href="https://charles-upton.com/works/jennifer-doane-upton/">Jennifer Doane Upton</a>, a poet and author of two books on Dante’s Divine Comedy, in Lexington, Kentucky.</p>
+"""^^xsd:string ;
+    ns1:handle "charlesupton"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://charles-upton.com/> ;
+    ns1:itemId "bcphbq3kupt"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Charles Upton"^^xsd:string ;
+    ns1:profileImg "author-charles-upton-3.jpg"^^xsd:string .
 
 ns1:bcphbq3mart a ns1:User ;
     owl:sameAs "https://www.facebook.com/Kathy-Martone-EdD-2166828393535523/"^^xsd:string ;
@@ -26548,16 +26670,6 @@ ns1:bcpov6zfsra a ns1:Post ;
     ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
     ns1:urlSlug "coat-of-many-colors"^^xsd:string .
 
-ns1:bcpovcretjd a ns1:Topic ;
-    ns1:coverImg "jungcover.jpg"^^xsd:string ;
-    ns1:description """<p>This page gathers together reviews and articles about Jung and dreams that have appeared in the Dream Network Journal over the years.</p>
-"""^^xsd:string ;
-    ns1:handle "topic~jung_and_dreams"^^xsd:string ;
-    ns1:itemId "bcpovcretjd"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jung and Dreams"^^xsd:string ;
-    ns1:shortName "Jung & Dreams"^^xsd:string .
-
 ns1:bcpovcsetdg a ns1:Topic ;
     owl:sameAs "https://dbpedia.org/page/Dream_sharing"^^xsd:string,
         "https://en.wikipedia.org/wiki/Dream_sharing"^^xsd:string,
@@ -26607,6 +26719,16 @@ ns1:bcphbq3jean a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jean Campbell"^^xsd:string ;
     ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
+
+ns1:bcpovcretjd a ns1:Topic ;
+    ns1:coverImg "jungcover.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together reviews and articles about Jung and dreams that have appeared in the Dream Network Journal over the years.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~jung_and_dreams"^^xsd:string ;
+    ns1:itemId "bcpovcretjd"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jung and Dreams"^^xsd:string ;
+    ns1:shortName "Jung & Dreams"^^xsd:string .
 
 ns1:bcphbpumr2x a ns1:Post ;
     ns1:coverImg "11.2-cover.jpg"^^xsd:string ;

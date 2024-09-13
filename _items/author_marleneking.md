@@ -22,7 +22,7 @@ As a professional art therapist and active member in the dream community for ove
 
 Marlene served on the board and was a regular contributor to [Dream Network Journal](../@dreamnetwork) for nearly two decades. Her column, “Dream Times,” appeared there and in the North Kitsap Herald.
 
-She also has a blog, [www.thedreamplace.wordpress.com](https://www.thedreamplace.wordpress.com/), that contains inspirational true stories and reflections from her life.
+She also has a blog, [www.thedreamplace.wordpress.com (web archive)](https://web.archive.org/web/20201203031941/https://thedreamplace.wordpress.com/), that contains inspirational true stories and reflections from her life.
 
 Her inspirational novel, [**_The Rainbow Watchers_**](https://www.amazon.com.au/Rainbow-Watchers-Marlene-King/dp/1942661924), released in the fall of 2018, is spiritual fiction based on a true NDE (near-death experience) that explores the possibilities life has to offer on both sides of the veil.
 

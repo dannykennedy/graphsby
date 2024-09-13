@@ -1,44 +1,49 @@
 ---
-dateCreated: "1998-07-01T11:32:52"
-itemId: bcpov6zmythd
+dateCreated: "2008-07-01T11:32:52"
+itemId: bcpov8zmycuw
 layout: post
-name: "The Mythology of Dreams"
+name: "Cuddle Up with Your Shadow"
 tags:
     - hasTag: marleneking
     - hasAuthor: marleneking
-    - hasTag: 17.3
-    - inIssue: 17.3
-    - hasTag: "DreamTimes: Dream Exchange"
+    - hasTag: 27.3
+    - inIssue: 27.3
+    - hasTopic: topic~jung_and_dreams
 type: post
-urlSlug: "the-mythology-of-dreams"
+urlSlug: "cuddle-up-with-your-shadow"
+profileImg: marleneshadow.jpg
 ---
 
-Familiar themes and symbols emerge to most people who record their dreams. They are components that parallel their lives above and below conscious awareness. Do these themes and symbols form pieces of your own mythology? Since dreams dip into the world of the unconscious to select their stories and dramas, they tap both the personal and collective unconscious for dream material, thus forming a unique relationship between your personal mythology and your dreams.
+![Original title in print](../images/marleneshadow.jpg)
 
-What is the definition of "myth"? Webster defines it as follows:
+Analyzing the complexities of our egos/personalities has fascinated probing minds for centuries. Carl Jung was one of those seminal figures that plunged into the depths of the psyche, attempting to peel back and identify those layers that make us “tick.” He discovered that we each possess positive and negative sides of the “shadow” (those instinctual parts of self that have been suppressed/ hidden in our socialization process) that also reflect masculine (animus) and feminine (anima) aspects. They can rear their heads in nightmares or “Big Dreams” and are often objects or situations we fear.
 
-> "...a traditional story of ostensible historical events that serves to unfold part of the world view of a people or explain a practice, belief or natural phenomenon." [1]
+A woman who wants a new career in writing submitted the following dream that illustrates an encounter with shadow:
 
-Do your dreams reveal your world view? Certainly, your personal history is reflected through your dreams in regard the content you select from your life activities to play out in your dreams. Thus, your dreams reflect your personal 'myths' - ones in which your personal relationship can change and transform, just as your life experiences do.
+> I awoke around 5:30 to do affirmations and fell back to sleep and had an awful dream.
 
-However, the collective unconscious component adds a deeper layer to the meaning of your dreams with the appearances of the archetypal themes and symbols which reflect the primitive and ancient part of your personal mythology: Arthur Cotterell explains that:
+> _I am in an old house with doors and walls asunder. An old mangy cat is trying to get in and I am trying to keep it away from Max [her pet cat]. I look for something to throw at it and find a glass jar but the cat gets up in my face; its eyes are different and it bares its teeth._
 
-> "The myth in a primitive society ... was the recognition of the link between past and present established by myth in daily life. ...Jung became convinced that the individual possessed both a personal and collective unconscious; the former filled with material peculiar to the individual whereas the latter housed the common mental inheritance of mankind - the archetypes, or primordial images which 'bring into our ephemeral consciousness an unknown psychic life belonging to a remote past. This psychic life .. is the mind of our ancient ancestors, the way in which they conceived of life and the world, of gods and human being.' ... No doubt the creative period of myth is set in prehistoric times.'' [2]
+> I woke up panting with fear. I’ve been having beautiful meditative thoughts/ visualizations when lying awake and then go to sleep to have ugly dreams. _B.F.~Portland, OR_
 
-How can you track your own personal mythology through your dreams? Those who have kept dream journals for more than five years will have ample material to process; begin by reading through them finding frequent images/scenarios that you notice. Jot them down and see how your world view/ psyche has changed, remained the same or intensified - is it a map for the evolution of your own life pattern? Have your myths outgrown you - or you them? But no matter how long you have journaled - whether a novice recording the magic of the dream world or one who is well-seasoned, you will be able to recognize the emergence of your own myth material.
+I worked through the dream with the dreamer in the following way:
 
-For example, several of my older dream themes had to do with hotel/motel settings; that is, temporary way stations on a journey to somewhere. It reflected my internal as well as external search for "home". Since I have found what I call home both within and in the physical world , the occurrence of a hotel or motel setting in my dreams generally has diminished.
+> _I am in an old house with doors and walls asunder._
 
-Similarly, there has been an increase in circular-shaped symbols in my dreams during the past few years. For me, this equates to the archetype of the integration process of the self wanting to coalesce and evolve through internal processes.
+“The house where one lives frequently suggests the set of attitudes one holds at the time” and the house, as a symbol of self, in this case, is breaking down. The dreamer was in the process of reinventing herself vis-à-vis a new career path as a writer so it is not surprising the old “self” is deteriorating.
 
-In _Personal Mythology_, [Feinstein](../@davidfeinstein) and [Krippner](../@stanleykrippner) further explain the personal mythology process:
+> _An old mangy cat is trying to get in and I am trying to keep it away from Max [her pet cat]._
 
-> "Many depth psychologists believe that dreams are best understood as an unfolding of the psyche and should not be distorted by intellectual interpretations. In a similar manner, you can learn to sense, without being overly intellectual, the relationship between patterns you find in your dreams and developing personal myths. Dreams serve to mediate between your daily experiences and your underlying myths, Working with your dreams can reveal changes in your mythology that are occurring outside your awareness. Dreams may support or challenge an existing myth ... and you can understand your personal mythology more fully through the instructions [symbols] of your dreams." [3]
+Cats, usually symbolic of the intuitive aspects of the self, represent the feminine (anima)—either positive or negative— depending on how the dreamer views it. This cat may be the part of the dreamer that is dangerous or wild; her anima/shadow trying to literally “get in her face” to command attention. By ignoring the shadow part of self, the beauty on the journey keeps getting interrupted by fear; if welcomed, it frees one to see clearly and move forward without encumbrance.
 
-I encourage you to examine your own dream material in this light of mythmaking; it is a template for you to observe the smaller and bigger picture of your life as it evolves through developmental stages and reveals the inner and outer journey of the self.
+> _I look for something to throw at it and find a glass jar._
 
-## References
+I asked her about the glass jar. I was reminded of the novel by Sylvia Plath, _The Bell Jar_, that recounted the story of a Boston student “ ...who won a guest editorship and finds a bewildering new world at her feet. Her New York life is crowded with possibilities... but she can no longer retreat into the safety of her past. Deciding she wants to be a writer above all else, she struggles with problems of “morality, behavior, identity and her disappointments, anger, depression....” and I asked how this situation was like that of the dreamer’s?
 
-1. Webster's New Collegiate Dictionary. ed., G. & C. Merriam Company, Springfield, MA, 1977.
-2. Dictionary of World Mythology. Arthur Cotterrell, G.P. Putnam's Sons, NY, NY, 1979 .
-3. Personal Mythology. [D. Feinstein](../@davidfeinstein) and [S. Krippner](../@stanleykrippner), Jeremy Tarcher, Inc., Los Angeles, CA, 1988.
+> _...its eyes are different and it bares its teeth._ I woke up panting with fear.
+
+This cat (shadow) really wants the dreamer to pay attention to it and “face it” before it’s harmed or chased away! Teeth displays an aggressive quality; what does it mean that the eyes are “different?” I suggest it would be a great opportunity to re-enter the dream and confront the cat and see what it has to say. If, when or until we confront/integrate the shadow parts of ourselves in our humanness, it will “rear its ugly head” to reconcile and integrate.
+
+**Response:** I did work a little with the cat. One thing that was really obvious was the cat’s eyes. One was misshaped, maybe even a different color which was a mirror image for the imperfection of my eyes. I didn’t get any message specifically, but it later transformed into my grandmother’s beautiful white Persian cat, Tasha, which had a green and blue eye!
+
+The “eyes” are also a dream pun for “I’s” within the self. This dreamer is on the right track to integrate and cuddle up with shadow that is ready to be recognized so that the fear of that instinctual part of self can be absorbed and put to rest.

@@ -75,7 +75,7 @@ Bosnak is a training analyst at the Jung Institute in Boston, MA. He received hi
 He has worked with the Eranos Foundation in Ascona, Switzerland, and as a staff analyst at the Klinik am Zurichberg in Zurich. Bosnak teaches dream seminars and workshops in Boston, MA,
 Amsterdam, Holland and at the Archetypal Studies Center in Minneapolis, MN. He has an ongoing dream group in Cam bridge, MA where he also has a private practice.
 
-In assessing the relevancy of Jung's approach for contemporary dreamwork, he said, "The emphasis on the realm of the psyche has become more and more important since the time of Jung's original contributions. The autonomous realm of images has also become more important, as has the possibility of communicating with these images".
+In assessing the relevancy of [Jung's](../topic~jung_and_dreams) approach for contemporary dreamwork, he said, "The emphasis on the realm of the psyche has become more and more important since the time of Jung's original contributions. The autonomous realm of images has also become more important, as has the possibility of communicating with these images".
 
 "Jung's assertions that dreams have collective components and that the manifest content of dreams has meaning are still relevant", Bosnak maintains. "Jung's feminine psychology doesn't entirely fit, but his descriptions of the feminine archetype have value when applied at a personal level in men and women".
 

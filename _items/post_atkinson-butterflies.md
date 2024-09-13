@@ -37,7 +37,7 @@ From the corner of my eye I caught sight of a grey-blue painted, metal chair sit
 
 ### A Visit to the Consignment Store
 
-After arriving in the heart of the Blue Ridge Mountains, I was introduced to a lovely little consignment store. Nestled among four butterfly dessert plates was Jung’s book **Synchronicity**. Having never read it before, I purchased it, thinking: “Well isn’t that a nice coincidence!” Little did I know that this synchronicity of change and butterflies was still in play.
+After arriving in the heart of the Blue Ridge Mountains, I was introduced to a lovely little consignment store. Nestled among four butterfly dessert plates was [Jung’s](../topic~jung_and_dreams) book **Synchronicity**. Having never read it before, I purchased it, thinking: “Well isn’t that a nice coincidence!” Little did I know that this synchronicity of change and butterflies was still in play.
 _8/24/2010_
 
 ### The Mountain Top

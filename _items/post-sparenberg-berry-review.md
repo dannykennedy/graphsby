@@ -51,7 +51,7 @@ To encounter the phrases, _in the beginning was the dream; the primary tendencie
 
 Next, the essay I have chosen to look into is _INSCENDENCE—The Key to the Great Work of Our Time_ (pgs 42-71) by Bill Plotkin. Plotkin is a depth psychologist and wilderness guide, author of _Soulcraft_ and _Nature & the Human Soul_.
 
-The term Great Work may be familiar from alchemy and variations played out by Jung and his followers. Inscendence, however, is a word requiring definition. Plotkin (following Father Berry) gives us this: “Inscendence”—as over against the other worldliness of transcendence—is ‘sinking back into the source of everything,’ during which we no longer belong to the world in our old ways… There in the presence of ‘the source of everything’ we hope to be suffused by and informed by what Berry calls ‘the guidance and the powers of the Earth’.”
+The term Great Work may be familiar from alchemy and variations played out by [Jung](../topic~jung_and_dreams) and his followers. Inscendence, however, is a word requiring definition. Plotkin (following Father Berry) gives us this: “Inscendence”—as over against the other worldliness of transcendence—is ‘sinking back into the source of everything,’ during which we no longer belong to the world in our old ways… There in the presence of ‘the source of everything’ we hope to be suffused by and informed by what Berry calls ‘the guidance and the powers of the Earth’.”
 
 This has to do with Earth’s organically creative intelligence, of which we are told, “The dream of the Earth, the pull of numinous gravity, draws us down toward ‘the heart of the world.’ By means of this communion, we can re-member ourselves, enabling us, when ripened, to ‘rise up rooted, like trees’.”
 

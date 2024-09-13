@@ -28,7 +28,7 @@ Artists and others in the creative fields have been able to move through blocks 
 
 ## Innovating An Approach
 
-The Jungian-Senoi methodology takes key concepts and certain practices from both the psychology of C.G. Jung, and from the cultural achievements of the [Senoi](https://en.wikipedia.org/wiki/Senoi) peoples of Malaysia, a dream-oriented culture as reported by Kilton Stewart.
+The Jungian-Senoi methodology takes key concepts and certain practices from both the psychology of [C.G. Jung](../topic~jung_and_dreams), and from the cultural achievements of the [Senoi](https://en.wikipedia.org/wiki/Senoi) peoples of Malaysia, a dream-oriented culture as reported by Kilton Stewart.
 
 These concepts include using dreams for individuation and wholeness (Jung) and the bringing of dream content into life through doing specific projects or "dream tasks" (Senoi), not as a manipulative act, but to further evoke the wholeness potential within the psyche.
 

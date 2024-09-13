@@ -63,7 +63,7 @@ Although looking at what brought us to this brink of mutual self-destruction wou
 
 _When the members of a culture that makes no room for the world of dream live in a state of partial slumber, their most unconscious leaders inflict on the world an endless series of nightmares._
 
-Psychically speaking, these serve to take down our Promethean/Faustian/Frankensteinian idealism a peg or two. Spurning the psyche and its unknown deities amounts to hubris. The true matrix of myth and meaning, the depths of what we like to call the unconscious have addressed us since before the written word. Why else the need for ritual, religion, folklore? Everywhere and always human beings have paid creative, pious, and imaginal heed to powers behind and beyond the limited ego... except today, when the "enlightened" ego takes credit for everything, with all things bent to the measure of man. Jung had a good word for this state of mind: inflation.
+Psychically speaking, these serve to take down our Promethean/Faustian/Frankensteinian idealism a peg or two. Spurning the psyche and its unknown deities amounts to hubris. The true matrix of myth and meaning, the depths of what we like to call the unconscious have addressed us since before the written word. Why else the need for ritual, religion, folklore? Everywhere and always human beings have paid creative, pious, and imaginal heed to powers behind and beyond the limited ego... except today, when the "enlightened" ego takes credit for everything, with all things bent to the measure of man. [Jung](../topic~jung_and_dreams) had a good word for this state of mind: inflation.
 
 I will not soon forget a dream I had after a restless evening of cursing dreams for communicating in incomprehensible symbols:
 

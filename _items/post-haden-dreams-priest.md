@@ -18,7 +18,7 @@ profileImg: post-bcpov3zpihdp-0.jpeg
 
 ## Introduction
 
-One of the things that hooked me in the beginning of this dream path was Carl Jung saying he had a deep and abiding fear that the church was losing the experience of the Divine. If the church loses the experience of the Divine, the church will go down the drain. If the church goes down the drain, western civilization would go down the drain as well. When I read that, I knew I had a purpose and a partner on the journey.
+One of the things that hooked me in the beginning of this dream path was [Carl Jung](../topic~jung_and_dreams) saying he had a deep and abiding fear that the church was losing the experience of the Divine. If the church loses the experience of the Divine, the church will go down the drain. If the church goes down the drain, western civilization would go down the drain as well. When I read that, I knew I had a purpose and a partner on the journey.
 
 Karen Armstrong, author of [_Battle for God_](https://en.wikipedia.org/wiki/The_Battle_for_God), says that religion from the beginning was composed of both _logos_ (reason) and _mythos_ (mystery). Then, during the scientific era and the Enlightenment, we dropped mythos. We are all trying to recover mythos. The discovery of silence, meditation, dreams, and Jung has re-awakened mythos and the experience of the Divine for me. God does come to me in silence, and dreams truly are "God's forgotten language". I would like to share some of that journey with you, as it intersects with spiritual experience.
 

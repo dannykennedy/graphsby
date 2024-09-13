@@ -70,7 +70,7 @@ Twenty-six years ago when I first began to dream consciously or lucidly at age 1
 
 When talking with other lucid dreamers about their first lucid dream, no one has ever mentioned sex in their first lucid dream. However, many have mentioned a feeling of near ecstasy and joy, often accompanied by flying. At some later point, most lucid dreamers learn they can direct the energy of the dream towards sexual expressions.
 
-These points may suggest that the energy felt in a lucid dream is an experience of a basic or universal creative energy with the sexual component being one part, which we learn through association or conscious desire to pursue. In a similar vein, Carl G. Jung broke with Freud's view of the libido as primarily sexual and came to view the libido as a psychic energy, an expression of the "intensity of the psychic process."
+These points may suggest that the energy felt in a lucid dream is an experience of a basic or universal creative energy with the sexual component being one part, which we learn through association or conscious desire to pursue. In a similar vein, [Carl G. Jung](../topic~jung_and_dreams) broke with Freud's view of the libido as primarily sexual and came to view the libido as a psychic energy, an expression of the "intensity of the psychic process."
 
 ## Id, Ego, Libido, Lucidity: Why does it matter?
 

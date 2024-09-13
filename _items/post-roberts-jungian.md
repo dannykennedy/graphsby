@@ -13,7 +13,7 @@ type: post
 urlSlug: "shamanic-and-jungian-dreamwork"
 ---
 
-Just as myths are waking dreams, so dreams speak the language of myth. Indeed, Jung stressed the indispensable importance of the psychotherapist's possession of a broad knowledge of comparative religion and mythology, if s/he is to do justice not only to the mythic dimension of dreaming, but also to the infinite complexity of soul.
+Just as myths are waking dreams, so dreams speak the language of myth. Indeed, [Jung](../topic~jung_and_dreams) stressed the indispensable importance of the psychotherapist's possession of a broad knowledge of comparative religion and mythology, if s/he is to do justice not only to the mythic dimension of dreaming, but also to the infinite complexity of soul.
 
 Like myths worldwide, dreams are full of stories and dramatizations of conflict, wounding, healing, death, rebirth and transformation, what we could call 'Eternal Mind's eternal recreation' as it rehearses on an unconscious plane before appearing on the waking stage. By looking at our dreams in a mythological context, we can better appreciate soul's need to pathologize, and we can learn to navigate the Underworld through embracing symbolic death and rebirth in terms of their mythic resonances.
 

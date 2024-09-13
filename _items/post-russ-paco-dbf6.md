@@ -19,7 +19,7 @@ profileImg: post-bcpov6krdbf6-0.jpg
 
 _This is the sixth in a series of excerpts from an ongoing dialogue between Russell Lockhart and Paco Mitchell._
 
-**PM:** Over the course of our dialogue, one psychological factor has been implicit from the beginning. We have used it liberally and described its operations, but have not yet brought it front and center. That is the factor of _intuition_. Taken in the sense of “instinctive knowing”, or—as Jung once described it—“perception by way of the unconscious”, I believe it deserves at least a mention in our conversation.
+**PM:** Over the course of our dialogue, one psychological factor has been implicit from the beginning. We have used it liberally and described its operations, but have not yet brought it front and center. That is the factor of _intuition_. Taken in the sense of “instinctive knowing”, or—as [Jung](../topic~jung_and_dreams) once described it—“perception by way of the unconscious”, I believe it deserves at least a mention in our conversation.
 
 I have often thought—intuited, rather—that intuition is one of the oldest functions of the human psyche, one that we share with our animal brethren. I would even be comfortable placing intuition in the context of _animal knowing_. As a mysterious, archaic function, intuition has suffered a certain depreciation under the hegemony of the modern demand for rational thinking. With rigorous thinking we build the systems that control the world. Intuition, in contrast, is not so systematic. Since it governs the elusive flow of information that approaches consciousness from the side of the unconscious, it is not so readily controlled or manipulated as the products of systematic thought.
 

@@ -20,7 +20,7 @@ On the one end of the Piagetian scale, dreams have the capacity to fulfil wishes
 
 Secondly; dreams are seen by Piaget as capable of fulfilling wishes through a process of conscious assimilation as opposed to unconscious assimilation. in this classification scheme, there is a direct one-to-one correspondence between dream object and waking object. The dream symbol is the same object that is being dealt with during waking reality.
 
-In the third category, Piaget viewed dreams as having compensatory capabilities similar to Jung's perception of dream functioning. For example, events that are unpleasant to the individual during waking reality are represented and expressed in dreams as pleasurable experiences.
+In the third category, Piaget viewed dreams as having compensatory capabilities similar to [Jung's](../topic~jung_and_dreams) perception of dream functioning. For example, events that are unpleasant to the individual during waking reality are represented and expressed in dreams as pleasurable experiences.
 
 Nightmares occupy the fourth category. They are considered the counterparts of waking play in which fearful events are deliberately created by the individual. The function of the nightmare is to simulate, manipulate and experience situations and events that would otherwise have irreversIble consequences if created during waking reality.
 

@@ -508,21 +508,6 @@ ns1:bcphbupdomk a ns1:Post ;
     ns1:profileImg "20.1-2-rect.jpg"^^xsd:string ;
     ns1:urlSlug "20.1-2"^^xsd:string .
 
-ns1:bcphbyl3dut a ns1:Post ;
-    ns1:coverImg "29.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2010-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.1_healing.pdf" download="">Download issue 29.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.1_healing.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocknhzs ;
-    ns1:itemId "bcphbyl3dut"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 29, issue 1: Healing"^^xsd:string ;
-    ns1:profileImg "29.1-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "29.1"^^xsd:string .
-
 ns1:bcplz7zfbdac a ns1:Post ;
     ns1:dateCreated "1993-10-04T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><em>The following exchange took place in the Dream Network Journal starting with the initial classified in Issue 12.4 (1993), and continuing with Daren Wilson's letter the editor (15.4, 1996), and a follow-up letter from Joy Gates (16.1, 1997)</em></p>
@@ -935,6 +920,46 @@ ns1:bcpov1zfgrbt a ns1:Post ;
     ns1:name "Read by the Red Book"^^xsd:string ;
     ns1:profileImg "redbookhoffman.jpg"^^xsd:string ;
     ns1:urlSlug "read-by-the-red-book"^^xsd:string .
+
+ns1:bcpov1zihtcd a ns1:Post ;
+    ns1:dateCreated "2010-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.amazon.com/HAD-CRAZIEST-DREAM-LAST-NIGHT/dp/0981904505"><img width="300" src="../images/craziest-dream.jpg"></img></a><!--nopreview--><div class="caption"><i>I Had the Craziest Dream Last Night by Victoria Rabinowe. Bright Shadow Press, Santa Fe, NM. Illustrated, 181 pages.</i></div><!--/nopreview--></p>
+
+<p>The subtitle of I HAD THE CRAZIEST DREAM LAST NIGHT, which is, Twelve Creative Explorations into the Genius of the Night Mind, foretells the more valuable substance of the book. In a playful and somewhat generalized manner, the author has laid out a simple 12 step program for looking at dreams as storytelling and working with them creatively. I can identify with this approach as I teach a class on dream work and storytelling at one of the community colleges in Seattle and emphasize the rewarding difference between dreams intellectually interpreted and dream content non-judgmentally cast into an aesthetic and free standing narrative presentation.</p>
+
+<p>While the main body of Victoria Rabinowe's book shares such undeniable truths as "Trust yourself. You know more than you think," and is sprinkled throughout with quotations ranging from the Talmud to <a href="../topic~jung_and_dreams">Jung</a>, the choice to present a few hand written words scattered among a series of page-scapes of black and white drawings was a bit obscuring to the volume's message. Similar to watching a play on an overly busy stage! I found myself longing for a continuation of the more neatly organized opening section where the writing was centered within several frames of images. It is to this section that I now return.</p>
+
+<p>In her introduction, <em>Messages from the Muse</em>, there is this: "Each dream is a microcosm of time, memory and space, a living network of interacting images. Dreams can be allegorical, magical and spiritual. They unfold inexplicably with illusions that appear and disappear. Tools of power, transformations and invocations surge up from the depths of the unconscious. Mysterious or supernatural events blend with ordinary everyday routines. Time and order are irrelevant. Imagination and fact are reconfigured into myth."</p>
+
+<p>One senses the unacknowledged influence of <a href="https://en.wikipedia.org/wiki/James_Hillman">James Hillman</a> on Ms. Rabinowe's book and perhaps, as well, in her <em>Art of the Dream</em> workshops, which she offers from Santa Fe, NM. For the familiar this influence shines through in significant patches, but, I would gladly wager, with imagined approval from Dr. Hillman. Being a Hillman fan, the presence of shared understandings and approach increases the appeal of THE CRAZIEST DREAM. Yet more importantly, such Hillman-like statements as the foregoing (and others to shortly follow) contribute to a steadily increasing stream of dreamwork liberation from both clinic and academy, and culturally establishing the dreaming process as a universal source of inspiration and personal artistry.</p>
+
+<p>In the section <em>Chaos into Creativity</em>, we find these lines: "We become active dreamworkers when our feelings are overruled by the passionate search for our truth. No matter how perplexing or fearful, within each dream there is a core of knowing that is always present."</p>
+
+<p>Then again from <em>Traces of the Journey</em>, are two memorable quotations, now laced together as a single continuum:</p>
+
+<blockquote>
+  <p><em>"If we open to the richness of our nightly narratives, our dreams become our muses, guardians of our emotions and the genius of our creativity. Dreams are the connections to our deepest, authentic creative sources... The dream is a mystery which the rational mind cannot solve... To make sense of a dream, we need to learn how to shift away from our usual strategies for finding answers... When we reenter the dream space through art, we are meeting the dream in its own language of metaphor and symbol."</em></p>
+</blockquote>
+
+<p>Of course the best books to enter our lives are always those that either help shape something in us that was gestating and pushing up just under the surface of conscious-knowing, or else provide a reflective and reinforcing perception of an identity developing discovery. Only days before taking up Victoria Rabinowe's volume, I was considering how my awareness of dreaming decreases as my composition of dreamlike writing and especially that of poetry increases. This peculiarity I am currently attributing to an ongoing organic dialogue between my conscious identity and the (unconscious) underworld of dreams. The result of which is a curious-possibly even a little "crazy"-yet pleasantly charming and challenging consideration that sometimes I do not know if I am dreaming in poetry or narrating dreams into poems! Perhaps the question mark arising does not require an answer so much as an embrace of the process and this acceptance is, I chose to believe, a place where, under the aegis of the night genius, Victoria Rabinowe and I meet in mutual affirmation. Better to create than to interpret!</p>
+
+<p>Thus, I HAD THE CRAZIEST DREAM LAST NIGHT can be a fun book to visit, like an offbeat while likeable friend, simple enough for beginning dreamworkers but on the mark often enough as well to serve as a mirror and provide moments of memorable reflection for the more experienced and those familiar with the deep therapy of having inviting mantras for meditation on easy recall.</p>
+
+<p>So once more to Victoria (in full Hillman-like mode), and drawing down with a personal thank you to this present author: "Begin in the place of not knowing. You do not need to have any idea where you are going or what the meaning of the dream images may be. Trust the evocative projects to move your dreams forward. Listen to your heart and let go of the interference of your mind."</p>
+
+<p>There is a certain narrative magic in that advice we are all in need of relearning if we would improve our ever unfolding stories of life. ∞</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3spar ;
+    ns1:hasTag ns1:bcphbq3spar,
+        ns1:bcphbyl3dut ;
+    ns1:hasTopic ns1:bcpovcretdb ;
+    ns1:inIssue ns1:bcphbyl3dut ;
+    ns1:itemId "bcpov1zihtcd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: I Had the Craziest Dream Last Night by Victoria Rabinowe"^^xsd:string ;
+    ns1:profileImg "craziest-dream.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
+    ns1:urlSlug "i-had-the-craziest-dream-last-night-by-victoria-rabinowe"^^xsd:string .
 
 ns1:bcpov1zruisc a ns1:Post ;
     ns1:dateCreated "2005-04-01T11:32:52"^^xsd:dateTime ;
@@ -24591,6 +24616,21 @@ ns1:bcphby5wc2q a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "30.1"^^xsd:string .
 
+ns1:bcphbyl3dut a ns1:Post ;
+    ns1:coverImg "29.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2010-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.1_healing.pdf" download="">Download issue 29.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_29/29.1_healing.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocknhzs ;
+    ns1:itemId "bcphbyl3dut"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 29, issue 1: Healing"^^xsd:string ;
+    ns1:profileImg "29.1-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "29.1"^^xsd:string .
+
 ns1:bcphbzaknqj a ns1:Post ;
     ns1:coverImg "30.2-3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2011-04-01T11:32:52"^^xsd:dateTime ;
@@ -27138,19 +27178,6 @@ ns1:bcphbq3huds a ns1:User ;
     ns1:name "Chris Hudson"^^xsd:string ;
     ns1:profileImg "author-chrishudson.jpg"^^xsd:string .
 
-ns1:bcphbq3spar a ns1:User ;
-    owl:sameAs "https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww"^^xsd:string ;
-    ns1:description """<p>International Eco Ebook, Author OVI Bookshop, Director-Scriptwriter for CROSSING the THRESHOLD TOGETHER video project</p>
-
-<p>David's <a href="https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww">YouTube</a> channel</p>
-"""^^xsd:string ;
-    ns1:handle "davidsparenberg"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww> ;
-    ns1:itemId "bcphbq3spar"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "David Sparenberg"^^xsd:string ;
-    ns1:profileImg "author-david-sparenberg.jpg"^^xsd:string .
-
 ns1:bcphbq3vand a ns1:User ;
     owl:sameAs "https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html"^^xsd:string ;
     ns1:coverImg "cover-author-bobvandecastle.jpg"^^xsd:string ;
@@ -27323,6 +27350,19 @@ ns1:bcphbq3mcle a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Dick McLeester"^^xsd:string ;
     ns1:profileImg "author-dickmcleester.jpg"^^xsd:string .
+
+ns1:bcphbq3spar a ns1:User ;
+    owl:sameAs "https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww"^^xsd:string ;
+    ns1:description """<p>International Eco Ebook, Author OVI Bookshop, Director-Scriptwriter for CROSSING the THRESHOLD TOGETHER video project</p>
+
+<p>David's <a href="https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww">YouTube</a> channel</p>
+"""^^xsd:string ;
+    ns1:handle "davidsparenberg"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/channel/UCSN1udrwJqzvVfj3a51Fxww> ;
+    ns1:itemId "bcphbq3spar"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "David Sparenberg"^^xsd:string ;
+    ns1:profileImg "author-david-sparenberg.jpg"^^xsd:string .
 
 ns1:bcphbqflyer a ns1:User ;
     owl:sameAs "https://web.archive.org/web/20050313063900/http://members.aol.com/caseyflyer/flying/dreams01.html"^^xsd:string ;
@@ -27780,16 +27820,6 @@ ns1:bcphbqawtay a ns1:User ;
     ns1:name "Jeremy Taylor"^^xsd:string ;
     ns1:profileImg "author-jeremy-taylor.jpg"^^xsd:string .
 
-ns1:bcpovcretdb a ns1:Topic ;
-    ns1:coverImg "theme_books_cover.jpg"^^xsd:string ;
-    ns1:description """<p>This page gathers together all the reviews and articles about books on dreams and dreaming that have appeared in the Dream Network Journal over the years.</p>
-"""^^xsd:string ;
-    ns1:handle "topic~dream-books"^^xsd:string ;
-    ns1:itemId "bcpovcretdb"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Books about Dreams and Dreaming"^^xsd:string ;
-    ns1:shortName "Dream Books"^^xsd:string .
-
 ns1:bcphb2kq341 a ns1:Post ;
     ns1:coverImg "image-bcpov6gid34p-1.jpg"^^xsd:string ;
     ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
@@ -27856,6 +27886,16 @@ ns1:bcphbq3ossa a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Roberta Ossana"^^xsd:string ;
     ns1:profileImg "roberta_ossana.png"^^xsd:string .
+
+ns1:bcpovcretdb a ns1:Topic ;
+    ns1:coverImg "theme_books_cover.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together all the reviews and articles about books on dreams and dreaming that have appeared in the Dream Network Journal over the years.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~dream-books"^^xsd:string ;
+    ns1:itemId "bcpovcretdb"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Books about Dreams and Dreaming"^^xsd:string ;
+    ns1:shortName "Dream Books"^^xsd:string .
 
 ns1:bcphbq3krip a ns1:User ;
     owl:sameAs "https://en.wikipedia.org/wiki/Stanley_Krippner"^^xsd:string,

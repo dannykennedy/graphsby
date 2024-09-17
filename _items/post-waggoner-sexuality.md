@@ -14,6 +14,8 @@ urlSlug: lucid-dreaming-transformational-potential
 profileImg: post-bcpov6zlucse-0.jpg
 ---
 
+<img src="../images/post-bcpov6zlucse-0.jpg" alt="Lucid couple among the reeds" width="380px"/>
+
 "Freud is right," I said to myself, somewhat incredulous as the psychology professor explained the id and the libido. "Freud is right," I said again and shook my head. It was 1980 and I was a psychology major at Drake University listening to a lecture on Freud's theory of the id, ego, superego and the libido. The instructor had outlined Freud's theory that the id-or the vast unconscious within one's psyche-was the source of the libido, the sexually based instinctual energy that fueled much of motivation and behavior.
 
 At that moment, I felt Freud had illuminated an interesting aspect of my lucid dreaming-that the feeling of extraordinary energy when conscious in the dream. I reasoned that-if the dream state was located in the id or unconscious-then, when lucid, one was exploring the unconscious with one's conscious awareness. Freud's theory would seemingly predict that a dreaming person, in their id or unconscious, would definitely experience the libido energy. I thought back to my first five years of lucid dreaming experiences and recalled the incredible surge of energy that occurs when lucid-that deep, intense, sometimes ecstatic, often sexual, energy streaming through my awareness. I could only conclude that Freud might be on to something.
@@ -49,8 +51,6 @@ _I am wearing a long, red slip dress over a white top ... and marveling at such 
 The red dress may symbolically express, fashion-wise, this lucid dreamer's sexual urge, though it wasn't consciously chosen. Similarly, the light coming from the furnace area may suggest the dreamer's heat, fire, or passion. The dream continues:
 
 _I look out the front door and see R ... I know it is a dream version of R so it's okay to have sex with him ... I tell him let's go down there, as I point to the brook area and the tall reeds ... I lay floating supported by the reeds ... I hope Dad can't see me out the window ... I remind myself that I'm dreaming and it doesn't matter who sees. R may not even be there anymore but I experience an orgasm anyway._
-
-<img src="../images/post-bcpov6zlucse-0.jpg" alt="Lucid couple among the reeds" width="400px"/>
 
 The setting of tall reeds and brook may symbolically reflect the sexual action.
 

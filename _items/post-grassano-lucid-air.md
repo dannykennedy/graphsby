@@ -24,7 +24,7 @@ This dream is representative of many I have had in which the element of air, man
 
 > _I do not know what to do with my lucid state. I feel frustrated and anxious. Than I recall something from Lucid Dreaming... that giving up control is a healthy reaction in a lucid dream. So, I think, "I'll just go where the dream takes me..." Suddenly, I begin floating upward, then rushing backward at a tremendous speed. The sensation is utterly magnificent. I feel delighted and at peace. (8/87)_
 
-The act of letting go, or the desire to contact the Higher Power, leads to an acceleration of flight and a glorious feeling of being out of control. Often, the flying is backward, on my back... and I engage in acts of healing or sexual pleasure.
+The act of letting go, or the desire to contact the Higher Power, leads to an acceleration of flight and a glorious feeling of being out of control. Often, the flying is backward, on my back... and I engage in acts of healing or [sexual pleasure](../bcpov6zlucse/lucid-dreaming-transformational-potential).
 
 > _It is an exquisite level of lucidity I feel. I fly and indulge in tactile experiences. The Spring air is so sweet and damp. I desire to see the HigherPower and as has happened before in lucid dreams, my flying is accelerated. I am out of control in a thrilling way that feels safe and wonderful. The Higher Power lakes the form of a woman and gives me great pleasure. She does not want me to look at her and I have the longest healing episode occur on my knee that I've ever experienced. I run and kick and exercise my knee, while pouring this reddish energy through and through it. (6/'91)_
 

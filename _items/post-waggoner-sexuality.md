@@ -14,7 +14,7 @@ urlSlug: lucid-dreaming-transformational-potential
 profileImg: post-bcpov6zlucse-0.jpg
 ---
 
-<img src="../images/post-bcpov6zlucse-0.jpg" alt="Lucid couple among the reeds" width="380px"/>
+<img src="../images/post-bcpov6zlucse-0.jpg" alt="Lucid couple among the reeds" width="300px"/>
 
 "Freud is right," I said to myself, somewhat incredulous as the psychology professor explained the id and the libido. "Freud is right," I said again and shook my head. It was 1980 and I was a psychology major at Drake University listening to a lecture on Freud's theory of the id, ego, superego and the libido. The instructor had outlined Freud's theory that the id-or the vast unconscious within one's psyche-was the source of the libido, the sexually based instinctual energy that fueled much of motivation and behavior.
 

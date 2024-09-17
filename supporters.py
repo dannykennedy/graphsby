@@ -16,6 +16,25 @@ supporters = [
 	}
 ]
 
+lucid_supporters = [
+	{
+		'name': 'Elsewhere Dream Journal',
+		'description': 'Keep track of your lucid dreams',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'elsewhere-moon.jpg',
+		'url': 'https://elsewhere.to?src=dnj',
+		'target': '_blank'
+	},
+	{
+		'name': "EastWest Works",
+		'description': 'Dream group, taiji & more, NYC',
+		'profileImg': 'eastwestworks-square.jpg',
+		'url': 'https://eastwest.works/Home.html/?src=dnj',
+		'target': '_blank'
+	}
+]
+
+
 ullman_supporters = [
 	{
 		'name': 'Try it for yourself',
@@ -32,7 +51,6 @@ ullman_supporters = [
 		'url': 'https://eastwest.works/Home.html/?src=dnj',
 		'target': '_blank'
 	}
-
 ]
 
 jung_supporters = [
@@ -148,7 +166,6 @@ supporters_by_page_id = {
 	'bcpov6rsgsgm': biblical_supporters,
 	'bcpov3zprosi': biblical_supporters,
 	# Freudian
-	'bcpov6zlucse': freudian_supporters,
 	'bcpov6zfgadm': freudian_supporters,
 	'bcpov6krdbf9': freudian_supporters,
 	'bcpov6zfamil': freudian_supporters,
@@ -160,4 +177,22 @@ supporters_by_page_id = {
 	'bcpov6mausef': group_supporters,
 	'bcpov6twhint': group_supporters,
 	'bcpov5modhtd': group_supporters,
+	# Lucid
+	'bcpov6zlucse': lucid_supporters,
+	'bcpov6zfawar': lucid_supporters,
+	'bcpov6kalawa': lucid_supporters,
+	'bcpoy5zfldnd': lucid_supporters,
+	'bcpov5mofrwl': lucid_supporters,
+	'bcpov6rs24hr': lucid_supporters,
+	'bcpov6zfteoa': lucid_supporters,
+	'bcpov6zfgluc': lucid_supporters,
+	'bcpov6zfafld': lucid_supporters,
+	'bcpov9rsjgsl': lucid_supporters,
+	'bcsoz6zinlmu': lucid_supporters,
+	'bcpov1rsjwpt': lucid_supporters,
+	'bcpov6gdlfsp': lucid_supporters,
+	'bcpov6gretlp': lucid_supporters,
+	'bcpov9rsgdbt': lucid_supporters,
+	'bcpov1zsiocr': lucid_supporters,
+	'bcpoz2mameta': lucid_supporters,
 }

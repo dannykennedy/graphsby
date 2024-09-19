@@ -107,6 +107,24 @@ freudian_supporters = [
 	}
 ]
 
+shoe_supporters = [
+	{
+		'name': 'What does my shoe dream mean?',
+		'description': 'Get an automatic interpretation with Elsewhere',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'symbol-shoes.png',
+		'url': 'https://interpret.elsewhere.to/en/styles/standard/?src=dnj',
+		'target': '_blank'
+	},
+	{
+		'name': "EastWest Works",
+		'description': 'Dream group, taiji & more, NYC',
+		'profileImg': 'eastwestworks-square.jpg',
+		'url': 'https://eastwest.works/Home.html/?src=dnj',
+		'target': '_blank'
+	}
+]
+
 group_supporters = [
 	{
 		'name': 'Want to share dreams with friends or a dream group?',
@@ -195,4 +213,7 @@ supporters_by_page_id = {
 	'bcpov9rsgdbt': lucid_supporters,
 	'bcpov1zsiocr': lucid_supporters,
 	'bcpoz2mameta': lucid_supporters,
+	# Shoes
+	'bcpov6rshoes': shoe_supporters,
+	'bcpov6rsshoe2': shoe_supporters,
 }

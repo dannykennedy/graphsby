@@ -464,21 +464,6 @@ ns1:bcphbslvedc a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "16.3"^^xsd:string .
 
-ns1:bcphbtbcugl a ns1:Post ;
-    ns1:coverImg "17.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1998-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.2-Dream-Network-Vol-17-No-2.pdf" download="">Download issue 17.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.2-Dream-Network-Vol-17-No-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobdubou ;
-    ns1:itemId "bcphbtbcugl"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 17, issue 2: Enhancing & Healing Relationships"^^xsd:string ;
-    ns1:profileImg "17.2-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "17.2"^^xsd:string .
-
 ns1:bcplz7zfbdac a ns1:Post ;
     ns1:dateCreated "1993-10-04T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><em>The following exchange took place in the Dream Network Journal starting with the initial classified in Issue 12.4 (1993), and continuing with Daren Wilson's letter the editor (15.4, 1996), and a follow-up letter from Joy Gates (16.1, 1997)</em></p>
@@ -19387,6 +19372,52 @@ ns1:bcpov8giwfod a ns1:Post ;
     ns1:name "Festival of Dreams"^^xsd:string ;
     ns1:urlSlug "festival-of-dreams"^^xsd:string .
 
+ns1:bcpov8kosotd a ns1:Post ;
+    ns1:dateCreated "1998-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov8kosotd-0.jpg" width="800" height="auto" alt="Original article headline"/></p>
+
+<p>Here are the open secrets of the Dreamtime, insights shared by many dreaming traditions and indigenous peoples that challenge the ruling paradigms of a culture that confuses the <em>real</em> with the <em>physical</em>.</p>
+
+<h2>Dreams are real experiences.</h2>
+
+<p>In big dreams, we are dealing with events, encounters and challenges that are entirely real on their own level of reality. Our dream memories may be garbled or muddy, but the dream is a real experience whose meaning lies within the dreamscape itself. The dream experience, fully remembered, is its own interpretation.</p>
+
+<h2>Dreams are flights of the soul.</h2>
+
+<p>Shamans say that in real dreams (waking or sleeping), one of two things is happening. Either we are journeying beyond our bodies, released from the limits of spacetime and the physical senses, or we are receiving a visitation from a being - god, spirit, or fellow-dreamer - who does not suffer from these limitations. In the language of the <a href="https://en.wikipedia.org/wiki/Ye%27kuana">Makiritare</a>, a dreaming people of Venezuela, the word for "dream", <em>adekato</em>, means literally a "flight of the soul".</p>
+
+<h2>We have a dreambody as well as a physical body.</h2>
+
+<p>In our dreambodies, we can know pleasure and pain just as vividly as in our physical bodies. We have more than one body, or vehicle of consciousness, and when we go into the dreamworld and other worlds, we go embodied.</p>
+
+<h2>Dreams may be memories of the future.</h2>
+
+<p>We dream things before they happen in waking life. If we work with our dreams and scan them for precognitive content, we can develop a superb personal radar system that will help us to navigate in waking life.</p>
+
+<h2>Dreaming, we choose the events that will become manifest in our waking lives.</h2>
+
+<p>The fact that we dream things before they happen does not mean that everything is predetermined. People who are not active dreamers can get quite confused about what is going on when they wake up to the fact that they are dreaming future events, both large and small, all the time.</p>
+
+<p>I believe it's like this: If we do not remember our dreams, we are condemned to live them. (If we don't know where we're going, we will likely end up where we are headed.) If we remember some of our dreams and screen them for messages about the future, we will find ourselves able to make wiser choices. We will discover that by taking appropriate action, we can often avoid the enactment of a "bad" dream, or bring about the fulfillment of a happy one. As we become conscious dreamers, we will find ourselves increasingly able to choose the events that will become manifest in our waking lives <em>inside the dreaming</em>.</p>
+
+<h2>The path of the soul after death is the path of the soul in dreams.</h2>
+
+<p>Our dreambodies do not die when our physical bodies lose vital signs. We will live on in them for a shorter or greater time, according to our ruling passions and personal evolution. We will find ourselves, as we do each night in dreams, in a realm where thoughts are things and imagination - the great faculty of soul - can create whole worlds.</p>
+
+<p>We come from the Dreaming and we are released into the Dreaming when we drop our sack of meat and bones.</p>
+
+<p>Conscious dreaming is excellent preparation, not only for the challenges that lie before us on the roads of this life but for the challenges of the journey we will make after physical death. How can we know for sure? By doing it!</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvmoss ;
+    ns1:hasTag ns1:bcphbqvmoss,
+        ns1:bcphbtbcugl ;
+    ns1:inIssue ns1:bcphbtbcugl ;
+    ns1:itemId "bcpov8kosotd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Open Secrets of the Dreamtime"^^xsd:string ;
+    ns1:profileImg "post-bcpov8kosotd-0.jpg"^^xsd:string ;
+    ns1:urlSlug "open-secrets-of-the-dreamtime"^^xsd:string .
+
 ns1:bcpov8zmycuw a ns1:Post ;
     ns1:dateCreated "2008-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/marleneshadow.jpg" alt="Original title in print" /></p>
@@ -24711,6 +24742,21 @@ ns1:bcphbrptpuy a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "14.4"^^xsd:string .
 
+ns1:bcphbtbcugl a ns1:Post ;
+    ns1:coverImg "17.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1998-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.2-Dream-Network-Vol-17-No-2.pdf" download="">Download issue 17.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.2-Dream-Network-Vol-17-No-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobdubou ;
+    ns1:itemId "bcphbtbcugl"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 17, issue 2: Enhancing & Healing Relationships"^^xsd:string ;
+    ns1:profileImg "17.2-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "17.2"^^xsd:string .
+
 ns1:bcphbu3wddv a ns1:Post ;
     ns1:coverImg "21.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2002-01-01T11:32:52"^^xsd:dateTime ;
@@ -27259,26 +27305,6 @@ ns1:bcphbqvlach a ns1:User ;
     ns1:name "Victoria Vlach"^^xsd:string ;
     ns1:profileImg "author-victoria-vlach.jpg"^^xsd:string .
 
-ns1:bcphbqvmoss a ns1:User ;
-    owl:sameAs "http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html"^^xsd:string,
-        "https://mossdreams.com/"^^xsd:string ;
-    ns1:coverImg "cover-author-robertmoss.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>
-
-<p>Books: <a href="http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html">mossdreams.blogspot.com</a></p>
-
-<p><em>When strangers ask me what I do, I often respond, “I am a storyteller and I help people to find and live their bigger and braver stories, and tell them really well.”</em></p>
-
-<p>Robert Moss describes himself as a dream teacher, on a path for which there has been no career track in our culture. He is the creator of Active Dreaming, an original synthesis of dreamwork and shamanism. Born in Australia, he survived three near-death experiences in childhood. He leads popular seminars all over the world, including a three-year training for teachers of Active Dreaming. A former lecturer in ancient history at the Australian National University, he is a best-selling novelist, journalist and independent scholar. He has published twelve books on dreaming, shamanism and imagination.</p>
-"""^^xsd:string ;
-    ns1:handle "robertmoss"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html>,
-        <https://www.dannykennedy.co/dnj-ontology#https://mossdreams.com/> ;
-    ns1:itemId "bcphbqvmoss"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Robert Moss"^^xsd:string ;
-    ns1:profileImg "author-moss.jpg"^^xsd:string .
-
 ns1:bcphbvecgmx a ns1:Post ;
     ns1:coverImg "21.4-22.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2002-10-01T11:32:52"^^xsd:dateTime ;
@@ -27459,6 +27485,26 @@ ns1:bcphbqskoff a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Deborah Koff-Chapin"^^xsd:string ;
     ns1:profileImg "author-deborahkoffchapin.jpg"^^xsd:string .
+
+ns1:bcphbqvmoss a ns1:User ;
+    owl:sameAs "http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html"^^xsd:string,
+        "https://mossdreams.com/"^^xsd:string ;
+    ns1:coverImg "cover-author-robertmoss.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://mossdreams.com/">mossdreams.com</a></p>
+
+<p>Books: <a href="http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html">mossdreams.blogspot.com</a></p>
+
+<p><em>When strangers ask me what I do, I often respond, “I am a storyteller and I help people to find and live their bigger and braver stories, and tell them really well.”</em></p>
+
+<p>Robert Moss describes himself as a dream teacher, on a path for which there has been no career track in our culture. He is the creator of Active Dreaming, an original synthesis of dreamwork and shamanism. Born in Australia, he survived three near-death experiences in childhood. He leads popular seminars all over the world, including a three-year training for teachers of Active Dreaming. A former lecturer in ancient history at the Australian National University, he is a best-selling novelist, journalist and independent scholar. He has published twelve books on dreaming, shamanism and imagination.</p>
+"""^^xsd:string ;
+    ns1:handle "robertmoss"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html>,
+        <https://www.dannykennedy.co/dnj-ontology#https://mossdreams.com/> ;
+    ns1:itemId "bcphbqvmoss"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Robert Moss"^^xsd:string ;
+    ns1:profileImg "author-moss.jpg"^^xsd:string .
 
 ns1:bcphbumhc4e a ns1:Post ;
     ns1:coverImg "19.4-cover.jpg"^^xsd:string ;

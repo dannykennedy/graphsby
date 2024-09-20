@@ -183,6 +183,7 @@ supporters_by_page_id = {
 	'bcpov3zpihdp': biblical_supporters,
 	'bcpov6rsgsgm': biblical_supporters,
 	'bcpov3zprosi': biblical_supporters,
+	'bcpov6msapoc': biblical_supporters,
 	# Freudian
 	'bcpov6zfgadm': freudian_supporters,
 	'bcpov6krdbf9': freudian_supporters,

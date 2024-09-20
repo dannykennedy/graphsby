@@ -782,6 +782,29 @@ ns1:bcpot5kidnbt a ns1:Post ;
     ns1:profileImg "vandecastle-telepahy-1.jpg"^^xsd:string ;
     ns1:urlSlug "the-dnb-telepathy-project"^^xsd:string .
 
+ns1:bcpov1msabon a ns1:Post ;
+    ns1:dateCreated "1999-04-03T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>I finally did a trek to the high Himalayas and stayed in my cave. How I wish I could describe the beauty! I went up in the pouring rain and stayed there in the fog and rain, so I couldn't see the mountains in front of my face. But the mist made for an incredible mystique, sometimes barely showing craggy mountain silhouettes, tantalizing my eyes. And there were shadowy images of really tall yet scraggly, dripping, moss-&amp;-fern ridden deciduous trees too.</p>
+
+<p>The fog caused me to focus on the foliage. It's funny how nature has color and harmony and number themes. It's art. Most of the plants up there have multiples of three and five, though they are of completely different species.</p>
+
+<p>Usually it's three leaves and flowers with five petals (there are many strawberry-like plants). There's a message here, but we're too removed to get it. There were mandalas everywhere, with petals leading us into the Middle where union of Pollen and Ovum happen, which causes simultaneous birth (seed) and death (wilting). It's the same religion, over and over, every where, in infinite forms and brilliant colors, and in various number symbols. It just happens to be three and five here. Something to suit every taste. Half comes from below (ovum) and half appears to come from above (pollen), but it ALL ultimately comes from the same place and returns there! Everything is in good taste (and tastes good) in this world of balance.</p>
+
+<p>On my last evening, the clouds blew away and within 15 minutes as the sun lowered, it revealed the craggy Himalayas, glowing rosecolor! And there were both billowing clouds and swirling clouds above, and foggy clouds flowing like rapid streams over and through the mountains below, like it was all staged. So incredible! Dreamlike! Paradise! Some Czech friends I met up there shared the startling view with me. I'm glad I didn't have a camera to do it injustice.</p>
+
+<p><em>Daniel Shellabarger, usually from Moab, UT.</em></p>
+
+<p><em>Daniel is the author of <a href="../bcpov6msapoc/cross-cultural-perspectives-on-apocalypse-and-salvation">The End of Time or the Beginning of Now?</a> Dream Network, <a href="../bcphbtsx7s6/18.2">Vol. 18 No. 2</a> (Ed.)</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqsuelo ;
+    ns1:hasTag ns1:bcphbqsuelo,
+        ns1:bcphbtxh2bi ;
+    ns1:inIssue ns1:bcphbtxh2bi ;
+    ns1:itemId "bcpov1msabon"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Definitely the Beginning of NOW! (Letter to the Editor from the Himalayas)"^^xsd:string ;
+    ns1:urlSlug "himalayan-letter-to-the-editor"^^xsd:string .
+
 ns1:bcpov1rsjwpt a ns1:Post ;
     ns1:dateCreated "1988-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><a href="https://en.wikipedia.org/wiki/Paul_Tholey">Paul Tholey</a> is a German sports psychologist. At age 40 he was the national skateboarding champion. He also does trick skiing and unicycling, activities high on risk and balance. He claims to perfect his athletic ability in <a href="../topic~lucid-dreaming">lucid dreams</a> and he has trained an Olympic equestrian from South America using lucidity.</p>
@@ -10446,8 +10469,10 @@ ns1:bcpov6mossr2 a ns1:Post ;
     ns1:urlSlug "dreamways-of-the-iriquois-book-review"^^xsd:string .
 
 ns1:bcpov6msapoc a ns1:Post ;
-    ns1:dateCreated "2009-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<blockquote>
+    ns1:dateCreated "1999-01-02T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><em>This article was first printed in DNJ Vol. 18 No. 2 (in the pre-Y2K year of 1999), and subsequently reprinted ten years later in Vol. 29 No. 1.</em></p>
+
+<blockquote>
   <p><em>"For the Days of the Lord are coming... And it shall come to pass afterward, saith God, that I will pour out my Spirit on all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions. Even on my servants and handmaidens I will pour out, in those days, my Spirit; and they shall prophesy."</em> Words of the Lord himself revealed to the prophet Joël preserved in Joël 2.28-30 in the Old Testament; due to their crucial importance, repeated in the New Testament in Acts 2.16-18.</p>
 </blockquote>
 
@@ -10509,8 +10534,10 @@ ns1:bcpov6msapoc a ns1:Post ;
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqsuelo ;
     ns1:hasTag ns1:bcphbqsuelo,
+        ns1:bcphbtsx7s6,
         ns1:bcphbycqos5 ;
-    ns1:inIssue ns1:bcphbycqos5 ;
+    ns1:inIssue ns1:bcphbtsx7s6,
+        ns1:bcphbycqos5 ;
     ns1:itemId "bcpov6msapoc"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "Is It the End of Time... or the Beginning of Now? Cross Cultural Perspectives on Apocalypse and Salvation"^^xsd:string ;
@@ -24382,26 +24409,6 @@ ns1:bcphbqsbonn a ns1:User ;
     ns1:name "Gary Bonnell"^^xsd:string ;
     ns1:profileImg "author-gary-bonell.jpg"^^xsd:string .
 
-ns1:bcphbqsuelo a ns1:User ;
-    owl:sameAs "http://zerocurrency.blogspot.com/"^^xsd:string,
-        "https://sites.google.com/site/livingwithoutmoney/"^^xsd:string,
-        "https://www.blogger.com/profile/13739011165937473840"^^xsd:string ;
-    ns1:coverImg "cover-author-daniel-suelo.jpg"^^xsd:string ;
-    ns1:description """<p>Blog: <a href="http://zerocurrency.blogspot.com/">zerocurrency.blogspot.com</a></p>
-
-<p>Blogger profile: <a href="https://www.blogger.com/profile/13739011165937473840">blogger.com</a></p>
-
-<p>I lived totally without cents since Autumn of 2000 (except for a couple months in 2001) until the Spring of 2016, when I started caring for my aging parents, managing their finances. For 15 years I didn't use or accept money or conscious barter - nor did I take food stamps or other government dole. My philosophy has been to use only what is freely given or discarded and what is already present and already running (whether or not I existed). I don't see money as evil or good: how can illusion be evil or good? But I don't see heroin or meth as evil or good, either. Which is more addictive and debilitating, money or meth? Attachment to illusion makes you illusion, makes you not real. Attachment to illusion is called idolatry, called addiction. I simply got tired of acknowledging as real this most common world-wide belief called money! I simply got tired of being unreal. Money is one of those intriguing things that seems real and functional because 2 or more people believe it is real &amp; functional!</p>
-"""^^xsd:string ;
-    ns1:handle "suelo"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://zerocurrency.blogspot.com/>,
-        <https://www.dannykennedy.co/dnj-ontology#https://sites.google.com/site/livingwithoutmoney/>,
-        <https://www.dannykennedy.co/dnj-ontology#https://www.blogger.com/profile/13739011165937473840> ;
-    ns1:itemId "bcphbqsuelo"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Daniel Shellabarger"^^xsd:string ;
-    ns1:profileImg "author-daniel-suelo.jpg"^^xsd:string .
-
 ns1:bcphbqvcary a ns1:User ;
     owl:sameAs "https://www.archiveofself.com/"^^xsd:string ;
     ns1:coverImg "cover-carli-young.jpg"^^xsd:string ;
@@ -24703,21 +24710,6 @@ ns1:bcphbrptpuy a ns1:Post ;
     ns1:profileImg "14.4-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "14.4"^^xsd:string .
-
-ns1:bcphbtsx7s6 a ns1:Post ;
-    ns1:coverImg "18.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1999-01-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_18/18.2-Dream-Network-Vol-18-No-2.pdf" download="">Download issue 18.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_18/18.2-Dream-Network-Vol-18-No-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobfojdv ;
-    ns1:itemId "bcphbtsx7s6"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 18, issue 2: Prophetic Dreams"^^xsd:string ;
-    ns1:profileImg "18.2-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "18.2"^^xsd:string .
 
 ns1:bcphbu3wddv a ns1:Post ;
     ns1:coverImg "21.1-cover.jpg"^^xsd:string ;
@@ -25485,6 +25477,26 @@ ns1:bcphbqhutch a ns1:User ;
     ns1:name "Lint Hutchinson"^^xsd:string ;
     ns1:profileImg "author-linton-hutchinson.jpg"^^xsd:string .
 
+ns1:bcphbqsuelo a ns1:User ;
+    owl:sameAs "http://zerocurrency.blogspot.com/"^^xsd:string,
+        "https://sites.google.com/site/livingwithoutmoney/"^^xsd:string,
+        "https://www.blogger.com/profile/13739011165937473840"^^xsd:string ;
+    ns1:coverImg "cover-author-daniel-suelo.jpg"^^xsd:string ;
+    ns1:description """<p>Blog: <a href="http://zerocurrency.blogspot.com/">zerocurrency.blogspot.com</a></p>
+
+<p>Blogger profile: <a href="https://www.blogger.com/profile/13739011165937473840">blogger.com</a></p>
+
+<p>I lived totally without cents since Autumn of 2000 (except for a couple months in 2001) until the Spring of 2016, when I started caring for my aging parents, managing their finances. For 15 years I didn't use or accept money or conscious barter - nor did I take food stamps or other government dole. My philosophy has been to use only what is freely given or discarded and what is already present and already running (whether or not I existed). I don't see money as evil or good: how can illusion be evil or good? But I don't see heroin or meth as evil or good, either. Which is more addictive and debilitating, money or meth? Attachment to illusion makes you illusion, makes you not real. Attachment to illusion is called idolatry, called addiction. I simply got tired of acknowledging as real this most common world-wide belief called money! I simply got tired of being unreal. Money is one of those intriguing things that seems real and functional because 2 or more people believe it is real &amp; functional!</p>
+"""^^xsd:string ;
+    ns1:handle "suelo"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://zerocurrency.blogspot.com/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://sites.google.com/site/livingwithoutmoney/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.blogger.com/profile/13739011165937473840> ;
+    ns1:itemId "bcphbqsuelo"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Daniel Shellabarger"^^xsd:string ;
+    ns1:profileImg "author-daniel-suelo.jpg"^^xsd:string .
+
 ns1:bcphbqvckd7 a ns1:Post ;
     ns1:coverImg "13.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1994-01-01T11:32:52"^^xsd:dateTime ;
@@ -25587,20 +25599,20 @@ ns1:bcphbt33uhn a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "18.4"^^xsd:string .
 
-ns1:bcphbtxh2bi a ns1:Post ;
-    ns1:coverImg "18.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1999-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_18/18.3-Dream-Network-Vol-18-No-3.pdf" download="">Download issue 18.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_18/18.3-Dream-Network-Vol-18-No-3.pdf">View online</a></p>
+ns1:bcphbtsx7s6 a ns1:Post ;
+    ns1:coverImg "18.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1999-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_18/18.2-Dream-Network-Vol-18-No-2.pdf" download="">Download issue 18.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_18/18.2-Dream-Network-Vol-18-No-2.pdf">View online</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,
         ns1:bcpqobfojdv ;
-    ns1:itemId "bcphbtxh2bi"^^xsd:string ;
+    ns1:itemId "bcphbtsx7s6"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 18, issue 3: The Healing Power of Dreams"^^xsd:string ;
-    ns1:profileImg "18.3-rect.jpg"^^xsd:string ;
+    ns1:name "Volume 18, issue 2: Prophetic Dreams"^^xsd:string ;
+    ns1:profileImg "18.2-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "18.3"^^xsd:string .
+    ns1:urlSlug "18.2"^^xsd:string .
 
 ns1:bcphbu6vnbl a ns1:Post ;
     ns1:coverImg "21.2-cover.jpg"^^xsd:string ;
@@ -26511,6 +26523,21 @@ ns1:bcphbtj7a2e a ns1:Post ;
     ns1:name "Volume 17, issue 4: Creative Dreamwork in the Central Corridor"^^xsd:string ;
     ns1:profileImg "17.4-18.1-rect.jpg"^^xsd:string ;
     ns1:urlSlug "17.4-18.1"^^xsd:string .
+
+ns1:bcphbtxh2bi a ns1:Post ;
+    ns1:coverImg "18.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1999-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_18/18.3-Dream-Network-Vol-18-No-3.pdf" download="">Download issue 18.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_18/18.3-Dream-Network-Vol-18-No-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobfojdv ;
+    ns1:itemId "bcphbtxh2bi"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 18, issue 3: The Healing Power of Dreams"^^xsd:string ;
+    ns1:profileImg "18.3-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "18.3"^^xsd:string .
 
 ns1:bcphbuzcgu3 a ns1:Post ;
     ns1:coverImg "20.4-cover.jpg"^^xsd:string ;

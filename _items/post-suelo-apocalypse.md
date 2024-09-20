@@ -1,5 +1,5 @@
 ---
-dateCreated: "2009-01-01T11:32:52"
+dateCreated: "1999-01-02T11:32:52"
 itemId: bcpov6msapoc
 layout: post
 name: "Is It the End of Time... or the Beginning of Now? Cross Cultural Perspectives on Apocalypse and Salvation"
@@ -8,9 +8,13 @@ tags:
     - hasAuthor: suelo
     - hasTag: 28.1
     - inIssue: 28.1
+    - hasTag: 18.2
+    - inIssue: 18.2
 type: post
 urlSlug: "cross-cultural-perspectives-on-apocalypse-and-salvation"
 ---
+
+_This article was first printed in DNJ Vol. 18 No. 2 (in the pre-Y2K year of 1999), and subsequently reprinted ten years later in Vol. 29 No. 1._
 
 > _"For the Days of the Lord are coming... And it shall come to pass afterward, saith God, that I will pour out my Spirit on all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions. Even on my servants and handmaidens I will pour out, in those days, my Spirit; and they shall prophesy."_ Words of the Lord himself revealed to the prophet Joël preserved in Joël 2.28-30 in the Old Testament; due to their crucial importance, repeated in the New Testament in Acts 2.16-18.
 

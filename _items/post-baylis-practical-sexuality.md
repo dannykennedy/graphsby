@@ -10,6 +10,7 @@ tags:
     - inIssue: 19.2
 type: post
 urlSlug: "sexual-symbolism"
+profileImg: baylissexuality1.jpg
 ---
 
 <a href="../@janicebaylis"><img src="../images/baylissexuality0.jpg" width="300" height="auto" alt="Janice Baylis"/></a>

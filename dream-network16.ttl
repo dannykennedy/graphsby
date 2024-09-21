@@ -1200,6 +1200,7 @@ ns1:bcpov2kndiss a ns1:Post ;
     ns1:itemId "bcpov2kndiss"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Practical Side of Sexual Symbolism"^^xsd:string ;
+    ns1:profileImg "baylissexuality1.jpg"^^xsd:string ;
     ns1:urlSlug "sexual-symbolism"^^xsd:string .
 
 ns1:bcpov2zsijsa a ns1:Post ;

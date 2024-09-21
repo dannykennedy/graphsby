@@ -74,7 +74,7 @@ jung_supporters = [
 biblical_supporters = [
 	{
 		'name': 'Free online Biblical dream interpretation',
-		'description': 'Which Bible passages most illuminate your dream?',
+		'description': 'Which Bible passages best illuminate your dream?',
 		'descriptionB': 'Understand your dreams',
 		'profileImg': 'bible-cutout-sml.png',
 		'url': 'https://elsewhere.to/interpretation/biblical/en/?src=dnj',

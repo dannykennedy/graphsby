@@ -1188,6 +1188,42 @@ ns1:bcpov2kndiss a ns1:Post ;
     ns1:profileImg "baylissexuality1.jpg"^^xsd:string ;
     ns1:urlSlug "sexual-symbolism"^^xsd:string .
 
+ns1:bcpov2zluaoi a ns1:Post ;
+    ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/Cabanel_Oedipus_Separating_from_Jocasta.jpg" alt="Joseph Blanc, The murder of Laïus by Oedipus" width="700px"/><!--nopreview--><div class="caption">Alexandre Cabanel, Oedipus Separating from Jocasta (1843). Oedipus married Jocasta, without knowing she was his mother.</div><!--/nopreview--></p>
+
+<p>Dreaming of incest can be alarming. Engaged in an intimate relationship with a parent, a sibling, an uncle, aunt or cousin... our waking consciousness often reacts with feelings of disgust, guilt and shame. Looking at incest globally, we find that all cultures forbid it. Through religious ceremonies or social customs, some societies employ the help of family members to make sure the individual stays within acceptable bounds, keeping the taboo and its fantasies in the forefront of consciousness. In our Western culture, however, the responsibility to control one's incestual thoughts rests with each of us. Incest is rarely discussed. We're implicitly taught to keep these forbidden thoughts outside of our awareness, often short-circuiting normal sexual fantasies and dividing love and sex. No wonder dreams can be loaded with images of this archetypal taboo!</p>
+
+<p>Mythologically speaking, these [incestuous] sexual encounters may symbolize our psyche's restrained consciousness, transcending our too narrow limits. In Greek religion-the precursor to our Western beliefs-example after example of incestuous relationships come to the forefront. Zeus tricks his sister, Hera, into marriage; Aphrodite causes Smyrna to fall in love with and make love to her father; perhaps the most popular incest myth is the tale of Oedipus, the foundation of Sigmund Freud's psychological theory: the son's secret desire to murder his father and marry his mother. Oedipus, who is raised by a neighboring king and queen, learns from an oracle that he will murder his father and marry his mother.</p>
+
+<p>Unaware that the woman and man who raised him are not the parents who conceived him, he flees his home on horseback to avoid this horrible fate, promising never to return. At a crossroads, he encounters Laius, King of Thebes (unbeknownst to Oedipus, Laius is his father) who pulls his sword and orders Oedipus to make way for the king. Oedipus refuses. Laius kills one of Oedipus's horses and in retaliation Oedipus slays his father.</p>
+
+<p><img src="../images/oedipus_murder.jpg" alt="Joseph Blanc, The murder of Laïus by Oedipus" width="400px"/><!--nopreview--><div class="caption">Joseph Blanc, The murder of Laïus by Oedipus, 1867, Paris, Ecole Nationale Supérieure des Beaux-Arts (Wikimedia Commons)</div><!--/nopreview--></p>
+
+<p>When Oedipus arrives in Thebes, he is granted the hand of Laius's widow, Jocasta, for answering the riddle of the devouring Sphinx... a feat no one until now has been able to accomplish. Their marriage makes Oedipus King of Thebes, and the prophesied union of husband-son/wife-mother is fulfilled. Years later, the truth is finally learned that Oedipus has murdered his father, Laius, and that his beloved wife Jocasta, is indeed his mother. In his shock and grief, Oedipus runs through the palace in a state of rage, finally finding his way to Jocasta's locked bedroom door. He kicks the door open only to find her limp body hanging from a noose, suicide the only relief for her grief. Oedipus takes her body down, places it on the floor, removes the gold brooch from her dress and gouges out his eyes, shouting that now he will no longer have to look upon his shame. The new king exiles Oedipus and his daughters, Antigone and Ismene, from Thebes.</p>
+
+<p>Incest is the central focus of Sophocles' play, Oedipus the King. Symbolically, Laius and Oedipus are one and the same character: Laius the older ruler; Oedipus, the younger. Mythologically, the killing of Laius represents the incorporation of the old man's power and authority into the younger. In other words, the outer presence of Laius moves inward. Son-husband replaces father-husband suggesting a psychological shift. The new replaces the old. To us, this might be demonstrated by a son, terrified by his father's authority, who 'kills' his father by taking a firm position against him, establishing his own way in the world... a different path, perhaps, than the father has chosen.</p>
+
+<p>Mythically, a tale, as well as a dream, can be interpreted backward and forward. In other words, it can be read as if it is happening all at once. Therefore, the incorporation of the mature masculine prepares Oedipus for marriage to the feminine, his mother, Jocasta, a woman whom he has never known but who, like Laius, is part of himself. Here, the words masculine and feminine take on specific and opposite psychological characteristics. The masculine represents those traits most valued by modern society: independence, clarity, aggression, exclusiveness, logic; contrarily, the feminine represents dependence, ambiguity, passivity, inclusiveness, illogic. Embodying both feminine and masculine principles is necessary for psychological wholeness in men and women. But because Western culture represses the feminine principle, it remains hidden within our unconscious.</p>
+
+<p>This relationship between wife-mother and husband-son signifies a psychological marriage of masculine and feminine, a union that the soul seeks. Jocasta's suicide-another killing-suggests that Oedipus's consciousness-in the process incorporating his feminine side-has absorbed the feminine characteristics of Jocasta. Mythologically, like Laius, Oedipus has psychically incorporated her presence. And it's the incorporation of her feminine spirit that not only blinds Oedipus, it exiles him from Thebes. His old way of being in the world will no longer serve him. Blinded and stripped of his kingship (his one-sided, masculine way in the world) he leaves home, dependent upon his daughters, Antigone and Ismene (younger representations of the feminine).</p>
+
+<p><img src="../images/blind-oedipus.jpg" alt="The Blind Oedipus Commending his Children to the Gods (1784) by Bénigne Gagneraux" width="700px"/><!--nopreview--><div class="caption">The Blind Oedipus Commending his Children to the Gods (1784) by Bénigne Gagneraux (Wikimedia Commons)</div><!--/nopreview--></p>
+
+<p>If we consider that the myth happens simultaneously, the psychological incorporation of the masculine gives Oedipus the ability to unite, or bring to consciousness, a part of his feminine psyche. Masculine and feminine marry and give Oedipus the strength to endure the pain of his truth: the blending of his masculine, monarch-like characteristics with his feminine, supportive and reflective characteristics... forcing him to find a different way in the world. Thebes no longer offers him the container necessary for growth. His psyche, his soul, now searches for a new initiation with a deeper part of the Self, desiring to know more fully its truth, represented by Antigone and Ismene.</p>
+
+<p>When we dream of incest, it is important that we view the scene symbolically, temporarily suspending any possible fears of a repressed childhood memory... at least initially. Questions like, "Who is penetrating me?" "Who am I penetrating?" "Who do these dream characters symbolize and how are their characteristics manifesting in my life?"... often bring a different and deeper perspective. It is important to realize that by the time we dream of incest, our psyche is already in an incestual state, or in the archetype of incest, suggesting that the dream may be reflecting our soul's quest for wholeness. The scene may show that indeed we have metaphorically violated the too narrow rules of our Western civilization, a violation that initiates the soul's search for Self, confirming that our culture forbids a fantasy that is often necessary to unite sex and love, masculine and feminine, spirit and soul.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqmotmp ;
+    ns1:hasTag ns1:bcphbqmotmp,
+        ns1:bcphbugth7l ;
+    ns1:inIssue ns1:bcphbugth7l ;
+    ns1:itemId "bcpov2zluaoi"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Archetype of Incest in Dreams"^^xsd:string ;
+    ns1:profileImg "blind-oedipus.jpg"^^xsd:string ;
+    ns1:urlSlug "the-archetype-of-incest-in-dreams"^^xsd:string .
+
 ns1:bcpov2zsijsa a ns1:Post ;
     ns1:dateCreated "1982-09-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>Perhaps the most central contribution which the Jungian-Senoi Institute has made to the field of dreaming and dreamwork is developing a complete dreamwork methodology of interrelated techniques for using dreams in one's life.</p>
@@ -1846,6 +1882,149 @@ ns1:bcpov3zdtlli a ns1:Post ;
     ns1:subType "Conversation"^^xsd:string ;
     ns1:urlSlug "the-living-labyrinth-an-interview-with-jeremy-taylor"^^xsd:string .
 
+ns1:bcpov3zfhbcc a ns1:Post ;
+    ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov3zfhbcc-0.jpg" alt="Ancient Greek man with a money bag" width="500px"/></p>
+
+<p>Dreams became an important part of my life in the summer of 1978 the A.R.E. in Virginia Beach, VA. I had discovered that marvelous organization by one of those interesting little "accidents" in life. I just happened to attend a lecture in my home town of Richmond, VA on psychic happenings in America. My interest was highly aroused and in May of 1978 I visited the A.R.E. for the first time. The remainder of that summer was spent in numerous weekend trips to Virginia Beach and in mid-August I attended my first lecture on dreams at the A.R.E. The dream I had that night was highly vivid and is still clearly in my mind.</p>
+
+<blockquote>
+  <p><em>I was seated in a large college lecture with about 150 other students. The professor was a large, athletic man about six foot three inches and 210 pounds. He was dressed in a colorful costume almost like a pirate. He stood in front of the podium and leaned casually on it as he lectured in a highly confident and relaxed manner. Suddenly we were interrupted by an announcement that something had been lost and we all had to go and search for it. Much later, as evening approached, we were down on the docks and found a group of small men about four feet high in a ship or restaurant. They were sipping some kind of juice and having a great time. They were not drunk but were not really sober either.</em></p>
+</blockquote>
+
+<p>Having already read my first book on dreams I immediately knew that all of the characters in the dream represented some aspect of my self. The professor was me when I stood up and took a leadership role and the students were me when l just sat and listened. Alas, the small men were also me in my less constructive times. In my haste to focus on the symbols I completely missed the inner meaning of this dream. It was not until several years later when I began using the heme approach to dreams that I realized that this dream was telling me that I was lost.</p>
+
+<p>From this highly successful beginning I returned home to Richmond convinced that dream recall and progress in this area would be very rapid. Nothing could have been further from the truth. The next two to three years were a period of struggle and very slow progress with dreams. Numerous times I began keeping a dream journal only to quit a few weeks later. Finally, after moving to a new home in late 1979, I forced myself to keep a dream journal on a regular basis. On many days there were no dreams to enter so I made other notes and turned it into a regular journal of activities. At one point my technical nature got curious and I counted the days between dream recall. It was a seven day cycle. However, it I missed a dream on the seventh day it would skip to the 14th day.</p>
+
+<p>Throughout this same period I greatly improved my diet and adopted a much healthier lifestyle which had a significant impact in improving my dreams. I got very specific help from my dreams in improving my diet. At one time, when I was tempted to start eating red meat again, the meanest man in the world came and offered me a big juicy steak. So I knew this food was not for me. In another key health dream, that occurred while I was ill, I was told the following:</p>
+
+<blockquote>
+  <p><em>I was living with a couple from India. The man was sick and the woman from India wanted him to eat cherry pie.</em></p>
+</blockquote>
+
+<p>I understood this dream to mean that I was a spiritual being with both male and female energies. The male part of me was sick and the intuitive part of me was telling me to eat cherries. I was at the grocery store when they opened that morning and the cherries greatly helped my illness.</p>
+
+<p>At about inis time I attended a lecture by Mark Thurston at A.R.E. and for the first time learned the theme approach. Up to that time I had been looking mostly at symbols and missing most of the inner meaning of the dream. From this point, my dream recall accelerated and the information became more important.</p>
+
+<p>Precognition arrived in my dreams in a very tiny way at a new year's conference at Virginia Beach. In a dream at that time I was told that one of my schedules at work was being changed from three assignments to only two. When I returned to work in Richmond, that event came true and I was both delighted and amazed. From that point on my dreams about work took on a much greater importance and were generally accurate predictions of future events. At about this same time the wise old man of my dreams Jim -- first appeared. In real life he is a personal friend and his thick crop of white hair gives him the appearance of age and wisdom. I immediately understood his role and he only came at infrequent intervals -- about every two months -- with key information.</p>
+
+<p><img src="../images/post-bcpov3zfhbcc-1.jpg" alt="face with energy radiating around" width="700px"/><!--nopreview--><div class="caption">Illustration by Norma Churchill</div><!--/nopreview--></p>
+
+<p>In the next two to three years there were many changes and corporate rearrangements at work. Jim was typically there in my dreams to keep me informed as dreams about work occupied a significant part of my dream activity. The most convincing one occurred in the spring of 1983 and goes like this:</p>
+
+<blockquote>
+  <p><em>I am going down the cellar stairs and Jim stops me at the bottom of the steps. He tells me that there are not going to be any raises given out at work for a three to four month time period in the middle of that year. I laugh and tell him that I will not be affected as I am not due for a raise until December. He says, no, that I do not understand and I will be affected.</em></p>
+</blockquote>
+
+<p>About three weeks later it was announced that there would not be any raises during April and more information would be given later. Before the end of April it was announced that the freeze on raises had been extended for another 90 days. So the wise old man's information had been highly accurate in a very important matter. This dream was highly significant, for from this point on I trusted all information from the wise old man.</p>
+
+<blockquote>
+  <p><em>In another dream from this period, a group of men stormed ashore to capture an island and advance to the mountain's peaks. Later they retreated to their boats and an older supervisor at work waved them goodbye.</em></p>
+</blockquote>
+
+<p>A few weeks later a large group of supervisory people at work were shifted to non-supervisory roles. The old supervisor in the dream was not affected.</p>
+
+<p>At the start of December, 1984, a new event occurred in my dreams. For the first time ever I had a series of 20 to 25 dreams over a period of two months all on the same subject. None of them were identical but they all carried the same message: something very exciting is going to happen in your life and you will be rescued. Several key dreams in this period had the following sequences:</p>
+
+<ol>
+<li><p>I fall out of an airplane and an unseen force picks me up and saves me.</p></li>
+<li><p>I am hanging on the edge of a cliff and a big hand reaches down and pulls me up to safety.</p></li>
+<li><p>Something happens at work that is so exciting that I go out and buy a new house.</p></li>
+<li><p>I go down to the station and catch the train at the very last moment. I find many of my friends from work on board.</p></li>
+</ol>
+
+<p>At first I did not recognize the overall connection in this group of dreams but by the end of January I knew that some very important event was near at hand.</p>
+
+<p>In early February, my company announced an early retirement program that was highly attractive. It was especially attractive to someone of my age. So this was what all of the dreams in December and January had been preparing me for. My dreams then switched frequency and started saying, "take it, take it, take it." In spite of the many dreams, this was not an easy decision as I had worked for that one company for 32 years.</p>
+
+<p>A typical dream in that period of February to April showed me breaking out of a barbed wire stockade. However, the main dream was when the wise old man came to me in the following dream:</p>
+
+<blockquote>
+  <p><em>I am inside a small, old fashioned fort. Riflemen are firing at the fort. The wise old man, Jim, is in charge of the fort. He comes to me and says, "Come on with me. I will show you a side door where you can get out while there is still time."</em></p>
+</blockquote>
+
+<p>This dream needs little explanation. It was telling me in very clear terms to leave and take the early retirement ofter. I decided that many years of listening to my dreams and laving fun with them had ended. The time had now come to trust them and take action.</p>
+
+<p>I took the early retirement offer in April without knowing what the next step in life would be. I sent out numerous job resumes but the response was not encouraging. I traveled quite a bit and paid very close attention to my dreams for future guidance. To my shock and dismay my dreams were filled with many events about my former place of work and very few about any new job prospects. One thing was very clear, however. Whenever I went back to the old place at work I had to carry a gun or knife for protection. In one dream I even led a group of commandos to attack the place. These dreams were clearly showing me that I had left a very hostile environment and was well rid of it.</p>
+
+<blockquote>
+  <p><em>In one of the few dreams about new work I was shown leaving the old place of work and waiting on the comer for a bus to come and take me to a new location. I waited and waited but the bus did not come. I was told to wait some more.</em></p>
+</blockquote>
+
+<p>By mid summer of 1985 I had decided to leave Richmond and move to Florida. So I arranged a trip to Florida to hunt for a new house. Shortly before leaving on that trip I had a clairaudience dream -- a single sentence spoken aloud. I had experienced these before at a frequency of about twice per year. So I knew that they were important messages. This dream said:</p>
+
+<blockquote>
+  <p><em>Get ready for a big surge of energy in your life.</em></p>
+</blockquote>
+
+<p>With the trip in mind, I felt certain that the big surge of energy would come when I found my new dream home in Florida. After two weeks in Florida there was no big surge of energy and no dream home in sight. I did make a down payment on a lot with the intention to build but the excitement was really not there.</p>
+
+<p>Shortly after returning to Richmond, I had a more positive call from a job recruiter and my life began to turn around. A series of phone calls followed and then came the big event. My potential new boss called me and asked me to come for a job interview trip. The electrifying surge of energy that ran through my body is difficult to describe. I had gone to bed very very tired at 9 p.m. I was awakened by the call at 9:30 p.m. and was barely able to talk coherently. The surge of energy woke me and I was totally unable to go back to sleep until about five a.m. There was no doubt in my mind that this was what my earlier dream was talking about and what my future direction would be.</p>
+
+<p>Events moved rapidly after that and progressed from job interview to job acceptance and relocation to a major southern city. At present I am happily enjoying the results of the most important decision of my lite, secure in the knowledge that I was guided to a correct decision. Dreams continue to play an active role in my life and are currently telling me which research projects at work will succeed.</p>
+
+<p><em>Walt Stover is now a research engineer for a fabric firm in Atlanta, Georgia.</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvlaws ;
+    ns1:hasTag ns1:bcphbmvxewa,
+        ns1:bcphbqvlaws ;
+    ns1:inIssue ns1:bcphbmvxewa ;
+    ns1:itemId "bcpov3zfhbcc"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreams and the Big Career Change"^^xsd:string ;
+    ns1:profileImg "post-bcpov3zfhbcc-0.jpg"^^xsd:string ;
+    ns1:urlSlug "dreams-and-the-big-career-change"^^xsd:string .
+
+ns1:bcpov3zlumap a ns1:Post ;
+    ns1:dateCreated "2001-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<blockquote>
+  <p><em>Muses, who... give glory through singing, Come to me, tell of Zeus, your own father, sing his praises, through whose will Mortal men are named in speech or remain unspoken.</em></p>
+</blockquote>
+
+<p>Hesiod, the ancient poet, began each of his poems by invoking the Muses for inspiration, for the Greeks believed that thoughts, ideas and emotions were gifts from the gods. In Hesiod's case, and often in our dreams, the Muses arouse creativity through imagery and melodies, sometimes inspiring us to compose a song, write a poem, or simply relax into the many voices of imagination.</p>
+
+<p>Out of the nine Muses, four of them are associated with poetry and music. Reliefs of Calliope, the epic poet, often depict her reading one of Homer's heroic writings, the <em>Iliad</em> or the <em>Odyssey</em>, perhaps inspiring dreams of marathon proportion. Erato, the love poet, takes pleasure in serenading others with her lyre and often is accompanied by a swan or a cherub at her feet. In ancient Greece, Euterpe, the Muse with garlanded hair, was credited with the invention of wind instruments and may appear in a dream playing the flute or pipe. Polyhymnia, the veiled Muse, may materialize behind the keyboard of a pipe organ in a great cathedral, pounding out a song to the gods that awakens the dreamer with a sense of reverence.</p>
+
+<p>Of course, the Muses' love for repetition and rhyme can include other images or sensations that arouse the dreamer's creativity. For instance, Beatle, Paul McCartney, awoke from a dream with a lovely tune in his head. Quickly, he sat down at the piano and found the corresponding notes and for days worked on the lyrics until the song, "Yesterday" was born. Singer/songwriter Billy Joel admits that many of his musical arrangements come to him in his dreams. Just as the late songwriter/comedian, Steve Allen, "regularly heard music and lyrics in his dreams."</p>
+
+<p>The Muses call us to pay attention to the sound and motion within the dream like composer <a href="https://www.shirishkorde.com/">Shirish Korde</a>. "I was hearing fragments of music and seeing birds fly," avows Korde. "The speed with which the birds were flying kept changing, which determined the musical gesture - the content of the passage." Immediately upon awakening, he recorded the dream's movement and melody into a solo flute composition, "The Tenderness of Cranes," that won both the National Flute Association award and the Ettleson Composition Prize for new music.</p>
+
+<p>In each case, the dreamer is asked to be an instrument - an intermediary - between the dream and the composition. Perhaps that is why the Muses and their attendant inspirations appear so often in dream: to remind us that inspiration springs from a source beyond ourselves. They invite us to momentarily set aside our egos and trust a divine force.</p>
+
+<p>The ancients knew that the Muses brought more than inspiration to the artist. They also brought respite to the weary. When the body was tense from life's dilemmas, when worry weighed heavy on one's shoulders, they graced the dreamer with their splendor, letting their spirits soar and glide far from home, temporarily forgetting daily woes:</p>
+
+<blockquote>
+  <p><em>...and even when a man has sorrow fresh in the troublement of his spirit and is struck to wonder over the grief in his heart, the singer, the servant of the Muses singing the glories of ancient men, and the blessed gods who have their homes on Olmypos make him presently forget his cares, he no longer remembers sorrow, for the gifts of the goddesses soon turn his thoughts elsewhere</em></p>
+</blockquote>
+
+<p>I am reminded of a dream in which I sit at a piano playing Rubenstein's <em>Romance</em>. As my fingers stroke each cord, a wash of color appears, then another and another until the music paints a rhapsody of color upon color within color, awakening me into a soothing state of awareness. Oil painting and playing the piano often brings the same sensation, pulling my thoughts from daily ponderings into the realm of imagination that relaxes the body and calms the mind by drawing my full attention to the coordination of fingers, harmony and the corresponding movement of notes on a page or the swirling and blending of paint on canvas - a reverie that replenishes and aligns psychological and creative notions.</p>
+
+<p>The Muses invite us to temporarily put aside life's demands that can program us into automatons, tenders of time, schedules and dates. They want us to listen, not for understanding and explanation but for sound and imagery that delights the imagination, shaping the invisible world with image and sound that perfectly expresses the depth of one's soul.</p>
+
+<p>An acquaintance of mine once told me that each morning her dream summarized itself in the verse of a popular tune or hymn or a few lines of poetry. Perhaps this pleasant ending is also a way of beginning the day by beckoning the sweet voices of the Muses:</p>
+
+<blockquote>
+  <p><em>But now, O sweet-spoken Muses of Olympos, daughters of Zeus of the aegis, sing out the generation of women. Like her... or like her... or like her who...</em></p>
+</blockquote>
+
+<ol>
+<li><p>Hesiod. <em>Works and Days, Theogony, The Shield of Herakles</em>. "Works and Days." Trans. Richmond Lattimore. University of Michigan Press: Ann Arbor, 1991, (1-3)</p></li>
+<li><p>Barrett, Deirdre. <a href="../bcpov6rcommi/book-review-the-committee-of-sleep-deirdre-barrett">The Committee of Sleep</a>. Crown Publishers: NY, 2001. (pp. 66-74)</p></li>
+<li><p>Ibid (pp. 75)</p></li>
+<li><p>Hesiod. "Theogony" (97-102)</p></li>
+<li><p>Ibid, (1021-3)</p></li>
+</ol>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqmotmp ;
+    ns1:hasTag ns1:bcphbqmotmp,
+        ns1:bcphbusgyjg ;
+    ns1:inIssue ns1:bcphbusgyjg ;
+    ns1:itemId "bcpov3zlumap"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:metaDescription "Hesiod, the ancient poet, began each of his poems by invoking the Muses, for the Greeks believed that thoughts, ideas and emotions were gifts from the gods. Can dreams be considered gifts from the Muses?"^^xsd:string ;
+    ns1:name "Dreams of Music and Poetry... Brought to You by the Muses"^^xsd:string ;
+    ns1:urlSlug "dreams-of-music-and-poetry-brought-to-you-by-the-muses"^^xsd:string .
+
 ns1:bcpov3zpihdp a ns1:Post ;
     ns1:dateCreated "2011-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov3zpihdp-0.jpeg" width="400"/><div class="caption">Bob preaching at St. Francis chapel, Kanuga</div></p>
@@ -2501,6 +2680,60 @@ ns1:bcpov4kcurta a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Return of Asklepios: Recovering the Arts of Dream Healing "^^xsd:string ;
     ns1:urlSlug "the-return-of-asklepios-recovering-the-arts-of-dream-healing"^^xsd:string .
+
+ns1:bcpov4zlusrf a ns1:Post ;
+    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/martha-sacrificed-img-1.jpg" alt="Old article headline with bird design" width="700px"/></p>
+
+<p>Awakening from a dream in the early hours of the morning, I felt unsettled. A child was going to be raped and my mother and I were willing to let it occur! "What is happening to me psychically that feels like rape?" I wondered. Over the next several weeks, active imagination, word association and other techniques helped unveil an intricate, tightly woven web of undetected patterns. Placing a mythical template over the dream expanded and rerouted the message into a distressing, but hopeful, history of the stifled voice of the feminine. Here's the dream:</p>
+
+<blockquote>
+  <p><em>My deceased mother stands at a changing table and changes the soiled diaper of an infant girl. I stand to her left, also at the changing table. My brother, Mark, enters between us. He enlists my help by whispering in my ear, "You need to back me up on this" I intuit danger, but instantly push the sensation away. He then turns to my mother and states in a firm, demanding voice, "I want to take the baby an a date." This girl, though an infant now, is also an immature, 20-something-year-old woman and my brother's intention is to take her out and rape her. Mother implies that she is done changing the baby and the child is ready to go. I look over at the newborn and her diaper is so full of loose, slimy feces that the diaper is abnormally distended and overflowing up her torso and down her legs. I look at my mother and annoyed, I ask, "Are you going to let her go like this?" Mother seems perplexed and unsure of what to do. She thinks the baby is ill, but I know that the child is not sick. She has ingested too many vegetables and needs to be cradled and rocked.</em></p>
+</blockquote>
+
+<p>To help unravel the intricacies of this disconcerting scene, several friends and I reenacted the dream in a 'dream theater' setting. In a candle lit room, I played the role of the baby and laid on a couch that substituted for a changing table. On their knees, others acted as my mother, brother and me. As I lay on my back, imagining myself back into the dream, I felt the warmth of the old woman's body radiating next to me as she changed my diaper. No emotional connect ion existed between us. She didn't play with me, caress me or smile at me. Her job was to complete the task of changing my diaper. When the man entered, I heard and understood his whisper to the middle-aged woman. When he turned to the elder woman and demanded, "I'm going to take the baby on a date," I became alarmed. I knew that he intended to rape me and I knew that the women understood that too. I desperately hoped that they would protect me, push him away and throw him out of the room . But when I heard the middle-aged woman say, "Are you going to let her go like that?" I became panic-stricken and my bowels let loose. They planned to release me into the custody of a rapist! In addition to working the images symbolically, I examined the gestures, movements and appearances of the dream characters. For instance, the look on the dream character of my deceased mother reflects a despondent look in her gray-blue eyes. All of her life, mother struggled with chronic depression and obsessive-compulsive disorder. The dream accurately represents her despondency to her surroundings. She tends to the child robotically, withholding any tenderness, cooing or touching . She must be reminded to change the overflowing diaper indicating that her maternal instincts are defunct.</p>
+
+<p>The infant, though a child in this scene, has the ability to change into a 20-something-year-old woman - the age she will be when Mark abducts her. In addition, this girl/woman has a slow, intellectually flawed peculiarity about her. Her submissiveness and imperfection makes it easier for me not to care about her well being - something I learned from my younger years: if you're not perfect, you're not worth attention.</p>
+
+<p>The destructive, pessimistic relationship with my mother, or the mother archetype, is constellated in this dream. Though negative, this maternal connection offered me a form of security and safety. Because l experienced only the non-affirming side of the archetype, an encounter with the positive mother now feels threatening and destructive. The dream demonstrates this. I blindly and implicitly agree to my brother's request without knowing his intent and ignore the danger that I intuitively sense. After I learn that he wants to rape the child, I stand rigidly, my feet firmly planted facing the changing table. I repeat a learned pattern of focusing my attention elsewhere, tuning out my feelings, moral principles and the child's well being to accommodate another's request. This inability or unwillingness to acknowledge the horror of my brother's intention is also demonstrated and reflected in the zombie-like expression of my mother, connect ing a generational diffusion of emotional crippled-ness and broken maternal instincts. Though I know that the child needs the warmth of human contact (cradling and rocking), I don't offer it.</p>
+
+<p>My mother thinks the baby is ill; but I know that her diarrhea is a result of consuming too many vegetables - a sneaky indication that Demeter, the vegetation goddess, may be at work. This Geek goddess has a depressive and compulsive attribute. When Hades abducts her daughter, Persephone, into the underworld, Demeter obsessively searches for her kidnapped child. Her despondency festers and perpetuates patterns of personal torment manifested by her long, compulsive crusade to find her daughter. When Persephone is finally released from the underworld, Demeter's joy quickly dissipates when she learns that her daughter has ingested pomegranate seeds and now must be shared with Hades. So wrapped in longing and anguish. the mother goddess cannot see beyond her personal needs and desires.</p>
+
+<p>A mother's grief over the kidnapping of her daughter certainly can trigger depression. However, it is Demeter's unwillingness to psychologically separate herself from Persephone that prolongs her misery. The abduction forces Demeter to loosen her suffocating grip around Persephone's neck so she can breathe.</p>
+
+<p>The atmosphere of my childhood household stifles me today, I clutch tightly to obsessive behaviors like the need for 'perfection' and compulsively compare myself to others. Inevitably, my faults win the contest and my failures anesthetize me from too much happiness, anger or self-expression. Much like Persephone who was trapped in the firm grasp of her mother, these old patterns must be discarded in order to inspire new life into a deadened world.</p>
+
+<p>Initially, I labeled the rapist in this dream motif as destructive, negative, out to obliterate the budding feminine. But viewed mythically, Persephone's abduction into the underworld moves her soul from being Demeter's daughter to being Hades' wife. In other words, abduction is necessary to molt from a too restraining, obsolete, virginal cocoon that once tightly wrapped me in a blanket of protection.</p>
+
+<p>Moving from a personal to a collective interpretation, the dream reflects the generational presence of virgin/Persephone, mother/Demeter and crone/Hecate. However, the mother-daughter affection between Persephone and Demeter is deadened, characterizing a culture that has lost its memory of mothering. The crone's vacant stare and her compassionless contact with the virgin/child reveals a short-circuiting of maternal instincts. These hypnotic actions of the old woman are mirrored in the stiff, mechanical movements of mother/Demeter and her reluctance to protect the baby from molestation. Mother/Demeter is following in the footsteps of the coldhearted old woman.</p>
+
+<p>The slow, retarded nature of the child, a shared characteristic of the unhurried feminine, suggests our cultural disdain for anything that lacks bright, masculine qualities, such as a 'defective' child, the dark side of human nature or the time-consuming process of individuation. The crone and mother have lost their strength, their voice, to defend against the power, lust and thrust of the masculine. If they take a defiant stand, they will be verbally undressed and shouted back into submission further silencing their voices.</p>
+
+<p><img src="../images/martha-sacrificed-img-2.jpg" alt="Room with bed and chair" width="700px"/><!--nopreview--><div class="caption">"Mint Room with Male Friends" by Kim Apicella</div><!--/nopreview--></p>
+
+<p>All too frequently, women who give away their power to outer authorities are frozen in a paradox. If they take a feminine stance, they risk being laughed at, ridiculed or cajoled back into their shell perpetuating their deep freeze. Our 2,000-year history of feminine slander grounds women in the distrust of their own feelings. Hence, we put our faith into the hands of outer authorities that we believe know us better than we know ourselves.</p>
+
+<p>For example, within the last century, home births were believed to be too primal and women stopped delivering their babies at home. Science proved it more sophisticated for women to lay upon sanitary hospital beds with legs constrained in stirrups as we pushed babies out of our wombs without the gravitational help of nature. Breast-feeding was viewed as too animal-like, so hard, sterile bottles took the place of mother's nipples. Our milk production was interrupted with injections to prevent the tingling in our bosoms when our babies cried.</p>
+
+<p>We are taught to ignore our instincts, no matter how our aching bodies scream for attention. Though many natural childbirth techniques have been restored, control over our bodies still is manipulated by outside powers. We starve our bodies to conform to advertising images that warn against fleshy thighs, voluptuous breasts or saggy abdomens stretched from pregnancy. We suck the cellulite from our dimpled legs, jog away unwanted pounds and refuse our bodies sweet cravings in order to stay in the size eight dress. We worship a pencil-thin model/goddess and scorn the image of the round, bulbous figure of the Great Mother.</p>
+
+<p>Like us, our mothers and our mothers' mothers, young girls have no role model to initiate them into the power and dignity of womanhood so they easily fall prey to shallow, misleading trends. Unaware of the archetype of the wise woman, healer and transformer, the crone, we cringe when she speaks her straight talk of clear-sighted visions. Women who don't know their own voice and try to placate, overprotect or manipulate others often shy away from this centeredness searching for more common and comfortable surroundings and excommunicating those who have learned to speak their opinions from the musculature of their bodies.</p>
+
+<p>But the dream suggests that women are feeling the pinch of their old, soiled, infantile existence. After all, the mother knows that the child needs to be cradled and rocked - proof that a trace of maternal instinct remains int act. A seed of wisdom still burns under the weakened, automated exterior of mother and crone. Deep down, the women understand that the child must be penetrated, shocked out of her sheltered lifestyle by an underworld experience in order to transform. The frozen rigidity from unmothered, crone-lacking consciousness mourns to be thawed so a more mature union with the masculine world can be wed.</p>
+
+<p>Persephone is snatched while Demeter isn't looking - or, in this case of the dream, the capacity to prevent the abduction is impossible. A healthy, well-adjust ed mother never would voluntarily release her daughter into the hands of Hades. But much like our children, Persephone must find her own way, no matter how painful the experience is for mother and daughter. Persephone will return as a different, more 'underworldly' woman. If she has a wise-woman guide like Hecate, she will learn to be a daughter to her mother and a wife to her husband.</p>
+
+<p>The dream image of a changing table prompts the idea that transformation is afoot. If women - and men - are shedding their cocoons and embracing the feminine parts of themselves, perhaps our sterile, barren world will once again bloom.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqmotmp ;
+    ns1:hasTag ns1:bcphbqmotmp,
+        ns1:bcphbtj7a2e ;
+    ns1:inIssue ns1:bcphbtj7a2e ;
+    ns1:itemId "bcpov4zlusrf"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Sacrificed"^^xsd:string ;
+    ns1:profileImg "martha-sacrificed-img-2.jpg"^^xsd:string ;
+    ns1:urlSlug "sacrificed"^^xsd:string .
 
 ns1:bcpov4zsajsd a ns1:Post ;
     ns1:dateCreated "1982-05-01T11:32:52"^^xsd:dateTime ;
@@ -4161,6 +4394,38 @@ ns1:bcpov6grddtd a ns1:Post ;
     ns1:name "Network Nous: Time Dreams"^^xsd:string ;
     ns1:urlSlug "time-dreams"^^xsd:string .
 
+ns1:bcpov6grdien a ns1:Post ;
+    ns1:dateCreated "1998-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>Joel Metzger of <a href="https://web.archive.org/web/20000520075317/http://www.wisdomtalk.org:80/">Online Noetic Network</a> (ONN) recently published on the World Wide Web an article I originally wrote for Dream Network called <a href="../bcpov6grddem/dream-democracy-integrative-dream-narration"><em>Dream Democracy: Integrative Dream Narration</em></a>. In the article, I describe a technique that creates a sense of shared consciousness by integrating the dreams of participants to revive a Dream Democracy which we can use to address the powers that can be hidden behind the smokescreens of the Military Industrial complex. I also suggested in the article that physicists merge their dreams together in order to evolve science to a point where it begins to reciprocate the intuitive and spiritual aspects of our consciousness.</p>
+
+<p>Shortly afterwards, I received a response from Claudia Robinson, who is working on getting an MA in Environmental Leadership at the Naropa Institute, a place known for its 'contemplative mandate in education.' She suggested that I try an email version of the Integrative Dream Narration psychnique. She kindly offered me her "EcoPsychology: Nature-Counseling Community ConnDection" email discussion group, in which to try the experiment. She has been the moderator of this internet group since 1995. It consists mostly of people interested in helping to create and further the relatively unknown field of EcoPsychology. "EcoPsychology bridges the domains of ecology and psychology to address the psychological and spiritual roots of the ecological crisis."</p>
+
+<p>Ms. Robinson told me what motivated her to start such a group: "My interest in EcoPsychology arose at a time when I was questioning my involvement with physics in an environment that did not respect my way of knowing. I was wilting in that environment and knew that unless I conformed to the prevailing misguided attitudes I didn't have a chance in the field."</p>
+
+<p>She considers <em>Integrative Dream Narration</em> a form of 'transpersonal sociology' and feels that it is a suitable technique for EcoPsychology, since the earth herself dreams (a belief held by many indigenous people around the world). Her idea to use the internet to merge dreams sparked my interest so much that I immediately subscribed to the list and posted a request for dreams to be integrated. I was extremely nervous about using the internet as a medium in which the dreams would be merged. I felt more vulnerable doing this, more so than doing live demonstrations of the psychnique in front of 40 people. I kept thinking that all those who subscribed to the list could read the dreams that were posted and see how the dreams were integrated as well. A few people on the list protested such a use of dreams, saying that dreams should only be shared with one's lover or analyst and no one else. I agree some dreams should be kept private, but not all. When I received a sufticient number of dreams from the participants, I then created a story and then posted it in the email group list.</p>
+
+<p>After I considered the feedback of the list subscribers who volunteered for the first time experiment, I then experienced a kind of consciousness that was so magnified and enhanced that it overwhelmed me at first. I realized that the interconnected computers themselves were greatly heightening the experience of shared consciousness, even more so than when this psychnique is done in the physical presence of others. It seemed to me that the computers were actually reciprocating this kind of usage of its unique medium, somehow recognizing something emerging within its matrix. The computer's own consciousness became very apparent and I think this is what startled me.</p>
+
+<p>Unfortunately, some of the more Cartesianly inclined may write this off as a kind of technoanimism. However, once I gained insight into this kind of emerging awareness and became more familiar with it, I conveyed to the moderator my experiences. Claudia observed that the computer itself is a profound archetype. Such a profound, living archetype should not be shunned by those who fear and/or disdain computer technology.</p>
+
+<p>At night I would meditate on the integrative dream story created with the emailed dreams, put my hand on my heart chakra and tune in to the energies of the participants who helped to create this dream matrix. I would then imagine that I would travel through the computer to arrive at the matrix where the Ecol'sychology discussion group 'existed.' Once in the matrix, I could feel much resistance amongst some of the participants; an inability, if not unwillingness, to settle into the 'primal matrix'-the primordial ground which supports all life as described in the book, My Name is Chellis and I'm in Resovery from Western Civilization.</p>
+
+<p>Somehow the dreams integrated via the computer network assisted me in getting through these peculiar resistances and reach some kind of core essence within the group that was trying to emerge and establish itselt as a new reality, much like the computer's consciousness was trying to establish itself. Perhaps what I was experiencing were the 'chaotic attractors 'described in Stanley Krippner's article in Dream Netwark, Vol. 17 No. 1 <a href="../bcpov6zchaot/chaotic-attractors-in-myth-stories-told-by-the-kariri-xuco-indians"><em>Chaotic Attractors in Myth</em></a>, attractors which find order in what appears to be incomprehensible data by helping us discern an underlying patterns. Overall, I sensed a kind of cooperation between the computers and the participants.</p>
+
+<p>Yet I felt quite vulnerable floating in the dreamtime cyberspace and I unsubscribed from the EcoPsychology group to regain my boundaries. It was difficult to get used to such anenhanced and amplified consciousness, yet I feel strongly that it is something that needs to be explored more thoroughly it we are to harmonize technology with spirituality and both with the earth. 8</p>
+
+<p>[^1]<img src="https://cdn.mathpix.com/cropped/2024_09_20_a2c23e30217fc04d6fd8g-40.jpg?height=150&width=1408&top_left_y=196&top_left_x=410" alt="" /> The Orchestration}</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqbeldo ;
+    ns1:hasTag ns1:bcphbqbeldo,
+        ns1:bcphbtbcugl ;
+    ns1:hasTopic ns1:bcpovcredja ;
+    ns1:inIssue ns1:bcphbtbcugl ;
+    ns1:itemId "bcpov6grdien"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Integrative Email Narration"^^xsd:string ;
+    ns1:urlSlug "integrative-email-narration"^^xsd:string .
+
 ns1:bcpov6greaiz a ns1:Post ;
     ns1:dateCreated "2008-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6greaiz-2.jpg" width="500px" height="auto"/></p>
@@ -5514,7 +5779,7 @@ ns1:bcpov6kanimd a ns1:Post ;
 <p>Ernest Jones, a follower of Freud, says:</p>
 
 <blockquote>
-  <p><em>"Analytical experience has shown that the occurrence of animals in a dream regularly indicates a sexual theme, usually an incest one" (1959' p. 70).</em></p>
+  <p><em>"Analytical experience has shown that the occurrence of animals in a dream regularly indicates a sexual theme, usually an <a href="../bcpov2zluaoi/the-archetype-of-incest-in-dreams">incest</a> one" (1959' p. 70).</em></p>
 </blockquote>
 
 <p>Hadfield (1954) suggests that crab, spider and vampire images represent the visceral objectifications of the bodily feelings associated with orgasm. The crab portrays the changes in visceral and abdominal muscles which produce a gripping sensation; the relaxed feelings following orgasm are represented by the sprawling legs and soft underbelly of the spider image; the washed-out feeling of fatigue, as though the blood had been sucked dry, is externalized by a vampire figure.</p>
@@ -20898,7 +21163,7 @@ ns1:bcpoz2jotcos a ns1:Post ;
 
 <p>'Heterogenes' who were monogamous, even if their wives were not, could be placed at 12 o'clock; Hephaestus, the Greek god of crafts and the forge, was faithful to Aphrodite, even though his wife had more sexual liaisons than any other Greek goddess. 'Heterogenes' who were not monogamous would probably fall at 12 o'clock, as long as they enjoy the company of men as well as of women. Among them are Ares, the Greek god of war who had numerous liaisons with women, and Xango, the Candomble god of thunder, who was married three times.</p>
 
-<p>Although the celebrated perpetrators of mother-son incest could find their place at a number of spots around the circle, many of them would resemble the 'heterogenic' males who end up at 12 o'clock (and the 'heterogenic' females at 6 o'clock). These would include tragic, guilt-ridden figures, as well as those who are considered heroic. For example, the Greek king Oedipus unwittingly married his mother after killing his father, putting out his eyes when he discovered their identity. The Candomble deity Orungan ravished his mother, Yemanja, who then gave birth to a dozen children as well as the sun and the moon. In one version of the Aztec myth about their mother goddess, Coatlique's husband physically abused her until one of her (several hundred) sons took action, killing his father and becoming his mother's lover. The South American Panare mythology contains an example of father-daughter incest: Whenever the Sun and his daughter the Moon have intercourse, there is a total eclipse. In addition, there is the Banima myth of Kuai, whose father Inapirikuli impregnated her, a birth ritualized in the 'battle of the flutes' (Sullivan, 1988, p. 217).</p>
+<p>Although the celebrated perpetrators of mother-son <a href="../bcpov2zluaoi/the-archetype-of-incest-in-dreams">incest</a> could find their place at a number of spots around the circle, many of them would resemble the 'heterogenic' males who end up at 12 o'clock (and the 'heterogenic' females at 6 o'clock). These would include tragic, guilt-ridden figures, as well as those who are considered heroic. For example, the Greek king Oedipus unwittingly married his mother after killing his father, putting out his eyes when he discovered their identity. The Candomble deity Orungan ravished his mother, Yemanja, who then gave birth to a dozen children as well as the sun and the moon. In one version of the Aztec myth about their mother goddess, Coatlique's husband physically abused her until one of her (several hundred) sons took action, killing his father and becoming his mother's lover. The South American Panare mythology contains an example of father-daughter incest: Whenever the Sun and his daughter the Moon have intercourse, there is a total eclipse. In addition, there is the Banima myth of Kuai, whose father Inapirikuli impregnated her, a birth ritualized in the 'battle of the flutes' (Sullivan, 1988, p. 217).</p>
 
 <p>A prime candidate for the 1 o'clock spot would be the 'mostly heterogenic' Zeus, the Greek king of the gods. Zeus, who occasionally dallied with handsome human males, was so sexually voracious that he would be positioned near the boiling center of the circle, in other words, at the torrid 'heat' of sexual passion. Poseidon, the Greek god of the seas, was not far behind Zeus in his sexual proclivities. He ravished numerous women including the goddess Demeter. He raped Amphitrite, although he latter married her. In addition, Poseidon took Pelops, the son of Tantalus, to Mt. Olympus as his paramour.</p>
 
@@ -21688,7 +21953,7 @@ ns1:bcpoz5zchdap a ns1:Post ;
 
 <ul>
 <li><p>Adler, A. (1938). Social interest: Challenge to mankind. London: Faber and Faber.</p></li>
-<li><p>Barrett, D. (2001). The committee of sleep. New York: Crown.</p></li>
+<li><p>Barrett, D. (2001). <a href="../bcpov6rcommi/book-review-the-committee-of-sleep-deirdre-barrett">The Committee of Sleep</a>. New York: Crown.</p></li>
 <li><p>Cartwright, R. (1986). Affect and dream work from an information processing point of view. Journal of Mind and Behavior, 7, 411-428.</p></li>
 <li><p>Cartwright, R. (2000). How and why the brain makes dreams: A report card on current research on dreaming. Behavior and Brain Sciences, 23, 914-916.</p></li>
 <li><p>Crick, F., &amp; Mitchison, G. (1983). The function of dream sleep. Nature, 304, 111-114.</p></li>
@@ -23440,6 +23705,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "christamackinnon.com"^^xsd:string ;
     ns1:url "https://christamackinnon.com/about/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://content.edgarcayce.org/about-us/blog/blog-authors/walter-stover-ma/> a ns1:Website ;
+    ns1:name "On Edgar Cayce's ARE website"^^xsd:string ;
+    ns1:url "https://content.edgarcayce.org/about-us/blog/blog-authors/walter-stover-ma/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://dannykennedy.co/> a ns1:Website ;
     ns1:name "Personal website"^^xsd:string ;
     ns1:url "https://dannykennedy.co/"^^xsd:string .
@@ -24704,6 +24973,24 @@ ns1:bcphbqviden a ns1:User ;
     ns1:name "Inoshi"^^xsd:string ;
     ns1:profileImg "author-inoshi-zoomout-sml.jpg"^^xsd:string .
 
+ns1:bcphbqvlaws a ns1:User ;
+    owl:sameAs "https://content.edgarcayce.org/about-us/blog/blog-authors/walter-stover-ma/"^^xsd:string ;
+    ns1:coverImg "cover-author-walt-stover.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://web.archive.org/web/20170626083051/http://stockdreams.org/">stockdreams.org (Web archive)</a></p>
+
+<p>Walt Stover originally worked in research and development for two Fortune 500 companies after receiving a Bachelor’s degree in Chemical Engineering.</p>
+
+<p>His precognitive dreams started on a small scale in 1978. He <a href="https://web.archive.org/web/20170516072437/http://www.intuitive-connections.net/issue3/stover.htm">stated</a> that "I did not seek or ask for this information. It just spontaneously arose from by subconscious". From 1983 he used dreams about financial matters to inform his stock market investments.</p>
+
+<p>He went on to receive his Master’s Degree in Transpersonal Studies in 2001 from Atlantic University. He is the author of <a href="https://www.abebooks.com/9781587768569/Dreams-Lamp-Darkness-Walt-Stover-1587768569/plp"><em>Dreams—My Lamp unto the Darkness</em></a>. He passed away in 2019.</p>
+"""^^xsd:string ;
+    ns1:handle "waltstover"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://content.edgarcayce.org/about-us/blog/blog-authors/walter-stover-ma/> ;
+    ns1:itemId "bcphbqvlaws"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Walt Stover"^^xsd:string ;
+    ns1:profileImg "author-waltstover.jpg"^^xsd:string .
+
 ns1:bcphbqvmack a ns1:User ;
     owl:sameAs "https://christamackinnon.com/about/"^^xsd:string,
         "https://twitter.com/christamackinno"^^xsd:string,
@@ -24923,21 +25210,6 @@ ns1:bcphbrptpuy a ns1:Post ;
     ns1:profileImg "14.4-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "14.4"^^xsd:string .
-
-ns1:bcphbtbcugl a ns1:Post ;
-    ns1:coverImg "17.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1998-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.2-Dream-Network-Vol-17-No-2.pdf" download="">Download issue 17.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.2-Dream-Network-Vol-17-No-2.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobdubou ;
-    ns1:itemId "bcphbtbcugl"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 17, issue 2: Enhancing & Healing Relationships"^^xsd:string ;
-    ns1:profileImg "17.2-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "17.2"^^xsd:string .
 
 ns1:bcphbu3wddv a ns1:Post ;
     ns1:coverImg "21.1-cover.jpg"^^xsd:string ;
@@ -25381,21 +25653,6 @@ ns1:bcphbmgxd6x a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "5.2"^^xsd:string .
 
-ns1:bcphbmvxewa a ns1:Post ;
-    ns1:coverImg "5.6-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf" download="">Download issue 5.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoact7dh ;
-    ns1:itemId "bcphbmvxewa"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 5, issue 6"^^xsd:string ;
-    ns1:profileImg "5.6-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "5.6"^^xsd:string .
-
 ns1:bcphbnagfeb a ns1:Post ;
     ns1:coverImg "6.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1987-09-02T11:32:52"^^xsd:dateTime ;
@@ -25808,6 +26065,21 @@ ns1:bcphbt33uhn a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "18.4"^^xsd:string .
 
+ns1:bcphbtbcugl a ns1:Post ;
+    ns1:coverImg "17.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1998-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.2-Dream-Network-Vol-17-No-2.pdf" download="">Download issue 17.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.2-Dream-Network-Vol-17-No-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobdubou ;
+    ns1:itemId "bcphbtbcugl"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 17, issue 2: Enhancing & Healing Relationships"^^xsd:string ;
+    ns1:profileImg "17.2-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "17.2"^^xsd:string .
+
 ns1:bcphbtsx7s6 a ns1:Post ;
     ns1:coverImg "18.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1999-01-01T11:32:52"^^xsd:dateTime ;
@@ -25852,21 +26124,6 @@ ns1:bcphbuj7fdh a ns1:Post ;
     ns1:profileImg "19.3-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "19.3"^^xsd:string .
-
-ns1:bcphbusgyjg a ns1:Post ;
-    ns1:coverImg "20.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2001-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.3_poetry.pdf" download="">Download issue 20.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.3_poetry.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobpf6pi ;
-    ns1:itemId "bcphbusgyjg"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 20, issue 3: Dream Inspired Poetry"^^xsd:string ;
-    ns1:profileImg "20.3-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "20.3"^^xsd:string .
 
 ns1:bcphbv3fbuv a ns1:Post ;
     ns1:coverImg "23.1-cover.jpg"^^xsd:string ;
@@ -26366,6 +26623,21 @@ ns1:bcphbmjs6by a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "5.3"^^xsd:string .
 
+ns1:bcphbmvxewa a ns1:Post ;
+    ns1:coverImg "5.6-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf" download="">Download issue 5.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.6-Dream-Network-Bulletin_Volume-5-Number-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
+    ns1:itemId "bcphbmvxewa"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 5, issue 6"^^xsd:string ;
+    ns1:profileImg "5.6-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "5.6"^^xsd:string .
+
 ns1:bcphbn2j47k a ns1:Post ;
     ns1:coverImg "8.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1989-01-01T11:32:52"^^xsd:dateTime ;
@@ -26679,6 +26951,16 @@ ns1:bcphbqerics a ns1:User ;
     ns1:name "Eric Snyder"^^xsd:string ;
     ns1:profileImg "author-ericsnyder.jpg"^^xsd:string .
 
+ns1:bcphbqmotmp a ns1:User ;
+    ns1:coverImg "2317089.jpg"^^xsd:string ;
+    ns1:description """<p>Martha Peacock, Ph.D., received her doctorate in Mythological Studies from Pacifica Graduate Institute in 2002, and a bachelor’s degree in Cultural Anthropology from the University of Missouri – St. Louis. At the time of writing for the Dream Network Journal (1998-2001), she was a doctoral student at Pacifica as well as a lecturer and freelance writer on dreams and archetypal psychology. She has been a long time student and educator in the field of Jungian dreamwork, comparative mythology and psychology. She currently lives in Colorado, where she is a member of the Boulder Friends of Jung and an oil painter.</p>
+"""^^xsd:string ;
+    ns1:handle "marthapeacock"^^xsd:string ;
+    ns1:itemId "bcphbqmotmp"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Martha Peacock"^^xsd:string ;
+    ns1:profileImg "author-martha-peacock.jpg"^^xsd:string .
+
 ns1:bcphbqmotte a ns1:User ;
     owl:sameAs "https://twitter.com/MarieOtte"^^xsd:string ;
     ns1:coverImg "cover-author-marieotte.jpg"^^xsd:string ;
@@ -26723,20 +27005,6 @@ ns1:bcphbte5ugv a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "17.3"^^xsd:string .
 
-ns1:bcphbtj7a2e a ns1:Post ;
-    ns1:coverImg "17.4-18.1-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-and-18-No-1.pdf" download="">Download issue 17.4-18.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-and-18-No-1.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobdubou ;
-    ns1:itemId "bcphbtj7a2e"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 17, issue 4: Creative Dreamwork in the Central Corridor"^^xsd:string ;
-    ns1:profileImg "17.4-18.1-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "17.4-18.1"^^xsd:string .
-
 ns1:bcphbtxh2bi a ns1:Post ;
     ns1:coverImg "18.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1999-04-01T11:32:52"^^xsd:dateTime ;
@@ -26752,20 +27020,20 @@ ns1:bcphbtxh2bi a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "18.3"^^xsd:string .
 
-ns1:bcphbugth7l a ns1:Post ;
-    ns1:coverImg "19.2-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.2-Dream-Network-Vol-19-No-2.pdf" download="">Download issue 19.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.2-Dream-Network-Vol-19-No-2.pdf">View online</a></p>
+ns1:bcphbusgyjg a ns1:Post ;
+    ns1:coverImg "20.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2001-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.3_poetry.pdf" download="">Download issue 20.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_20/20.3_poetry.pdf">View online</a></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3xdnj ;
     ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobmu4ep ;
-    ns1:itemId "bcphbugth7l"^^xsd:string ;
+        ns1:bcpqobpf6pi ;
+    ns1:itemId "bcphbusgyjg"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 19, issue 2: Sexuality in Dreams"^^xsd:string ;
-    ns1:profileImg "19.2-rect.jpg"^^xsd:string ;
+    ns1:name "Volume 20, issue 3: Dream Inspired Poetry"^^xsd:string ;
+    ns1:profileImg "20.3-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "19.2"^^xsd:string .
+    ns1:urlSlug "20.3"^^xsd:string .
 
 ns1:bcphbuzcgu3 a ns1:Post ;
     ns1:coverImg "20.4-cover.jpg"^^xsd:string ;
@@ -27224,6 +27492,35 @@ ns1:bcphbssmith a ns1:User ;
     ns1:name "Sandy Sela-Smith"^^xsd:string ;
     ns1:profileImg "author-sandy-sela-smith.jpg"^^xsd:string .
 
+ns1:bcphbtj7a2e a ns1:Post ;
+    ns1:coverImg "17.4-18.1-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1998-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-and-18-No-1.pdf" download="">Download issue 17.4-18.1</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_17/17.4-18.1-Dream-Network-Vol-17-No-4-and-18-No-1.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobdubou ;
+    ns1:itemId "bcphbtj7a2e"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 17, issue 4: Creative Dreamwork in the Central Corridor"^^xsd:string ;
+    ns1:profileImg "17.4-18.1-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "17.4-18.1"^^xsd:string .
+
+ns1:bcphbugth7l a ns1:Post ;
+    ns1:coverImg "19.2-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.2-Dream-Network-Vol-19-No-2.pdf" download="">Download issue 19.2</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_19/19.2-Dream-Network-Vol-19-No-2.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobmu4ep ;
+    ns1:itemId "bcphbugth7l"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 19, issue 2: Sexuality in Dreams"^^xsd:string ;
+    ns1:profileImg "19.2-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "19.2"^^xsd:string .
+
 ns1:bcphbv6y2vp a ns1:Post ;
     ns1:coverImg "23.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2004-04-01T11:32:52"^^xsd:dateTime ;
@@ -27436,20 +27733,6 @@ ns1:bcphbq3plvy a ns1:User ;
     ns1:name "Paul Levy"^^xsd:string ;
     ns1:profileImg "author-paullevy.jpg"^^xsd:string .
 
-ns1:bcphbqbeldo a ns1:User ;
-    owl:sameAs "https://medium.com/@tracehints"^^xsd:string ;
-    ns1:coverImg "cover-author-jayebeldo.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://medium.com/@tracehints">medium.com/@tracehints</a></p>
-
-<p>Jaye B is a writer, musician and artist. His art criticism has appeared in Art Paper, New North Artscape, Art Muscle, Northfield Magazine and elsewhere. His articles have also appeared in City Pages, Twin Cities Reader, Mysteries Magazine, Fahrenheit San Diego, High Plains Reader, New Dawn and Rain Taxi. He has appeared on BBC Radio, WGN Chicago, WLW Cincinnati and elsewhere in the mediasphere to discuss his work.</p>
-"""^^xsd:string ;
-    ns1:handle "jayeb"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://medium.com/@tracehints> ;
-    ns1:itemId "bcphbqbeldo"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jaye Beldo"^^xsd:string ;
-    ns1:profileImg "author-jayebeldo.jpg"^^xsd:string .
-
 ns1:bcphbqvbird a ns1:User ;
     owl:sameAs "http://tendingdreams.com/"^^xsd:string ;
     ns1:coverImg "cover-author-kim-birdsong.jpg"^^xsd:string ;
@@ -27647,6 +27930,20 @@ ns1:bcphbq3vand a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Robert Van de Castle"^^xsd:string ;
     ns1:profileImg "author-bobvandecastle.jpg"^^xsd:string .
+
+ns1:bcphbqbeldo a ns1:User ;
+    owl:sameAs "https://medium.com/@tracehints"^^xsd:string ;
+    ns1:coverImg "cover-author-jayebeldo.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://medium.com/@tracehints">medium.com/@tracehints</a></p>
+
+<p>Jaye B is a writer, musician and artist. His art criticism has appeared in Art Paper, New North Artscape, Art Muscle, Northfield Magazine and elsewhere. His articles have also appeared in City Pages, Twin Cities Reader, Mysteries Magazine, Fahrenheit San Diego, High Plains Reader, New Dawn and Rain Taxi. He has appeared on BBC Radio, WGN Chicago, WLW Cincinnati and elsewhere in the mediasphere to discuss his work.</p>
+"""^^xsd:string ;
+    ns1:handle "jayeb"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://medium.com/@tracehints> ;
+    ns1:itemId "bcphbqbeldo"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jaye Beldo"^^xsd:string ;
+    ns1:profileImg "author-jayebeldo.jpg"^^xsd:string .
 
 ns1:bcphbqskoff a ns1:User ;
     owl:sameAs "https://touchdrawing.com/"^^xsd:string,
@@ -27992,17 +28289,6 @@ ns1:bcphbqvreed a ns1:User ;
     ns1:name "Henry Reed"^^xsd:string ;
     ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
-ns1:bcpovcredja a ns1:Topic ;
-    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
-    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomenon. But check out these articles, and you'll see that for as long as dreams, computers and the internet have coexisted, there's been a dream to digitize the unconscious.</p>
-"""^^xsd:string ;
-    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
-    ns1:itemId "bcpovcredja"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string ;
-    ns1:shortName "Dream Apps & Websites"^^xsd:string ;
-    ns1:subType "Thing"^^xsd:string .
-
 ns1:bcpovcretld a ns1:Topic ;
     owl:sameAs "https://dbpedia.org/page/Lucid_dream"^^xsd:string,
         "https://en.wikipedia.org/wiki/Lucid_dream"^^xsd:string ;
@@ -28122,6 +28408,17 @@ ns1:bcphbqschul a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jeanne Schul"^^xsd:string ;
     ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
+
+ns1:bcpovcredja a ns1:Topic ;
+    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
+    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomenon. But check out these articles, and you'll see that for as long as dreams, computers and the internet have coexisted, there's been a dream to digitize the unconscious.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
+    ns1:itemId "bcpovcredja"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string ;
+    ns1:shortName "Dream Apps & Websites"^^xsd:string ;
+    ns1:subType "Thing"^^xsd:string .
 
 ns1:bcphbqfgreg a ns1:User ;
     ns1:description """<p>More articles on <a href="http://www.improverse.com/ed-articles/index.htm#g">'Electric Dreams'</a></p>

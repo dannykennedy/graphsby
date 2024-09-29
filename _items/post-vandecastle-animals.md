@@ -23,7 +23,7 @@ What significance should be given to these jungle or domesticated denizens who a
 
 Ernest Jones, a follower of Freud, says:
 
-> _"Analytical experience has shown that the occurrence of animals in a dream regularly indicates a sexual theme, usually an incest one" (1959' p. 70)._
+> _"Analytical experience has shown that the occurrence of animals in a dream regularly indicates a sexual theme, usually an [incest](../bcpov2zluaoi/the-archetype-of-incest-in-dreams) one" (1959' p. 70)._
 
 Hadfield (1954) suggests that crab, spider and vampire images represent the visceral objectifications of the bodily feelings associated with orgasm. The crab portrays the changes in visceral and abdominal muscles which produce a gripping sensation; the relaxed feelings following orgasm are represented by the sprawling legs and soft underbelly of the spider image; the washed-out feeling of fatigue, as though the blood had been sucked dry, is externalized by a vampire figure.
 

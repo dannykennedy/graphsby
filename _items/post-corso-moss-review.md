@@ -14,6 +14,11 @@ type: post
 subType: Review
 urlSlug: "dreaming-the-soul-back-home-robert-moss-book-review"
 profileImg: post-bcpov6zmossr-0.jpg
+about:
+    - type: Book
+      name: "Dreaming The Soul Back Home"
+      sameAs:
+          - https://www.goodreads.com/book/show/13239379-dreaming-the-soul-back-home
 ---
 
 <a href="https://www.goodreads.com/book/show/13239379-dreaming-the-soul-back-home">

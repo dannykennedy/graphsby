@@ -16492,6 +16492,48 @@ ns1:bcpov6zfgadm a ns1:Post ;
     ns1:profileImg "dangerous_method.jpg"^^xsd:string ;
     ns1:urlSlug "a-dangerous-method-movie-review"^^xsd:string .
 
+ns1:bcpov6zfgamn a ns1:Post ;
+    ns1:dateCreated "2011-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.clarissapinkolaestes.com/new_audio_spoken_word_release__mother_night__myths__stories__and_teachings_for_le_101252.htm"></p>
+
+<p><img src="../images/mothernight.jpg" width="400" height="auto" alt="Owl on CD cover"/></a><!--nopreview--><div class="caption" style="text-align:center">Mother Night: Myths, Stories, and Teachings for Learning to See in the Dark by Clarissa Pinkola Estes, Ph.D. Sounds True, Boulder Colorado, 2010.</div><!--/nopreview--></p>
+
+<p>Many readers will be familiar with Clarissa Pinkola Estes from her popular book, <em>Women Who Run with the Wolves</em>. Here, she brings her formidable story-telling abilities to bear in a series of eight audio CD recordings designed to empower the listener to undertake an exploration of the archetypal worlds.</p>
+
+<p>Bringing together stories from her own multi-cultural background (her roots are Mexican and Eastern European Swabian) and the greater corpus of world mythology, she skillfully blends the deep wisdom of the ages with practical suggestions for how to make the teachings work in today's world.</p>
+
+<p>She guides the listener through six successive stages:</p>
+
+<ul>
+<li><p><em>Walking in Two Worlds</em></p></li>
+<li><p><em>The Archetype of the Medial Woman</em></p></li>
+<li><p><em>Throwing off Over-Acculturation: Reclaiming Gifts and Eccentricities from the Shadow</em></p></li>
+<li><p><em>Curanderismo: Allying with the Immaculate Heart for Guidance and Recovery</em></p></li>
+<li><p><em>Premonitions and Apparitions: Valuable Protection and Grounded Intelligence from the 'Other World'</em></p></li>
+<li><p><em>Gold in the Darkest Dark: Understanding Repetitive Dreams, Nightmares, and Disembodied Voices</em></p></li>
+<li><p><em>Mining the Mother Lode: How to Bring Diamonds from the Darkness</em></p></li>
+</ul>
+
+<p>The final two CDs are devoted to her answers to questions from participants in her seminars.</p>
+
+<p>Estes considers it to be of primary importance that we recognize that we are all gifted, that we all have been endowed with something precious which we can share, and that the world is diminished if we do not share it.</p>
+
+<p>However, she observes that what she terms the Over-Culture often works to keep us from realizing these potentials, and does what it can to convince us from an early age that we are not special, that we are simply cogs in a larger machine. The result, all too often, is the silencing of these gifts. Her task is to help us to overcome this conditioning, so that we may function as more fully realized human beings.</p>
+
+<p>To express this project, which is very much aligned with <a href="../topic~jung_and_dreams">Jungian psychology</a>, she uses some of Jung's language (Shadow, Anima, etc.). She asks us to consider that we are all members of the "Tribe of the Sacred Heart," specifically of the "Scar Clan" - that we all bear the scars of our over-conditioning, but that we can make these into our strengths if we are able to express compassionate heart energy. There is no doubt that she herself does this ably and each of the sessions ends with her special blessing, often wrapped into a tale-either of her own creation, from world mythology or the pages of the newspaper. She admits us into some of the secrets of her storyteller's craft and describes the various types of healing vocations, which are open to the earnest searcher.</p>
+
+<p>Estes has a definite purpose in mind in presenting this material. She would like each and every listener to become more who they truly are. This is a great responsibility, not one to be taken lightly. She guides us artfully, compassionately and wisely through each of the stages. The serious listener will gain much insight from this series.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3curt ;
+    ns1:hasTag ns1:bcphbq3curt,
+        ns1:bcphbzaknqj ;
+    ns1:inIssue ns1:bcphbzaknqj ;
+    ns1:itemId "bcpov6zfgamn"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "CD Review: Mother Night by Clarissa Pinkola Estes"^^xsd:string ;
+    ns1:profileImg "mothernight.jpg"^^xsd:string ;
+    ns1:urlSlug "mother-night-cd-review"^^xsd:string .
+
 ns1:bcpov6zfgidb a ns1:Post ;
     ns1:dateCreated "2000-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>I had the following powerful dream in the midst of a weekend intensive given by <a href="../@jeremytaylor">Jeremy Taylor</a> for a learning community in Consciousness. I was co-teaching the course last spring, shortly after the Columbine High School tragedy.</p>
@@ -25576,20 +25618,6 @@ ns1:bcphbyl3dut a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "29.1"^^xsd:string .
 
-ns1:bcphbzaknqj a ns1:Post ;
-    ns1:coverImg "30.2-3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2011-04-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.2-30.3_money.pdf" download="">Download issue 30.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.2-30.3_money.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqocndszw ;
-    ns1:itemId "bcphbzaknqj"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 30, issue 2: Money in Dreams: What does it Synbolize?"^^xsd:string ;
-    ns1:profileImg "30.2-3-rect.jpg"^^xsd:string ;
-    ns1:urlSlug "30.2-3"^^xsd:string .
-
 ns1:bcphbzhpgrg a ns1:Post ;
     ns1:coverImg "31.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2012-01-01T11:32:52"^^xsd:dateTime ;
@@ -26491,6 +26519,20 @@ ns1:bcphbz2bump a ns1:Post ;
     ns1:name "Volume 32, issue 2: Shamanic Dreams"^^xsd:string ;
     ns1:profileImg "32.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "32.2-3"^^xsd:string .
+
+ns1:bcphbzaknqj a ns1:Post ;
+    ns1:coverImg "30.2-3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2011-04-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.2-30.3_money.pdf" download="">Download issue 30.2-3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_30/30.2-30.3_money.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqocndszw ;
+    ns1:itemId "bcphbzaknqj"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 30, issue 2: Money in Dreams: What does it Synbolize?"^^xsd:string ;
+    ns1:profileImg "30.2-3-rect.jpg"^^xsd:string ;
+    ns1:urlSlug "30.2-3"^^xsd:string .
 
 ns1:bcphbzoxivb a ns1:Post ;
     ns1:coverImg "31.3-cover.jpg"^^xsd:string ;
@@ -28126,20 +28168,6 @@ ns1:bcpov6zfsra a ns1:Post ;
     ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
     ns1:urlSlug "coat-of-many-colors"^^xsd:string .
 
-ns1:bcphbq3curt a ns1:User ;
-    owl:sameAs "https://www.bridgew.edu/person/dr-curtiss-hoffman"^^xsd:string ;
-    ns1:coverImg "cover-image-curtiss-hoffman.jpg"^^xsd:string ;
-    ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of <em>The Seven Story Tower: A Mythic Journey through Space and Time</em>, and <em>Stone Prayers</em>, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.</p>
-
-<p>He was the host of the 2006 IASD conference at Bridgewater State, and has presented at IASD conferences and at the on-line Psiberdreaming Conference for several years. Since 2004, he has been the chair of the IASD Student Research Awards Committee.</p>
-"""^^xsd:string ;
-    ns1:handle "curtisshoffman"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.bridgew.edu/person/dr-curtiss-hoffman> ;
-    ns1:itemId "bcphbq3curt"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Curtiss Hoffman"^^xsd:string ;
-    ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
-
 ns1:bcpqn7zvpei a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
 """^^xsd:string ;
@@ -28362,6 +28390,20 @@ ns1:bcphbq3arts a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Arthur Strock"^^xsd:string ;
     ns1:profileImg "author-arthur-strock.jpg"^^xsd:string .
+
+ns1:bcphbq3curt a ns1:User ;
+    owl:sameAs "https://www.bridgew.edu/person/dr-curtiss-hoffman"^^xsd:string ;
+    ns1:coverImg "cover-image-curtiss-hoffman.jpg"^^xsd:string ;
+    ns1:description """<p>Curtiss Hoffman is an archaeologist and consciousness researcher. He is the former Chair of the Department of Anthropology at Bridgewater State College, now retired and teaching part-time. He is particularly interested in cultural systems of thought related to dreaming, myth, ritual, visions, religious iconography, and symbolism, and is the author of <em>The Seven Story Tower: A Mythic Journey through Space and Time</em>, and <em>Stone Prayers</em>, which explores Native American sacred stone structures throughout the eastern seaboard of the U.S. and Canada.</p>
+
+<p>He was the host of the 2006 IASD conference at Bridgewater State, and has presented at IASD conferences and at the on-line Psiberdreaming Conference for several years. Since 2004, he has been the chair of the IASD Student Research Awards Committee.</p>
+"""^^xsd:string ;
+    ns1:handle "curtisshoffman"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.bridgew.edu/person/dr-curtiss-hoffman> ;
+    ns1:itemId "bcphbq3curt"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Curtiss Hoffman"^^xsd:string ;
+    ns1:profileImg "author-curtiss-hoffman.jpg"^^xsd:string .
 
 ns1:bcpovcretjd a ns1:Topic ;
     ns1:coverImg "jungcover.jpg"^^xsd:string ;

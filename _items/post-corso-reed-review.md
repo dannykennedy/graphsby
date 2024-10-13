@@ -14,6 +14,11 @@ type: post
 subType: Review
 urlSlug: "henry-reed-dream-medicine-book-review"
 profileImg: post-bcpov6zreedr-0.jpg
+about:
+    - type: Book
+      name: "Dream Medicine"
+      sameAs:
+          - https://www.barnesandnoble.com/w/dream-medicine-henry-reed/1113546934
 ---
 
 <a href="https://www.barnesandnoble.com/w/dream-medicine-henry-reed/1113546934">

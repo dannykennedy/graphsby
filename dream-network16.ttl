@@ -737,6 +737,32 @@ ns1:bcpot5kidnbt a ns1:Post ;
     ns1:profileImg "vandecastle-telepahy-1.jpg"^^xsd:string ;
     ns1:urlSlug "the-dnb-telepathy-project"^^xsd:string .
 
+ns1:bcpov1modtad a ns1:Post ;
+    ns1:dateCreated "2006-07-02T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><a href="https://www.amazon.com.au/Trauma-Dreams-Deirdre-Barrett/dp/0674006909"></p>
+
+<p><img src="../images/trauma-dreams-barrett.jpg" width="200" height="auto" alt="Book cover, a Goya painting"/></p>
+
+<p></a></p>
+
+<p><!--nopreview--><div style="text-align:center"><i>Trauma and Dreams edited by Deirdre Barrett.  c. 1996 Harvard University Press, Cambridge, Mass. New Edition Paperback, 2001. 282 pages.</i></div><!--/nopreview--></p>
+
+<p>A past president of the Association for the Study of Dreams and Assistant Professor of Psychology at Harvard Medical School, Deirdre Barrett introduces and edits this collection of articles and inquiries into the nature of trauma and dreams as a window on trauma and its effects. Barrett sees this window not as a clear one, but as “prismatic, showing us a changed version of events that is frequently distorted but can also bring chaos into resolution.” (page 1). Seeking to combine the study of trauma with the study of dreams, all types of catastrophic events are examined. Contributors are among the best of the best and include Oliver Sacks, Robert Bosnak, Rosalind Cartwright and Patricia Garfield.</p>
+
+<p>This book is divided into three parts: <em>Dreams after Childhood Trauma</em>, <em>Adult Trauma in Wars and Natural Disasters</em>, and <em>Traumas of Normal Living</em>. While perhaps better suited to the clinician or practicing therapist, any lover of dreams can find something intriguing in this material. Although this volume is not for those seeking a lyrical, creative or poetic approach to dreamwork, this is the stuff of life. These are papers presented with their statistical findings and conclusions, their subjects living and dreaming the grit, the pain and the horror, all that we most naturally could avoid and potentially repress. Within this collection, we recognize the universality of human experience, bereavement, life-threatening illness, divorce. We are shown ways in which trauma, including the horrors of war and the Holocaust, affects those who survive it, and further how dreams and our working with them have the potential to “restore the savaged” and to “give voice to the unspeakable.” (page 6)</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqvbird ;
+    ns1:hasTag ns1:bcphbqvbird,
+        ns1:bcphbxal53y ;
+    ns1:hasTopic ns1:bcpovcretdb ;
+    ns1:inIssue ns1:bcphbxal53y ;
+    ns1:itemId "bcpov1modtad"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Book Review: Trauma and Dreams edited by Deirdre Barrett"^^xsd:string ;
+    ns1:profileImg "trauma-dreams-barrett.jpg"^^xsd:string ;
+    ns1:subType "Review"^^xsd:string ;
+    ns1:urlSlug "trauma-and-dreams-barrett-review"^^xsd:string .
+
 ns1:bcpov1msabon a ns1:Post ;
     ns1:dateCreated "1999-04-03T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>I finally did a trek to the high Himalayas and stayed in my cave. How I wish I could describe the beauty! I went up in the pouring rain and stayed there in the fog and rain, so I couldn't see the mountains in front of my face. But the mist made for an incredible mystique, sometimes barely showing craggy mountain silhouettes, tantalizing my eyes. And there were shadowy images of really tall yet scraggly, dripping, moss-&amp;-fern ridden deciduous trees too.</p>
@@ -26526,21 +26552,6 @@ ns1:bcphbwpd2l7 a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "24.3"^^xsd:string .
 
-ns1:bcphbxal53y a ns1:Post ;
-    ns1:coverImg "25.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "2006-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf" download="">Download issue 25.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqob4y4gj ;
-    ns1:itemId "bcphbxal53y"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 25, issue 3: Back to Basics"^^xsd:string ;
-    ns1:profileImg "25.3-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "25.3"^^xsd:string .
-
 ns1:bcphbxxscsf a ns1:Post ;
     ns1:coverImg "27.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2008-04-01T11:32:52"^^xsd:dateTime ;
@@ -27405,6 +27416,21 @@ ns1:bcphbx7d7cu a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "27.4"^^xsd:string .
 
+ns1:bcphbxal53y a ns1:Post ;
+    ns1:coverImg "25.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "2006-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf" download="">Download issue 25.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_25/25.3_back_to_basics.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqob4y4gj ;
+    ns1:itemId "bcphbxal53y"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 25, issue 3: Back to Basics"^^xsd:string ;
+    ns1:profileImg "25.3-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "25.3"^^xsd:string .
+
 ns1:bcphbxfpj5j a ns1:Post ;
     ns1:coverImg "25.4-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2006-10-01T11:32:52"^^xsd:dateTime ;
@@ -28088,28 +28114,6 @@ ns1:bcphbq3plvy a ns1:User ;
     ns1:name "Paul Levy"^^xsd:string ;
     ns1:profileImg "author-paullevy.jpg"^^xsd:string .
 
-ns1:bcphbqvbird a ns1:User ;
-    owl:sameAs "http://tendingdreams.com/"^^xsd:string ;
-    ns1:coverImg "cover-author-kim-birdsong.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://tendingdreams.com/">tendingdreams.com</a></p>
-
-<p>Kim Birdsong was born and adopted in Naples, Italy, and has lived most of her life on the Monterey Peninsula. She was a review editor for the Dream Network Journal for many years.</p>
-
-<p>Her background includes a master’s degree in Transpersonal Psychology and a graduate certificate in Women’s Spiritual Development. Kim spent 10 years working with trauma survivors, combining her training in trauma care with her specialized knowledge of DreamTending, ritual and the use of art in healing. For three years, she hosted her own radio show, “Spirit Matters.” She served as Client Services Manager for the Monterey County Rape Crisis Center for eight years.</p>
-
-<blockquote>
-  <p><em>“It is my belief that a curious, compassionate outlook and a creative response have the power to bring about true and lasting healing, both personally and collectively.”</em></p>
-</blockquote>
-
-<p>Kim offers individual and group sessions in DreamTending, <a href="../@stephenaizenstat">Dr. Stephen Aizenstat's</a> method of working with dreams, and is also a photographer and collage artist.</p>
-"""^^xsd:string ;
-    ns1:handle "kimbirdsong"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://tendingdreams.com/> ;
-    ns1:itemId "bcphbqvbird"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Kim Birdsong"^^xsd:string ;
-    ns1:profileImg "author-kim-birdsong.jpg"^^xsd:string .
-
 ns1:bcphbqvlach a ns1:User ;
     owl:sameAs "https://www.linkedin.com/in/victoriavlach/"^^xsd:string ;
     ns1:description """<p>Victoria Vlach has been a dreamer all her life. In addition to facilitating dream groups and workshops, she was a long time Regional Contact and occasional writer and proofreader for Dream Network.</p>
@@ -28320,6 +28324,28 @@ ns1:bcphbqskoff a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Deborah Koff-Chapin"^^xsd:string ;
     ns1:profileImg "author-deborahkoffchapin.jpg"^^xsd:string .
+
+ns1:bcphbqvbird a ns1:User ;
+    owl:sameAs "http://tendingdreams.com/"^^xsd:string ;
+    ns1:coverImg "cover-author-kim-birdsong.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://tendingdreams.com/">tendingdreams.com</a></p>
+
+<p>Kim Birdsong was born and adopted in Naples, Italy, and has lived most of her life on the Monterey Peninsula. She was a review editor for the Dream Network Journal for many years.</p>
+
+<p>Her background includes a master’s degree in Transpersonal Psychology and a graduate certificate in Women’s Spiritual Development. Kim spent 10 years working with trauma survivors, combining her training in trauma care with her specialized knowledge of DreamTending, ritual and the use of art in healing. For three years, she hosted her own radio show, “Spirit Matters.” She served as Client Services Manager for the Monterey County Rape Crisis Center for eight years.</p>
+
+<blockquote>
+  <p><em>“It is my belief that a curious, compassionate outlook and a creative response have the power to bring about true and lasting healing, both personally and collectively.”</em></p>
+</blockquote>
+
+<p>Kim offers individual and group sessions in DreamTending, <a href="../@stephenaizenstat">Dr. Stephen Aizenstat's</a> method of working with dreams, and is also a photographer and collage artist.</p>
+"""^^xsd:string ;
+    ns1:handle "kimbirdsong"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://tendingdreams.com/> ;
+    ns1:itemId "bcphbqvbird"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Kim Birdsong"^^xsd:string ;
+    ns1:profileImg "author-kim-birdsong.jpg"^^xsd:string .
 
 ns1:bcphbqvlaws a ns1:User ;
     owl:sameAs "https://content.edgarcayce.org/about-us/blog/blog-authors/walter-stover-ma/"^^xsd:string ;

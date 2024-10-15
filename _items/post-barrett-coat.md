@@ -9,7 +9,7 @@ tags:
     - hasTag: coat-of-many-colors
     - inIssue: coat-of-many-colors
 type: post
-urlSlug: working-with-dreams
+urlSlug: "dreaming-about-dreamwork"
 profileImg: deirdre-drawing.jpg
 ---
 

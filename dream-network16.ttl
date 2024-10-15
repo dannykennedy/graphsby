@@ -752,7 +752,8 @@ ns1:bcpov1modtad a ns1:Post ;
 <p>This book is divided into three parts: <em>Dreams after Childhood Trauma</em>, <em>Adult Trauma in Wars and Natural Disasters</em>, and <em>Traumas of Normal Living</em>. While perhaps better suited to the clinician or practicing therapist, any lover of dreams can find something intriguing in this material. Although this volume is not for those seeking a lyrical, creative or poetic approach to dreamwork, this is the stuff of life. These are papers presented with their statistical findings and conclusions, their subjects living and dreaming the grit, the pain and the horror, all that we most naturally could avoid and potentially repress. Within this collection, we recognize the universality of human experience, bereavement, life-threatening illness, divorce. We are shown ways in which trauma, including the horrors of war and the Holocaust, affects those who survive it, and further how dreams and our working with them have the potential to “restore the savaged” and to “give voice to the unspeakable.” (page 6)</p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqvbird ;
-    ns1:hasTag ns1:bcphbqvbird,
+    ns1:hasTag ns1:bcphbqfmbar,
+        ns1:bcphbqvbird,
         ns1:bcphbxal53y ;
     ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbxal53y ;
@@ -1315,6 +1316,78 @@ ns1:bcpov2kndiss a ns1:Post ;
     ns1:name "The Practical Side of Sexual Symbolism"^^xsd:string ;
     ns1:profileImg "baylissexuality1.jpg"^^xsd:string ;
     ns1:urlSlug "sexual-symbolism"^^xsd:string .
+
+ns1:bcpov2zindad a ns1:Post ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/deirdre-drawing.jpg" alt="Drawing of Deirdre Barrett" width="500" height="auto"/><!--nopreview--><div class="caption">At the time of writing this article, Deirdre Barrett, Ph.D. was teaching and doing research the University of North Carolina - Chapel Hill.</div><!--/nopreview--></p>
+
+<p>Dreams can illuminate many aspects of waking life, but here I want to focus on the most self-referential type which I call dreaming-about-dreamork, I will use my own dreams and a few from research subjects to illustrate the types of dreams that can best the viewed as messages to the waking self about how to utilize dream experience. Some of them served to overcome major impasses in ongoing dreamwork.</p>
+
+<p>Many of us who are involved in interpreting dreams begin to have semi-lucid dreams in which, as the dream-self as various experiences, thoughts about what this means or symbolizes occur simultaneously. A variation of this occurs when the interpretation appears in a "false awakening" or a second dream as in my following two dreams:</p>
+
+<blockquote>
+  <p><em>I am in an underwater house with a huge picture window. Beyond it are the depths of a lake in which dolphins and whales swim. I converse with them, discovering that their sonar is what we know as "telepathy."</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>I then dream I am telling the dolphin dream to a group of my graduate students explaining the symbolism of the fish as the Self archetype in Jungian theory. I say that I am so overly intellectual that I must use the dolphin as a creature closer to my conscious self-image and not as alien and frightening as a fish or my true Self. A young woman suggests that my interpretation is a defence of my current beliefs and forces my experience to conform to them. If I invite my experience to inform my beliefs, I will soon meet my fish and Self.</em></p>
+</blockquote>
+
+<p>In fact several nights later I had a more vivid fish dream, and have continued to have them more frequently.</p>
+
+<p>Among subjects keeping dream logs for my research, about ten percent of their records contain some semi-lucid reminder to record the dream, such as <em>"...and then I remembered the experiment and thought 'now as soon as this is over, I'll have to wake up and write it down right away so I don't forget any of it.'"</em> or <em>"...and then I dreamed that my roommate came to tell me the alarm clock had gone off. I told her I couldn't get up yet because I was in the middle of a dream for an experiment."</em> In addition to these simple reminders of a waking task, sone subjects show much more dynamically significant dreams about dreaming. One under graduate, a recent devotee of Freud recorded the following dream:</p>
+
+<blockquote>
+  <p><em>I walked up to this temple...a minister was there. I knew he was very wise and important, so I bowed down before him. He took a jeweled scepter and touched my head with it and the scepter transformed into a huge penis... He led me through an arched doorway which became two giant labia... We were in a kind of chapel with an altar. An infant appeared above it...and began to play with itself. The minister turned to me and said "Now could that <strong>really</strong> be all there is to this?" and everything transformed back into a temple.</em></p>
+</blockquote>
+
+<p>Messages as direct as in the preceding examples need little translation for the waking self, but another genre of dream about dreamwork can be much more symbolic as in the following:</p>
+
+<blockquote>
+  <p><em>I arrive in a beautiful, surreal land with crystal mountains, glowing lakes, swirling iridescent clouds in a rainbow sky, and enticing paths leading off to distant fairytale villages. Attached to my wrist by an elegant but massive golden rope is a round stone tablet that appears to weigh hundreds of pounds. It is gilded and engraved with intricate hieroglyphics; I think of it as my "record." I am greeted by a priestlike guide who says, "You are free to travel and explore everywhere you wish," but gives a pointed and sarcastic glance at my encumbrance as if to say, "but of course you won't get one step dragging that thing."</em></p>
+</blockquote>
+
+<p>Upon waking I interpreted this to refer to my dream "record" and that I had become so obsessed with getting every detail of a dream that it was interfering with the experience itself. I did not take this as an indication to totally abandon keeping a dream diary, but rather to enjoy dreams more for themselves and not as some ornate trophy to drag back to the waking state.</p>
+
+<p>A similar symbolic hint on maximizing a specific dreamork opportunity came in the form of two dreams I had during a Jungian workshop. The first was set in an <em>antique clothing store with an array of exotic garments which I wished to try on. I spent an excessive amount of. tine examining a hat which turned out to be too small, and to my great disappointment, I could not locate any of the other clothes again.</em> In the second dream, <em>I was slowly selecting shells at beach: a miniature conch, a tiny dried devilfish. I then realized every shell on the beach was a beautiful specimen and I should gather as many as I could and save sorting for later.</em> These dreams helped me to gather all the "treasures" of the next day's workshop and not get too preoccupied by any one, as I had with some remarks the previous day on oppression as symbolized by hats in women's dreams.</p>
+
+<p>In undertaking dream control, most of us have some initial experiences in which our influence is detectable but not exactly "as ordered." My earliest attempts at inducing lucidity produced many conical missed cues. Among dozens of such dreams, I have for example:</p>
+
+<ol>
+<li><p><em>led a therapy group in which all patients were showing REM's without being able to figure out why this might be,</em></p></li>
+<li><p><em>"awakened"to find a silver, star-shaped pillow by my bed on which the word "DREAM" suddenly appeared and I tried to remember when $I$ had obtained such an unusual object</em>, and more cryptically</p></li>
+<li><p><em>another "awakening" to see a crowd gathered outside my bedroom window (on a second story and where no real window exists) gesturing to get my attention and waving signs which said things like "This world will end soon!" I thought only of this referring to the physical world in which I thought I was at the time, and assumed them to be some crank religious group.</em></p></li>
+</ol>
+
+<p>Such experiences help me to empathize with Van Eeden's remark in his classic paper that at such times he was being "taunted by demons." Despite this mocking quality, I think it more likely represents the best attempt by the dreaming mind to communicate and help comply with the waking-chosen goal of lucidity. When one ventures into a foreign country, one is well advised to learn and respect its language rather then judge it as in inferior version of one's own, rife with comical errors.</p>
+
+<p>Sometimes dream language proves itself dramatically superior in the manner of the "picture is worth a thousand words" cliche. The following dream was my very first very convincing experience of this:</p>
+
+<blockquote>
+  <p><em>I go to see a therapist who (in the dream) I've supposedly seen many times. There are neon bands on the wall of his office which never made sense to me before when lit individually; but now they are simultaneously on. I say that I finally understand. I awake with a powerful positive feeling.</em></p>
+</blockquote>
+
+<p>At first this does not seem to contain anything rationally understandable, but as I go over the colors and order of the neon bands, I realize that each color was that of a predominate symbol in some recent dream. When I reconsider these dreams In the order suggested by the neon display, they form a much more important statement about current issues in my life and my character in general than had my interpretations of the individual dreams initially.</p>
+
+<p>I've presented some of my own dreams-about-dreamwork which were meaningful and beneficial to me. I hope that they may serve as useful examples for other dreamers in recognizing when dreams are offering valuable dreamwork advice. I continue to try to improve my own comprehension of dream language, and the last dream I want to share is a recent one which I frankly don't understand well. It is the most elaborate dream about dreamwork I've had to date, but. I see very little rational translation of its meaning beyond the humorous missed lucidity-cues, the mythological/astronomical allusion to something (the dream, the message?) being there but almost invisible, and the computation of the locations mentioned being 2⁴+1, or indeed the "seventeen" calculated effortlessly by my dreaming mind. I'd love to hear</p>
+
+<p>from anyone who sees more of this dream's import:</p>
+
+<blockquote>
+  <p><em>I go to visit my mother and she has a book on dream interpretation. I've never seen it and she says it is more popular with English majors (which she is) than psychologists. Its theory is that all dream characters can be reduced to seventeen basic archetypes. The "character" and the "dream" are discussed as synonymous. Which character the dream appears as is determined by the physical location of the dream in relation to the dreamer. The dimensions in which the location can vary are: (1) in front of vs . behind the dreamer determining respectively a good or evil character, (2) being to the left or right determining gender, (3) below or above determining weakness vs. strength, and (4) ahead or behind them in time determining age; a dream in the exact location as the dreamer would have a character manifesting as the self. Intermittently throughout this explanation, my mother drops off to sleep briefly many times. I have a sense this should tell me something, but it only adds to my confusion in follow ing the theory. I ask if "in front of" refers to north-south or east-west. She laughs uproariously and says,"No, that would put the dream in your Pleiades," which seems to be simultaneously a comment that I have entirely the wrong frame of reference and also an allusion to some obscene or comical body part. She then tries to explain better with an example: "if the dream is directly above and in front of you and just to your left in the time immediately preceding yours, the character will appear as some kind of older goddess, queen, or mother-figure." I again sense that my own mother using this specific example should tell so something, but: I don't become lucid. I ponder the implications of this esoteric revelation and awaken with a vivid sense of significance about the dream.</em></p>
+</blockquote>
+
+<p><img src="https://cdn.mathpix.com/cropped/2024_05_01_3401056629b014ef5b07g-035.jpg?height=610&width=1264&top_left_y=1338&top_left_x=315" alt="" /></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqfmbar ;
+    ns1:hasTag ns1:bcphbqfmbar,
+        ns1:bcpov6zfsra ;
+    ns1:inIssue ns1:bcpov6zfsra ;
+    ns1:itemId "bcpov2zindad"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreaming about Dreamwork"^^xsd:string ;
+    ns1:profileImg "deirdre-drawing.jpg"^^xsd:string ;
+    ns1:urlSlug "working-with-dreams"^^xsd:string .
 
 ns1:bcpov2zluaoi a ns1:Post ;
     ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
@@ -2188,7 +2261,7 @@ ns1:bcpov3zlumap a ns1:Post ;
 
 <ol>
 <li><p>Hesiod. <em>Works and Days, Theogony, The Shield of Herakles</em>. "Works and Days." Trans. Richmond Lattimore. University of Michigan Press: Ann Arbor, 1991, (1-3)</p></li>
-<li><p>Barrett, Deirdre. <a href="../bcpov6rcommi/book-review-the-committee-of-sleep-deirdre-barrett">The Committee of Sleep</a>. Crown Publishers: NY, 2001. (pp. 66-74)</p></li>
+<li><p><a href="../@deirdrebarrett">Barrett, Deirdre</a>. <a href="../bcpov6rcommi/book-review-the-committee-of-sleep-deirdre-barrett">The Committee of Sleep</a>. Crown Publishers: NY, 2001. (pp. 66-74)</p></li>
 <li><p>Ibid (pp. 75)</p></li>
 <li><p>Hesiod. "Theogony" (97-102)</p></li>
 <li><p>Ibid, (1021-3)</p></li>
@@ -6680,7 +6753,7 @@ ns1:bcpov6kbcoup a ns1:Post ;
 
 <p>An interesting aspect of the conference was how the waking world events of the failed coup influenced people's dreaming worlds. Many people said they didn't dream at all during the three days of the coup. A Lithuanian man in my dream discussion group said the waking world was so strange and fantastic that he felt he was dreaming while awake! Others did have dreams that related directly to the coup, for example an American woman - also in my dream group - dreamed during those three days of a disembodied female voice hovering over the resistance movement's barricades in Moscow, encouraging them to struggle on.</p>
 
-<p>I am sure that everyone who attended the conference has different thoughts, feelings and dreams about what went on-all this is nothing more than my own very personal reactions to an incredibly powerful experience. If you want to share others' perspectives, you may want to contact others who attended, like Rita Dwyer, Jane White Lewis, Fred Olson and Dierdre Barrett. You may also contact some of the Soviets as well; many of them asked me to share their addresses, as they are eager to make connections with Westerners interested in dreams. (See pg. 32).</p>
+<p>I am sure that everyone who attended the conference has different thoughts, feelings and dreams about what went on-all this is nothing more than my own very personal reactions to an incredibly powerful experience. If you want to share others' perspectives, you may want to contact others who attended, like Rita Dwyer, Jane White Lewis, Fred Olson and <a href="../@deirdrebarrett">Deirdre Barrett</a>. You may also contact some of the Soviets as well; many of them asked me to share their addresses, as they are eager to make connections with Westerners interested in dreams. (See pg. 32).</p>
 
 <p>If I took any lesson away from the "Dreaming in Russia" conference, it is this: an idea, shared with the right person at the right time, can create amazingly wonderful, positive, life-affirming effects. Thete are many Soviet people (or, to be more accurate, ex-Soviet people) who are hungering for ideas about dreams - for letters, stories, articles, books, anything we in the West can provide. They have survived a cultural dark age and are now joyously entering a new era of hope and vitality. Each of us can join them in that exciting journey simply by sharing our dreams with them.</p>
 """^^xsd:string ;
@@ -11526,6 +11599,7 @@ ns1:bcpov6rcommi a ns1:Post ;
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3mcle ;
     ns1:hasTag ns1:bcphbq3mcle,
+        ns1:bcphbqfmbar,
         ns1:bcphbuzcgu3 ;
     ns1:hasTopic ns1:bcpovcretdb ;
     ns1:inIssue ns1:bcphbuzcgu3 ;
@@ -21288,7 +21362,7 @@ ns1:bcpoz1jotrtm a ns1:Post ;
 
 <h3>Discussion</h3>
 
-<p>Western psychotherapists often are called upon to treat patients with belief systems considerably different from their own. Ethnic minorities often harbor explanations of their sicknesses that are quite different than those put forward by a psychological therapist or psychiatrist. For example, post-traumatic nightmares nearly two years after the Iraqi invasion of Kuwait were recorded by one team (Barrett &amp; Behbehani, 2003). Children interviewed by the team were even more likely to report repetitive nightmares (p. 139).</p>
+<p>Western psychotherapists often are called upon to treat patients with belief systems considerably different from their own. Ethnic minorities often harbor explanations of their sicknesses that are quite different than those put forward by a psychological therapist or psychiatrist. For example, post-traumatic nightmares nearly two years after the Iraqi invasion of Kuwait were recorded by one team (<a href="../@deirdrebarrett">Barrett</a> &amp; Behbehani, 2003). Children interviewed by the team were even more likely to report repetitive nightmares (p. 139).</p>
 
 <p>In a world that is becoming increasingly multi-cultural, it is important that therapists become acquainted with the mythologies that their patients bring along to the therapy session. Furthermore, there are interesting parallels between the appearance and behavior of the jinns and those of goblins, leprechauns, and UFO aliens.</p>
 
@@ -24024,6 +24098,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "debbiejoffeellis.com"^^xsd:string ;
     ns1:url "http://www.debbiejoffeellis.com/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#http://www.deirdrebarrett.com/> a ns1:Website ;
+    ns1:name "Personal Website"^^xsd:string ;
+    ns1:url "http://www.deirdrebarrett.com/"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#http://www.dreamlynx.com/linton.html> a ns1:Website ;
     ns1:name "DreamLynx"^^xsd:string ;
     ns1:url "http://www.dreamlynx.com/linton.html"^^xsd:string .
@@ -24127,6 +24205,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://edenenergymedicine.com/about-us/david-feinstein/> a ns1:Website ;
     ns1:name "edenenergymedicine.com"^^xsd:string ;
     ns1:url "https://edenenergymedicine.com/about-us/david-feinstein/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://en.wikipedia.org/wiki/Deirdre_Barrett> a ns1:Website ;
+    ns1:name "Wikipedia"^^xsd:string ;
+    ns1:url "https://en.wikipedia.org/wiki/Deirdre_Barrett"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://en.wikipedia.org/wiki/Stanley_Krippner> a ns1:Website ;
     ns1:name "Wikipedia"^^xsd:string ;
@@ -26305,6 +26387,28 @@ ns1:bcphbqerish a ns1:User ;
     ns1:name "Suzanna Hart"^^xsd:string ;
     ns1:profileImg "author-suzannahart.jpg"^^xsd:string .
 
+ns1:bcphbqfmbar a ns1:User ;
+    owl:sameAs "http://www.deirdrebarrett.com/"^^xsd:string,
+        "https://en.wikipedia.org/wiki/Deirdre_Barrett"^^xsd:string ;
+    ns1:coverImg "barrett_stranger.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.deirdrebarrett.com/">deirdrebarrett.com</a></p>
+
+<p>Deirdre Barrett, Ph.D. is a professor of psychology at Harvard Medical School, Past President of IASD, and Editor-in-Chief of <em>Dreaming: The Journal of the Association for the Study of Dreams.</em> She has served as Program Chair of a number of IASD's annual conferences. Barrett uses dreams in her own self-exploration, in work with psychotherapy clients, and in psychology research. She has taught courses on dreams at American universities and lectured about them in Russia, Kuwait, Israel, England, Holland and more.</p>
+
+<p>She has published articles in academic publications such as <em>Dreaming</em> and popular magazines such as <em>Psychology Today</em> on creative dreams, lucid dreaming, post traumatic dreams, and on her major interest - hypnotherapy.</p>
+
+<p>She is the author of <a href="../bcpov6rcommi/book-review-the-committee-of-sleep-deirdre-barrett"><em>The Committee of Sleep: How Artists, Scientists, and Athletes Use their Dreams for Creative Problem Solving—and How You Can Too</em></a>, <em>Pandemic Dreams</em>, <em>Supernormal Stimuli: How Primal Urges Overran Their Evolutionary Purpose</em>, and <em>The Pregnant Man: And Other Cases from a Hypnotherapist's Couch</em>. She has also edited the volume <a href="bcpov1modtad/trauma-and-dreams-barrett-review"><em>Trauma and Dreams</em></a>. She is also a practicing artist.</p>
+
+<p><em>Cover image: 'Stranger' by Deirdre Barrett. Profile image: Still from <a href="https://www.youtube.com/watch?v=ukucMcZBVxA">'Deirdre Barrett - New Science of Dreaming'</a>, interviewed by Robert Lawrence Kuhn.</em></p>
+"""^^xsd:string ;
+    ns1:handle "deirdrebarrett"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.deirdrebarrett.com/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://en.wikipedia.org/wiki/Deirdre_Barrett> ;
+    ns1:itemId "bcphbqfmbar"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Deirdre Barrett"^^xsd:string ;
+    ns1:profileImg "author-deirdre-barrett.jpg"^^xsd:string .
+
 ns1:bcphbqhutch a ns1:User ;
     owl:sameAs "http://www.dreamlynx.com/linton.html"^^xsd:string ;
     ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;
@@ -28203,27 +28307,6 @@ ns1:bcphbzdzrug a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "30.4"^^xsd:string .
 
-ns1:bcpov6zfsra a ns1:Post ;
-    ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p>
-
-<p>The Coat of Many Colors was a co-creation of John Van Daam, <a href="../@jeremytaylor">Jeremy Taylor</a> and Kathryn Taylor at the Dream Tree Press, and published in cooperation with the Dream Network Bulletin. It received contributions by many writers and artists who went on to dedicate their lives to the field of dreamwork and dream research, and many became well-known in the field if they were not already at the time. </p>
-
-<p>The Coat of Many Colors was intended as a snapshot of the dream movement at a time when it was just beginning to form a cohesive voice and self-awareness, and at the same time to foster this sense of collective purpose. </p>
-
-<p>The Dream Tree Press itself was a huge crank-driven machine in the basement of the Taylors' house, and Jeremy's daughter <a href="https://createwithspirit.wpcomstaging.com/">Tristy</a> remembers as a child collating pages and stapling booklets together. This publication is made available here with the kind permission of John van Daam (also known as John van Damm) and Tristy Taylor. </p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj,
-        ns1:bcphbqawtay ;
-    ns1:hasTag ns1:bcphbqawtay,
-        ns1:bcpov6pspec ;
-    ns1:itemId "bcpov6zfsra"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Coat of Many Colors"^^xsd:string ;
-    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
-    ns1:urlSlug "coat-of-many-colors"^^xsd:string .
-
 ns1:bcpqn7zvpei a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_1.zip" download>Volume 1 (.zip file, 11mb)</a></p>
 """^^xsd:string ;
@@ -28442,6 +28525,27 @@ ns1:bcphbygiw4g a ns1:Post ;
     ns1:name "Volume 28, issue 2: The Art of Dream Sharing"^^xsd:string ;
     ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.2-3"^^xsd:string .
+
+ns1:bcpov6zfsra a ns1:Post ;
+    ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p>
+
+<p>The Coat of Many Colors was a co-creation of John Van Daam, <a href="../@jeremytaylor">Jeremy Taylor</a> and Kathryn Taylor at the Dream Tree Press, and published in cooperation with the Dream Network Bulletin. It received contributions by many writers and artists who went on to dedicate their lives to the field of dreamwork and dream research, and many became well-known in the field if they were not already at the time. </p>
+
+<p>The Coat of Many Colors was intended as a snapshot of the dream movement at a time when it was just beginning to form a cohesive voice and self-awareness, and at the same time to foster this sense of collective purpose. </p>
+
+<p>The Dream Tree Press itself was a huge crank-driven machine in the basement of the Taylors' house, and Jeremy's daughter <a href="https://createwithspirit.wpcomstaging.com/">Tristy</a> remembers as a child collating pages and stapling booklets together. This publication is made available here with the kind permission of John van Daam (also known as John van Damm) and Tristy Taylor. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj,
+        ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbqawtay,
+        ns1:bcpov6pspec ;
+    ns1:itemId "bcpov6zfsra"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Coat of Many Colors"^^xsd:string ;
+    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "coat-of-many-colors"^^xsd:string .
 
 ns1:bcpqn72unjj a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>

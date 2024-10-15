@@ -6,6 +6,7 @@ name: "Book Review: Trauma and Dreams edited by Deirdre Barrett"
 tags:
     - hasTag: kimbirdsong
     - hasAuthor: kimbirdsong
+    - hasTag: deirdrebarrett
     - hasTag: 25.3
     - inIssue: 25.3
     - hasTopic: topic~dream-books

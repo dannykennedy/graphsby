@@ -6,6 +6,7 @@ name: "Book Review: The Committee of Sleep by Deirdre Barrett"
 tags:
     - hasTag: dickmcleester
     - hasAuthor: dickmcleester
+    - hasTag: deirdrebarrett
     - hasTag: 20.4
     - inIssue: 20.4
     - hasTopic: topic~dream-books

@@ -38,7 +38,7 @@ An acquaintance of mine once told me that each morning her dream summarized itse
 > _But now, O sweet-spoken Muses of Olympos, daughters of Zeus of the aegis, sing out the generation of women. Like her... or like her... or like her who..._
 
 1. Hesiod. _Works and Days, Theogony, The Shield of Herakles_. "Works and Days." Trans. Richmond Lattimore. University of Michigan Press: Ann Arbor, 1991, (1-3)
-2. Barrett, Deirdre. [The Committee of Sleep](../bcpov6rcommi/book-review-the-committee-of-sleep-deirdre-barrett). Crown Publishers: NY, 2001. (pp. 66-74)
+2. [Barrett, Deirdre](../@deirdrebarrett). [The Committee of Sleep](../bcpov6rcommi/book-review-the-committee-of-sleep-deirdre-barrett). Crown Publishers: NY, 2001. (pp. 66-74)
 3. Ibid (pp. 75)
 4. Hesiod. "Theogony" (97-102)
 5. Ibid, (1021-3)

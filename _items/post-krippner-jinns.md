@@ -122,7 +122,7 @@ Mubarak includes dream work in his repertoire of skills, describing two types of
 
 ### Discussion
 
-Western psychotherapists often are called upon to treat patients with belief systems considerably different from their own. Ethnic minorities often harbor explanations of their sicknesses that are quite different than those put forward by a psychological therapist or psychiatrist. For example, post-traumatic nightmares nearly two years after the Iraqi invasion of Kuwait were recorded by one team (Barrett & Behbehani, 2003). Children interviewed by the team were even more likely to report repetitive nightmares (p. 139).
+Western psychotherapists often are called upon to treat patients with belief systems considerably different from their own. Ethnic minorities often harbor explanations of their sicknesses that are quite different than those put forward by a psychological therapist or psychiatrist. For example, post-traumatic nightmares nearly two years after the Iraqi invasion of Kuwait were recorded by one team ([Barrett](../@deirdrebarrett) & Behbehani, 2003). Children interviewed by the team were even more likely to report repetitive nightmares (p. 139).
 
 In a world that is becoming increasingly multi-cultural, it is important that therapists become acquainted with the mythologies that their patients bring along to the therapy session. Furthermore, there are interesting parallels between the appearance and behavior of the jinns and those of goblins, leprechauns, and UFO aliens.
 

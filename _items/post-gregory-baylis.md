@@ -6,6 +6,7 @@ name: "Translator of Dream Slanguage: An Interview with Janice Baylis"
 tags:
     - hasTag: jillgregory
     - hasAuthor: jillgregory
+    - hasTag: janicebaylis
     - hasTag: 7.5
     - inIssue: 7.5
     - hasTopic: topic~dream-interviews
@@ -16,7 +17,7 @@ profileImg: gregory-baylis-0.jpg
 
 <img src="../images/gregory-baylis-0.jpg" width="400" height="auto" alt="Janice Baylis"/>
 
-The Association for the Study of Dreams Conference in Santa Cruz this past June provided me with a golden opportunity to meet several dreamworkers whose writings have impressed me. Janice Baylis was one. Her two books, [_Dream Dynamics and Decoding: An Interpretation Manual_ (1976)](https://www.goodreads.com/book/show/13010748-dream-dynamics-and-decoding) and [_Sleep on It! The Practical Side of Dreaming_ (1977)](https://www.goodreads.com/book/show/2008295.Sleep_on_it_The_Practical_Side_of_Dreaming), published by her own Sun, Man, Moon, Inc. are excellent, easy-to-read guides for understanding dreams. In addition to being very grounded and articulate as a dreamworker, I found her to be soft-spoken, warm-hearted, quick-witted and utterly delightful.
+The Association for the Study of Dreams Conference in Santa Cruz this past June provided me with a golden opportunity to meet several dreamworkers whose writings have impressed me. [Janice Baylis](../@janicebaylis) was one. Her two books, [_Dream Dynamics and Decoding: An Interpretation Manual_ (1976)](https://www.goodreads.com/book/show/13010748-dream-dynamics-and-decoding) and [_Sleep on It! The Practical Side of Dreaming_ (1977)](https://www.goodreads.com/book/show/2008295.Sleep_on_it_The_Practical_Side_of_Dreaming), published by her own Sun, Man, Moon, Inc. are excellent, easy-to-read guides for understanding dreams. In addition to being very grounded and articulate as a dreamworker, I found her to be soft-spoken, warm-hearted, quick-witted and utterly delightful.
 
 **_Jill:_** When and how did you become interested in dreams?
 

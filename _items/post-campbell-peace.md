@@ -28,9 +28,9 @@ So I began with the premise that we are all psychic, that being psychic is our n
 
 These were interesting times in the field of dreams, during the 1970s. John Herbert, [Richard Wilkerson](../@henryreed) and others summed some of that history up in articles in the last issue of Dream Network.
 
-On the East Coast, [Dr. Henry Reed](../@henryreed) was publishing his _Sundance Community Dream Journal_ for the Association for Research and Enlightenment (ARE). This journal served the function of bringing dreamers into dialogue. So popular was this quarterly journal that, when the ARE stopped its production, a New Yorker by the name of Bill Stimson decided that something needed to be done to keep the grassroots dream community going. He was so convinced, that he started a small publication of his own, the _Dream Network Bulletin_, which was an immediate precursor of the Dream Network you now hold in your hand.
+On the East Coast, [Dr. Henry Reed](../@henryreed) was publishing his _Sundance Community Dream Journal_ for the Association for Research and Enlightenment (ARE). This journal served the function of bringing dreamers into dialogue. So popular was this quarterly journal that, when the ARE stopped its production, a New Yorker by the name of [Bill Stimson](../@billstimson) decided that something needed to be done to keep the grassroots dream community going. He was so convinced, that he started a small publication of his own, the _Dream Network Bulletin_, which was an immediate precursor of the Dream Network you now hold in your hand.
 
-The staff of Posiedia Institute was involved in these events, with other editors of the DNB, Suzanne Keyes, and Linda Magallon. We were all volunteers in a project we called _‘Dreams to the Tenth Power’_, a group dreaming experiment.
+The staff of Posiedia Institute was involved in these events, with other editors of the DNB, Suzanne Keyes, and [Linda Magallón](../@caseyflyer). We were all volunteers in a project we called _‘Dreams to the Tenth Power’_, a group dreaming experiment.
 
 At the same time Henry was publishing the _Sundance Community Dream Journal_, he was also conducting his _Dream Helper_ experiments, a process he had devised for getting people incubate dreams to help another dreamer.
 
@@ -48,7 +48,7 @@ It was out of this background then that I returned in 1996 to The Association fo
 
 So how does all of that bring us to the World Dreams Peace Bridge?
 
-The period between 1985 and 1995 was very important to the study of dreams. In California, [Linda Magallon](../@caseyflyer) continued the study of mutual and group dreams, finally resulting in her book, _Mutual Dreaming_, published by Simon & Schuster in 1997. Interest in dream lucidity continued to grow, supported by activities like Ruth Sacksteder’s Lucid Dream Exchange.
+The period between 1985 and 1995 was very important to the study of dreams. In California, [Linda Magallón](../@caseyflyer) continued the study of mutual and group dreams, finally resulting in her book, _Mutual Dreaming_, published by Simon & Schuster in 1997. Interest in dream lucidity continued to grow, supported by activities like Ruth Sacksteder’s Lucid Dream Exchange.
 
 Although there continued to be an interest in both interpretive dreamwork and theoretical dream research, dreamers were also becoming interested in such things as [Dr. Stanley Krippner’s](../@stanleykrippner) ongoing research into Shamanic dream practices around the world, and the work of Australian author, [Robert Moss](../@robertmoss). These researchers and others were talking about the important role dreaming has played in world cultures, apart from the more scientific models of Western culture.
 

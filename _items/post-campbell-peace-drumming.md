@@ -59,7 +59,7 @@ In Noe Valley, California, Jill Pierce led free drumming classes for children al
 
 In the high Sierras in California, members of the Rainbow Medicine Blanket Council made ceremony with the World Drum, which began last year in Norway and has been traveling to drum circles around the world to drum Jean Campbell from the World Dreams Peace Bridge calls people to the drumming circle with one of 40 drums donated by UpBeat Drum Circles in Los Angeles, to be given away on the Mall. for peace. The World Drum came via Hawaii, and was traveling to PA.
 
-Drum Dance and Dream for Peace had the magical feeling of dreams, a place in which anything can happen. At Bridgewater State College in Massachusetts, Professor Curt Hoffman who’d met with a small group of drummers at the sacred site which was the site of the solstice drumming circle at the 2006 IASD Conference, was surprised when they were joined in drumming for the children by an entire Physical Education class, out for a hike.
+Drum Dance and Dream for Peace had the magical feeling of dreams, a place in which anything can happen. At Bridgewater State College in Massachusetts, Professor [Curt Hoffman](../curtisshoffman) who’d met with a small group of drummers at the sacred site which was the site of the solstice drumming circle at the 2006 IASD Conference, was surprised when they were joined in drumming for the children by an entire Physical Education class, out for a hike.
 
 In the one day of Drum Dance and Dream for Peace, donations to the 1,000 Drums Project, funds being collected for the refugee children of Iraq, doubled. One night, shortly after the photographs from Drum Dance and Dream for Peace were put up on the World Dreams web site, I had the following dream:
 

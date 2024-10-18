@@ -42,4 +42,4 @@ Stanley, I am ever so grateful to you for being my mentor, colleague and friend.
 
 <hr>
 
-_Note: I want to thank Roberta Ossana for inviting me to write this personal essay about Stan Krippner._
+_Note: I want to thank [Roberta Ossana](../@robertaossana) for inviting me to write this personal essay about Stan Krippner._

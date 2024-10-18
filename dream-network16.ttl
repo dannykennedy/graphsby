@@ -5013,7 +5013,7 @@ ns1:bcpov6gregi2 a ns1:Post ;
 
 <p><strong>Linda:</strong> Was it then that you started to become more aware of the larger dream community?</p>
 
-<p><strong>Jill:</strong> Somehow my confidence, probably through dreaming and a lot of other things, was raised enough that I went to the 1985 ASD conference as a panel presenter at the lucid dreaming symposium. Fred Olsen and I met at the conference and through him I apprenticed in reentry and reimaging and attended the first meeting of the San Francisco Bay Area Professional Dreamworkers' Group.</p>
+<p><strong>Jill:</strong> Somehow my confidence, probably through dreaming and a lot of other things, was raised enough that I went to the 1985 ASD conference as a panel presenter at the lucid dreaming symposium. <a href="../@fredolsen">Fred Olsen</a> and I met at the conference and through him I apprenticed in reentry and reimaging and attended the first meeting of the San Francisco Bay Area Professional Dreamworkers' Group.</p>
 
 <p>That group gave me the idea that a career in dreams was possible and that, with the support of the network, I could do it. So I opened the Novato Center for Dreams (NCD) in January of this past year and launched an official professional dreamwork career including interviewing for <em>Dream Network Bulletin.</em></p>
 
@@ -10528,7 +10528,7 @@ ns1:bcpov6magai2 a ns1:Post ;
     ns1:dateCreated "1986-11-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><strong>Jill:</strong> Linda, would you describe for me what it is that you do with dreams?</p>
 
-<p><strong>Linda:</strong> I do dreamwork with individuals, teach and give presentations at bookstores, community college, conferences and at the Dream House in San Francisco, and write articles and columns for dream-related publications. I have been involved in several networking activities such as the "Bay Area Professional Dreamworkers Group" (which Fred Olsen and I co-founded); the "Seth Dream Network" (for which I served as coordinator); the "Association for the Study of Dreams (as membership chairperson); and as a co-chairperson for the "Dream Educators' Network". Also, for the past three years, I have facilitated an international lucid group dreaming experiment called "The Lucidity Project".</p>
+<p><strong>Linda:</strong> I do dreamwork with individuals, teach and give presentations at bookstores, community college, conferences and at the Dream House in San Francisco, and write articles and columns for dream-related publications. I have been involved in several networking activities such as the "Bay Area Professional Dreamworkers Group" (which <a href="../@fredolsen">Fred Olsen</a> and I co-founded); the "Seth Dream Network" (for which I served as coordinator); the "Association for the Study of Dreams (as membership chairperson); and as a co-chairperson for the "Dream Educators' Network". Also, for the past three years, I have facilitated an international lucid group dreaming experiment called "The Lucidity Project".</p>
 
 <p><img src="../images/post-bcpov6magai2-0.jpg" width="200" height="auto" alt="Linda Magallon"/></p>
 
@@ -11275,7 +11275,7 @@ ns1:bcpov6mtheat a ns1:Post ;
 
 <p>Elenna Rubin Goodman, a community builder, had come to the class from Oakland California. The class served her deep desire “ to bring together community, sacred space and the ritual embodiment of dreams/dream theater.” And we were grateful that we could serve both the students and others seeking new ways of serving community that include validating inner life experience.</p>
 
-<p>Three texts informed the class: <em>Black Elk Speaks</em>, by John Neihardt, <em>Healing Dreams: Exploring the Dreams That Can Transform Your Life</em> by Marc Ian Barasch, and <em>The Practice of Dream Healing: Bringing Ancient Greek Mysteries into Modern Medicine</em> by Edward Tick and Stephen Larsen. Each text speaks to the ways dream inform and heal culture as well as bringing wisdom and insight to individuals for their lives. So many of the dreams that the students brought into our circle were unexpectedly revealed to be vehicles for connection, community and cultural restoration. Entering and living within a dreaming culture is an essential antidote to totalitarian and fundamentalist thought. This is iterated by Paco Mitchell in the Winter Solstice 2013 issue of Dream Network Journal, an essay that we shared in class: “…dreams are such bastions of freedom.”</p>
+<p>Three texts informed the class: <em>Black Elk Speaks</em>, by John Neihardt, <em>Healing Dreams: Exploring the Dreams That Can Transform Your Life</em> by Marc Ian Barasch, and <em>The Practice of Dream Healing: Bringing Ancient Greek Mysteries into Modern Medicine</em> by Edward Tick and Stephen Larsen. Each text speaks to the ways dream inform and heal culture as well as bringing wisdom and insight to individuals for their lives. So many of the dreams that the students brought into our circle were unexpectedly revealed to be vehicles for connection, community and cultural restoration. Entering and living within a dreaming culture is an essential antidote to totalitarian and fundamentalist thought. This is iterated by <a href="../@paco">Paco Mitchell</a> in the Winter Solstice 2013 issue of Dream Network Journal, an essay that we shared in class: “…dreams are such bastions of freedom.”</p>
 
 <p>The class was not <em>about</em> creating a dream theater; rather, our intention was to facsimilate the experience of dream theater troupes and dreaming communities. We had started out suggesting that the students imagine that they were a dream troupe or a dreaming community; within days the imagined manifested. We learned swiftly that understanding self through exploring and performing dreams is also a means to establishing communal identity while emphasizing the wild freedom and uniqueness at the core of the creative process. Some of the students may go on to use dreams in their creative work. All of them, I am certain—whether as physicians or private eyes, (two examples of the students’ present vocational goals)—will use dreams as part of their future work in the world.</p>
 
@@ -12201,7 +12201,7 @@ ns1:bcpov6rsnaic a ns1:Post ;
     ns1:dateCreated "2014-01-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>The exploration of how our dreams help us connect with favorable solutions to the challenges of waking life is a central task of dream work. A helpful place to begin or continue such a quest is to look at the dreams that most disturb us. Why? Not because we ought to over-emphasize what feels difficult or that we want to deny the delights to be found in the beauty, joy and pleasure of our dreams or waking lives. Rather, we may tend to want to sidestep the many rough-edged images, scenarios and circumstances that we find in our thorny dream experiences and amid the obstacles of daily life. When we can face “all that is,” our experience opens us up to a more robust, fulfilling sense of being alive.</p>
 
-<p>My mind and heart are deeply encouraged when I read Paco Mitchell’s beseeching commentary from the Winter 2013 issue of DNJ, in which I perceive him to be making an invitation for honoring what I’ll call the trials present in dreams. His words ring out as a call to engagement, “We must be willing to stare into the face of troubling, even intolerable, images… This truth-telling aspect of dreams, their ‘negativity’ is what makes them regenerative engines of salvation and conveyors of divine wisdom.”<sup>1</sup></p>
+<p>My mind and heart are deeply encouraged when I read <a href="../@paco">Paco Mitchell’s</a> beseeching commentary from the Winter 2013 issue of DNJ, in which I perceive him to be making an invitation for honoring what I’ll call the trials present in dreams. His words ring out as a call to engagement, “We must be willing to stare into the face of troubling, even intolerable, images… This truth-telling aspect of dreams, their ‘negativity’ is what makes them regenerative engines of salvation and conveyors of divine wisdom.”<sup>1</sup></p>
 
 <p>Not long ago, I was invited to speak about working with dreams and sound healing on a radio program, which seeks to honor the intellect in relation to spiritual disciplines. The interviewers asked how I got into doing dream work as a profession. A dream from childhood stirred to the surface and I shared this early experience as an example of a vision that bespeaks elements of a vocational mission.</p>
 
@@ -15689,7 +15689,7 @@ ns1:bcpov6zfbost a ns1:Post ;
 
 <hr>
 
-<p><em>Note: I want to thank Roberta Ossana for inviting me to write this personal essay about Stan Krippner.</em></p>
+<p><em>Note: I want to thank <a href="../@robertaossana">Roberta Ossana</a> for inviting me to write this personal essay about Stan Krippner.</em></p>
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbq3bogz ;
     ns1:hasTag ns1:bcphbq3bogz,
@@ -15852,7 +15852,7 @@ ns1:bcpov6zfcybr a ns1:Post ;
 
 <p>In the last year, two more dream related Usenet groups have appeared. The first is alt.dreams.lucid, a discussion board just for lucid dreaming issues, and alt.dreams.Castaneda, which discusses all of the Castaneda issues, but seems most invigorated by the variations on lucid dreaming that are being practiced. Other newsgroups such as alt.psychology.Jung and talk.religion.new age will occasionally discuss dreams in light of their own particular viewpoints.</p>
 
-<p>A spin-off of the newsgroups are the real time internet Relay Chat channels. On the IRC channels you can enter one of hundreds of ongoing real time discussions, simply by typing in a sentence or two and sending it to a screen where others in the room are also sending sentences. Or you can create you own rooms, invite your friends or associates or wait for visitors. Complex interactions and threads can take place but generally the quality is usually lower than on Usenet. There are exceptions. These Chat rooms are also available on most commercial online servers and Fred Olsen has been doing dream reentry work on both Genie and AOL. His directed questions style works quite well in this real time mode. Another notable exception is the Dream Studio, which Donna Campos opens on Mondays nights at 6:00 PM EST on Compuserve. She invites a different guest each week to discuss a variety of dream topics. The key to these chat channels seems to be having a host or guiding moderator.</p>
+<p>A spin-off of the newsgroups are the real time internet Relay Chat channels. On the IRC channels you can enter one of hundreds of ongoing real time discussions, simply by typing in a sentence or two and sending it to a screen where others in the room are also sending sentences. Or you can create you own rooms, invite your friends or associates or wait for visitors. Complex interactions and threads can take place but generally the quality is usually lower than on Usenet. There are exceptions. These Chat rooms are also available on most commercial online servers and <a href="../@fredolsen">Fred Olsen</a> has been doing dream reentry work on both Genie and AOL. His directed questions style works quite well in this real time mode. Another notable exception is the Dream Studio, which Donna Campos opens on Mondays nights at 6:00 PM EST on Compuserve. She invites a different guest each week to discuss a variety of dream topics. The key to these chat channels seems to be having a host or guiding moderator.</p>
 
 <h2>The World Wide Web (WWW): Internet Gets a Friendly Face</h2>
 
@@ -16207,7 +16207,7 @@ ns1:bcpov6zfdrum a ns1:Post ;
 
 <p>In the high Sierras in California, members of the Rainbow Medicine Blanket Council made ceremony with the World Drum, which began last year in Norway and has been traveling to drum circles around the world to drum Jean Campbell from the World Dreams Peace Bridge calls people to the drumming circle with one of 40 drums donated by UpBeat Drum Circles in Los Angeles, to be given away on the Mall. for peace. The World Drum came via Hawaii, and was traveling to PA.</p>
 
-<p>Drum Dance and Dream for Peace had the magical feeling of dreams, a place in which anything can happen. At Bridgewater State College in Massachusetts, Professor Curt Hoffman who’d met with a small group of drummers at the sacred site which was the site of the solstice drumming circle at the 2006 IASD Conference, was surprised when they were joined in drumming for the children by an entire Physical Education class, out for a hike.</p>
+<p>Drum Dance and Dream for Peace had the magical feeling of dreams, a place in which anything can happen. At Bridgewater State College in Massachusetts, Professor <a href="../curtisshoffman">Curt Hoffman</a> who’d met with a small group of drummers at the sacred site which was the site of the solstice drumming circle at the 2006 IASD Conference, was surprised when they were joined in drumming for the children by an entire Physical Education class, out for a hike.</p>
 
 <p>In the one day of Drum Dance and Dream for Peace, donations to the 1,000 Drums Project, funds being collected for the refugee children of Iraq, doubled. One night, shortly after the photographs from Drum Dance and Dream for Peace were put up on the World Dreams web site, I had the following dream:</p>
 
@@ -16257,7 +16257,7 @@ ns1:bcpov6zfexpl a ns1:Post ;
 
 <p>Now I want to talk about what I know of the history of the Dream Network. There are many details that I don't know. I was fortunate to be able to make contact with most of the previous editors and get statements from them and I'll be sharing those. But, in essence, I do know that the publication was started with an intention to bring dreams back to dreamers, to acknowledge the fact that we've learned that we all dream every night, and that we have a right to learn, to understand, the symbolic and metaphoric language of dreams. It was begun in the spirit of being a grassroots publication and it's remained that way over the past 14+ years. And it couldn't have happened without, as Will said, the dedication and effort that so many people have put into it over the years. At this point, if we could have the house lights out, we'd like to show a few slides to show the evolution of the publication over the years.</p>
 
-<p>Dream Network was begun in January 1982 by a very fiery and compassionate young man by the name of Bill Stimson. And I'd like to read... That's his picture there and that's the first issue of Dream Network. And, in that issue he published an article that he wrote called, "Armed with our Dreams." I'd like to read just the last paragraph of that article:</p>
+<p>Dream Network was begun in January 1982 by a very fiery and compassionate young man by the name of <a href="../@billstimson">Bill Stimson</a>. And I'd like to read... That's his picture there and that's the first issue of Dream Network. And, in that issue he published an article that he wrote called, "Armed with our Dreams." I'd like to read just the last paragraph of that article:</p>
 
 <p>"Armed with our dreams, we have a weapon that can turn this society upside down by turning our lives around. The greatest battles waged throughout history have been within the souls of a few brave men and women. To work with dreams in the deepest sense is to be a leader in the revolution of human consciousness."</p>
 
@@ -17260,9 +17260,9 @@ ns1:bcpov6zfpeac a ns1:Post ;
 
 <p>These were interesting times in the field of dreams, during the 1970s. John Herbert, <a href="../@henryreed">Richard Wilkerson</a> and others summed some of that history up in articles in the last issue of Dream Network.</p>
 
-<p>On the East Coast, <a href="../@henryreed">Dr. Henry Reed</a> was publishing his <em>Sundance Community Dream Journal</em> for the Association for Research and Enlightenment (ARE). This journal served the function of bringing dreamers into dialogue. So popular was this quarterly journal that, when the ARE stopped its production, a New Yorker by the name of Bill Stimson decided that something needed to be done to keep the grassroots dream community going. He was so convinced, that he started a small publication of his own, the <em>Dream Network Bulletin</em>, which was an immediate precursor of the Dream Network you now hold in your hand.</p>
+<p>On the East Coast, <a href="../@henryreed">Dr. Henry Reed</a> was publishing his <em>Sundance Community Dream Journal</em> for the Association for Research and Enlightenment (ARE). This journal served the function of bringing dreamers into dialogue. So popular was this quarterly journal that, when the ARE stopped its production, a New Yorker by the name of <a href="../@billstimson">Bill Stimson</a> decided that something needed to be done to keep the grassroots dream community going. He was so convinced, that he started a small publication of his own, the <em>Dream Network Bulletin</em>, which was an immediate precursor of the Dream Network you now hold in your hand.</p>
 
-<p>The staff of Posiedia Institute was involved in these events, with other editors of the DNB, Suzanne Keyes, and Linda Magallon. We were all volunteers in a project we called <em>‘Dreams to the Tenth Power’</em>, a group dreaming experiment.</p>
+<p>The staff of Posiedia Institute was involved in these events, with other editors of the DNB, Suzanne Keyes, and <a href="../@caseyflyer">Linda Magallón</a>. We were all volunteers in a project we called <em>‘Dreams to the Tenth Power’</em>, a group dreaming experiment.</p>
 
 <p>At the same time Henry was publishing the <em>Sundance Community Dream Journal</em>, he was also conducting his <em>Dream Helper</em> experiments, a process he had devised for getting people incubate dreams to help another dreamer.</p>
 
@@ -17280,7 +17280,7 @@ ns1:bcpov6zfpeac a ns1:Post ;
 
 <p>So how does all of that bring us to the World Dreams Peace Bridge?</p>
 
-<p>The period between 1985 and 1995 was very important to the study of dreams. In California, <a href="../@caseyflyer">Linda Magallon</a> continued the study of mutual and group dreams, finally resulting in her book, <em>Mutual Dreaming</em>, published by Simon &amp; Schuster in 1997. Interest in dream lucidity continued to grow, supported by activities like Ruth Sacksteder’s Lucid Dream Exchange.</p>
+<p>The period between 1985 and 1995 was very important to the study of dreams. In California, <a href="../@caseyflyer">Linda Magallón</a> continued the study of mutual and group dreams, finally resulting in her book, <em>Mutual Dreaming</em>, published by Simon &amp; Schuster in 1997. Interest in dream lucidity continued to grow, supported by activities like Ruth Sacksteder’s Lucid Dream Exchange.</p>
 
 <p>Although there continued to be an interest in both interpretive dreamwork and theoretical dream research, dreamers were also becoming interested in such things as <a href="../@stanleykrippner">Dr. Stanley Krippner’s</a> ongoing research into Shamanic dream practices around the world, and the work of Australian author, <a href="../@robertmoss">Robert Moss</a>. These researchers and others were talking about the important role dreaming has played in world cultures, apart from the more scientific models of Western culture.</p>
 
@@ -17915,7 +17915,7 @@ ns1:bcpov6zhoffr a ns1:Post ;
 
 <p></a></p>
 
-<p><!--nopreview--><div style="text-align:center"><i>Weaving Dreams into the Classroom Practical Ideas for Teaching about Dreams and Dreaming at Every Grade Level, including Adult Education by Curtiss Hoffman &amp; Jacquie Lewis (editors), <a href="http://www.brownwalker.com/book/1612337260">Brown Walker</a>, Inc, 2014, 184 pp.</i></div><!--/nopreview--></p>
+<p><!--nopreview--><div style="text-align:center"><i>Weaving Dreams into the Classroom Practical Ideas for Teaching about Dreams and Dreaming at Every Grade Level, including Adult Education by <a href="../curtisshoffman">Curtiss Hoffman</a> &amp; Jacquie Lewis (editors), <a href="http://www.brownwalker.com/book/1612337260">Brown Walker</a>, Inc, 2014, 184 pp.</i></div><!--/nopreview--></p>
 
 <p><em>Weaving Dreams into the Classroom</em> was conceived during a symposium presented at the 27th annual Conference of the International Association for the Study of Dreams (IASD) in 2010, where the theme of Dreams in Educational Environments was heavily emphasized and supported.</p>
 
@@ -23435,7 +23435,7 @@ ns1:bcppz4gitods a ns1:Post ;
     ns1:dateCreated "1988-09-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/gregory-baylis-0.jpg" width="400" height="auto" alt="Janice Baylis"/></p>
 
-<p>The Association for the Study of Dreams Conference in Santa Cruz this past June provided me with a golden opportunity to meet several dreamworkers whose writings have impressed me. Janice Baylis was one. Her two books, <a href="https://www.goodreads.com/book/show/13010748-dream-dynamics-and-decoding"><em>Dream Dynamics and Decoding: An Interpretation Manual</em> (1976)</a> and <a href="https://www.goodreads.com/book/show/2008295.Sleep_on_it_The_Practical_Side_of_Dreaming"><em>Sleep on It! The Practical Side of Dreaming</em> (1977)</a>, published by her own Sun, Man, Moon, Inc. are excellent, easy-to-read guides for understanding dreams. In addition to being very grounded and articulate as a dreamworker, I found her to be soft-spoken, warm-hearted, quick-witted and utterly delightful.</p>
+<p>The Association for the Study of Dreams Conference in Santa Cruz this past June provided me with a golden opportunity to meet several dreamworkers whose writings have impressed me. <a href="../@janicebaylis">Janice Baylis</a> was one. Her two books, <a href="https://www.goodreads.com/book/show/13010748-dream-dynamics-and-decoding"><em>Dream Dynamics and Decoding: An Interpretation Manual</em> (1976)</a> and <a href="https://www.goodreads.com/book/show/2008295.Sleep_on_it_The_Practical_Side_of_Dreaming"><em>Sleep on It! The Practical Side of Dreaming</em> (1977)</a>, published by her own Sun, Man, Moon, Inc. are excellent, easy-to-read guides for understanding dreams. In addition to being very grounded and articulate as a dreamworker, I found her to be soft-spoken, warm-hearted, quick-witted and utterly delightful.</p>
 
 <p><strong><em>Jill:</em></strong> When and how did you become interested in dreams?</p>
 
@@ -23489,6 +23489,7 @@ ns1:bcppz4gitods a ns1:Post ;
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqfgreg ;
     ns1:hasTag ns1:bcphbntd445,
+        ns1:bcphbq3bayl,
         ns1:bcphbqfgreg ;
     ns1:hasTopic ns1:bcpovcrediv ;
     ns1:inIssue ns1:bcphbntd445 ;
@@ -24664,7 +24665,7 @@ ns1:bcphbqerilr a ns1:User ;
 
 ns1:bcphbbhutch a ns1:User ;
     ns1:coverImg "cover-author-lint-hutchinson3.jpg"^^xsd:string ;
-    ns1:description """<p>Beck Hutchinson co-created <a href="http://www.dreamlynx.com/">DreamLynx</a> with her husband Linton Hutchinson, a web site devoted to the translation of dreams. She spends her spare time dancing, drawing, and gardening.</p>
+    ns1:description """<p>Beck Hutchinson co-created <a href="http://www.dreamlynx.com/">DreamLynx</a> with her husband <a href="../@linthutchinson">Linton Hutchinson</a>, a web site devoted to the translation of dreams. She spends her spare time dancing, drawing, and gardening.</p>
 
 <blockquote>
   <p><em>“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”</em> — Albert Einstein</p>
@@ -25301,7 +25302,7 @@ ns1:bcphbqftrow a ns1:User ;
     owl:sameAs "https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html">bobtrowbridge.com</a></p>
 
-<p>Bob was editor of the Dream Network Bulletin alongside Linda Magallón from 1987-1989. He graduated from San Francisco Theological Seminary in 1968 and was ordained as a Presbyterian minister. His ongoing spiritual seeking led him to leave the ministery. Since that time he has studied many spiritual systems and is a perpetual spiritual seeker.</p>
+<p>Bob was editor of the Dream Network Bulletin alongside <a href="../@caseyflyer">Linda Magallón</a> from 1987-1989. He graduated from San Francisco Theological Seminary in 1968 and was ordained as a Presbyterian minister. His ongoing spiritual seeking led him to leave the ministery. Since that time he has studied many spiritual systems and is a perpetual spiritual seeker.</p>
 
 <p>Bob has been a teacher, speaker, workshop leader and spiritual counselor for over 44 years He is a writer and editor. His book, <em>The Hidden Meaning of Illness: Disease as a Symbol and Metaphor</em>, was published by A.R.E. Press in 1996. He has written for Venture Inward, Magical Blend, Body, Mind &amp; Spirit, and many other publications.</p>
 
@@ -27227,25 +27228,6 @@ ns1:bcphbpqyqpo a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "11.1"^^xsd:string .
 
-ns1:bcphbq3bayl a ns1:User ;
-    ns1:description """<p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." <a href="../@stanleykrippner">Stanley Krippner, PhD.</a> Professor of Psychology, Saybrook University</p>
-
-<p>How I, Janice Baylis, got interested in dreams: In 1959 a fellow teacher had major surgery. We set up a car pool where I picked her up in a strip mall parking lot and drove the 30 miles to our school. One morning Mabel phoned and asked me to meet her around the corner on the residential street. She said she didn't like her car taking up space in the store lot all day. I said, "Okay."</p>
-
-<p>As Mabel was getting into my car that morning, we heard an enormous CRASH! A small airplane had landed upside down in the corner of the parking lot where we would have been. Then she told me she had dreamed it during the night. "WOW!" exclaimed my eight year old son, Brad, from the backseat.</p>
-
-<p>That launched me on a life-long, self-directed and academic study of dreams. From the first, the practical side of dreaming has been my focus. The Edgar Cayce dream material was the first I found to study. He also emphasized the practical aspects--health, finances, job, creativity, and interpersonal, as well as the personality growth and spiritual aspects.</p>
-
-<p>With my BA degree in Education and a MA degree in Psychology, I got a credential/license to teach dream-study at the community college level. I taught 36 hour, semester, night classes and weekend workshops. My students urged me to write a book, so I wrote Sleep On It! The Practical Side of Dreaming in 1977.</p>
-
-<p>In my teaching I found many dreams use overt sexual imagery and that people were confused by the symbolism of sexual images. I made this a secondary focus of my dream work.</p>
-"""^^xsd:string ;
-    ns1:handle "janicebaylis"^^xsd:string ;
-    ns1:itemId "bcphbq3bayl"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Janice Baylis"^^xsd:string ;
-    ns1:profileImg "author-janicebaylis.jpg"^^xsd:string .
-
 ns1:bcphbq3dues a ns1:User ;
     owl:sameAs "https://www.livingdreams.life/"^^xsd:string,
         "https://www.yourguidingdreams.com/public/about.htm"^^xsd:string ;
@@ -27683,6 +27665,25 @@ ns1:bcpqoaivzve a ns1:Post ;
     ns1:profileImg "volume-7.jpg"^^xsd:string ;
     ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-7"^^xsd:string .
+
+ns1:bcphbq3bayl a ns1:User ;
+    ns1:description """<p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." <a href="../@stanleykrippner">Stanley Krippner, PhD.</a> Professor of Psychology, Saybrook University</p>
+
+<p>How I, Janice Baylis, got interested in dreams: In 1959 a fellow teacher had major surgery. We set up a car pool where I picked her up in a strip mall parking lot and drove the 30 miles to our school. One morning Mabel phoned and asked me to meet her around the corner on the residential street. She said she didn't like her car taking up space in the store lot all day. I said, "Okay."</p>
+
+<p>As Mabel was getting into my car that morning, we heard an enormous CRASH! A small airplane had landed upside down in the corner of the parking lot where we would have been. Then she told me she had dreamed it during the night. "WOW!" exclaimed my eight year old son, Brad, from the backseat.</p>
+
+<p>That launched me on a life-long, self-directed and academic study of dreams. From the first, the practical side of dreaming has been my focus. The Edgar Cayce dream material was the first I found to study. He also emphasized the practical aspects--health, finances, job, creativity, and interpersonal, as well as the personality growth and spiritual aspects.</p>
+
+<p>With my BA degree in Education and a MA degree in Psychology, I got a credential/license to teach dream-study at the community college level. I taught 36 hour, semester, night classes and weekend workshops. My students urged me to write a book, so I wrote Sleep On It! The Practical Side of Dreaming in 1977.</p>
+
+<p>In my teaching I found many dreams use overt sexual imagery and that people were confused by the symbolism of sexual images. I made this a secondary focus of my dream work.</p>
+"""^^xsd:string ;
+    ns1:handle "janicebaylis"^^xsd:string ;
+    ns1:itemId "bcphbq3bayl"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Janice Baylis"^^xsd:string ;
+    ns1:profileImg "author-janicebaylis.jpg"^^xsd:string .
 
 ns1:bcphbq3norm a ns1:User ;
     ns1:coverImg "cover-author-rachelnorment.jpg"^^xsd:string ;
@@ -28623,7 +28624,7 @@ ns1:bcphbqflyer a ns1:User ;
 
 <p>Active in the dreamwork community since 1984, Linda was a founding board member and wrote the first mission statement of the multidisciplinary (and highly academic) <a href="https://www.asdreams.org/">Association For the Study of Dreams</a> (ASD). She has presented papers and hosted panels at several of ASD's annual conferences. In 2001, she helped design the conference web site, the Computer Café, and created the four picture targets for the Dream Telepathy Contest.</p>
 
-<p>With Fred Olsen, she co-founded the Bay Area Dreamworkers Group (BADG), to provide support for her dreamwork peers in the San Francisco area. There, she practiced dream sharing, perfected dreamwork techniques and uncovered the basic values of the Partnership Paradigm. After BADG presented her with an honorary "Doctoral Degree in Social Dreamology," Linda graduated from dreamworker to dreamplayer.</p>
+<p>With <a href="../@fredolsen">Fred Olsen</a>, she co-founded the Bay Area Dreamworkers Group (BADG), to provide support for her dreamwork peers in the San Francisco area. There, she practiced dream sharing, perfected dreamwork techniques and uncovered the basic values of the Partnership Paradigm. After BADG presented her with an honorary "Doctoral Degree in Social Dreamology," Linda graduated from dreamworker to dreamplayer.</p>
 
 <p>The observer-participant brand of research has required that Linda dream along with the other members of her dreaming team. Searching for active participants in a sleepy field like dreams is not an easy task, whether on-line or off. To help find such dreamers for her half a hundred group dreaming projects and dream telepathy experiments, Linda served as coordinator of the Seth Dream Network and dipped into the lucid dream community before founding the <a href="https://web.archive.org/web/20050305230701/http://members.aol.com/lucidflier/project/fbnc.html">Fly-By-Night Club research group</a>.</p>
 

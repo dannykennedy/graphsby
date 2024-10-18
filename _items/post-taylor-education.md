@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jeremytaylor
     - hasTag: 11.2
     - inIssue: 11.2
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: "the-nagging-question-of-dream-education"
 ---

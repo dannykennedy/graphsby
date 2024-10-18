@@ -8,6 +8,7 @@ tags:
     - hasAuthor: chrishudson
     - hasTag: 4.3
     - inIssue: 4.3
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: "the-dream-network-bulletin"
 profileImg: post-bcpov6krudnb-0.png

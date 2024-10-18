@@ -10,6 +10,7 @@ tags:
     - hasTag: 1.1
     - inIssue: 11.2
     - inIssue: 1.1
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: "dreams-as-a-subversive-activity"
 ---

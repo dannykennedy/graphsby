@@ -11,6 +11,7 @@ tags:
     - hasTag: 21.3
     - inIssue: 21.3
     - hasTopic: topic~dream-interviews
+    - hasTopic: topic~dream_movement
 type: post
 subType: Conversation
 urlSlug: "founding-a-dream-education-institute-interview-robert-haden"

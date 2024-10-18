@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jillgregory
     - hasTag: 6.2
     - inIssue: 6.2
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: "festival-of-dreams"
 ---

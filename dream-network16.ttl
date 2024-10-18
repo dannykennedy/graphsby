@@ -2035,6 +2035,7 @@ ns1:bcpov3zdqode a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqawtay ;
     ns1:hasTag ns1:bcphbpumr2x,
         ns1:bcphbqawtay ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbpumr2x ;
     ns1:itemId "bcpov3zdqode"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -2647,7 +2648,8 @@ ns1:bcpov3zprosi a ns1:Post ;
     ns1:hasTag ns1:bcphbq3ossa,
         ns1:bcphbqhaden,
         ns1:bcphbvbqspq ;
-    ns1:hasTopic ns1:bcpovcrediv ;
+    ns1:hasTopic ns1:bcpovcdetdm,
+        ns1:bcpovcrediv ;
     ns1:inIssue ns1:bcphbvbqspq ;
     ns1:itemId "bcpov3zprosi"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -6936,6 +6938,7 @@ ns1:bcpov6kbirth a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvbulk ;
     ns1:hasTag ns1:bcphbnlbw5k,
         ns1:bcphbqvbulk ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbnlbw5k ;
     ns1:itemId "bcpov6kbirth"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -7252,6 +7255,7 @@ ns1:bcpov6kchers a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3pdwy ;
     ns1:hasTag ns1:bcphbq3pdwy,
         ns1:bcphbvjopd2 ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbvjopd2 ;
     ns1:itemId "bcpov6kchers"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -7390,6 +7394,7 @@ ns1:bcpov6kcultu a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvmoss ;
     ns1:hasTag ns1:bcphbqvmoss,
         ns1:bcphbsvz3ik ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbsvz3ik ;
     ns1:itemId "bcpov6kcultu"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -7904,6 +7909,7 @@ ns1:bcpov6kheart a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvmoss ;
     ns1:hasTag ns1:bcphbqvmoss,
         ns1:bcphbvecgmx ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbvecgmx ;
     ns1:itemId "bcpov6kheart"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -7932,6 +7938,7 @@ ns1:bcpov6kiasd1 a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3vand ;
     ns1:hasTag ns1:bcphbliwn3u,
         ns1:bcphbq3vand ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbliwn3u ;
     ns1:itemId "bcpov6kiasd1"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -10140,6 +10147,7 @@ ns1:bcpov6krudnb a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3huds ;
     ns1:hasTag ns1:bcphblwwuy6,
         ns1:bcphbq3huds ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphblwwuy6 ;
     ns1:itemId "bcpov6krudnb"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -11486,6 +11494,7 @@ ns1:bcpov6rcodpc a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3mcle ;
     ns1:hasTag ns1:bcphbnagfeb,
         ns1:bcphbq3mcle ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbnagfeb ;
     ns1:itemId "bcpov6rcodpc"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -12904,6 +12913,7 @@ ns1:bcpov6sarmed a ns1:Post ;
     ns1:hasTag ns1:bcphbhe6wex,
         ns1:bcphbpumr2x,
         ns1:bcphbqvstim ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbhe6wex,
         ns1:bcphbpumr2x ;
     ns1:itemId "bcpov6sarmed"^^xsd:string ;
@@ -13069,6 +13079,7 @@ ns1:bcpov6shanth a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqvstim ;
     ns1:hasTag ns1:bcphbjzjvrr,
         ns1:bcphbqvstim ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbjzjvrr ;
     ns1:itemId "bcpov6shanth"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -14201,6 +14212,7 @@ ns1:bcpov6zd3tdm a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqerics ;
     ns1:hasTag ns1:bcphbndh32i,
         ns1:bcphbqerics ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbndh32i ;
     ns1:itemId "bcpov6zd3tdm"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -15126,6 +15138,7 @@ Creativity: Dreaming, in a sense, is a very personal art form. Our waking life i
 """^^xsd:string ;
     ns1:hasAuthor ns1:bcphbqflull ;
     ns1:hasTag ns1:bcphbqflull ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:itemId "bcpov6zfabod"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "The Dream: In Search of a New Abode"^^xsd:string ;
@@ -15168,6 +15181,7 @@ ns1:bcpov6zfacad a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3bogz ;
     ns1:hasTag ns1:bcphbq3bogz,
         ns1:bcphbvjopd2 ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbvjopd2 ;
     ns1:itemId "bcpov6zfacad"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -15915,7 +15929,8 @@ ns1:bcpov6zfcybr a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3rcwi ;
     ns1:hasTag ns1:bcphbq3rcwi,
         ns1:bcphbrw63cp ;
-    ns1:hasTopic ns1:bcpovcredja,
+    ns1:hasTopic ns1:bcpovcdetdm,
+        ns1:bcpovcredja,
         ns1:bcpovcsetdg ;
     ns1:inIssue ns1:bcphbrw63cp ;
     ns1:itemId "bcpov6zfcybr"^^xsd:string ;
@@ -17134,6 +17149,7 @@ ns1:bcpov6zfnetw a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3olse ;
     ns1:hasTag ns1:bcphbo4ff76,
         ns1:bcphbq3olse ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbo4ff76 ;
     ns1:itemId "bcpov6zfnetw"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -17236,6 +17252,7 @@ ns1:bcpov6zfpbey a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3jean ;
     ns1:hasTag ns1:bcphbjv6pkd,
         ns1:bcphbq3jean ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbjv6pkd ;
     ns1:itemId "bcpov6zfpbey"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -17344,7 +17361,8 @@ ns1:bcpov6zfpeac a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3jean ;
     ns1:hasTag ns1:bcphbq3jean,
         ns1:bcphbvjopd2 ;
-    ns1:hasTopic ns1:bcpovcredja ;
+    ns1:hasTopic ns1:bcpovcdetdm,
+        ns1:bcpovcredja ;
     ns1:inIssue ns1:bcphbvjopd2 ;
     ns1:itemId "bcpov6zfpeac"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -17727,7 +17745,8 @@ ns1:bcpov6zftens a ns1:Post ;
     ns1:hasTag ns1:bcphbq3rcwi,
         ns1:bcphbqerics,
         ns1:bcphbvecgmx ;
-    ns1:hasTopic ns1:bcpovcrediv ;
+    ns1:hasTopic ns1:bcpovcdetdm,
+        ns1:bcpovcrediv ;
     ns1:inIssue ns1:bcphbvecgmx ;
     ns1:itemId "bcpov6zftens"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -20178,6 +20197,7 @@ ns1:bcpov8giwfod a ns1:Post ;
     ns1:hasAuthor ns1:bcphbqfgreg ;
     ns1:hasTag ns1:bcphbm5mept,
         ns1:bcphbqfgreg ;
+    ns1:hasTopic ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbm5mept ;
     ns1:itemId "bcpov8giwfod"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -22241,7 +22261,8 @@ ns1:bcpoz4zmwwmu a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq3krip ;
     ns1:hasTag ns1:bcphbq3krip,
         ns1:bcphbw4yscz ;
-    ns1:hasTopic ns1:bcphbqflull ;
+    ns1:hasTopic ns1:bcphbqflull,
+        ns1:bcpovcdetdm ;
     ns1:inIssue ns1:bcphbw4yscz ;
     ns1:itemId "bcpoz4zmwwmu"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -26972,9 +26993,6 @@ ns1:bcpov6pspec a ns1:Post ;
     ns1:profileImg "relationship-dreams-sml.jpg"^^xsd:string ;
     ns1:urlSlug "special-publications"^^xsd:string .
 
-ns1:Topic a owl:Class ;
-    rdfs:subClassOf ns1:Item .
-
 ns1:bcphb2huxmr a ns1:Post ;
     ns1:coverImg "33.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2014-07-01T11:32:52"^^xsd:dateTime ;
@@ -27665,6 +27683,9 @@ ns1:bcpqoaivzve a ns1:Post ;
     ns1:profileImg "volume-7.jpg"^^xsd:string ;
     ns1:subType "PublicationVolume"^^xsd:string ;
     ns1:urlSlug "dream-network-volume-7"^^xsd:string .
+
+ns1:Topic a owl:Class ;
+    rdfs:subClassOf ns1:Item .
 
 ns1:bcphbq3bayl a ns1:User ;
     ns1:description """<p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." <a href="../@stanleykrippner">Stanley Krippner, PhD.</a> Professor of Psychology, Saybrook University</p>
@@ -28949,6 +28970,16 @@ ns1:bcphbqfgreg a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jill Gregory"^^xsd:string ;
     ns1:profileImg "author-jill-gregory.jpg"^^xsd:string .
+
+ns1:bcpovcdetdm a ns1:Topic ;
+    ns1:coverImg "gaia_gazing_snyder.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together reviews and articles about the Dream Movement and Dreamwork Movement that have appeared in the Dream Network Journal over the years.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~dream_movement"^^xsd:string ;
+    ns1:itemId "bcpovcdetdm"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "The Dream Movement"^^xsd:string ;
+    ns1:shortName "The Dream Movement"^^xsd:string .
 
 ns1:bcphbq3rpac a ns1:User ;
     owl:sameAs "https://independent.academia.edu/PacoMitchell"^^xsd:string,

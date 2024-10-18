@@ -8,6 +8,7 @@ tags:
     - hasAuthor: ericsnyder
     - hasTag: 6.4
     - inIssue: 6.4
+    - hasTopic: topic~dream_movement
 type: post
 profileImg: post-bcpov6zd3tdm-0.jpg
 urlSlug: "the-dreamwork-movement"

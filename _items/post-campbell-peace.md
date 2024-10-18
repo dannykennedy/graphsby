@@ -10,6 +10,7 @@ tags:
     - inIssue: 22.2
     - featuredIn: dreamnetwork
     - hasTopic: topic~dream-apps-and-online-dreamsharing
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: can-the-world-dream-peace
 ---

@@ -8,6 +8,7 @@ tags:
     - hasAuthor: kellybulkeley
     - hasTag: 7.2
     - inIssue: 7.2
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: "the-birth-of-the-dream-movement"
 ---

@@ -11,6 +11,7 @@ tags:
     - hasTag: 21.4-22.1
     - inIssue: 21.4-22.1
     - hasTopic: topic~dream-interviews
+    - hasTopic: topic~dream_movement
 type: post
 subType: Conversation
 urlSlug: tending-to-the-soul-of-the-world

@@ -8,6 +8,7 @@ tags:
     - hasAuthor: bobvandecastle
     - hasTag: 3.4
     - inIssue: 3.4
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: "first-international-iasd-conference"
 ---

@@ -6,6 +6,7 @@ name: "The Dream: In Search of a New Abode"
 tags:
     - hasTag: montagueullman
     - hasAuthor: montagueullman
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: the-dream-in-search-of-a-new-abode
 ---

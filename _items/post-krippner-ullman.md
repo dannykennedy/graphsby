@@ -9,6 +9,7 @@ tags:
     - hasTopic: montagueullman
     - hasTag: 25.2
     - inIssue: 25.2
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: "working-with-monte-ullman-at-maimonides-reflections-on-a-dream-relationship"
 ---

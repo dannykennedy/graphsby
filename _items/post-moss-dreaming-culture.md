@@ -8,6 +8,7 @@ tags:
     - hasAuthor: robertmoss
     - hasTag: 16.4
     - inIssue: 16.4
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: "when-we-become-a-dreaming-culture"
 profileImg: post-bcpov6kcultu-0.jpg

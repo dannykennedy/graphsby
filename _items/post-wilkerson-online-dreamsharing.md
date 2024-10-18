@@ -1,16 +1,16 @@
 ---
-dateCreated: '1996-01-01T11:32:52'
+dateCreated: "1996-01-01T11:32:52"
 itemId: bcpov6zfcybr
 layout: post
-name: "Dreaming Online: The Global Cyberspace
-Dreamsharing Community"
+name: "Dreaming Online: The Global Cyberspace Dreamsharing Community"
 tags:
-- hasTag: richardwilkerson
-- hasAuthor: richardwilkerson
-- hasTag: 15.1
-- inIssue: 15.1
-- hasTopic: topic~dream-apps-and-online-dreamsharing
-- hasTopic: topic~dreamsharing-groups
+    - hasTag: richardwilkerson
+    - hasAuthor: richardwilkerson
+    - hasTag: 15.1
+    - inIssue: 15.1
+    - hasTopic: topic~dream-apps-and-online-dreamsharing
+    - hasTopic: topic~dreamsharing-groups
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: dreaming-online-the-global-cyberspace-dreamsharing-community
 ---

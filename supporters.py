@@ -34,6 +34,25 @@ lucid_supporters = [
 	}
 ]
 
+# nude.jpg
+sexy_supporters = [
+	{
+		'name': 'Had a sexy dream?',
+		'description': 'Record it privately in the Elsewhere Dream Journal',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'nude.jpg',
+		'url': 'https://elsewhere.to?src=dnj',
+		'target': '_blank'
+	},
+	{
+		'name': "EastWest Works",
+		'description': 'Dream group, taiji & more, NYC',
+		'profileImg': 'eastwestworks-square.jpg',
+		'url': 'https://eastwest.works/Home.html/?src=dnj',
+		'target': '_blank'
+	}
+]
+
 
 ullman_supporters = [
 	{
@@ -197,7 +216,6 @@ supporters_by_page_id = {
 	'bcpov6twhint': group_supporters,
 	'bcpov5modhtd': group_supporters,
 	# Lucid
-	'bcpov6zlucse': lucid_supporters,
 	'bcpov6zfawar': lucid_supporters,
 	'bcpov6kalawa': lucid_supporters,
 	'bcpoy5zfldnd': lucid_supporters,
@@ -217,4 +235,10 @@ supporters_by_page_id = {
 	# Shoes
 	'bcpov6rshoes': shoe_supporters,
 	'bcpov6rsshoe2': shoe_supporters,
+	# Sexy
+	'bcpov6zlucse': sexy_supporters,
+	'bcpov6uality': sexy_supporters,
+	'bcpov2kndiss': sexy_supporters,
+	'bcpoz2jotcos': sexy_supporters,
+	'bcpov6rcodss': sexy_supporters,
 }

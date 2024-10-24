@@ -8,11 +8,13 @@ tags:
     - hasAuthor: robertwaggoner
     - hasTag: 19.2
     - inIssue: 19.2
-    - hasTag: "lucid dreaming"
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: lucid-dreaming-transformational-potential
 profileImg: post-bcpov6zlucse-0.jpg
 ---
+
+<img src="../images/post-bcpov6zlucse-0.jpg" alt="Lucid couple among the reeds" width="300px"/>
 
 "Freud is right," I said to myself, somewhat incredulous as the psychology professor explained the id and the libido. "Freud is right," I said again and shook my head. It was 1980 and I was a psychology major at Drake University listening to a lecture on Freud's theory of the id, ego, superego and the libido. The instructor had outlined Freud's theory that the id-or the vast unconscious within one's psyche-was the source of the libido, the sexually based instinctual energy that fueled much of motivation and behavior.
 
@@ -22,7 +24,7 @@ But what were others experiencing in their lucid dreams? Was this ecstatic energ
 
 "Orgasm is a natural part of lucid dreaming," proclaimed Dr. Patricia Garfield in her fascinating book _Pathway to Ecstasy: The Way of the Dream Mandala_, first published in 1979. Drawing upon many of her lucid dream experiences with bold frankness and a penetrating eye for detail, she went on to write, "in fully two thirds of my lucid dreams, I feel the flow of sexual energy; this arousal culminates in an orgasmic burst on about half of those occasions."
 
-Garfield's book unabashedly acknowledged a common denominator in lucid dreaming; namely that the shift from dreaming to conscious or lucid dreaming was normally accompanied by a special, energetic, inner feeling which often was ultimately directed by the dreamer to sexual expression. Lucid dreamers would often write, "I know I am dreaming. I want to have fun. Feeling amorous, I look down an empty street and desire a man. Suddenly I see a man ...."
+Garfield's book unabashedly acknowledged a common denominator in lucid dreaming; namely that the shift from dreaming to conscious or lucid dreaming was normally accompanied by a special, energetic, inner feeling which often was ultimately directed by the dreamer to sexual expression. Lucid dreamers would often write, "I know I am dreaming. I want to have fun. Feeling amorous, I look down an empty street and desire a man. Suddenly I see a man..."
 
 What else might explain this desire for sexual expression? In lucid dreams, the senses are often very acute and vivid. Touching often seems hypersensitive. Coupled with a feeling of energy and freedom, this tactile intensity may encourage further sensuousness or sex. Also in lucid dreams, one is aware of safety, ensconced in a creation of ones own making. Directing the action to pleasurable activities is easily achieved and often free from waking or moralistic concerns. One lucid dreamer's fantasy: "I realized I was dreaming and stepped into the school room. I saw there were a few women there. Feeling amorous, I decided to announce that I wanted to see more attractive women when I re-entered the room. I stepped out into the hallway, shut the door and waited. I reopened the door with a definite feeling of expectation. A line of attractive nude women stood looking back at me. It was amazing!"
 
@@ -50,19 +52,17 @@ The red dress may symbolically express, fashion-wise, this lucid dreamer's sexua
 
 _I look out the front door and see R ... I know it is a dream version of R so it's okay to have sex with him ... I tell him let's go down there, as I point to the brook area and the tall reeds ... I lay floating supported by the reeds ... I hope Dad can't see me out the window ... I remind myself that I'm dreaming and it doesn't matter who sees. R may not even be there anymore but I experience an orgasm anyway._
 
-<img src="../images/post-bcpov6zlucse-0.jpg" alt="Lucid couple among the reeds" width="400px"/>
-
 The setting of tall reeds and brook may symbolically reflect the sexual action.
 
 In many lucid dream accounts, one reads of the dreamer wrestling with where to have their sexual activity: in the open, in the closet, with no one present, with many others present, etc., all of which may have symbolic significance. One lucid dreamer felt his experience shed 'light' on his inner feelings:
 
-_I was lucid, and seemed to be in an attic with Jots of boxes and chests around. For some reason the lighting was very dim, and shadowy. I saw a woman there, and knowing this was a dream, decided to have sex with her. In the next moment. her clothing was gone and she was looking towards me as she sat on the floor with her legs open. As I moved closer. I may have been thinking about the darkness for a second and then the oddest thing happened, a shaft of light from above shone down directly upon her vaginal It was like a theatrical stage light had suddenly turned on. Boom! It totally lit up with a brilliant white light! I laughed with delight._
+_I was lucid, and seemed to be in an attic with lots of boxes and chests around. For some reason the lighting was very dim, and shadowy. I saw a woman there, and knowing this was a dream, decided to have sex with her. In the next moment. her clothing was gone and she was looking towards me as she sat on the floor with her legs open. As I moved closer. I may have been thinking about the darkness for a second and then the oddest thing happened, a shaft of light from above shone down directly upon her vagina. It was like a theatrical stage light had suddenly turned on. Boom! It totally lit up with a brilliant white light! I laughed with delight._
 
 The dreamer felt the scene in the attic may have reflected his thinking about issues of sex and spirituality.
 
 ## Lucidity, Sex and Physiology
 
-Garfield also hints that there may possibly be a physiological component in lucid dreaming and sex. Later, research reported by Dr. Stephen LaBerge in his book Lucid Dreaming, states that "lucid dreaming occurs during a highly activated phase of REM sleep, associated, as a result, with increased vaginal blood flow or penile erections." While this is an interesting point, one can only wonder if the physiological event is being driven by the dream cognitions or if the dream cognitions are an artifact of physiological activities.
+Garfield also hints that there may possibly be a physiological component in lucid dreaming and sex. Later, research reported by [Dr. Stephen LaBerge](../@stephenlaberge) in his book Lucid Dreaming, states that "lucid dreaming occurs during a highly activated phase of REM sleep, associated, as a result, with increased vaginal blood flow or penile erections." While this is an interesting point, one can only wonder if the physiological event is being driven by the dream cognitions or if the dream cognitions are an artifact of physiological activities.
 
 In a separate 1983 sleep laboratory study, LaBerge asked a female lucid dreamer to signal through rapid eye-movements that she was lucid dreaming, and then signal when she was nearing orgasm in the lucid dream. The physiological measures of heightened respiration, and vaginal muscle activity and pulse amplitude matched her lucid dream signaling. This indicated that the sexual dream content was reflected in physiological changes. In many ways, the experience was 'real,' mentally and physiologically. This study suggests to me that the dream cognitions drive the physiology.
 
@@ -70,7 +70,7 @@ Twenty-six years ago when I first began to dream consciously or lucidly at age 1
 
 When talking with other lucid dreamers about their first lucid dream, no one has ever mentioned sex in their first lucid dream. However, many have mentioned a feeling of near ecstasy and joy, often accompanied by flying. At some later point, most lucid dreamers learn they can direct the energy of the dream towards sexual expressions.
 
-These points may suggest that the energy felt in a lucid dream is an experience of a basic or universal creative energy with the sexual component being one part, which we learn through association or conscious desire to pursue. In a similar vein, Carl G. Jung broke with Freud's view of the libido as primarily sexual and came to view the libido as a psychic energy, an expression of the "intensity of the psychic process."
+These points may suggest that the energy felt in a lucid dream is an experience of a basic or universal creative energy with the sexual component being one part, which we learn through association or conscious desire to pursue. In a similar vein, [Carl G. Jung](../topic~jung_and_dreams) broke with Freud's view of the libido as primarily sexual and came to view the libido as a psychic energy, an expression of the "intensity of the psychic process."
 
 ## Id, Ego, Libido, Lucidity: Why does it matter?
 

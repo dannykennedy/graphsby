@@ -6,9 +6,14 @@ handle: hd-lee
 name: "H.D. Lee"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-hd-lee.jpg
 coverImg: cover-author-hd-lee.jpg
+websites:
+    - name: Nomadic School
+      url: https://www.nomadicschool.org/
+    - name: iamHDLee
+      url: https://www.iamhdlee.com/
 ---
 
 Nomadic School: [www.NomadicSchool.org](https://www.nomadicschool.org/)

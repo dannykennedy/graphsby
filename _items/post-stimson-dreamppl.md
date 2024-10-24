@@ -8,6 +8,7 @@ tags:
     - hasAuthor: billstimson
     - hasTag: 2.8
     - inIssue: 2.8
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: "anthropology-of-the-dream-people"
 ---

@@ -42,10 +42,8 @@
         </div>
         {% else %}
         <div class="page-section">
-            <!-- Only show toggles for users -->
-            {% if render_item.type == 'user' %}
-            <!-- If there are topicPosts, and more than zero of them -->
-            {% if topicPosts %} {% if topicPosts|length > 0 %}
+            <!-- If there are topicPosts and regular posts, and more than zero of them -->
+            {% if topicPosts %} {% if topicPosts|length > 0 %} {% if posts %} {% if posts|length > 0 %}
             <div class="type-toggle-pill-area">
                 <button class="tag type-toggle-pill active hasTag" onclick="showArticles('hasTag')">
                     Articles by {{render_item.name}}
@@ -55,7 +53,7 @@
                     Articles about {{render_item.name}}
                 </button>
             </div>
-            {% endif %} {% endif %} {% endif %}
+            {% endif %} {% endif %}{% endif %} {% endif %}
             <div class="page-items main-grid">
                 {% if posts %} {% for post in posts %} {% with loop_index = loop.index %}
                 <div
@@ -68,10 +66,11 @@
                 </div>
                 {% endwith %} {% endfor %} {% endif %}
                 <!-- Posts about the thing -->
+                <!-- We hide them initially if there are posts 'by' the thing too -->
                 {% if topicPosts %} {% for post in topicPosts %} {% with loop_index = loop.index %}
                 <div
                     id="{{post.itemId}}"
-                    class="card item-card thumb-card grid-item hasTopic hide"
+                    class="card item-card thumb-card grid-item hasTopic {% if posts %}{% if posts|length > 0 %}hide{% endif %}{% endif %}"
                     onclick="window.location.href = '../{{post.card_link}}'"
                     style="transform: translate3d(0px, {{(loop_index -1) * 500}}px, 0px);"
                 >

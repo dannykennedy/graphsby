@@ -6,8 +6,13 @@ handle: evelynduesbury
 name: "Evelyn Duesbury"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-evelyn-duesbury.jpg
+websites:
+    - name: yourguidingdreams.com
+      url: https://www.yourguidingdreams.com/public/about.htm
+    - name: livingdreams.life
+      url: https://www.livingdreams.life/
 ---
 
 Websites: [yourguidingdreams.com](http://www.yourguidingdreams.com/), [livingdreams.life](https://www.livingdreams.life/)

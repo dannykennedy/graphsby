@@ -9,15 +9,20 @@ tags:
     - hasTag: robertmoss
     - hasTag: 31.2
     - inIssue: 31.2
+    - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "dreaming-the-soul-back-home-robert-moss-book-review"
 profileImg: post-bcpov6zmossr-0.jpg
+about:
+    - type: Book
+      name: "Dreaming The Soul Back Home"
+      sameAs:
+          - https://www.goodreads.com/book/show/13239379-dreaming-the-soul-back-home
 ---
 
 <a href="https://www.goodreads.com/book/show/13239379-dreaming-the-soul-back-home">
-<img src="../images/post-bcpov6zmossr-0.jpg" width="200" height="auto" alt="Dreaming The Soul Back Home"/>
-</a>
-<!--nopreview--><div style="text-align:center"><i>Dreaming The Soul Back Home: Shamanic Dreaming for Healing and Becoming Whole By <a href="../@robertmoss">Robert Moss</a> New World Library, June 15, 2012</i></div><!--/nopreview-->
+<img src="../images/post-bcpov6zmossr-0.jpg" width="200" height="auto" alt="Dreaming The Soul Back Home"/></a><!--nopreview--><div style="text-align:center"><i>Dreaming The Soul Back Home: Shamanic Dreaming for Healing and Becoming Whole By <a href="../@robertmoss">Robert Moss</a> New World Library, June 15, 2012</i></div><!--/nopreview-->
 
 We suffer pain or trauma or abuse.  We are compelled to make a painful life choice, such as leaving a partner or a job or a home, and part of us resists that choice and still clings to the old relationship or the old place. Sometimes the choice is not even ours and we experience a deep sense of loss. We fall into depression or addiction or make compromises with the world as we understand it, thus giving up on our big dreams of life and leaving a piece of us behind.
 

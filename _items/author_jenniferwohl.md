@@ -6,9 +6,12 @@ handle: jenniferwohl
 name: "Jennifer Wohl"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-jennifer-wohl.jpg
 coverImg: cover-author-jennifer-wohl.jpg
+websites:
+    - name: Jennifer Wohl
+      url: http://www.jenniferwohl.com/
 ---
 
 Website: [www.jenniferwohl.com](http://www.jenniferwohl.com/)

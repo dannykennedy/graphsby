@@ -8,6 +8,7 @@ tags:
     - hasAuthor: robertmoss
     - hasTag: 21.4-22.1
     - inIssue: 21.4-22.1
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: "dreaming-our-way-to-the-heart-of-the-world"
 profileImg: post-bcpov6kheart-0.jpg

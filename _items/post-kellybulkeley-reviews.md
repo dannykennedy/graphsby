@@ -8,7 +8,9 @@ tags:
     - hasAuthor: kellybulkeley
     - hasTag: 11.3
     - inIssue: 11.3
+    - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "dreams-and-relationships-book-reviews"
 profileImg: post-bcpov6glorev-0.jpg
 ---
@@ -41,13 +43,13 @@ To help us learn how to discover our own truths in such dreams, De Beer draws up
 
 <img src="../images/post-bcpov6glorev-1.jpg" width="350px" height="auto"/>
 
-**_Dream Symbol Work_** (New York: Paulist Press, 1991; 162 pp.), also focuses on our relationship with spiritual powers. The authors, Patricia Berne and Louis Savary, also wrote Dreams and Spiritual Growth (1984; Strephon Kaplan-Williams was a co-author), and this book is a simpler, easier-to-use version of that earlier work. Berne and Savary give a nice, neat definition of spirituality:
+**_Dream Symbol Work_** (New York: Paulist Press, 1991; 162 pp.), also focuses on our relationship with spiritual powers. The authors, Patricia Berne and Louis Savary, also wrote Dreams and Spiritual Growth (1984; [Strephon Kaplan-Williams](../@strephon_kaplan_williams) was a co-author), and this book is a simpler, easier-to-use version of that earlier work. Berne and Savary give a nice, neat definition of spirituality:
 
 > "For us, spirituality may be defined as 'my way of living, acting, and choosing in light of my ultimate values'." (p. 6)
 
 Their main interest is in helping people recognize the spiritual energies in their dreams and bring those energies out into waking life. In this way, Dream Symbol Work is very much a "how-to" book, a practical guide to the spiritual dimension of dreams.
 
-Berne and Savary's basic approach is what I would call a "Jungianized Christianity," or perhaps a "Christianized Jungism." They don't get into much theory, but it's clear that their approach to dreams and spirituality draws directly on Jung and on liberal Christian traditions. In my own view (and I emphasize this is my personal reaction), this sort of Jungliberal Christianity combination misses something important in dreams-it makes everything in our dreams seem a little too smooth, too easy, too routine and expected. This sort of approach never acknowledges how truly weird our dreams are, how our dreams can be incredibly wild, gooey, creepy, and outrageous. Again, I admit that this is a very personal reaction to Berne and Savary's book. But, I love dreams because they open up to us a realm that's crazed, awe-inspiring, shockingly perverse, infinitely creative, and endlessly surprising; dreams bring us into the realm of Bosch's wild paintings of heaven and hell, into the realm of Nietzsche's beautiful, tortured philosophy, into the realm of Jimi Hendrix's passionate guitar improvisations.
+Berne and Savary's basic approach is what I would call a "Jungianized Christianity," or perhaps a "Christianized Jungism." They don't get into much theory, but it's clear that their approach to dreams and spirituality draws directly on [Jung](../topic~jung_and_dreams) and on liberal Christian traditions. In my own view (and I emphasize this is my personal reaction), this sort of Jungliberal Christianity combination misses something important in dreams-it makes everything in our dreams seem a little too smooth, too easy, too routine and expected. This sort of approach never acknowledges how truly weird our dreams are, how our dreams can be incredibly wild, gooey, creepy, and outrageous. Again, I admit that this is a very personal reaction to Berne and Savary's book. But, I love dreams because they open up to us a realm that's crazed, awe-inspiring, shockingly perverse, infinitely creative, and endlessly surprising; dreams bring us into the realm of Bosch's wild paintings of heaven and hell, into the realm of Nietzsche's beautiful, tortured philosophy, into the realm of Jimi Hendrix's passionate guitar improvisations.
 
 Berne and Savary's book doesn't touch on any of this, and that's fine; it's a well-written book and a good introduction for spiritually-oriented novices to dreamwork. But, it doesn't, to my mind, give a very full portrait of the spiritual dimensions of our dreams. To use a wilderness metaphor, the book shows us the nice, flower-blanketed meadows of spirituality, but it says nothing about the raging waterfalls, the dark, eerie caves, or the towering, majestic mountain peaks.
 

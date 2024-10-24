@@ -6,8 +6,14 @@ handle: edwardbrucebynum
 name: "Edward Bruce Bynum, Ph.D., ABPP"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-edward-bynum.jpg
+coverImg: cover-author-edward-bynum.jpg
+websites:
+    - name: obeliskfoundation.com
+      url: https://web.archive.org/web/20220123134219/https://obeliskfoundation.com/
+    - name: Facebook
+      url: https://www.facebook.com/profile.php?id=100067168220264
 ---
 
 Website: [obeliskfoundation.com](https://web.archive.org/web/20220123134219/https://obeliskfoundation.com/)

@@ -6,9 +6,14 @@ handle: robertmoss
 name: "Robert Moss"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-moss.jpg
 coverImg: cover-author-robertmoss.jpg
+websites:
+    - name: MossDreams
+      url: https://mossdreams.com/
+    - name: Books on Blogspot
+      url: http://mossdreams.blogspot.com/2019/02/the-books-for-magical-dreaming.html
 ---
 
 Website: [mossdreams.com](https://mossdreams.com/)

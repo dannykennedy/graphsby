@@ -8,9 +8,16 @@ tags:
     - hasAuthor: kimbirdsong
     - hasTag: 23.4-24.1
     - inIssue: 23.4-24.1
+    - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "the-art-of-dreaming-book-review"
 profileImg: post-bcpov6modart-0.jpg
+about:
+    - type: Book
+      name: "The Art of Dreaming"
+      sameAs:
+          - https://www.goodreads.com/book/show/5027066-the-dreaming-way
 ---
 
 <a href="https://www.goodreads.com/book/show/5027066-the-dreaming-way">

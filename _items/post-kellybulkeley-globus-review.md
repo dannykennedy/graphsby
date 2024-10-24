@@ -8,9 +8,16 @@ tags:
     - hasAuthor: kellybulkeley
     - hasTag: 7.2
     - inIssue: 7.2
+    - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "dream-life-wake-life-globus-book-review"
 profileImg: post-bcpov6globus-0.jpg
+about:
+    - type: Book
+      name: "Dream Life, Wake Life: The Human Condition Through Dreams"
+      sameAs:
+          - https://www.goodreads.com/book/show/10853175-dream-life-wake-life
 ---
 
 <img src="../images/post-bcpov6globus-0.jpg" width="200px" height="auto"/>
@@ -24,4 +31,4 @@ But despite his persuasive arguments, Globus' book is not easily read. Along wit
 
 Despite all the intimidating scholarship, Globus does have an important point to make here, one worth our attention. Against Freud, Foulkes, etc., he argues that dreams are not simply built up out of memory traces and images, like a mason using pre-made bricks to build a wall. Globus claims that dreams reflect a "formative creativity" by which we wholly and spontaneously produce the life-world of our dreams. In our dreams we have "the capacity for infinite creativity," which he says "is the power of the Godhead." The main thesis of Globus' work is that the same formative creativity we find in our dream life we also find in our wake life.
 
-This is a notion with which many of us (especially lucid dreamers) already have some familiarity based on our own experiences. We've discovered deep resources of creativity in our dreams which may come to have transformative powers in waking life. Globus' achievement is that he has grounded this concept of formative creativity, of the practically infinite wells of creativity in our dream life, in a solid philosophical and psychological structure. More generally, he has shown how bridging the gaps between the various realms of dream study and research can produce some truly new and valuable insights.
+This is a notion with which many of us (especially [lucid dreamers](../topic~lucid-dreaming)) already have some familiarity based on our own experiences. We've discovered deep resources of creativity in our dreams which may come to have transformative powers in waking life. Globus' achievement is that he has grounded this concept of formative creativity, of the practically infinite wells of creativity in our dream life, in a solid philosophical and psychological structure. More generally, he has shown how bridging the gaps between the various realms of dream study and research can produce some truly new and valuable insights.

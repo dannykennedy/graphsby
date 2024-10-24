@@ -451,7 +451,7 @@ issues = [
     },
     {
         "imgName": "14.1-2",
-        "pdfName": "14.1-2-Dream-Network-Vol-14-Nos-1-&-2.pdf",
+        "pdfName": "14.1-2-Dream-Network-Vol-14-Nos-1-and-2.pdf",
         "title": "Dreaming Humanity's Path: Protecting the Children & Warning Dreams",
         "date": "1995-01-01T11:32:52"
     },
@@ -530,7 +530,7 @@ issues = [
     {
         "imgName": "17.4-18.1",
         "pdfName":
-            "17.4-18.1-Dream-Network-Vol-17-No-4-&-18-No-1.pdf",
+            "17.4-18.1-Dream-Network-Vol-17-No-4-and-18-No-1.pdf",
         "title": "Creative Dreamwork in the Central Corridor",
         "date": "1998-11-01T11:32:52"
     },

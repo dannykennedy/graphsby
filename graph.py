@@ -22,6 +22,7 @@ rdfsSubClassOf = rdfsNS["subClassOf"]
 rdfsDomain = rdfsNS["domain"]
 rdfsRange = rdfsNS["range"]
 dreamNS = Namespace("https://www.dannykennedy.co/dnj-ontology#")
+owlSameAs = owlNS["sameAs"]
 
 # XML properties
 xsdNS = Namespace("http://www.w3.org/2001/XMLSchema#")
@@ -42,6 +43,8 @@ otherItemClass = dreamNS['OtherItem']
 placeClass = dreamNS['Place']
 postClass = dreamNS['Post']
 imageClass = dreamNS['Image']
+topicClass = dreamNS['Topic']
+websiteClass = dreamNS['Website']
 
 # Object properties
 hasTag = dreamNS['hasTag']
@@ -49,9 +52,11 @@ inIssue = dreamNS['inIssue']
 hasAuthor = dreamNS['hasAuthor']
 featuredIn = dreamNS['featuredIn']
 hasTopic = dreamNS['hasTopic']
+hasWebsite = dreamNS['hasWebsite']
 
 # Datatype properties
 name = dreamNS['name']
+shortName = dreamNS['shortName']
 description = dreamNS['description']
 itemId = dreamNS['itemId']
 handle = dreamNS['handle']
@@ -59,11 +64,14 @@ dateCreated = dreamNS['dateCreated']
 layout = dreamNS['layout']
 profileImg = dreamNS['profileImg']
 coverImg = dreamNS['coverImg']
+ogImg = dreamNS['ogImg']
 urlSlug = dreamNS['urlSlug']
 featuredLabel = dreamNS['featuredLabel']
 canonicalUrl = dreamNS['canonicalUrl']
 metaDescription = dreamNS['metaDescription']
 metaKeywords = dreamNS['metaKeywords']
+url = dreamNS['url']
+subType = dreamNS['subType']
 
 def createGraph():
 	print("Creating graph")
@@ -78,7 +86,9 @@ def createGraph():
 	(itemClass, rdfType, owlClass),
 	(placeClass, rdfType, owlClass),
 	(postClass, rdfType, owlClass),
-	(imageClass, rdfType, owlClass)
+	(imageClass, rdfType, owlClass),
+	(topicClass, rdfType, owlClass),
+	(websiteClass, rdfType, owlClass),
 	]
 
 	classHierarchyTriples = [
@@ -91,7 +101,9 @@ def createGraph():
 	(personClass, rdfsSubClassOf, itemClass),
 	(placeClass, rdfsSubClassOf, itemClass),
 	(postClass, rdfsSubClassOf, itemClass),
+	(topicClass, rdfsSubClassOf, itemClass),
 	(imageClass, rdfsSubClassOf, postClass),
+	(websiteClass, rdfsSubClassOf, itemClass),
 	]
 
 	propertyTriples = [
@@ -106,6 +118,11 @@ def createGraph():
 	(name, rdfType, owlDatatypeProperty),
 	(name, rdfsDomain, itemClass),
 	(name, rdfsRange, xsdString),
+
+	# short name (could be the username of a person, the slug of a post, etc)
+	(shortName, rdfType, owlDatatypeProperty),
+	(shortName, rdfsDomain, itemClass),
+	(shortName, rdfsRange, xsdString),
 
 	# handle (unique string, only for users and pages. Prefixed with "@" in URL)
 	(handle, rdfType, owlDatatypeProperty),
@@ -142,6 +159,11 @@ def createGraph():
 	(coverImg, rdfsDomain, itemClass),
 	(coverImg, rdfsRange, xsdString),
 
+	# Open Graph image
+	(ogImg, rdfType, owlDatatypeProperty),
+	(ogImg, rdfsDomain, itemClass),
+	(ogImg, rdfsRange, xsdString),
+
 	# Featured label
 	(featuredLabel, rdfType, owlDatatypeProperty),
 	(featuredLabel, rdfsDomain, itemClass),
@@ -161,6 +183,21 @@ def createGraph():
 	(metaKeywords, rdfType, owlDatatypeProperty),
 	(metaKeywords, rdfsDomain, itemClass),
 	(metaKeywords, rdfsRange, xsdString),
+
+	# URL
+	(url, rdfType, owlDatatypeProperty),
+	(url, rdfsDomain, websiteClass),
+	(url, rdfsRange, xsdString),
+
+	# Subtype
+	(subType, rdfType, owlDatatypeProperty),
+	(subType, rdfsDomain, itemClass),
+	(subType, rdfsRange, xsdString),
+
+	# Same As
+	(owlSameAs, rdfType, owlDatatypeProperty),
+	(owlSameAs, rdfsDomain, itemClass),
+	(owlSameAs, rdfsRange, xsdString),
 
 	# OBJECT PROPERTIES
 
@@ -187,8 +224,12 @@ def createGraph():
 	# Topic
 	(hasTopic, rdfType, owlObjectProperty),
 	(hasTopic, rdfsDomain, itemClass),
-	(hasTopic, rdfsRange, itemClass)
+	(hasTopic, rdfsRange, itemClass),
 
+	# Website
+	(hasWebsite, rdfType, owlObjectProperty),
+	(hasWebsite, rdfsDomain, actorClass),
+	(hasWebsite, rdfsRange, websiteClass),
 	]
 
 	# Save graph structure

@@ -23,13 +23,13 @@ What significance should be given to these jungle or domesticated denizens who a
 
 Ernest Jones, a follower of Freud, says:
 
-> _"Analytical experience has shown that the occurrence of animals in a dream regularly indicates a sexual theme, usually an incest one" (1959' p. 70)._
+> _"Analytical experience has shown that the occurrence of animals in a dream regularly indicates a sexual theme, usually an [incest](../bcpov2zluaoi/the-archetype-of-incest-in-dreams) one" (1959' p. 70)._
 
 Hadfield (1954) suggests that crab, spider and vampire images represent the visceral objectifications of the bodily feelings associated with orgasm. The crab portrays the changes in visceral and abdominal muscles which produce a gripping sensation; the relaxed feelings following orgasm are represented by the sprawling legs and soft underbelly of the spider image; the washed-out feeling of fatigue, as though the blood had been sucked dry, is externalized by a vampire figure.
 
 Jelliffe and Brink noted "the astonishing revelation in psycho-neurotic dreams of the use of animal material" (1917, p. 253). Stekel claims "The danger of approaching insanity expresses itself in dreams of... a sudden attack by a wild beast" (1943, p. 421). Gutheil states "Very often the unconscious is represented by sinister animals" (1960, p.l63). He also proposes that being bitten by an animal may be a symbol of "pangs of conscience". Despert, in discussing the dreams of preschool children, comments "animals as motives are almost always sadistic and often totally destructive, regardless of size, etc. They bite and devour the child or chase him" (1949' p. 141). According to Fodor (1951), being swallowed by a voracious ani mal is a portrayal of our intense fear of birth.
 
-For Jung (1916), animal figures:
+For [Jung](../topic~jung_and_dreams) (1916), animal figures:
 
 > _"in so far as they do not symbolize merely the libido in general, have a tendency to represent father and mother, father by a bull, mother by a cow"._
 
@@ -37,7 +37,7 @@ Freud refers to dreams in which
 
 > _"a dreaded father is represented by a beast of prey or dog or wild horse" (1961, p. 41)._
 
-In a paragraph describing how many specific animals such as snakes, fish and cats are used as genital symbols, Freud states "Small animals and vermin represent small children - for instance, undesired brothers and sisters" (1961, p. 357). Just as Shakespeare used animal analogy as a technique for character 'portrayal (Yoder, 1947), animal figures can be employed to represent various aspects of the dreamer's character. Thus Boss writes "In subjective interpretation a dream tortoise would signify the tortoise-like and armored character of the dreamer himself" (1958, p. 49).
+In a paragraph describing how many specific animals such as snakes, fish and cats are used as genital symbols, Freud states "Small animals and vermin represent small children - for instance, undesired [brothers and sisters](../bcpov6kndiir/dreaming-insights-into-relationships-sibling-dreams)" (1961, p. 357). Just as Shakespeare used animal analogy as a technique for character 'portrayal (Yoder, 1947), animal figures can be employed to represent various aspects of the dreamer's character. Thus Boss writes "In subjective interpretation a dream tortoise would signify the tortoise-like and armored character of the dreamer himself" (1958, p. 49).
 
 <img src="../images/post-bcpov6kanimd-1.jpg" width="300px" height="auto"/>
 

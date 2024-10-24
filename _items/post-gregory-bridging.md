@@ -8,7 +8,9 @@ tags:
     - hasAuthor: jillgregory
     - hasTag: 6.3
     - inIssue: 6.3
+    - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "bridging-the-continent-an-interview-with-shirlee-a-martin"
 profileImg: bridging-the-continent.jpg
 ---
@@ -17,7 +19,7 @@ profileImg: bridging-the-continent.jpg
 
 **Jill:** Shirlee, who have been your mentors?
 
-**Shirlee:** For many years, I have been enamored by Carl Jung and I do Jungian-style dreamwork. Another person who has had a profound influence upon me is [Jeremy Taylor](../@jeremytaylor).
+**Shirlee:** For many years, I have been enamored by [Carl Jung](../topic~jung_and_dreams) and I do Jungian-style dreamwork. Another person who has had a profound influence upon me is [Jeremy Taylor](../@jeremytaylor).
 
 **Jill:** How would you describe the role that dreams have played in your life?
 

@@ -26,7 +26,7 @@ Figure 1 is a diagram of the formation. The heart shape represents the fourth ch
 
 A cross-type glyph adjacent to the chakra glyphs, appeared two days prior. Significantly, it is aligned between the third and fourth chakras. The arrangement of the two crop formations is similar to universal archetypes, such as an illustration one can find in the _Egyptian Book of the Dead_ and the Navaho sand painting called the Pollen Path.
 
-When we read the _Book of Revelation_ in this light, we can draw similar conclusions. The key verse is Revelation 11:11, where the two trees stand up after three and a half days of being dead. Three and a half is the midpoint of seven, signifying the fourth heart chakra.
+When we read the [_Book of Revelation_](../bcpov3zprosj/the-revelations-of-john-as-a-process-of-individuation) in this light, we can draw similar conclusions. The key verse is Revelation 11:11, where the two trees stand up after three and a half days of being dead. Three and a half is the midpoint of seven, signifying the fourth heart chakra.
 
 The cross (moved a bit closer in the diagram) is like an _axis mundi_, but also like a swastika. My dreams and research indicate that the swastika is a symbol of mankind as Demiurge, the co-creator of the physical world. Indications are that the future Demiurge is symbolized by Communion, as people become part of the Body of Christ... when they reach the heart chakra level.
 

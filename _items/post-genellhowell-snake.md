@@ -27,7 +27,7 @@ Furthermore, Berry (2000) notes the “images in our dreams are not reflections 
 
 > In working with dreams one may encounter a feeling of profound numinosity and of wonder at the objectivity and creativity of the unknown entity we call, for lack of a better name, the Guiding Self. These feelings grow out of the experience of receiving successions of precisely relevant dream image messages and of the concomitant sense of personal growth (p. 180).
 
-This article investigates the history, methods, and benefits of dream interpretation as a means for self-discovery. It specifically focuses on the methods from a depth psychology lens with Freud and Jung's lineage and their development of association, amplification, animation, active imagination, and ritual. Furthermore, I highlight the effectiveness of these modalities through the analysis of a personal dream rich in energetic content.
+This article investigates the history, methods, and benefits of dream interpretation as a means for self-discovery. It specifically focuses on the methods from a depth psychology lens with Freud and [Jung's](../topic~jung_and_dreams) lineage and their development of association, amplification, animation, active imagination, and ritual. Furthermore, I highlight the effectiveness of these modalities through the analysis of a personal dream rich in energetic content.
 
 ## The Theory of Dream Interpretation
 

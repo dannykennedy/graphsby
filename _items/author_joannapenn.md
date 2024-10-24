@@ -6,9 +6,16 @@ handle: joannapenn
 name: "Joanna Penn"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-joanna-penn.jpg
 coverImg: cover-author-joanna-penn.jpg
+websites:
+    - name: J.F.Penn
+      url: https://jfpenn.com/
+    - name: Instagram
+      url: https://www.instagram.com/jfpennauthor/
+    - name: Twitter
+      url: https://twitter.com/thecreativepenn
 ---
 
 Website: [jfpenn.com](https://jfpenn.com/)

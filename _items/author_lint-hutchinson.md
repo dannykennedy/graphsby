@@ -6,9 +6,12 @@ handle: linthutchinson
 name: "Lint Hutchinson"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-linton-hutchinson.jpg
 coverImg: cover-author-lint-hutchinson3.jpg
+websites:
+    - name: DreamLynx
+      url: http://www.dreamlynx.com/linton.html
 ---
 
 Website: [dreamlynx.com](http://www.dreamlynx.com)

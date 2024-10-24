@@ -8,7 +8,7 @@ tags:
     - hasAuthor: robertwaggoner
     - hasTag: 28.2-3
     - inIssue: 28.2-3
-    - hasTag: "lucid dreaming"
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: lucid-dreaming-transformational-potential
 ---
@@ -21,7 +21,7 @@ Yet somehow I intuitively felt that behind all of this _maya_ was something—so
 
 It was then that I realized I had only one choice: to go _beyond_ lucid dreaming; to let go of my own expectations, my thoughts and limiting conceptions, my self history and attachments—to let it all go and then experience the reality beyond thought and belief, the base reality, the source of what is.
 
-For years in lucid dreams, I had surrendered to the awareness behind the dreaming. Consciously aware in the dream state, I would shout out, “Show me something that I should see!” and then watch as I was deposited, conscious and aware, into a powerfully meaningful dream setting. Lucidly surrendering to the awareness behind the dreaming taught me to trust implicitly the larger nature of the dreaming self and its wisdom.
+For years in [lucid dreams](../topic~lucid-dreaming), I had surrendered to the awareness behind the dreaming. Consciously aware in the dream state, I would shout out, “Show me something that I should see!” and then watch as I was deposited, conscious and aware, into a powerfully meaningful dream setting. Lucidly surrendering to the awareness behind the dreaming taught me to trust implicitly the larger nature of the dreaming self and its wisdom.
 
 But now, I knew that to experience the reality behind all of this, meant letting go of all of this. To surrender to one’s inner self was one thing, but to surrender to the source of _maya_ took surrendering to a completely new level.
 

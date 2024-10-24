@@ -10,7 +10,9 @@ tags:
     - hasAuthor: jillgregory
     - hasTag: 6.2
     - inIssue: 6.2
+    - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "dream-wizard-an-interview-with-bob-trowbridge"
 profileImg: post-bcpov6trowi2-0.jpg
 ---

@@ -10,9 +10,17 @@ tags:
     - hasTag: 24.3
     - inIssue: 24.3
     - hasTag: "Book Review"
+    - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "book-review-the-dreamers-book-of-the-dead-by-robert-moss"
 profileImg: post-bcpov6zbotdm-0.jpg
+about:
+    - type: Book
+      name: "The Dreamer's Book of the Dead: A Soul Traveler's Guide to Death, Dying, and the Other Side"
+      sameAs:
+          - https://books.google.com.au/books/about/The_Dreamer_s_Book_of_the_Dead.html?id=8FsoDwAAQBAJ
+          - https://www.goodreads.com/en/book/show/208164
 ---
 
 <a href="https://www.amazon.com/Dreamers-Book-Dead-Travelers-Guide/dp/1594770379">

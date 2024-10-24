@@ -8,6 +8,7 @@ tags:
     - hasAuthor: kellybulkeley
     - hasTag: 7.2
     - inIssue: 7.2
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: "the-birth-of-the-dream-movement"
 ---
@@ -26,9 +27,9 @@ If we play a little bit with this metaphor of today's dream explorers as midwive
 
 The first responsibility would be to develop a deeper awareness of the history of dream study, dream interpretation, dream art - in short, we need to answer the question, "How have we gotten here?" before we can make any sound decisions about where we're going. And while historical analysis is often a tedious matter, in our case it actually leads to some extremely exciting realizations. Dreams have fascinated humankind from time immemorial - yet the last 90 years or so have seen the most profound and dramatic discoveries about dreams and dreaming ever. Indeed, we are now living in what may confidently be called "The Golden Century of Dreaming."
 
-Beginning in 1900 with Freud's _The Interpretation of Dreams_ and continuing with Jung's theories of the archetypes, the collective unconscious, and the individuation process, the field of dynamic psychology rescued dreams from the contempt of Enlightenment rationalism. It showed that dreams, far from senseless and arbitrary, are coherent, meaningful expressions of the unconscious.
+Beginning in 1900 with Freud's _The Interpretation of Dreams_ and continuing with [Jung's](../topic~jung_and_dreams) theories of the archetypes, the collective unconscious, and the individuation process, the field of dynamic psychology rescued dreams from the contempt of Enlightenment rationalism. It showed that dreams, far from senseless and arbitrary, are coherent, meaningful expressions of the unconscious.
 
-Aserinsky and Kleitman's sleep lab research in the 1950's initiated a series of astounding experimental discoveries, among them the facts that all people dream every night, whether they remember it or not, and that the process of dreaming is crucial for psychological and physiological health. Stephen LaBerge's remarkable studies of just the past ten years into lucid dreaming has shaken conventional understandings of dreams to their very foundations. And more generally, the abundance of anthropological research in recent decades has taught us more about the dream beliefs and practices of different cultures, western and nonwestern, ancient and modern, than has ever been known before.
+Aserinsky and Kleitman's sleep lab research in the 1950's initiated a series of astounding experimental discoveries, among them the facts that all people dream every night, whether they remember it or not, and that the process of dreaming is crucial for psychological and physiological health. [Stephen LaBerge's](../@stephenlaberge) remarkable studies of just the past ten years into lucid dreaming has shaken conventional understandings of dreams to their very foundations. And more generally, the abundance of anthropological research in recent decades has taught us more about the dream beliefs and practices of different cultures, western and nonwestern, ancient and modern, than has ever been known before.
 
 This is our historical legacy. It is a rich and exciting one - filled with bursts of creative insight and with inspiring suggestions for future journeys. But, it is still a very inchoate, fragmentary legacy. These discoveries have for the most part remained isolated from one another. For example, sleep lab research has generally ignored the dynamic psychologies and their claims that dreams are meaningful; the dynamic psychologies in turn have tended to see the understandings of dreams in other cultures as evidence for their own theories, rather than as legitimate ideas in their own right.
 

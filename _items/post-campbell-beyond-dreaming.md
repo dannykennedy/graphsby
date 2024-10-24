@@ -8,6 +8,7 @@ tags:
     - hasAuthor: jeancampbell
     - hasTag: 2.7
     - inIssue: 2.7
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: beyond-dreaming
 ---

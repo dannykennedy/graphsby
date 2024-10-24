@@ -4,10 +4,11 @@ itemId: bcpov6grkrev
 layout: post
 name: "Victorian Songlight: Birthings of Magic & Mystery - Book Review"
 tags:
- - hasTag: nancyroberts
- - hasTag: kathymartone
- - hasAuthor: nancyroberts
+    - hasTag: nancyroberts
+    - hasTag: kathymartone
+    - hasAuthor: nancyroberts
 type: post
+subType: Review
 urlSlug: "victorian-songlight-book-review-nancy-roberts"
 ---
 
@@ -27,4 +28,3 @@ Kate has come to live in a quaint 1800s small town in Arkansas following a faile
 Seemingly out of nowhere, Kate is experiencing doors shutting in her face: friends disconnecting, her art, once popular, no longer selling, her dream work group has ejected her. As we travel with her through her ups and downs, her attempts to make sense of her life, loves, losses and choices we also begin to understand that Kate's family history is far from happy, and through both her experiences and the gentle prodding of her - possibly imaginary - friend, "Grandfather," we begin to understand what has brought Kate to her present state, and what she will need to do to find her way back out of the dream.
 
 The book reads comfortably, like a conversation that, if sometimes painful, is told with the detailed confidences of a good friend sharing both the mundane and the most dramatic moments of her life as she sorts them out with us, and at the same time shares her methods of coping with, and investigating, a complex inner life.
-

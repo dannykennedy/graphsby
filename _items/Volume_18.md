@@ -4,8 +4,10 @@ itemId: bcpqobfojdv
 layout: page
 name: Volume 18
 tags:
-- hasAuthor: dreamnetwork
+    - hasAuthor: dreamnetwork
 type: post
+subType: PublicationVolume
 urlSlug: dream-network-volume-18
 ---
+
 <a href="../files/Volume_18.zip" download>Volume 18 (.zip file, 31mb)</a>

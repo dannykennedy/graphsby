@@ -9,6 +9,16 @@ body {
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     font-size: 1.05em;
+    line-height: 1.5rem;
+}
+
+p {
+    line-height: 1.5rem;
+}
+
+h1 {
+    font-size: 2rem;
+    line-height: 2.5rem;
 }
 
 #wrapper {
@@ -39,6 +49,11 @@ button:focus {
 button {
     border: none;
     background-color: inherit;
+}
+
+.highlight-box {
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 16px 10px;
 }
 
 /*Mailchimp*/

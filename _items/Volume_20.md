@@ -4,8 +4,10 @@ itemId: bcpqobpf6pi
 layout: page
 name: Volume 20
 tags:
-- hasAuthor: dreamnetwork
+    - hasAuthor: dreamnetwork
 type: post
+subType: PublicationVolume
 urlSlug: dream-network-volume-20
 ---
+
 <a href="../files/Volume_20.zip" download>Volume 20 (.zip file, 5mb)</a>

@@ -6,7 +6,7 @@ handle: ericsnyder
 name: "Eric Snyder"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-ericsnyder.jpg
 coverImg: gaia_gazing_snyder.jpg
 ---

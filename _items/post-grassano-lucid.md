@@ -10,16 +10,17 @@ tags:
     - hasTag: 11.3
     - inIssue: 17.1
     - inIssue: 11.3
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: the-afterglow-of-letting-go
 profileImg: bcpov6zfgluc-1.jpg
 ---
 
-<img src="../images/bcpov6zfgluc-0.jpg" style="width:400px; margin: auto" />
+<img src="../images/bcpov6zfgluc-0.jpg" style="width:400px; margin: auto">
 
-Letting go of control in lucid dreams has helped me to begin a beautiful friendship, guide a lover relationship through a healthy transformation and facilitate healing between my conscious and unconscious self.
+Letting go of control in [lucid dreams](../topic~lucid-dreaming) has helped me to begin a beautiful friendship, guide a lover relationship through a healthy transformation and facilitate healing between my conscious and unconscious self.
 
-In the world of lucid dreaming, where one gains the power to have everything and do anything, letting go of control seems to be a contradiction. It can take years to master this power, so why would anyone want to give it up? I remember when I first started to lucid dream around ten years ago, I flew around wildly, indulging in all sorts of sensual pleasures, mostly having sex. I had absolutely no respect for my dream characters and no communication beyond, "Too bad, bud, after all, it's MY dream!" In fact, a fellow student in a lucid dreaming study group I was participating in at the time kidded me that my mug shot was up on a bulletin board in the Dream Post Office! Since sowing my W.I.L.D. oats (Willful Instruction of Lucid Dreaming), I have learned better communication with my dream characters and with my unconscious self. Being conscious 24 hours a day not only can be very draining and counterproductive but misleading since your unconscious really has the ultimate control, anyway. Then, on February 3, 1987, early in the morning, I had the following lucid dream which I consider to be a milestone in my Dream Journey:
+In the world of lucid dreaming, where one gains the power to have everything and do anything, letting go of control seems to be a contradiction. It can take years to master this power, so why would anyone want to give it up? I remember when I first started to lucid dream around ten years ago, I flew around wildly, indulging in all sorts of sensual pleasures, mostly [having sex](../bcpov6zlucse/lucid-dreaming-transformational-potential). I had absolutely no respect for my dream characters and no communication beyond, "Too bad, bud, after all, it's MY dream!" In fact, a fellow student in a lucid dreaming study group I was participating in at the time kidded me that my mug shot was up on a bulletin board in the Dream Post Office! Since sowing my W.I.L.D. oats (Willful Instruction of Lucid Dreaming), I have learned better communication with my dream characters and with my unconscious self. Being conscious 24 hours a day not only can be very draining and counterproductive but misleading since your unconscious really has the ultimate control, anyway. Then, on February 3, 1987, early in the morning, I had the following lucid dream which I consider to be a milestone in my Dream Journey:
 
 ### The Afterglow of Letting Go
 
@@ -47,4 +48,4 @@ So now I am letting go of this desperate need to lucid dream about my abuse and 
 
 Although I still have a long way to go in my healing and in learning about creating and maintaining intimate relationships, I feel blessed by the help I am receiving through my dreams.∞
 
-<img src="../images/bcpov6zfgluc-1.jpg" style="width:400px; margin: auto" />
+<img src="../images/bcpov6zfgluc-1.jpg" style="width:400px; margin: auto">

@@ -9,6 +9,7 @@ tags:
     - hasTag: 2.10
     - inIssue: 2.10
 type: post
+subType: Review
 urlSlug: a-woman-dreams-in-a-seafood-restaurant
 ---
 

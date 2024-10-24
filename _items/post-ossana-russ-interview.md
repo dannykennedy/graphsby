@@ -11,7 +11,10 @@ tags:
     - hasTag: 12.4
     - inIssue: 12.4
     - featuredIn: dreamnetwork
+    - hasTopic: topic~dream-apps-and-online-dreamsharing
+    - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "embracing-the-future-in-our-dreams-emerging-forms-of-community"
 profileImg: post-bcpov6kfutur-0.jpg
 ---
@@ -52,13 +55,13 @@ But, I can't make any money from a dream. Nobody's going to pay me for a dream. 
 
 There are dreams that I have heard which I think people need to hear. One of the things I want to do is to try and make some kind of place for such dreams, so that these dreams can be heard. I want to do that in some way which is not going to be influenced by the dollar; I don't know how to accomplish that but it's a project I have in mind. I don't want to interpret these dreams; I don't want to write a professional or Jungian commentary about those dreams. I could surely do that, but I don't want to. I want the dreams to be heard. I would like, somehow, for the dreams to be heard all over the place!
 
-So, some of the things that are going on, because of the computer network, the global highways, the ways we are able now to instantly communicate with vast numbers of people, I want to be able to use it. I don't want to sit back and just say that's horrible, because it's not. I do want to make use of computer technology as a way and means for the psyche to be heard. I think that psyche is going to be heard, in any event. The problem is whether we can hear it and get the message... or have the message forced on us.
+So, some of the things that are going on, because of the computer network, the global highways, the ways we are able now to instantly communicate with vast numbers of people, I want to be able to use it. I don't want to sit back and just say that's horrible, because it's not. I do want to make use of [computer technology as a way and means for the psyche to be heard](../topic~dream-apps-and-online-dreamsharing). I think that psyche is going to be heard, in any event. The problem is whether we can hear it and get the message... or have the message forced on us.
 
 The psyche doesn't stand for not being heard for very long, whether that's in an individual's life, a group's life or a culture's life. The kind of community that can be generated from genuinely hearing what's going on in the psyche is an extraordinary community. This doesn't have to be in the same place, geographically, because we're not in the same place geographically anymore. That idea is I gone. Your real community in the future is going to be with you in Utah, me in Lake Stevens, X in Nova Scotia and Y in New Zealand and somehow we are going to be able to communicate and be an organic community, even though we're not in the same place. Finding ways of facilitating that sense of community is going to be a very interesting thing to do.
 
 I feel more in community with people I've never met, never seen, who are in Europe, or in Russia or South Africa, than I do with my neighbor across the road. And I can have two reactions about that: I can say that's horrible, we've got to have community right around us; but, what I've come to feel is that I don't want to insist on that anymore. First of all it's not happening organically. What is happening organically is a kind of psychic inner connection with people all over the world and I feel very connected with them.
 
-Certainly, I'm not in opposition to having community close at hand in my small town, but it doesn't seem to · be happening. I don't know whether that's peculiar to me or...
+Certainly, I'm not in opposition to having community close at hand in my small town, but it doesn't seem to be happening. I don't know whether that's peculiar to me or...
 
 **R.O.:** I don't believe so. I'm hearing everywhere I go that there is no such thing as community anymore, except when a crisis occurs. I am experiencing it myself. It's a great loss, whatever the causes. I wasn't I aware of how much I miss a sense of community until attending the gathering I mentioned earlier. The setting was on an island in British Columbia. There, most people do not have, nor need, cars. Every day was a celebration of people in the streets, walking and genuinely greeting one another. That in itself was incredibly nourishing and made me painfully nostalgic because that's the way it used to be...
 
@@ -108,7 +111,7 @@ I understand what you are asking. I encounter this all the time... peole who are
 
 Before I ask the next question, I'd like to reflect a bit on what you've been sharing. First, I totally agree that we are in a position, maybe for the first time... maybe... in the history of the human species on this planet, where we really don't have any precedents in history - even yesterday - which can help us move into tomorrow, into the future. What you are introducing is a new concept, that we must begin recognizing that the time for reaching into the past - into the places where the woundings have occurred - need, now, to become those transformative experiences which become our personal mythology. Those which can carry us into the creation of a new way. It seems that this is our challenge... in the midst of the present-day chaos.
 
-You have indicated, in response to the question of psyche's voice being heard in the world, that the kind of messages we're receiving from psyche, those that are ready to be heard out in the world, are the dreams that don't want or need to be interpreted. Are you saying that if is the dreams, which Jung referred to as coming from the level of the collective unconscious, that are ready to be heard ?
+You have indicated, in response to the question of psyche's voice being heard in the world, that the kind of messages we're receiving from psyche, those that are ready to be heard out in the world, are the dreams that don't want or need to be interpreted. Are you saying that if is the dreams, which [Jung](../topic~jung_and_dreams) referred to as coming from the level of the collective unconscious, that are ready to be heard ?
 
 **R.L.:** Let me say a couple of things about this. I would like to say that every dream needs to be heard. What I mean first of all is that the dreamer needs to hear the dream. The dreamer needs to listen to what the dream is saying. That's the first place of hearing is the dream. A lot of people don't hear their dreams, so, there's a whole part of a person's life that they're not hearing. There is a collective task to get people hearing their dreams. I encourage everyone to listen to their dreams... so, that's the first place of hearing and it's very deficient at the moment.
 

@@ -19,7 +19,7 @@ On a bright April morning in 1975, I had the following dream: Across the room fr
 
 At noon I joined a friend for lunch in his room near the Institute. As I related my dream, I looked to the bookshelf to my right. Squarely before my eyes stood the title AION: The Phenomenology of The Self (Vol. 9.,11 The Collected Works of C. G. Jung). This and other synchronistic events and dreams confirmed my calling to work on the frontiers of inner space.
 
-Whereas many Jungians explored the depths of symbols, archetypes, complexes and myths, I was drawn to Jung's idea of active imagination and the transcendent function.
+Whereas many Jungians explored the depths of symbols, archetypes, complexes and myths, I was drawn to [Jung's](../topic~jung_and_dreams) idea of active imagination and the transcendent function.
 
 ## Waking Dream Re-entry
 

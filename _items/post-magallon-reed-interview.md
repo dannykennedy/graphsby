@@ -10,7 +10,9 @@ tags:
     - hasAuthor: henryreed
     - hasTag: 8.4
     - inIssue: 8.4
+    - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "interview-with-henry-reed"
 profileImg: post-bcpov6reedi2-0.jpg
 ---

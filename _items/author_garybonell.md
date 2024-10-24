@@ -6,12 +6,23 @@ handle: garybonnell
 name: "Gary Bonnell"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-gary-bonell.jpg
 coverImg: cover-author-gary-bonnell.jpg
+websites:
+    - name: theknowingway.online
+      url: https://www.theknowingway.online/
+    - name: Twitter
+      url: https://twitter.com/Gary_Bonnell
+    - name: Instagram
+      url: https://www.instagram.com/gary.bonnell/
+    - name: YouTube
+      url: https://www.youtube.com/channel/UCy6eYG7eOrgt2ZtH_H3wWnQ
+    - name: Facebook
+      url: https://www.facebook.com/gary.bonnell1/
 ---
 
-Websites: [garybonnell.com](https://www.garybonnell.com/), [garybonnellmysticalstudies.com](https://garybonnellmysticalstudies.com)
+Websites: [theknowingway.online](https://www.theknowingway.online/)
 
 My approach to assisting individuals and groups find their genius is based on the following understanding:
 

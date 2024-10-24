@@ -8,6 +8,7 @@ tags:
     - hasAuthor: dickmcleester
     - hasTag: 6.3
     - inIssue: 6.3
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: "envisioning-a-dream-positive-culture"
 profileImg: post-bcpov6rcodpc-0.jpg

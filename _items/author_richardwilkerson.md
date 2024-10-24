@@ -6,8 +6,13 @@ handle: richardwilkerson
 name: "Richard Wilkerson"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-richard-wilkerson.jpg
+websites:
+    - name: dreamgate.com
+      url: http://dreamgate.com/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/richardcatlettwilkerson/
 ---
 
 Website: [dreamgate.com](http://dreamgate.com/)
@@ -18,7 +23,7 @@ I began studying with Jungian analysts in San Francisco in the early 1980s, and 
 
 I was especially interested in the lack of education that therapists were receiving in graduate counseling programs and began a dream tutoring practice to allow counselors from various modalities to respond to their clients' dreams in a more sophisticated manner. I felt a little boxed in by the work. The one-to-one contact was meaningful, but I felt I was not reaching a large enough audience. Also, the notion of dreams only being in the service of healing seemed limited. I wanted something that involved the wider culture. Both of these needs came together when I first experienced the Internet.
 
-I began developing a wide variety of programs to network dreamworkers, distribute news, experiment with online dream sharing and provide information and education on dreams. This kind of global networking seemed the natural extension of the grassroots Dream Movement that had been developing since the 1960s, and I modeled much of the online community around this. The first part of the model I found in local dream sharing groups such as those made popular by Strephon William-Kapalan, [Jeremy Taylor](../@jeremytaylor), Gayle Delaney, [Stan Krippner](../@stanleykrippner), [Montague Ullman](../@montagueullman), and many others. Another grassroots trend was a networked outpouring of information, education and creative group projects that included such organizations as BADG (Bay Area Dreamworkers Group), the Dream Library and Archive, and the Dream Network Journal.
+I began developing a wide variety of programs to network dreamworkers, distribute news, experiment with online dream sharing and provide information and education on dreams. This kind of global networking seemed the natural extension of the grassroots Dream Movement that had been developing since the 1960s, and I modeled much of the online community around this. The first part of the model I found in local dream sharing groups such as those made popular by [Strephon Kaplan-Williams](../@strephon_kaplan_williams), [Jeremy Taylor](../@jeremytaylor), Gayle Delaney, [Stan Krippner](../@stanleykrippner), [Montague Ullman](../@montagueullman), and many others. Another grassroots trend was a networked outpouring of information, education and creative group projects that included such organizations as BADG (Bay Area Dreamworkers Group), the Dream Library and Archive, and the Dream Network Journal.
 
 My initial online community, the [Electric Dreams](http://www.dreamgate.com/ed/) Community, had, and still maintains at its core, a peer/partnership paradigm, and a focus towards online dream sharing. As new Internet projects came up, various members volunteered to coordinate and direct them. In this way the community remained a public service, being able to offer a monthly magazine (e-zine), continual online dream groups, the Global Dreaming News, and other projects.
 

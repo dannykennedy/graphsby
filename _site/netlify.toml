@@ -9,3 +9,9 @@
   to = "/@dreamnetwork"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/theme~dream-apps-and-online-dreamsharing/"
+  to = "/topic~dream-apps-and-online-dreamsharing/"
+  status = 301
+  force = true

@@ -8,7 +8,9 @@ tags:
     - hasAuthor: jeanneschul
     - hasTag: 29.4
     - inIssue: 29.4
+    - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "soul-on-fire-dreams-as-a-vehicle-for-transformation"
 profileImg: post-bcpov6gresof-0.jpg
 ---
@@ -73,9 +75,9 @@ If we delve deeply enough into ourselves, we come to a common stream with other 
 
 **BH:** Yes. Most of all we are in a creative quest for silence. My wife and I are always pushing to have less busyness and less noise in our life. That doesn’t mean less work, but less of just the chatter of the world: fewer newspapers, less TV. The quietness invites the inner voice to be heard.
 
-**JS:** One aspect of dreaming that holds a lot of interest for me is the voice in dreams. In _Man and his Symbols_, Jung is quoted as saying that you must attend the voices you hear in a dream. You can’t deny it. Often, I wake up with is just a powerful statement and it’s all I have of the dream. The voice echoes back years and years later. Do you have any strong feelings about specific voices in dreams?
+**JS:** One aspect of dreaming that holds a lot of interest for me is the voice in dreams. In _Man and his Symbols_, [Jung](../topic~jung_and_dreams) is quoted as saying that you must attend the voices you hear in a dream. You can’t deny it. Often, I wake up with is just a powerful statement and it’s all I have of the dream. The voice echoes back years and years later. Do you have any strong feelings about specific voices in dreams?
 
-**BH:** Yes, if we’re just writing the plot, we are really dishonoring the dream. We need to pay attention to it by looking at it seriously and tending our reflections on it. In terms of the voice, I would agree with Jung. If I hear a voice in a dream, you can bet I’m going to attend to it. That doesn’t mean I’m going to obey it, but I’m going to attend to it. I’m going to listen to it and I’m going to try to discern from whence it came. I might engage it in active imagination; I will take it very seriously. You may remember that at one point Jung had a dream in which he heard the voice of a woman telling him he should give up psychiatry and go to Paris and be an artist. He confronted that voice. He attended to it very seriously... but he didn’t obey it. That was the time when he was working on his Anima. He was struggling through a very dark period which is now revealed in the Red Book.
+**BH:** Yes, if we’re just writing the plot, we are really dishonoring the dream. We need to pay attention to it by looking at it seriously and tending our reflections on it. In terms of the voice, I would agree with Jung. If I hear a voice in a dream, you can bet I’m going to attend to it. That doesn’t mean I’m going to obey it, but I’m going to attend to it. I’m going to listen to it and I’m going to try to discern from whence it came. I might engage it in active imagination; I will take it very seriously. You may remember that at one point Jung had a dream in which he heard the voice of a woman telling him he should give up psychiatry and go to Paris and be an artist. He confronted that voice. He attended to it very seriously... but he didn’t obey it. That was the time when he was working on his Anima. He was struggling through a very dark period which is now revealed in the [_Red Book_](../bcpov6zpitrb/the-red-book-jungs-journal).
 
 **JS:** Now that we have access to the Red Book, it affords us all the opportunity to witness Jung’s visual explorations of his dreams and his approach to Active Imagination. Thank you, Dr. Harris, for sharing your personal experience with dreams, as well as your expertise. I look forward to further conversations with you on this topic. ∞
 

@@ -10,7 +10,9 @@ tags:
     - hasAuthor: jillgregory
     - hasTag: 6.4
     - inIssue: 6.4
+    - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "viewing-the-interviewer-featuring-jill-gregory"
 profileImg: post-bcpov6gregi2-0.jpg
 ---
@@ -42,7 +44,7 @@ I had no idea lucid dreaming was possible until I read Ann Faraday's book, _Drea
 
 **Linda:** Was it then that you started to become more aware of the larger dream community?
 
-**Jill:** Somehow my confidence, probably through dreaming and a lot of other things, was raised enough that I went to the 1985 ASD conference as a panel presenter at the lucid dreaming symposium. Fred Olsen and I met at the conference and through him I apprenticed in reentry and reimaging and attended the first meeting of the San Francisco Bay Area Professional Dreamworkers' Group.
+**Jill:** Somehow my confidence, probably through dreaming and a lot of other things, was raised enough that I went to the 1985 ASD conference as a panel presenter at the lucid dreaming symposium. [Fred Olsen](../@fredolsen) and I met at the conference and through him I apprenticed in reentry and reimaging and attended the first meeting of the San Francisco Bay Area Professional Dreamworkers' Group.
 
 That group gave me the idea that a career in dreams was possible and that, with the support of the network, I could do it. So I opened the Novato Center for Dreams (NCD) in January of this past year and launched an official professional dreamwork career including interviewing for _Dream Network Bulletin._
 

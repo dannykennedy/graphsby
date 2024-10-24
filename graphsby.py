@@ -5,7 +5,7 @@
 #########
 
 # Libraries
-import os, sys, re, jinja2, calendar, html5lib, shutil, random
+import os, sys, re, jinja2, calendar, html5lib, shutil, random, json
 # import dateutil.parser # For converting xsd:datetime to something sensible
 from rdflib import Namespace, Literal, ConjunctiveGraph
 from pathlib import Path
@@ -79,6 +79,10 @@ copytree(cwd + "/scripts/", cwd + build_folder + "/scripts")
 images_folderpath = cwd + build_folder + '/images'
 Path(images_folderpath).mkdir(parents=True, exist_ok=True)
 copytree(cwd + "/_images/", cwd + build_folder + "/images")
+# Audio
+audio_folderpath = cwd + build_folder + '/audio'
+Path(audio_folderpath).mkdir(parents=True, exist_ok=True)
+copytree(cwd + "/_audio/", cwd + build_folder + "/audio")
 # Fonts 
 fonts_folderpath = cwd + build_folder + '/fonts'
 fonts_folderpath2 = cwd + build_folder + 'styles/fonts'
@@ -137,7 +141,9 @@ for pyyam in file_objects:
 		"person": personClass,
 		"page": pageClass,
 		"user": userClass,
-		"post": postClass
+		"post": postClass,
+		"topic": topicClass,
+		"website": websiteClass,
 	}
 
 	# When you find an item, store it by its ID
@@ -153,7 +159,7 @@ for pyyam in file_objects:
 		instances.append((newItem, rdfType, classMap[itemType]))
 
 	# Add handle, if type is person or page
-	if itemType == "user" or itemType == "page":
+	if itemType == "user" or itemType == "page" or itemType == "topic":
 		if "handle" in pyyam.keys():
 			instances.append((newItem, handle, Literal(pyyam['handle'], datatype=xsdString)))
 
@@ -166,6 +172,9 @@ for pyyam in file_objects:
 
 	# Title
 	instances.append((newItem, name, Literal(pyyam['name'], datatype=xsdString)))
+	# Short name
+	if 'shortName' in pyyam.keys():
+		instances.append((newItem, shortName, Literal(pyyam['shortName'], datatype=xsdString)))
 	# Description
 	htmlstring = pyyam["description"]
 	instances.append((newItem, description, Literal(htmlstring, datatype=xsdString)))
@@ -177,6 +186,9 @@ for pyyam in file_objects:
 	# Cover image
 	if 'coverImg' in pyyam.keys():
 		instances.append((newItem, coverImg, Literal(pyyam['coverImg'], datatype=xsdString)))
+	# Og:image
+	if 'ogImg' in pyyam.keys():
+		instances.append((newItem, ogImg, Literal(pyyam['ogImg'], datatype=xsdString)))
 
 	# Featured Label
 	if 'featuredLabel' in pyyam.keys():
@@ -192,6 +204,32 @@ for pyyam in file_objects:
 	# metaKeywords
 	if 'metaKeywords' in pyyam.keys():
 		instances.append((newItem, metaKeywords, Literal(pyyam['metaKeywords'], datatype=xsdString)))
+
+	# subType
+	# If present, this will be used as the Schema type
+	if 'subType' in pyyam.keys():
+		instances.append((newItem, subType, Literal(pyyam['subType'], datatype=xsdString)))
+
+	# Websites (these are items in their own right)
+	# websites:
+    # - name: droomtoko.nl
+    #   url: https://www.droomtoko.nl/
+	if 'websites' in pyyam.keys():
+		for website in pyyam['websites']:
+			website_id = website['url']
+			website_item = dreamNS[website_id]
+			instances.append((website_item, rdfType, websiteClass))
+			instances.append((website_item, name, Literal(website['name'], datatype=xsdString)))
+			instances.append((website_item, url, Literal(website['url'], datatype=xsdString)))
+			instances.append((newItem, hasWebsite, website_item))
+
+			# Also add sameAs here, for the URL
+			instances.append((newItem, owlSameAs, Literal(website['url'], datatype=xsdString)))
+
+	# SameAs
+	if 'sameAs' in pyyam.keys():
+		for sameAs in pyyam['sameAs']:
+			instances.append((newItem, owlSameAs, Literal(sameAs, datatype=xsdString)))
 		
 # Add instances to the graph
 for triple in instances:
@@ -240,6 +278,8 @@ for triple in edges:
 
 
 
+
+
 ################
 # OUTPUT GRAPH
 ################
@@ -250,10 +290,108 @@ graph.serialize(destination='dream-network16.ttl', format='turtle')
 
 
 ################
+# OUTPUT SITEMAP
+################
+
+# Function that takes pyyam and site_url and returns the URL
+def get_url(pyyam, site_url):
+	if pyyam["type"] == "user" or pyyam["type"] == "page":
+		return site_url + "@" + pyyam["handle"]
+	elif pyyam["type"] == "topic":
+		return site_url + pyyam["urlSlug"]
+	elif pyyam["type"] == "post":
+		return site_url + str(pyyam["itemId"]) + '/' + pyyam["urlSlug"]
+
+
+print("Building sitemap")
+# 1) Add pages
+sitemap = open(cwd + build_folder + '/sitemap.xml', "w")
+sitemap.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+sitemap.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+for pyyam in file_objects:
+	if "type" in pyyam.keys():
+		if pyyam["type"] == "user" or pyyam["type"] == "page" or pyyam["type"] == "topic" or pyyam["type"] == "post":
+			url = get_url(pyyam, site_url)
+			# If the pyyam has a canonicalUrl that is different from the URL
+			# Skip the page, the canonical URL is on another site
+			if "canonicalUrl" in pyyam.keys():
+				if pyyam["canonicalUrl"] != url:
+					continue
+			sitemap.write('<url>\n')
+			sitemap.write('<loc>' + url + '</loc>\n')
+			sitemap.write('</url>\n')
+
+# 2) Add PDF files 
+# These are in _site/files/pdfs, but then within subfolders
+# So we need to output e.g. https://dreamnetworkjournal.com/files/pdfs/Volume_33/33.4_gold_in_old_dreams.pdf
+# E.g. _site/files/pdfs/issue-1/issue-1.pdf
+pdf_folder = cwd + build_folder + '/files/pdfs'
+for subdir, dirs, files in os.walk(pdf_folder):
+	for file in files:
+		# Ignore hidden files
+		if file.startswith('.'):
+			continue
+		# Get the path
+		filepath = os.path.join(subdir, file)
+		# Get the URL
+		url = site_url + filepath.split("/_site/")[1]
+		sitemap.write('<url>\n')
+		sitemap.write('<loc>' + url + '</loc>\n')
+		sitemap.write('</url>\n')
+
+sitemap.write('</urlset>')
+sitemap.close()
+
+print("Sitemap built")
+
+################
 # GENERATE PAGES
 ################
 print("Total pages processed:", end=" ")
 print(len(file_objects))
+
+#################
+# FIND ALL TOPICS
+#################
+
+print("Finding topics")
+query_string = """
+	PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
+	SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid ?shortName
+	WHERE {{
+	?item a dnj:Topic .
+	?item dnj:name ?name .
+	?item dnj:itemId ?itemId .
+	?item dnj:handle|dnj:urlSlug ?stringid .
+	OPTIONAL {{ ?item dnj:profileImg ?img }}
+	OPTIONAL {{ ?item dnj:description ?description }}
+	OPTIONAL {{ ?item dnj:dateCreated ?dateCreated }}
+	OPTIONAL {{ ?item dnj:shortName ?shortName }}
+	}}
+	ORDER BY ASC(?name)
+	"""
+
+q = graph.query(query_string)
+print("num_topics: ", end="")
+print(str(len(q)))
+all_topics = []
+for row in q:
+	# Query results
+	post_description = row[2]
+	item_id = row[3]
+	dateOfPost = row[4]
+	string_identifier = row[6]
+	short_name = row[7]
+
+	# Truncate
+	truncated_desc = truncatePost(post_description, POST_SNIPPET_LENGTH, item_id).replace("...", "<span class='read-more'> ...read more</span>")
+
+	# Add to array
+	item_to_add = {"name": row[1], "description":truncated_desc, "itemId":row[3], "profileImg": row[5], "string_identifier": row[6], "shortName": short_name}
+
+	all_topics.append(item_to_add)
+# print("topics: ", end="")
+# print(str(all_topics))
 
 
 ##########################################
@@ -262,12 +400,9 @@ print(len(file_objects))
 
 print("Finding linked items")
 for pyyam in file_objects:
-
-	# print(pyyam["name"])
-
 	item_string_identifier = ""
 	item_type = pyyam["type"]
-	if item_type == "user" or item_type == "page":
+	if item_type == "user" or item_type == "page" or item_type == "topic":
 		item_string_identifier = pyyam["handle"]
 	elif item_type == "post":
 		item_string_identifier = pyyam["urlSlug"]
@@ -308,7 +443,7 @@ for pyyam in file_objects:
 		# Find all items that have tagged the current page
 		query_string = """
 					PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-			   		SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid ?type ?relationship
+			   		SELECT DISTINCT ?item ?name ?description ?itemId ?dateCreated ?img ?stringid ?type ?relationship ?metaDescription
 			   		WHERE {{
 			   		?currentItem dnj:handle|dnj:urlSlug "{string_identifier}"^^xsd:string .
 			   		?item ?relationship ?currentItem .
@@ -319,6 +454,7 @@ for pyyam in file_objects:
 					?item dnj:handle|dnj:urlSlug ?stringid .
 					?item a ?type .
 					OPTIONAL {{ ?item dnj:profileImg ?img }}
+					OPTIONAL {{ ?item dnj:metaDescription ?metaDescription }}
 			   		}}
 					ORDER BY DESC(?dateCreated)""".format(string_identifier=item_string_identifier)
 
@@ -329,25 +465,26 @@ for pyyam in file_objects:
 		"hasAuthor": [],
 		"hasTopic": [],
 	}
+
 	featured_items = []
 	for row in q:
+
+		item_id = row[3]
+		meta_desc = ""
+		if 9 < len(row):
+			meta_desc = row[9]
 
 		# item_to_page_relation is the predicate that links the item to the page
 		# e.g. hasAuthor, hasTag, featuredIn
 		item_to_page_relation = ""
 		if 0 <= 8 < len(row):
 			item_to_page_relation = row[8].split("#")[1]
-			# Check if row[8] includes the string "featured"
-			# If so, add to featured items
-			# if item_to_page_relation == 'hasTopic':
-			# 	print('item_to_page_relation: ', end="")
-			# 	print(item_to_page_relation)
 
 		# Now find everything that this item is tagged with
 		# This is literally Inception
 		query_string = """
 			PREFIX dnj:<https://www.dannykennedy.co/dnj-ontology#>
-			SELECT DISTINCT ?littleTag ?tagName ?tagId ?textId ?tagType ?property ?image
+			SELECT DISTINCT ?littleTag ?tagName ?tagId ?textId ?tagType ?property ?image ?metaDescription
 			WHERE {{
 				?item dnj:itemId "{id}"^^xsd:string .
 				?item ?property ?littleTag .
@@ -356,7 +493,8 @@ for pyyam in file_objects:
 				?littleTag dnj:handle|dnj:urlSlug ?textId .
 				?littleTag a ?tagType .
 				?littleTag dnj:profileImg ?image
-			}}""".format(id=row[3])
+				OPTIONAL {{ ?littleTag dnj:metaDescription ?metaDescription }}
+			}}""".format(id=item_id)
 		tag_query = graph.query(query_string)
 
 		# Create a tags array (for dem little tags on the cards)
@@ -371,6 +509,7 @@ for pyyam in file_objects:
 			tagType = lil_tag[4].split("#")[1]
 			relation = lil_tag[5].split("#")[1]
 			image = lil_tag[6]
+			meta_description = lil_tag[7]
 
 			tagLink = ""
 			if tagType == "Page" or tagType == "User":
@@ -381,22 +520,24 @@ for pyyam in file_objects:
 			cssTagClass = map_class_to_css_tag(tagType)
 
 			if relation == "hasTag":
-				little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink})
+				little_tags.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "metaDescription": meta_description})
 			elif relation == "hasAuthor":
-				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image})
+				authors.append({"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "metaDescription": meta_description})
 
+		# Query results
+		post_description = row[2]
+		item_id = row[3]
 		dateOfPost = row[4]
+		string_identifier = row[6]
+		card_type = row[7]
+
 		date_string = ""
 		if dateOfPost:
 			date_string = formatDate(dateOfPost, "month")
 
-		post_description = row[2]
 		# Truncate
-		truncated_desc = truncatePost(post_description, POST_SNIPPET_LENGTH).replace("...", "<span class='read-more'> ...read more</span>")
+		truncated_desc = truncatePost(post_description, POST_SNIPPET_LENGTH, item_id).replace("...", "<span class='read-more'> ...read more</span>")
 
-		card_type = row[7]
-		string_identifier = row[6]
-		item_id = row[3]
 		card_link = ""
 		card_type_literal = ""
 		if card_type == userClass:
@@ -407,7 +548,7 @@ for pyyam in file_objects:
 			card_type_literal = "Post"
 
 		# Add to array
-		item_to_add = {"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link, "card_type": card_type_literal}
+		item_to_add = {"name": row[1], "description":truncated_desc, "itemId":row[3], "dateCreated":date_string, "tags": little_tags, "authors": authors, "profileImg": row[5], "string_identifier": row[6], "card_link": card_link, "card_type": card_type_literal, "metaDescription": meta_desc}
 
 		if item_to_page_relation == "featuredIn":
 			featured_items.append(item_to_add)
@@ -513,7 +654,7 @@ for pyyam in file_objects:
 					other_articles_in_issue["articles"].append({"issue_name": issue_name, "name": article_name, "itemId": article_id, "profileImg": display_profile_img, "string_identifier": article_string_identifier, "url": '../' + article_id + '/' + article_string_identifier, "target": "_self"})
 
 		elif relation == "hasAuthor":
-			author = {"name": tagName, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "articles": []}
+			author = {"name": tagName, "type": tagType, "tagId": tagId, "textId": textId, "tagClass":cssTagClass, "tagLink":tagLink, "profileImg": image, "articles": []}
 			
 			# RELATED ARTICLES - Find all articles that this author has written
 			query_string = """
@@ -558,53 +699,153 @@ for pyyam in file_objects:
 		dateOfPost = pyyam["dateCreated"]
 		pyyam["dateString"] = formatDate(dateOfPost, "month")
 
-	# Add supporters
-	# If a supporter has a descriptionB, randomly choose one to display
-	# And add the description to the url for AB testing
-	# supporters = []
-	# for supporter in supporters:
-	# 	if "descriptionB" in supporter.keys():
-	# 		# Randomly choose description or descriptionB
-	# 		# 50/50 chance
-	# 		if random.randint(0,1) == 0:
-	# 			supporter["description"] = supporter["descriptionB"]
-	# 			supporter["url"] = supporter["url"] + "&cta=b"
-	# 		else:
-	# 			supporter["url"] = supporter["url"] + "&cta=a"
-			
-	
-	pyyam["supporters"] = supporters
+
+	# If itemId is in supporters_by_page_id, use custom supporters
+
+	if pyyam['itemId'] in supporters_by_page_id.keys():
+		pyyam["supporters"] = supporters_by_page_id[pyyam["itemId"]]
+	else: 
+		pyyam["supporters"] = supporters
 
 
 	canonical_url = ""
+	og_url = ""
 	custom_keywords = ""
 	if "canonicalUrl" in pyyam.keys():
 		canonical_url = pyyam["canonicalUrl"]
+	elif "type" in pyyam.keys() and pyyam["type"] == "topic":
+		canonical_url = site_url + pyyam["urlSlug"]
+		og_url = canonical_url
+		custom_keywords = pyyam["name"] + ", "
 	elif "handle" in pyyam.keys():
 		canonical_url = site_url + "@" + pyyam["handle"]
 		custom_keywords = pyyam["name"] + ", "
+		og_url = canonical_url
 	else: 
 		canonical_url = site_url + str(pyyam["itemId"]) + "/" + pyyam["urlSlug"]
+		og_url = canonical_url
+
+	# JSON-LD
+	json_ld_type = ""
+	if "subType" in pyyam.keys():
+		json_ld_type = pyyam["subType"]
+	elif "type" in pyyam.keys():
+		if pyyam["type"] == "user":
+			json_ld_type = "Person"
+		elif pyyam["type"] == "page":
+			json_ld_type = "WebPage"
+		elif pyyam["type"] == "post":
+			json_ld_type = "Article"
+	else:
+		json_ld_type = "Article"
+		
+	# JSON-LD authors
+	json_ld_authors = []
+	if "authors" in pyyam.keys():
+		for author in pyyam["authors"]:
+			author_type = ""
+			if "type" in author.keys():
+				if author["type"].lower() == "user":
+					author_type = "Person"
+				elif author["type"].lower() == "page":
+					author_type = "Organization"
+			else:
+				author_type = "Person"
+			json_ld_authors.append({"@type": author_type, "name": str(author["name"]), "url": site_url + "@" + author["textId"], "image": site_url + "images/" + author["profileImg"]})
+
 	
 
+	# SUMMARISE JSON-LD
+	json_ld = {
+		"@context": "http://schema.org",
+		"@type": json_ld_type,
+		"name": pyyam["name"],
+	}
+
+	sameAs = []
+	if "websites" in pyyam.keys():
+		for website in pyyam["websites"]:
+			sameAs.append(website["url"])
+	if "sameAs" in pyyam.keys():
+		for same in pyyam["sameAs"]:
+			sameAs.append(same)
+	if ("profileImg" in pyyam.keys()):
+		json_ld["image"] = site_url + "images/" + pyyam["profileImg"]
+	if ("metaDescription" in pyyam.keys()):
+		json_ld["description"] = pyyam["metaDescription"]
+	if ("metaKeywords" in pyyam.keys()):
+		json_ld["keywords"] = pyyam["metaKeywords"]
+	if ("type" in pyyam.keys()):
+		if pyyam["type"] == "post":
+			json_ld["author"] = json_ld_authors
+	if (len(sameAs) > 0):
+		json_ld["sameAs"] = sameAs
+	if ("about" in pyyam.keys()):
+		# About is a list
+		aboutSections = []
+		for about in pyyam["about"]:
+			aboutObj = {}
+			if ("type" in about.keys()):
+				aboutObj["@type"] = about["type"]
+			if ("name" in about.keys()):
+				aboutObj["name"] = about["name"]
+			if ("url" in about.keys()):
+				aboutObj["url"] = about["url"]
+			if ("sameAs" in about.keys()):
+				aboutObj["sameAs"] = about["sameAs"]
+			aboutSections.append(aboutObj)
+		# If it's only about one thing, don't make it a list
+		if len(aboutSections) == 1:
+			aboutSections = aboutSections[0]
+		# If the item is a review, add to itemReviewed
+		# Else, add to about
+		if json_ld_type == "Review":
+			json_ld["itemReviewed"] = aboutSections
+		else:
+			json_ld["about"] = aboutSections
+	# publisher is not valid for Person or Thing
+	# dateCreated is not valid for Person or Thing
+	if json_ld_type != "Person" and json_ld_type != "Thing":
+		json_ld["publisher"] = {
+			"@type": "Organization",
+			"name": "Dream Network Journal",
+			"logo": {
+				"@type": "ImageObject",
+				"url": site_url + "images/tree-logo.png"
+			},
+			"url": site_url + "@dreamnetwork"
+		}
+		if ("dateCreated" in pyyam.keys()):
+			json_ld["datePublished"] = pyyam["dateCreated"]
+
+	json_ld_str = json.dumps(json_ld, indent=4, sort_keys=True)
 
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
+			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str)
 		else:
-			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
+			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str)
 	else:
-		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, custom_keywords=custom_keywords)
+		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str)
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"
+	folderpath2 = cwd + "/site/no-type"
 	writepaths = []
 
 	if "type" in pyyam.keys():
 		# If type is a user or page, make @handle/index.html
+		# And an alternate one just at the id
 		if pyyam["type"] == "user" or pyyam["type"] == "page":
 			folderpath = cwd + build_folder + "/@" + pyyam["handle"]
+			folderpath2 = cwd + build_folder + "/" + str(pyyam["itemId"])
 			writepaths.append(folderpath + "/index.html")
+			writepaths.append(folderpath2 + "/index.html")
+		# If type is a topic, make a folder at the handle (which should be called topic~name)
+		elif pyyam["type"] == "topic":
+			folderpath = cwd + build_folder + "/" + pyyam["urlSlug"]
+			writepaths.append(folderpath + "/index.html")
+		# If type is a post, make a folder at the id
 		elif pyyam["type"] == "post":
 			folderpath = cwd + build_folder + "/" + str(pyyam["itemId"])
 			writepaths.append(folderpath + "/index.html")
@@ -612,6 +853,7 @@ for pyyam in file_objects:
 
 	# Make the folder for the posts
 	Path(folderpath).mkdir(parents=True, exist_ok=True)
+	Path(folderpath2).mkdir(parents=True, exist_ok=True)
 
 	# Add post file(s) to the folder
 	for path in writepaths:
@@ -627,6 +869,7 @@ for pyyam in file_objects:
 			home_page = open(home_writepath, "w")
 			home_page.write(full_html)
 			home_page.close()
+
 
 print("\nDone")
 

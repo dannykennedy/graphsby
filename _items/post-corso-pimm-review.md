@@ -10,6 +10,7 @@ tags:
     - hasTag: 29.2
     - inIssue: 29.2
 type: post
+subType: Review
 urlSlug: "notes-from-a-dreamer-on-dreaming-pimm-book-review"
 profileImg: post-bcpov6zpimmr-0.jpg
 ---

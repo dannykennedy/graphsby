@@ -8,7 +8,9 @@ tags:
     - hasAuthor: billstimson
     - hasTag: 1.1
     - inIssue: 1.1
+    - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "are-dream-groups-really-useful"
 profileImg: post-bcpov6mlight-0.jpg
 ---

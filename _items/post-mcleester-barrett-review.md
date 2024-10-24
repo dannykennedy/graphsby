@@ -6,11 +6,19 @@ name: "Book Review: The Committee of Sleep by Deirdre Barrett"
 tags:
     - hasTag: dickmcleester
     - hasAuthor: dickmcleester
+    - hasTag: deirdrebarrett
     - hasTag: 20.4
     - inIssue: 20.4
+    - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "book-review-the-committee-of-sleep-deirdre-barrett"
 profileImg: post-bcpov6rcommi-0.jpg
+about:
+    - type: Book
+      name: "The Committee of Sleep: How Artists, Scientists, and Athletes Use Dreams for Creative Problem Solving & How You Can Too"
+      sameAs:
+          - https://en.wikipedia.org/wiki/The_Committee_of_Sleep
 ---
 
 <a href="https://en.wikipedia.org/wiki/The_Committee_of_Sleep">
@@ -18,7 +26,7 @@ profileImg: post-bcpov6rcommi-0.jpg
 </a>
 <!--nopreview--><div class="caption" style="text-align: center;"><i><a href="https://en.wikipedia.org/wiki/The_Committee_of_Sleep">The Committee of Sleep: How Artists, Scientists, and Athletes Use Dreams for Creative Problem Solving & How You Can Too</a> by Deirdre Barrett, 2001, Crown Publishers, 211 pp.</i></div><!--/nopreview-->
 
-In this excellent book, Deirdre Barrett details the most important dream-inspired discoveries and creative works of art, music, film, science and medicine that are known. She looks back over the historical record, as well as offering many first-hand interviews with dozens of contemporary people. While simply recounting and verifying these stories alone would make for a great book, the author goes beyond that to discuss many other fascinating topics along the way.
+In this excellent book, [Deirdre Barrett](../@deirdrebarrett) details the most important dream-inspired discoveries and creative works of art, music, film, science and medicine that are known. She looks back over the historical record, as well as offering many first-hand interviews with dozens of contemporary people. While simply recounting and verifying these stories alone would make for a great book, the author goes beyond that to discuss many other fascinating topics along the way.
 
 She starts out with the uses of dreams in painting, sculpture, filmmaking, theater and literature. The uses of dreams in these disciplines reproduce dreams most closely, since their mediums are a natural fit with the imagery and story lines in dreams. Many artists have proclaimed dreams as their source of inspiration. For painting, she examines the dream experiences of William Blake and Salvador Dali, including a detailed description of Dali’s “slumber with a key” technique for catching artistic inspiration from hypnagogic dream imagery. She also discusses the process of a dream being turned into art, including dreams that at first simply seem to be nightmarish or problematic, and are only turned into artistic inspiration with time and work.
 

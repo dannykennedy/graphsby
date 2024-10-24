@@ -8,9 +8,11 @@ tags:
     - hasAuthor: curtisshoffman
     - hasTag: 30.4
     - inIssue: 30.4
+    - hasTopic: topic~dream-apps-and-online-dreamsharing
 type: post
 urlSlug: the-gilgamesh-cantata-a-personal-exploration-of-dreams-and-music-1
 profileImg: post-bcpov6zfgil1-0.jpg
+metaDescription: Curtiss Hoffman breaks down the frequency of musical elements in his dreams, using his own database program.
 ---
 
 ![Hoffman at his computer](../images/post-bcpov6zfgil1-0.jpg)
@@ -61,7 +63,7 @@ A wide diversity of composers is represented in my dreams: 54 identifiable compo
 
 <br>Gustav Mahler – 35<br>Richard Wagner – 25<br>Johannes Brahms – 16<br>Wolfgang Amadeus Mozart – 16<br>The Beatles – 16<br>Ludwig van Beethoven – 16<br>Johann Sebastian Bach – 12<br>Pyotr Ilyich Tchaikovsky – 9<br>Felix Mendelssohn – 5<br>Franz Schubert – 5<br>Antonin Dvorak – 4<br>Frederic Chopin – 4<br>Richard Strauss – 4<br>Giuseppi Verdi – 4<br>Jan Sibelius – 3<br>Franz Josef Haydn – 3<br>Michael Praetorius – 3<br>Robert Schumann - 3<br>Leonard Bernstein-3<br>Edvard Grieg – 2<br>Bob Dylan – 2<br>Percy Grainger - 2<br>Georg Frederick Handel – 2<br>Johann Pachelbel – 2<br>Sergei Rachmaninoff – 2<br>Camille Saint-Saens – 2<br>Dmitri Shostakovich - 2<br>Ralph Vaughan-Williams – 2<br>Carl Maria von Weber – 2<br>plus 29 others – 1 each
 
-As I reported in DNJ V29#3, during the summer of 2010 I read Jung’s Red Book and it had a profound effect upon my consciousness. Themes from the book frequently appeared in my dreams and waking synchronous experience, and in dreams, often prior to my reading them. The “biggest” dream in this series concerned my observation of a group of choristers performing an a capella cantata based upon texts from the Red Book. Upon awakening, I realized that the texts derived from the “Incantations” section of the book, in which Jung presents a series of prayers within his dreaming that was directed to the Babylonian hero Gilgamesh, whom he had previously (in the dream) mortally wounded then saved, by collapsing him to miniscule size and placing him within an egg, which he brought to a village for incubation.
+As I reported in DNJ V29#3, during the summer of 2010 I read [Jung’s](../topic~jung_and_dreams) [_Red Book_](../bcpov6zpitrb/the-red-book-jungs-journal) and it had a profound effect upon my consciousness. Themes from the book frequently appeared in my dreams and waking synchronous experience, and in dreams, often prior to my reading them. The “biggest” dream in this series concerned my observation of a group of choristers performing an a capella cantata based upon texts from the Red Book. Upon awakening, I realized that the texts derived from the “Incantations” section of the book, in which Jung presents a series of prayers within his dreaming that was directed to the Babylonian hero Gilgamesh, whom he had previously (in the dream) mortally wounded then saved, by collapsing him to miniscule size and placing him within an egg, which he brought to a village for incubation.
 
 Subsequent dreaming has made it clear to me that I have been asked to compose this cantata out of themes my dreaming presents to me. Even though I had no formal education in musical composition, I agreed to undertake this project. The first stage was to translate the words of the Incantations from German into Akkadian, the actual language of the Gilgamesh epic. My training in ancient Near Eastern languages has made it possible for me to accomplish this. Next, I am applying to the Incantations section text the specific musical themes derived from my dreams.
 

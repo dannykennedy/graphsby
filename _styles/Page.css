@@ -44,10 +44,14 @@
     text-align: center;
     font-family: "Passion", "Courier New", serif;
     font-size: 1.8rem;
-    margin-top: 5rem;
+    margin-top: 3rem;
     margin-bottom: 2.1rem;
     font-weight: 400;
     font-style: italic;
+}
+
+#item-heading.extra-padding {
+    margin-top: 5rem;
 }
 
 .page-items {
@@ -68,16 +72,6 @@
     padding-left: 20px;
 }
 
-/* .page-items {
-  grid-area: items;
-  padding: 0px 10px 30px 30px;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-auto-rows: min-content;
-  column-gap: 15px;
-  -webkit-column-gap: 15px;
-  -moz-column-gap: 15px;
-} */
 #profile-image {
     height: 180px;
 }
@@ -128,13 +122,17 @@
     font-family: "Lora", serif;
     background-color: white;
     padding: 15px 30px;
-    padding-top: 50px;
     margin-bottom: 15px;
     -webkit-box-sizing: border-box;
     /* Safari/Chrome, other WebKit */
     -moz-box-sizing: border-box;
     /* Firefox, other Gecko */
     box-sizing: border-box; /* Opera/IE 8+ */
+}
+
+#page-description-area.extra-padding {
+    padding: 15px 30px;
+    padding-top: 50px;
 }
 
 /* Gammin style for front page */
@@ -249,5 +247,10 @@ button.type-toggle-pill.active {
     button.type-toggle-pill {
         width: 90%;
         margin: auto;
+        margin-bottom: 0.5rem;
+    }
+    #page-description-area {
+        padding: 16px;
+        padding-top: 50px;
     }
 }

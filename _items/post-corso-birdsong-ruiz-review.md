@@ -11,14 +11,20 @@ tags:
     - hasTag: 24.2
     - inIssue: 24.2
 type: post
+subType: Review
 urlSlug: "the-mastery-of-love-book-review"
 profileImg: post-bcpov6zruizr-0.jpg
+about:
+    - type: Book
+      name: "The Mastery of Love: A Practical Guide to the Art of Relationships"
+      sameAs:
+          - https://www.goodreads.com/book/show/81939.The_Mastery_of_Love
+          - https://books.google.com.au/books/about/The_Mastery_of_Love_a_Practical_Guide_to.html?id=h7tVuQEACAAJ
 ---
 
 <a href="https://www.goodreads.com/book/show/81939.The_Mastery_of_Love">
 <img src="../images/post-bcpov6zruizr-0.jpg" width="200" height="auto" alt="The Mastery of Love Book"/>
-</a>
-<!--nopreview--><div style="text-align:center"><i>The Mastery of Love, first published January 1st 1999, 240 pp.</i></div><!--/nopreview-->
+</a><!--nopreview--><div style="text-align:center"><i>The Mastery of Love, first published January 1st 1999, 240 pp.</i></div><!--/nopreview-->
 
 Based on the Toltec tradition of the guidance of the fundamental three masteries, Don Miguel Ruiz guides us through the third of these which is the Mastery of Love. If we can master love, we master life itself. One anonymous reviewer on Amazon.com called this book “a courageous exploration of what it takes to experience being human in all its fullness,” and I completely agree. It cuts to the chase with simple easy language and clear and concise reasoning. This is not so much a book about dreams as it is a book about self love.
 

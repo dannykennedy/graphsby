@@ -15,7 +15,7 @@ profileImg: post-bcpov6grcdan-0.jpg
 
 <img src="../images/post-bcpov6grcdan-0.jpg" width="500px" height="auto"/><!--nopreview--><div style="text-align:center"><i>Berry College Dance Troupe, directed by Jeanne Schul Elkins. Photo: Chris Love</i></div><!--/nopreview-->
 
-Dance has the power to manifest the unconscious visibly through the physical shapes the dancers make and the movement patterns that they trace through space. The imagery that the dance stirs up in the mind’s eye engages the audience’s imagination. “Dreams never lie,’” C.G. Jung assures us. Gabrielle Roth asserts, “The body never lies.” Therefore, a dream dance has the potential to express a very primal truth.
+Dance has the power to manifest the unconscious visibly through the physical shapes the dancers make and the movement patterns that they trace through space. The imagery that the dance stirs up in the mind’s eye engages the audience’s imagination. “Dreams never lie,’” [C.G. Jung](../topic~jung_and_dreams) assures us. Gabrielle Roth asserts, “The body never lies.” Therefore, a dream dance has the potential to express a very primal truth.
 
 I teach dance at a small, private liberal arts college where I am Artistic Director of the Berry College Dance Troupe. We present an annual dance concert for which I develop original dances. For the 2002 concert entitled, ‘Wishes, Lies, and Dreams,’ I created a dream dance as a way of working with the dream material that was bubbling up to consciousness for me.
 

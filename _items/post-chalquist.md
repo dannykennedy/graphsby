@@ -63,7 +63,7 @@ Although looking at what brought us to this brink of mutual self-destruction wou
 
 _When the members of a culture that makes no room for the world of dream live in a state of partial slumber, their most unconscious leaders inflict on the world an endless series of nightmares._
 
-Psychically speaking, these serve to take down our Promethean/Faustian/Frankensteinian idealism a peg or two. Spurning the psyche and its unknown deities amounts to hubris. The true matrix of myth and meaning, the depths of what we like to call the unconscious have addressed us since before the written word. Why else the need for ritual, religion, folklore? Everywhere and always human beings have paid creative, pious, and imaginal heed to powers behind and beyond the limited ego... except today, when the "enlightened" ego takes credit for everything, with all things bent to the measure of man. Jung had a good word for this state of mind: inflation.
+Psychically speaking, these serve to take down our Promethean/Faustian/Frankensteinian idealism a peg or two. Spurning the psyche and its unknown deities amounts to hubris. The true matrix of myth and meaning, the depths of what we like to call the unconscious have addressed us since before the written word. Why else the need for ritual, religion, folklore? Everywhere and always human beings have paid creative, pious, and imaginal heed to powers behind and beyond the limited ego... except today, when the "enlightened" ego takes credit for everything, with all things bent to the measure of man. [Jung](../topic~jung_and_dreams) had a good word for this state of mind: inflation.
 
 I will not soon forget a dream I had after a restless evening of cursing dreams for communicating in incomprehensible symbols:
 
@@ -74,7 +74,7 @@ What a powerful reminder of the autonomy of the depths.
 
 Think about the recent craze over the remaking of a film about the Titanic. Could there be a clearer example of hubris than a ship with that particular name sinking on its brazen maiden voyage?
 
-In his paper “Re-Sink the Titanic,” psychologist Glen Slater writes: “As architects of hubris—unmitigated pride and sacrilege—the Titans—a race of giants—fought and were defeated by the Olympian gods, then banished to the underworld… .” It is ironic that the Titanic's sister ship was named the Olympic, and, in spite of an almost identical build, sailed steadily past her sibling’s fate without infamy. When these ships were named, someone failed to take their mythology seriously…
+In his paper “Re-Sink the Titanic,” psychologist Glen Slater writes: “As architects of hubris—unmitigated pride and sacrilege—the Titans—a race of giants—fought and were defeated by the Olympian gods, then banished to the underworld… .” It is ironic that the Titanic's sister ship was named the Olympic, and, in spite of an almost identical build, sailed steadily past her [sibling’s](../bcpov6kndiir/dreaming-insights-into-relationships-sibling-dreams) fate without infamy. When these ships were named, someone failed to take their mythology seriously…
 
 We are gripped by such tales because they are trying to warn us about the unconscious titanism made possible by the automaton satisfaction of being plugged into the mass mind. Disregarding the warning to unplug long enough to undertake a “psychological salvage,” we remain obsessed as though with an open wound. “It is we who have not yet completed this voyage.” (Glen Slater)
 

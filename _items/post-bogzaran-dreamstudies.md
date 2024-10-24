@@ -8,6 +8,7 @@ tags:
     - hasAuthor: faribabogzaran
     - hasTag: 22.2
     - inIssue: 22.2
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: holistic-dream-studies-in-academia
 ---

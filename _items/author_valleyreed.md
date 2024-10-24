@@ -6,9 +6,14 @@ handle: valleyreed
 name: "Valley Reed"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-valleyreed.jpg
 coverImg: cover-author-valleyreed.jpg
+websites:
+    - name: awakenthesacreddream.com
+      url: https://awakenthesacreddream.com/
+    - name: chrysalishealingarts.org
+      url: http://www.chrysalishealingarts.org/
 ---
 
 Website: [awakenthesacreddream.com](https://awakenthesacreddream.com/)

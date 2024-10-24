@@ -18,12 +18,12 @@
 
 #post .item-card p {
     font-family: Lora, serif;
-    line-height: 1.4em;
+    line-height: 1.5em;
 }
 
 #post .item-card li {
     font-family: Lora, serif;
-    line-height: 1.4em;
+    line-height: 1.5em;
 }
 
 #post .item-card pre {
@@ -31,7 +31,8 @@
     white-space: pre-wrap;
 }
 
-#post .caption {
+#post .caption,
+#page-description-area .caption {
     font-size: 0.85em;
     text-align: center;
     font-style: italic;
@@ -167,5 +168,11 @@ a.sidebar-item-card-description {
         margin-left: 0px;
         margin-top: 0rem;
         max-width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    #post .item-card {
+        padding: 16px;
     }
 }

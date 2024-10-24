@@ -8,6 +8,7 @@ tags:
     - hasAuthor: fredolsen
     - hasTag: 10.1
     - inIssue: 10.1
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: uncovering-the-network
 ---

@@ -8,9 +8,12 @@ tags:
     - hasAuthor: bambicorso
     - hasTag: kimbirdsong
     - hasAuthor: kimbirdsong
+    - hasTag: robertmoss
     - hasTag: 24.2
     - inIssue: 24.2
+    - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "dreamways-of-the-iriquois-book-review"
 profileImg: post-bcpov6mossr2-0.jpg
 ---

@@ -6,9 +6,12 @@ handle: christinaforbesthomas
 name: "Christina Forbes-Thomas"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-christina-forbes-thomas.jpg
 coverImg: cover-author-christina-forbes-thomas.jpg
+websites:
+    - name: womanyouarewine.com
+      url: https://womanyouarewine.com/#about
 ---
 
 Website: [womanyouarewine.com](https://womanyouarewine.com/)

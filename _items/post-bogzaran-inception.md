@@ -9,6 +9,7 @@ tags:
     - hasTag: 29.3
     - inIssue: 29.3
 type: post
+subType: Review
 urlSlug: inception-movie-review
 profileImg: post-bcpov6zincep-0.jpg
 ---
@@ -16,7 +17,7 @@ profileImg: post-bcpov6zincep-0.jpg
 <img src="../images/post-bcpov6zincep-0.jpg" alt="Inception movie poster" width="200" height="auto"/>
 <!--nopreview--><div class="caption" style="text-align: center;"><i>Inception</i>, 2010, directed by Christopher Nolan</div><!--/nopreview-->
 
-I am certain many viewers walked out of Inception with great delight at the concept. Its creative expression is brilliant. However, as someone who has been teaching Extraordinary Dreams such as lucid dreaming, dreams within dreams, mutual dreaming, for a very long time, I left the movie with some questions.
+I am certain many viewers walked out of Inception with great delight at the concept. Its creative expression is brilliant. However, as someone who has been teaching Extraordinary Dreams such as [lucid dreaming](../topic~lucid-dreaming), dreams within dreams, mutual dreaming, for a very long time, I left the movie with some questions.
 
 Although the movie draws attention to extraordinary experiences in dreams, I wonder about the message this film is conveying. Of course the movie is Science Fiction, but beyond every novel or any science fiction, there is scientific and narrative truth. In a recent interview, Chris Nolan stated that he did not do much research into dreaming and that the script is based primarily on his own experiences. His personal experience has provided him with enough qualitative material to convey states of consciousness that some people access easily while others manage to attain only through effort, incubation or invocation.
 

@@ -1,14 +1,16 @@
 ---
-dateCreated: '1996-01-01T11:32:52'
+dateCreated: "1996-01-01T11:32:52"
 itemId: bcpov6zfcybr
 layout: post
-name: "Dreaming Online: The Global Cyberspace
-Dreamsharing Community"
+name: "Dreaming Online: The Global Cyberspace Dreamsharing Community"
 tags:
-- hasTag: richardwilkerson
-- hasAuthor: richardwilkerson
-- hasTag: 15.1
-- inIssue: 15.1
+    - hasTag: richardwilkerson
+    - hasAuthor: richardwilkerson
+    - hasTag: 15.1
+    - inIssue: 15.1
+    - hasTopic: topic~dream-apps-and-online-dreamsharing
+    - hasTopic: topic~dreamsharing-groups
+    - hasTopic: topic~dream_movement
 type: post
 urlSlug: dreaming-online-the-global-cyberspace-dreamsharing-community
 ---
@@ -33,7 +35,7 @@ Usenet is a group of electronic discussion boards started in 1979 to discuss var
 
 In the last year, two more dream related Usenet groups have appeared. The first is alt.dreams.lucid, a discussion board just for lucid dreaming issues, and alt.dreams.Castaneda, which discusses all of the Castaneda issues, but seems most invigorated by the variations on lucid dreaming that are being practiced. Other newsgroups such as alt.psychology.Jung and talk.religion.new age will occasionally discuss dreams in light of their own particular viewpoints.
 
-A spin-off of the newsgroups are the real time internet Relay Chat channels. On the IRC channels you can enter one of hundreds of ongoing real time discussions, simply by typing in a sentence or two and sending it to a screen where others in the room are also sending sentences. Or you can create you own rooms, invite your friends or associates or wait for visitors. Complex interactions and threads can take place but generally the quality is usually lower than on Usenet. There are exceptions. These Chat rooms are also available on most commercial online servers and Fred Olsen has been doing dream reentry work on both Genie and AOL. His directed questions style works quite well in this real time mode. Another notable exception is the Dream Studio, which Donna Campos opens on Mondays nights at 6:00 PM EST on Compuserve. She invites a different guest each week to discuss a variety of dream topics. The key to these chat channels seems to be having a host or guiding moderator.
+A spin-off of the newsgroups are the real time internet Relay Chat channels. On the IRC channels you can enter one of hundreds of ongoing real time discussions, simply by typing in a sentence or two and sending it to a screen where others in the room are also sending sentences. Or you can create you own rooms, invite your friends or associates or wait for visitors. Complex interactions and threads can take place but generally the quality is usually lower than on Usenet. There are exceptions. These Chat rooms are also available on most commercial online servers and [Fred Olsen](../@fredolsen) has been doing dream reentry work on both Genie and AOL. His directed questions style works quite well in this real time mode. Another notable exception is the Dream Studio, which Donna Campos opens on Mondays nights at 6:00 PM EST on Compuserve. She invites a different guest each week to discuss a variety of dream topics. The key to these chat channels seems to be having a host or guiding moderator.
 
 ## The World Wide Web (WWW): Internet Gets a Friendly Face
 
@@ -67,7 +69,7 @@ Electric Dreams continues to be a kind of eye on Internet for dreamers and a for
 
 Many people are wary of the Internet and the promises of its being just the latest in a series of 19th and 20th Century technological solutions that end up causing more harm than good. I agree with this caution and feel the Net will probably bring with it more problems than solutions. Just like democracy and Rock & Roll. I'm afraid it is already past the point of trying to pack it up and send it back to National Science Foundation. What we can do is become involved and shape the way that online interaction occurs. For example, just as with off-line dreamsharing, on line dreamsharing continues the valuing of inner resourcefulness, of intuitive perception, of supporting each person in being his or her own authority in matters of meaning and value and bringing those out into the community at large.
 
-I don't mean to offer online dreamsharing as better than off-line. I'd rather not set up a feeling of competition here; I personally love the physical embodiments of dream drama and the risky emotional contact and personal closeness of face-to-face meetings. This is just not available at this time on the Net. Rather, I'd like to present online dreamsharing as something new, opening a new niche, a new wavelength that is different from face-to-face dream sharing. Online dreamsharing complements and supports all other kinds of dream sharing through the more specific development of reflective skills and more general global dissemination of the benefits of communities tied together through the sharing of dreams.
+I don't mean to offer [online dreamsharing](../topic~dream-apps-and-online-dreamsharing) as better than off-line. I'd rather not set up a feeling of competition here; I personally love the physical embodiments of dream drama and the risky emotional contact and personal closeness of face-to-face meetings. This is just not available at this time on the Net. Rather, I'd like to present online dreamsharing as something new, opening a new niche, a new wavelength that is different from face-to-face dream sharing. Online dreamsharing complements and supports all other kinds of dream sharing through the more specific development of reflective skills and more general global dissemination of the benefits of communities tied together through the sharing of dreams.
 
 ## Bibliography
 

@@ -9,6 +9,7 @@ tags:
     - hasTag: curtisshoffman
     - hasTag: 33.3
     - inIssue: 33.3
+    - hasTopic: topic~dream-books
 type: post
 urlSlug: "weaving-dreams-into-the-classroom-book-review"
 profileImg: post-bcpov6zhoffr-0.jpg
@@ -17,7 +18,7 @@ profileImg: post-bcpov6zhoffr-0.jpg
 <a href="http://www.brownwalker.com/book/1612337260">
 <img src="../images/post-bcpov6zhoffr-0.jpg" width="200" height="auto" alt="Dream Tending book"/>
 </a>
-<!--nopreview--><div style="text-align:center"><i>Weaving Dreams into the Classroom Practical Ideas for Teaching about Dreams and Dreaming at Every Grade Level, including Adult Education by Curtiss Hoffman & Jacquie Lewis (editors), <a href="http://www.brownwalker.com/book/1612337260">Brown Walker</a>, Inc, 2014, 184 pp.</i></div><!--/nopreview-->
+<!--nopreview--><div style="text-align:center"><i>Weaving Dreams into the Classroom Practical Ideas for Teaching about Dreams and Dreaming at Every Grade Level, including Adult Education by [Curtiss Hoffman](../curtisshoffman) & Jacquie Lewis (editors), <a href="http://www.brownwalker.com/book/1612337260">Brown Walker</a>, Inc, 2014, 184 pp.</i></div><!--/nopreview-->
 
 _Weaving Dreams into the Classroom_ was conceived during a symposium presented at the 27th annual Conference of the International Association for the Study of Dreams (IASD) in 2010, where the theme of Dreams in Educational Environments was heavily emphasized and supported.
 

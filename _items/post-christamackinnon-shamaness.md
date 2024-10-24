@@ -10,7 +10,9 @@ tags:
     - hasAuthor: davidsparenberg
     - hasTag: 32.2-3
     - inIssue: 32.2-3
+    - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "a-shamaness-in-devonshire-an-interview-with-christa-mackinnon"
 profileImg: post-bcpov6shaman-0.jpg
 ---

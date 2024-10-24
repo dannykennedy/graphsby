@@ -4,8 +4,10 @@ itemId: bcpqoalnwed
 layout: page
 name: Volume 8
 tags:
-- hasAuthor: dreamnetwork
+    - hasAuthor: dreamnetwork
 type: post
+subType: PublicationVolume
 urlSlug: dream-network-volume-8
 ---
+
 <a href="../files/Volume_8.zip" download>Volume 8 (.zip file, 13mb)</a>

@@ -6,9 +6,16 @@ handle: suelo
 name: "Daniel Shellabarger"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-daniel-suelo.jpg
 coverImg: cover-author-daniel-suelo.jpg
+websites:
+    - name: Zero Currency
+      url: http://zerocurrency.blogspot.com/
+    - name: Blogger Profile
+      url: https://www.blogger.com/profile/13739011165937473840
+    - name: Without Money
+      url: https://sites.google.com/site/livingwithoutmoney/
 ---
 
 Blog: [zerocurrency.blogspot.com](http://zerocurrency.blogspot.com/)

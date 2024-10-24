@@ -6,9 +6,20 @@ handle: stephenaizenstat
 name: "Stephen Aizenstat, Ph.D."
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-stephen-aizenstat.jpg
 coverImg: cover-author-stephen-aizenstat.jpg
+websites:
+    - name: Dream Tending
+      url: https://dreamtending.com/stephen-aizenstat-ph-d/
+    - name: Twitter
+      url: https://twitter.com/dreamtending1
+    - name: Instagram
+      url: https://www.instagram.com/dreamtending
+    - name: Facebook
+      url: https://www.facebook.com/DreamTending/
+    - name: LinkedIn
+      url: https://www.linkedin.com/company/dream-tending/
 ---
 
 Website: [Dream Tending](https://dreamtending.com/stephen-aizenstat-ph-d/)

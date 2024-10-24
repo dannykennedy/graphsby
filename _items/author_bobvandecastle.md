@@ -5,9 +5,12 @@ itemId: bcphbq3vand
 handle: bobvandecastle
 name: "Robert Van de Castle"
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-bobvandecastle.jpg
 coverImg: cover-author-bobvandecastle.jpg
+websites:
+    - name: ourdreamingmind.com
+      url: https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html
 ---
 
 Website: [ourdreamingmind.com](https://web.archive.org/web/20140902143238/http://ourdreamingmind.net/index.html)
@@ -23,4 +26,3 @@ In addition, he always felt that trying to familiarize the public with the fasci
 He was most proud of his efforts to develop the IASD as an organization that represents a "rainbow coalition" of dreamers from around the world. He was honored to present at the first annual international ASD conference in San Francisco in 1984 and then become the next ASD president. He introduced active participation in dream workshops, the infamous Dream Ball, a Dream Telepathy contest, and sessions on lucid dreaming. He was the recipient of IASD’s first Lifetime Achievement Award. In addition, he was a Past President of the Parapsychological Association (1970). Most recently, he was on the Advisory Board of DreamsCloud, the world's foremost dream related website.
 
 He is survived by his sons, Drake Cameron Van de Castle and Keith Dawson Van de Castle; daughter, Parker Mary York and daughter-in-law, Teresa Spigle Van de Castle. He is also survived by his sister, Mary Elizabeth Hinton; his loving partner of five plus years, [Bobbie Ann Pimm](../@bobbieannpimm), and three grandchildren.
-

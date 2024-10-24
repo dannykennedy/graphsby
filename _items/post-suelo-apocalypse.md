@@ -1,5 +1,5 @@
 ---
-dateCreated: "2009-01-01T11:32:52"
+dateCreated: "1999-01-02T11:32:52"
 itemId: bcpov6msapoc
 layout: post
 name: "Is It the End of Time... or the Beginning of Now? Cross Cultural Perspectives on Apocalypse and Salvation"
@@ -8,9 +8,13 @@ tags:
     - hasAuthor: suelo
     - hasTag: 28.1
     - inIssue: 28.1
+    - hasTag: 18.2
+    - inIssue: 18.2
 type: post
 urlSlug: "cross-cultural-perspectives-on-apocalypse-and-salvation"
 ---
+
+_This article was first printed in DNJ Vol. 18 No. 2 (in the pre-Y2K year of 1999), and subsequently reprinted ten years later in Vol. 29 No. 1._
 
 > _"For the Days of the Lord are coming... And it shall come to pass afterward, saith God, that I will pour out my Spirit on all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions. Even on my servants and handmaidens I will pour out, in those days, my Spirit; and they shall prophesy."_ Words of the Lord himself revealed to the prophet Joël preserved in Joël 2.28-30 in the Old Testament; due to their crucial importance, repeated in the New Testament in Acts 2.16-18.
 
@@ -53,7 +57,7 @@ Notice that in various world mythologies—such as Aztec, Greek, Hindu, Babyloni
 
 In the Old Testament book of Daniel, these same mythic motifs are the dreams of the Babylonian emperor Nebuchanezzar. And these are the motifs Jesus refers to in the New Testament. In his first dream, Nebuchanezzar sees these four ages: Gold, Silver, Bronze, Iron, and Mixture. In his second dream, he sees the World Tree, dying and resurrecting. Yes, this is the Dream Time we are peering into.
 
-In the Old Testament book of Ezekiel and the New Testament book of Revelation, these four ages metamorphose into the four Beasts of the Zodiac, representing the four seasons of Time: The Calf (Taurus), the Eagle (Scorpio), the Lion (Leo), and the Man (Aquarius), with the fifth, the mysterious Divine Incarnation, at the Center. In Aztec myth, each of these four ages is represented by a god, a color and an astrological element. The fourth is the mortal Quetzalcoatl, and the fifth is the immortal Quetzalcoatl. This is comparable to the Bible's fourth image: the mortal Aquarius the Man, and the fifth Son of Man in the Center of the four.
+In the Old Testament book of Ezekiel and the [New Testament book of Revelation](../bcpov3zprosj/the-revelations-of-john-as-a-process-of-individuation), these four ages metamorphose into the four Beasts of the Zodiac, representing the four seasons of Time: The Calf (Taurus), the Eagle (Scorpio), the Lion (Leo), and the Man (Aquarius), with the fifth, the mysterious Divine Incarnation, at the Center. In Aztec myth, each of these four ages is represented by a god, a color and an astrological element. The fourth is the mortal Quetzalcoatl, and the fifth is the immortal Quetzalcoatl. This is comparable to the Bible's fourth image: the mortal Aquarius the Man, and the fifth Son of Man in the Center of the four.
 
 Because of our desire to escape the Present Moment, we love to put our hope in Apocalyptic events on the calendar, whether we speak of Christ's coming, the Age of Aquarius or Y2K. But have we forgotten that Capricorn follows Aquarius, starting us over again? Have we forgotten that a galaxy takes millions of years to make one revolution? Have we forgotten that there are four ages within four ages, following for ages _ad infinitum_? Hinduism calls these ages Yugas and clearly points out their infinite nature.
 

@@ -6,9 +6,12 @@ handle: henryreed
 name: "Henry Reed"
 shortDescription: ""
 tags:
-date: 2015-03-24
+date: 2022-10-21
 profileImg: author-henry-reed.jpg
 coverImg: cover-author-henry-reed.jpg
+websites:
+    - name: henryreed.com
+      url: https://web.archive.org/web/20180522230707/http://www.henryreed.com/
 ---
 
 Website: [henryreed.com](https://web.archive.org/web/20180522230707/http://www.henryreed.com/)

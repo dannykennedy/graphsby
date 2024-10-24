@@ -10,14 +10,16 @@ tags:
     - hasAuthor: jillgregory
     - hasTag: 5.6
     - inIssue: 5.6
+    - hasTopic: topic~dream-interviews
 type: post
+subType: Conversation
 urlSlug: "interview-with-dnb-publisher-linda-magallon"
 profileImg: post-bcpov6magai2-1.jpg
 ---
 
 **Jill:** Linda, would you describe for me what it is that you do with dreams?
 
-**Linda:** I do dreamwork with individuals, teach and give presentations at bookstores, community college, conferences and at the Dream House in San Francisco, and write articles and columns for dream-related publications. I have been involved in several networking activities such as the "Bay Area Professional Dreamworkers Group" (which Fred Olsen and I co-founded); the "Seth Dream Network" (for which I served as coordinator); the "Association for the Study of Dreams (as membership chairperson); and as a co-chairperson for the "Dream Educators' Network". Also, for the past three years, I have facilitated an international lucid group dreaming experiment called "The Lucidity Project".
+**Linda:** I do dreamwork with individuals, teach and give presentations at bookstores, community college, conferences and at the Dream House in San Francisco, and write articles and columns for dream-related publications. I have been involved in several networking activities such as the "Bay Area Professional Dreamworkers Group" (which [Fred Olsen](../@fredolsen) and I co-founded); the "Seth Dream Network" (for which I served as coordinator); the "Association for the Study of Dreams (as membership chairperson); and as a co-chairperson for the "Dream Educators' Network". Also, for the past three years, I have facilitated an international lucid group dreaming experiment called "The Lucidity Project".
 
 <img src="../images/post-bcpov6magai2-0.jpg" width="200" height="auto" alt="Linda Magallon"/>
 <!--nopreview--><div style="text-align:center"><i>Linda Magallón</i></div><!--/nopreview-->

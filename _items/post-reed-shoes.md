@@ -29,7 +29,7 @@ There were many other frequent patterns. Many dreams expressed the theme of an a
 
 Shoe stories in dreams seem to mirror the shoe situations encountered in life. Shoes with special features seem to be a notable exception.
 
-What do shoes mean to the dreamer? Respondents offered such explanations as understanding, role, adaptation and persona. More generally, we might suggest that shoes represent cognitive schemes, or mental abstractions, used as structures to contain and give shape to experience. They are used as an adaptive tool to help navigate through life situations. Carl Jung once remarked, "The shoe that fits one person pinches another; there is no recipe for living that suits in all cases."
+What do shoes mean to the dreamer? Respondents offered such explanations as understanding, role, adaptation and persona. More generally, we might suggest that shoes represent cognitive schemes, or mental abstractions, used as structures to contain and give shape to experience. They are used as an adaptive tool to help navigate through life situations. [Carl Jung](../topic~jung_and_dreams) once remarked, "The shoe that fits one person pinches another; there is no recipe for living that suits in all cases."
 
 Many shoe dreams reflected a concern for individuality as well as appropriateness. In one dream, for example, the dreamer lamented that all the shoes in the store seemed mass produced and none fit her unique orientation. One dreamer offered this observation, which can be taken both literally and metaphorically: "It's hard to find a good looking pair of shoes that fit comfortably."
 

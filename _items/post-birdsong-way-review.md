@@ -8,9 +8,16 @@ tags:
     - hasAuthor: kimbirdsong
     - hasTag: 23.4-24.1
     - inIssue: 23.4-24.1
+    - hasTopic: topic~dream-books
 type: post
+subType: Review
 urlSlug: "the-dreaming-way-book-review"
 profileImg: post-bcpov6modway-0.jpg
+about:
+    - type: Book
+      name: "The Dreaming Way: Dreamwork and Art for Remembering and Recovery"
+      sameAs:
+          - https://www.goodreads.com/book/show/5027066-the-dreaming-way
 ---
 
 <a href="https://www.goodreads.com/book/show/5027066-the-dreaming-way">

@@ -32,7 +32,7 @@ We have stories of people who fly on air channels, people who FLY TO SEE and peo
 
 Then there is intention flying versus guided imagining. I've got stories about losing power in midflight, as well as flying faster than light. One woman from the midwest says she flew to her father racing death, and was able to say good by before he died. Some dreamers tell about floating through walls, through floors and windows. They can float down stairs, or descend head first diving, spinning, dancing, with arms backwards and arms forward. Some have no arms at all.
 
-Upside-down flying is more difficult, says a girl from New Hampshire, because you can't see where you are going at all. I'm waiting for more information about ecstatic flying orgasms. The girl who can bring them on at will says she has invented a dream pill and has a teachable Olympic routine of sexual acrobatics and tandem flying.
+Upside-down flying is more difficult, says a girl from New Hampshire, because you can't see where you are going at all. I'm waiting for more information about ecstatic flying orgasms. The girl who can bring them on at will says she has invented a dream pill and has a teachable Olympic routine of [sexual acrobatics](../bcpov6zlucse/lucid-dreaming-transformational-potential) and tandem flying.
 
 While presenting some dream programs for the "outer-most" listener supported radio station in Provincetown Mass., I received more contributions to my collection of flying dreams. I am fascinated by the variety of methods, positions, problems and adventures of those lucky dreamers who have the flying skill on command.
 

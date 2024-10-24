@@ -10,6 +10,7 @@ tags:
     - inIssue: 26.4
 type: post
 urlSlug: "dreams-are-patterned-and-have-meaning"
+metaDescription: "Dream narratives are not meaningless, but reflect a basic continuity with waking life. By Stanley Krippner and Allan Combs."
 ---
 
 _by [Stanley Krippner](https://stanleykrippner.weebly.com/) & [Allan Combs](https://sourceintegralis.org/)_
@@ -59,7 +60,7 @@ A Shakespearean character poetically dismissed dreams as experiences “filled w
 ### References
 
 -   Adler, A. (1938). Social interest: Challenge to mankind. London: Faber and Faber.
--   Barrett, D. (2001). The committee of sleep. New York: Crown.
+-   Barrett, D. (2001). [The Committee of Sleep](../bcpov6rcommi/book-review-the-committee-of-sleep-deirdre-barrett). New York: Crown.
 -   Cartwright, R. (1986). Affect and dream work from an information processing point of view. Journal of Mind and Behavior, 7, 411-428.
 -   Cartwright, R. (2000). How and why the brain makes dreams: A report card on current research on dreaming. Behavior and Brain Sciences, 23, 914-916.
 -   Crick, F., & Mitchison, G. (1983). The function of dream sleep. Nature, 304, 111-114.

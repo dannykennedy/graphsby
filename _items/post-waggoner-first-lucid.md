@@ -9,6 +9,7 @@ tags:
     - hasTag: 8.1
     - inIssue: 8.1
     - hasTag: "lucid dreaming"
+    - hasTopic: topic~lucid-dreaming
 type: post
 urlSlug: first-lucid-dreams
 profileImg: stovepipe-man.jpg
@@ -16,7 +17,7 @@ profileImg: stovepipe-man.jpg
 
 > _It's a typical morning at school between classes and I'm walking alongside the administration offices. Suddenly, my hands are right in front of my face! I'm awestruck as I realize "I'm dreaming." I look around me and then into my hands. My hands take up my entire field of vision. Suddenly I see and feel that every fingerprint ridge in my hands is like a canyon of extraordinary depth. I keep peering into the depths-totally amazed; part of me knows this is a dream and these are only my dream hands, and part of me senses that there is an incredible actual depth to each of these fingerprint ridges. I gaze into these canyons totally shocked. As I dream, these realizations generate an emotional power inside of me that seems to be rising from my stomach to my throat. The emotions are too intense and I awake._
 
-My first recognized lucid dream occurred in 1975 after reading Carlos Castaneda's book _Journey to Ixtlan_. In the book, Carlos' Indian sorcerer friend teaches him a technique for gaining conscious awareness of his dreams by first finding his hands in a dream; this prearranged cue of seeing his hands would prompt him into lucidity, and help stabilize his lucid awareness.
+My first recognized [lucid dream](../topic~lucid-dreaming) occurred in 1975 after reading Carlos Castaneda's book _Journey to Ixtlan_. In the book, Carlos' Indian sorcerer friend teaches him a technique for gaining conscious awareness of his dreams by first finding his hands in a dream; this prearranged cue of seeing his hands would prompt him into lucidity, and help stabilize his lucid awareness.
 
 Similarly, each night before sleeping, I had stared at my hands, hoping to find them later in a dream. After three days, I had my first lucid dream.
 
@@ -104,4 +105,4 @@ Around age four is the time that Dave remembers his first lucid dream. And thoug
 
 Dave wrote that this dream has always stayed with him, and from that moment on, he assumed that everyone had lucid dreams like this. The seeming simplicity of the dream suggests interesting questions about age and dreaming; for instance, as we grow older, do our dreams become more crowded and complex with symbols and unresolved subconscious strivings?
 
-For those dreamers, who have yet to have their first lucid dream, I suggest that they read a book on the subject like Patricia Garfield's Creative Dreaming, or Stephen LaBerge's Lucid Dreaming. Lucid dreaming is a skill available to most everyone. Like many lucid dreamers, you will probably find that your lucid dream experience is linked to your lucid dream expectations. And the thrill and wonder of being conscious in the dream world can only be likened to the exhilaration that must be felt by any of the world's great explorers
+For those dreamers, who have yet to have their first lucid dream, I suggest that they read a book on the subject like Patricia Garfield's Creative Dreaming, or [Stephen LaBerge's](../@stephenlaberge) Lucid Dreaming. Lucid dreaming is a skill available to most everyone. Like many lucid dreamers, you will probably find that your lucid dream experience is linked to your lucid dream expectations. And the thrill and wonder of being conscious in the dream world can only be likened to the exhilaration that must be felt by any of the world's great explorers

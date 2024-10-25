@@ -831,6 +831,44 @@ ns1:bcpov1rsrebc a ns1:Post ;
     ns1:profileImg "fusion-logotype.jpg"^^xsd:string ;
     ns1:urlSlug "cohen-1-4-editorial"^^xsd:string .
 
+ns1:bcpov1rtpodg a ns1:Post ;
+    ns1:dateCreated "1982-06-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov1rtpodg-0.jpg" width="450" height="auto" alt="Emerson Quote: “What lies behind us and what lies before us are tiny matters compared to what lies within us.”"/></p>
+
+<p>This article will discuss the nature of educational and therapeutic dream groups developed by two principle contributors to the field of applied dream psychology, Richard Jones, Ph.D., and <a href="../@montagueullman">Montague Ullman, M.D</a>.</p>
+
+<p>Dreams are private, highly visual and emotional experiences. Our dreams deal primarily with our relatedness to others, our membership in the human species. According to Dr. Ullman, dreams are powerful psychologically because of their capacity to confront the dreamer with the truth. Common themes around which dream stories form include: relationships, self-image, job conflicts, family, goals, and travel. The dreaming mind typically transcends the scope of our conscious thought processes, often showing another side of an attitude or opinion we hold about ourselves or a current life situation.</p>
+
+<p>Because, as Ullman suggests, dreams deal with species-feeling, it follows that it would be valuable to talk about a dream in a group setting. One of the characteristics of the dream group is the discovery by participants of common elements in each group member's responses to the various occasions of psychosocial existence. The sense of isolation with which people enter the group diminishes as the group process unfolds. One realizes, "I am not the only person who went through hell during my son's illness" (or divorce, hospitalization, job loss, whatever). The dream group becomes a laboratory of human communication and the member's support, confrontation, and care for one another as fellow and sister travellers in the life journey.</p>
+
+<p>When the personal story told by the dreamer leads other group members to consider and share their own inner perspectives, then we are tapping the transformational potential of the dream group. With the dream as a gateway, a room full of strangers become recast as a circle of connected human beings. Each dreamwork session explores the unique arrangement of basic life issues being served up to consciousness by the creative unconscious of the dreamer.</p>
+
+<p>In traditional group therapy there is an identified leader who is set apart and empowered by the structure of the group process. One of the essential and explicit guidelines of Jones's and Ullman's dream groups establishes the dreamer as the sole authority and expert on his or her dreams. In each session, the group aids the dreamer in uncovering useful and meaningful connections between the images and feelings of the dream. The group is trained to look for visual metaphors. One asks, "What does this dream situation <strong>seem like</strong> or <strong>feel like</strong> in relation to my waking life?"</p>
+
+<p>For example, one young woman was driving alone over a bridge in her dream, Suddenly, she began shaking and jerking the wheel of the car. She was afraid she would drive right through the side rail and into the water. One can best work with a dream such as this by asking for what is the image a metaphor? In group she came to the realization that going off the bridge felt like going out of control in her life and this was of course scary. One would do a disservice to a dream to read it literally, that is to predict that she will in actuality drive off a bridge. The breakthrough moment came when the dreamer herself discovered that she was being confronted with issues of control and she saw how the dream portrayed this in a visual, symbolic manner. This is the heart of dreamwork. Following Aristotle, we recognize that one who works well with dreams will be she who looks for resemblances.</p>
+
+<h2>DREAMGROUP METHODOLOGIES</h2>
+
+<p>Two people have contributed in great measure to the use of dreams in groups; Richard Jones, author of <a href="https://www.amazon.com/New-Psychology-Dreaming-Pelican-Books/dp/0140220879"><em>The New Psychology of Dreaming</em></a> and <em>The Dream Poet</em>, and Montague Ullman, co-author of <em>Dream Telepathy</em> and <em>Working with Dreams</em>. Jones pioneered Dream Reflection, an educational process which combines dreams, literature, and writing. Ullman developed the experiential dream appreciation group, a therapeutic personal growth process in which dreams are used to focus on both personal and social issues. The group process used at Dream Psychology Northwest results from my contact with both Jones and Ullman and combines characteristics of each method. This process is described in "The Use of Dreams in Groups for Personal Growth Education" (see notice on Calendar page).</p>
+
+<p>Jones's dream reflection process grew out of his ongoing work with students in academic programs at The Evergreen State College in Olympia, Washington. The students meet each week to participate in a seminar focussed on one dream of one of the participants. The same group reads a piece of literature, and during the book seminar center their discussion around the themes of the book and an examination of the intentions of the author. During the dreamwork session, each group member secludes him or herself away from the others and writes. In the writing, themes from the literature are related to the issues with which the dream dealt. Poems, stories, essays, letters, journal entries, articles, and books all have been products of dream reflection seminars. The seminars have been successful in accomplishing Jones's major goals: teaching about the unconscious through actual contact with dreams and waking up his student's writing styles. A complete discussion of Dream Reflection can be found in Jones's <em>The Dream Poet</em>.</p>
+
+<p>Dr. Ullman directed a community mental health center in New York and also headed a sleep and dream research laboratory. His background as a psychoanalyst led him to an appreciation of the importance of dreams and their potential as learning aids. He began conducting dream groups composed of therapy patients, artists, business professionals, homemakers, and students. One of the outstanding features of Ullman's group process involves the dreamer sitting in silence as the group members project their feelings and ideas onto the dream. This format and the theory behind the group process is outlined in a book Ullman co-authored with Nan Zimmerman, <em>Working with Dreams</em>.</p>
+
+<p>(Each of these dream group methods will be further discussed in future issues of FUSION)</p>
+
+<p><img src="../images/post-bcpov1rtpodg-1.jpg" width="350" height="auto" alt="Poem by Steven Weinberg"/><!--nopreview--><div class="caption">Poem by Steven Weinberg</div><!--/nopreview--></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq1mcdc ;
+    ns1:hasTag ns1:bcphbhxekxp,
+        ns1:bcphbq1mcdc ;
+    ns1:inIssue ns1:bcphbhxekxp ;
+    ns1:itemId "bcpov1rtpodg"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "the transformational potential of dream groups"^^xsd:string ;
+    ns1:profileImg "post-bcpov1rtpodg-0.jpg"^^xsd:string ;
+    ns1:urlSlug "the-transformational-potential-of-dream-groups"^^xsd:string .
+
 ns1:bcpov1zffway a ns1:Post ;
     ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/dream-recall.jpg" alt="Bed, crystals and incense" /></p>
@@ -24797,21 +24835,6 @@ ns1:bcphbgreene a ns1:User ;
     ns1:name "Tara Greene"^^xsd:string ;
     ns1:profileImg "author-tara-greene.jpg"^^xsd:string .
 
-ns1:bcphbhxekxp a ns1:Post ;
-    ns1:coverImg "1.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1982-06-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.4_Fusion_Volume_1_No._4_of_The_Dream_Network_Bulletin.pdf" download="">Download issue 1.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.4_Fusion_Volume_1_No._4_of_The_Dream_Network_Bulletin.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn7zvpei ;
-    ns1:itemId "bcphbhxekxp"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 1, issue 4"^^xsd:string ;
-    ns1:profileImg "1.4-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "1.4"^^xsd:string .
-
 ns1:bcphbi4awjx a ns1:Post ;
     ns1:coverImg "2.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-01-02T11:32:52"^^xsd:dateTime ;
@@ -26159,6 +26182,21 @@ ns1:bcphbgmason a ns1:User ;
     ns1:name "Joseph Mason"^^xsd:string ;
     ns1:profileImg "author-joseph-mason.jpg"^^xsd:string .
 
+ns1:bcphbhxekxp a ns1:Post ;
+    ns1:coverImg "1.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1982-06-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.4_Fusion_Volume_1_No._4_of_The_Dream_Network_Bulletin.pdf" download="">Download issue 1.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.4_Fusion_Volume_1_No._4_of_The_Dream_Network_Bulletin.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
+    ns1:itemId "bcphbhxekxp"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1, issue 4"^^xsd:string ;
+    ns1:profileImg "1.4-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "1.4"^^xsd:string .
+
 ns1:bcphbjmcifx a ns1:Post ;
     ns1:coverImg "2.5-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-05-01T11:32:52"^^xsd:dateTime ;
@@ -26280,34 +26318,6 @@ ns1:bcphbolab5r a ns1:Post ;
     ns1:profileImg "9.2-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "9.2"^^xsd:string .
-
-ns1:bcphbq1mcdc a ns1:User ;
-    owl:sameAs "https://lios.org/our-heritage#3f2c9ee8-69de-44d0-a9a9-ebfa507d1949"^^xsd:string ;
-    ns1:coverImg "cover-author-dougcohen.jpg"^^xsd:string ;
-    ns1:description """<p><a href="https://lios.org/our-heritage#3f2c9ee8-69de-44d0-a9a9-ebfa507d1949">Leadership Institute of Seattle</a></p>
-
-<p>I was trained as a facilitator in dream psychology and was running adult-learning dream study groups in Seattle, and then through the University of Washington. I was also a tennis player and tennis teacher, when one of my students told me about the LIOS program. I joined the LIOS program to add to my skill set. At this point, I didn’t know much about Applied Behavioral Science degree, yet my experience in adult learning and the helping professions was a natural fit for leadership and organizational development. I took to the program like a fish to water. The program was so well done. I admired the skills of the faculty and the dynamism of the program. All the professors were high quality.</p>
-
-<p>Within the next year and a half or two after graduating the program, I learned that one of my predecessors was hired by AT&amp;T Bell Labs. Through my LIOS networking I got my first OD position at AT&amp;T Bell Laboratories in Management Development and Training. Later I joined a network of practitioners, as a junior laboratory facilitator, and continued to work in corporate settings.</p>
-
-<p>Ron Short and his LIOS peers were embedded in the National and International OD network. The first time I went to a session, Ron Short presented. I attended as a young consultant which led to my exposure in this community of practitioners. I was invited into the community and was able to eventually be a presenter in this network. Going from a participant to a presenter was a significant stepping stone in my career.</p>
-
-<p>I consistently drew on the LIOS core models and skills throughout the decades. With leadership and organizational skills, a network, and great opportunities, I was able to establish a practice of delivering management and executive training, one on one coaching, and a specialty as a facilitator/designer for board of directors’ retreat learning experiences.</p>
-
-<p>LIOS helped me assess and address organizations' leadership and system’s needs. I was able to see and assess the system and help leaders and organizations grow at their learning edges.</p>
-
-<p>LIOS was remarkable: the skill building, the tools, and the professors. It was unquestionably and wonderfully foundational for the success of my 45 years as an international and national OD and leadership consulting career.</p>
-
-<p>Thank you LIOS for much success and career fulfillment.</p>
-
-<p>~Douglas Cohen, Retired Tennis Teacher, Dream Therapist and International Organizational Consultant, LIOS ABS Master’s degree, late 1970s taught by the early original set of professors</p>
-"""^^xsd:string ;
-    ns1:handle "dougcohen"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://lios.org/our-heritage#3f2c9ee8-69de-44d0-a9a9-ebfa507d1949> ;
-    ns1:itemId "bcphbq1mcdc"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Doug Cohen"^^xsd:string ;
-    ns1:profileImg "author-dougcohen.jpg"^^xsd:string .
 
 ns1:bcphbq3almr a ns1:User ;
     owl:sameAs "https://psychiatrywithsoul.com/about"^^xsd:string ;
@@ -27371,6 +27381,34 @@ ns1:bcphbpqyqpo a ns1:Post ;
     ns1:profileImg "11.1-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "11.1"^^xsd:string .
+
+ns1:bcphbq1mcdc a ns1:User ;
+    owl:sameAs "https://lios.org/our-heritage#3f2c9ee8-69de-44d0-a9a9-ebfa507d1949"^^xsd:string ;
+    ns1:coverImg "cover-author-dougcohen.jpg"^^xsd:string ;
+    ns1:description """<p><a href="https://lios.org/our-heritage#3f2c9ee8-69de-44d0-a9a9-ebfa507d1949">Leadership Institute of Seattle</a></p>
+
+<p>I was trained as a facilitator in dream psychology and was running adult-learning dream study groups in Seattle, and then through the University of Washington. I was also a tennis player and tennis teacher, when one of my students told me about the LIOS program. I joined the LIOS program to add to my skill set. At this point, I didn’t know much about Applied Behavioral Science degree, yet my experience in adult learning and the helping professions was a natural fit for leadership and organizational development. I took to the program like a fish to water. The program was so well done. I admired the skills of the faculty and the dynamism of the program. All the professors were high quality.</p>
+
+<p>Within the next year and a half or two after graduating the program, I learned that one of my predecessors was hired by AT&amp;T Bell Labs. Through my LIOS networking I got my first OD position at AT&amp;T Bell Laboratories in Management Development and Training. Later I joined a network of practitioners, as a junior laboratory facilitator, and continued to work in corporate settings.</p>
+
+<p>Ron Short and his LIOS peers were embedded in the National and International OD network. The first time I went to a session, Ron Short presented. I attended as a young consultant which led to my exposure in this community of practitioners. I was invited into the community and was able to eventually be a presenter in this network. Going from a participant to a presenter was a significant stepping stone in my career.</p>
+
+<p>I consistently drew on the LIOS core models and skills throughout the decades. With leadership and organizational skills, a network, and great opportunities, I was able to establish a practice of delivering management and executive training, one on one coaching, and a specialty as a facilitator/designer for board of directors’ retreat learning experiences.</p>
+
+<p>LIOS helped me assess and address organizations' leadership and system’s needs. I was able to see and assess the system and help leaders and organizations grow at their learning edges.</p>
+
+<p>LIOS was remarkable: the skill building, the tools, and the professors. It was unquestionably and wonderfully foundational for the success of my 45 years as an international and national OD and leadership consulting career.</p>
+
+<p>Thank you LIOS for much success and career fulfillment.</p>
+
+<p>~Douglas Cohen, Retired Tennis Teacher, Dream Therapist and International Organizational Consultant, LIOS ABS Master’s degree, late 1970s taught by the early original set of professors</p>
+"""^^xsd:string ;
+    ns1:handle "dougcohen"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://lios.org/our-heritage#3f2c9ee8-69de-44d0-a9a9-ebfa507d1949> ;
+    ns1:itemId "bcphbq1mcdc"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Doug Cohen"^^xsd:string ;
+    ns1:profileImg "author-dougcohen.jpg"^^xsd:string .
 
 ns1:bcphbq3dues a ns1:User ;
     owl:sameAs "https://www.livingdreams.life/"^^xsd:string,

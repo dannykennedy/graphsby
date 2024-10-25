@@ -57,12 +57,12 @@ profileImg: post-bcpov6rsrdbw-0.jpg
 
 **D.C.:** I'm interested in a definition of the dreambody.
 
-**A.M.:** The simplest way of understanding the dreambody is by talking about the different clannels. The dreambody manifests itself as the tendency to dream, literally, in the way dreams are ordinarily thought of, experiences in the middle of the night. It manifests itself proprioceptively, sudden pains and aches, as a symptom. It can manifest itself as a proprioception such as fatigue, or something spontaneous beyond your ego control. It can manifest itself as spontaneous motion, a little jitter. It manifests itself as spontancous voices in your head by talking to you, mama and papa, and it manifests itself as dreams and fantasy. The reason I use the word dreambody is because it's an empirical fact that this funny thing is both dream and body. So instead of using the word unconscious, which is harder for me to say what _is_ the unconscious, I can say how this thing manifests itself.
+**A.M.:** The simplest way of understanding the dreambody is by talking about the different clannels. The dreambody manifests itself as the tendency to dream, literally, in the way dreams are ordinarily thought of, experiences in the middle of the night. It manifests itself proprioceptively, sudden pains and aches, as a symptom. It can manifest itself as a proprioception such as fatigue, or something spontaneous beyond your ego control. It can manifest itself as spontaneous motion, a little jitter. It manifests itself as spontaneous voices in your head by talking to you, mama and papa, and it manifests itself as dreams and fantasy. The reason I use the word dreambody is because it's an empirical fact that this funny thing is both dream and body. So instead of using the word unconscious, which is harder for me to say what _is_ the unconscious, I can say how this thing manifests itself.
 
 **D.C.:** So what opportunities will be available for training in process oriented dreambodywork?
 
 **A.M:** Well, we're starting a research center in Zurich, and also it looks like another one's beginning in Denver. And now after five or six years of work, there are people like Joe Goodbread and Barbara Croci who are pretty good and are able to do it pretty well. Some of them are better than I am at it. Each has their own specific background they bring to it. There is not one particular background necessary for this work. Barbara is interested in yoga, Joe is an engineer. Another person I've been working with is a dancer. Everybody has strengths in specific channels, weaknesses in other channels.
 
-**D.C.:** Where in the U.S. will your book, **Dreambody**, be available?
+**D.C.:** Where in the U.S. will your book, [**Dreambody**](https://www.amazon.com/Dreambody-Bodys-Role-Revealing-Self/dp/0938434063), be available?
 
 **A.M.:** I don't know. Sigo Press and bookstores all over.

@@ -8,6 +8,7 @@ tags:
     - hasAuthor: dougcohen
     - hasTag: 1.4
     - inIssue: 1.4
+    - hasTopic: topic~dreamsharing-groups
 type: post
 urlSlug: "the-transformational-potential-of-dream-groups"
 profileImg: post-bcpov1rtpodg-0.jpg

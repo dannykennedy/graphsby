@@ -847,6 +847,7 @@ ns1:bcpov1rtpodg a ns1:Post ;
     ns1:hasAuthor ns1:bcphbq1mcdc ;
     ns1:hasTag ns1:bcphbhxekxp,
         ns1:bcphbq1mcdc ;
+    ns1:hasTopic ns1:bcpovcsetdg ;
     ns1:inIssue ns1:bcphbhxekxp ;
     ns1:itemId "bcpov1rtpodg"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -12737,6 +12738,7 @@ ns1:bcpov6rsrdbw a ns1:Post ;
     ns1:hasTag ns1:bcphbjpp3z2,
         ns1:bcphbq1mcdc,
         ns1:bcphbq3amin ;
+    ns1:hasTopic ns1:bcpovcrediv ;
     ns1:inIssue ns1:bcphbjpp3z2 ;
     ns1:itemId "bcpov6rsrdbw"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
@@ -28353,6 +28355,21 @@ ns1:bcphbzrw57c a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "31.4"^^xsd:string .
 
+ns1:bcphbq3jean a ns1:User ;
+    owl:sameAs "https://www.instagram.com/worlddreamspeacebridge/"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
+
+<p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
+
+<p>In 2008, <a href="../bcphbxxscsf/27.2">Volume 27 Issue 2 of the Dream Network Journal</a> paid tribute to Jean as well as Rita Dwyer, "Two Exceptional Women Working Vigilantly for Dreams and for Peace".</p>
+"""^^xsd:string ;
+    ns1:handle "jeancampbell"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/worlddreamspeacebridge/> ;
+    ns1:itemId "bcphbq3jean"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jean Campbell"^^xsd:string ;
+    ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
+
 ns1:bcpovcsetdg a ns1:Topic ;
     owl:sameAs "https://dbpedia.org/page/Dream_sharing"^^xsd:string,
         "https://en.wikipedia.org/wiki/Dream_sharing"^^xsd:string,
@@ -28387,21 +28404,6 @@ ns1:bcpovcsetdg a ns1:Topic ;
     ns1:name "Dream Sharing & Dream Groups"^^xsd:string ;
     ns1:shortName "Dreamsharing Groups"^^xsd:string ;
     ns1:subType "Thing"^^xsd:string .
-
-ns1:bcphbq3jean a ns1:User ;
-    owl:sameAs "https://www.instagram.com/worlddreamspeacebridge/"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
-
-<p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
-
-<p>In 2008, <a href="../bcphbxxscsf/27.2">Volume 27 Issue 2 of the Dream Network Journal</a> paid tribute to Jean as well as Rita Dwyer, "Two Exceptional Women Working Vigilantly for Dreams and for Peace".</p>
-"""^^xsd:string ;
-    ns1:handle "jeancampbell"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/worlddreamspeacebridge/> ;
-    ns1:itemId "bcphbq3jean"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jean Campbell"^^xsd:string ;
-    ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
 
 ns1:bcphbpumr2x a ns1:Post ;
     ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
@@ -29207,18 +29209,6 @@ ns1:bcphbq3rpac a ns1:User ;
     ns1:name "Paco Mitchell"^^xsd:string ;
     ns1:profileImg "author-paco.jpg"^^xsd:string .
 
-ns1:bcpovcrediv a ns1:Topic ;
-    ns1:coverImg "cover-theme-dream-interviews.jpg"^^xsd:string ;
-    ns1:description """<p>This page gathers together all the interviews with dreamers, dream authors and dreamworkers that have appeared in the Dream Network Journal over the years.</p>
-
-<p><em>Cover image: from the article 'A Dreamer Goes to the Faire' by Robert Stephen Dunn, <a href="../bcphbndh32i/6.4">issue 6.4</a></em></p>
-"""^^xsd:string ;
-    ns1:handle "topic~dream-interviews"^^xsd:string ;
-    ns1:itemId "bcpovcrediv"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Interviews with Dreamers & Dreamworkers"^^xsd:string ;
-    ns1:shortName "Interviews"^^xsd:string .
-
 ns1:bcphbqvstim a ns1:User ;
     owl:sameAs "https://www.facebook.com/william.stimson.75"^^xsd:string,
         "https://www.youtube.com/user/billstimson"^^xsd:string ;
@@ -29240,6 +29230,18 @@ ns1:bcphbqvstim a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "William R. Stimson"^^xsd:string ;
     ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
+
+ns1:bcpovcrediv a ns1:Topic ;
+    ns1:coverImg "cover-theme-dream-interviews.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together all the interviews with dreamers, dream authors and dreamworkers that have appeared in the Dream Network Journal over the years.</p>
+
+<p><em>Cover image: from the article 'A Dreamer Goes to the Faire' by Robert Stephen Dunn, <a href="../bcphbndh32i/6.4">issue 6.4</a></em></p>
+"""^^xsd:string ;
+    ns1:handle "topic~dream-interviews"^^xsd:string ;
+    ns1:itemId "bcpovcrediv"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Interviews with Dreamers & Dreamworkers"^^xsd:string ;
+    ns1:shortName "Interviews"^^xsd:string .
 
 ns1:bcphbqvcors a ns1:User ;
     owl:sameAs "http://bambicorso.com/about-me/"^^xsd:string,

@@ -10,6 +10,7 @@ tags:
     - hasAuthor: dougcohen
     - hasTag: 2.6
     - inIssue: 2.6
+    - hasTopic: topic~dream-interviews
 type: post
 urlSlug: "mindell-cohen-interview"
 profileImg: post-bcpov6rsrdbw-0.jpg

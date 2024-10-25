@@ -24,7 +24,7 @@ The Dream Network Journal ceased publication at the end of 2015, but in 2019 [Da
 
 **Thank you also to all the amazing authors and advisors** of the Dream Network, and all the editors prior to Roberta:
 
--   The original Network: [Bill Stimson](../@billstimson) - Dream Network Bulletin founder and editor, NYC (1982-1983), Sally Shute (Lucidity & Beyond), Chris Mathews and Doug Cohen (Fusion), Suzanne Keyes (Dream Craft)
+-   The original Network: [Bill Stimson](../@billstimson) - Dream Network Bulletin founder and editor, NYC (1982-1983), Sally Shute (Lucidity & Beyond), Chris Mathews and [Doug Cohen](../@dougcohen) (Fusion), Suzanne Keyes (Dream Craft)
 -   [Chris Hudson](../@chrishudson) - editor, NYC (1983-1985)
 -   [Robert Van De Castle](../@bobvandecastle) (now departed) & [Henry Reed](../@henryreed) (1985-1987)
 -   [Bob Trowbridge](../@bobtrowbridge) and [Linda Magallón](../@caseyflyer), San Jose (1987 - 1989)

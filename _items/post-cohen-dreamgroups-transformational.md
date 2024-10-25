@@ -13,7 +13,7 @@ urlSlug: "the-transformational-potential-of-dream-groups"
 profileImg: post-bcpov1rtpodg-0.jpg
 ---
 
-<img src="../images/post-bcpov1rtpodg-0.jpg" width="450" height="auto" alt="Emerson Quote: “What lies behind us and what lies before us are tiny matters compared to what lies within us.”"/>
+<img src="../images/post-bcpov1rtpodg-0.jpg" width="500" height="auto" alt="Emerson Quote: “What lies behind us and what lies before us are tiny matters compared to what lies within us.”"/>
 
 This article will discuss the nature of educational and therapeutic dream groups developed by two principle contributors to the field of applied dream psychology, Richard Jones, Ph.D., and [Montague Ullman, M.D](../@montagueullman).
 

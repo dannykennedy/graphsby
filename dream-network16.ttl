@@ -46,21 +46,6 @@ ns1:bcphbhpaiyz a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "1.2"^^xsd:string .
 
-ns1:bcphbhxekxp a ns1:Post ;
-    ns1:coverImg "1.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1982-06-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.4_Fusion_Volume_1_No._4_of_The_Dream_Network_Bulletin.pdf" download="">Download issue 1.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.4_Fusion_Volume_1_No._4_of_The_Dream_Network_Bulletin.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn7zvpei ;
-    ns1:itemId "bcphbhxekxp"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 1, issue 4"^^xsd:string ;
-    ns1:profileImg "1.4-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "1.4"^^xsd:string .
-
 ns1:bcphbibydox a ns1:Post ;
     ns1:coverImg "1.7-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1982-09-01T11:32:52"^^xsd:dateTime ;
@@ -90,21 +75,6 @@ ns1:bcphbiinqeh a ns1:Post ;
     ns1:profileImg "1.8-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "1.8"^^xsd:string .
-
-ns1:bcphbirkrx4 a ns1:Post ;
-    ns1:coverImg "1.10-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1982-12-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.10_Fusion_Volume_1_No._10_of_The_Dream_Network_Bulletin.pdf" download="">Download issue 1.10</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.10_Fusion_Volume_1_No._10_of_The_Dream_Network_Bulletin.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn7zvpei ;
-    ns1:itemId "bcphbirkrx4"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 1, issue 10"^^xsd:string ;
-    ns1:profileImg "1.10-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "1.10"^^xsd:string .
 
 ns1:bcphbj5rhy2 a ns1:Post ;
     ns1:coverImg "2.9-cover.jpg"^^xsd:string ;
@@ -820,6 +790,71 @@ ns1:bcpov1rsjwpt a ns1:Post ;
     ns1:name "Jayne Gackenbach's Report On The Work Of Paul Tholey"^^xsd:string ;
     ns1:urlSlug "gackenbach-report-on-tholey"^^xsd:string .
 
+ns1:bcpov1rsrebc a ns1:Post ;
+    ns1:dateCreated "1982-06-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/fusion-logotype.jpg" width="350" height="auto" alt="The word Fusion written in cursive script"/></p>
+
+<p>FUSION...an emergence, a response, a forum for images in pursuit of good company, the result of an overflowing of developments. <a href="https://en.wikipedia.org/wiki/James_Hillman">James Hillman</a> has spoken of the great need we have in our culture for appropriate settings in which to entertain ideas. In contrast to the thousands of publications to which one may turn to obtain information, FUSION exists to stimulate the reader to consider images and entertain ideas.</p>
+
+<p>The purpose of Dream Psychology Northwest, an educational center for dreams and depth psychology, has been to provide a setting in which we invite the images of the unconscious psyche to speak, to shout, to infiltrate our waking rational consciousness. This publication, an extension of our educational center, provides a similar function over greater distances and for larger numbers of people. The goal of FUSION is to create a forum for ideas and images emerging into the human imagination in relation to dream, imaginal and archetypal psychologies, education, spirituality, and the arts. We will present quality thinking and imagining from the heartminds of the community of souls with whom we are networking. We encourage interlogue, a group dialogue, and thus anticipate your active involvement in this experiment in communication.</p>
+
+<p>This publication is one expression of the rapid growth of an educational community still in its infancy. Dream Psychology Northwest was founded as a result of my commitment to combining education, depth psychology, and personal growth therapies. Since the beginning the path has been marked by generous portions of grace, hard work, determination and inspiring synchronistic connections. The fine people who have found their way to our doors as both colleagues and participants are of course the single most important factor in the establishment of Dream Psychology Northwest. The synchronicity which has consistently demonstrated itself in my life and in the lives of my co-workers has spilled over into the life of our organization and this publication. On the same day we received the Dream Network Bulletin from New York, accompanied by <a href="../@billstimson">Dr. Stimson's</a> letter inviting my contribution, one of our people brought to a planning meeting a copy of the Brain/Mind Bulletin, which had on its cover an article announcing to the national eye the Dream Community and the Dream Network Bulletin. We are now pleased to be associated with this labyrinthine web of people who recognize their affinity for dreams is a response to the call of becoming conscious.</p>
+
+<p>I wish to acknowledge the support of Richard Jones and <a href="../@montagueullman">Montague Ullman</a> as editorial consultants for FUSION. For six years I have been inspired and motivated by personal and professional contact with these two men. Their support for this project encourages me to press on with several incubating ideas: a second Northwest Regional Dreamworks Week, a national conference, a tape series on topics in dream psychology, and a handbook for working with dreams entitled The Dream Shield.</p>
+
+<p>The strictly hierarchical days are over. Contemporary dreamwork is characterized by the egalitarian relationship between the dreamer and the helper. We are each learning resources for each other. Whether it is in the group, in private therapy sessions, or in individual dreamwork, more and more people are learning to let the dream speak for itself. People are slowly beginning to heed Hillman's notion of "sticking to the image."</p>
+
+<p>As you read and consider what follows, keep in mind that this is an introductory issue designed to intimate the range and breadth of FUSION. Now that this project has reached into the community, we offer it up to the four winds to be spread like pollen, to find its way where there is an opening, an open hand, an open mind, an open heart. To begin then...welcome!</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq1mcdc ;
+    ns1:hasTag ns1:bcphbhxekxp,
+        ns1:bcphbq1mcdc ;
+    ns1:inIssue ns1:bcphbhxekxp ;
+    ns1:itemId "bcpov1rsrebc"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Embarkation: Editorial for Issue 1.4"^^xsd:string ;
+    ns1:profileImg "fusion-logotype.jpg"^^xsd:string ;
+    ns1:urlSlug "cohen-1-4-editorial"^^xsd:string .
+
+ns1:bcpov1rtpodg a ns1:Post ;
+    ns1:dateCreated "1982-06-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov1rtpodg-0.jpg" width="500" height="auto" alt="Emerson Quote: “What lies behind us and what lies before us are tiny matters compared to what lies within us.”"/></p>
+
+<p>This article will discuss the nature of educational and therapeutic dream groups developed by two principle contributors to the field of applied dream psychology, Richard Jones, Ph.D., and <a href="../@montagueullman">Montague Ullman, M.D</a>.</p>
+
+<p>Dreams are private, highly visual and emotional experiences. Our dreams deal primarily with our relatedness to others, our membership in the human species. According to Dr. Ullman, dreams are powerful psychologically because of their capacity to confront the dreamer with the truth. Common themes around which dream stories form include: relationships, self-image, job conflicts, family, goals, and travel. The dreaming mind typically transcends the scope of our conscious thought processes, often showing another side of an attitude or opinion we hold about ourselves or a current life situation.</p>
+
+<p>Because, as Ullman suggests, dreams deal with species-feeling, it follows that it would be valuable to talk about a dream in a group setting. One of the characteristics of the dream group is the discovery by participants of common elements in each group member's responses to the various occasions of psychosocial existence. The sense of isolation with which people enter the group diminishes as the group process unfolds. One realizes, "I am not the only person who went through hell during my son's illness" (or divorce, hospitalization, job loss, whatever). The dream group becomes a laboratory of human communication and the member's support, confrontation, and care for one another as fellow and sister travellers in the life journey.</p>
+
+<p>When the personal story told by the dreamer leads other group members to consider and share their own inner perspectives, then we are tapping the transformational potential of the dream group. With the dream as a gateway, a room full of strangers become recast as a circle of connected human beings. Each dreamwork session explores the unique arrangement of basic life issues being served up to consciousness by the creative unconscious of the dreamer.</p>
+
+<p>In traditional group therapy there is an identified leader who is set apart and empowered by the structure of the group process. One of the essential and explicit guidelines of Jones's and Ullman's dream groups establishes the dreamer as the sole authority and expert on his or her dreams. In each session, the group aids the dreamer in uncovering useful and meaningful connections between the images and feelings of the dream. The group is trained to look for visual metaphors. One asks, "What does this dream situation <strong>seem like</strong> or <strong>feel like</strong> in relation to my waking life?"</p>
+
+<p>For example, one young woman was driving alone over a bridge in her dream, Suddenly, she began shaking and jerking the wheel of the car. She was afraid she would drive right through the side rail and into the water. One can best work with a dream such as this by asking for what is the image a metaphor? In group she came to the realization that going off the bridge felt like going out of control in her life and this was of course scary. One would do a disservice to a dream to read it literally, that is to predict that she will in actuality drive off a bridge. The breakthrough moment came when the dreamer herself discovered that she was being confronted with issues of control and she saw how the dream portrayed this in a visual, symbolic manner. This is the heart of dreamwork. Following Aristotle, we recognize that one who works well with dreams will be she who looks for resemblances.</p>
+
+<h2>DREAMGROUP METHODOLOGIES</h2>
+
+<p>Two people have contributed in great measure to the use of dreams in groups; Richard Jones, author of <a href="https://www.amazon.com/New-Psychology-Dreaming-Pelican-Books/dp/0140220879"><em>The New Psychology of Dreaming</em></a> and <em>The Dream Poet</em>, and Montague Ullman, co-author of <em>Dream Telepathy</em> and <em>Working with Dreams</em>. Jones pioneered Dream Reflection, an educational process which combines dreams, literature, and writing. Ullman developed the experiential dream appreciation group, a therapeutic personal growth process in which dreams are used to focus on both personal and social issues. The group process used at Dream Psychology Northwest results from my contact with both Jones and Ullman and combines characteristics of each method. This process is described in "The Use of Dreams in Groups for Personal Growth Education" (see notice on Calendar page).</p>
+
+<p>Jones's dream reflection process grew out of his ongoing work with students in academic programs at The Evergreen State College in Olympia, Washington. The students meet each week to participate in a seminar focussed on one dream of one of the participants. The same group reads a piece of literature, and during the book seminar center their discussion around the themes of the book and an examination of the intentions of the author. During the dreamwork session, each group member secludes him or herself away from the others and writes. In the writing, themes from the literature are related to the issues with which the dream dealt. Poems, stories, essays, letters, journal entries, articles, and books all have been products of dream reflection seminars. The seminars have been successful in accomplishing Jones's major goals: teaching about the unconscious through actual contact with dreams and waking up his student's writing styles. A complete discussion of Dream Reflection can be found in Jones's <em>The Dream Poet</em>.</p>
+
+<p>Dr. Ullman directed a community mental health center in New York and also headed a sleep and dream research laboratory. His background as a psychoanalyst led him to an appreciation of the importance of dreams and their potential as learning aids. He began conducting dream groups composed of therapy patients, artists, business professionals, homemakers, and students. One of the outstanding features of Ullman's group process involves the dreamer sitting in silence as the group members project their feelings and ideas onto the dream. This format and the theory behind the group process is outlined in a book Ullman co-authored with Nan Zimmerman, <em>Working with Dreams</em>.</p>
+
+<p>(Each of these dream group methods will be further discussed in future issues of FUSION)</p>
+
+<p><img src="../images/post-bcpov1rtpodg-1.jpg" width="350" height="auto" alt="Poem by Steven Weinberg"/><!--nopreview--><div class="caption">Poem by Steven Weinberg</div><!--/nopreview--></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq1mcdc ;
+    ns1:hasTag ns1:bcphbhxekxp,
+        ns1:bcphbq1mcdc ;
+    ns1:hasTopic ns1:bcpovcsetdg ;
+    ns1:inIssue ns1:bcphbhxekxp ;
+    ns1:itemId "bcpov1rtpodg"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "the transformational potential of dream groups"^^xsd:string ;
+    ns1:profileImg "post-bcpov1rtpodg-0.jpg"^^xsd:string ;
+    ns1:urlSlug "the-transformational-potential-of-dream-groups"^^xsd:string .
+
 ns1:bcpov1zffway a ns1:Post ;
     ns1:dateCreated "2011-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/dream-recall.jpg" alt="Bed, crystals and incense" /></p>
@@ -1316,6 +1351,60 @@ ns1:bcpov2kndiss a ns1:Post ;
     ns1:name "The Practical Side of Sexual Symbolism"^^xsd:string ;
     ns1:profileImg "baylissexuality1.jpg"^^xsd:string ;
     ns1:urlSlug "sexual-symbolism"^^xsd:string .
+
+ns1:bcpov2rsrdbw a ns1:Post ;
+    ns1:dateCreated "1982-12-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/dreambodywork.jpg" width="auto" height="auto" alt="Dreaming torso in a cave of crystals"/><!--nopreview--><div class="caption">Illustration by Lydia Barnes</div><!--/nopreview--></p>
+
+<p><em>Dreambodywork is a comprehensive therapeutic process developed by <a href="../@arnoldmindell">Arnold Mindell</a>, a Jungian analyst, researcher and author who lectures at the C. G. Jung Institute in Zurich, Switzerland. Dr. Mindell is an American who has lived in Zurich for twenty years. He travels periodically to the United States conducting seminars in dreambodywork This article grew out of a four day seminar held in Eugene, Oregon in August, 1982.</em></p>
+
+<p>One of the most significant and exciting frontiers in contemporary psychology is the continuing discovery and exploration of the mind-body unity. The dreambodywork of Dr. Arnold Mindell holds one or the leading edges in this area of research and practice. Just as dreams reveal to us in images and feelings those parts of our personality which are unconscious; in dreambodywork, bodily conditions and diseases are viewed as processes through which the unconscious expresses itself in a most graphic manner. Dreambodywork consists in using the body (sensations, posture, symptoms) as a source of information about the unconscious mind. The primary method of working with the dreambody is to allow the symptoms of conditions of the body to speak for themselves by amplifying or exaggerating them. Then through dialogue and an exploration of the felt experience of the body, the meaning of the body condition emerges. Seeing the body as an expression of the unconscious mind beings immediacy and a remarkable quality of aliveness to the therapeutic process. Dreams are of ten remembered spontaneously during the course of the session, lending weight to Mindell's notion that <em>the body dreams</em>. In this model of mind-body consciousness, awareness of pain, the felt experience of disease, posture and energy level reveals that right now your body is having a dream. Years of research into the human energy systems of other cultures (Tibetan, Chinese, Indian) have resulted in Mindell's hypothesis of the dreambody.</p>
+
+<p>During the seminar in Eugene, four people each day underwent intense individual sessions in the group setting. The process usually proceeds from a report of a body condition, a dream or a relationship issue. Dr. Mindell listens to the client presenting his or her story from across the room. He is awaiting a body signal which invites him to make closer contact with the individual. This acute focus on the non-verbal aspects of behavior is one of the main characteristics of this process-oriented work and Dr. Mindell's own therapeutic style. Once close physical proximity has been established, he begins to draw out information by exploring both conscious and unconscious communication. For example, a woman at the seminar who told of an abdominal problem (spastic colitis) used her hands to demonstrate the feeling in her body. As she began to make grabbing gestures, Dr. Mindell engaged with her:</p>
+
+<blockquote>
+  <p><em>"What is that hand doing? Do that some more. Really let that hand go. Go ahead, grab the air. What are you grabbing for?"</em></p>
+</blockquote>
+
+<p>In the discussion that followed, they discovered that she was trying to hold onto feelings which were present in a relationship that had outwardly been over for many years. She spoke of having never reached comparable levels of closeness with any partner since that time. The woman told of having gone from city to city distracting herself from the pain of this loss.</p>
+
+<h2>DREAM EMERGES SPONTANEOUSLY</h2>
+
+<p>Two important elements of process dreambodywork were evident in this session. An unfinished, unexpressed psychic content (the feelings of holding on to the relationship) manifested in the body as a colon problem. Also, in this process, a dream came to awareness spontaneously as the work evolved. In her dream she was climbing through huge worm tunnels with her boyfriend. As they visited friends in several rooms in the tunnels, he would disappear, and she immediately felt distraught at the loss of his presence. Dr. Mindell suggested that the worm tunnels might indicate how the two of them were together in her colon problem. This seemed to strike a meaningful chord. As with all effective dreamwork, it is the response from the dreamer which determines whether or not in interpretation is useful. The degree to which Dr. Mindell's idea hit the mark for this dreamer became clear as she began speaking of how the onset of her physical symptoms corresponded to the time of the relationship break-up six years before.</p>
+
+<p>How can one make use of these discoveries about the mind-body continuum? Dr. Mindell's message advises that by bringing more of ourselves into our relationships, that is by expressing and communicating our needs and feelings, we diminish the need for our body to express our unconscious mind in symptoms and diseases. for those already convinced of the value of paying attention to dreams, listening to the dreambody is the next step in developing even greater self-awareness. Great flexibility of format characterizes dreambodywork in the course of the four day seminar, processes resembling each of the following therapies were employed: Gestalt, bioenergetics, art, dance, movement, psychodrama, role playing, martial, arts, yogic breathing and active imagination. All of the participants had the opportunity to go deeply into the central issues of their lives because of the flexibility inherent in the approach, and the immediacy with which Dr. Mindell follows the individual's process.</p>
+
+<h2>TAO UNDERLIES PROCESS WORK</h2>
+
+<p>To accurately follow an individual's process (of perception-expression, blockage-release) requires an open, unbiased attitude on the part of the practitioner. Mindell sees the Chinese concept of the Tao as the archetypal structure behind his emerging model. Following the Tao means allowing for rhythms of change, and requires the ability to respond flexibly as natural processes unfold and take their winding course of development. The Tao reminds us to be with whatever is, as it is unfolding. In this light, it is the most accurate model for dreambodywork.</p>
+
+<p>While the Taoist viewpoint provides a philosophical model for this approach to therapy, the work is also grounded in psychological theory and experience. Several theoretical considerations were discussed in conversations I held with Joe Goodbread, a student and colleague of Mindell's who was participating in the seminar. He outlined a framework for understanding the important features of dreambodywork.</p>
+
+<ol>
+<li><p>Using bodywork in addition to dreams gives one the opportunity to observe and work with <em>where the unconscious is in the moment</em> instead of where it was when the dreamer had the dream.</p></li>
+<li><p>By following the actual process going on in the individual, one uses the form of therapy demanded by the process itself, not by a predetermined therapeutic program</p></li>
+<li><p>following the emerging process forces the therapist to have a research orientation. One must constantly be asking questions and revising one's model in response to new observations.</p></li>
+<li><p>If one follows the process consistently, one is forced to bring one's own experience into the work. The practitioner effectively engaged in process work cannot hide behind a therapeutic model or persona.</p></li>
+</ol>
+
+<p>Personal as well as professional uses can be found for those intrigued by the dreambody concept of Arnold Mindell. Great potential lies in the widespread understanding and application of the basic ideas governing this approach to self knowledge. Dreambodywork teaches that body symptoms and conditions are signs of unconscious contents (often feelings) that have not yet arrived in our awareness. As with dreams, in which attitudes of feelings we haven't acknowledged become expressed as stories and images, the body also portrays parts of our total nature we have not accepted. Body difficulties, says Dr. Mindell, give us just the piece of information we need to see ourselves more clearly. For this reason he suggests that being sick is like having a big dream. Mindell believes that body and dream phenomena are like mirror images of one another. He has found in working with people for over ten years that when one begins to become the person one has been suppressing (through help in therapy), the symptoms and conditions diminish or disappear. They are no longer needed to express the suppressed part of the personality. It is important to note that these results follow from an attitude of first appreciating and accepting the disease or symptom for what it is. One asks oneself: What is the body doing and saying on its own to reveal the self? Instead of subjecting the body to a prescribed regimen of moves or manipulations designed to break down of through character structure, Mindell sensitively follows Jung's notion of looking at what is already the case, assuming it has a purpose and a meaning. This purposive view of human behavior and mind-body functioning is one of the hallmarks of the Jungian school.</p>
+
+<p>How does one apply this notion that the body is a rich source of information about the unconscious mind I tested the applicability of dreambodywork as soon as I returned from the seminar. During a therapy session, one of my clients understandably expressed fear and caution about coming into contact with deeply buried feelings. As she spoke, she sat with crossed legs, her arms holding her knees in a contracting, protective position. I. asked her to amplify of exaggerate her posture, to allow it to go further, wherever necessary, to express itself. She then lay down and curled up saying, "I want to hide." Encouraging the 'hider', I asked her after a pause to say what she was aware of internally. Immediately she stated, "I've been dreaming about this. In my dream, me and Bobby (brother) were hiding in the attic of a warehouse. We were safe there." This example duplicated a phenomenon I observed several times in the dreambodywork seminar. The posture of bodywork anticipated a drean, and the individual would spontaneously remember the dream, while engaged in exploring the awareness accompanying the body position.</p>
+
+<p>While working in the group setting, Dr. Mindell proved to be a remarkable example of spontaneity and human freedom. He was playful and childlike, humorous and extremely movement oriented in his work with clients. The range of motion in both his voice and body brought an aliveness to the seminar, which was both freeing and fun for the entire group. He is saying to the world through his work: Let us continue to search, to look deeply at the human condition by looking deeply at ourselves. The power of the work he is doing on the edge of the mind-body frontier is but hinted at in this report. It is my hope that we will be hearing more from this energetic researcher, who encourages us to awaken our dreaming bodies and live as consciously as possible.</p>
+
+<p><img src="../images/dreambodywork-2.jpg" width="350" height="auto" alt="Two wide eyed men, captioned 'The world is an astonishing place'"/></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq1mcdc ;
+    ns1:hasTag ns1:bcphbirkrx4,
+        ns1:bcphbq1mcdc,
+        ns1:bcphbq3amin ;
+    ns1:inIssue ns1:bcphbirkrx4 ;
+    ns1:itemId "bcpov2rsrdbw"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreambodywork"^^xsd:string ;
+    ns1:profileImg "dreambodywork.jpg"^^xsd:string ;
+    ns1:urlSlug "dreambodywork"^^xsd:string .
 
 ns1:bcpov2zindad a ns1:Post ;
     ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
@@ -3558,7 +3647,7 @@ ns1:bcpov6gabout a ns1:Post ;
 <p><strong>Thank you also to all the amazing authors and advisors</strong> of the Dream Network, and all the editors prior to Roberta:</p>
 
 <ul>
-<li><p>The original Network: <a href="../@billstimson">Bill Stimson</a> - Dream Network Bulletin founder and editor, NYC (1982-1983), Sally Shute (Lucidity &amp; Beyond), Chris Mathews and Doug Cohen (Fusion), Suzanne Keyes (Dream Craft)</p></li>
+<li><p>The original Network: <a href="../@billstimson">Bill Stimson</a> - Dream Network Bulletin founder and editor, NYC (1982-1983), Sally Shute (Lucidity &amp; Beyond), Chris Mathews and <a href="../@dougcohen">Doug Cohen</a> (Fusion), Suzanne Keyes (Dream Craft)</p></li>
 <li><p><a href="../@chrishudson">Chris Hudson</a> - editor, NYC (1983-1985)</p></li>
 <li><p><a href="../@bobvandecastle">Robert Van De Castle</a> (now departed) &amp; <a href="../@henryreed">Henry Reed</a> (1985-1987)</p></li>
 <li><p><a href="../@bobtrowbridge">Bob Trowbridge</a> and <a href="../@caseyflyer">Linda Magallón</a>, San Jose (1987 - 1989)</p></li>
@@ -12589,6 +12678,73 @@ ns1:bcpov6rsppm3 a ns1:Post ;
     ns1:layout "post"^^xsd:string ;
     ns1:name "How Myth Got Personal: Part Three"^^xsd:string ;
     ns1:urlSlug "how-myth-got-personal-part-three"^^xsd:string .
+
+ns1:bcpov6rsrdbw a ns1:Post ;
+    ns1:dateCreated "1983-06-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/post-bcpov6rsrdbw-0.jpg" width="350" height="auto" alt="Sleeping woman with a tree butterfly growing from her"/><!--nopreview--><div class="caption">Illustration by Lydia Barnes</div><!--/nopreview--></p>
+
+<p><strong>Douglas Cohen:</strong> As someone who has had training at the Jung Institute and therefore done dreamwork there, how would you characterize the difference between the dreamwork you evolved and traditional Jungian dream therapy?</p>
+
+<p><strong>Dr. Arnold Mindell:</strong> That's a good question. Traditional Jungian dreamwork takes the dream content and makes associations to the dream, or you amplify the dream material with mythological associations. In this kind of dreamwork, we're working not with the dream as if it were something that came out of the night. We're working with <em>the dreaming process</em> as it is happening right here in many channels, not just the visual channel. Working with the dreaming process, very often, right away, people start remembering the dreams they've had... We're saying that we're not dealing with the dreams only, we're dealing with the total dreaming process which goes on in all these different channels: hearing, seeing, feeling, breathing. That's the difference; bringing in the body made a big difference.</p>
+
+<p><strong>D.C.:</strong> What would you say has been the origin of this work? How did you get from traditional Jungian dream training to doing this?</p>
+
+<p><strong>A.M.:</strong> I got sick about twelve years ago, and I couldn't do anything with it. It was like another part of me that was split off. Stomachaches, diarrhea, aches and pains, and I had to bring all this to the doctor. And meanwhile working with with my dreams. And I felt really radically split. Like something really big was missing.</p>
+
+<p><strong>D.C.:</strong> You took your dreams to one place and your body to another place.</p>
+
+<p><strong>A.M.:</strong> My body went to a doctor and my dreams went to a dream analyst. That's how I got into it. I just couldn't bear the split anymore.</p>
+
+<p><strong>D.C.:</strong> So your own body taught you that the body expresses the unconscious and there's something that needs to be integrated.</p>
+
+<p><strong>A.M.:</strong> But I didn't know what. I didn't even know if it was expressing the unconscious or what in the beginning. I didn't know what the hell it was. It was only after a long time of experimenting and coming across this idea of amplification. Experimenting with myself. I did all these different therapies and programs people do. Rebirthing, bioenergetic exercises. I went through kundalini experiences, I practised yoga, everything that was possible. And I left still with feeling I everything that was possible. And I left still with feeling I didn't know what this thing was. I couldn't figure out from all these programs what the meaning of my symptoms was. And then I really started to amplify them and appreciate them and then I did get into this. Then I was able to see, my goodness, they are just dreaming processes happening in the body. So that's what got me into it. I just got bored with the other thing. It was too split off.</p>
+
+<p>...When I saw there was a dream happening in the body I said to myself, "This can't be a new thing, it just can't be a new thing." It's almost obvious, people have been hinting it and practically everybody suspected it, it's not a surprising idea. It can't be brand new. I started going backwards: yoga, Tibetan medicine, Chinese philosophy, and finding ideas that were really close in all of these other philosophies like the Tao in the body according to acupuncture, the Chi energy in China. In India it's the Kundalini energy that moves through you or prana, the subtle body within the real body-and I realized what I was discovering. All these other terms were really terms for the dreaming process, its just nobody ever connected it with dreams before.</p>
+
+<p><strong>D.C.:</strong> When you say the dreaming process--you mean an unconscious process that's happening somatically.</p>
+
+<p><strong>A.M.:</strong> An unconscious process that's happening somatically and that can be checked out by looking at dreams.</p>
+
+<p><strong>D.C.:</strong> What I'm concerned about is people's understanding of a dreaming process happening in the body. So clarifying that is important.</p>
+
+<p><strong>A.M.:</strong> Clarifying that for me means experiencing a process happening in your body and realizing, my goodness, the dream I had last night was patterning this whole thing.</p>
+
+<p><strong>D.C.:</strong> Can you comment on your relationship to your dreams?</p>
+
+<p><strong>A.M.:</strong> Well, I don't sit and think my dreams out so much anymore. I can do that. I'm a pretty good dream analyst, but I'm never satisfied afterwards. I prefer to start with how I'm feeling. "Argh! Oh, I feel shitty, Or I'm unhappy." And then I look at my dreams afterwards.</p>
+
+<p><strong>D.C.:</strong> What does having a research orientation mean in light of being a practitioner and therapist. Can you speak to that relationship?</p>
+
+<p><strong>A.M.:</strong> Yes. I'm never satisfied with a success. I want to know why it happened exactly, and I'm never satisfied when somebody says, "Gee, that didn't work, I'm not really happy with it."</p>
+
+<p><strong>D.C.:</strong> So the goal is not just someone having a successful experience, it is always looking at what's happening.</p>
+
+<p><strong>A.M.:</strong> Yes. I'm not interested in just healing. I'm interested in knowing more. It's much more exciting waking yourself up, asking why, what the hell happened…</p>
+
+<p><strong>D.C.:</strong> I'm interested in a definition of the dreambody.</p>
+
+<p><strong>A.M.:</strong> The simplest way of understanding the dreambody is by talking about the different clannels. The dreambody manifests itself as the tendency to dream, literally, in the way dreams are ordinarily thought of, experiences in the middle of the night. It manifests itself proprioceptively, sudden pains and aches, as a symptom. It can manifest itself as a proprioception such as fatigue, or something spontaneous beyond your ego control. It can manifest itself as spontaneous motion, a little jitter. It manifests itself as spontaneous voices in your head by talking to you, mama and papa, and it manifests itself as dreams and fantasy. The reason I use the word dreambody is because it's an empirical fact that this funny thing is both dream and body. So instead of using the word unconscious, which is harder for me to say what <em>is</em> the unconscious, I can say how this thing manifests itself.</p>
+
+<p><strong>D.C.:</strong> So what opportunities will be available for training in process oriented dreambodywork?</p>
+
+<p><strong>A.M:</strong> Well, we're starting a research center in Zurich, and also it looks like another one's beginning in Denver. And now after five or six years of work, there are people like Joe Goodbread and Barbara Croci who are pretty good and are able to do it pretty well. Some of them are better than I am at it. Each has their own specific background they bring to it. There is not one particular background necessary for this work. Barbara is interested in yoga, Joe is an engineer. Another person I've been working with is a dancer. Everybody has strengths in specific channels, weaknesses in other channels.</p>
+
+<p><strong>D.C.:</strong> Where in the U.S. will your book, <a href="https://www.amazon.com/Dreambody-Bodys-Role-Revealing-Self/dp/0938434063"><strong>Dreambody</strong></a>, be available?</p>
+
+<p><strong>A.M.:</strong> I don't know. Sigo Press and bookstores all over.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq1mcdc,
+        ns1:bcphbq3amin ;
+    ns1:hasTag ns1:bcphbjpp3z2,
+        ns1:bcphbq1mcdc,
+        ns1:bcphbq3amin ;
+    ns1:hasTopic ns1:bcpovcrediv ;
+    ns1:inIssue ns1:bcphbjpp3z2 ;
+    ns1:itemId "bcpov6rsrdbw"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dreambodywork: An An Interview With Dr. Arnold Mindell"^^xsd:string ;
+    ns1:profileImg "post-bcpov6rsrdbw-0.jpg"^^xsd:string ;
+    ns1:urlSlug "mindell-cohen-interview"^^xsd:string .
 
 ns1:bcpov6rsreci a ns1:Post ;
     ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
@@ -24264,6 +24420,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Lightning Tree Therapy"^^xsd:string ;
     ns1:url "https://lightningtreetherapy.com/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://lios.org/our-heritage#3f2c9ee8-69de-44d0-a9a9-ebfa507d1949> a ns1:Website ;
+    ns1:name "Leadership Institute of Seattle"^^xsd:string ;
+    ns1:url "https://lios.org/our-heritage#3f2c9ee8-69de-44d0-a9a9-ebfa507d1949"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://medium.com/@tracehints> a ns1:Website ;
     ns1:name "Trace Hints"^^xsd:string ;
     ns1:url "https://medium.com/@tracehints"^^xsd:string .
@@ -24761,6 +24921,21 @@ ns1:bcphbimbkal a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "1.9"^^xsd:string .
 
+ns1:bcphbirkrx4 a ns1:Post ;
+    ns1:coverImg "1.10-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1982-12-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.10_Fusion_Volume_1_No._10_of_The_Dream_Network_Bulletin.pdf" download="">Download issue 1.10</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.10_Fusion_Volume_1_No._10_of_The_Dream_Network_Bulletin.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
+    ns1:itemId "bcphbirkrx4"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1, issue 10"^^xsd:string ;
+    ns1:profileImg "1.10-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "1.10"^^xsd:string .
+
 ns1:bcphbivy3pu a ns1:Post ;
     ns1:coverImg "1.11-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-01-01T11:32:52"^^xsd:dateTime ;
@@ -24805,21 +24980,6 @@ ns1:bcphbjilydj a ns1:Post ;
     ns1:profileImg "2.4-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "2.4"^^xsd:string .
-
-ns1:bcphbjpp3z2 a ns1:Post ;
-    ns1:coverImg "2.6-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-06-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.6-Fusion-Volume-2_No-5_-of-The-Dream-Network-Bulletin.pdf" download="">Download issue 2.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.6-Fusion-Volume-2_No-5_-of-The-Dream-Network-Bulletin.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn72unjj ;
-    ns1:itemId "bcphbjpp3z2"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 2, issue 6"^^xsd:string ;
-    ns1:profileImg "2.6-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "2.6"^^xsd:string .
 
 ns1:bcphbjv6pkd a ns1:Post ;
     ns1:coverImg "2.7-cover.jpg"^^xsd:string ;
@@ -25894,22 +26054,6 @@ ns1:bcphblwwuy6 a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "4.3"^^xsd:string .
 
-ns1:bcphbq3amin a ns1:User ;
-    owl:sameAs "https://www.aamindell.net/about-amy-and-arny"^^xsd:string ;
-    ns1:coverImg "cover-author-arnold-mindell.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.aamindell.net/">aamindell.net</a></p>
-
-<p>Dr. Arnold Mindell, or Arny, is also in private practice in Portland, Oregon, and teaches with his wife <a href="../@amymindell">Amy Mindell</a> around the world. He is known for his development of the “Dreambody” and “Process Work” (<a href="https://en.wikipedia.org/wiki/Process-oriented_psychology">process oriented psychology</a>).</p>
-
-<p>He is the author of 23 books in over 35 languages, including <em>Dreambody</em>, <em>The Shaman’s Body</em>, <em>Quantum Mind</em>, <em>Quantum Mind and Healing</em>, and <em>The Deep Democracy of Open Forums</em>. He is also known in the areas of diversity work and conflict management for his <em>Sitting in the Fire</em> and for his integration of psychology, ecology and physics, for his work on dreams, bodywork, relationships, and for interventions in near death situations. His latest works, <em>ProcessMind</em>, A User’s Guide to The Mind of God and Dance of the Ancient One, bring psychology, physics and spiritual traditions closer to one another. You can follow Arny on <a href="https://www.facebook.com/Arnold.Mindell/">Facebook</a>.</p>
-"""^^xsd:string ;
-    ns1:handle "arnoldmindell"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.aamindell.net/about-amy-and-arny> ;
-    ns1:itemId "bcphbq3amin"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dr. Arnold Mindell"^^xsd:string ;
-    ns1:profileImg "author-arnold-mindell.jpg"^^xsd:string .
-
 ns1:bcphbq3pimm a ns1:User ;
     owl:sameAs "http://notesfromadreamer.com/bobbie-ann-pimm/"^^xsd:string ;
     ns1:description """<p>Website: <a href="http://notesfromadreamer.com">notesfromadreamer.com</a></p>
@@ -26094,6 +26238,21 @@ ns1:bcphbgmason a ns1:User ;
     ns1:name "Joseph Mason"^^xsd:string ;
     ns1:profileImg "author-joseph-mason.jpg"^^xsd:string .
 
+ns1:bcphbhxekxp a ns1:Post ;
+    ns1:coverImg "1.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1982-06-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.4_Fusion_Volume_1_No._4_of_The_Dream_Network_Bulletin.pdf" download="">Download issue 1.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_1/1.4_Fusion_Volume_1_No._4_of_The_Dream_Network_Bulletin.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn7zvpei ;
+    ns1:itemId "bcphbhxekxp"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 1, issue 4"^^xsd:string ;
+    ns1:profileImg "1.4-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "1.4"^^xsd:string .
+
 ns1:bcphbjmcifx a ns1:Post ;
     ns1:coverImg "2.5-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1983-05-01T11:32:52"^^xsd:dateTime ;
@@ -26108,6 +26267,23 @@ ns1:bcphbjmcifx a ns1:Post ;
     ns1:profileImg "2.5-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "2.5"^^xsd:string .
+
+ns1:bcphbjpp3z2 a ns1:Post ;
+    ns1:coverImg "2.6-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-06-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.6-Fusion-Volume-2_No-5_-of-The-Dream-Network-Bulletin.pdf" download="">Download issue 2.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_2/2.6-Fusion-Volume-2_No-5_-of-The-Dream-Network-Bulletin.pdf">View online</a></p>
+
+<p>Both this issue and an issue of the Dream Network in the same year were printed with the label "Volume 2, Number 5". For the purposes of this archive, we have labeled this issue as "Volume 2, Issue 6".</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn72unjj ;
+    ns1:itemId "bcphbjpp3z2"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 2, issue 6"^^xsd:string ;
+    ns1:profileImg "2.6-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "2.6"^^xsd:string .
 
 ns1:bcphbliwn3u a ns1:Post ;
     ns1:coverImg "3.4-cover.jpg"^^xsd:string ;
@@ -27246,6 +27422,22 @@ ns1:bcphbpqyqpo a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "11.1"^^xsd:string .
 
+ns1:bcphbq3amin a ns1:User ;
+    owl:sameAs "https://www.aamindell.net/about-amy-and-arny"^^xsd:string ;
+    ns1:coverImg "cover-author-arnold-mindell.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.aamindell.net/">aamindell.net</a></p>
+
+<p>Dr. Arnold Mindell, or Arny, is also in private practice in Portland, Oregon, and teaches with his wife <a href="../@amymindell">Amy Mindell</a> around the world. He is known for his development of the “Dreambody” and “Process Work” (<a href="https://en.wikipedia.org/wiki/Process-oriented_psychology">process oriented psychology</a>).</p>
+
+<p>He is the author of 23 books in over 35 languages, including <em>Dreambody</em>, <em>The Shaman’s Body</em>, <em>Quantum Mind</em>, <em>Quantum Mind and Healing</em>, and <em>The Deep Democracy of Open Forums</em>. He is also known in the areas of diversity work and conflict management for his <em>Sitting in the Fire</em> and for his integration of psychology, ecology and physics, for his work on dreams, bodywork, relationships, and for interventions in near death situations. His latest works, <em>ProcessMind</em>, A User’s Guide to The Mind of God and Dance of the Ancient One, bring psychology, physics and spiritual traditions closer to one another. You can follow Arny on <a href="https://www.facebook.com/Arnold.Mindell/">Facebook</a>.</p>
+"""^^xsd:string ;
+    ns1:handle "arnoldmindell"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.aamindell.net/about-amy-and-arny> ;
+    ns1:itemId "bcphbq3amin"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dr. Arnold Mindell"^^xsd:string ;
+    ns1:profileImg "author-arnold-mindell.jpg"^^xsd:string .
+
 ns1:bcphbq3dues a ns1:User ;
     owl:sameAs "https://www.livingdreams.life/"^^xsd:string,
         "https://www.yourguidingdreams.com/public/about.htm"^^xsd:string ;
@@ -27797,6 +27989,20 @@ ns1:bcphbnodjs2 a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "7.3"^^xsd:string .
 
+ns1:bcphbq1mcdc a ns1:User ;
+    owl:sameAs "https://lios.org/our-heritage#3f2c9ee8-69de-44d0-a9a9-ebfa507d1949"^^xsd:string ;
+    ns1:coverImg "cover-author-dougcohen.jpg"^^xsd:string ;
+    ns1:description """<p>Douglas Cohen is the former editor and publisher of Fusion (alongside Christopher Matthews). The Fusion publication was part of the Dream Network in the early 1980s. At the time of editing Fusion, he was also the director of Dream Psychology Northwest, a resource center for humanistic education.</p>
+
+<p><em>You can see Douglas' profile on the Leadership Institute of Seattle website <a href="https://lios.org/our-heritage#3f2c9ee8-69de-44d0-a9a9-ebfa507d1949">here</a>.</em></p>
+"""^^xsd:string ;
+    ns1:handle "dougcohen"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://lios.org/our-heritage#3f2c9ee8-69de-44d0-a9a9-ebfa507d1949> ;
+    ns1:itemId "bcphbq1mcdc"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Douglas Cohen"^^xsd:string ;
+    ns1:profileImg "author-dougcohen.jpg"^^xsd:string .
+
 ns1:bcphbq3gott a ns1:User ;
     owl:sameAs "http://www.dalegottlieb.com/"^^xsd:string ;
     ns1:coverImg "cover-img-dale-gottlieb.png"^^xsd:string ;
@@ -28149,6 +28355,21 @@ ns1:bcphbzrw57c a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "31.4"^^xsd:string .
 
+ns1:bcphbq3jean a ns1:User ;
+    owl:sameAs "https://www.instagram.com/worlddreamspeacebridge/"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
+
+<p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
+
+<p>In 2008, <a href="../bcphbxxscsf/27.2">Volume 27 Issue 2 of the Dream Network Journal</a> paid tribute to Jean as well as Rita Dwyer, "Two Exceptional Women Working Vigilantly for Dreams and for Peace".</p>
+"""^^xsd:string ;
+    ns1:handle "jeancampbell"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/worlddreamspeacebridge/> ;
+    ns1:itemId "bcphbq3jean"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jean Campbell"^^xsd:string ;
+    ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
+
 ns1:bcpovcsetdg a ns1:Topic ;
     owl:sameAs "https://dbpedia.org/page/Dream_sharing"^^xsd:string,
         "https://en.wikipedia.org/wiki/Dream_sharing"^^xsd:string,
@@ -28183,21 +28404,6 @@ ns1:bcpovcsetdg a ns1:Topic ;
     ns1:name "Dream Sharing & Dream Groups"^^xsd:string ;
     ns1:shortName "Dreamsharing Groups"^^xsd:string ;
     ns1:subType "Thing"^^xsd:string .
-
-ns1:bcphbq3jean a ns1:User ;
-    owl:sameAs "https://www.instagram.com/worlddreamspeacebridge/"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://www.worlddreamspeacebridge.org/">worlddreamspeacebridge.org</a></p>
-
-<p>Jean Campbell is the Editor of <a href="https://www.asdreams.org/dreamtime-magazine-info/">DreamTime Magazine</a> for the International Association for the Study of Dreams, where she also serves on their Board of Directors. She is CEO of the nonprofit organization, The iMAGE Project and author/editor of several books, including <a href="https://www.goodreads.com/book/show/940129.Group_Dreaming">Group Dreaming: Dreams to the Tenth Power</a> and <a href="https://www.goodreads.com/book/show/28999710-sleep-monsters-and-superheroes">Sleep Monsters and Superheroes: Empowering Children through Creative Dream Play</a>. Founder of the <a href="https://www.worlddreamspeacebridge.org/">World Dreams Peace Bridge</a>, Jean lives in Virginia in the USA.</p>
-
-<p>In 2008, <a href="../bcphbxxscsf/27.2">Volume 27 Issue 2 of the Dream Network Journal</a> paid tribute to Jean as well as Rita Dwyer, "Two Exceptional Women Working Vigilantly for Dreams and for Peace".</p>
-"""^^xsd:string ;
-    ns1:handle "jeancampbell"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/worlddreamspeacebridge/> ;
-    ns1:itemId "bcphbq3jean"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jean Campbell"^^xsd:string ;
-    ns1:profileImg "author-jean-campbell.jpg"^^xsd:string .
 
 ns1:bcphbpumr2x a ns1:Post ;
     ns1:coverImg "11.2-cover.jpg"^^xsd:string ;
@@ -29003,18 +29209,6 @@ ns1:bcphbq3rpac a ns1:User ;
     ns1:name "Paco Mitchell"^^xsd:string ;
     ns1:profileImg "author-paco.jpg"^^xsd:string .
 
-ns1:bcpovcrediv a ns1:Topic ;
-    ns1:coverImg "cover-theme-dream-interviews.jpg"^^xsd:string ;
-    ns1:description """<p>This page gathers together all the interviews with dreamers, dream authors and dreamworkers that have appeared in the Dream Network Journal over the years.</p>
-
-<p><em>Cover image: from the article 'A Dreamer Goes to the Faire' by Robert Stephen Dunn, <a href="../bcphbndh32i/6.4">issue 6.4</a></em></p>
-"""^^xsd:string ;
-    ns1:handle "topic~dream-interviews"^^xsd:string ;
-    ns1:itemId "bcpovcrediv"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Interviews with Dreamers & Dreamworkers"^^xsd:string ;
-    ns1:shortName "Interviews"^^xsd:string .
-
 ns1:bcphbqvstim a ns1:User ;
     owl:sameAs "https://www.facebook.com/william.stimson.75"^^xsd:string,
         "https://www.youtube.com/user/billstimson"^^xsd:string ;
@@ -29036,6 +29230,18 @@ ns1:bcphbqvstim a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "William R. Stimson"^^xsd:string ;
     ns1:profileImg "author-bill-stimson.jpg"^^xsd:string .
+
+ns1:bcpovcrediv a ns1:Topic ;
+    ns1:coverImg "cover-theme-dream-interviews.jpg"^^xsd:string ;
+    ns1:description """<p>This page gathers together all the interviews with dreamers, dream authors and dreamworkers that have appeared in the Dream Network Journal over the years.</p>
+
+<p><em>Cover image: from the article 'A Dreamer Goes to the Faire' by Robert Stephen Dunn, <a href="../bcphbndh32i/6.4">issue 6.4</a></em></p>
+"""^^xsd:string ;
+    ns1:handle "topic~dream-interviews"^^xsd:string ;
+    ns1:itemId "bcpovcrediv"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Interviews with Dreamers & Dreamworkers"^^xsd:string ;
+    ns1:shortName "Interviews"^^xsd:string .
 
 ns1:bcphbqvcors a ns1:User ;
     owl:sameAs "http://bambicorso.com/about-me/"^^xsd:string,

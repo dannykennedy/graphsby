@@ -13,7 +13,7 @@ urlSlug: "world-dream"
 profileImg: wd3.jpg
 ---
 
-On December 18, 1982, prompted by a call from Bill Stimson of the New York Dream Community, groups of dream networkers in the Western hemisphere held Winter solstice gatherings and shared the dreams they had been incubating, looking for images to share in a single, composite "world dream". The sharing began with a group in France telephoning a group in New Jersey. New Jersey added its segment to the initial segment from across the ocean and then called the next group on the list. So the dream passed in a westerly direction, gathering elements from the various gatherings of dreamers as it went, until it reached San Francisco. What follows is the composite dream created by this planetary networking process. The illustrations are by Pam Brown of Bergen County, New Jersey.
+On December 18, 1982, prompted by a call from [Bill Stimson](../@billstimson) of the New York Dream Community, groups of dream networkers in the Western hemisphere held Winter solstice gatherings and shared the dreams they had been incubating, looking for images to share in a single, composite "world dream". The sharing began with a group in France telephoning a group in New Jersey. New Jersey added its segment to the initial segment from across the ocean and then called the next group on the list. So the dream passed in a westerly direction, gathering elements from the various gatherings of dreamers as it went, until it reached San Francisco. What follows is the composite dream created by this planetary networking process. The illustrations are by Pam Brown of Bergen County, New Jersey.
 
 _Shadows._
 _Dangerous fall from a pillar in the middle of us._  

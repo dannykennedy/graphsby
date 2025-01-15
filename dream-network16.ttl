@@ -3490,6 +3490,96 @@ ns1:bcpov6ctpuff a ns1:Post ;
     ns1:profileImg "post-bcpov6ctpuff-0.jpg"^^xsd:string ;
     ns1:urlSlug "kicking-the-smoking-habit-with-lucid-dreams"^^xsd:string .
 
+ns1:bcpov6ctpuwd a ns1:Post ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p>On December 18, 1982, prompted by a call from Bill Stimson of the New York Dream Community, groups of dream networkers in the Western hemisphere held Winter solstice gatherings and shared the dreams they hed been incubating, looking for images to share in a single, composite "world dream". The sharing began with a group in France telephoning a group in New Jersey. New Jersey added its segment to the initial segment from across the ocean and then called the next group on the list. So the dream passed in a westerly direction, gathering elements from the various gatherings of dreamers as it went, until it reached San Francisco. What follows is the composite dream created by this planetary networking process. The illustrations are by Pam Brown of Bergen County, New Jersey.</p>
+
+<p><em>Shadows.</em></p>
+
+<p><em>Dangerous fall from a pillar in the middle of us.</em>  </p>
+
+<p><em>A sad face.</em>  </p>
+
+<p><em>Trees pierced by a cataclysm.</em>  </p>
+
+<p><em>Sobs.</em>  </p>
+
+<p><em>We the humans are very unhappy.</em>  </p>
+
+<p><em>Knives for the shells taken from the sea.</em>  </p>
+
+<p><em>Agony returns to water: Ecology finally integrated with life!</em></p>
+
+<p><strong>CENTRE ONIROS</strong> (Roger Ripert), B.P. 30, 93450 Ile St., Denis, France.</p>
+
+<p><img src="../images/wd1.jpg" width="auto" height="auto" style="max-width: 100%; max-height: 400px"/></p>
+
+<blockquote>
+  <p><em>I am inside a membrane which is earth-like and stretches. I push with my fists. Suddenly the membrane opens up by itself and I fly through into midair floating upward. I fear I might fall and begin flapping my arms with closed fists. Then I realize I don’t have to flap in order to fly. I look down at a crevice, valley below filled with all types of animals. I see a winged horse. Colors are varied, metallic and intense. I feel tremendous ecstasy.</em></p>
+</blockquote>
+
+<p><strong>THE NEW JERSEY DREAM COMMUNITY</strong> (Margaret Salha), 147A Fort Lee Road, Teaneck, NJ 07666.</p>
+
+<p><img src="../images/wd2.jpg" width="auto" height="auto" style="max-width: 100%; max-height: 400px"/></p>
+
+<blockquote>
+  <p><em>I'm flying in an airplane at a great height. There are two people whom I perceive as very strong in the front seat and I'm sitting in the back. As we're flying along, there is lightning and thunder crashing and flashing. There is so much water, it's almost like being underwater and yet it's clearly an airplane. I'm frightened. I turn to the two people who are in the front seat and point out the terrible weather. They say something reassuring to me and I look out and realize the electricity and thunderstorm are somehow being taken in by the airplane and it's running on it. As we fly through the terrible weather, the water seems to part in our way and all the terror of the thunderstorm becomes part of the energy of our flight. When we land it's somewhere in California, but a strange part of it because there are leaves on the ground and I am aware there are no deciduous trees in California. People are raking the leaves. I go along with them and see more and more strange sights: things I think are in the East are somehow in the West. They seem to be quite natural and comforting.</em></p>
+</blockquote>
+
+<p><strong>THE BOSTON AREA DREAM COMMUNITY</strong> (Richard McGurk), 25 Beach Avenue, Hull, MA 02045.</p>
+
+<p><img src="../images/wd3.jpg" width="auto" height="auto" style="max-width: 100%; max-height: 400px"/></p>
+
+<blockquote>
+  <p><em>A large group of people need places to sleep. A Chinese man is assigned to my bed as part of an intercultural exchange. We dream the same dream of a journey under the sea. As sinewy fish, we dance our way into kingdoms. We find many kingdoms including the medieval city of Marseilles. There is a violent scuffle which at first frightens us and we draw out our whips. When they see we are like them, they offer us sweets and fresh green shirts to make us welcome. In gratitude, we dance for them the "Dance of the Green Shirts," which gives us the power to be transported to Dante’s Celestial City.</em></p>
+</blockquote>
+
+<p><strong>THE DREAM COMMUNITY OF NEW YORK</strong> (John Perkins), 684 Washington Street, Apt. 2B, New York, NY 10014.</p>
+
+<p><img src="../images/wd4.jpg" width="auto" height="auto" style="max-width: 100%; max-height: 400px"/></p>
+
+<blockquote>
+  <p><em>I attend a meeting of a world spiritual organization. The decorations and music seem inauthentic. The president of the spiritual group is Ronald Reagan to my surprise. When I comment on this, someone tells me I should not judge about form and content, reality and unreality, or whether I really know what is right and wrong.</em></p>
+</blockquote>
+
+<p><strong>THE WASHINGTON, D.C. DREAM NETWORK</strong> (Carolyn Amundson), 3801 Connecticut Avenue, N.W., Apt. 822, Washington, DC 20008.</p>
+
+<blockquote>
+  <p><em>I believe that I can create my own reality. I sense the need to let people know that all they have to do is believe and then they can create their own reality and have their desires fulfilled. I go down a path and speak to everyone I meet, telling them this truth. The need seems to center upon housing and hunger. All of a sudden, apartment buildings and supermarkets spring up. There is no longer a use for money. People just manifest what they want. After this occurs in my locality, people all over the world begin doing the same thing, as though it took only one person to believe in order to transform the world.</em></p>
+</blockquote>
+
+<p><strong>AUSTIN SETH CENTER</strong> (Maude Cardwell), 1516-B Harrell Lane, Austin, TX 78703.</p>
+
+<blockquote>
+  <p><em>Outdoors, seated around a large table, is a diverse group of people welcoming all strangers regardless of race, creed, or role in life. A mountain lion is drawn to the energy of the group, screams a salute, and wanders on, disappearing into a tunnel. Going down the long tunnel, which dilates at the end to enter a grey scene, is a person with arms crossed and rocking back and forth as though holding a baby. The figure flings open the arms and lets fly a cascade of spears, which become worlds speeding through space. The worlds merge into another human figure that radiates light and peace. The figure rises into the air dressed in white, holding aloft a bottle of Coors with a red rose sprouting from the bottle top.</em></p>
+</blockquote>
+
+<p><strong>THE COLORADO DREAM NETWORK</strong> (Janet S. Smith), 972 South Vallejo, Denver, CO 80223.</p>
+
+<blockquote>
+  <p><em>People are living an ordinary earthly existence, ignorant of what is above. Other people are playing dangerously above, ignorant of what is below. Aliens emerge out of an underground river, raising the surface to ground level. Water cleanses the earth, causing it to glow. People are frightened, preparing to protect themselves, afraid of the unknown. Aliens teach the people, reach them at gut level, and lead them up a scaffolding to the sky. What was thought to be an ending is now a new beginning.</em></p>
+</blockquote>
+
+<p><strong>"LUCIDITY &amp; BEYOND"</strong> (Sally Shute), Box 1406, San Francisco, CA 94101.</p>
+
+<p><img src="../images/wd5.jpg" width="auto" height="auto" style="max-width: 100%; max-height: 400px"/></p>
+
+<p><em>I am nursing a baby that is not mine. There are two divisions of labor: one person who gives birth and another one to nurse the baby. A different person takes care of the baby. Timing is important. I have to be there every four hours to feed the baby, and in between, I am free.</em></p>
+
+<p><strong>THE FLORIDA DREAM NETWORK</strong> (Joan Medlicott), 498 N.W. 10th Street, Boca Raton, FL 33432.</p>
+
+<p><img src="../images/wd6.jpg" width="auto" height="auto" style="max-width: 100%; max-height: 400px"/></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbqawtay,
+        ns1:bcpov6zfsra ;
+    ns1:inIssue ns1:bcpov6zfsra ;
+    ns1:itemId "bcpov6ctpuwd"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "A World Dream"^^xsd:string ;
+    ns1:profileImg "wd3.jpg"^^xsd:string ;
+    ns1:urlSlug "world-dream"^^xsd:string .
+
 ns1:bcpov6ctraum a ns1:Post ;
     ns1:dateCreated "2001-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<h3>1st Principle: There Is No Such Thing as a Bad Dream</h3>
@@ -28754,27 +28844,6 @@ ns1:bcphbygiw4g a ns1:Post ;
     ns1:profileImg "28.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "28.2-3"^^xsd:string .
 
-ns1:bcpov6zfsra a ns1:Post ;
-    ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p>
-
-<p>The Coat of Many Colors was a co-creation of John Van Daam, <a href="../@jeremytaylor">Jeremy Taylor</a> and Kathryn Taylor at the Dream Tree Press, and published in cooperation with the Dream Network Bulletin. It received contributions by many writers and artists who went on to dedicate their lives to the field of dreamwork and dream research, and many became well-known in the field if they were not already at the time. </p>
-
-<p>The Coat of Many Colors was intended as a snapshot of the dream movement at a time when it was just beginning to form a cohesive voice and self-awareness, and at the same time to foster this sense of collective purpose. </p>
-
-<p>The Dream Tree Press itself was a huge crank-driven machine in the basement of the Taylors' house, and Jeremy's daughter <a href="https://createwithspirit.wpcomstaging.com/">Tristy</a> remembers as a child collating pages and stapling booklets together. This publication is made available here with the kind permission of John van Daam (also known as John van Damm) and Tristy Taylor. </p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj,
-        ns1:bcphbqawtay ;
-    ns1:hasTag ns1:bcphbqawtay,
-        ns1:bcpov6pspec ;
-    ns1:itemId "bcpov6zfsra"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Coat of Many Colors"^^xsd:string ;
-    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
-    ns1:urlSlug "coat-of-many-colors"^^xsd:string .
-
 ns1:bcpqn72unjj a ns1:Post ;
     ns1:description """<p><a href="../files/Volume_2.zip" download>Volume 2 (.zip file, 10mb)</a></p>
 """^^xsd:string ;
@@ -28883,6 +28952,27 @@ ns1:bcphbqsorna a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Orna Ben-Shoshan"^^xsd:string ;
     ns1:profileImg "author-ornabenshoshan.jpg"^^xsd:string .
+
+ns1:bcpov6zfsra a ns1:Post ;
+    ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p>
+
+<p>The Coat of Many Colors was a co-creation of John Van Daam, <a href="../@jeremytaylor">Jeremy Taylor</a> and Kathryn Taylor at the Dream Tree Press, and published in cooperation with the Dream Network Bulletin. It received contributions by many writers and artists who went on to dedicate their lives to the field of dreamwork and dream research, and many became well-known in the field if they were not already at the time. </p>
+
+<p>The Coat of Many Colors was intended as a snapshot of the dream movement at a time when it was just beginning to form a cohesive voice and self-awareness, and at the same time to foster this sense of collective purpose. </p>
+
+<p>The Dream Tree Press itself was a huge crank-driven machine in the basement of the Taylors' house, and Jeremy's daughter <a href="https://createwithspirit.wpcomstaging.com/">Tristy</a> remembers as a child collating pages and stapling booklets together. This publication is made available here with the kind permission of John van Daam (also known as John van Damm) and Tristy Taylor. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj,
+        ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbqawtay,
+        ns1:bcpov6pspec ;
+    ns1:itemId "bcpov6zfsra"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Coat of Many Colors"^^xsd:string ;
+    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "coat-of-many-colors"^^xsd:string .
 
 ns1:bcphbqflull a ns1:User ;
     owl:sameAs "https://siivola.org/monte/"^^xsd:string ;
@@ -29321,24 +29411,6 @@ ns1:bcphbqvruss a ns1:User ;
     ns1:name "Russell Lockhart"^^xsd:string ;
     ns1:profileImg "author-ral.jpg"^^xsd:string .
 
-ns1:bcphbqawtay a ns1:User ;
-    owl:sameAs "https://jeremytaylor.com/"^^xsd:string ;
-    ns1:coverImg "cover-author-jeremytaylor.jpeg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
-
-<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President from 1994-1995.</p>
-
-<p>He is the author of <a href="https://www.amazon.com/Wisdom-Your-Dreams-Unconscious-Transform/dp/1585427543">The Wisdom of Your Dreams: Using Dreams to Tap Into Your Unconscious and Transform Your Life</a> (Penguin/Tarcher, 2009); <a href="https://www.amazon.com/gp/product/B005GJ7XGY">Living Labyrinth: Universal Themes in Myths, Dreams and Waking Life</a> (Paulist Press, Mahwah, NJ, 1998); <a href="https://www.amazon.com/gp/product/0446394629">Where People Fly and Water Runs Uphill: Using Dreams to Tap the Wisdom of the Unconscious</a> (Warner Books, New York, 1992); and <a href="https://www.amazon.com/gp/product/0809125250">DreamWork: Techniques for Discovering the Creative Power in Dreams</a> (Paulist Press, Mahwah NJ, 1983). He taught at schools of the Graduate Theological Union (Berkeley, CA) for over thirty years, and led workshops all over the US and Canada, as well as in Mexico, Peru, Greece, England, South Korea and China.</p>
-
-<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>.</p>
-"""^^xsd:string ;
-    ns1:handle "jeremytaylor"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://jeremytaylor.com/> ;
-    ns1:itemId "bcphbqawtay"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jeremy Taylor"^^xsd:string ;
-    ns1:profileImg "author-jeremy-taylor.jpg"^^xsd:string .
-
 ns1:bcphb2kq341 a ns1:Post ;
     ns1:coverImg "image-bcpov6gid34p-1.jpg"^^xsd:string ;
     ns1:dateCreated "2021-05-01T11:32:52"^^xsd:dateTime ;
@@ -29405,6 +29477,24 @@ ns1:bcphbq3ossa a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Roberta Ossana"^^xsd:string ;
     ns1:profileImg "roberta_ossana.png"^^xsd:string .
+
+ns1:bcphbqawtay a ns1:User ;
+    owl:sameAs "https://jeremytaylor.com/"^^xsd:string ;
+    ns1:coverImg "cover-author-jeremytaylor.jpeg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="http://www.jeremytaylor.com">jeremytaylor.com</a></p>
+
+<p>Jeremy Taylor, D.Mn., was a Unitarian Universalist minister, full-time dream worker, and one of the original four co-founders of the Association for the Study of Dreams. He served as ASD President from 1994-1995.</p>
+
+<p>He is the author of <a href="https://www.amazon.com/Wisdom-Your-Dreams-Unconscious-Transform/dp/1585427543">The Wisdom of Your Dreams: Using Dreams to Tap Into Your Unconscious and Transform Your Life</a> (Penguin/Tarcher, 2009); <a href="https://www.amazon.com/gp/product/B005GJ7XGY">Living Labyrinth: Universal Themes in Myths, Dreams and Waking Life</a> (Paulist Press, Mahwah, NJ, 1998); <a href="https://www.amazon.com/gp/product/0446394629">Where People Fly and Water Runs Uphill: Using Dreams to Tap the Wisdom of the Unconscious</a> (Warner Books, New York, 1992); and <a href="https://www.amazon.com/gp/product/0809125250">DreamWork: Techniques for Discovering the Creative Power in Dreams</a> (Paulist Press, Mahwah NJ, 1983). He taught at schools of the Graduate Theological Union (Berkeley, CA) for over thirty years, and led workshops all over the US and Canada, as well as in Mexico, Peru, Greece, England, South Korea and China.</p>
+
+<p>Jeremy Taylor passed away in 2018, shortly after the loss of his wife Kathryn. These articles are reproduced with the permission of his daughter, <a href="https://createwithspirit.wordpress.com">Tristy Taylor</a>.</p>
+"""^^xsd:string ;
+    ns1:handle "jeremytaylor"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://jeremytaylor.com/> ;
+    ns1:itemId "bcphbqawtay"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jeremy Taylor"^^xsd:string ;
+    ns1:profileImg "author-jeremy-taylor.jpg"^^xsd:string .
 
 ns1:bcpovcretdb a ns1:Topic ;
     ns1:coverImg "theme_books_cover.jpg"^^xsd:string ;

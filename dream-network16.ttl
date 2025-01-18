@@ -196,24 +196,6 @@ ns1:bcphbp7rfno a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "11.4"^^xsd:string .
 
-ns1:bcphbq3rpag a ns1:User ;
-    owl:sameAs "https://creativedreaming.org/patricia-garfield/"^^xsd:string,
-        "https://en.wikipedia.org/wiki/Patricia_Garfield"^^xsd:string ;
-    ns1:coverImg "cover-author-patriciagarfield.jpg"^^xsd:string ;
-    ns1:description """<p>Website: <a href="https://creativedreaming.org/patricia-garfield/">The Center for Creative Dreaming</a></p>
-
-<p>Patricia Garfield, Ph.D., was an internationally known dream researcher and lecturer. She is the author of The Healing Power of Dreams; Women's Bodies, Women's Dreams; Your Child's Dreams; and Pathway to Ecstasy. 2024 marked the fiftieth anniversary of the publication of her classic bestseller, <a href="https://www.amazon.com.au/Creative-Dreaming-Control-Creativity-Overcome/dp/0684801728">Creative Dreaming</a>, which was first published in 1974. She is one of the Founding members of the Association for the Study of Dreams (now <a href="https://www.asdreams.org/">IASD</a>) and was president from 1998 - 1999. She passed away in 2021.</p>
-
-<p>Author image: Still from the Thinking Allowed interview <a href="https://www.youtube.com/watch?v=Tg64thYUHM4">Patricia Garfield - The Healing Power of Dreams</a> on YouTube.</p>
-"""^^xsd:string ;
-    ns1:handle "patriciagarfield"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://creativedreaming.org/patricia-garfield/>,
-        <https://www.dannykennedy.co/dnj-ontology#https://en.wikipedia.org/wiki/Patricia_Garfield> ;
-    ns1:itemId "bcphbq3rpag"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Patricia Garfield"^^xsd:string ;
-    ns1:profileImg "patriciagarfield.jpg"^^xsd:string .
-
 ns1:bcphbq3xdna a ns1:Page ;
     ns1:coverImg "cover-tree-ferrimani.jpg"^^xsd:string ;
     ns1:description """<p>Here's an (alphabetical) list of all the authors, poets, illustrators and more whose Dream Network posts we've published so far. If you don't see someone you'd like to see, let us know! Email us at <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a></p>
@@ -1495,6 +1477,26 @@ ns1:bcpov2zindad a ns1:Post ;
     ns1:name "Dreaming about Dreamwork"^^xsd:string ;
     ns1:profileImg "deirdre-drawing.jpg"^^xsd:string ;
     ns1:urlSlug "dreaming-about-dreamwork"^^xsd:string .
+
+ns1:bcpov2zinddh a ns1:Post ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/dream-haiku.jpg" alt="Woman in a sandstorm wrapped in a cloak" width="100%" height="auto"/></p>
+
+<p>Blanket wrapped I stand,</p>
+
+<p>Invisible, sand on sand,</p>
+
+<p>My magical cloak!</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3rpag ;
+    ns1:hasTag ns1:bcphbq3rpag,
+        ns1:bcpov6zfsra ;
+    ns1:inIssue ns1:bcpov6zfsra ;
+    ns1:itemId "bcpov2zinddh"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Dream Haiku"^^xsd:string ;
+    ns1:profileImg "dream-haiku-crop.jpg"^^xsd:string ;
+    ns1:urlSlug "dream-haiku"^^xsd:string .
 
 ns1:bcpov2zluaoi a ns1:Post ;
     ns1:dateCreated "2000-04-01T11:32:52"^^xsd:dateTime ;
@@ -25531,6 +25533,24 @@ ns1:bcphbq3rjbg a ns1:User ;
     ns1:name "Jordi Borràs García"^^xsd:string ;
     ns1:profileImg "author_jordiborras.jpg"^^xsd:string .
 
+ns1:bcphbq3rpag a ns1:User ;
+    owl:sameAs "https://creativedreaming.org/patricia-garfield/"^^xsd:string,
+        "https://en.wikipedia.org/wiki/Patricia_Garfield"^^xsd:string ;
+    ns1:coverImg "cover-author-patriciagarfield.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://creativedreaming.org/patricia-garfield/">The Center for Creative Dreaming</a></p>
+
+<p>Patricia Garfield, Ph.D., was an internationally known dream researcher and lecturer. She is the author of The Healing Power of Dreams; Women's Bodies, Women's Dreams; Your Child's Dreams; and Pathway to Ecstasy. 2024 marked the fiftieth anniversary of the publication of her classic bestseller, <a href="https://www.amazon.com.au/Creative-Dreaming-Control-Creativity-Overcome/dp/0684801728">Creative Dreaming</a>, which was first published in 1974. She is one of the Founding members of the Association for the Study of Dreams (now <a href="https://www.asdreams.org/">IASD</a>) and was president from 1998 - 1999. She passed away in 2021.</p>
+
+<p>Author image: Still from the Thinking Allowed interview <a href="https://www.youtube.com/watch?v=Tg64thYUHM4">Patricia Garfield - The Healing Power of Dreams</a> on YouTube. Cover image: Detail from the cover of <em>Creative Dreaming</em>.</p>
+"""^^xsd:string ;
+    ns1:handle "patriciagarfield"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://creativedreaming.org/patricia-garfield/>,
+        <https://www.dannykennedy.co/dnj-ontology#https://en.wikipedia.org/wiki/Patricia_Garfield> ;
+    ns1:itemId "bcphbq3rpag"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Patricia Garfield"^^xsd:string ;
+    ns1:profileImg "patriciagarfield.jpg"^^xsd:string .
+
 ns1:bcphbq3spdw a ns1:User ;
     owl:sameAs "https://www.linkedin.com/in/daren-scot-wilson/"^^xsd:string ;
     ns1:coverImg "cover-author-daren-wilson.jpg"^^xsd:string ;
@@ -29031,27 +29051,6 @@ ns1:bcphbqsorna a ns1:User ;
     ns1:name "Orna Ben-Shoshan"^^xsd:string ;
     ns1:profileImg "author-ornabenshoshan.jpg"^^xsd:string .
 
-ns1:bcpov6zfsra a ns1:Post ;
-    ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
-    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p>
-
-<p>The Coat of Many Colors was a co-creation of John Van Daam, <a href="../@jeremytaylor">Jeremy Taylor</a> and Kathryn Taylor at the Dream Tree Press, and published in cooperation with the Dream Network Bulletin. It received contributions by many writers and artists who went on to dedicate their lives to the field of dreamwork and dream research, and many became well-known in the field if they were not already at the time. </p>
-
-<p>The Coat of Many Colors was intended as a snapshot of the dream movement at a time when it was just beginning to form a cohesive voice and self-awareness, and at the same time to foster this sense of collective purpose. </p>
-
-<p>The Dream Tree Press itself was a huge crank-driven machine in the basement of the Taylors' house, and Jeremy's daughter <a href="https://createwithspirit.wpcomstaging.com/">Tristy</a> remembers as a child collating pages and stapling booklets together. This publication is made available here with the kind permission of John van Daam (also known as John van Damm) and Tristy Taylor. </p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj,
-        ns1:bcphbqawtay ;
-    ns1:hasTag ns1:bcphbqawtay,
-        ns1:bcpov6pspec ;
-    ns1:itemId "bcpov6zfsra"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Coat of Many Colors"^^xsd:string ;
-    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
-    ns1:urlSlug "coat-of-many-colors"^^xsd:string .
-
 ns1:bcphbqflull a ns1:User ;
     owl:sameAs "https://siivola.org/monte/"^^xsd:string ;
     ns1:coverImg "cover-author-montagueullman.jpeg"^^xsd:string ;
@@ -29162,6 +29161,27 @@ ns1:bcphbyukqzw a ns1:Post ;
     ns1:profileImg "29.3-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "29.3"^^xsd:string .
+
+ns1:bcpov6zfsra a ns1:Post ;
+    ns1:coverImg "cover-coat-of-many-colors.jpg"^^xsd:string ;
+    ns1:dateCreated "1983-03-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf" download="">Download</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_publications/publications.coat-of-many-colors.pdf">View online</a></p>
+
+<p>The Coat of Many Colors was a co-creation of John Van Daam, <a href="../@jeremytaylor">Jeremy Taylor</a> and Kathryn Taylor at the Dream Tree Press, and published in cooperation with the Dream Network Bulletin. It received contributions by many writers and artists who went on to dedicate their lives to the field of dreamwork and dream research, and many became well-known in the field if they were not already at the time. </p>
+
+<p>The Coat of Many Colors was intended as a snapshot of the dream movement at a time when it was just beginning to form a cohesive voice and self-awareness, and at the same time to foster this sense of collective purpose. </p>
+
+<p>The Dream Tree Press itself was a huge crank-driven machine in the basement of the Taylors' house, and Jeremy's daughter <a href="https://createwithspirit.wpcomstaging.com/">Tristy</a> remembers as a child collating pages and stapling booklets together. This publication is made available here with the kind permission of John van Daam (also known as John van Damm) and Tristy Taylor. </p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj,
+        ns1:bcphbqawtay ;
+    ns1:hasTag ns1:bcphbqawtay,
+        ns1:bcpov6pspec ;
+    ns1:itemId "bcpov6zfsra"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Coat of Many Colors"^^xsd:string ;
+    ns1:profileImg "coat-of-many-colors-sml.jpg"^^xsd:string ;
+    ns1:urlSlug "coat-of-many-colors"^^xsd:string .
 
 ns1:bcphbqhaskw a ns1:User ;
     owl:sameAs "https://www.dreamwork-psychology.com/in-memoriam-strephon-kaplan-williams-1934-2009/"^^xsd:string ;

@@ -221,26 +221,6 @@ ns1:bcphbq7rbsc a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "13.4"^^xsd:string .
 
-ns1:bcphbqbynke a ns1:User ;
-    owl:sameAs "https://duke.academia.edu/EdKellogg"^^xsd:string,
-        "https://www.glidewing.com/rw/ed_kellogg.html"^^xsd:string ;
-    ns1:coverImg "cover-author_ed_kellogg.jpg"^^xsd:string ;
-    ns1:description """<p>On Academia.edu: <a href="https://duke.academia.edu/EdKellogg">duke.academia.edu/EdKellogg</a></p>
-
-<p>Ed W. Kellogg, Ph.D., has made a long-standing study of lucid dreaming and the phenomenology of consciousness, and has published several papers on his work in these areas. Ed has experienced hundreds of lucid dreams and has recorded and indexed over 50,000 of his dreams - including over 1000 lucid dreams and hundreds of <a href="https://www.academia.edu/7064628/The_Lucidity_Continuum">fully lucid</a> dreams. He is the creator of the IASD PsiberDreaming Conference, which he organized and hosted from 2002 to 2005.</p>
-
-<p>Ed Kellogg has a Ph.D. in biochemistry from Duke University, and has also published many papers in fields from the biochemistry of aging to bioelectricity and semantics.</p>
-
-<p>Recently he has worked closely with <a href="../@robertwaggoner">Robert Waggoner</a>, with his writings appearing in <a href="https://www.amazon.com.au/Lucid-Dreaming-Gateway-Inner-Self/dp/193049114X">Lucid Dreaming: Gateway to the Inner Self</a> and the <a href="https://www.luciddreamingmagazine.com/">Lucid Dreaming Experience</a> magazine, and the two co-hosted the IASD's Many Worlds of Lucid Dreaming conferences from 2020 to 2024.</p>
-"""^^xsd:string ;
-    ns1:handle "edkellogg"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://duke.academia.edu/EdKellogg>,
-        <https://www.dannykennedy.co/dnj-ontology#https://www.glidewing.com/rw/ed_kellogg.html> ;
-    ns1:itemId "bcphbqbynke"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Ed Kellogg"^^xsd:string ;
-    ns1:profileImg "author_ed_kellogg.jpg"^^xsd:string .
-
 ns1:bcphbqdrrm2 a ns1:Post ;
     ns1:coverImg "12.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1993-01-01T11:32:52"^^xsd:dateTime ;
@@ -5491,6 +5471,39 @@ ns1:bcpov6gretlp a ns1:Post ;
     ns1:name "The Lucidity Project: An Experiment in Group Dreaming"^^xsd:string ;
     ns1:urlSlug "lucidity-project"^^xsd:string .
 
+ns1:bcpov6gretsp a ns1:Post ;
+    ns1:dateCreated "1985-09-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/phenomenon1.jpg" width="300px" height="auto" alt="A woman with an apparition behind her"/></p>
+
+<p>In the past, men of all types have speculated as to the importance and meaningfulness of dreams. Although theories explaining dreams cover a very wide range of opinion, most basically fall between two extreme views. The first, based on a strictly materialistic reality theory, defines dreams as an entirely subjective, random replay of stored memory impressions in the brain, as a sort of mental potpourri served up to the dreamer each night having no intrinsic meaning or importance. In contrast we have the extreme opposing point of view, usually based on its proponents upon their own experience, that sees dreams as excursions into an alternate reality having just as much intrinsic validity as does physical reality. By and large, though I've had dreams which have fit either paradigm and most of the variations in between, I ascribe to the second point of view. In this article I will describe a phenomenon I have repeatedly encountered in my own dreams that argues substantially in favor of the alternate reality theory.</p>
+
+<p>To begin I have, to describe my own qualifications and orientation in dreamwork. I normally recall 3 to 5 dreams per night, and have over the past decade or so written down, interpreted, and then fairly comprehensively indexed by topic and type somewhere on the order of about 5,000 of my dreams. Of these dreams I have had several hundred that I characterize as fully lucid, meaning that within the dream I had the same degree of consciousness and free will (the ability to make conscious decisions) as in my physical reality waking state. During these dreams I have applied many of the tests for "realness" that one can make in our physical world (e.g. pinching myself, saying my name out loud, checking my body sensations, self-remembering, checking for consensus, etc.) and in every case these dreams have passed the test. Of course, dream reality has many profoundly different attributes compared to physical reality, and I do not in any way wish to make light of these differences. But from a phenomenological point of view, which bases itself in experience rather than in "theories about" experience, I have found no basis for assigning any less "realness" to the world encountered in my lucid dream state as compared to my awake physical state.</p>
+
+<p>Although I characterized my lucid dream state as having the same DEGREE of conscious awareness as compared to my lucid physical state, I want to make clear here that my conscious mind in dream reality has functional differences from my conscious mind in physical reality. Specifically, and most important to my later discussion, the quality and accuracy of my "AUTOMATIC critical function of object identification" marked1y diminishes in the dream state. Thus, I will far more easily make erroneous identifications about objects in a dream environment than I would while conscious in physical reality. For example, if I saw a hybrid fruit halfway between an apple and an orange in the physical state, I would immediately identify it, at the very least, as an "odd" fruit. However, if I saw such an object even in a fully lucid dream I would most likely automatically identify it without thinking about it as an apple OR an orange. I would have to make a CONSCIOUS EFFORT to actually PERCEIVE the object as I actually SEE it. Hence, even in lucid dreams I have to make a special conscious effort to compensate for a loss of function of my "automatic object identifier". I have learned from experience that this particular mental function works far less accurately and reliably in my lucid dream conscious mind than in my lucid physical conscious state. Even so, I must add that within the dream state in general, I have found that my "automatic object identifier" works markedly better in the lucid as compared to the non-lucid dream state.</p>
+
+<p>With this as a necessary introduction, let me now describe the lucid dream I had in 1974 that led to my discovery of what I call "the substitution phenomenon". In a rather dull dream, I have a conversation with "my family in our living room in Connecticut". At this point I wake up to full lucid consciousness, and rather than simply taking off for "the wild blue yonder", I decide to carefully investigate the dream scene. I immediately notice that although the people in the living room look somewhat SIMILAR to members of my family, that they have enough DIFFERENCES that I would never have mistaken them for family members in physical reality. I also notice that the dream setting, the living room, also has a number of now obvious differences from the physical reality living room with which I had earlier identified it. Let me try to make this clear. Neither the people nor the living room changed when I "woke up" in this dream - only my ability to critically perceive them as they actually existed. At this point, I decided to go, and leaving a rather shocked looking group (I seemed to have broken the script), flew out the window to more interesting locales.</p>
+
+<p>Since that time I have repeatedly encountered this same "substitution phenomenon" in both my lucid AND non-lucid dreams. For example I dream of a friend, but when I wake up in the dream to a more critical awareness, I usually find I do not dream "with" my friend (the person only has a superficial similarity, and. neither really looks like my friend nor "feels" like him) but of a substitute who plays his part in my dream. Similarly, I often dream of my family home, or my apartment, yet on attaining lucidity I notice many gross discrepancies between the dream place and the actual physical reality place. I find the same "substitution phenomenon" in my non-lucid dreams, in that I routinely find that my interpretation of the characters and events of a dream IN THE DREAM does not correspond to the more critical identifications of the characters and events made later based on a clearly recalled dream experience. Thus, recall of dreams has two obviously different levels. First, we have a verbal interpretation of the dream events and characters as identified DURING the dream experience. Second, we have the non-verbal dream experience itself.</p>
+
+<p>I want to emphasize here that after I began to look for the "substitution phenomenon" I found it at first to occur not as the exception but as the rule in my dreams. However, after a number of years, the conscious level critical awareness I have of the phenomenon began to integrate down to my "automatic object identifier", and this has substantially reduced the occurrence of the more blatant mis-identifications of characters and locations in my dreams. I believe the phenomenon probably has widespread incidence, but has remained overtly unnoticed, perhaps because most people have difficulty clearly recalling even the main features of a dream, let alone the details that don't "fit". Also, people seem to mainly focus on their INTERPRETATION of dreams and not on their actual dream EXPERIENCE. Even accomplished dreamers distort their dreams when they try to describe them, simply by boiling them down into simplified verbal descriptions. Indeed, a first approximation approach seems the easiest, and sometimes the only way to "make sense" out of a dream. Still, a lot of square pegs get rammed down round holes when one uses this approach. Until the lucid dream about "my family" described above, I routinely ignored the "substitution phenomenon". Understanding my dreams seemed quite complicated enough without it! However, looking back I know that I did have an underlying awareness of its occurrence in many of my earlier dreams, though I did not really give any importance to the phenomenon when it occurred.</p>
+
+<p>If generally validated, how would the "substitution phenomenon" affect the materialist vs. experiential models for dreaming? First, it contradicts the main claim of the materialist theory, that dreams consist only of a random hodgepodge of stored memory images. If so, one would not expect the substitution phenomenon at all, as one would expect clearly identifiable overstocked memory images to predominate. For example, if I dream of a house that I actually lived in for twenty years, one would expect to have good and not half-baked reproductions of the house in a dream based on memory. Certain1y I can easily and clearly remember my home, family and friends accurately and in detail. In my own experience such a close identity between a dream object and the actual memory object rarely occurs, exactly the opposite to that predicted by a simplistic version of the materialistic theory at least.</p>
+
+<p>And what theory do I have for the "substitution phenomenon"? Well, I suppose I favor a sort of collective dream drama society, where various groups get together each night and act out different scripts, for their own education and enjoyment. Each of us has our own individual "script", and each of us may play many different parts simultaneously - the significance of the role depending on the point of view from each participant's individual script. Of course, this would lead to a number of compromises both to the characterizations (e.g. someone who I see as a casual acquaintance may have me playing the role of his brother, etc.). This would also lead to some pretty convoluted and illogical plots (especially in regard to details), and to some dream stage sets that, like the federal budget, don't recharactersally satisfy anybody, but will do more or less for the time being. I don't really want to push this theory too far, but it does at least have the virtue that it explains the bulk of my dream experiences, as well as the two different levels of dream recall (of the interpretation and of the experience) referred to earlier. Perhaps I can make this point clearer by likening a dream to a play. Thus, after seeing a play, on one hand one can perceive characters AS IF they actually existed as portrayed in the script. Or one can recall the play more objectively as it actually occurred - the experience itself including the stage settings and props, the actors AS actors, the costume and makeup, etc, etc. As you can see, the existence of the "substitution phenomenon" itself leads to some interesting speculations as to the nature of dream reality.</p>
+
+<p>I would appreciate hearing from dreamers (particularly lucid dreamers) who have experienced the "substitution phenomenon" themselves, especially as to the estimated frequency of occurrence in your dreams both before and after you gained an overt awareness of the phenomenon itself.</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqbynke ;
+    ns1:hasTag ns1:bcphbl3kedf,
+        ns1:bcphbqbynke ;
+    ns1:hasTopic ns1:bcpovcretld ;
+    ns1:inIssue ns1:bcphbl3kedf ;
+    ns1:itemId "bcpov6gretsp"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "The Substitution Phenomenon"^^xsd:string ;
+    ns1:profileImg "phenomenon1.jpg"^^xsd:string ;
+    ns1:urlSlug "substitution-phenomenon"^^xsd:string .
+
 ns1:bcpov6grewit a ns1:Post ;
     ns1:dateCreated "2009-04-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/leaf-dreamtending.jpeg" width="500px" height="auto"/></p>
@@ -7431,7 +7444,7 @@ ns1:bcpov6kchers a ns1:Post ;
 
 <p>In the last issue of Dream Network, ASD’s web guru <a href="../@richardwilkerson">Richard Wilkerson</a> gave us challenging predictions about the future of the dream movement, looking beyond the current state of networking in virtual territory to take a peek at the Next Generation. Inroads have been made into this new territory with highly successful results, such as last fall’s ASD PsiberDreaming Conference, the brainchild of PSI wizard, <a href="../@edkellogg">Ed Kellogg</a>. Many volunteer presenters and participants from all over the world convened in virtual reality for a two-week conference, an easy access low-cost interchange of information with opportunities to participate in experiments and to share experiences. The huge success of this premier conference paves the way for future ones on other dream topics, and will undoubtedly bring more dreamworkers into the community which ASD’s past president <a href="../@bobvandecastle">Robert Van de Castle</a> dubbed the Rainbow Coalition.</p>
 
-<p>A dream cherishing culture will also arise from the groups which are dreaming together for specific purposes to aid our planet and its peoples. For example, following 9/11, dream pioneer <a href="../@jeancampbell">Jean Campbell</a> was inspired to create the World Peace Dreams Bridge. In this large diverse group, dreamers have become friends and truly care about each other, fostering projects for peace and creating positive energy through a variety of activities.</p>
+<p>A dream cherishing culture will also arise from the groups which are dreaming together for specific purposes to aid our planet and its peoples. For example, following 9/11, dream pioneer <a href="../@jeancampbell">Jean Campbell</a> was inspired to create the <a href="../bcpov6zfpeac/can-the-world-dream-peace">World Peace Dreams Bridge</a>. In this large diverse group, dreamers have become friends and truly care about each other, fostering projects for peace and creating positive energy through a variety of activities.</p>
 
 <p>Similarly, at the 2002 ASD conference in Boston, Rosemary Ellen Guiley and I led a workshop called, <em>“Dream Activism: Making a Difference in Our World”</em>, based upon our belief that although dreams are personal, for and about ourselves, they are also interpersonal, and provide the power to connect with others in collectively influencing the course of global life.</p>
 
@@ -25267,21 +25280,6 @@ ns1:bcphbk2qeun a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "2.12"^^xsd:string .
 
-ns1:bcphbl3kedf a ns1:Post ;
-    ns1:coverImg "4.5-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1985-09-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.5-Dream-Network-Bulletin_Volume-4-Number-5.pdf" download="">Download issue 4.5</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.5-Dream-Network-Bulletin_Volume-4-Number-5.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn77nhwr ;
-    ns1:itemId "bcphbl3kedf"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 4, issue 5"^^xsd:string ;
-    ns1:profileImg "4.5-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "4.5"^^xsd:string .
-
 ns1:bcphblsydwp a ns1:Post ;
     ns1:coverImg "4.2-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1985-03-01T11:32:52"^^xsd:dateTime ;
@@ -25653,6 +25651,26 @@ ns1:bcphbqawohl a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jennifer Wohl"^^xsd:string ;
     ns1:profileImg "author-jennifer-wohl.jpg"^^xsd:string .
+
+ns1:bcphbqbynke a ns1:User ;
+    owl:sameAs "https://duke.academia.edu/EdKellogg"^^xsd:string,
+        "https://www.glidewing.com/rw/ed_kellogg.html"^^xsd:string ;
+    ns1:coverImg "cover-author_ed_kellogg.jpg"^^xsd:string ;
+    ns1:description """<p>On Academia.edu: <a href="https://duke.academia.edu/EdKellogg">duke.academia.edu/EdKellogg</a></p>
+
+<p>Ed W. Kellogg, Ph.D., has made a long-standing study of lucid dreaming and the phenomenology of consciousness, and has published several papers on his work in these areas. Ed has experienced hundreds of lucid dreams and has recorded and indexed over 50,000 of his dreams - including over 1000 lucid dreams and hundreds of <a href="https://www.academia.edu/7064628/The_Lucidity_Continuum">fully lucid</a> dreams. He is the creator of the IASD PsiberDreaming Conference, which he organized and hosted from 2002 to 2005.</p>
+
+<p>Ed Kellogg has a Ph.D. in biochemistry from Duke University, and has also published many papers in fields from the biochemistry of aging to bioelectricity and semantics.</p>
+
+<p>He has worked closely with <a href="../@robertwaggoner">Robert Waggoner</a>, with his writings appearing in <a href="https://www.amazon.com.au/Lucid-Dreaming-Gateway-Inner-Self/dp/193049114X">Lucid Dreaming: Gateway to the Inner Self</a> and the <a href="https://www.luciddreamingmagazine.com/">Lucid Dreaming Experience</a> magazine, and the two co-hosted the IASD's Many Worlds of Lucid Dreaming conferences from 2020 to 2024.</p>
+"""^^xsd:string ;
+    ns1:handle "edkellogg"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://duke.academia.edu/EdKellogg>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.glidewing.com/rw/ed_kellogg.html> ;
+    ns1:itemId "bcphbqbynke"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Ed Kellogg"^^xsd:string ;
+    ns1:profileImg "author_ed_kellogg.jpg"^^xsd:string .
 
 ns1:bcphbqchaak a ns1:User ;
     owl:sameAs "https://www.etsy.com/shop/MysticDreamerArt"^^xsd:string,
@@ -26560,6 +26578,21 @@ ns1:bcphbjpp3z2 a ns1:Post ;
     ns1:profileImg "2.6-rect.jpg"^^xsd:string ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "2.6"^^xsd:string .
+
+ns1:bcphbl3kedf a ns1:Post ;
+    ns1:coverImg "4.5-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1985-09-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.5-Dream-Network-Bulletin_Volume-4-Number-5.pdf" download="">Download issue 4.5</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_4/4.5-Dream-Network-Bulletin_Volume-4-Number-5.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn77nhwr ;
+    ns1:itemId "bcphbl3kedf"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 4, issue 5"^^xsd:string ;
+    ns1:profileImg "4.5-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "4.5"^^xsd:string .
 
 ns1:bcphbliwn3u a ns1:Post ;
     ns1:coverImg "3.4-cover.jpg"^^xsd:string ;
@@ -29329,6 +29362,33 @@ ns1:bcphbqvreed a ns1:User ;
     ns1:name "Henry Reed"^^xsd:string ;
     ns1:profileImg "author-henry-reed.jpg"^^xsd:string .
 
+ns1:bcphbqschul a ns1:User ;
+    owl:sameAs "https://www.linkedin.com/in/jeanne-schul-ph-d-rsmt-b90b2415/"^^xsd:string ;
+    ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;
+    ns1:description """<p><a href="https://www.linkedin.com/in/jeanne-schul-ph-d-rsmt-b90b2415/">LinkedIn</a></p>
+
+<p>Jeanne’s career path has been that of “teacher.” She has taught learners of all ages, focusing on the integration of soma, soul, and psyche. Whether she is teaching dance, dreamwork, body therapy, or hatha yoga, she is passionate about assisting her students in realizing their sense of wholeness.</p>
+
+<p>Jeanne is Associate Chair at Pacifica Graduate Institute in the department of Depth Psychology with a specialization in Somatic Studies. She is the Artistic Director Emeritus of the dance company at Berry College, where she taught and coordinated the dance minor program for 24 years. She earned her doctorate in Depth Psychology at Pacifica Graduate Institute, her M.A. in Dance at Texas Woman’s University, a B.A. in English and Dance from SUNY Brockport, spent a year studying British Literature at Nottingham University, and is a Registered Somatic Movement Therapist with ISMETA.</p>
+"""^^xsd:string ;
+    ns1:handle "jeanneschul"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/jeanne-schul-ph-d-rsmt-b90b2415/> ;
+    ns1:itemId "bcphbqschul"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Jeanne Schul"^^xsd:string ;
+    ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
+
+ns1:bcpovcredja a ns1:Topic ;
+    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
+    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomenon. But check out these articles, and you'll see that for as long as dreams, computers and the internet have coexisted, there's been a dream to digitize the unconscious.</p>
+"""^^xsd:string ;
+    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
+    ns1:itemId "bcpovcredja"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string ;
+    ns1:shortName "Dream Apps & Websites"^^xsd:string ;
+    ns1:subType "Thing"^^xsd:string .
+
 ns1:bcpovcretld a ns1:Topic ;
     owl:sameAs "https://dbpedia.org/page/Lucid_dream"^^xsd:string,
         "https://en.wikipedia.org/wiki/Lucid_dream"^^xsd:string ;
@@ -29431,33 +29491,6 @@ ns1:bcpovcretld a ns1:Topic ;
     ns1:metaDescription "In lucid dreaming, the dreamer is aware of dreaming while dreaming, thereby able to enter consciously into the dream reality, opening up a whole new world of possibilities."^^xsd:string ;
     ns1:name "Lucid Dreaming"^^xsd:string ;
     ns1:shortName "Lucid Dreaming"^^xsd:string ;
-    ns1:subType "Thing"^^xsd:string .
-
-ns1:bcphbqschul a ns1:User ;
-    owl:sameAs "https://www.linkedin.com/in/jeanne-schul-ph-d-rsmt-b90b2415/"^^xsd:string ;
-    ns1:coverImg "cover-author-jeanneschul.jpg"^^xsd:string ;
-    ns1:description """<p><a href="https://www.linkedin.com/in/jeanne-schul-ph-d-rsmt-b90b2415/">LinkedIn</a></p>
-
-<p>Jeanne’s career path has been that of “teacher.” She has taught learners of all ages, focusing on the integration of soma, soul, and psyche. Whether she is teaching dance, dreamwork, body therapy, or hatha yoga, she is passionate about assisting her students in realizing their sense of wholeness.</p>
-
-<p>Jeanne is Associate Chair at Pacifica Graduate Institute in the department of Depth Psychology with a specialization in Somatic Studies. She is the Artistic Director Emeritus of the dance company at Berry College, where she taught and coordinated the dance minor program for 24 years. She earned her doctorate in Depth Psychology at Pacifica Graduate Institute, her M.A. in Dance at Texas Woman’s University, a B.A. in English and Dance from SUNY Brockport, spent a year studying British Literature at Nottingham University, and is a Registered Somatic Movement Therapist with ISMETA.</p>
-"""^^xsd:string ;
-    ns1:handle "jeanneschul"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/jeanne-schul-ph-d-rsmt-b90b2415/> ;
-    ns1:itemId "bcphbqschul"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Jeanne Schul"^^xsd:string ;
-    ns1:profileImg "author-jeanneschul.jpg"^^xsd:string .
-
-ns1:bcpovcredja a ns1:Topic ;
-    ns1:coverImg "cover-theme-dream-apps-and-online-dreamsharing.jpg"^^xsd:string ;
-    ns1:description """<p>You'd be forgiven for thinking that dream journal apps and online dreamsharing were a recent phenomenon. But check out these articles, and you'll see that for as long as dreams, computers and the internet have coexisted, there's been a dream to digitize the unconscious.</p>
-"""^^xsd:string ;
-    ns1:handle "topic~dream-apps-and-online-dreamsharing"^^xsd:string ;
-    ns1:itemId "bcpovcredja"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Dream Journal Apps & Online Dreamsharing"^^xsd:string ;
-    ns1:shortName "Dream Apps & Websites"^^xsd:string ;
     ns1:subType "Thing"^^xsd:string .
 
 ns1:bcphbqfgreg a ns1:User ;

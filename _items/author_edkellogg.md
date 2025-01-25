@@ -22,4 +22,4 @@ Ed W. Kellogg, Ph.D., has made a long-standing study of lucid dreaming and the p
 
 Ed Kellogg has a Ph.D. in biochemistry from Duke University, and has also published many papers in fields from the biochemistry of aging to bioelectricity and semantics.
 
-Recently he has worked closely with [Robert Waggoner](../@robertwaggoner), with his writings appearing in [Lucid Dreaming: Gateway to the Inner Self](https://www.amazon.com.au/Lucid-Dreaming-Gateway-Inner-Self/dp/193049114X) and the [Lucid Dreaming Experience](https://www.luciddreamingmagazine.com/) magazine, and the two co-hosted the IASD's Many Worlds of Lucid Dreaming conferences from 2020 to 2024.
+He has worked closely with [Robert Waggoner](../@robertwaggoner), with his writings appearing in [Lucid Dreaming: Gateway to the Inner Self](https://www.amazon.com.au/Lucid-Dreaming-Gateway-Inner-Self/dp/193049114X) and the [Lucid Dreaming Experience](https://www.luciddreamingmagazine.com/) magazine, and the two co-hosted the IASD's Many Worlds of Lucid Dreaming conferences from 2020 to 2024.

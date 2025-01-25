@@ -3161,7 +3161,7 @@ ns1:bcpov5globop a ns1:Post ;
 
 <p>If the meanest man in the world wanted me to eat steak during the transition I was making, it couldn't possibly be good for me. Other dreams on beef advised me to avoid soups at lunch as they contained minor amounts of beef. Eliminating the soups stopped the distress and bloated feelings after lunch.</p>
 
-<p>One of the things that did not get checked in my many visits to physicians was food allergies. My dreams provided early warnings of this although I did not understand the allergy part at first. The first dream hint of food allergies came in a dream in late 1983. In that dream I was shown doing childish things like eating ice cream and popcorn. I had known for some time that corn was difficult to digest, but did not get the connection with ice cream. Several years later 1 was tested for food allergies for the first time and found I was truly allergic to corn. I also discovered that most ice creams on the market had been reformulated to contain corn syrup instead of sugar. My dreams were trying to warn me of this in advance by linking these two foods.</p>
+<p>One of the things that did not get checked in my many visits to physicians was food allergies. My dreams provided early warnings of this although I did not understand the allergy part at first. The first dream hint of food allergies came in a dream in late 1983. In that dream I was shown doing childish things like eating ice cream and popcorn. I had known for some time that corn was difficult to digest, but did not get the connection with ice cream. Several years later I was tested for food allergies for the first time and found I was truly allergic to corn. I also discovered that most ice creams on the market had been reformulated to contain corn syrup instead of sugar. My dreams were trying to warn me of this in advance by linking these two foods.</p>
 
 <p>Subsequent and more extensive tests in 1985 showed that I was allergic to corn, beef and a number of other foods. The people who did the allergy work were convinced that I had a yeast infection. The diet which they recommended was highly restrictive and contained a large number of special preparations that could only be obtained at special food stores. They gave me directions to the food stores and told me I would get a discount if I mentioned their name and used their forms to order the food additives.</p>
 
@@ -3837,7 +3837,7 @@ ns1:bcpov6gdlfsp a ns1:Post ;
 <li><p>I evaluate the dream situation, paying attention to my natural inclinations (such as curiosity about what will unfold or a desire to leave the dream scene); the intensity of the imagery; the presence of recurrent symbols or themes; and correlations to waking life (such as "Is this a response to recent incubations?" "What are my lucid dream goals?" "How urgent is this issue in my waking life?")</p></li>
 <li><p>I decide how I wish to employ my dream lucidity after giving myself the option of foregoing the lucid dream state entirely or of using it to relax, to play or to experiment.</p></li>
 <li><p>I consider my repertoire of dreamwork methods (Senoi, Delaney's Definitional Method, Gestalt, Sparrow's Seeking the Light Method, Freudian, Tibetan &amp; Gillespie's Elimination of Imagery Method, <a href="../@stephenlaberge">LaBerge's</a> Aiming for the Highest Good, and Jungian) and decide to employ the method that either seems called for by the dream or to which I am inclined. If nothing suggests itself to me, I move to Step 4.</p></li>
-<li><p>[Note: This step is a highly effective dreamwork technique in and of itself.] If the dream is just beginning or if 1 am curious as to what is about to occur, I conduct an implicit analysis (as previously described. When the dream is well established, I do one or more of the following technique:</p></li>
+<li><p>[Note: This step is a highly effective dreamwork technique in and of itself.] If the dream is just beginning or if I am curious as to what is about to occur, I conduct an implicit analysis (as previously described. When the dream is well established, I do one or more of the following technique:</p></li>
 </ol>
 
 <ol type="a" style="padding-left:5rem;">
@@ -5684,6 +5684,37 @@ ns1:bcpov6grlatt a ns1:Post ;
     ns1:name "Light at the Tunnel"^^xsd:string ;
     ns1:urlSlug "light-at-the-tunnel"^^xsd:string .
 
+ns1:bcpov6grldit a ns1:Post ;
+    ns1:dateCreated "1986-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/incubation-kellogg.jpg" width="400px" height="auto" alt="A quill with wings"/></p>
+
+<p>Throughout recorded history man has used dreams as an oracle, as a means of gaining information from the unconscious mind not easily obtainable elsewhere. In recent years numerous writers in the dreamwork field have described methods for programming dreams on pre-decided topics. Usually these incubation techniques involve some sort of affirmation before sleep as to the information desired, with an analysis and recording of the following night's dreams the next morning.</p>
+
+<p>In general, incubation methods using ordinary dreams suffer from a number of unavoidable shortcomings. First, very few of us can recall all of the dreams that we have on a given night even under the best of conditions. Thus, you might succeed in incubating a dream and yet fail to recall it! Second, you might erroneously choose a dream as the answer to your incubation simply because you did recall it. Third, dream recall itself often seems fragmentary, which opens the possibility that you might not include crucial dream events or symbols in the morning after interpretation of the dreams you recall. Even in the ideal case where you do recall all of your dreams completely on a given night, how do you correctly decide which dream (or dreams) deals with the incubated topic? And finally, once you have chosen a dream as the incubated dream, you have the not exactly trivial problem of translating a series of multiordinal dream symbols into some sort of a definitive answer. Personal bias and simple confusion, given the usual complexity of dream symbology, makes at least some interpretive errors in the analysis of an incubated dream almost unavoidable. Thus, it should hardly surprise anyone that even after a successful dream incubation, one can still end up with considerable doubt as to the actual meaning of an incubated dream, and of the best way of acting on the information so acquired.</p>
+
+<p>Although the incubation of ordinary dreams can result in a profound experience of considerable psychological impact, the meaning of the incubated dream itself often seems far less than definitive in any practically useful sense. This can result in a fair degree of frustration and dissatisfaction with the more ordinary dream incubation methods. How delightful it would seem to sometimes obtain a simple YES or NO as the answer to a dream incubation topic question such as "Should I take the new job offer?", instead of receiving a Salvador Dali dream scenario whose meaning you can only guess at! Ideally, I think most of us would appreciate (when appropriate) simple, easily understandable answers as a result of dream incubation techniques. Unfortunately, incubation methods involving ordinary dreams rarely achieve such a result.</p>
+
+<p>The lucid dream state (which I define here as the dream state where one has the same degree of consciousness and free will as in the physical reality waking state) offers a number of advantages to the ordinary dream state for dream incubation. In a lucid dream in May of 1985 I finalized a Lucid Dream Incubation Technique (LDIT) that has worked quite well for myself, as well as for others, in obtaining clear and easily understandable information on a variety of topics.</p>
+
+<p>"In a lucid dream I demonstrate an incubation technique using a silver bowl to a group of other dreamers. Basically the technique consisted of the following First the lucid dreamer decides on a question, in which he or she asks for the information most needed at the present time. After deciding on a specific question, the dreamer inverts the silver bowl and consciously focuses on the question. After waiting a few seconds for the answer to materialize, the dreamer then turns over the bowl to find a materialized note with the answer written on it. I took a number of my fellow dreamers through this incubation technique, and each received a clear and discrete answer. For myself I asked for a message from an official in a government agency about the possibilities of future research grants, and received the answer "Goodbye!", which I clearly understood meant that I would receive no further funding from this agency (note: which incidentally, has proved quite true). In cases where my dream students didn't understand the answer, I told them to get the meaning from their own unconscious that materialized the answer, and not to ask me!"</p>
+
+<p>Since that time I have experimented with variations on this LDIT. The essential principle behind this technique involves first finding a medium for the materialization of the answer (such as a bowl, or a closed drawer) asking the question, waiting a few seconds, and then reading the materialized answer (after turning over the bowl, or opening the drawer, etc). I have found it most important to pick an appropriate medium in each dream for the LDIT, as in my experience some mediums work far better than others. One lucid dreamer to whom I've taught this technique has gotten good results by simply asking the other characters in his dreams for the information he requires! The best mediums give you discrete, specific answers, easily remembered in the transition from the lucid dream state to the physical reality waking state.</p>
+
+<p>The LDIT has proved itself amenable to getting information on any topic which can have an answer consisting of a few words or a simple diagram or object. One could ask for example for solutions to health problems, investment advice, etc., etc. As an oracle of one's unconscious information, it has no equal in my experience, and I have found the information so received of a very high quality. This does not mean that I always get usable answers to the questions I ask! In one case, where I had requested investment information, I got my answer on a clay tablet in what looked like cuneiform!</p>
+
+<p>Despite its utility, the Lucid Dream Incubation Technique has one considerable disadvantage as compared to ordinary dream incubation methods, in that it requires that the dreamer maintain a clearheaded lucidity in the dream state. Within the dream, one must decide on, or clearly remember, an incubation question, find a usable medium for providing the answer, consciously focus on the question, and then consciously retain and clearly recall the answer on returning to the physical reality waking state. Obviously, the LDIT may only find practical use among experienced lucid dreamers. Despite this disadvantage, I recommend the LDIT highly, and I hope that any dreamers who make the required effort to give it a try will meet with success!</p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqbynke ;
+    ns1:hasTag ns1:bcphbmmohfo,
+        ns1:bcphbqbynke ;
+    ns1:hasTopic ns1:bcpovcretld ;
+    ns1:inIssue ns1:bcphbmmohfo ;
+    ns1:itemId "bcpov6grldit"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "A Lucid Dream Incubation Technique"^^xsd:string ;
+    ns1:profileImg "incubation-kellogg.jpg"^^xsd:string ;
+    ns1:urlSlug "lucid-dream-incubation-technique"^^xsd:string .
+
 ns1:bcpov6grlrev a ns1:Post ;
     ns1:dateCreated "2005-10-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6grlrev-0.jpg" width="200px" height="auto"/></p>
@@ -7038,7 +7069,7 @@ ns1:bcpov6kbheal a ns1:Post ;
 
 <h2>II.</h2>
 
-<p>Little practical research has been done on the specific question of how dreams can promote greater environmental awareness. However, 1 have an example that might help to indicate the potential dreams have in this regard.</p>
+<p>Little practical research has been done on the specific question of how dreams can promote greater environmental awareness. However, I have an example that might help to indicate the potential dreams have in this regard.</p>
 
 <p>Sam LaBudde is a marine biologist with the Earth Island Institute in San Francisco. In 1987 he engaged in a dangerous environmental spy mission: he anonymously took on a job as a mechanic on the <em>Maria Luisa</em>, a Panamanian fishing boat hunting the Pacific for yellowfin tuna. Schools of tuna are frequently accompanied in the ocean by dolphins, and fishermen had long been accused of recklessly slaughtering the dolphins in the process of catching tuna. However, environmentalists had no hard evidence to use against the tuna fishing industry. LaBudde brought a video camera onto the ship, and whenever the crew hauled up its nets, he casually videotaped the ghastly proceedings: scores of dolphins tangled in the mesh, beaks cut, fins broken, drowned in their struggles. Even though he knew the crew would beat or kill him if they discovered his true purpose on the ship, LaBudde managed to collect extensive video footage. When he brought his films back to the U.S., they caused a sensation-they were shown on national newscasts and at congressional hearings, and they helped ignite a public outcry over the tuna fishing industry's environmental practices.</p>
 
@@ -17242,7 +17273,7 @@ ns1:bcpov6zfheal a ns1:Post ;
 
 <p>I became obsessed with the infection. I got my name added to a prayer group listing. I began calling friends asking for their prayers. One friend, who is especially psychic, called back moments after my call. He had been meditating when I called, returned to the meditative state and asked for advice on my behalf. The recommendation which came to him was accompanied by a brilliant white light. I should use a castor oil pack. I was familiar with castor oil packs and had been using one before the doctor recommended I stop.</p>
 
-<p>I got castor oil soaked wool felt and made a total finger pack which I used with heat for an hour and a half two times a day. My psychic friend called a couple of times during the next two days and mentioned he had also gotten the recommendation that 1 use epsom salt soaks followed by a cleansing with lemon oil; that I would see improvement in from three to six days. I followed this advice, but wasn't sure what form the "improvement" would take. The swelling began to increase and was now accompanied by redness and subsurface yellow pus which began to spread around the base of the nail. Seven worrisome days after my friend's initial recommendation I actively sought dream guidance that I could understand. I awoke with a vague impression of perforation of the skin -the idea that if I found a preparation that would help to draw out the infection at this point, that would be helpful.</p>
+<p>I got castor oil soaked wool felt and made a total finger pack which I used with heat for an hour and a half two times a day. My psychic friend called a couple of times during the next two days and mentioned he had also gotten the recommendation that I use epsom salt soaks followed by a cleansing with lemon oil; that I would see improvement in from three to six days. I followed this advice, but wasn't sure what form the "improvement" would take. The swelling began to increase and was now accompanied by redness and subsurface yellow pus which began to spread around the base of the nail. Seven worrisome days after my friend's initial recommendation I actively sought dream guidance that I could understand. I awoke with a vague impression of perforation of the skin -the idea that if I found a preparation that would help to draw out the infection at this point, that would be helpful.</p>
 
 <p>The following day, December 18th, I saw the doctor for the second time. He carefully cut the surface layer of skin, drained off the pus and applied antbiotic ointment. The finger improved dramatically. I was more relieved than I had been in days. I was able to reflect on my consuming fears of pain, surgery, and possible failure of my wholistic measures. I got insight regarding how I developed the very fearful side of myself. I realized the powerful impact of fear and toned for situations where I had caused fear in others. I could now relax.</p>
 
@@ -23082,7 +23113,7 @@ ns1:bcpoz6htayod a ns1:Post ;
 
 <p>Such episodes as this that we inflict upon ourselves by not operating on our instinct I have managed to lessen a little bit in my own life by this technique of "dream stitches." I get closer to myself by weaving back and forth from the dream to waking consciousness. This is the way I analyze dreams that tell me they want to be analyzed this way.</p>
 
-<p>Now let's say I dream I am a botanist collecting specimens on a Caribbean island. This is another kind of dream I frequently have. Here the active party isn't my dream self but the dream character that represents my waking self. My dream self knows my waking self needs something in the dream and, like a woman that offers her body to a man she loves, the dream is offering its topography up for my waking ego identity to come into it and partake selectively of its treasures. The dream is less happy because I am not taking all of it, but more happy because 1 am bringing more of myself into taking what I do. By what I take the dream knows me and by what I find, I know the dream. Oh, you bet the dream is going to be processing what it found out about me. So you can be sure I'm going to analyze this dream down to the opening where I can find out what the dream self found out about me. I want to defend myself by knowing as much about myself as it does. Small matter that, as a result of the analytical process I subject the dream to, I am going to lose myself in a synthesis with my dream consciousness itself - a synthesis that all this analysis snaps me into when carried to its extreme degree. A lot of people who tell you not to analyze dreams are very analytical people really. What they are afraid of is that you're analyzing more than them and they intuitively fear this is going to catapult them into what they are least able to deal with: synthesis. Yes, these people who don't want to analyze are people who can't synthesize. Their waking mind is avoiding a deeper union with their dream mind and settling for a shallower one. They prefer to be unconscious of all the false analyses their supposedly "natural" behavior is based on. Analyzing anew would bring these false precepts to the fore and would be threatening to them.</p>
+<p>Now let's say I dream I am a botanist collecting specimens on a Caribbean island. This is another kind of dream I frequently have. Here the active party isn't my dream self but the dream character that represents my waking self. My dream self knows my waking self needs something in the dream and, like a woman that offers her body to a man she loves, the dream is offering its topography up for my waking ego identity to come into it and partake selectively of its treasures. The dream is less happy because I am not taking all of it, but more happy because I am bringing more of myself into taking what I do. By what I take the dream knows me and by what I find, I know the dream. Oh, you bet the dream is going to be processing what it found out about me. So you can be sure I'm going to analyze this dream down to the opening where I can find out what the dream self found out about me. I want to defend myself by knowing as much about myself as it does. Small matter that, as a result of the analytical process I subject the dream to, I am going to lose myself in a synthesis with my dream consciousness itself - a synthesis that all this analysis snaps me into when carried to its extreme degree. A lot of people who tell you not to analyze dreams are very analytical people really. What they are afraid of is that you're analyzing more than them and they intuitively fear this is going to catapult them into what they are least able to deal with: synthesis. Yes, these people who don't want to analyze are people who can't synthesize. Their waking mind is avoiding a deeper union with their dream mind and settling for a shallower one. They prefer to be unconscious of all the false analyses their supposedly "natural" behavior is based on. Analyzing anew would bring these false precepts to the fore and would be threatening to them.</p>
 
 <p>The dream of collecting specimens tells me to collect specimens of the dream. So I take every most insignificant little piece of that dream. I write it down. I draw an arrow. I write the thing that first comes to mind or that most significantly comes to mind. The first association often leads to a second, the second to a third, etc., all separated by their neat little arrows. With practice at this I learn how to build a "bridge." This is what I call it when one word or image in the dream will connect through a series of associations with another. It is these secondary connections that prove most valuable ultimately in deciphering the meaning of the dream. With tertiary and quaternary connections the dream increases to twist itself into a different shape until it snaps finally and all of a sudden I'm not associating any more. I'm writing down a stream of insights as fast as my little pen will go. This is the dream consciousness that is writing directly through me now. Analysis alone, carried to the extreme, always leads me to this synthesis with a consciousness under my own waking consciousness - a much deeper and more intelligent consciousness that I could ever imagine myself capable of. This whole process is the best exercise I know for a writer to develop the talent, eventually, of writing from this state all the time. The Chinese Zen Buddhists have a word for it. I forgot what it is. But it is when your action is coming from the larger part of you and so it is fuller, more effective action. So you see, we're back to being natural. Either way of working with dreams always leads back to this generality.</p>
 
@@ -25310,21 +25341,6 @@ ns1:bcphbmaewem a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "4.6"^^xsd:string .
 
-ns1:bcphbmmohfo a ns1:Post ;
-    ns1:coverImg "5.4-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1986-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.4-Dream-Network-Bulletin_Volume-5-Number-4.pdf" download="">Download issue 5.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.4-Dream-Network-Bulletin_Volume-5-Number-4.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqoact7dh ;
-    ns1:itemId "bcphbmmohfo"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 5, issue 4"^^xsd:string ;
-    ns1:profileImg "5.4-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "5.4"^^xsd:string .
-
 ns1:bcphbmqor5y a ns1:Post ;
     ns1:coverImg "5.5-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1986-09-01T11:32:52"^^xsd:dateTime ;
@@ -25651,26 +25667,6 @@ ns1:bcphbqawohl a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Jennifer Wohl"^^xsd:string ;
     ns1:profileImg "author-jennifer-wohl.jpg"^^xsd:string .
-
-ns1:bcphbqbynke a ns1:User ;
-    owl:sameAs "https://duke.academia.edu/EdKellogg"^^xsd:string,
-        "https://www.glidewing.com/rw/ed_kellogg.html"^^xsd:string ;
-    ns1:coverImg "cover-author_ed_kellogg.jpg"^^xsd:string ;
-    ns1:description """<p>On Academia.edu: <a href="https://duke.academia.edu/EdKellogg">duke.academia.edu/EdKellogg</a></p>
-
-<p>Ed W. Kellogg, Ph.D., has made a long-standing study of lucid dreaming and the phenomenology of consciousness, and has published several papers on his work in these areas. Ed has experienced hundreds of lucid dreams and has recorded and indexed over 50,000 of his dreams - including over 1000 lucid dreams and hundreds of <a href="https://www.academia.edu/7064628/The_Lucidity_Continuum">fully lucid</a> dreams. He is the creator of the IASD PsiberDreaming Conference, which he organized and hosted from 2002 to 2005.</p>
-
-<p>Ed Kellogg has a Ph.D. in biochemistry from Duke University, and has also published many papers in fields from the biochemistry of aging to bioelectricity and semantics.</p>
-
-<p>He has worked closely with <a href="../@robertwaggoner">Robert Waggoner</a>, with his writings appearing in <a href="https://www.amazon.com.au/Lucid-Dreaming-Gateway-Inner-Self/dp/193049114X">Lucid Dreaming: Gateway to the Inner Self</a> and the <a href="https://www.luciddreamingmagazine.com/">Lucid Dreaming Experience</a> magazine, and the two co-hosted the IASD's Many Worlds of Lucid Dreaming conferences from 2020 to 2024.</p>
-"""^^xsd:string ;
-    ns1:handle "edkellogg"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://duke.academia.edu/EdKellogg>,
-        <https://www.dannykennedy.co/dnj-ontology#https://www.glidewing.com/rw/ed_kellogg.html> ;
-    ns1:itemId "bcphbqbynke"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Ed Kellogg"^^xsd:string ;
-    ns1:profileImg "author_ed_kellogg.jpg"^^xsd:string .
 
 ns1:bcphbqchaak a ns1:User ;
     owl:sameAs "https://www.etsy.com/shop/MysticDreamerArt"^^xsd:string,
@@ -26624,6 +26620,21 @@ ns1:bcphbmgxd6x a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "5.2"^^xsd:string .
 
+ns1:bcphbmmohfo a ns1:Post ;
+    ns1:coverImg "5.4-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1986-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.4-Dream-Network-Bulletin_Volume-5-Number-4.pdf" download="">Download issue 5.4</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_5/5.4-Dream-Network-Bulletin_Volume-5-Number-4.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqoact7dh ;
+    ns1:itemId "bcphbmmohfo"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 5, issue 4"^^xsd:string ;
+    ns1:profileImg "5.4-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "5.4"^^xsd:string .
+
 ns1:bcphbnagfeb a ns1:Post ;
     ns1:coverImg "6.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1987-09-02T11:32:52"^^xsd:dateTime ;
@@ -26881,6 +26892,26 @@ ns1:bcphbqawern a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Travis Wernet"^^xsd:string ;
     ns1:profileImg "author-travis-wernet.jpg"^^xsd:string .
+
+ns1:bcphbqbynke a ns1:User ;
+    owl:sameAs "https://duke.academia.edu/EdKellogg"^^xsd:string,
+        "https://www.glidewing.com/rw/ed_kellogg.html"^^xsd:string ;
+    ns1:coverImg "cover-author_ed_kellogg.jpg"^^xsd:string ;
+    ns1:description """<p>On Academia.edu: <a href="https://duke.academia.edu/EdKellogg">duke.academia.edu/EdKellogg</a></p>
+
+<p>Ed W. Kellogg, Ph.D., has made a long-standing study of lucid dreaming and the phenomenology of consciousness, and has published several papers on his work in these areas. Ed has experienced hundreds of lucid dreams and has recorded and indexed over 50,000 of his dreams - including over 1000 lucid dreams and hundreds of <a href="https://www.academia.edu/7064628/The_Lucidity_Continuum">fully lucid</a> dreams. He is the creator of the IASD PsiberDreaming Conference, which he organized and hosted from 2002 to 2005.</p>
+
+<p>Ed Kellogg has a Ph.D. in biochemistry from Duke University, and has also published many papers in fields from the biochemistry of aging to bioelectricity and semantics.</p>
+
+<p>He has worked closely with <a href="../@robertwaggoner">Robert Waggoner</a>, with his writings appearing in <a href="https://www.amazon.com.au/Lucid-Dreaming-Gateway-Inner-Self/dp/193049114X">Lucid Dreaming: Gateway to the Inner Self</a> and the <a href="https://www.luciddreamingmagazine.com/">Lucid Dreaming Experience</a> magazine, and the two co-hosted the IASD's Many Worlds of Lucid Dreaming conferences from 2020 to 2024.</p>
+"""^^xsd:string ;
+    ns1:handle "edkellogg"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://duke.academia.edu/EdKellogg>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.glidewing.com/rw/ed_kellogg.html> ;
+    ns1:itemId "bcphbqbynke"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Ed Kellogg"^^xsd:string ;
+    ns1:profileImg "author_ed_kellogg.jpg"^^xsd:string .
 
 ns1:bcphbqbynum a ns1:User ;
     owl:sameAs "https://web.archive.org/web/20220123134219/https://obeliskfoundation.com/"^^xsd:string,

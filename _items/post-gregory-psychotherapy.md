@@ -25,7 +25,7 @@ Based upon 9½ years of lucid dreaming, I have evolved the following method of e
 1. I evaluate the dream situation, paying attention to my natural inclinations (such as curiosity about what will unfold or a desire to leave the dream scene); the intensity of the imagery; the presence of recurrent symbols or themes; and correlations to waking life (such as "Is this a response to recent incubations?" "What are my lucid dream goals?" "How urgent is this issue in my waking life?")
 2. I decide how I wish to employ my dream lucidity after giving myself the option of foregoing the lucid dream state entirely or of using it to relax, to play or to experiment.
 3. I consider my repertoire of dreamwork methods (Senoi, Delaney's Definitional Method, Gestalt, Sparrow's Seeking the Light Method, Freudian, Tibetan & Gillespie's Elimination of Imagery Method, [LaBerge's](../@stephenlaberge) Aiming for the Highest Good, and Jungian) and decide to employ the method that either seems called for by the dream or to which I am inclined. If nothing suggests itself to me, I move to Step 4.
-4. [Note: This step is a highly effective dreamwork technique in and of itself.] If the dream is just beginning or if 1 am curious as to what is about to occur, I conduct an implicit analysis (as previously described. When the dream is well established, I do one or more of the following technique:
+4. [Note: This step is a highly effective dreamwork technique in and of itself.] If the dream is just beginning or if I am curious as to what is about to occur, I conduct an implicit analysis (as previously described. When the dream is well established, I do one or more of the following technique:
 
 <ol type="a" style="padding-left:5rem;">
   <li>employ my chosen dreamwork technique</li>

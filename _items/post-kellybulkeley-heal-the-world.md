@@ -40,7 +40,7 @@ My claim is that dreamwork can contribute to this task. Dreams may not help us c
 
 ## II.
 
-Little practical research has been done on the specific question of how dreams can promote greater environmental awareness. However, 1 have an example that might help to indicate the potential dreams have in this regard.
+Little practical research has been done on the specific question of how dreams can promote greater environmental awareness. However, I have an example that might help to indicate the potential dreams have in this regard.
 
 Sam LaBudde is a marine biologist with the Earth Island Institute in San Francisco. In 1987 he engaged in a dangerous environmental spy mission: he anonymously took on a job as a mechanic on the _Maria Luisa_, a Panamanian fishing boat hunting the Pacific for yellowfin tuna. Schools of tuna are frequently accompanied in the ocean by dolphins, and fishermen had long been accused of recklessly slaughtering the dolphins in the process of catching tuna. However, environmentalists had no hard evidence to use against the tuna fishing industry. LaBudde brought a video camera onto the ship, and whenever the crew hauled up its nets, he casually videotaped the ghastly proceedings: scores of dolphins tangled in the mesh, beaks cut, fins broken, drowned in their struggles. Even though he knew the crew would beat or kill him if they discovered his true purpose on the ship, LaBudde managed to collect extensive video footage. When he brought his films back to the U.S., they caused a sensation-they were shown on national newscasts and at congressional hearings, and they helped ignite a public outcry over the tuna fishing industry's environmental practices.
 

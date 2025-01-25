@@ -221,6 +221,26 @@ ns1:bcphbq7rbsc a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "13.4"^^xsd:string .
 
+ns1:bcphbqbynke a ns1:User ;
+    owl:sameAs "https://duke.academia.edu/EdKellogg"^^xsd:string,
+        "https://www.glidewing.com/rw/ed_kellogg.html"^^xsd:string ;
+    ns1:coverImg "cover-author_ed_kellogg.jpg"^^xsd:string ;
+    ns1:description """<p>On Academia.edu: <a href="https://duke.academia.edu/EdKellogg">duke.academia.edu/EdKellogg</a></p>
+
+<p>Ed W. Kellogg, Ph.D., has made a long-standing study of lucid dreaming and the phenomenology of consciousness, and has published several papers on his work in these areas. Ed has experienced hundreds of lucid dreams and has recorded and indexed over 50,000 of his dreams - including over 1000 lucid dreams and hundreds of <a href="https://www.academia.edu/7064628/The_Lucidity_Continuum">fully lucid</a> dreams. He is the creator of the IASD PsiberDreaming Conference, which he organized and hosted from 2002 to 2005.</p>
+
+<p>Ed Kellogg has a Ph.D. in biochemistry from Duke University, and has also published many papers in fields from the biochemistry of aging to bioelectricity and semantics.</p>
+
+<p>Recently he has worked closely with <a href="../@robertwaggoner">Robert Waggoner</a>, with his writings appearing in <a href="https://www.amazon.com.au/Lucid-Dreaming-Gateway-Inner-Self/dp/193049114X">Lucid Dreaming: Gateway to the Inner Self</a> and the <a href="https://www.luciddreamingmagazine.com/">Lucid Dreaming Experience</a> magazine, and the two co-hosted the IASD's Many Worlds of Lucid Dreaming conferences from 2020 to 2024.</p>
+"""^^xsd:string ;
+    ns1:handle "edkellogg"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://duke.academia.edu/EdKellogg>,
+        <https://www.dannykennedy.co/dnj-ontology#https://www.glidewing.com/rw/ed_kellogg.html> ;
+    ns1:itemId "bcphbqbynke"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Ed Kellogg"^^xsd:string ;
+    ns1:profileImg "author_ed_kellogg.jpg"^^xsd:string .
+
 ns1:bcphbqdrrm2 a ns1:Post ;
     ns1:coverImg "12.1-cover.jpg"^^xsd:string ;
     ns1:dateCreated "1993-01-01T11:32:52"^^xsd:dateTime ;
@@ -7409,7 +7429,7 @@ ns1:bcpov6kchers a ns1:Post ;
 
 <p>An evolving dream cherishing society will certainly be helped along by the Internet explosion which has joined dreamers in active online groups that cross international boundaries and cultural barriers as they share dreams and life experiences. Dreaming consciousness is dipping into the collective unconscious to form links at night, connecting us all in the soft, sweet web of dreams, unraveling our cares and reweaving us as friends and citizens of the dream world, and changing how we perceive waking reality as well.</p>
 
-<p>In the last issue of Dream Network, ASD’s web guru <a href="../@richardwilkerson">Richard Wilkerson</a> gave us challenging predictions about the future of the dream movement, looking beyond the current state of networking in virtual territory to take a peek at the Next Generation. Inroads have been made into this new territory with highly successful results, such as last fall’s ASD PsiberDreaming Conference, the brainchild of PSI wizard, Ed Kellogg. Many volunteer presenters and participants from all over the world convened in virtual reality for a two-week conference, an easy access low-cost interchange of information with opportunities to participate in experiments and to share experiences. The huge success of this premier conference paves the way for future ones on other dream topics, and will undoubtedly bring more dreamworkers into the community which ASD’s past president <a href="../@bobvandecastle">Robert Van de Castle</a> dubbed the Rainbow Coalition.</p>
+<p>In the last issue of Dream Network, ASD’s web guru <a href="../@richardwilkerson">Richard Wilkerson</a> gave us challenging predictions about the future of the dream movement, looking beyond the current state of networking in virtual territory to take a peek at the Next Generation. Inroads have been made into this new territory with highly successful results, such as last fall’s ASD PsiberDreaming Conference, the brainchild of PSI wizard, <a href="../@edkellogg">Ed Kellogg</a>. Many volunteer presenters and participants from all over the world convened in virtual reality for a two-week conference, an easy access low-cost interchange of information with opportunities to participate in experiments and to share experiences. The huge success of this premier conference paves the way for future ones on other dream topics, and will undoubtedly bring more dreamworkers into the community which ASD’s past president <a href="../@bobvandecastle">Robert Van de Castle</a> dubbed the Rainbow Coalition.</p>
 
 <p>A dream cherishing culture will also arise from the groups which are dreaming together for specific purposes to aid our planet and its peoples. For example, following 9/11, dream pioneer <a href="../@jeancampbell">Jean Campbell</a> was inspired to create the World Peace Dreams Bridge. In this large diverse group, dreamers have become friends and truly care about each other, fostering projects for peace and creating positive energy through a variety of activities.</p>
 
@@ -17689,7 +17709,7 @@ ns1:bcpov6zfpeac a ns1:Post ;
 
 <p>The visitors to the Bulletin Board, some of whom became so regular that we began to call them Boarders, carried on the practice of grassroots dreamwork which began in the seventies. Even though dream interpretation is not done on the Bulletin Board, wideranging questions about dreaming and dreamwork are discussed, with equal participation from therapists, sleep and dream researchers, artists as well as from dreamers themselves.</p>
 
-<p>In the two years after I began moderating the Bulletin Board, Ed Kellogg developed the Paranormal Dreaming Forum on the ASD site, and we began also to create ASD Member Pages, which allowed for members to put up a page online, introducing themselves and their work. It was not long until I conceived a plan for bringing International members even closer, through the medium of the Internet. In 1998, I invited ASD members around the world to participate in the construction of the Online Guide to International Dream Work. This project not only provided a stunning array of multi-language pages for the ASD web site, but it also built a feeling of camaraderie among the ASD members working on the project, even though they lived in Greece, Russia, Switzerland, Australia and many places in between.</p>
+<p>In the two years after I began moderating the Bulletin Board, <a href="../@edkellogg">Ed Kellogg</a> developed the Paranormal Dreaming Forum on the ASD site, and we began also to create ASD Member Pages, which allowed for members to put up a page online, introducing themselves and their work. It was not long until I conceived a plan for bringing International members even closer, through the medium of the Internet. In 1998, I invited ASD members around the world to participate in the construction of the Online Guide to International Dream Work. This project not only provided a stunning array of multi-language pages for the ASD web site, but it also built a feeling of camaraderie among the ASD members working on the project, even though they lived in Greece, Russia, Switzerland, Australia and many places in between.</p>
 
 <h2>The Effects of 9/11</h2>
 
@@ -24596,6 +24616,10 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Dream Tending"^^xsd:string ;
     ns1:url "https://dreamtending.com/stephen-aizenstat-ph-d/"^^xsd:string .
 
+<https://www.dannykennedy.co/dnj-ontology#https://duke.academia.edu/EdKellogg> a ns1:Website ;
+    ns1:name "Academia.edu"^^xsd:string ;
+    ns1:url "https://duke.academia.edu/EdKellogg"^^xsd:string .
+
 <https://www.dannykennedy.co/dnj-ontology#https://eastwest.works/Inoshi.html> a ns1:Website ;
     ns1:name "eastwest.works"^^xsd:string ;
     ns1:url "https://eastwest.works/Inoshi.html"^^xsd:string .
@@ -24879,6 +24903,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://www.genellhowell.com/> a ns1:Website ;
     ns1:name "genellhowell.com"^^xsd:string ;
     ns1:url "https://www.genellhowell.com/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://www.glidewing.com/rw/ed_kellogg.html> a ns1:Website ;
+    ns1:name "GlideWing"^^xsd:string ;
+    ns1:url "https://www.glidewing.com/rw/ed_kellogg.html"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://www.gregbogart.net/about-greg-bogart/> a ns1:Website ;
     ns1:name "gregbogart.net"^^xsd:string ;
@@ -26707,7 +26735,7 @@ ns1:bcphbq3rcwi a ns1:User ;
 
 <p>In 1996 I was part of the International Association for the Study of Dreams (IASD) Conference Committee and developed the Computer and Internet Resource and Exhibition Center for the Berkeley Conference, as well as contributing to the initial development of the IASD presence online and IASD web site, which I now manage for IASD. I have been very impressed by the way IASD attempts to provide a way for all fields to come together and study dreams encompassing all sides of the dream field, from anthropology, dream therapies, dreams and spiritual work, dream inspired art and literature, non-clinical dreamwork, dream telepathy, dream bio-physiology, and many other disciplines.</p>
 
-<p>Over the next decade, I was the IASD Webmaster, the Chair of the Electronic Communications Committee, and provided regular articles on dreaming and dreamwork online to the IASD magazine, Dream Time in the <a href="http://www.dreamgate.com/dream/cyberphile/">Cyberphile column</a>. This has allowed me to develop the online projects for IASD with many, many people from around the world, and unfold the IASD mission to provide dream education for the public and to make the Association a truly international enterprise. For example, beginning in 2002, IASD began offering an international online conference with Ed Kellogg, Ph.D., call the PsiberDreaming Conference, for which I built the technical infrastructure.</p>
+<p>Over the next decade, I was the IASD Webmaster, the Chair of the Electronic Communications Committee, and provided regular articles on dreaming and dreamwork online to the IASD magazine, Dream Time in the <a href="http://www.dreamgate.com/dream/cyberphile/">Cyberphile column</a>. This has allowed me to develop the online projects for IASD with many, many people from around the world, and unfold the IASD mission to provide dream education for the public and to make the Association a truly international enterprise. For example, beginning in 2002, IASD began offering an international online conference with <a href="../@edkellogg">Ed Kellogg, Ph.D.</a>, call the PsiberDreaming Conference, for which I built the technical infrastructure.</p>
 
 <p>In 2005 I became the IASD Operations Director, managing the IASD office and its operations at the office in Berkeley. In 2018 the office went virtual and is now PO Box 206, Novato, CA 94948</p>
 

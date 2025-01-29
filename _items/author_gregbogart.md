@@ -16,7 +16,7 @@ websites:
 Website: [gregbogart.net](https://www.gregbogart.net/)
 Dawn Mountain: [dawnmountain.com](https://www.dawnmountain.com/)
 
-Greg Bogart, PhD, is a psychotherapist, author, astrologer and lecturer in psychology at Sonoma State University. He is the author of several books on Spiritual Depth Psychology, including [_Dreamwork in Holistic Psychotherapy of Depression: An Underground Stream that Guides and Heals_](https://www.amazon.com.au/Dreamwork-Holistic-Psychotherapy-Depression-Underground/dp/1782201602) (2017) and _Dreamwork and Self-Healing: Unfolding the Symbols of the Unconscious_ (2009).
+Greg Bogart, PhD, is a psychotherapist, author, astrologer and lecturer in psychology at Sonoma State University. He is the author of several books on Spiritual Depth Psychology, including [_Dreamwork in Holistic Psychotherapy of Depression: An Underground Stream that Guides and Heals_](https://www.amazon.com.au/Dreamwork-Holistic-Psychotherapy-Depression-Underground/dp/1782201602) (2017) and _Dreamwork and Self-Healing: Unfolding the Symbols of the Unconscious_ (2009). Greg's writings have also appeared in The Journal of Transpersonal Psychology, The American Journal of Psychotherapy, The Journal of Humanistic Psychology, The California Therapist, The Journal of the Society for the Study of Dreams, Yoga Journal and more.
 
 He is a graduate of the California Institute of Integral Studies and Saybrook University, and a licensed Marriage and Family Therapist since 1991. He is currently based in Berkeley, California where he also practices psychotherapy.
 

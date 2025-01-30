@@ -820,6 +820,12 @@ for pyyam in file_objects:
 
 	json_ld_str = json.dumps(json_ld, indent=4, sort_keys=True)
 
+	# If the layout is not post, then add a shortened_description to pyyam
+	# If the length is greater than 500
+	if not pyyam["layout"] == "post":
+		if len(pyyam["description"]) > 500:
+			pyyam["shortened_description"] = truncatePost(pyyam["description"], 500, pyyam["itemId"]).replace("...", "<span class='read-more'> ...read more</span>")
+
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
 			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str)

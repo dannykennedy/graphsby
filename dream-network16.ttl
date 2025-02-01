@@ -13293,6 +13293,52 @@ ns1:bcpov6rsreci a ns1:Post ;
     ns1:name "Short Recipe for Resolving Conflict Crises"^^xsd:string ;
     ns1:urlSlug "short-recipe-for-resolving-conflict-crises"^^xsd:string .
 
+ns1:bcpov6rsrpre a ns1:Post ;
+    ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p><img src="../images/precog-1.jpg" alt="Woman and wolves" style="max-width: 700px; height: auto;"></p>
+
+<p>I awoke, my heart beating rapidly, heavy beads of perspiration on my face; even catching my breath was difficult. I looked around my bedroom for some trace of reality, something to tell me I was safely at home and not frantically running to catch a connecting flight at the airport. In my dream I had lost my luggage and missed my flight. I couldn't help wonder what connection existed between the dream and my coming flight later that morning. I dismissed it as a nightmare. Several hours later, however, the nightmare became reality when I missed a connecting flight because the plane was three hours late. I had to rush to another airline, catching a flight with a minute and half to spare. As in the dream, my luggage was lost.</p>
+
+<p>There are many examples of "dreams that come true" in my life. One time I dreamed of the theft of my red pocketbook. Days later, the pocketbook was stolen, with my wallet, keys, and new prescription glasses. If I'd paid attention to the dream, perhaps I could have taken steps to prevent the loss.</p>
+
+<p>For some time now I've been recording my dreams, and my "dream book" is filled with many warnings and glimpses of future events that came true. I am still amazed at how this information comes to me, outside the realm of the known five senses.</p>
+
+<p>These premonitory dreams, going forward in time to provide a glimpse of future events, are called "precognitive dreams." You can train yourself to be receptive to this "inside information" as your dreams provide warnings as well as signal more pleasant events.</p>
+
+<p>My first precognitive dream was startling and overwhelming. Knowing that I was in my bedroom and not in the middle of a car accident after my brakes failed, took only a few moments, but experientially it felt like a life time. I had been teaching on the college level and was very much immersed in my students and extra-curricular dance activities. I look back and describe myself at that time as a "straight psychology professor" having no knowledge of metaphysical events or higher consciousness studies. I was always taught that dreams went backward to reveal repressed sexual and aggressive impulses. Nowhere did I ever learn of a dream going forward in time to provide glimpses of future events. In fact, when I awoke from my accident dream, I looked at the car crash symbolically and wondered why I was trying to hurt or punish myself with such a violent action. Can you imagine my surprise, when I experienced the car accident three weeks later, in exact detail, as my brakes did indeed fail? This dream was the first of many informal lessons to follow.</p>
+
+<p>Weeks after this spectacular car crash, I dreamed of another accident with brakes failing. Of course, this was ridiculous since I had purchased a brand new car to replace the totalled wreck.</p>
+
+<p>This time, sound effects were added to the dream as I heard a snap when I put my foot down on the brake. Again, wondering about my punitive gesture toward myself, I dismissed the dream since this couldn't possibly happen to a brand new car. Again, the inside information was correct, as the brake cable snapped just days later. Finally, I started keeping a dreambook to scope future events and be wiser by meeting impending situations with forewarning.</p>
+
+<p>For me, precognitive dreams are characterized by their crystal clear quality. When I awake, it is most difficult to tell the difference between the dream and reality. The bewildered feeling leads one to cry out and ask, "Is this scene for real?" When this happens, train yourself to look around the bedroom to note the clock or some part of the room that reminds you where you are. Perhaps the strongest advice I can give is don't run to a dream book when you have such a clear dream. Your first responsibility is to record the contents in your own dream book. The symbolism that comes through is not only private but meant for you. You are truly the best interpreter and expert for your dreams. Many people have overlooked the vital warning or message that was telegraphed</p>
+
+<p>in advanced because their heads were tucked in some dream book looking up symbols that did not apply. The precognitive dream will be presented to you either as a literal picture or as a symbolic representation that needs decoding. As you receive "inside information" about forthcoming events, you will learn to rapidly intuit the significance of the precognitive dream.</p>
+
+<p>For months I dreamt of a man named Leo, an acquaintance through my meditation group. In the dream we seemed loving and warm. Yet in reality we were "just friends" and social intimacy had never been suggested. Leo was a construction worker, tall, blond and a Pisces like myself. After the first series of dreams, I met another tall blond Pisces man I started dating. Obviously Leo precognitively signaled the new man in my life. Well, Leo came to the fore to signal two more relationships, each a very karmic attachment that bore some resemblance to Leo. The last dream about Leo signaled a dramatic event: I met my husband three days later and no longer dreamed of Leo. The point is that anyone can appear in a dream and we have to consider characteristics of the person symbolically such as their name, physical appearance, zodiac sign or profession. There is a clue somewhere, heralding the imminent appearance of such a person in your life.</p>
+
+<p>Your dreams will become your private theater for previewing forthcoming events. As in the phrase "for better or worse" we know that omens can be both positive and negative.</p>
+
+<p>Set yourself up to receive this invaluable inside information by first daring to believe you can get a sneak preview of forth coming events. Ask specific questions during your morning or evening meditation periods, and watch the answer surface in your dream drama over the next few days. Keep a pad and pencil by your bed for recording the initial impressions. The literal precognitive dream will be easily identified by its clarity and the relevance to your current affairs.</p>
+
+<p>Symbolically, tease out the meanings through the amplification technique initially suggested by <a href="../topic~jung_and_dreams/">Carl Jung</a>. Each time you arrive at an association with the central symbol, go back to form another association. For example, the flaming red cape presents itself and I amplify it to associate it with the theater, and then go back again to relate the cape to a magic carpet and once again, return to the cape to see it associated with physical sexual overtones. We can also apply Freud's word association, as one word or thought triggers another until the "real meaning" stands out. Gestalt adherents would suggest role playing each symbol until some insight is achieved.</p>
+
+<p>With practice, you will become the best detective finding clues in your dreams. During one dream I saw myself getting off an elevator on the tenth floor. Not surprisingly, on the tenth of the month I received "uplifting" news by way of recognition for my professional work!</p>
+
+<p>You will be given a wealth of information to help you make better decisions in your business and personal life. Simply stay tuned to your inside channel presenting information though precognitive dreams. The only dream file I now keep is titled, "Dreams I will always respect and acknowledge."</p>
+
+<p><em>Dr. Marcia Emery has graduate degrees in psychology (M.S., M.A. &amp; PhD), and presently consults, writes, lectures and makes select media engagements in the areas of astrology &amp; parapsychology</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqmotme ;
+    ns1:hasTag ns1:bcphblnikds,
+        ns1:bcphbqmotme ;
+    ns1:inIssue ns1:bcphblnikds ;
+    ns1:itemId "bcpov6rsrpre"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Precognitive Dreams"^^xsd:string ;
+    ns1:profileImg "precog-1.jpg"^^xsd:string ;
+    ns1:urlSlug "precognitive-dreams"^^xsd:string .
+
 ns1:bcpov6rsshoe2 a ns1:Post ;
     ns1:dateCreated "1986-03-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p>I'm going through the tedious, but fascinating process of transferring all my dream Journals onto computer disks so that I can more conveniently study my dream symbology. In doing so, I was struck by the number of times my dreams contain reference to shoes. Here's one of the dreams that caught my attention by its simplicity:</p>
@@ -26060,6 +26106,24 @@ ns1:bcphbqiclur a ns1:User ;
     ns1:name "Irene Clurman"^^xsd:string ;
     ns1:profileImg "author-ireneclurman.jpg"^^xsd:string .
 
+ns1:bcphbqmotme a ns1:User ;
+    ns1:coverImg "cover-marciaemery.jpg"^^xsd:string ;
+    ns1:description """<p>Website: <a href="https://www.drmarciaemery.com/">drmarciaemery.com</a></p>
+
+<p>Marcia Emery, Ph.D., is a noted psychologist, academician and authority on the power of intuition.</p>
+
+<p>She is the author of <a href="https://www.amazon.com.au/Dr-Marcia-Emerys-Intuition-Workbook/dp/0130916889">Dr. Marcia Emery's Intuition Workbook</a>, the Nightingale-Conant audio program <a href="https://www.amazon.com/INTUITION-INSTINCT-GREATER-PERSONAL-POWER/dp/0671572911">Intuition: How To Use Your Gut Instinct for Greater Personal Power</a>, and Powerhunch!: Living An Intuitive Life.</p>
+
+<p>She has presented her acclaimed intuitive dreaming and intuition power seminars to scores of individuals from leading organizations.</p>
+
+<p>Author image: Still from the video "Adventures in Precognition with Marcia Emery" on <a href="https://www.youtube.com/watch?v=ttl_LxAMH4M">YouTube</a>. Cover image: Detail from the cover of <a href="https://www.amazon.com/INTUITION-INSTINCT-GREATER-PERSONAL-POWER/dp/0671572911">Powerhunch</a>.</p>
+"""^^xsd:string ;
+    ns1:handle "marciaemery"^^xsd:string ;
+    ns1:itemId "bcphbqmotme"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Marcia Emery"^^xsd:string ;
+    ns1:profileImg "author-marciaemery.jpg"^^xsd:string .
+
 ns1:bcphbqpionk a ns1:User ;
     ns1:description """<p>Patricia Pionke is a long time reader of and occasional contributor to the Dream Network Journal.</p>
 """^^xsd:string ;
@@ -27706,21 +27770,6 @@ ns1:bcphblcllan a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "3.2"^^xsd:string .
 
-ns1:bcphblnikds a ns1:Post ;
-    ns1:coverImg "3.6-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf" download="">Download issue 3.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqn76e7n5 ;
-    ns1:itemId "bcphblnikds"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 3, issue 6"^^xsd:string ;
-    ns1:profileImg "3.6-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "3.6"^^xsd:string .
-
 ns1:bcphbq3asay a ns1:User ;
     ns1:description """<p>You can buy a physical copy of Ann's book <em>Satisfy the Image</em>, <a href="https://www.handprintpress.com/product/satisfy-the-image-the-wisdom-of-your-dreams-guided-imagery-for-self-balancing/">from Handprint Press here</a>.</p>
 
@@ -28507,6 +28556,21 @@ ns1:bcpqoaivzve a ns1:Post ;
 
 ns1:Topic a owl:Class ;
     rdfs:subClassOf ns1:Item .
+
+ns1:bcphblnikds a ns1:Post ;
+    ns1:coverImg "3.6-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1984-11-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf" download="">Download issue 3.6</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_3/3.6-The-Dream-Network_Volume-3_No-6.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqn76e7n5 ;
+    ns1:itemId "bcphblnikds"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 3, issue 6"^^xsd:string ;
+    ns1:profileImg "3.6-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "3.6"^^xsd:string .
 
 ns1:bcphbq3bayl a ns1:User ;
     ns1:description """<p>"Just when you thought nothing new could be written about dreams, Janice Baylis has applied chaos theory and complexity theory to dream interpretation. Her suggestions are grounded in cutting edge paradigms." <a href="../@stanleykrippner">Stanley Krippner, PhD.</a> Professor of Psychology, Saybrook University</p>

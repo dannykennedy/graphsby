@@ -8,6 +8,7 @@ tags:
     - hasAuthor: artfunkhouser
     - hasTag: 23.3
     - inIssue: 23.3
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "dream-theories-of-deja-vu"
 ---

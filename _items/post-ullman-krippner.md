@@ -9,6 +9,7 @@ tags:
     - hasTopic: stanleykrippner
     - hasTag: 26.1-2
     - inIssue: 26.1-2
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: a-psychologist-in-the-tradition-of-william-james-and-gardner-murphy
 ---

@@ -11,6 +11,7 @@ tags:
     - featuredIn: dreamnetwork
     - hasTopic: topic~dream-apps-and-online-dreamsharing
     - hasTopic: topic~dream_movement
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: can-the-world-dream-peace
 ---

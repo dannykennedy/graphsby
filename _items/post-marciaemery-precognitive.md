@@ -8,12 +8,13 @@ tags:
     - hasAuthor: marciaemery
     - hasTag: 3.6
     - inIssue: 3.6
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "precognitive-dreams"
 profileImg: precog-1.jpg
 ---
 
-<img src="../images/precog-1.jpg" alt="Woman and wolves" style="max-width: 700px; height: auto;">
+<img src="../images/precog-1.jpg" alt="Woman and wolves" style="width: 700px; height: auto;">
 
 I awoke, my heart beating rapidly, heavy beads of perspiration on my face; even catching my breath was difficult. I looked around my bedroom for some trace of reality, something to tell me I was safely at home and not frantically running to catch a connecting flight at the airport. In my dream I had lost my luggage and missed my flight. I couldn't help wonder what connection existed between the dream and my coming flight later that morning. I dismissed it as a nightmare. Several hours later, however, the nightmare became reality when I missed a connecting flight because the plane was three hours late. I had to rush to another airline, catching a flight with a minute and half to spare. As in the dream, my luggage was lost.
 

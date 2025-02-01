@@ -8,6 +8,7 @@ tags:
     - hasAuthor: arthurstrock
     - hasTag: 5.6
     - inIssue: 5.6
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: health-related-dream-guidance
 ---

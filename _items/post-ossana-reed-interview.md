@@ -11,6 +11,7 @@ tags:
     - hasTag: 16.4
     - inIssue: 16.4
     - hasTopic: topic~dream-interviews
+    - hasTopic: topic~psi_dreams
 type: post
 subType: Conversation
 urlSlug: "an-interview-with-henry-reed"

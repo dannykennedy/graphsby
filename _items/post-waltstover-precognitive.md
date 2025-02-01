@@ -8,6 +8,7 @@ tags:
     - hasAuthor: waltstover
     - hasTag: 8.4
     - inIssue: 8.4
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "precognition-when-dreams-come-true"
 profileImg: post-bcpov2giwmpc-0.jpg

@@ -9,6 +9,7 @@ tags:
     - hasTag: 4.2
     - inIssue: 4.2
     - featuredIn: dreamnetwork
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "psi-the-shared-dreamscape-and-the-family-unconscious"
 profileImg: post-bcpov6zfamil-0.jpg

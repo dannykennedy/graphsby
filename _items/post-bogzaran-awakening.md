@@ -8,6 +8,7 @@ tags:
     - hasAuthor: faribabogzaran
     - hasTag: 21.1
     - inIssue: 21.1
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: awakening-a-creative-response
 profileImg: bogzaran-response-1.jpg

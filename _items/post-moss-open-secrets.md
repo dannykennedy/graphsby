@@ -8,6 +8,7 @@ tags:
     - hasAuthor: robertmoss
     - hasTag: 17.2
     - inIssue: 17.2
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "open-secrets-of-the-dreamtime"
 profileImg: post-bcpov8kosotd-0.jpg

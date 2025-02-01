@@ -8,6 +8,7 @@ tags:
     - hasAuthor: waltstover
     - hasTag: 18.2
     - inIssue: 18.2
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "precognitive-dreams-for-prosperity-and-abundance"
 ---

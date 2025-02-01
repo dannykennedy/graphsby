@@ -10,6 +10,7 @@ tags:
     - hasTag: 25.2
     - inIssue: 25.2
     - hasTopic: topic~dream_movement
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "working-with-monte-ullman-at-maimonides-reflections-on-a-dream-relationship"
 ---

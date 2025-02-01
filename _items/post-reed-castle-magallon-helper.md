@@ -12,6 +12,7 @@ tags:
     - hasAuthor: caseyflyer
     - hasTag: 11.3
     - inIssue: 11.3
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "dream-helper-ceremony-dreaming-for-another"
 profileImg: helper-reed-castle.jpg

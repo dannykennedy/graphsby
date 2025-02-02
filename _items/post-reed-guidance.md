@@ -8,6 +8,7 @@ tags:
     - hasAuthor: henryreed
     - hasTag: 2.12
     - inIssue: 2.12
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "guidance-from-dreams-and-psychics"
 ---

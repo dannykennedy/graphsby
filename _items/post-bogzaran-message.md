@@ -8,6 +8,7 @@ tags:
     - hasAuthor: faribabogzaran
     - hasTag: 5.1
     - inIssue: 5.1
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: message-from-the-inner-world
 profileImg: bogzaran-message-2.jpg

@@ -8,6 +8,7 @@ tags:
     - hasAuthor: marieotte
     - hasTag: 26.1-2
     - inIssue: 26.1-2
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "precognitive-dreaming-and-creativity"
 ---

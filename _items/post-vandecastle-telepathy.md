@@ -8,6 +8,7 @@ tags:
     - hasAuthor: bobvandecastle
     - hasTag: 5.1
     - inIssue: 5.1
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "the-dnb-telepathy-project"
 profileImg: vandecastle-telepahy-1.jpg

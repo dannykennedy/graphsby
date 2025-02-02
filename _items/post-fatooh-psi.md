@@ -8,6 +8,7 @@ tags:
     - hasAuthor: joyfatooh
     - hasTag: 32.1
     - inIssue: 32.1
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: group-psi-game-dreaming-minds-unite
 ---

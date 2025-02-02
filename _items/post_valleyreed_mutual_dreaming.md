@@ -8,6 +8,7 @@ tags:
     - hasAuthor: valleyreed
     - hasTag: 32.1
     - inIssue: 32.1
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: mutual-dreaming-with-a-little-help-from-my-friends
 ---

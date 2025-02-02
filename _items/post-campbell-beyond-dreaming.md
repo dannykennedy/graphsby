@@ -9,6 +9,7 @@ tags:
     - hasTag: 2.7
     - inIssue: 2.7
     - hasTopic: topic~dream_movement
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: beyond-dreaming
 ---

@@ -8,6 +8,7 @@ tags:
     - hasAuthor: strephon_kaplan_williams
     - hasTag: 1.3
     - inIssue: 1.3
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "psychic-dreams"
 ---

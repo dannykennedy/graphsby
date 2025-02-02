@@ -9,6 +9,7 @@ tags:
     - hasTopic: stanleykrippner
     - hasTag: 26.1-2
     - inIssue: 26.1-2
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: a-precognitive-dream-and-meeting-an-extra-ordinary-human-being
 profileImg: post-bcpov6zfbost-0.jpg

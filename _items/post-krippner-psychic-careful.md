@@ -8,6 +8,7 @@ tags:
     - hasAuthor: stanleykrippner
     - hasTag: 14.3
     - inIssue: 14.3
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "a-psychic-dream-be-careful-who-you-tell"
 profileImg: krippner-portrait.jpg

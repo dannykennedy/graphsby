@@ -8,6 +8,7 @@ tags:
     - hasAuthor: caseyflyer
     - hasTag: 8.1
     - inIssue: 8.1
+    - hasTopic: topic~psi_dreams
 type: post
 urlSlug: "dream-telepathy"
 ---

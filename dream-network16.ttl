@@ -28561,9 +28561,21 @@ ns1:bcphbqmotme a ns1:User ;
 
 <p>Cover image: Detail from the cover of <a href="https://www.amazon.com/INTUITION-INSTINCT-GREATER-PERSONAL-POWER/dp/0671572911">Powerhunch</a>.</p>
 
-<div style="display: flex; align-items: center; font-style: italic;"><img src="../images/author-marciaemery.jpg" alt="Marcia Emery" style="width: 80px; height: auto; margin-right: 10px;">
+<div style="margin-bottom: 10px; display: flex; align-items: center; font-style: italic;"><img src="../images/author-marciaemery.jpg" alt="Marcia Emery" style="width: 80px; height: auto; margin-right: 10px; margin-left: 0px;">
 
 <p>Watch "Adventures in Precognition with Marcia Emery" on <a href="https://www.youtube.com/watch?v=ttl_LxAMH4M">YouTube</a>.</p>
+
+</div>
+
+<div style="margin-bottom: 10px; display: flex; align-items: center; font-style: italic;"><img src="../images/marcia_cultivating_intuition.jpeg" alt="YouTube thumbnail" style="width: 80px; height: auto; margin-right: 10px; margin-left: 0px;">
+
+<p>"Cultivating Intuition" on <a href="https://youtu.be/GliiZe5T_uA">YouTube</a>.</p>
+
+</div>
+
+<div style="display: flex; align-items: center; font-style: italic;"><img src="../images/marcia_healing.jpeg" alt="YouTube thumbnail" style="width: 80px; height: auto; margin-right: 10px; margin-left: 0px;">
+
+<p>"Your Inner Healer" on <a href="https://youtu.be/YiZKCaK-FAY">YouTube</a>.</p>
 
 </div>
 """^^xsd:string ;

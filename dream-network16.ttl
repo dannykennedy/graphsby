@@ -3975,7 +3975,7 @@ ns1:bcpov5rsppre a ns1:Post ;
     ns1:urlSlug "programming-the-precognitive-dream"^^xsd:string .
 
 ns1:bcpov5zfmtwh a ns1:Post ;
-    ns1:dateCreated "2004-01-01T11:32:52"^^xsd:dateTime ;
+    ns1:dateCreated "2007-07-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/wild-horses.jpg" width="250px" height="auto" alt="Horses Running"/></p>
 
 <h4>Abstract</h4>
@@ -11091,7 +11091,7 @@ ns1:bcpov6krudnb a ns1:Post ;
     ns1:dateCreated "1985-05-01T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><img src="../images/post-bcpov6krudnb-0.png" width="300" height="auto" alt="Illustration by Dale Gottlieb"/></p>
 
-<p><!--nopreview--><div class="caption" style="text-align: center;"><i>Illustration by <a href="http://www.dalegottlieb.com/">Dale Gottlieb</a></i></div><!--/nopreview--></p>
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i>Illustration by <a href="https://dreamnetworkjournal.com/@dalegottlieb/">Dale Gottlieb</a></i></div><!--/nopreview--></p>
 
 <p><br/></p>
 
@@ -11137,7 +11137,7 @@ ns1:bcpov6krudnb a ns1:Post ;
 
 <p><img src="../images/post-bcpov6krudnb-2.png" width="100%" height="auto" alt="Illustration by Dale Gottlieb"/></p>
 
-<p><!--nopreview--><div class="caption" style="text-align: center;"><i>Illustration by <a href="http://www.dalegottlieb.com/">Dale Gottlieb</a></i></div><!--/nopreview--></p>
+<p><!--nopreview--><div class="caption" style="text-align: center;"><i>Illustration by <a href="https://dreamnetworkjournal.com/@dalegottlieb/">Dale Gottlieb</a></i></div><!--/nopreview--></p>
 
 <p><br/></p>
 

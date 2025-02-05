@@ -1,5 +1,5 @@
 ---
-dateCreated: "2004-01-01T11:32:52"
+dateCreated: "2007-07-01T11:32:52"
 itemId: bcpov5zfmtwh
 layout: post
 name: "Taming Wild Horses: A Study of Animal Dream Symbolism & Male Sexuality"

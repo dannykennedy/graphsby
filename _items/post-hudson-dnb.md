@@ -15,7 +15,7 @@ profileImg: post-bcpov6krudnb-0.png
 ---
 
 <img src="../images/post-bcpov6krudnb-0.png" width="300" height="auto" alt="Illustration by Dale Gottlieb"/>
-<!--nopreview--><div class="caption" style="text-align: center;"><i>Illustration by <a href="http://www.dalegottlieb.com/">Dale Gottlieb</a></i></div><!--/nopreview-->
+<!--nopreview--><div class="caption" style="text-align: center;"><i>Illustration by <a href="https://dreamnetworkjournal.com/@dalegottlieb/">Dale Gottlieb</a></i></div><!--/nopreview-->
 <br/>
 
 During the summer of '83 I was working in a dirty, crowded pottery studio in downtown Manhattan, trying to get my small business organized. My wife Dale and I had moved to Brooklyn the year before in order to help her rapidly growing illustration career. I missed the home we had built and still owned in New Hampshire where I was more used to the "laid back" attitude of country life. I also missed our 5 year old meditation group where we had frequently shared dreams. In short, I felt disconnected and miserable.
@@ -53,7 +53,7 @@ Although the DNB has always (usually just barely) paid for itself, there has nev
 I never intended to take the Network on permanently, but it truly has been "my baby" for a while, and not easy to give up. I hope to write occasionally on these pages and help out where I can. _You_ can help with letters, articles, resubscriptions and any feedback.
 
 <img src="../images/post-bcpov6krudnb-2.png" width="100%" height="auto" alt="Illustration by Dale Gottlieb"/>
-<!--nopreview--><div class="caption" style="text-align: center;"><i>Illustration by <a href="http://www.dalegottlieb.com/">Dale Gottlieb</a></i></div><!--/nopreview-->
+<!--nopreview--><div class="caption" style="text-align: center;"><i>Illustration by <a href="https://dreamnetworkjournal.com/@dalegottlieb/">Dale Gottlieb</a></i></div><!--/nopreview-->
 <br/>
 
 One of my abiding interests in dreams is their relationship to the "Inner Voice" or "that of God in every man" (as the Quakers phrase it). This is because I came into dreamwork from meditation and prayer as well as being a 5 year student of an attitudinal healing workbook called _A Course in Miracles_. Edgar Cayce remains still today one of the clearest voices for the connection between dreams and God. My prayers led me into dream study because for me it was the clearest way to understand my feelings. It is possible to meditate very hard for years and still not know how one feels. Specifically, dreams made me aware of feelings toward members of my family. Subsequent healings have occurred between me and my father, mother, brother and sister... all attributable indirectly to feelings I came upon through dreams. All the members of my family send me dreams or discuss them over the phone and when we see one another. The family can be the best dream group!

@@ -2,7 +2,7 @@
 dateCreated: "2007-07-01T11:32:52"
 itemId: bcpov5zfmtwh
 layout: post
-name: "Taming Wild Horses: A Study of Animal Dream Symbolism & Male Sexuality"
+name: "Taming Wild Horses: A Study of Animal Dream Symbolism & Male Sexuality (Part 1)"
 tags:
     - hasTag: gregbogart
     - hasAuthor: gregbogart
@@ -121,7 +121,7 @@ The appearance of this symbolism is of some interest to me. The snake or dragon 
 
 <img src="../images/post-bcpov5zfmtwh-2.jpg" width="250px" height="auto" alt="Dragon"/><!--nopreview--><div class="caption" style="text-align: center;"><i>Ouroboros illustration reproduced from Maier, Atalanta Fugiens</i></div><!--/nopreview-->
 
-End Part One. Part Two, concluding this paper, will appear in our Winter issue.
+End Part One. [Part Two](../bcpov5zftwh2/taming-wild-horses-2), concluding this paper, will appear in our Winter issue.
 
 <img src="../images/post-bcpov5zfmtwh-3.jpg" width="150px" height="auto" alt="Medical staff"/>
 

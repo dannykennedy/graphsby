@@ -189,6 +189,10 @@ for pyyam in file_objects:
 	# Og:image
 	if 'ogImg' in pyyam.keys():
 		instances.append((newItem, ogImg, Literal(pyyam['ogImg'], datatype=xsdString)))
+	
+	# Language
+	if 'language' in pyyam.keys():
+		instances.append((newItem, language, Literal(pyyam['language'], datatype=xsdString)))
 
 	# Featured Label
 	if 'featuredLabel' in pyyam.keys():
@@ -308,18 +312,48 @@ print("Building sitemap")
 sitemap = open(cwd + build_folder + '/sitemap.xml', "w")
 sitemap.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 sitemap.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+
+# First group by language
+# For other languages, we need e.g.
+# <xhtml:link rel="alternate" hreflang="de" href="<url>" /> 
+file_object_dict = {}
 for pyyam in file_objects:
-	if "type" in pyyam.keys():
+
+	# If the pyyam has a canonicalUrl that is different from the URL
+	# Skip the page, the canonical URL is on another site
+	if "canonicalUrl" in pyyam.keys():
+		if pyyam["canonicalUrl"] != url:
+			continue
+
+	# 1) Get id without language (e.g. bcpov6zlucse--es -> bcpov6zlucse)
+	pure_id = pyyam["itemId"].split("--")[0]
+	# 2) Get post language
+	lang = "en"
+	if "language" in pyyam.keys():
+		lang = pyyam["language"]
+	# 2) Add to dictionary
+	# E.g. file_object_dict = {bcpov6zlucse: {en: pyyam, es: pyyam}}
+	if not pure_id in file_object_dict.keys():
+		file_object_dict[pure_id] = {}
+	file_object_dict[pure_id][lang] = pyyam
+
+# Then, iterate over the file_object_dict
+# And for each item, add the URL to the sitemap
+# For languages other than English, we need e.g.
+# <xhtml:link rel="alternate" hreflang="de" href="<url>" /> 
+for key in file_object_dict.keys():
+	# Loop over languages
+	sitemap.write('<url>\n')
+	for lang in file_object_dict[key].keys():
+		pyyam = file_object_dict[key][lang]
 		if pyyam["type"] == "user" or pyyam["type"] == "page" or pyyam["type"] == "topic" or pyyam["type"] == "post":
 			url = get_url(pyyam, site_url)
-			# If the pyyam has a canonicalUrl that is different from the URL
-			# Skip the page, the canonical URL is on another site
-			if "canonicalUrl" in pyyam.keys():
-				if pyyam["canonicalUrl"] != url:
-					continue
-			sitemap.write('<url>\n')
-			sitemap.write('<loc>' + url + '</loc>\n')
-			sitemap.write('</url>\n')
+			if lang != "en":
+				sitemap.write('<xhtml:link rel="alternate" hreflang="' + lang + '" href="' + url + '" />\n')
+			else:
+				sitemap.write('<loc>' + url + '</loc>\n')
+	sitemap.write('</url>\n')
+
 
 # 2) Add PDF files 
 # These are in _site/files/pdfs, but then within subfolders
@@ -820,6 +854,22 @@ for pyyam in file_objects:
 
 	json_ld_str = json.dumps(json_ld, indent=4, sort_keys=True)
 
+	# If the page is not in English, we need to note the main version of the page
+	# Basically, we just need to regex out the language from the canonical URL
+	# Could be e.g. --es, --fr, etc.
+	# This is for the hreflang tag
+	# If the page is in English, we don't need to do anything
+	alternate_main_url = ""
+	page_language = "en"
+	if "language" in pyyam.keys():
+		page_language = pyyam["language"]
+		if pyyam["language"] != "en":
+			alternate_main_url = re.sub(r'--\w\w', '', canonical_url)
+			print("alternate_main_url: ", end="")
+			print(alternate_main_url)
+			print("canonical_url: ", end="")
+			print(canonical_url)
+
 	# If the layout is not post, then add a shortened_description to pyyam
 	# If the length is greater than 500
 	if not pyyam["layout"] == "post":
@@ -828,11 +878,11 @@ for pyyam in file_objects:
 
 	if "layout" in pyyam.keys():
 		if pyyam["layout"] == "post":
-			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str)
+			full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str, alternate_main_url=alternate_main_url, page_language=page_language)
 		else:
-			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str)
+			full_html = page_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str, alternate_main_url=alternate_main_url, page_language=page_language)
 	else:
-		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str)
+		full_html = post_template.render(is_main_page=is_main_page, render_item=pyyam, all_topics=all_topics, featured_items=featured_items, posts=tagged_items["hasTag"], topicPosts=tagged_items['hasTopic'], site_url=site_url, canonical_url=canonical_url, og_url=og_url, custom_keywords=custom_keywords, json_ld_str=json_ld_str, alternate_main_url=alternate_main_url, page_language=page_language)
 
 	# Path to write to (Dependant on type of item)
 	folderpath = cwd + "/site/no-type"

@@ -72,6 +72,7 @@ metaDescription = dreamNS['metaDescription']
 metaKeywords = dreamNS['metaKeywords']
 url = dreamNS['url']
 subType = dreamNS['subType']
+language = dreamNS['language']
 
 def createGraph():
 	print("Creating graph")
@@ -108,6 +109,11 @@ def createGraph():
 
 	propertyTriples = [
 	# DATATYPE PROPERTIES
+
+	# Any item can have a language
+	(language, rdfType, owlDatatypeProperty),
+	(language, rdfsDomain, itemClass),
+	(language, rdfsRange, xsdString),
 
 	# id (everything has an integer ID - timestamp + random number)
 	(itemId, rdfType, owlDatatypeProperty),

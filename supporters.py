@@ -250,6 +250,30 @@ bone_supporters = [
 	eastwest_basic
 ]
 
+mirror_supporters = [
+	{
+		'name': 'Dreamed about a mirror?',
+		'description': 'Interpret it with Elsewhere',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'symbol-mirror.png',
+		'url': 'https://interpret.elsewhere.to/en/symbols/mirror/?src=dnj',
+		'target': '_blank'
+	},
+	eastwest_basic
+]
+
+fish_supporters = [
+	{
+		'name': 'Dreamed about fish?',
+		'description': 'Interpret it with Elsewhere',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'symbol-fish.png',
+		'url': 'https://interpret.elsewhere.to/en/symbols/fish/?src=dnj',
+		'target': '_blank'
+	},
+	eastwest_basic
+]
+
 
 supporters_by_page_id = {
 	# Ullman
@@ -344,7 +368,7 @@ supporters_by_page_id = {
 	# Bear
 	'bcpov6zfkiss': bear_supporters,
 	# Shoes
-	'bcpov6rshoes': shoe_supporters,
+	'bcpov6rshoes': shoe_supporters, # search console up to here
 	'bcpov6rsshoe2': shoe_supporters,
 	# Boat
 	'bcpov6gii302': boat_supporters,
@@ -354,11 +378,13 @@ supporters_by_page_id = {
 	'bcpov5globop': fruit_supporters,
 	# Bone
 	'bcpov6krdbf1': bone_supporters,
+	# Mirror
+	'bcpov6rsgsgm': mirror_supporters,
 
 	# Fish
-	# bcpov6grsalm
-	# bcpov6krfish
-	# bcpov6zfseaf
+	'bcpov6grsalm': fish_supporters,
+	'bcpov6krfish': fish_supporters,
+	'bcpov6zfseaf': fish_supporters,
 
 	# Elephant
 	# 'bcpov6meleph'
@@ -366,8 +392,6 @@ supporters_by_page_id = {
 	# Star
 	# 'bcpov6zmstar'
 
-	# Mirror
-	# bcpov6rsgsgm
 
 	# Bomb
 	# bcpov6zditna

@@ -8510,7 +8510,7 @@ How the Universe is alive and we are all making music!&lt;br&gt;
     <ns1:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-04-01T11:32:52</ns1:dateCreated>
     <rdf:type rdf:resource="https://www.dannykennedy.co/dnj-ontology#Post"/>
     <ns1:itemId rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bcphbzaknqj</ns1:itemId>
-    <ns1:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Volume 30, issue 2: Money in Dreams: What does it Synbolize?</ns1:name>
+    <ns1:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Volume 30, issue 2: Money in Dreams: What does it Symbolize?</ns1:name>
   </rdf:Description>
   <rdf:Description rdf:about="https://www.dannykennedy.co/dnj-ontology#bcpov6zfredb">
     <ns1:layout rdf:datatype="http://www.w3.org/2001/XMLSchema#string">post</ns1:layout>

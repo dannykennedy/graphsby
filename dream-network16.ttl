@@ -28184,7 +28184,7 @@ ns1:bcphbzaknqj a ns1:Post ;
         ns1:bcpqocndszw ;
     ns1:itemId "bcphbzaknqj"^^xsd:string ;
     ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 30, issue 2: Money in Dreams: What does it Synbolize?"^^xsd:string ;
+    ns1:name "Volume 30, issue 2: Money in Dreams: What does it Symbolize?"^^xsd:string ;
     ns1:profileImg "30.2-3-rect.jpg"^^xsd:string ;
     ns1:urlSlug "30.2-3"^^xsd:string .
 

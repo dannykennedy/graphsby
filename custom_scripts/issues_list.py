@@ -793,7 +793,7 @@ issues = [
     {
         "imgName": "30.2-3",
         "pdfName": "30.2-30.3_money.pdf",
-        "title": "Money in Dreams: What does it Synbolize?",
+        "title": "Money in Dreams: What does it Symbolize?",
         "date": "2011-04-01T11:32:52"
     },
     {

@@ -3330,7 +3330,7 @@ ns1:bcpov4kcurta a ns1:Post ;
     ns1:inIssue ns1:bcphbtxh2bi ;
     ns1:itemId "bcpov4kcurta"^^xsd:string ;
     ns1:layout "post"^^xsd:string ;
-    ns1:name "The Return of Asklepios: Recovering the Arts of Dream Healing "^^xsd:string ;
+    ns1:name "The Return of Asklepios: Recovering the Arts of Dream Healing"^^xsd:string ;
     ns1:urlSlug "the-return-of-asklepios-recovering-the-arts-of-dream-healing"^^xsd:string .
 
 ns1:bcpov4rsipre a ns1:Post ;

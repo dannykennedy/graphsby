@@ -2,7 +2,7 @@
 dateCreated: "1999-04-01T11:32:52"
 itemId: bcpov4kcurta
 layout: post
-name: "The Return of Asklepios: Recovering the Arts of Dream Healing "
+name: "The Return of Asklepios: Recovering the Arts of Dream Healing"
 tags:
     - hasTag: robertmoss
     - hasAuthor: robertmoss

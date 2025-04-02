@@ -342,8 +342,8 @@ death_supporters = [
 		'name': 'Have you had a dream about death?',
 		'description': 'Understand it with the Elsewhere app',
 		'descriptionB': 'Understand your dreams',
-		'profileImg': 'theme-death.png',
-		'url': 'https://interpret.elsewhere.to/en/themes/death/?src=dnj',
+		'profileImg': 'theme-death_and_dying.png',
+		'url': 'https://interpret.elsewhere.to/en/themes/death_and_dying/?src=dnj',
 		'target': '_blank'
 	},
 	eastwest_basic
@@ -442,8 +442,8 @@ supporters_by_page_id = {
 	# Bear
 	'bcpov6zfkiss': bear_supporters,
 	# Shoes
-	'bcpov6rshoes': shoe_supporters, # search console up to here
-	'bcpov6rsshoe2': shoe_supporters,
+	'bcpov6rshoes': shoe_supporters, 
+	'bcpov6rsshoe2': shoe_supporters, # search console up to here
 	# Boat
 	'bcpov6gii302': boat_supporters,
 	# River

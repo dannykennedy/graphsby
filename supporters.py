@@ -274,17 +274,17 @@ fish_supporters = [
 	eastwest_basic
 ]
 
-elephant_supporters = [
-	{
-		'name': 'Dreamed about an elephant?',
-		'description': 'Interpret it with Elsewhere',
-		'descriptionB': 'Understand your dreams',
-		'profileImg': 'symbol-elephant.png',
-		'url': 'https://interpret.elsewhere.to/en/symbols/elephant/?src=dnj',
-		'target': '_blank'
-	},
-	eastwest_basic
-]
+# elephant_supporters = [
+# 	{
+# 		'name': 'Dreamed about an elephant?',
+# 		'description': 'Interpret it with Elsewhere',
+# 		'descriptionB': 'Understand your dreams',
+# 		'profileImg': 'symbol-elephant.png',
+# 		'url': 'https://interpret.elsewhere.to/en/symbols/elephant/?src=dnj',
+# 		'target': '_blank'
+# 	},
+# 	eastwest_basic
+# ]
 
 book_supporters = [
 	{
@@ -443,7 +443,7 @@ supporters_by_page_id = {
 	'bcpov6zfkiss': bear_supporters,
 	# Shoes
 	'bcpov6rshoes': shoe_supporters, 
-	'bcpov6rsshoe2': shoe_supporters, # search console up to here
+	'bcpov6rsshoe2': shoe_supporters, 
 	# Boat
 	'bcpov6gii302': boat_supporters,
 	# River
@@ -461,10 +461,10 @@ supporters_by_page_id = {
 	'bcpov6zfseaf': fish_supporters,
 
 	# Elephant
-	'bcpov6meleph': elephant_supporters,
+	# 'bcpov6meleph': elephant_supporters,
 
 	# Star
-	'bcpov6zmstar': star_supporters,
+	'bcpov6zmstar': star_supporters, # search console up to here
 
 	# Dance
 	'post': dancing_supporters,

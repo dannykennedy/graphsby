@@ -11,6 +11,9 @@ tags:
 type: post
 subType: Review
 urlSlug: a-woman-dreams-in-a-seafood-restaurant
+about:
+    - type: TheaterEvent
+      name: "A Woman Dreams in a Seafood Restaurant"
 ---
 
 During a recent trip to San Francisco I had the opportunity to attend the play "A Woman Dreams in a Seafood Restaurant" at the Habitat Center with two other dreamworkers, Sally Shute and Donna Levreault.

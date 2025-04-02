@@ -330,7 +330,7 @@ gift_supporters = [
 		'description': 'Interpret it with Elsewhere',
 		'descriptionB': 'Understand your dreams',
 		'profileImg': 'symbol-gift.png',
-		'url': 'https://interpret.elsewhere.to/en/symbol/gift/?src=dnj',
+		'url': 'https://interpret.elsewhere.to/en/symbols/gift/?src=dnj',
 		'target': '_blank'
 	},
 	eastwest_basic

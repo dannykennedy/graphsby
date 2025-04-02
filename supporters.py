@@ -323,6 +323,19 @@ dancing_supporters = [
 	eastwest_basic
 ]
 
+# gift symbol
+gift_supporters = [
+	{
+		'name': 'Dreamed about a gift?',
+		'description': 'Interpret it with Elsewhere',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'symbol-gift.png',
+		'url': 'https://interpret.elsewhere.to/en/symbol/gift/?src=dnj',
+		'target': '_blank'
+	},
+	eastwest_basic
+]
+
 # death_and_dying theme
 death_supporters = [
 	{
@@ -467,6 +480,9 @@ supporters_by_page_id = {
 	'bcpov6zi3ldl': book_supporters,
 	'bcpoy6htdatt': book_supporters,
 	'bcpov9kotbod': book_supporters,
+
+	# Gift
+	'bcpov6zd3dng': gift_supporters,
 
 	# Bomb
 	# bcpov6zditna

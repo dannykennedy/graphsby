@@ -274,6 +274,67 @@ fish_supporters = [
 	eastwest_basic
 ]
 
+elephant_supporters = [
+	{
+		'name': 'Dreamed about an elephant?',
+		'description': 'Interpret it with Elsewhere',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'symbol-elephant.png',
+		'url': 'https://interpret.elsewhere.to/en/symbols/elephant/?src=dnj',
+		'target': '_blank'
+	},
+	eastwest_basic
+]
+
+book_supporters = [
+	{
+		'name': 'What do dreams of books mean?',
+		'description': 'Interpret your dreams with Elsewhere',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'symbol-elephant.png',
+		'url': 'https://interpret.elsewhere.to/en/symbols/elephant/?src=dnj',
+		'target': '_blank'
+	},
+	eastwest_basic
+]
+
+
+star_supporters = [
+	{
+		'name': 'Dreamed about a star?',
+		'description': 'Interpret it with Elsewhere',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'symbol-star.png',
+		'url': 'https://interpret.elsewhere.to/en/symbols/star/?src=dnj',
+		'target': '_blank'
+	},
+	eastwest_basic
+]
+
+dancing_supporters = [
+	{
+		'name': 'Dreamed about dancing?',
+		'description': 'Interpret it with Elsewhere',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'theme-dancing.png',
+		'url': 'https://interpret.elsewhere.to/en/themes/dancing/?src=dnj',
+		'target': '_blank'
+	},
+	eastwest_basic
+]
+
+# death_and_dying theme
+death_supporters = [
+	{
+		'name': 'Have you had a dream about death?',
+		'description': 'Understand it with the Elsewhere app',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'theme-death.png',
+		'url': 'https://interpret.elsewhere.to/en/themes/death/?src=dnj',
+		'target': '_blank'
+	},
+	eastwest_basic
+]
 
 supporters_by_page_id = {
 	# Ullman
@@ -387,30 +448,29 @@ supporters_by_page_id = {
 	'bcpov6zfseaf': fish_supporters,
 
 	# Elephant
-	# 'bcpov6meleph'
+	'bcpov6meleph': elephant_supporters,
 
 	# Star
-	# 'bcpov6zmstar'
+	'bcpov6zmstar': star_supporters,
 
+	# Dance
+	'post': dancing_supporters,
+	'bcpov6grddan': dancing_supporters,
+	'bcpov6grroth': dancing_supporters,
+	'bcpov6g282-3': dancing_supporters,
+
+	# Death
+	'bcpov6zi3sec': death_supporters,
+	'bcpov6zbotdm': death_supporters,
+
+	# Book
+	'bcpov6zi3ldl': book_supporters,
+	'bcpoy6htdatt': book_supporters,
+	'bcpov9kotbod': book_supporters,
 
 	# Bomb
 	# bcpov6zditna
 	# bcpov6zdnanm
-
-	# Dance
-	# 'post'
-	# 'bcpov6grddan'
-	# 'bcpov6grroth'
-	# 'bcpov6g282-3'
-
-	# Death
-	# 'bcpov6zi3sec'
-	# 'bcpov6zbotdm'
-
-	# book
-	# bcpov6zi3ldl
-	# 'bcpoy6htdatt'
-	# 'bcpov9kotbod'
 
 	# flower
 	# 'bcpoy2htdfsa'

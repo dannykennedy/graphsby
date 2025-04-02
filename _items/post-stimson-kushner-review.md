@@ -11,8 +11,13 @@ tags:
     - hasTopic: topic~dream-books
 type: post
 subType: Review
-urlSlug: "are-dream-groups-really-useful"
+urlSlug: the-river-of-light-book-review
 profileImg: post-bcpov6mlight-0.jpg
+about:
+    - type: Book
+      name: "The River of Light"
+      sameAs:
+          - https://www.goodreads.com/book/show/1661759
 ---
 
 <a href="https://www.goodreads.com/book/show/2197141.The_River_of_Light">

@@ -12176,7 +12176,7 @@ ns1:bcpov6mlight a ns1:Post ;
     ns1:name "A Book of Dreams: Review of 'The River of Light' by Lawrence Kushner"^^xsd:string ;
     ns1:profileImg "post-bcpov6mlight-0.jpg"^^xsd:string ;
     ns1:subType "Review"^^xsd:string ;
-    ns1:urlSlug "are-dream-groups-really-useful"^^xsd:string .
+    ns1:urlSlug "the-river-of-light-book-review"^^xsd:string .
 
 ns1:bcpov6mobama a ns1:Post ;
     ns1:dateCreated "2013-10-01T11:32:52"^^xsd:dateTime ;

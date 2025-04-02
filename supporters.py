@@ -455,22 +455,22 @@ supporters_by_page_id = {
 	# Mirror
 	'bcpov6rsgsgm': mirror_supporters,
 
+	# Star
+	'bcpov6zmstar': star_supporters, 
+
 	# Fish
 	'bcpov6grsalm': fish_supporters,
-	'bcpov6krfish': fish_supporters,
+	'bcpov6krfish': fish_supporters, # search console up to here
 	'bcpov6zfseaf': fish_supporters,
 
 	# Elephant
 	# 'bcpov6meleph': elephant_supporters,
 
-	# Star
-	'bcpov6zmstar': star_supporters, # search console up to here
-
 	# Dance
-	'post': dancing_supporters,
-	'bcpov6grddan': dancing_supporters,
 	'bcpov6grroth': dancing_supporters,
+	'bcpov6grddan': dancing_supporters,
 	'bcpov6g282-3': dancing_supporters,
+	'post': dancing_supporters,
 
 	# Death
 	'bcpov6zi3sec': death_supporters,

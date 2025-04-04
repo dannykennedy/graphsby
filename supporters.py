@@ -291,8 +291,8 @@ book_supporters = [
 		'name': 'What do dreams of books mean?',
 		'description': 'Interpret your dreams with Elsewhere',
 		'descriptionB': 'Understand your dreams',
-		'profileImg': 'symbol-elephant.png',
-		'url': 'https://interpret.elsewhere.to/en/symbols/elephant/?src=dnj',
+		'profileImg': 'symbol-book.png',
+		'url': 'https://interpret.elsewhere.to/en/symbols/book/?src=dnj',
 		'target': '_blank'
 	},
 	eastwest_basic
@@ -460,7 +460,7 @@ supporters_by_page_id = {
 
 	# Fish
 	'bcpov6grsalm': fish_supporters,
-	'bcpov6krfish': fish_supporters, # search console up to here
+	'bcpov6krfish': fish_supporters, 
 	'bcpov6zfseaf': fish_supporters,
 
 	# Elephant
@@ -474,7 +474,7 @@ supporters_by_page_id = {
 
 	# Death
 	'bcpov6zi3sec': death_supporters,
-	'bcpov6zbotdm': death_supporters,
+	'bcpov6zbotdm': death_supporters, # search console up to here
 
 	# Book
 	'bcpov6zi3ldl': book_supporters,

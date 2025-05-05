@@ -1,0 +1,8 @@
+jinja2
+html5lib
+rdflib
+pathlib
+html5lib_truncation
+python-dateutil
+PyYAML
+markdown2

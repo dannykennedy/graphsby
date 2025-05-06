@@ -40,6 +40,10 @@
     display: none;
 }
 
+strong {
+    font-weight: 600;
+}
+
 #item-heading {
     text-align: center;
     font-family: "Passion", "Courier New", serif;

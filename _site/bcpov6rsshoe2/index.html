@@ -275,6 +275,8 @@
 
 <p>I can think of another occasion that called for perfectionism—ROTC inspection! For that I would have to also polish my brass buttons and brass belt buckle, not to mention my shoes shined with spit. ROTC is a long distant memory. It makes me realize, however, that on many occasions since that time, I'll shine any jewelry that I may wear, especially silver or copper, because of its corrosibility, but I still won't shine my shoes, just dust them off a bit. What does it mean then to shine my SHOES?</p>
 
+<div id="supporters-mobile"></div>
+
 <p>What are shoes? They provide comfort and support for my feet. What are my feet? They are what I walk with, what I use to contact the ground. Depending upon the type of ground I am going to walk on and the way in which I want to walk on that ground, I choose an appropriate pair of shoes. I have many to choose from: sneakers, moccasins, sandals, slip-ons, lace-ups and boots; and they may be casual, formal or just plain comfy. Shoes seem to be an interface between feet and ground that can take into account my intentions and desires and the conditions I'll encounter.</p>
 
 <p>I can pick a pair of shoes that will match the occasion, and that feels good. I've also known the pleasure, like David Letterman, of being dressed up except for my sneakers—it does provide a bit of rebellious pleasure as well as compensatory relief from the constrictions of a closed collar and tie. On the other hand, In my dreams I've found myself in a situation with inadequate shoes, like walking in snow while wearing sandals, a trying experience!</p>
@@ -488,7 +490,7 @@
             
         </div>
          
-        <div class="card sidebar-card">
+        <div class="card sidebar-card" id="sidebar-card-supporters">
             <h2 class="page-subheading page-subheading">Website supporters (external links)</h2>
              
             <div class="sidebar-item-card-wrapper card-number-1">
@@ -542,13 +544,16 @@
 </div>
         <script>
             var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-            var mainMasonry = new MiniMasonry({
-                container: ".main-grid",
-                minify: false,
-                basewidth: 350,
-                gutterX: 20,
-                gutterY: 20,
-            });
+            var hasMainItems = document.getElementsByClassName("main-grid").length;
+            var mainMasonry = hasMainItems
+                ? new MiniMasonry({
+                      container: ".main-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
             var featuredMasonry = hasFeaturedItems
                 ? new MiniMasonry({
                       container: ".featured-grid",
@@ -561,11 +566,31 @@
 
             window.onload = function () {
                 setTimeout(function () {
-                    mainMasonry.layout();
+                    if (hasMainItems) {
+                        mainMasonry.layout();
+                    }
                     if (hasFeaturedItems) {
                         featuredMasonry.layout();
                     }
                 }, 300);
+
+                // If the page has an id of "sidebar-card-supporters" somewhere
+                // And the page width is less than 900
+                // Look for an id of supporters-mobile
+                // And copy the sidebar-card-supporters there
+                if (document.getElementById("sidebar-card-supporters")) {
+                    var supportersMobile = document.getElementById("supporters-mobile");
+                    if (window.innerWidth < 900 && supportersMobile) {
+                        var sidebarCardSupporters = document.getElementById("sidebar-card-supporters");
+                        supportersMobile.appendChild(sidebarCardSupporters);
+                    } else {
+                        console.log(
+                            "Not mobile, not moving supporters",
+                            window.innerWidth,
+                            document.getElementById("sidebar-card-supporters")
+                        );
+                    }
+                }
             };
 
             // Show more cards

@@ -21,6 +21,8 @@ Although I regularly recall several dreams a night (actually, in the wee hours o
 
 For the past year, I have been plagued by anxiety dreams with a recurring theme: futilely attempting to pack a suitcase amid chaos. Too many things, so little time and space. A cast of thousands. I awaken exhausted. Now, on the surface, the meaning of these dreams is far from mysterious. In less than a year, I am anticipating a move. The very idea is stressful to me: uprooting from a neighborhood I love; harboring misgivings about whether or not I am making the right decision; all the red tape and masking tape. Change is hard. I get it! I get it! Is this unrelenting barrage on the part of my unconscious really necessary? But, of course, there is way more to the message than meets the closed eye! In waking life, I have become obsessed with the negative changes happening to San Francisco: _Manhattanization_ at an exponential rate; more and more tall buildings going up; overcrowding of parks and busses; excessive, unceasing noise pollution; newcomers with, not flowers in their hair, but cellphones in their ear; rampant greed displacing long time residents of moderate means. My anger and bitterness and utter heartbreak were eating me alive. I knew that I had to either make peace with the changes or leave my beloved city. Then I dreamt...
 
+<div id="supporters-mobile"></div>
+
 ### KISSING THE BEAR (April 3, 2014)
 
 _I am walking around San Francisco. It is so changed that I cannot easily find my way. Van Ness Avenue (Route 101) has turned into a one lane, serpentine roadway with electric trolleys. I just miss one (trolley), and realize that if I don’t start running, I will be very late to my destination._

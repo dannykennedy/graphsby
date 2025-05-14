@@ -33,6 +33,8 @@ From the onset, Sanford Drob is clear about what he has done and how he has done
 
 A page later, the author sets before us the major points of his investigation: “Although I have endeavored to be balanced and as comprehensive as possible... I have become convinced that while The Red Book narrative centers around Jung’s’ soul-finding journey, its greatest value may be its ideas on such themes as God, humanity, madness, chaos, death, science, reason, knowledge, logic, and evil.”
 
+<div id="supporters-mobile"></div>
+
 Shortly thereafter, Drob introduces us to a confession, his method, and his intention. He continues: “I am not a Jungian. While I believe that my treatment of The Red Book is a sympathetic one, I do not hesitate to raise questions about Jung’s approach to various issues and his suggestion that spiritual wisdom and enlightenment must involve an inner, solitary journey. In many instances, without providing anything resembling an answer, I raise questions that the reader will want to consider for him or herself.”
 
 Drob concludes his informative Introduction with the following lines: “The immense size and weight of the facile edition, along with the haunting beauty and mystery of its illustrations leads one to approach Jung’s Red Book with a certain caution—it is hardly the sort of work that one curls up with in bed… and yet it is a work that, above all else, must be read; read, and then studied and reflected upon… In the present work, I propose to read The Red Book, and, in the course of this reading, wrestle with the questions it asks, _on the hope of experiencing something new, seeing life from a new perspective and perhaps being personally transformed in the process.” _

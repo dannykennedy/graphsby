@@ -29,6 +29,8 @@ _Barry Williams, M.Div., Psy.D., a Jungian analyst in private practice in Taos N
 
 **BW:** I’m more of a ceremonial leader in a way, though I am not leading anything, exactly. There is a sense that someone has a foot in both worlds: in the waking, conference, relating, interpersonal world, and also a foot firmly in the dreaming unconscious, wild, natural world. A ritual elder is a bridging figure, someone who bridges between the gods and the mortal world, and someone who can travel back and forth between them. So listening to the dream, the message from the other world, and speaking to the dreamer in the same moment, connects the worlds together.
 
+<div id="supporters-mobile"></div>
+
 **JE:** You also hold that space and talk about a safe container, and it’s felt by those of us in the room. Can you help us understand about how you create that safe container?
 
 **BW:** That’s a mystery, really. The idea is that I cannot do anything. My biggest contribution to a community like this is to try to create a container that is strong and safe enough so that the archetypal energies can constellate within the group. If the container is held correctly, there can be the possibility of some transformation, of healing, or of people getting across thresholds in their lives. The dreams can emerge in an ever greater way, perhaps. The container is built on trust and understanding and the community feels it. The more we establish trust, the more the community feels it and the stronger the container. The stronger the container, the more trust, until we can be a community that’s sharing its deepest truth. That’s an extraordinary event.

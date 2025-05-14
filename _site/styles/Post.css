@@ -51,7 +51,8 @@
     min-width: 300px;
 }
 
-.page-sidebar h2 {
+.page-sidebar h2,
+#supporters-mobile #sidebar-card-supporters h2 {
     padding-left: 0px;
 }
 
@@ -60,11 +61,13 @@
     padding: 2rem 1rem 1rem 1rem;
 }
 
-.page-sidebar a {
+.page-sidebar a,
+#supporters-mobile #sidebar-card-supporters a {
     text-decoration: none;
 }
 
-.page-sidebar .page-subheading {
+.page-sidebar .page-subheading,
+#supporters-mobile #sidebar-card-supporters .page-subheading {
     margin-top: 0px;
 }
 
@@ -74,7 +77,8 @@
     align-items: center;
 }
 
-.sidebar-item-card p {
+.sidebar-item-card p,
+#supporters-mobile #sidebar-card-supporters p {
     margin: 0;
     font-family: "Open Sans", sans-serif;
     font-weight: 100;
@@ -113,7 +117,8 @@ a.sidebar-item-card-description {
     margin-top: 0.25rem;
 }
 
-.page-sidebar-supporter-cta {
+.page-sidebar-supporter-cta,
+#supporters-mobile #sidebar-card-supporters .page-sidebar-supporter-cta {
     margin-top: 1rem;
     font-style: italic;
     font-family: "Open Sans", sans-serif;

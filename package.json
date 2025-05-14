@@ -14,7 +14,7 @@
         "react-fontawesome": "^1.7.1"
     },
     "scripts": {
-        "setup": "python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt",
+        "setup": "python3 -m venv .venv && source .venv/bin/activate && pip3 install -r requirements.txt",
         "start": "http-server -p 3000 -o /_site/@dreamnetwork",
         "serve": "http-server -p 3000 -o /_site/@dreamnetwork",
         "build": "python3 graphsby.py prod",

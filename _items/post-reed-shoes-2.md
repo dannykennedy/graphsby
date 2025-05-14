@@ -20,6 +20,8 @@ This dream occurred on the eve of a new semester of teaching. It clearly reflect
 
 I can think of another occasion that called for perfectionism—ROTC inspection! For that I would have to also polish my brass buttons and brass belt buckle, not to mention my shoes shined with spit. ROTC is a long distant memory. It makes me realize, however, that on many occasions since that time, I'll shine any jewelry that I may wear, especially silver or copper, because of its corrosibility, but I still won't shine my shoes, just dust them off a bit. What does it mean then to shine my SHOES?
 
+<div id="supporters-mobile"></div>
+
 What are shoes? They provide comfort and support for my feet. What are my feet? They are what I walk with, what I use to contact the ground. Depending upon the type of ground I am going to walk on and the way in which I want to walk on that ground, I choose an appropriate pair of shoes. I have many to choose from: sneakers, moccasins, sandals, slip-ons, lace-ups and boots; and they may be casual, formal or just plain comfy. Shoes seem to be an interface between feet and ground that can take into account my intentions and desires and the conditions I'll encounter.
 
 I can pick a pair of shoes that will match the occasion, and that feels good. I've also known the pleasure, like David Letterman, of being dressed up except for my sneakers—it does provide a bit of rebellious pleasure as well as compensatory relief from the constrictions of a closed collar and tie. On the other hand, In my dreams I've found myself in a situation with inadequate shoes, like walking in snow while wearing sandals, a trying experience!

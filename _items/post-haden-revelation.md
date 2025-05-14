@@ -32,6 +32,8 @@ _The Book of Revelation_, like so much apocalyptic writing, was born out of inno
 
 As with all dreams and visions, there are multiple layers of meaning in the Apocalypse of John. Some see John's Revelation as speaking about events at the time, e.g., Nero persecuting the Christians. Others see it as foretelling future wars and catastrophes and the end of the world. Still others see it as describing a process, a process that is relevant to all times and all places and all people. [Carl Jung](../topic~jung_and_dreams) calls it the process of individuation, the process of becoming what we are called to be. So, let us explore _The Book of Revelation_ as a process of individuation.
 
+<div id="supporters-mobile"></div>
+
 ## Three Wars
 
 There are three wars going on in _the Book of Revelation_: the war in heaven, the war on earth, and the war that's going on inside all of us. _The Book of Revelation_ speaks of all three. In essence, the wars are between good and evil. We're fighting and struggling all the time with good and evil within ourselves. This world in which we live struggles with good and evil and there's even a struggle between good and evil in the heavenly sphere, in the spiritual realm.

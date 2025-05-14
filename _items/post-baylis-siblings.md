@@ -30,6 +30,8 @@ Younger sisters are equally prone to idolize older brothers. When Debbie's broth
 
 The dream pictures seemed to suggest, I wooden (wouldn't) take his steps. You will be disappointed in "his bag." "His bag" was a current colloquialism for "his thing" or "his choice." It helped her to think about it and see the logic that "his bag" wouldn't be right for her.
 
+<div id="supporters-mobile"></div>
+
 In another case of an older sister, now grown and a mother, dreams used her former caretaker role to comment on her motherly caretaking.
 
 > _My daughter lost her balance and fell off of her bicycle ( the two cycles). Her eyes were rolling. Her father, my husband, started yelling at her. "Don't you know better than to fall!" ( lose your balance). His face became the face of my father and my daughter's face becomes the face of my younger sister. I brought an overfilled ice-pack and put on my daughter's head while we waited for an ambulance to take her to the hospital._

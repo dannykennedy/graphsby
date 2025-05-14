@@ -26,6 +26,8 @@ People working in the privacy of their own homes, using our [Jungian-Senoi Dream
 
 Artists and others in the creative fields have been able to move through blocks and connect with creative sources within the psyche. Every person has the potential to develop creativity regarding their lives and work, and this happens for many people using our approach.
 
+<div id="supporters-mobile"></div>
+
 ## Innovating An Approach
 
 The Jungian-Senoi methodology takes key concepts and certain practices from both the psychology of [C.G. Jung](../topic~jung_and_dreams), and from the cultural achievements of the [Senoi](https://en.wikipedia.org/wiki/Senoi) peoples of Malaysia, a dream-oriented culture as reported by Kilton Stewart.

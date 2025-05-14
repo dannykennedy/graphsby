@@ -25,6 +25,8 @@ The second most frequent pattern was the theme of being concerned about the appr
 
 The third most frequent theme was that of losing one's shoes. One dreamer left a party and later discovered that she had left her shoes behind. Someone took another dreamer's shoes. One dreamer was standing in line at a complaint department to describe shoes that had been lost. Another dreamer was riding on a horse when his shoes fell off.
 
+<div id="supporters-mobile"></div>
+
 There were many other frequent patterns. Many dreams expressed the theme of an abundance of shoes, such as the dream that. initiated this project. The theme of polishing or repairing shoes was also common. Many dreams involved shopping for shoes. Discovering old shoes was another favorite.
 
 Shoe stories in dreams seem to mirror the shoe situations encountered in life. Shoes with special features seem to be a notable exception.

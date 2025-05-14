@@ -280,6 +280,8 @@
   <p>The dream itself is a natural and necessary expression of the life force-- one that manifests in sleeping consciousness and is sometimes remembered and recounted across the threshold of waking,..it’s basic purpose is the manifestation and expression of this life force. It gives us images of energy, synthesizing past and present, personal and collective experiences (p.2).</p>
 </blockquote>
 
+<div id="supporters-mobile"></div>
+
 <p>Furthermore, Berry (2000) notes the “images in our dreams are not reflections of external objects but are “inner images” (p.94). Thus, our dreams provide us with a deeper window and understanding of our internal state, feelings, fears, and hopes. If we slow down and pay attention, we can access content that can assist us on our life’s journey towards greater self-discovery and contentment. Whitmont and Perea (1989) further this discussion by noting that:</p>
 
 <blockquote>
@@ -842,7 +844,7 @@ Stop looking to the exterior cues to guide you and go within
 </div> 
         </div>
          
-        <div class="card sidebar-card">
+        <div class="card sidebar-card" id="sidebar-card-supporters">
             <h2 class="page-subheading page-subheading">Website supporters (external links)</h2>
              
             <div class="sidebar-item-card-wrapper card-number-1">
@@ -896,13 +898,16 @@ Stop looking to the exterior cues to guide you and go within
 </div>
         <script>
             var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-            var mainMasonry = new MiniMasonry({
-                container: ".main-grid",
-                minify: false,
-                basewidth: 350,
-                gutterX: 20,
-                gutterY: 20,
-            });
+            var hasMainItems = document.getElementsByClassName("main-grid").length;
+            var mainMasonry = hasMainItems
+                ? new MiniMasonry({
+                      container: ".main-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
             var featuredMasonry = hasFeaturedItems
                 ? new MiniMasonry({
                       container: ".featured-grid",
@@ -915,11 +920,31 @@ Stop looking to the exterior cues to guide you and go within
 
             window.onload = function () {
                 setTimeout(function () {
-                    mainMasonry.layout();
+                    if (hasMainItems) {
+                        mainMasonry.layout();
+                    }
                     if (hasFeaturedItems) {
                         featuredMasonry.layout();
                     }
                 }, 300);
+
+                // If the page has an id of "sidebar-card-supporters" somewhere
+                // And the page width is less than 900
+                // Look for an id of supporters-mobile
+                // And copy the sidebar-card-supporters there
+                if (document.getElementById("sidebar-card-supporters")) {
+                    var supportersMobile = document.getElementById("supporters-mobile");
+                    if (window.innerWidth < 900 && supportersMobile) {
+                        var sidebarCardSupporters = document.getElementById("sidebar-card-supporters");
+                        supportersMobile.appendChild(sidebarCardSupporters);
+                    } else {
+                        console.log(
+                            "Not mobile, not moving supporters",
+                            window.innerWidth,
+                            document.getElementById("sidebar-card-supporters")
+                        );
+                    }
+                }
             };
 
             // Show more cards

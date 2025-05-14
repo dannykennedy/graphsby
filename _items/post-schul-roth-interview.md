@@ -27,6 +27,8 @@ As a young dancer, I made the transition from the world of steps and structures 
 
 In a parallel universe, I was teaching movement to thousands of people and began to observe that these patterns emerged on all dance floors, in all bodies. And so I named them and began a life long apprenticeship to the “5Rhythms!” Being young and wild and free, it didn’t dawn on me that in order to go into these deep, ecstatic places, I would have to be willing to transform absolutely everything that got in my way. That included every form of inertia known to man; from the physical inertia of tight and stressful muscles, to the emotional baggage of depressed, repressed feelings, the mental baggage of outmoded/ outdated dogmas and attitudes, philosophies. In other words, I’d have to let it all go. I’d have to let everything go. And, anyone who wanted to go on this journey would have to do the same.
 
+<div id="supporters-mobile"></div>
+
 Thus, a body of work was born in the sixties that is at least seventy-five thousand years old, and is now maturing into a contemporary Zen shamanic practice that has planted its roots and spread its wings into communities all over the world. The concept of soul has been abstracted by religion. But for me, it is a visceral reality. It is when the body, the heart and the mind are completely hooked up into a unique expression of the unified field. In other words, it’s when our style kicks in, and we truly become who we are with our own voice, our own dance, our own fashion, all the accessories to our fabulous fingerprints.
 
 The “5Rhythms!” catalyze and speed up this process. In fact, they make becoming who you are a totally irresistible process.

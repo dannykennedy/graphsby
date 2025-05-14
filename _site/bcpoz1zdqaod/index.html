@@ -283,6 +283,8 @@
 
 <p>Even for people who have read his earlier works, the story picks up and ends mysteriously and abruptly. The author has learned a great deal, but he still clings to his eternal question: are the exotic things he experiences and recounts "mere hallucinations", or are they <em>real</em>? The evidence piles up ~ they are ~ they have clearly observable and verifiable effects in the physical waking world - but still he has doubts. He has shared these doubts with us before, and will again. He informs us early in the book that there are "Seven Gates of Dreaming", but in <em>The Art of Dreaming</em>, he only takes us up to the first four.</p>
 
+<div id="supporters-mobile"></div>
+
 <p>For evolving lucid dreamers who search Casteneda's works for practical suggestions about how to improve and extend their own conscious interactions in the dream world, there are many hints and useful, detailed stories. For those interested in comparisons, two other "pupils of don Juan", Florinda Donner and Teisha Abelard have both published books recently which tell similar, useful, interesting, almost interlocking stories. Are they all three co-conspirators in a literary hoax? Perhaps, but even more importantly, their stories awaken keen emotional and intellectual interest and offer new tales in that ancient and noble genre, the spiritual adventure story, Either way, what Carlos Casteneda does in this book is to awaken our longings for something greater and deeper than the mundane materialistic view of our lives. He invites us to identify in a deep and emotionally alive way with a culture and a traditional spiritual worldview that is very different from our own.</p>
 
 <p>I found myself wishing that he would address some of the universal aspects of the sorcerer's secrets he discovers, but apart from a few hints, the experiences are presented without any interpretation. At one point, Don Juan says that the way "the inorganic beings" trap dreamers with their "gifts of knowledge and power" reminds him of the European tales of wizards who sell their souls to the Devil. At another point Casteneda himself remarks that "a psychiatrist would have a field day" examining the symbolic levels of his dreams. These brief glimpses of possible larger frameworks of understanding and interpretation are not developed. Instead Casteneda structures his narrative with his repetitive and ultimately unsuccessful attempts to define and maintain "objectivity" in greater worlds of dreaming where the familiar and limiting assumptions of Western science and rationality simply do not apply.</p>
@@ -650,7 +652,7 @@
             
         </div>
          
-        <div class="card sidebar-card">
+        <div class="card sidebar-card" id="sidebar-card-supporters">
             <h2 class="page-subheading page-subheading">Website supporters (external links)</h2>
              
             <div class="sidebar-item-card-wrapper card-number-1">
@@ -704,13 +706,16 @@
 </div>
         <script>
             var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-            var mainMasonry = new MiniMasonry({
-                container: ".main-grid",
-                minify: false,
-                basewidth: 350,
-                gutterX: 20,
-                gutterY: 20,
-            });
+            var hasMainItems = document.getElementsByClassName("main-grid").length;
+            var mainMasonry = hasMainItems
+                ? new MiniMasonry({
+                      container: ".main-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
             var featuredMasonry = hasFeaturedItems
                 ? new MiniMasonry({
                       container: ".featured-grid",
@@ -723,11 +728,31 @@
 
             window.onload = function () {
                 setTimeout(function () {
-                    mainMasonry.layout();
+                    if (hasMainItems) {
+                        mainMasonry.layout();
+                    }
                     if (hasFeaturedItems) {
                         featuredMasonry.layout();
                     }
                 }, 300);
+
+                // If the page has an id of "sidebar-card-supporters" somewhere
+                // And the page width is less than 900
+                // Look for an id of supporters-mobile
+                // And copy the sidebar-card-supporters there
+                if (document.getElementById("sidebar-card-supporters")) {
+                    var supportersMobile = document.getElementById("supporters-mobile");
+                    if (window.innerWidth < 900 && supportersMobile) {
+                        var sidebarCardSupporters = document.getElementById("sidebar-card-supporters");
+                        supportersMobile.appendChild(sidebarCardSupporters);
+                    } else {
+                        console.log(
+                            "Not mobile, not moving supporters",
+                            window.innerWidth,
+                            document.getElementById("sidebar-card-supporters")
+                        );
+                    }
+                }
             };
 
             // Show more cards

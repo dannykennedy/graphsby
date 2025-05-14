@@ -518,13 +518,16 @@
 </div>
         <script>
             var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-            var mainMasonry = new MiniMasonry({
-                container: ".main-grid",
-                minify: false,
-                basewidth: 350,
-                gutterX: 20,
-                gutterY: 20,
-            });
+            var hasMainItems = document.getElementsByClassName("main-grid").length;
+            var mainMasonry = hasMainItems
+                ? new MiniMasonry({
+                      container: ".main-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
             var featuredMasonry = hasFeaturedItems
                 ? new MiniMasonry({
                       container: ".featured-grid",
@@ -537,11 +540,31 @@
 
             window.onload = function () {
                 setTimeout(function () {
-                    mainMasonry.layout();
+                    if (hasMainItems) {
+                        mainMasonry.layout();
+                    }
                     if (hasFeaturedItems) {
                         featuredMasonry.layout();
                     }
                 }, 300);
+
+                // If the page has an id of "sidebar-card-supporters" somewhere
+                // And the page width is less than 900
+                // Look for an id of supporters-mobile
+                // And copy the sidebar-card-supporters there
+                if (document.getElementById("sidebar-card-supporters")) {
+                    var supportersMobile = document.getElementById("supporters-mobile");
+                    if (window.innerWidth < 900 && supportersMobile) {
+                        var sidebarCardSupporters = document.getElementById("sidebar-card-supporters");
+                        supportersMobile.appendChild(sidebarCardSupporters);
+                    } else {
+                        console.log(
+                            "Not mobile, not moving supporters",
+                            window.innerWidth,
+                            document.getElementById("sidebar-card-supporters")
+                        );
+                    }
+                }
             };
 
             // Show more cards

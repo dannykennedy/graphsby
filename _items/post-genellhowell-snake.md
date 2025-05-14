@@ -23,6 +23,8 @@ Evolution is one of the primary purposes of human life. We live, we learn, we co
 
 > The dream itself is a natural and necessary expression of the life force-- one that manifests in sleeping consciousness and is sometimes remembered and recounted across the threshold of waking,..it’s basic purpose is the manifestation and expression of this life force. It gives us images of energy, synthesizing past and present, personal and collective experiences (p.2).
 
+<div id="supporters-mobile"></div>
+
 Furthermore, Berry (2000) notes the “images in our dreams are not reflections of external objects but are “inner images” (p.94). Thus, our dreams provide us with a deeper window and understanding of our internal state, feelings, fears, and hopes. If we slow down and pay attention, we can access content that can assist us on our life’s journey towards greater self-discovery and contentment. Whitmont and Perea (1989) further this discussion by noting that:
 
 > In working with dreams one may encounter a feeling of profound numinosity and of wonder at the objectivity and creativity of the unknown entity we call, for lack of a better name, the Guiding Self. These feelings grow out of the experience of receiving successions of precisely relevant dream image messages and of the concomitant sense of personal growth (p. 180).

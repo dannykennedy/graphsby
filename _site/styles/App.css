@@ -62,7 +62,7 @@ button {
     clear: left;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 900px) {
     #wrapper {
         padding: 60px 0px;
     }

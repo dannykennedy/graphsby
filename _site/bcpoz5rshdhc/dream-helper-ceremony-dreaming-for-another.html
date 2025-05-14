@@ -330,6 +330,8 @@
 
 <p>I had a dream the night of our first committee meeting in which a group of us had gathered at A.R.E. We were in the dark, fumbling around, and didn't know what to do. Then, through some unknown way, we started a circular dance. Everyone had a circular dream shield, like a mandala with some kind of a symbol on it. As we would meet each other, passing in the dance, we would show our insignia and the person would recognize us by our symbol. In the middle of the dance, a fountain of sparks suddenly appeared, we were surrounded by light, and we could see. We realized that in the dance was the research method we were seeking which would lead to our enlightenment. I called this <em>"The Dream of the Research Dance."</em></p>
 
+<div id="supporters-mobile"></div>
+
 <p>I had studied a little about similar patterns. For example, in the Sundance Indian ceremony, there's a group of dancers around a pole who are seeking visions. The pole serves as their common ideal. By contrast, in a traditional kind of dream telepathy experiment, there is a subject who is asleep in a laboratory and someone else who is awake, staring at pictures, who's trying to impress upon the sleeper images that hopefully will appear in the dream. Bob had done such a demonstration at camp in a previous summer. But that approach didn't fit our ideal because there wasn't the feeling that the various people involved—experimenter, sender, and receiver—were cooperating for acknowledgment. It was set up primarily to "prove" the existence of ESP.</p>
 
 <p>One of the things that <a href="https://en.wikipedia.org/wiki/Edgar_Cayce">Cayce</a> had indicated was that we would never understand ESP if our orientation was to "prove" its existence, because by the very act of trying to do it, we were singling out and separating people to examine their mental contents. Rather, he said, if we wished to understand telepathy, we should get people together in such a way that they had a desire to help one another but had no other way of doing it except through telepathy. Then they'd focus on the telepathy, focus on the follow-through of being helpful.</p>
@@ -851,7 +853,7 @@
             
         </div>
          
-        <div class="card sidebar-card">
+        <div class="card sidebar-card" id="sidebar-card-supporters">
             <h2 class="page-subheading page-subheading">Website supporters (external links)</h2>
              
             <div class="sidebar-item-card-wrapper card-number-1">
@@ -905,13 +907,16 @@
 </div>
         <script>
             var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-            var mainMasonry = new MiniMasonry({
-                container: ".main-grid",
-                minify: false,
-                basewidth: 350,
-                gutterX: 20,
-                gutterY: 20,
-            });
+            var hasMainItems = document.getElementsByClassName("main-grid").length;
+            var mainMasonry = hasMainItems
+                ? new MiniMasonry({
+                      container: ".main-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
             var featuredMasonry = hasFeaturedItems
                 ? new MiniMasonry({
                       container: ".featured-grid",
@@ -924,11 +929,31 @@
 
             window.onload = function () {
                 setTimeout(function () {
-                    mainMasonry.layout();
+                    if (hasMainItems) {
+                        mainMasonry.layout();
+                    }
                     if (hasFeaturedItems) {
                         featuredMasonry.layout();
                     }
                 }, 300);
+
+                // If the page has an id of "sidebar-card-supporters" somewhere
+                // And the page width is less than 900
+                // Look for an id of supporters-mobile
+                // And copy the sidebar-card-supporters there
+                if (document.getElementById("sidebar-card-supporters")) {
+                    var supportersMobile = document.getElementById("supporters-mobile");
+                    if (window.innerWidth < 900 && supportersMobile) {
+                        var sidebarCardSupporters = document.getElementById("sidebar-card-supporters");
+                        supportersMobile.appendChild(sidebarCardSupporters);
+                    } else {
+                        console.log(
+                            "Not mobile, not moving supporters",
+                            window.innerWidth,
+                            document.getElementById("sidebar-card-supporters")
+                        );
+                    }
+                }
             };
 
             // Show more cards

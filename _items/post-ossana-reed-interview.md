@@ -30,6 +30,8 @@ profileImg: post-bcpov6zreedi-0.jpg
 **DNJ:** Did you do any work on dream interpretation in the university at that time?
 **HR:** About the time I began teaching at Princeton, Fritz Perls was doing dream symbol dialogues at Esalen. His work would ultimately open up dream interpretation technology to the masses because he was the first person to practice a specific dream interpretation technique in public for all to see. We could experiment with his method and learn from it.
 
+<div id="supporters-mobile"></div>
+
 In my course on [Carl Jung](../topic~jung_and_dreams), for example, we married Fritz Perls' dialogue method to Jung's symbol amplification perspective. We would interview a dream symbol to learn its meaning.
 Gayle Delaney, by the way, who has since become well known for her dream books, was a student in that class. She developed her "Dream Symbol Definition" method from our work in that course on Jung.
 **DNJ:** I know you spent some time at the Jung Institute in Zurich. How did that affect your work with dreams?

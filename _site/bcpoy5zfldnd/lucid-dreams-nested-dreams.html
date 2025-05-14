@@ -276,6 +276,8 @@
 
 <p>My suggestion is that lucid dreams (or, at least, some lucid dreams) are a special case of 'nested' dreams: dreams which are stacked one inside the other like Russian dolls, and in which the dreamer becomes aware of the inner dream within the outer dream. There may be no limit to the number of levels of nesting that can exist. I do not know how common nested dreams are for others, but I have recorded a total of 122 dreams over the past 11 years in which I either recall a preceding dream or dreams of the same night, or I am recording such a dream in my dream journal. Another 28 dreams relate back to dreams I recall from previous nights. Here is a typical example of a pair of nested dreams:</p>
 
+<div id="supporters-mobile"></div>
+
 <h2>Lucid Dream #1, 4/11/1996</h2>
 
 <blockquote>
@@ -559,7 +561,7 @@
 </div> 
         </div>
          
-        <div class="card sidebar-card">
+        <div class="card sidebar-card" id="sidebar-card-supporters">
             <h2 class="page-subheading page-subheading">Website supporters (external links)</h2>
              
             <div class="sidebar-item-card-wrapper card-number-1">
@@ -613,13 +615,16 @@
 </div>
         <script>
             var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-            var mainMasonry = new MiniMasonry({
-                container: ".main-grid",
-                minify: false,
-                basewidth: 350,
-                gutterX: 20,
-                gutterY: 20,
-            });
+            var hasMainItems = document.getElementsByClassName("main-grid").length;
+            var mainMasonry = hasMainItems
+                ? new MiniMasonry({
+                      container: ".main-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
             var featuredMasonry = hasFeaturedItems
                 ? new MiniMasonry({
                       container: ".featured-grid",
@@ -632,11 +637,31 @@
 
             window.onload = function () {
                 setTimeout(function () {
-                    mainMasonry.layout();
+                    if (hasMainItems) {
+                        mainMasonry.layout();
+                    }
                     if (hasFeaturedItems) {
                         featuredMasonry.layout();
                     }
                 }, 300);
+
+                // If the page has an id of "sidebar-card-supporters" somewhere
+                // And the page width is less than 900
+                // Look for an id of supporters-mobile
+                // And copy the sidebar-card-supporters there
+                if (document.getElementById("sidebar-card-supporters")) {
+                    var supportersMobile = document.getElementById("supporters-mobile");
+                    if (window.innerWidth < 900 && supportersMobile) {
+                        var sidebarCardSupporters = document.getElementById("sidebar-card-supporters");
+                        supportersMobile.appendChild(sidebarCardSupporters);
+                    } else {
+                        console.log(
+                            "Not mobile, not moving supporters",
+                            window.innerWidth,
+                            document.getElementById("sidebar-card-supporters")
+                        );
+                    }
+                }
             };
 
             // Show more cards

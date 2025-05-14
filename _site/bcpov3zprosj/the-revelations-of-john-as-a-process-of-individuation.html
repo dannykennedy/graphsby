@@ -292,6 +292,8 @@
 
 <p>As with all dreams and visions, there are multiple layers of meaning in the Apocalypse of John. Some see John's Revelation as speaking about events at the time, e.g., Nero persecuting the Christians. Others see it as foretelling future wars and catastrophes and the end of the world. Still others see it as describing a process, a process that is relevant to all times and all places and all people. <a href="../topic~jung_and_dreams">Carl Jung</a> calls it the process of individuation, the process of becoming what we are called to be. So, let us explore <em>The Book of Revelation</em> as a process of individuation.</p>
 
+<div id="supporters-mobile"></div>
+
 <h2>Three Wars</h2>
 
 <p>There are three wars going on in <em>the Book of Revelation</em>: the war in heaven, the war on earth, and the war that's going on inside all of us. <em>The Book of Revelation</em> speaks of all three. In essence, the wars are between good and evil. We're fighting and struggling all the time with good and evil within ourselves. This world in which we live struggles with good and evil and there's even a struggle between good and evil in the heavenly sphere, in the spiritual realm.</p>
@@ -563,7 +565,7 @@
 </div> 
         </div>
          
-        <div class="card sidebar-card">
+        <div class="card sidebar-card" id="sidebar-card-supporters">
             <h2 class="page-subheading page-subheading">Website supporters (external links)</h2>
              
             <div class="sidebar-item-card-wrapper card-number-1">
@@ -617,13 +619,16 @@
 </div>
         <script>
             var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-            var mainMasonry = new MiniMasonry({
-                container: ".main-grid",
-                minify: false,
-                basewidth: 350,
-                gutterX: 20,
-                gutterY: 20,
-            });
+            var hasMainItems = document.getElementsByClassName("main-grid").length;
+            var mainMasonry = hasMainItems
+                ? new MiniMasonry({
+                      container: ".main-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
             var featuredMasonry = hasFeaturedItems
                 ? new MiniMasonry({
                       container: ".featured-grid",
@@ -636,11 +641,31 @@
 
             window.onload = function () {
                 setTimeout(function () {
-                    mainMasonry.layout();
+                    if (hasMainItems) {
+                        mainMasonry.layout();
+                    }
                     if (hasFeaturedItems) {
                         featuredMasonry.layout();
                     }
                 }, 300);
+
+                // If the page has an id of "sidebar-card-supporters" somewhere
+                // And the page width is less than 900
+                // Look for an id of supporters-mobile
+                // And copy the sidebar-card-supporters there
+                if (document.getElementById("sidebar-card-supporters")) {
+                    var supportersMobile = document.getElementById("supporters-mobile");
+                    if (window.innerWidth < 900 && supportersMobile) {
+                        var sidebarCardSupporters = document.getElementById("sidebar-card-supporters");
+                        supportersMobile.appendChild(sidebarCardSupporters);
+                    } else {
+                        console.log(
+                            "Not mobile, not moving supporters",
+                            window.innerWidth,
+                            document.getElementById("sidebar-card-supporters")
+                        );
+                    }
+                }
             };
 
             // Show more cards

@@ -284,6 +284,8 @@
 
 <p><a href="https://en.wikipedia.org/wiki/Marie-Louise_von_Franz">Marie-Louise von Franz's</a> book <em>On Dreams and Death</em> is undoubtedly the best book available on this important subject. Although her focus is primarily on the symbolism of the dreams of people who are dying, she also discusses dreams of ours in which people who are dead appear to us. Like the best of <a href="../topic~jung_and_dreams">Jung's</a> writings, von Franz weaves a masterful tapestry of images, symbols, and visions regarding death from all the world's spiritual traditions. With great sensitivity and care she draws together material from medieval alchemy, Gnosticism, Islamic mysticism, and Buddhism to help amplify the symbolic meanings of the dreams of modern people.</p>
 
+<div id="supporters-mobile"></div>
+
 <p>Von-Franz's basic claim is that death is not the end of life, but a transformation that initiates a new kind of life. By looking at the dreams preceding death she finds a number of recurrent symbolic themes - themes of vegetation, of a sinister or benevolent other, of a dark, narrow birth passage, or marriage with an unknown spouse, and of sacrifice. Von Franz sees in all these themes clear indication ts that death, while painful, is also the start of a new form of being. She says "all the dreams of people who are facing death indicate that the unconscious, that is, our instinctual world, prepares consciousness not for a definite end but for a profound transformation and for a kind of continuation of the life process (156).</p>
 
 <p>Regarding the specific question of whether dreams in which dead people appear are actual "visitations" or instead reflect the psychological forces of the dreamer's own mind, von Franz tends toward the latter response. She says "I have confined myself to an occasional reference to the archetypal symbolism of these phenomena, without discussing the question of their 'reality'" (p. xiv). At the same time, however, she does grant that such dreams could in fact be the dead person "really" appearing in the dreams. Indeed, she notes that Jung himself at times interpreted such dreams as involving the "objective" reality of the dead person.</p>
@@ -633,7 +635,7 @@
             
         </div>
          
-        <div class="card sidebar-card">
+        <div class="card sidebar-card" id="sidebar-card-supporters">
             <h2 class="page-subheading page-subheading">Website supporters (external links)</h2>
              
             <div class="sidebar-item-card-wrapper card-number-1">
@@ -687,13 +689,16 @@
 </div>
         <script>
             var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-            var mainMasonry = new MiniMasonry({
-                container: ".main-grid",
-                minify: false,
-                basewidth: 350,
-                gutterX: 20,
-                gutterY: 20,
-            });
+            var hasMainItems = document.getElementsByClassName("main-grid").length;
+            var mainMasonry = hasMainItems
+                ? new MiniMasonry({
+                      container: ".main-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
             var featuredMasonry = hasFeaturedItems
                 ? new MiniMasonry({
                       container: ".featured-grid",
@@ -706,11 +711,31 @@
 
             window.onload = function () {
                 setTimeout(function () {
-                    mainMasonry.layout();
+                    if (hasMainItems) {
+                        mainMasonry.layout();
+                    }
                     if (hasFeaturedItems) {
                         featuredMasonry.layout();
                     }
                 }, 300);
+
+                // If the page has an id of "sidebar-card-supporters" somewhere
+                // And the page width is less than 900
+                // Look for an id of supporters-mobile
+                // And copy the sidebar-card-supporters there
+                if (document.getElementById("sidebar-card-supporters")) {
+                    var supportersMobile = document.getElementById("supporters-mobile");
+                    if (window.innerWidth < 900 && supportersMobile) {
+                        var sidebarCardSupporters = document.getElementById("sidebar-card-supporters");
+                        supportersMobile.appendChild(sidebarCardSupporters);
+                    } else {
+                        console.log(
+                            "Not mobile, not moving supporters",
+                            window.innerWidth,
+                            document.getElementById("sidebar-card-supporters")
+                        );
+                    }
+                }
             };
 
             // Show more cards

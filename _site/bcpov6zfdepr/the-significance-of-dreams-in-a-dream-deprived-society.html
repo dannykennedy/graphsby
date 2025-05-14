@@ -279,6 +279,8 @@
 
 <p>As individuals we cannot easily resolve any of these general issues in the near future. We can, however, do more with regard to the specific issues that make it difficult to open the closet door. There are a number of hidden assumptions that perpetuate this difficulty. For the most part they derive from the lingering influence of a mystique that has grown up about dreams as a consequence of the foothold that classical psychoanalysis established in this country in the thirties. With that came an ideology that cast the dream in a light that all but made it forbidden territory to the ordinary mortal. To undo this inhibitory impact we have to see it for what it is and take what steps we can to bring forth a new and more felicitous vision of the gift our dreaming psyche offers so freely.</p>
 
+<div id="supporters-mobile"></div>
+
 <p>Jung took the first step in this direction. The respect he showed to the dream freed it from its regressive prison, got rid of its jailor in the form of the censor, and made for its freer existence beyond the limiting domain of wish fulfillment. It is Jung's vision of the dream rather than Freud's that attracts the attention of the current generation of dream explorers. Erich Fromm accorded the language of the dream its full due. In a clear break with the way the dream was enmeshed in the Oedipus myth and other facets of Freudian theory, he viewed the imaging mode of the dream as a unique and distinctively human attribute that creatively reflected the psychological forces that impinge on our lives. Although paving the way toward a broader usage of the dream outside the framework of therapy, the steps necessary to implement that usage was a task for a later generation of dream workers.</p>
 
 <p>In sum, the mystique of dreams in the mind of the public included the regressive view of the dream, the dream as the container of a cauldron of id impulses that threaten to erupt unless properly censored, the predominant role of wish fulfillment and sexuality, and finally, the need for someone psychoanalytically trained to interpret the resulting symbolism along tracks laid out by psychoanalytic theory. There have been major revisionist theories in psychoanalysis over the years that have moved away from the overarching role Freud attributed to instinctual drives and childhood wishes. These new approaches continued, however, to foster the cult of the expert and perpetuated the idea that formal therapy provided the only safe and effective way for the dreamer to engage with the dream. To challenge the premises underlying this mystique was to court danger. While theory may be helpful to a clinician as a way of highlighting trends in the developing life history of the patient, it can often be misused when it comes to dreams.</p>
@@ -504,7 +506,7 @@
           
         <!-- Other articles in issue -->
           
-        <div class="card sidebar-card">
+        <div class="card sidebar-card" id="sidebar-card-supporters">
             <h2 class="page-subheading page-subheading">Website supporters (external links)</h2>
              
             <div class="sidebar-item-card-wrapper card-number-1">
@@ -558,13 +560,16 @@
 </div>
         <script>
             var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-            var mainMasonry = new MiniMasonry({
-                container: ".main-grid",
-                minify: false,
-                basewidth: 350,
-                gutterX: 20,
-                gutterY: 20,
-            });
+            var hasMainItems = document.getElementsByClassName("main-grid").length;
+            var mainMasonry = hasMainItems
+                ? new MiniMasonry({
+                      container: ".main-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
             var featuredMasonry = hasFeaturedItems
                 ? new MiniMasonry({
                       container: ".featured-grid",
@@ -577,11 +582,31 @@
 
             window.onload = function () {
                 setTimeout(function () {
-                    mainMasonry.layout();
+                    if (hasMainItems) {
+                        mainMasonry.layout();
+                    }
                     if (hasFeaturedItems) {
                         featuredMasonry.layout();
                     }
                 }, 300);
+
+                // If the page has an id of "sidebar-card-supporters" somewhere
+                // And the page width is less than 900
+                // Look for an id of supporters-mobile
+                // And copy the sidebar-card-supporters there
+                if (document.getElementById("sidebar-card-supporters")) {
+                    var supportersMobile = document.getElementById("supporters-mobile");
+                    if (window.innerWidth < 900 && supportersMobile) {
+                        var sidebarCardSupporters = document.getElementById("sidebar-card-supporters");
+                        supportersMobile.appendChild(sidebarCardSupporters);
+                    } else {
+                        console.log(
+                            "Not mobile, not moving supporters",
+                            window.innerWidth,
+                            document.getElementById("sidebar-card-supporters")
+                        );
+                    }
+                }
             };
 
             // Show more cards

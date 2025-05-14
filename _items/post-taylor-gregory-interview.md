@@ -32,6 +32,8 @@ The results were stunning! There was an extraordinary change of tone, withdrawal
 
 That was the first time I let myself have that thought, "look at what we've accomplished here!". I said to myself if looking around blindly in our dreams, without the faintest idea of what we are doing, can do _this_ and begin to impact the deep psychological sources of racism, what else can it do? That was 20 years ago and I have not looked back. In some sense I am still no closer to an answer to that question than when I started. Every time I think I'm getting to some kind of boundary: "Well, dreamwork can do this but it can't do that; I find that, in fact, it _can_ do that.
 
+<div id="supporters-mobile"></div>
+
 **Jill:** I've discovered the boundaries always turn out to be personal, beliefs and fears.
 
 **Jeremy:** Yes, exactly. I am still a community organizer. I see this dream business as important primarily for its collective significance. It's wonderful all of the personal and individual work that happens when people do dreams, but if that is all that it was about it would be interesting and I would undoubtedly still do it myself, but it would not be the center of my ministry.

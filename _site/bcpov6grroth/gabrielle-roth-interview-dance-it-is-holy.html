@@ -280,6 +280,8 @@
 
 <p>In a parallel universe, I was teaching movement to thousands of people and began to observe that these patterns emerged on all dance floors, in all bodies. And so I named them and began a life long apprenticeship to the “5Rhythms!” Being young and wild and free, it didn’t dawn on me that in order to go into these deep, ecstatic places, I would have to be willing to transform absolutely everything that got in my way. That included every form of inertia known to man; from the physical inertia of tight and stressful muscles, to the emotional baggage of depressed, repressed feelings, the mental baggage of outmoded/ outdated dogmas and attitudes, philosophies. In other words, I’d have to let it all go. I’d have to let everything go. And, anyone who wanted to go on this journey would have to do the same.</p>
 
+<div id="supporters-mobile"></div>
+
 <p>Thus, a body of work was born in the sixties that is at least seventy-five thousand years old, and is now maturing into a contemporary Zen shamanic practice that has planted its roots and spread its wings into communities all over the world. The concept of soul has been abstracted by religion. But for me, it is a visceral reality. It is when the body, the heart and the mind are completely hooked up into a unique expression of the unified field. In other words, it’s when our style kicks in, and we truly become who we are with our own voice, our own dance, our own fashion, all the accessories to our fabulous fingerprints.</p>
 
 <p>The “5Rhythms!” catalyze and speed up this process. In fact, they make becoming who you are a totally irresistible process.</p>
@@ -605,7 +607,7 @@
 </div> 
         </div>
          
-        <div class="card sidebar-card">
+        <div class="card sidebar-card" id="sidebar-card-supporters">
             <h2 class="page-subheading page-subheading">Website supporters (external links)</h2>
              
             <div class="sidebar-item-card-wrapper card-number-1">
@@ -659,13 +661,16 @@
 </div>
         <script>
             var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-            var mainMasonry = new MiniMasonry({
-                container: ".main-grid",
-                minify: false,
-                basewidth: 350,
-                gutterX: 20,
-                gutterY: 20,
-            });
+            var hasMainItems = document.getElementsByClassName("main-grid").length;
+            var mainMasonry = hasMainItems
+                ? new MiniMasonry({
+                      container: ".main-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
             var featuredMasonry = hasFeaturedItems
                 ? new MiniMasonry({
                       container: ".featured-grid",
@@ -678,11 +683,31 @@
 
             window.onload = function () {
                 setTimeout(function () {
-                    mainMasonry.layout();
+                    if (hasMainItems) {
+                        mainMasonry.layout();
+                    }
                     if (hasFeaturedItems) {
                         featuredMasonry.layout();
                     }
                 }, 300);
+
+                // If the page has an id of "sidebar-card-supporters" somewhere
+                // And the page width is less than 900
+                // Look for an id of supporters-mobile
+                // And copy the sidebar-card-supporters there
+                if (document.getElementById("sidebar-card-supporters")) {
+                    var supportersMobile = document.getElementById("supporters-mobile");
+                    if (window.innerWidth < 900 && supportersMobile) {
+                        var sidebarCardSupporters = document.getElementById("sidebar-card-supporters");
+                        supportersMobile.appendChild(sidebarCardSupporters);
+                    } else {
+                        console.log(
+                            "Not mobile, not moving supporters",
+                            window.innerWidth,
+                            document.getElementById("sidebar-card-supporters")
+                        );
+                    }
+                }
             };
 
             // Show more cards

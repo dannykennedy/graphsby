@@ -276,6 +276,8 @@
 
 <p>For the past year, I have been plagued by anxiety dreams with a recurring theme: futilely attempting to pack a suitcase amid chaos. Too many things, so little time and space. A cast of thousands. I awaken exhausted. Now, on the surface, the meaning of these dreams is far from mysterious. In less than a year, I am anticipating a move. The very idea is stressful to me: uprooting from a neighborhood I love; harboring misgivings about whether or not I am making the right decision; all the red tape and masking tape. Change is hard. I get it! I get it! Is this unrelenting barrage on the part of my unconscious really necessary? But, of course, there is way more to the message than meets the closed eye! In waking life, I have become obsessed with the negative changes happening to San Francisco: <em>Manhattanization</em> at an exponential rate; more and more tall buildings going up; overcrowding of parks and busses; excessive, unceasing noise pollution; newcomers with, not flowers in their hair, but cellphones in their ear; rampant greed displacing long time residents of moderate means. My anger and bitterness and utter heartbreak were eating me alive. I knew that I had to either make peace with the changes or leave my beloved city. Then I dreamt...</p>
 
+<div id="supporters-mobile"></div>
+
 <h3>KISSING THE BEAR (April 3, 2014)</h3>
 
 <p><em>I am walking around San Francisco. It is so changed that I cannot easily find my way. Van Ness Avenue (Route 101) has turned into a one lane, serpentine roadway with electric trolleys. I just miss one (trolley), and realize that if I don’t start running, I will be very late to my destination.</em></p>
@@ -433,7 +435,7 @@
             
         </div>
          
-        <div class="card sidebar-card">
+        <div class="card sidebar-card" id="sidebar-card-supporters">
             <h2 class="page-subheading page-subheading">Website supporters (external links)</h2>
              
             <div class="sidebar-item-card-wrapper card-number-1">
@@ -487,13 +489,16 @@
 </div>
         <script>
             var hasFeaturedItems = document.getElementsByClassName("featured-grid").length;
-            var mainMasonry = new MiniMasonry({
-                container: ".main-grid",
-                minify: false,
-                basewidth: 350,
-                gutterX: 20,
-                gutterY: 20,
-            });
+            var hasMainItems = document.getElementsByClassName("main-grid").length;
+            var mainMasonry = hasMainItems
+                ? new MiniMasonry({
+                      container: ".main-grid",
+                      minify: false,
+                      basewidth: 350,
+                      gutterX: 20,
+                      gutterY: 20,
+                  })
+                : null;
             var featuredMasonry = hasFeaturedItems
                 ? new MiniMasonry({
                       container: ".featured-grid",
@@ -506,11 +511,31 @@
 
             window.onload = function () {
                 setTimeout(function () {
-                    mainMasonry.layout();
+                    if (hasMainItems) {
+                        mainMasonry.layout();
+                    }
                     if (hasFeaturedItems) {
                         featuredMasonry.layout();
                     }
                 }, 300);
+
+                // If the page has an id of "sidebar-card-supporters" somewhere
+                // And the page width is less than 900
+                // Look for an id of supporters-mobile
+                // And copy the sidebar-card-supporters there
+                if (document.getElementById("sidebar-card-supporters")) {
+                    var supportersMobile = document.getElementById("supporters-mobile");
+                    if (window.innerWidth < 900 && supportersMobile) {
+                        var sidebarCardSupporters = document.getElementById("sidebar-card-supporters");
+                        supportersMobile.appendChild(sidebarCardSupporters);
+                    } else {
+                        console.log(
+                            "Not mobile, not moving supporters",
+                            window.innerWidth,
+                            document.getElementById("sidebar-card-supporters")
+                        );
+                    }
+                }
             };
 
             // Show more cards

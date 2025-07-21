@@ -6,8 +6,17 @@ eastwest_basic = {
 	'target': '_blank'
 }
 
+roberta_basic = {
+	'name': 'Please! Help Us Hold Our Family Together',
+	'description': 'Help the former DNJ editor, Roberta Ossana',
+	'profileImg': 'roberta_fundraiser.jpg',
+	'url': 'https://gofund.me/1acd3fba',
+	'target': '_blank'
+}
+
 
 supporters = [
+	roberta_basic,
 	{
 		'name': 'Elsewhere Dream Journal',
 		'description': 'A beautiful home for your dreams',
@@ -20,6 +29,7 @@ supporters = [
 ]
 
 lucid_supporters = [
+	roberta_basic,
 	{
 		'name': 'Elsewhere Dream Journal',
 		'description': 'Keep track of your lucid dreams',
@@ -33,6 +43,7 @@ lucid_supporters = [
 
 # nude.jpg
 sexy_supporters = [
+	roberta_basic,
 	{
 		'name': 'Had a sexy dream?',
 		'description': 'Record it privately in the Elsewhere Dream Journal',
@@ -58,6 +69,7 @@ ullman_supporters = [
 ]
 
 jung_supporters = [
+	roberta_basic,
 	{
 		'name': 'Free Jungian-style dream interpretation',
 		'description': 'Try it for yourself, powered by AI from Elsewhere',
@@ -70,6 +82,7 @@ jung_supporters = [
 ]
 
 biblical_supporters = [
+	roberta_basic,
 	{
 		'name': 'Free online Biblical dream interpretation',
 		'description': 'Which Bible passages best illuminate your dream?',
@@ -82,6 +95,7 @@ biblical_supporters = [
 ]
 
 freudian_supporters = [
+	roberta_basic,
 	{
 		'name': 'Free online Freudian dream interpretation',
 		'description': 'Using AI from the Elsewhere Dream Journal',
@@ -94,6 +108,7 @@ freudian_supporters = [
 ]
 
 group_supporters = [
+	roberta_basic,
 	{
 		'name': 'Want to share dreams with friends or a dream group?',
 		'description': 'You can make a group in the Elsewhere Dream Journal app',
@@ -107,6 +122,7 @@ group_supporters = [
 
 # Symbols
 flying_supporters = [
+	roberta_basic,
 	{
 		'name': 'Had a dream of flying?',
 		'description': 'Interpret it with Elsewhere',
@@ -119,6 +135,7 @@ flying_supporters = [
 ]
 
 water_supporters = [
+	roberta_basic,
 	{
 		'name': 'Had a dream of water?',
 		'description': 'Interpret it with Elsewhere',
@@ -131,6 +148,7 @@ water_supporters = [
 ]
 
 sea_supporters = [
+	roberta_basic,
 	{
 		'name': 'Had a dream of the ocean?',
 		'description': 'Interpret it with Elsewhere',
@@ -143,6 +161,7 @@ sea_supporters = [
 ]
 
 school_supporters = [
+	roberta_basic,
 	{
 		'name': 'Had a dream about school?',
 		'description': 'Interpret it with Elsewhere',
@@ -155,6 +174,7 @@ school_supporters = [
 ]
 
 shoe_supporters = [
+	roberta_basic,
 	{
 		'name': 'What does my shoe dream mean?',
 		'description': 'Get an automatic interpretation with Elsewhere',
@@ -167,6 +187,7 @@ shoe_supporters = [
 ]
 
 spider_supporters = [
+	roberta_basic,
 	{
 		'name': 'Had a dream about spiders?',
 		'description': 'Interpret it with Elsewhere',
@@ -179,6 +200,7 @@ spider_supporters = [
 ]
 
 snake_supporters = [
+	roberta_basic,
 	{
 		'name': 'Had a dream about snakes?',
 		'description': 'Interpret it with Elsewhere',
@@ -203,6 +225,7 @@ bear_supporters = [
 ]
 
 boat_supporters = [
+	roberta_basic,
 	{
 		'name': 'Dreamed about a boat?',
 		'description': 'Interpret it with Elsewhere',
@@ -215,6 +238,7 @@ boat_supporters = [
 ]
 
 river_supporters = [
+	roberta_basic,
 	{
 		'name': 'Dreamed about a river?',
 		'description': 'Interpret it with Elsewhere',
@@ -239,6 +263,7 @@ fruit_supporters = [
 ]
 
 bone_supporters = [
+	roberta_basic,
 	{
 		'name': 'Dreamed about bones?',
 		'description': 'Interpret it with Elsewhere',
@@ -251,6 +276,7 @@ bone_supporters = [
 ]
 
 mirror_supporters = [
+	roberta_basic,
 	{
 		'name': 'Dreamed about a mirror?',
 		'description': 'Interpret it with Elsewhere',
@@ -263,6 +289,7 @@ mirror_supporters = [
 ]
 
 fish_supporters = [
+	roberta_basic,
 	{
 		'name': 'Dreamed about fish?',
 		'description': 'Interpret it with Elsewhere',

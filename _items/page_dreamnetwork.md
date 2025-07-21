@@ -31,6 +31,12 @@ Cover image: _Mirror_, by [Deborah Koff Chapin](../@deborahkoffchapin/)
 <hr>
 
 <div class="sidebar-link">
+<a href="https://gofund.me/1acd3fba">Please! Help Us Hold Our Family Together (Fundraiser for Roberta Ossana's family)</a></p>
+</div>
+
+<hr>
+
+<div class="sidebar-link">
 <a href="https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing">List of articles (Google sheet)</a></p>
 </div>
 

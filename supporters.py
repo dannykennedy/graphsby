@@ -479,6 +479,7 @@ supporters_by_page_id = {
 	'bcpov5globop': fruit_supporters,
 	# Bone
 	'bcpov6krdbf1': bone_supporters,
+	'bcpov6zfmabs': bone_supporters,
 	# Mirror
 	'bcpov6rsgsgm': mirror_supporters,
 

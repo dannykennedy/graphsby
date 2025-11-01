@@ -376,6 +376,19 @@ death_supporters = [
 	eastwest_basic
 ]
 
+# trees
+trees_supporters = [
+	{
+		'name': 'Dreamed about trees?',
+		'description': 'Interpret it with Elsewhere',
+		'descriptionB': 'Understand your dreams',
+		'profileImg': 'symbol-trees.png',
+		'url': 'https://interpret.elsewhere.to/en/symbols/tree/?src=dnj',
+		'target': '_blank'
+	},
+	eastwest_basic
+]
+
 supporters_by_page_id = {
 	# Ullman
 	'bcpov6rssull': ullman_supporters,
@@ -518,4 +531,7 @@ supporters_by_page_id = {
 
 	# flower
 	# 'bcpoy2htdfsa'
+
+	# Trees
+	# 'bcpov6krflyt': trees_supporters
 }

@@ -8,6 +8,7 @@ shortDescription: ""
 tags:
 date: 2022-10-21
 profileImg: author-bob-trowbridge.jpg
+coverImg: bobsbackground1.jpg
 websites:
     - name: bobtrowbridge.com
       url: https://web.archive.org/web/20210728072630/http://bobtrowbridge.com/about.html

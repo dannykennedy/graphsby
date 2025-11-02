@@ -26,16 +26,9 @@
             </div>
             <div class="card-header-text" style="padding-left: {{10 + (post.authors|length -1 ) * 20}}px">
                 <div class="card-author">
-                    {% if post.authors %} {% for author in post.authors %} {% if loop.index > 1 %}
-                    <span>,</span>
+                    {% if post.authors %}
+                    <span>{{ post.authors|format_authors }}</span>
                     {% endif %}
-
-                    <span>
-                        {% if author.name|length < 21 %} {{author.name}} {% elif post.authors|length < 2 %}
-                        {{author.name}} {% else %} {{ author.name[:-((author.name|length) - 21)] + "..."}} {% endif %}
-                    </span>
-
-                    {% endfor %} {% endif %}
                 </div>
                 <div class="card-date">{% if post.dateCreated %} {{post.dateCreated}} {% endif %}</div>
             </div>

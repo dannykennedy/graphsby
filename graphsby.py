@@ -17,7 +17,7 @@ from supporters import *
 sys.path.insert(1, './modules')
 from copytree import copytree
 from formatDate import formatDate
-from truncatePost import truncatePost
+from truncatePost import truncatePost, format_author_names
 from get_yaml_var import get_yaml_var
 from load_file_to_object import load_file_to_object
 from map_class_to_css_tag import map_class_to_css_tag
@@ -30,6 +30,7 @@ site_url = get_yaml_var("site", config_path)
 port = get_yaml_var("port", config_path)
 build = "prod"
 build_folder = "/_site"
+
 
 if sys.argv[1] in ["dev", "prod"]:
 	build = sys.argv[1]
@@ -51,6 +52,9 @@ PAGE_TEMPLATE_FILE = "page.html"
 post_template = templateEnv.get_template(POST_TEMPLATE_FILE)
 page_template = templateEnv.get_template(PAGE_TEMPLATE_FILE)
 POST_SNIPPET_LENGTH = 150
+
+# Register the custom filter
+templateEnv.filters['format_authors'] = format_author_names
 
 # Startup messages
 print("### Generating site ###")

@@ -30,3 +30,34 @@ def truncatePost(post_description, length, itemId):
 
 	return truncated_desc
 
+
+
+def format_author_names(authors, max_length=30):
+    """
+    Format author names with truncation for display in cards.
+    
+    Args:
+        authors: List of author dictionaries with 'name' key containing RDFlib Literal
+        max_length: Maximum length for the final joined string
+    
+    Returns:
+        Comma-separated string of author names, truncated to max_length
+    """
+    if not authors:
+        return ""
+    
+    # Extract all names and join them
+    names = []
+    for author in authors:
+        # Access as dictionary key and convert RDFlib Literal to string
+        name = str(author['name'])
+        names.append(name)
+    
+    # Join all names with commas
+    joined_names = ", ".join(names)
+    
+    # Truncate the joined string if it exceeds max_length
+    if len(joined_names) > max_length:
+        return joined_names[:max_length-3] + "..."
+    else:
+        return joined_names

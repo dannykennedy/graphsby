@@ -8,6 +8,7 @@ shortDescription: ""
 tags:
 date: 2022-10-21
 profileImg: author-jean-campbell.jpg
+coverImg: cover-jean-campbell.jpg
 websites:
     - name: World Dreams Peace Bridge
       url: https://www.worlddreamspeacebridge.org/

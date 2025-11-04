@@ -53,8 +53,6 @@
     font-weight: 100;
     box-sizing: border-box;
     padding: 24px;
-    min-width: 350px;
-    /* max-width: 600px; */
 }
 
 @media (max-width: 400px) {

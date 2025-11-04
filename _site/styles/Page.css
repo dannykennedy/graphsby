@@ -60,6 +60,7 @@ strong {
 
 .page-items {
     position: relative;
+    margin: auto;
 }
 
 .page-section {
@@ -74,6 +75,10 @@ strong {
     font-weight: 400;
     font-style: italic;
     padding-left: 20px;
+    width: 100%;
+    max-width: 1119px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #profile-image {

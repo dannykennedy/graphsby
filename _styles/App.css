@@ -62,6 +62,15 @@ button {
     clear: left;
 }
 
+/* Grid things */
+
+/* Stop the grid getting too wide because the cards get small */
+.featured-grid,
+.main-grid {
+    width: 100%;
+    max-width: 1119px;
+}
+
 @media (max-width: 900px) {
     #wrapper {
         padding: 60px 0px;

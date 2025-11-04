@@ -52,6 +52,7 @@ function showArticles(articleTypeToShow) {
         basewidth: 350,
         gutterX: 20,
         gutterY: 20,
+        surroundingGutter: false,
     });
 
     mainMasonry.layout();

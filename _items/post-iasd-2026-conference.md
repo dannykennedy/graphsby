@@ -1,35 +1,29 @@
 ---
-dateCreated: "2025-05-11T17:32:52"
-itemId: bcpov6gaiasd
+dateCreated: "2026-03-10T17:32:52"
+itemId: bcpov6giasd6
 layout: post
-name: "2025 IASD Conference"
+name: "2025 IASD Conference, Ashland Oregon"
 tags:
     - hasTag: dan
     - hasAuthor: dan
     - hasTag: noticeboard
 type: post
-urlSlug: "2025-iasd-conference"
-profileImg: iasd-2025-cropped.jpg
+urlSlug: "2026-iasd-conference"
+profileImg: iasd-2026-cropped.jpg
 ---
 
-<a href="https://www.iasdconferences.org/2025/">
-<img src="../images/iasd-2025.jpg" alt="IASD conference advertisement" width="100%" height="auto"/>
+<a href="https://www.iasdconferences.org/2026/">
+<img src="../images/iasd-2026.jpg" alt="IASD conference advertisement" width="100%" height="auto"/>
 </a>
 
-_Save the date! June 21-25, 2025._
+_Save the date! June 13-17, 2026._
 
-To make this year’s conference even more accessible to dreamers worldwide, in 2025 conference is held fully online. The virtual conference is designed to be live-streamed and interactive providing you with the same range of events that attendees have come to appreciate at our on-site conferences.
+The ancient temples of the Greek healing god Asclepius were vibrant centers of dreaming where people gathered in beautiful natural settings to refresh and stimulate their minds, bodies, and spirits. Ashland, Oregon is a modern-day version of an Asclepian dream temple, nestled in the Rogue River Valley and filled with spas, yoga centers, art galleries, cafes, clubs, theaters, and bookstores. Please join us in the magical dream-town of Ashland in 2026 for the 43rd annual conference of the IASD. In addition to our traditional conference programming, our Ashland hosts, **Angel Morgan** and [**Kelly Bulkeley**](../@kellybulkeley), have arranged a variety of special events and featured tracks to embrace a conference theme of Dreaming, Health, and Wellness in the vibrant atmosphere of Ashland.
 
-The 2025 IASD International Dream Conference includes:
+You will be in good company with world-renowned keynote speakers and more than 100 presenters from around the globe, offering lectures, symposia, panels, workshops, and morning dream groups, in a multidisciplinary program including the scientific, psychological, spiritual, artistic, healing, lucid, extraordinary, and multicultural aspects of dreaming.This year’s featured theme tracks include Dreams, Spirituality, and Philosophy as well as sessions which highlight the many ways in which dreaming can enhance Health and Wellness, both individually and collectively.
 
--   5 days of lectures, symposia, panels
--   interactive workshops
--   morning dream groups (English, Spanish and French!)
--   virtual receptions
--   an online art exhibit
--   a dream telepathy contest
--   and even a virtual dream ball.
+The healing power of art will be a major theme, with a special night out for conference attendees to see A Midsummer Night’s Dream at the Oregon Shakespeare Festival! Other fun events will include an Opening Reception, a Dream Art Exhibition/Reception, our annual Dream Telepathy Contest, and the ever-popular costume Dream Ball.
 
-[Dan Kennedy](../@dan), the humble webmaster of this site, will also be presenting about mapping the locations that people have dreamt about around the world. He will be presenting with [Andrusa Lawson](https://www.divinebydesign.org/website-active/about-us).
-
-[Registration](https://www.iasdconferences.org/2025/)
+[Registration](https://iasdconferences.org/2026/registration/)
+[Information about the conference](https://www.iasdconferences.org/2026/)
+[Keynote speakers](https://iasdconferences.org/2026/keynote-and-invited-speakers/)

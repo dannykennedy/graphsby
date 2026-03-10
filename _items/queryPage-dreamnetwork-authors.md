@@ -11,4 +11,4 @@ profileImg: tree-logo.png
 coverImg: cover-tree-ferrimani.jpg
 ---
 
-Here's an (alphabetical) list of all the authors, poets, illustrators and more whose Dream Network posts we've published so far. If you don't see someone you'd like to see, let us know! Email us at <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a>
+Here's an (alphabetical) list of all the authors, poets, illustrators and more whose Dream Network posts we've published so far. If you don't see someone you'd like to see, let us know! Email us at <a href="mailto:dreamnetwork1982@gmail.com">dreamnetwork1982@gmail.com</a>

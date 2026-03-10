@@ -17,7 +17,7 @@ The Dream Network Journal is a place for people to share the wonder and mystery 
 
 If you'd like to look up an individual author or article, there's a growing [authors page](../@dreamnetwork~contributors) here, and a (not-quite-complete) [list of Dream Network articles](https://docs.google.com/spreadsheets/d/1cfm83Fnx9m9Q_Bfu3bpDv2kQqUwDG6exOj-Zny-MnMw/edit?usp=sharing) in spreadsheet form.
 
-Please <a href="mailto:hello@dreamnetworkjournal.com">email us</a> for questions.
+Please <a href="mailto:dreamnetwork1982@gmail.com">email us</a> for questions.
 
 Cover image: _Mirror_, by [Deborah Koff Chapin](../@deborahkoffchapin/)
 

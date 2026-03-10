@@ -24,14 +24,14 @@ The Dream Network Journal ceased publication at the end of 2015, but in 2019 [Da
 
 **Thank you also to all the amazing authors and advisors** of the Dream Network, and all the editors prior to Roberta:
 
--   The original Network: [Bill Stimson](../@billstimson) - Dream Network Bulletin founder and editor, NYC (1982-1983), Sally Shute (Lucidity & Beyond), Chris Mathews and [Doug Cohen](../@dougcohen) (Fusion), Suzanne Keyes (Dream Craft)
--   [Chris Hudson](../@chrishudson) - editor, NYC (1983-1985)
--   [Robert Van De Castle](../@bobvandecastle) (now departed) & [Henry Reed](../@henryreed) (1985-1987)
--   [Bob Trowbridge](../@bobtrowbridge) and [Linda Magallón](../@caseyflyer), San Jose (1987 - 1989)
+- The original Network: [Bill Stimson](../@billstimson) - Dream Network Bulletin founder and editor, NYC (1982-1983), Sally Shute (Lucidity & Beyond), Chris Mathews and [Doug Cohen](../@dougcohen) (Fusion), Suzanne Keyes (Dream Craft)
+- [Chris Hudson](../@chrishudson) - editor, NYC (1983-1985)
+- [Robert Van De Castle](../@bobvandecastle) (now departed) & [Henry Reed](../@henryreed) (1985-1987)
+- [Bob Trowbridge](../@bobtrowbridge) and [Linda Magallón](../@caseyflyer), San Jose (1987 - 1989)
 
 This is tentatively an 'archive' site of the journal, in the absence of a current editor. If you think you're the person to shepherd the DNJ into a new era, please, let us know.
 
-You can contact us at: <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a>
+You can contact us at: <a href="mailto:dreamnetwork1982@gmail.com">dreamnetwork1982@gmail.com</a>
 
 ## A brief history of the Dream Network
 

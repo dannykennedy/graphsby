@@ -5,14 +5,14 @@ layout: post
 name: "Submissions"
 profileImg: 1.3-cover.jpg
 tags:
-  - hasAuthor: dreamnetwork
+    - hasAuthor: dreamnetwork
 type: post
 urlSlug: submissions
 ---
 
 The Dream Network invites dream-related submissions of any media or genre - articles, artwork, poetry, letters to the editor and more.
 
-Please send your submissions to <a href="mailto:hello@dreamnetworkjournal.com">hello@dreamnetworkjournal.com</a>.
+Please send your submissions to <a href="mailto:dreamnetwork1982@gmail.com">dreamnetwork1982@gmail.com</a>.
 
 Copyright for all submissions remains yours.
 

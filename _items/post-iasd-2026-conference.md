@@ -2,7 +2,7 @@
 dateCreated: "2026-03-10T17:32:52"
 itemId: bcpov6giasd6
 layout: post
-name: "2025 IASD Conference, Ashland Oregon"
+name: "2026 IASD Conference, Ashland Oregon"
 tags:
     - hasTag: dan
     - hasAuthor: dan

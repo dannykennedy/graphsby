@@ -15,9 +15,9 @@ urlSlug: "jungian-dreamwork-in-groups"
 metaDescription: "A description of how Jungian dreamwork can be conducted in a group setting, based on a workshop led by Robert Bosnak in Portland, Maine."
 ---
 
-<em>Editor's Note: The following is a description of how Jungian dreamwork can be conducted in a group setting, based on a workshop led by [Robert Bosnak](https://jungchicago.org/blog/speaker/bosnak-robert/) in Portland, Maine. It appeared in the <a href="../bcpov6zfsra/coat-of-many-colors">Coat of Many Colors</a></em>
+<em>Editor's Note: The following is a description of how Jungian dreamwork can be conducted in a group setting, based on a workshop led by [Robert Bosnak](../@robertbosnak) in Portland, Maine. It appeared in the <a href="../bcpov6zfsra/coat-of-many-colors">Coat of Many Colors</a></em>
 
-_"The dream is the most pure form of the imagination"_, said Jungian psychoanalyst [Robert Bosnak](../@robertbosnak) in presenting an intensive day-long workshop, _"Understanding and Working with your Dream"_, at St. Luke's Parish House in Portland, Maine, Feb. 5.
+_"The dream is the most pure form of the imagination"_, said Jungian psychoanalyst Robert Bosnak in presenting an intensive day-long workshop, _"Understanding and Working with your Dream"_, at St. Luke's Parish House in Portland, Maine, Feb. 5.
 
 Bosnak led the 30 workshop participants on a journey exploring the images of dreams. His workshop included an introduction to dream theory from a Jungian perspective, exercises to improve dream recall, and training in how to listen to and work with one's dreams.
 

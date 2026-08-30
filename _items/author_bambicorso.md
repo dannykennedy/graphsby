@@ -11,7 +11,7 @@ profileImg: author-bambi-corso.jpg
 coverImg: cover-author-bambi-corso.jpg
 websites:
     - name: www.BambiCorso.com
-      url: http://bambicorso.com/about-me/
+      url: https://bambicorso.com/#section-f3hUBnWhdc/
     - name: Facebook
       url: https://www.facebook.com/DreamTracking
     - name: Instagram

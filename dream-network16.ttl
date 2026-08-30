@@ -26908,10 +26908,6 @@ ns1:bcphbqerilr a ns1:User ;
     ns1:name "Linda Riebel"^^xsd:string ;
     ns1:profileImg "author_linda_riebel.jpg"^^xsd:string .
 
-<https://www.dannykennedy.co/dnj-ontology#http://bambicorso.com/about-me/> a ns1:Website ;
-    ns1:name "www.BambiCorso.com"^^xsd:string ;
-    ns1:url "http://bambicorso.com/about-me/"^^xsd:string .
-
 <https://www.dannykennedy.co/dnj-ontology#http://camerawilltravel.com/> a ns1:Website ;
     ns1:name "Camera Will Travel"^^xsd:string ;
     ns1:url "http://camerawilltravel.com/"^^xsd:string .
@@ -27015,6 +27011,10 @@ ns1:bcphbqerilr a ns1:User ;
 <https://www.dannykennedy.co/dnj-ontology#https://awakenthesacreddream.com/> a ns1:Website ;
     ns1:name "awakenthesacreddream.com"^^xsd:string ;
     ns1:url "https://awakenthesacreddream.com/"^^xsd:string .
+
+<https://www.dannykennedy.co/dnj-ontology#https://bambicorso.com/#section-f3hUBnWhdc/> a ns1:Website ;
+    ns1:name "www.BambiCorso.com"^^xsd:string ;
+    ns1:url "https://bambicorso.com/#section-f3hUBnWhdc/"^^xsd:string .
 
 <https://www.dannykennedy.co/dnj-ontology#https://brendaferrimanidreamart.com/> a ns1:Website ;
     ns1:name "brendaferrimanidreamart.com"^^xsd:string ;
@@ -30309,7 +30309,9 @@ ns1:bcphbqsobos a ns1:User ;
     ns1:coverImg "header-author-robertbosnak.jpg"^^xsd:string ;
     ns1:description """<p>Website: <a href="https://embodiedimagination.com/">embodiedimagination.com</a></p>
 
-<p>Robbie Bosnak is a Jungian analyst specializing in embodied dreamwork and the application of dreamwork to physical healing. He is the author of <em>A Little Course in Dreams</em>, <em>Dreaming with an AIDS Patient</em>, and <a href="../bcpov6gtibos/tracks-in-the-wilderness-of-dreaming-book-review"><em>Tracks in the Wilderness of Dreaming</em></a>. Robbie cohosted the website cyberdreamwork.com with Jill Fisher, and together they initiated the National Nightmare Hotline in cooperation with the Association for the Study of Dreams in response to the September 11 crisis. Traveling frequently in Europe, Japan, and Australia, Robbie is interested in cross-cultural dreaming, runs an international training for dreamwork coaches, and has been involved in a project on emotion-recognition by computers. He has led group experiments in dream incubation in France to access Stone Age dreaming while sleeping in Neolithic Caves.</p>
+<p>President, <a href="https://www.attunemedialabs.com/#company">Attune Media Labs</a></p>
+
+<p>Robbie Bosnak is a Jungian analyst specializing in embodied dreamwork and the application of dreamwork to physical healing. He is the author of <em>A Little Course in Dreams</em>, <em>Dreaming with an AIDS Patient</em>, and <a href="../bcpov6gtibos/tracks-in-the-wilderness-of-dreaming-book-review"><em>Tracks in the Wilderness of Dreaming</em></a>. Robbie cohosted the website cyberdreamwork.com with Jill Fisher, and together they initiated the National Nightmare Hotline in cooperation with the Association for the Study of Dreams in response to the September 11 crisis. Traveling frequently in Europe, Japan, and Australia, Robbie is interested in cross-cultural dreaming, runs an international training for dreamwork coaches, and has been involved in a project on emotion-recognition by computers. He has led group experiments in dream incubation in France to access Stone Age dreaming while sleeping in Neolithic Caves. He is currently president of <a href="https://www.attunemedialabs.com/#company">Attune Media Labs</a>.</p>
 """^^xsd:string ;
     ns1:handle "robertbosnak"^^xsd:string ;
     ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://embodiedimagination.com/> ;
@@ -32099,8 +32101,8 @@ ns1:bcpovcrediv a ns1:Topic ;
     ns1:shortName "Interviews"^^xsd:string .
 
 ns1:bcphbqvcors a ns1:User ;
-    owl:sameAs "http://bambicorso.com/about-me/"^^xsd:string,
-        "http://www.linkedin.com/in/bambicorso"^^xsd:string,
+    owl:sameAs "http://www.linkedin.com/in/bambicorso"^^xsd:string,
+        "https://bambicorso.com/#section-f3hUBnWhdc/"^^xsd:string,
         "https://www.facebook.com/DreamTracking"^^xsd:string,
         "https://www.instagram.com/dreamtracking"^^xsd:string,
         "https://www.youtube.com/bambicorso"^^xsd:string ;
@@ -32132,8 +32134,8 @@ ns1:bcphbqvcors a ns1:User ;
 <p><a href="http://www.linkedin.com/in/bambicorso">http://www.linkedin.com/in/bambicorso</a></p>
 """^^xsd:string ;
     ns1:handle "bambicorso"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://bambicorso.com/about-me/>,
-        <https://www.dannykennedy.co/dnj-ontology#http://www.linkedin.com/in/bambicorso>,
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#http://www.linkedin.com/in/bambicorso>,
+        <https://www.dannykennedy.co/dnj-ontology#https://bambicorso.com/#section-f3hUBnWhdc/>,
         <https://www.dannykennedy.co/dnj-ontology#https://www.facebook.com/DreamTracking>,
         <https://www.dannykennedy.co/dnj-ontology#https://www.instagram.com/dreamtracking>,
         <https://www.dannykennedy.co/dnj-ontology#https://www.youtube.com/bambicorso> ;

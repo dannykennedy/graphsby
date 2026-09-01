@@ -12,6 +12,11 @@ tags:
 type: post
 urlSlug: "review-of-james-hillmans-the-souls-code"
 profileImg: hillman-book.jpg
+about:
+    - type: Book
+      name: "The Soul's Code: In Search of Character and Calling"
+      sameAs:
+          - https://www.goodreads.com/book/show/1821845
 ---
 
 <a href="https://ia601909.us.archive.org/25/items/the-souls-code-in-search-of-character-and-calling-james-hillman/The%20Soul%E2%80%99s%20Code_%20In%20Search%20of%20Character%20and%20Calling%20%28%20PDFDrive.com%20%29.pdf">

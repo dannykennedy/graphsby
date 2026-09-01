@@ -389,21 +389,6 @@ ns1:bcphbsignup a ns1:Page ;
     ns1:name "What about me?"^^xsd:string ;
     ns1:profileImg "tree-logo.png"^^xsd:string .
 
-ns1:bcphbslvedc a ns1:Post ;
-    ns1:coverImg "16.3-cover.jpg"^^xsd:string ;
-    ns1:dateCreated "1997-07-01T11:32:52"^^xsd:dateTime ;
-    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_16/16.3-Dream-Network-Vol-16-No-3.pdf" download="">Download issue 16.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_16/16.3-Dream-Network-Vol-16-No-3.pdf">View online</a></p>
-"""^^xsd:string ;
-    ns1:hasAuthor ns1:bcphbq3xdnj ;
-    ns1:hasTag ns1:bcphbq3xdnj,
-        ns1:bcpqobaotyu ;
-    ns1:itemId "bcphbslvedc"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Volume 16, issue 3: The Wit & Wisdom in Dreams"^^xsd:string ;
-    ns1:profileImg "16.3-rect.jpg"^^xsd:string ;
-    ns1:subType "PublicationIssue"^^xsd:string ;
-    ns1:urlSlug "16.3"^^xsd:string .
-
 ns1:bcplz7zfbdac a ns1:Post ;
     ns1:dateCreated "1993-10-04T11:32:52"^^xsd:dateTime ;
     ns1:description """<p><em>The following exchange took place in the Dream Network Journal starting with the initial classified in Issue 12.4 (1993), and continuing with Daren Wilson's letter the editor (15.4, 1996), and a follow-up letter from Joy Gates (16.1, 1997)</em></p>
@@ -7712,6 +7697,86 @@ ns1:bcpov6gtibos a ns1:Post ;
     ns1:name "Book Review: 'Tracks in the Wilderness of Dreaming' by Robert Bosnak"^^xsd:string ;
     ns1:profileImg "tracksinwilderne00bosn.jpeg"^^xsd:string ;
     ns1:urlSlug "tracks-in-the-wilderness-of-dreaming-book-review"^^xsd:string .
+
+ns1:bcpov6gtvjhs a ns1:Post ;
+    ns1:dateCreated "1997-07-02T11:32:52"^^xsd:dateTime ;
+    ns1:description """<a href="https://ia601909.us.archive.org/25/items/the-souls-code-in-search-of-character-and-calling-james-hillman/The%20Soul%E2%80%99s%20Code_%20In%20Search%20of%20Character%20and%20Calling%20%28%20PDFDrive.com%20%29.pdf">
+
+<img src="../images/hillman-book.jpg" width="200px" height="auto" alt="The Soul's Code book cover"/>
+
+</a><!--nopreview--><div style="text-align:center"><i><a href="https://ia601909.us.archive.org/25/items/the-souls-code-in-search-of-character-and-calling-james-hillman/The%20Soul%E2%80%99s%20Code_%20In%20Search%20of%20Character%20and%20Calling%20%28%20PDFDrive.com%20%29.pdf">The Soul's Code: In Search of Character and Calling by James Hillman. Random House, New York, NY, 1996</a></i></div><!--/nopreview-->
+
+<p>I picked up Hillman's book <em>The Soul's Code, In Search of Character and Calling</em> expecting to find a simple methodology which would help me identify my next life stage. Though I was not handed an easy "1-2-3 guide to your new career," Hillman's opus turned many of my favorite psychological processes upside down, delighting me intellectually, teasing me spiritually, and challenging my soul to trust the process as it unfolds in my life. His book is not only a provocative read, it is a revisioning of human psychology.</p>
+
+<p>Hillman advocates an approach to "character" which transcends the Freudian concept of sexual sublimation as motivation for one's character traits, the Jungian notion of alignment with a greater, collective, transcendent, eternal Self, and the most recent Inner Child approach to psychology which pins the foundations of our existing character on the tribulations of our early parenting. Hillman builds on these earlier ideologies. He weaves a larger cloth, using threads from the past but not limited by their mind sets. In this respect his is truly a Great Work. His theory is an evolution of psychology more than it is a revolution (a term the author might find more gratifying).</p>
+
+<p><img src="../images/acorn.jpg" width="200px" height="auto" alt="Acorn"/></p>
+
+<p>His central theory is that of the "acorn," his metaphor for calling, the "daimon" of the Greeks. Ideally, he says, the acorn falls from the sky and doesn't just "grow up," it "grows down" into the ground, our earthly life.</p>
+
+<p>Using Hillman's biographical process I reviewed my life. Have I ever been clear about my calling? He suggests that the evidence of "acorn" is present and visible at all ages. When I was eight, I remember telling my teachers, that I would like to grow up and become a nun or a priest, but with four children. These Roman Catholic Nuns were quick to advise me that my secular and religious ambitions were not compatible and women would never be priests. I should pray for the courage to choose a religious vocation over the more ordinary secular path. Now, in my mid forties, I live with my four children, am pursuing my degree in Religious Studies, am dedicated to my ongoing spiritual journey, and live an aesthetic if not ascetic monastic lifestyle.</p>
+
+<p>Hillman's theory is that the acorn of my soul knew at some great and deep level that at mid life, I would find myself dedicated to my four kids and my spiritual path, both. As I told the kids last week, I have chosen to live a life of simplicity (the vow of poverty), I have chosen to live obedient to the voice of God within (a process which undergoes many changes as I evolve), and for now anyway, I live a chaste life (which I said was just bad luck!). We all laughed. So it could be argued that I live a modified monastic lifestyle. The eight year old wasn't far wrong!</p>
+
+<p>Hillman suggests that my acorn has used every circumstance, in effect "choosing" the many trials of my youth and young adult life to enhance, highlight and hone a character which is perfectly suited to the task of my own particular calling. For instance, when my marriage was complete the acorn led me to move on, seemingly mindful of its need to have peace, solitude and much free time as a nurturing environment for creative work. If my daimon needs freedom ... by God, he'll create it! The gods will be served! This is not so much because of the pains of my youth, according to Soul's Code, but in aid of the task, the opus.</p>
+
+<p>That is not to condone the betrayal, the abuse, or the slings and arrows of our outrageous fortunes. The acorn of my soul saw me through my trials, like a guardian angel, like the higher self, like the hand of God, guiding, protecting, directing, providing me with the desire to grow from it all. To heal is not only to acknowledge the pain of the past, but also to recognize the gift we have grown as survivors, often an equal and opposite gift to the pain and betrayal. Hillman takes strides forward into personal accountability, away from the narcissistic victimology of popular self help groups. He emphasizes over and over again, not to focus on the why of the past, nor to focus on the what of the future. Instead, he asks us to use every aspect of daily life to carve, to nurture, to define, to discriminate what the innate impulses, fantasies, thoughts, loves, even accidents of our lives are seeking to express. Imagine the acorn as a magnet and the facts of our biography as metal shavings, and you'll get the picture of the intentionality and power of the acorn, the daimon that "drives" us into our fate.</p>
+
+<p>Once the acorn is identified, in ourselves, in our children, in our clients, Hillman advocates a "growing down" rather than a "growing up." The acorn comes from the realm of the gods, way above our heads, from the crown of the mighty oak. Its purpose and potentiality, its very nature is transcendent. In itself, the acorn is but a Saturday afternoon snack for a squirrel. But if this acorn lands, develops a relationship with the soil of everyday life, grows down and sets roots, it will grow to feed a whole community of squirrels. In psychological terms, this is similar to the process of becoming conscious (landing), individuating (growing roots and a full crown) and self-actualizing (harvesting).</p>
+
+<p>Like Thomas Moore in "Care of the Soul," Hillman has taken the approach I first encountered through feminist and creation spirituality's of marrying the transcendent with the immanent: living in light yet befriending the earth, the dark, the moist and fertile, the humble and the ordinary. Where ordinary life and extraordinary "acorn-ness" meet, HERE is genius manifest, HERE is wholeness, HERE is "heaven on earth." This is the "coniunctio" the inner marriage of God and Goddess, soul and spirit.</p>
+
+<p>To accomplish this, Hillman advises us to find a place in our midst to exercise the gift of Self. We need to learn to accept the limitations of our earthly vessels (relationships, institutions, family of origin, etc). . He writes:</p>
+
+<p>In his last chapter on methodology, he talks at length about the similarity of the acorn with the glans of the penis. His theory too, seems primarily masculine oriented. It has "sprung from the puer eternus" the archetype of eternal male youth. It knows the sky (the speculative, dreaminess of youth), and with effort and humility learns to know the earth (the pragmatic realities of life).</p>
+
+<p>After more than ten years of study in feminist thought, I have developed an ability to translate masculine ideology into my own feminine dialect, instead of prejudging it as irrelevant to me as a woman. I am left feeling inspired with Hillman's way of revisiting biography. I have a renewed faith that all aspects of my life have been on purpose and a serenity borne of trust that the acorn does have its way in my life. I still don't know what I'm going to do with my life when the kids leave home, yet I've begun to investigate options that I might have previously judged as too "limiting." But right now it seems enough to spend time with my journal, feed my kids, write a few articles, read many books, counsel a few clients, seek to know God, embody the Goddess and wait for Godot, Kafka-style:</p>
+
+<pre>
+
+You don't need to leave your room,
+
+Remain sitting at your table and listen.
+
+Don't even listen, simply wait,
+
+Don't even wait.
+
+Be quite still and solitary.
+
+The world will freely offer itself to you.
+
+To be unmasked, it has no choice.
+
+It will roll in ecstasy at your feet.
+
+</pre>
+
+<p><em>Franz Kafka</em></p>
+
+<h2>Bibliography</h2>
+
+<ul>
+<li><p>Hillman, James The Soul's Code, in Search of Character and Calling, Random House, New York, NY, 1996.</p></li>
+<li><p>Hollis, James, The Middle Passage, From Misery to Meaning in MidLife, Inner City Books, 1993.</p></li>
+<li><p>Miller, Alice The Drama of the Gifted Child, Basic Books, 1981.</p></li>
+<li><p>Pollard III, John D. Self Parenting, The Complete Guide to Your Inner Conversations, Generic Human Studies Publishing, Malibu, California, 1987.</p></li>
+</ul>
+
+<p><img src="../images/5d55ce49-29a1-485b-9a1a-25cf45a91374-46_672_539_217_1313.jpg" width="300px" height="auto" alt="Acorn"/></p>
+
+<p><em>Herman experiences a quantum pop in time as he suddenly finds himself turning in a test that hasn't even been passed out yet.</em></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbqnobsn ;
+    ns1:hasTag ns1:bcphbqnobsn,
+        ns1:bcphbslvedc ;
+    ns1:hasTopic ns1:bcpovcretdb ;
+    ns1:inIssue ns1:bcphbslvedc ;
+    ns1:itemId "bcpov6gtvjhs"^^xsd:string ;
+    ns1:layout "post"^^xsd:string ;
+    ns1:name "Review of James Hillman's The Soul's Code"^^xsd:string ;
+    ns1:profileImg "hillman-book.jpg"^^xsd:string ;
+    ns1:urlSlug "review-of-james-hillmans-the-souls-code"^^xsd:string .
 
 ns1:bcpov6gtvppp a ns1:Post ;
     ns1:dateCreated "2006-04-02T11:32:52"^^xsd:dateTime ;
@@ -28512,6 +28577,21 @@ ns1:bcphbrptpuy a ns1:Post ;
     ns1:subType "PublicationIssue"^^xsd:string ;
     ns1:urlSlug "14.4"^^xsd:string .
 
+ns1:bcphbslvedc a ns1:Post ;
+    ns1:coverImg "16.3-cover.jpg"^^xsd:string ;
+    ns1:dateCreated "1997-07-01T11:32:52"^^xsd:dateTime ;
+    ns1:description """<p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_16/16.3-Dream-Network-Vol-16-No-3.pdf" download="">Download issue 16.3</a></p><p style="margin-block-end: 5px; margin-block-start: 5px;"><a href="../files/pdfs/Volume_16/16.3-Dream-Network-Vol-16-No-3.pdf">View online</a></p>
+"""^^xsd:string ;
+    ns1:hasAuthor ns1:bcphbq3xdnj ;
+    ns1:hasTag ns1:bcphbq3xdnj,
+        ns1:bcpqobaotyu ;
+    ns1:itemId "bcphbslvedc"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Volume 16, issue 3: The Wit & Wisdom in Dreams"^^xsd:string ;
+    ns1:profileImg "16.3-rect.jpg"^^xsd:string ;
+    ns1:subType "PublicationIssue"^^xsd:string ;
+    ns1:urlSlug "16.3"^^xsd:string .
+
 ns1:bcphbvob4z7 a ns1:Post ;
     ns1:coverImg "22.3-cover.jpg"^^xsd:string ;
     ns1:dateCreated "2003-07-01T11:32:52"^^xsd:dateTime ;
@@ -29258,20 +29338,6 @@ ns1:bcphbqhutch a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Lint Hutchinson"^^xsd:string ;
     ns1:profileImg "author-linton-hutchinson.jpg"^^xsd:string .
-
-ns1:bcphbqnobsn a ns1:User ;
-    owl:sameAs "https://www.linkedin.com/in/suzanne-nadon-80a795283"^^xsd:string ;
-    ns1:coverImg "cover_author-suzannenadon.jpeg"^^xsd:string ;
-    ns1:description """<p>Suzanne is a writer, and a retired adult educator, counselor and ordained minister who lives and practices a "spiritually earthy" psycho-spirituality. Suzanne draws deeply from Jungian Psychology, Creation Spirituality, Christian Mysticism and teachings from Aboriginal cultures around the world in her work. She has authored seven books about her experience of a renewed earth-based culture and published numerous articles in Canadian and American magazines and grass-roots newsletters which focus on transpersonal psychology and a renewed earth centered awareness. She is married with seven children and thirteen grandchildren. She lives in Owen Sound, Ontario with her husband Rick.</p>
-
-<p><a href="https://www.amazon.ca/-/fr/Radiant-Grace-Nadon-Family-Story/dp/B0F4LNW2WB">A Radiant Grace: The Nadon Family Story</a></p>
-"""^^xsd:string ;
-    ns1:handle "suzannenadon"^^xsd:string ;
-    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/suzanne-nadon-80a795283> ;
-    ns1:itemId "bcphbqnobsn"^^xsd:string ;
-    ns1:layout "page"^^xsd:string ;
-    ns1:name "Suzanne Nadon"^^xsd:string ;
-    ns1:profileImg "author_suzannenadon.jpeg"^^xsd:string .
 
 ns1:bcphbqsuelo a ns1:User ;
     owl:sameAs "http://zerocurrency.blogspot.com/"^^xsd:string,
@@ -30303,6 +30369,20 @@ ns1:bcphbqmotte a ns1:User ;
     ns1:layout "page"^^xsd:string ;
     ns1:name "Marie Otte"^^xsd:string ;
     ns1:profileImg "author-marieotte.jpg"^^xsd:string .
+
+ns1:bcphbqnobsn a ns1:User ;
+    owl:sameAs "https://www.linkedin.com/in/suzanne-nadon-80a795283"^^xsd:string ;
+    ns1:coverImg "cover_author-suzannenadon.jpeg"^^xsd:string ;
+    ns1:description """<p>Suzanne is a writer, and a retired adult educator, counselor and ordained minister who lives and practices a "spiritually earthy" psycho-spirituality. Suzanne draws deeply from Jungian Psychology, Creation Spirituality, Christian Mysticism and teachings from Aboriginal cultures around the world in her work. She has authored seven books about her experience of a renewed earth-based culture and published numerous articles in Canadian and American magazines and grass-roots newsletters which focus on transpersonal psychology and a renewed earth centered awareness. She is married with seven children and thirteen grandchildren. She lives in Owen Sound, Ontario with her husband Rick.</p>
+
+<p><a href="https://www.amazon.ca/-/fr/Radiant-Grace-Nadon-Family-Story/dp/B0F4LNW2WB">A Radiant Grace: The Nadon Family Story</a></p>
+"""^^xsd:string ;
+    ns1:handle "suzannenadon"^^xsd:string ;
+    ns1:hasWebsite <https://www.dannykennedy.co/dnj-ontology#https://www.linkedin.com/in/suzanne-nadon-80a795283> ;
+    ns1:itemId "bcphbqnobsn"^^xsd:string ;
+    ns1:layout "page"^^xsd:string ;
+    ns1:name "Suzanne Nadon"^^xsd:string ;
+    ns1:profileImg "author_suzannenadon.jpeg"^^xsd:string .
 
 ns1:bcphbqsobos a ns1:User ;
     owl:sameAs "https://embodiedimagination.com/"^^xsd:string ;
